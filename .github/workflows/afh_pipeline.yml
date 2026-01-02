@@ -1,0 +1,74 @@
+# .github/workflows/afh_pipeline.yml
+name: AFH Daily Pipeline
+
+on:
+  schedule:
+    # Run once daily at 09:00 UTC (adjust if needed)
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    env:
+      AFH_RUN_DATE: $(date +%F)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set run date
+        run: echo "AFH_RUN_DATE=$(date +%F)" >> $GITHUB_ENV
+
+      - name: Create log directory
+        run: |
+          mkdir -p logs/${AFH_RUN_DATE}
+
+      - name: Run AFH pipeline
+        run: |
+          set -e
+          ./scripts/run_pipeline.sh \
+            > logs/${AFH_RUN_DATE}/pipeline.log 2>&1
+
+      - name: Run integrity checks
+        run: |
+          set -e
+          ./scripts/afh-check.sh \
+            > logs/${AFH_RUN_DATE}/integrity.log 2>&1
+
+      - name: Commit results
+        run: |
+          git config user.name "afh-bot"
+          git config user.email "afh-bot@users.noreply.github.com"
+
+          git add data/ catalogs/ logs/${AFH_RUN_DATE}
+
+          git commit -m "AFH pipeline run ${AFH_RUN_DATE}" || echo "No changes to commit"
+          git push
+
+      - name: Email alert on failure
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          secure: false
+          username: ${{ secrets.ALERT_EMAIL_USER }}
+          password: ${{ secrets.ALERT_EMAIL_PASS }}
+          subject: "AFH PIPELINE FAILED — ${{ env.AFH_RUN_DATE }}"
+          body: |
+            AFH pipeline failed.
+
+            Date: ${{ env.AFH_RUN_DATE }}
+            Repo: ${{ github.repository }}
+            Workflow: ${{ github.workflow }}
+            Run ID: ${{ github.run_id }}
+
+            Check logs:
+            logs/${{ env.AFH_RUN_DATE }}/
+
+          to: ${{ secrets.ALERT_EMAIL_TO }}
+          from: "AFH Pipeline <afh-alerts@local>"
+
+
