@@ -82,23 +82,23 @@ def main():
     if not run("claude_created_4.0_verdict_routing.py"):
         log_failure("verdict_routing", "*", "ROUTE_003", "HOLD")
 
-    # STEP 5 — ARR Scoring (optional secondary)
+    # STEP 5 — Tag Holding (tag HOLD/EXCLUDE immediately)
+    run("claude_created_9.0_tag_holding.py")
+
+    # STEP 6 — ARR Scoring (optional secondary)
     run("claude_created_5.0_arr_scoring.py")  # never blocks
 
-    # STEP 6 — FO Intake (Q1–Q10)
+    # STEP 7 — FO Intake (Q1–Q10)
     if not run("claude_created_6.0_fo_intake_enrich.py"):
         log_failure("fo_intake", "*", "INTAKE_005", "HOLD")
 
-    # STEP 7 — AF Gate
+    # STEP 8 — AF Gate
     if not run("claude_created_7.0_af_gate.py"):
         log_failure("af_gate", "*", "GATE_006", "HOLD")
 
-    # STEP 8 — Promote to Catalog
+    # STEP 9 — Promote to Catalog
     if not run("claude_created_8.0_promote_to_catalog.py"):
         log_failure("af_bucket", "*", "AF_007", "HOLD")
-
-    # STEP 9 — Tag Holding (optional)
-    run("claude_created_9.0_tag_holding.py")
 
     # STEP 10 — Metrics
     run("claude_created_10.0_daily_metrics_rollup.py")
