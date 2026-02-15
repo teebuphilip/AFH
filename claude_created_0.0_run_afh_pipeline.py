@@ -8,7 +8,7 @@ Safe to cron. No CLI args. Deterministic control flow.
 
 import subprocess
 import json
-from datetime import datetime
+from datetime import datetime, date
 from pathlib import Path
 from typing import List
 
@@ -86,18 +86,31 @@ def main():
     run("claude_created_5.0_arr_scoring.py")  # never blocks
 
     # STEP 6 — FO Intake (Q1–Q10)
-    if not run("claude_created_6.0_fo_intake_enrich.py"):
-        log_failure("fo_intake", "*", "INTAKE_005", "HOLD")
+    run_date = date.today().isoformat()
+    keep_dir = Path("data") / "runs" / run_date / "verdicts" / "keep"
+    keep_files = list(keep_dir.glob("*.json")) if keep_dir.exists() else []
+
+    if keep_files:
+        if not run("claude_created_6.0_fo_intake_enrich.py"):
+            log_failure("fo_intake", "*", "INTAKE_005", "HOLD")
+    else:
+        print("⏭️  Skipping FO intake - no KEEP ideas")
 
     # STEP 7 — AF Gate
-    if not run("claude_created_7.0_af_gate.py"):
-        log_failure("af_gate", "*", "GATE_006", "HOLD")
+    fo_dir = Path("data") / "fo_intake"
+    fo_files = list(fo_dir.glob("*.json")) if fo_dir.exists() else []
+
+    if fo_files:
+        if not run("claude_created_7.0_af_gate.py"):
+            log_failure("af_gate", "*", "GATE_006", "HOLD")
+    else:
+        print("⏭️  Skipping AF gate - no FO intake files")
 
     # STEP 8 — Promote to Catalog
     if not run("claude_created_8.0_promote_to_catalog.py"):
         log_failure("af_bucket", "*", "AF_007", "HOLD")
 
-    # STEP 9 — Tag Holding (optional)
+    # STEP 9 — Tag Holding (tag all HOLD/EXCLUDE from all runs)
     run("claude_created_9.0_tag_holding.py")
 
     # STEP 10 — Metrics
