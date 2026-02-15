@@ -82,13 +82,10 @@ def main():
     if not run("claude_created_4.0_verdict_routing.py"):
         log_failure("verdict_routing", "*", "ROUTE_003", "HOLD")
 
-    # STEP 5 — Tag Holding (tag HOLD/EXCLUDE immediately)
-    run("claude_created_9.0_tag_holding.py")
-
-    # STEP 6 — ARR Scoring (optional secondary)
+    # STEP 5 — ARR Scoring (optional secondary)
     run("claude_created_5.0_arr_scoring.py")  # never blocks
 
-    # STEP 7 — FO Intake (Q1–Q10)
+    # STEP 6 — FO Intake (Q1–Q10)
     run_date = date.today().isoformat()
     keep_dir = Path("data") / "runs" / run_date / "verdicts" / "keep"
     keep_files = list(keep_dir.glob("*.json")) if keep_dir.exists() else []
@@ -99,7 +96,7 @@ def main():
     else:
         print("⏭️  Skipping FO intake - no KEEP ideas")
 
-    # STEP 8 — AF Gate
+    # STEP 7 — AF Gate
     fo_dir = Path("data") / "fo_intake"
     fo_files = list(fo_dir.glob("*.json")) if fo_dir.exists() else []
 
@@ -109,9 +106,12 @@ def main():
     else:
         print("⏭️  Skipping AF gate - no FO intake files")
 
-    # STEP 9 — Promote to Catalog
+    # STEP 8 — Promote to Catalog
     if not run("claude_created_8.0_promote_to_catalog.py"):
         log_failure("af_bucket", "*", "AF_007", "HOLD")
+
+    # STEP 9 — Tag Holding (tag all HOLD/EXCLUDE from all runs)
+    run("claude_created_9.0_tag_holding.py")
 
     # STEP 10 — Metrics
     run("claude_created_10.0_daily_metrics_rollup.py")
