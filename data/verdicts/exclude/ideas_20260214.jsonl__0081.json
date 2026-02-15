@@ -1,0 +1,14 @@
+{
+  "idea_text": "A solution that automates social media post scheduling based on user engagement metrics.",
+  "overlay_score": 38.0,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 45,
+    "competition_inverse": 45
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.539634",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,14 @@
+{
+  "idea_text": "An application that schedules and sends personalized email campaigns based on user behavior.",
+  "overlay_score": 43.0,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 85,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.525048",
+  "verdict_source": "overlay_score"
+}

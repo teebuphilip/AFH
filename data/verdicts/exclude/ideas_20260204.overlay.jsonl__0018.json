@@ -1,0 +1,15 @@
+{
+  "idea_text": "A tool that automates compliance checks by scanning documents for required information.",
+  "overlay_score": 42.25,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_count": 40,
+    "automation": 55,
+    "market_clarity": 45,
+    "competition_inverse": 50
+  },
+  "overlay_scored_at": "2026-02-04T15:18:41.856723",
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-09T13:43:45.839760",
+  "verdict_source": "overlay_score"
+}

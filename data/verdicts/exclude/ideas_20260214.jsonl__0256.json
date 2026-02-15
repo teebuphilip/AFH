@@ -1,0 +1,14 @@
+{
+  "idea_text": "An automation that processes payroll data and generates tax forms and reports for small businesses.",
+  "overlay_score": 63.0,
+  "overlay_components": {
+    "pricing_power": 40,
+    "user_feasibility": 90,
+    "automation": 70,
+    "market_clarity": 45,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.587414",
+  "verdict_source": "overlay_score"
+}

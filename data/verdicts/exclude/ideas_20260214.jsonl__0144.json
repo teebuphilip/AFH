@@ -1,0 +1,14 @@
+{
+  "idea_text": "A platform that tracks and reports on compliance training completion rates.",
+  "overlay_score": 46.5,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 70,
+    "market_clarity": 55,
+    "competition_inverse": 45
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.560843",
+  "verdict_source": "overlay_score"
+}

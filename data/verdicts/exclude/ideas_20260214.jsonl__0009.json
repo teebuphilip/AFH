@@ -1,0 +1,14 @@
+{
+  "idea_text": "A service that automatically backs up and archives project files from cloud storage.",
+  "overlay_score": 40.0,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 45,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.521979",
+  "verdict_source": "overlay_score"
+}

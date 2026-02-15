@@ -1,0 +1,15 @@
+{
+  "idea_text": "A platform that automates invoice processing and payment tracking for small businesses.",
+  "overlay_score": 52.25,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_count": 85,
+    "automation": 50,
+    "market_clarity": 45,
+    "competition_inverse": 50
+  },
+  "overlay_scored_at": "2026-02-04T15:18:41.858333",
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-09T13:43:45.857775",
+  "verdict_source": "overlay_score"
+}

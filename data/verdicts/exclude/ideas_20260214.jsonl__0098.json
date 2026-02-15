@@ -1,0 +1,14 @@
+{
+  "idea_text": "An application that syncs calendar events across multiple platforms without manual input.",
+  "overlay_score": 41.5,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 50,
+    "market_clarity": 55,
+    "competition_inverse": 45
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.546450",
+  "verdict_source": "overlay_score"
+}

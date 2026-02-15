@@ -1,0 +1,15 @@
+{
+  "idea_text": "A tool that automatically generates custom marketing materials and social media content for small businesses, based on their branding and target audience.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 90,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 52,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-02-15T16:06:33.780968",
+  "verdict_source": "overlay_score"
+}

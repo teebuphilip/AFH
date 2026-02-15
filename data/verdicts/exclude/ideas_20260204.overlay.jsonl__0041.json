@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that automates content translation workflows for global teams.",
+  "overlay_score": 51.75,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_count": 85,
+    "automation": 50,
+    "market_clarity": 40,
+    "competition_inverse": 50
+  },
+  "overlay_scored_at": "2026-02-04T15:18:41.857175",
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-09T13:43:45.844594",
+  "verdict_source": "overlay_score"
+}

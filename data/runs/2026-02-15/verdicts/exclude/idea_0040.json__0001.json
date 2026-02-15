@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors and analyzes web traffic data for small business owners, providing insights and recommendations to improve their online presence.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 70,
+    "market_clarity": 50,
+    "competition_inverse": 40
+  },
+  "overlay_score": 48,
+  "arr_score": 47,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-15T16:06:33.779835",
+  "verdict_source": "overlay_score"
+}

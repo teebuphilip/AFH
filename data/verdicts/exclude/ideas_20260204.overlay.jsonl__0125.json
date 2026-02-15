@@ -1,0 +1,15 @@
+{
+  "idea_text": "An application that automates data backup and synchronization across cloud services.",
+  "overlay_score": 43.5,
+  "overlay_components": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 50,
+    "market_clarity": 40,
+    "competition_inverse": 50
+  },
+  "overlay_scored_at": "2026-02-04T15:18:41.858839",
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-09T13:43:45.863057",
+  "verdict_source": "overlay_score"
+}

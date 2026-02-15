@@ -1,0 +1,14 @@
+{
+  "idea_text": "A tool for automatic formatting and submission of tax documents for freelancers.",
+  "overlay_score": 51.25,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 75,
+    "automation": 50,
+    "market_clarity": 45,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.562440",
+  "verdict_source": "overlay_score"
+}

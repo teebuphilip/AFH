@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors and analyzes online reviews and customer feedback for small businesses, providing insights and recommendations to improve their customer experience.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 90,
+    "automation": 70,
+    "market_clarity": 50,
+    "competition_inverse": 40
+  },
+  "overlay_score": 61,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-02-15T16:06:33.782927",
+  "verdict_source": "overlay_score"
+}

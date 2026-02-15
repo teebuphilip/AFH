@@ -1,0 +1,14 @@
+{
+  "idea_text": "A tool that converts CRM data into custom sales territory maps and reports for sales managers.",
+  "overlay_score": 54.5,
+  "overlay_components": {
+    "pricing_power": 40,
+    "user_feasibility": 40,
+    "automation": 70,
+    "market_clarity": 85,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.590045",
+  "verdict_source": "overlay_score"
+}

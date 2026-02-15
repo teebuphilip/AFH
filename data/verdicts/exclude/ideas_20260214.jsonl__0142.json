@@ -1,0 +1,14 @@
+{
+  "idea_text": "An application that manages recurring billing and subscription renewals automatically.",
+  "overlay_score": 57.0,
+  "overlay_components": {
+    "pricing_power": 90,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 45,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.560293",
+  "verdict_source": "overlay_score"
+}

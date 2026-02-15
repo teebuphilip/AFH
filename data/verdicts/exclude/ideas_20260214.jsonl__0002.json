@@ -1,0 +1,14 @@
+{
+  "idea_text": "A tool that streams social media analytics into marketing dashboards automatically.",
+  "overlay_score": 51.5,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 70,
+    "market_clarity": 85,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.519374",
+  "verdict_source": "overlay_score"
+}
