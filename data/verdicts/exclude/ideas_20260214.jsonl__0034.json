@@ -1,0 +1,14 @@
+{
+  "idea_text": "Dashboard that summarizes weekly social media ad spend and performance for small business owners.",
+  "overlay_score": 45.5,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 70,
+    "market_clarity": 45,
+    "competition_inverse": 45
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.527882",
+  "verdict_source": "overlay_score"
+}

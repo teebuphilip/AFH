@@ -1,0 +1,15 @@
+{
+  "idea_text": "A platform for automated scheduling of social media posts across multiple accounts.",
+  "overlay_score": 41.0,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_count": 40,
+    "automation": 50,
+    "market_clarity": 45,
+    "competition_inverse": 50
+  },
+  "overlay_scored_at": "2026-02-04T15:18:41.858800",
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-09T13:43:45.862646",
+  "verdict_source": "overlay_score"
+}

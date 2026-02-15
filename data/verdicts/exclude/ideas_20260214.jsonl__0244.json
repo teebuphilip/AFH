@@ -1,0 +1,14 @@
+{
+  "idea_text": "A tool that generates custom invoices and late payment reminders for freelancers, integrating with their accounting software.",
+  "overlay_score": 55.25,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 75,
+    "automation": 50,
+    "market_clarity": 85,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.584720",
+  "verdict_source": "overlay_score"
+}

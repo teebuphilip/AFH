@@ -1,0 +1,14 @@
+{
+  "idea_text": "Tool that automatically generates compliance checklists based on industry regulations for small businesses.",
+  "overlay_score": 57.0,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 90,
+    "automation": 50,
+    "market_clarity": 45,
+    "competition_inverse": 85
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.530468",
+  "verdict_source": "overlay_score"
+}

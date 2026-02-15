@@ -1,0 +1,14 @@
+{
+  "idea_text": "A tool that automatically generates weekly reports from sales data.",
+  "overlay_score": 50.5,
+  "overlay_components": {
+    "pricing_power": 40,
+    "user_feasibility": 40,
+    "automation": 70,
+    "market_clarity": 45,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.556947",
+  "verdict_source": "overlay_score"
+}

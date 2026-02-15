@@ -1,0 +1,14 @@
+{
+  "idea_text": "A system that automates data entry from scanned documents into CRM software.",
+  "overlay_score": 46.0,
+  "overlay_components": {
+    "pricing_power": 40,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 85,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.558519",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,14 @@
+{
+  "idea_text": "Automated data aggregation and visualization platform for enterprise analytics",
+  "overlay_score": 72.5,
+  "overlay_components": {
+    "pricing_power": 90,
+    "user_feasibility": 40,
+    "automation": 90,
+    "market_clarity": 85,
+    "competition_inverse": 45
+  },
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-02-14T12:08:26.578430",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,14 @@
+{
+  "idea_text": "Virtual reality-based educational experiences for K-12 students",
+  "overlay_score": 47.75,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 75,
+    "automation": 40,
+    "market_clarity": 45,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.579985",
+  "verdict_source": "overlay_score"
+}

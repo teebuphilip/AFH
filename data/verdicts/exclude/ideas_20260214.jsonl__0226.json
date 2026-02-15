@@ -1,0 +1,14 @@
+{
+  "idea_text": "Subscription-based pet wellness and grooming services delivered to the home",
+  "overlay_score": 58.0,
+  "overlay_components": {
+    "pricing_power": 90,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 45,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.580241",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,14 @@
+{
+  "idea_text": "An automated system that tracks shipment status updates and notifies customers accordingly.",
+  "overlay_score": 51.5,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 90,
+    "market_clarity": 45,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.542472",
+  "verdict_source": "overlay_score"
+}

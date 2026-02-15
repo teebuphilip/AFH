@@ -1,0 +1,14 @@
+{
+  "idea_text": "A system that streamlines inventory tracking and reorder notifications for retailers.",
+  "overlay_score": 41.5,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.569423",
+  "verdict_source": "overlay_score"
+}

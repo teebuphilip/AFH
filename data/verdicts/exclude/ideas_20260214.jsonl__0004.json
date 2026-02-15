@@ -1,0 +1,14 @@
+{
+  "idea_text": "A system that extracts and organizes data from emails into spreadsheets.",
+  "overlay_score": 52.0,
+  "overlay_components": {
+    "pricing_power": 60,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 85,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.520232",
+  "verdict_source": "overlay_score"
+}

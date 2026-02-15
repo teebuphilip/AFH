@@ -1,0 +1,14 @@
+{
+  "idea_text": "Automation that processes event registration data and outputs attendee lists with contact details for event organizers.",
+  "overlay_score": 43.0,
+  "overlay_components": {
+    "pricing_power": 40,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 45,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.531570",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,14 @@
+{
+  "idea_text": "A tool that automatically categorizes and tags digital receipts for expense tracking.",
+  "overlay_score": 45.0,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 50,
+    "market_clarity": 70,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.551656",
+  "verdict_source": "overlay_score"
+}

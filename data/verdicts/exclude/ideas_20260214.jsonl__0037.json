@@ -1,0 +1,14 @@
+{
+  "idea_text": "Service that monitors client project deadlines and sends automated reminders to freelancers.",
+  "overlay_score": 61.25,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 75,
+    "automation": 90,
+    "market_clarity": 45,
+    "competition_inverse": 65
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.528522",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "Peer-to-peer home services marketplace for local home maintenance and repair",
+  "overlay_score": 49.5,
+  "overlay_components": {
+    "pricing_power": 60,
+    "user_count": 40,
+    "automation": 50,
+    "market_clarity": 40,
+    "competition_inverse": 50
+  },
+  "overlay_scored_at": "2026-02-04T15:18:41.860482",
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-09T13:43:45.880677",
+  "verdict_source": "overlay_score"
+}

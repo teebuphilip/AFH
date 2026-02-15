@@ -1,0 +1,14 @@
+{
+  "idea_text": "An application that automates content curation and distribution for newsletters.",
+  "overlay_score": 39.0,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 40,
+    "automation": 40,
+    "market_clarity": 45,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.566355",
+  "verdict_source": "overlay_score"
+}

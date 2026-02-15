@@ -1,0 +1,14 @@
+{
+  "idea_text": "A dashboard that monitors employee time-off requests and PTO balances for small businesses, sending alerts when thresholds are reached.",
+  "overlay_score": 59.0,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_feasibility": 90,
+    "automation": 70,
+    "market_clarity": 45,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.585240",
+  "verdict_source": "overlay_score"
+}

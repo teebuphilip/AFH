@@ -1,0 +1,14 @@
+{
+  "idea_text": "Dashboard that summarizes daily sales leads status for individual sales reps.",
+  "overlay_score": 55.5,
+  "overlay_components": {
+    "pricing_power": 60,
+    "user_feasibility": 40,
+    "automation": 70,
+    "market_clarity": 45,
+    "competition_inverse": 55
+  },
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-14T12:08:26.526823",
+  "verdict_source": "overlay_score"
+}

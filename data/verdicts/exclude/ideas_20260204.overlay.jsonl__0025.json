@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that automates the tracking and management of software licenses across teams.",
+  "overlay_score": 51.75,
+  "overlay_components": {
+    "pricing_power": 30,
+    "user_count": 85,
+    "automation": 50,
+    "market_clarity": 40,
+    "competition_inverse": 50
+  },
+  "overlay_scored_at": "2026-02-04T15:18:41.856864",
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-09T13:43:45.841203",
+  "verdict_source": "overlay_score"
+}
