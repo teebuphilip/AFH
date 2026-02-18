@@ -13,6 +13,8 @@ permissions:
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
+    env:
+      ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
 
     steps:
       - name: Checkout repository
@@ -73,7 +75,7 @@ jobs:
           git push
 
       - name: Email alert on failure
-        if: ${{ failure() && secrets.ALERT_EMAIL_TO != '' }}
+        if: ${{ failure() && env.ALERT_EMAIL_TO != '' }}
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -95,4 +97,3 @@ jobs:
 
           to: ${{ secrets.ALERT_EMAIL_TO }}
           from: "AFH Pipeline <afh-alerts@local>"
-
