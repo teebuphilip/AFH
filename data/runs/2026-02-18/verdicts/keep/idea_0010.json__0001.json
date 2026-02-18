@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that converts handwritten delivery logs into digital spreadsheets for small logistics businesses.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 90,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 56,
+  "arr_score": 58,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-02-18T15:20:49.830052",
+  "verdict_source": "overlay_score"
+}

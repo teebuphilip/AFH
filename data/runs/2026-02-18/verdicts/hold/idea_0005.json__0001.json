@@ -1,0 +1,15 @@
+{
+  "idea_text": "System that converts job applicant resumes into standardized profiles for recruiters.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-02-18T15:20:49.829235",
+  "verdict_source": "overlay_score"
+}

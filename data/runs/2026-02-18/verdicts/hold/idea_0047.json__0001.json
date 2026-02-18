@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors employee productivity and sends alerts for potential issues",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 70,
+    "competition_inverse": 40
+  },
+  "overlay_score": 43,
+  "arr_score": 43,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-02-18T15:20:49.836200",
+  "verdict_source": "overlay_score"
+}
