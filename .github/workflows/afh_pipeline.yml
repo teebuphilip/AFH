@@ -7,12 +7,12 @@ on:
     - cron: "0 9 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
-
-    env:
-      AFH_RUN_DATE: $(date +%F)
 
     steps:
       - name: Checkout repository
@@ -26,7 +26,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install scikit-learn openai anthropic
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install scikit-learn openai anthropic
+          fi
 
       - name: Set run date
         run: echo "AFH_RUN_DATE=$(date +%F)" >> $GITHUB_ENV
@@ -58,13 +63,17 @@ jobs:
           git config user.name "afh-bot"
           git config user.email "afh-bot@users.noreply.github.com"
 
-          git add data/ catalogs/ logs/${AFH_RUN_DATE} metrics/
+          for p in data catalogs metrics "logs/${AFH_RUN_DATE}"; do
+            if [ -e "$p" ]; then
+              git add -A "$p"
+            fi
+          done
 
           git commit -m "AFH pipeline run ${AFH_RUN_DATE} (v2.0 run-specific)" || echo "No changes to commit"
           git push
 
       - name: Email alert on failure
-        if: failure() && secrets.ALERT_EMAIL_TO != ''
+        if: ${{ failure() && secrets.ALERT_EMAIL_TO != '' }}
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -86,5 +95,4 @@ jobs:
 
           to: ${{ secrets.ALERT_EMAIL_TO }}
           from: "AFH Pipeline <afh-alerts@local>"
-
 
