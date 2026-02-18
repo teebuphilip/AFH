@@ -79,7 +79,7 @@ def main():
         log_failure("overlay_scoring", "*", "SCORE_002", "HOLD")
 
     # STEP 4 — Verdict Routing
-    if not run("claude_created_4.0_verdict_routing.py"):
+    if not run("claude_created_4.2_verdict_routing.py"):
         log_failure("verdict_routing", "*", "ROUTE_003", "HOLD")
 
     # STEP 5 — ARR Scoring (optional secondary)
