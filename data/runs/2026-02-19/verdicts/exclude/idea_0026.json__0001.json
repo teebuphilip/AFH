@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that automatically generates custom invoices for freelance designers based on their project details.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-19T09:34:09.016969",
+  "verdict_source": "overlay_score"
+}

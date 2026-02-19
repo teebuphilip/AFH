@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that monitors website uptime and sends detailed downtime reports to small business owners.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-19T09:34:09.012868",
+  "verdict_source": "overlay_score"
+}

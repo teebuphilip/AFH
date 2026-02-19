@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that converts audio recordings of sales calls into searchable transcripts with key insights and action items.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 50,
+    "competition_inverse": 40
+  },
+  "overlay_score": 41,
+  "arr_score": 41,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-19T09:34:09.017331",
+  "verdict_source": "overlay_score"
+}
