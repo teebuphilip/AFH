@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors compliance requirements and sends alerts about upcoming deadlines.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 90,
+    "competition_inverse": 40
+  },
+  "overlay_score": 45,
+  "arr_score": 45,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-20T09:30:34.723056",
+  "verdict_source": "overlay_score"
+}

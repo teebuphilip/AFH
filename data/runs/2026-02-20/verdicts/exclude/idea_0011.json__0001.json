@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that schedules and sends recurring maintenance reminders for property managers.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-20T09:30:34.717287",
+  "verdict_source": "overlay_score"
+}

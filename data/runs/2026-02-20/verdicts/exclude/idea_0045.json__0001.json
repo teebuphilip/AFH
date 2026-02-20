@@ -1,0 +1,15 @@
+{
+  "idea_text": "An automation tool that processes job applications and generates initial screening reports.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-20T09:30:34.722902",
+  "verdict_source": "overlay_score"
+}

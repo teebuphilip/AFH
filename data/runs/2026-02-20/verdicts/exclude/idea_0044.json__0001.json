@@ -1,0 +1,15 @@
+{
+  "idea_text": "A dashboard that provides real-time insights into a company's supply chain operations.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 50,
+    "competition_inverse": 40
+  },
+  "overlay_score": 41,
+  "arr_score": 41,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-20T09:30:34.722749",
+  "verdict_source": "overlay_score"
+}

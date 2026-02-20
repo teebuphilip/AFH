@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that converts customer feedback into actionable insights for sales teams.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 90,
+    "automation": 40,
+    "market_clarity": 50,
+    "competition_inverse": 40
+  },
+  "overlay_score": 54,
+  "arr_score": 56,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-20T09:30:34.720936",
+  "verdict_source": "overlay_score"
+}
