@@ -1,0 +1,15 @@
+{
+  "idea_text": "A web-based service that automatically generates custom social media content calendars for small businesses based on their industry and brand.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 90,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 52,
+  "arr_score": 55,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-21T09:19:55.583316",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "A web-based system that monitors and analyzes website traffic data, providing actionable insights for digital marketers.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 50,
+    "competition_inverse": 40
+  },
+  "overlay_score": 41,
+  "arr_score": 41,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-21T09:19:55.582494",
+  "verdict_source": "overlay_score"
+}

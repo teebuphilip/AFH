@@ -1,0 +1,15 @@
+{
+  "idea_text": "Automation that processes scanned receipts and outputs categorized bookkeeping entries for small business owners.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-21T09:19:55.577153",
+  "verdict_source": "overlay_score"
+}

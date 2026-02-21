@@ -1,0 +1,15 @@
+{
+  "idea_text": "A mobile app that simplifies the process of managing and tracking business expenses for freelancers and solo entrepreneurs.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 70,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 48,
+  "arr_score": 49,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-21T09:19:55.583119",
+  "verdict_source": "overlay_score"
+}

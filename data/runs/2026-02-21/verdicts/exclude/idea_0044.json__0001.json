@@ -1,0 +1,15 @@
+{
+  "idea_text": "A desktop application that automates the process of creating and sending personalized thank-you notes to customers and clients.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-21T09:19:55.584116",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "A desktop application that streamlines the process of creating and managing employee onboarding checklists for small teams.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 90,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 52,
+  "arr_score": 55,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-21T09:19:55.583497",
+  "verdict_source": "overlay_score"
+}
