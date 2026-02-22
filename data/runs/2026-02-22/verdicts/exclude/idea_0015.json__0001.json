@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that tracks equipment maintenance logs and sends notifications for scheduled servicing to small business owners.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 90,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 52,
+  "arr_score": 50,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-22T09:19:51.228798",
+  "verdict_source": "overlay_score"
+}

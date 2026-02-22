@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors social media mentions and sends alerts to sales teams about potential leads.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 90,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 56,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-02-22T09:19:51.231078",
+  "verdict_source": "overlay_score"
+}
