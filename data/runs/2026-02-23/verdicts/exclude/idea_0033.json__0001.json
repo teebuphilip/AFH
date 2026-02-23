@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that converts paper receipts into digital expense reports for freelancers.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 70,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 48,
+  "arr_score": 49,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-23T09:41:30.798169",
+  "verdict_source": "overlay_score"
+}

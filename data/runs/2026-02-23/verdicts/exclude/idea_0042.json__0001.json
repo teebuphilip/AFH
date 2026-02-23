@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors employee productivity and generates performance reports for HR coordinators.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 70,
+    "competition_inverse": 40
+  },
+  "overlay_score": 43,
+  "arr_score": 43,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-23T09:41:30.799413",
+  "verdict_source": "overlay_score"
+}
