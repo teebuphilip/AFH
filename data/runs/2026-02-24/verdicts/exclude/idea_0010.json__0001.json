@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that automatically converts scanned contracts into searchable, organized digital files for legal assistants.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-24T09:40:18.542307",
+  "verdict_source": "overlay_score"
+}

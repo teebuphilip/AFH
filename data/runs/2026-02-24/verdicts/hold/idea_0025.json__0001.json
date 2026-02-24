@@ -1,0 +1,15 @@
+{
+  "idea_text": "Dashboard that consolidates freelancer billable hours from multiple projects and generates monthly invoices.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 55,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-02-24T09:40:18.544937",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "An automation that processes employee training records and generates compliance reports for HR coordinators.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 90,
+    "competition_inverse": 40
+  },
+  "overlay_score": 45,
+  "arr_score": 45,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-24T09:40:18.548123",
+  "verdict_source": "overlay_score"
+}

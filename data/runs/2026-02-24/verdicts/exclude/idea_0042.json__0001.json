@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors and optimizes internet connectivity for remote workers, providing recommendations to improve performance.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 70,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 48,
+  "arr_score": 46,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-24T09:40:18.547666",
+  "verdict_source": "overlay_score"
+}

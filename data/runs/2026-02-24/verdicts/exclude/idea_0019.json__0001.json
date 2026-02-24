@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that monitors sales lead statuses and sends daily reminders to sales reps on pending follow-ups.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-24T09:40:18.543957",
+  "verdict_source": "overlay_score"
+}
