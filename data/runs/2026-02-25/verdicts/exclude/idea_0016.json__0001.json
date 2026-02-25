@@ -1,0 +1,15 @@
+{
+  "idea_text": "Automation that extracts time spent on tasks from calendar events and outputs weekly productivity summaries for freelancers.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 70,
+    "automation": 40,
+    "market_clarity": 70,
+    "competition_inverse": 40
+  },
+  "overlay_score": 50,
+  "arr_score": 52,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-25T09:41:33.805849",
+  "verdict_source": "overlay_score"
+}

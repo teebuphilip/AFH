@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that converts scanned paper invoices into organized digital expense reports for small business owners.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-25T09:41:33.803574",
+  "verdict_source": "overlay_score"
+}
