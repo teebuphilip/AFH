@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that monitors rental payment deadlines and sends automated reminders to property managers.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 90,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 52,
+  "arr_score": 50,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-26T09:37:15.036475",
+  "verdict_source": "overlay_score"
+}

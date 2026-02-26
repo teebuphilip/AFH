@@ -1,45 +1,9 @@
 [
   {
-    "idea_text": "A tool that automatically generates custom email signatures for sales teams based on company branding and employee information.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
     "idea_text": "Automation that processes customer support emails and outputs categorized response templates for small support teams.",
     "verdict": "HOLD",
     "tags": {
       "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation system that processes and organizes incoming sales leads, generating personalized follow-up sequences for sales teams.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "marketing",
-      "complexity": "low",
-      "monetization_model": "ads"
-    }
-  },
-  {
-    "idea_text": "A service that monitors and analyzes online reviews and customer feedback for small businesses, providing insights and recommendations to improve their customer experience.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation system that processes incoming customer orders, generates pick lists, and streamlines the fulfillment process for small e-commerce businesses.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
       "complexity": "low",
       "monetization_model": "unknown"
     }
@@ -54,12 +18,57 @@
     }
   },
   {
+    "idea_text": "Tool that automatically generates monthly maintenance checklists for property managers based on tenant reports.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "A service that monitors social media mentions and sentiment for small businesses, providing summarized insights and recommendations.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation system that processes and organizes incoming sales leads, generating personalized follow-up sequences for sales teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "An automation system that processes incoming customer orders, generates pick lists, and streamlines the fulfillment process for small e-commerce businesses.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
     "idea_text": "Service that monitors subscription software usage and sends alerts on upcoming renewals to operations managers.",
     "verdict": "HOLD",
     "tags": {
       "category": "unknown",
       "complexity": "low",
       "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom email signatures for sales teams based on company branding and employee information.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
     }
   },
   {
@@ -72,15 +81,6 @@
     }
   },
   {
-    "idea_text": "Tool that automatically generates monthly maintenance checklists for property managers based on tenant reports.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "operations",
-      "complexity": "low",
-      "monetization_model": "subscription"
-    }
-  },
-  {
     "idea_text": "An automation system that processes and organizes incoming customer support inquiries, generating personalized responses for customer service teams.",
     "verdict": "HOLD",
     "tags": {
@@ -90,19 +90,10 @@
     }
   },
   {
-    "idea_text": "An automation system that converts customer support tickets into structured data and automates common response templates for support teams.",
+    "idea_text": "A service that monitors and analyzes online reviews and customer feedback for small businesses, providing insights and recommendations to improve their customer experience.",
     "verdict": "HOLD",
     "tags": {
       "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors social media mentions and sentiment for small businesses, providing summarized insights and recommendations.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "marketing",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -117,8 +108,8 @@
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key performance metrics for operations managers, integrating with their various business systems and tools.",
-    "verdict": "EXCLUDE",
+    "idea_text": "An automation system that converts customer support tickets into structured data and automates common response templates for support teams.",
+    "verdict": "HOLD",
     "tags": {
       "category": "unknown",
       "complexity": "low",
@@ -126,208 +117,10 @@
     }
   },
   {
-    "idea_text": "A service that monitors and analyzes competitor pricing and product offerings for small business owners, providing insights to inform their pricing and product strategies.",
+    "idea_text": "A dashboard that aggregates and displays key financial and operational metrics for freelance professionals, integrating with their various business tools.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates custom invoices and expense reports for freelancers, based on their project data.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes key financial metrics from multiple accounts for accountants managing small clients.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that tracks and reports on daily social media ad spend and performance for solo marketers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that processes job candidate resumes and outputs ranked shortlists for recruiters.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors vendor delivery schedules and sends alerts on delays to operations managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors job application statuses and sends updates to recruiters managing multiple candidates.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors and analyzes commercial property data, providing alerts and insights to property managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts handwritten notes and documents into digital text and organizes them for freelance writers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically converts handwritten meeting notes into structured digital summaries for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Dashboard that tracks employee time-off requests and approvals for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation system that processes employee timesheets and leave requests, generating reports and integrating with payroll for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors website uptime and server performance, sending alerts to operations managers when issues are detected.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes daily inventory levels and alerts on low stock for retail store managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts scanned receipts into categorized expense reports for accountants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically tracks and reports client payment delays to small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically schedules and sends personalized follow-up emails to sales leads based on their engagement levels.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "low",
-      "monetization_model": "ads"
-    }
-  },
-  {
-    "idea_text": "A dashboard that aggregates and visualizes key recruitment metrics for HR professionals, integrating with their applicant tracking system.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes daily sales leads and tracks follow-up tasks for solo sales representatives.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "medium",
-      "monetization_model": "ads"
-    }
-  },
-  {
-    "idea_text": "Automation that tracks and logs vehicle maintenance schedules for small fleet owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation tool that processes incoming job applications and resumes, filtering and organizing them for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that compiles weekly project status updates from multiple sources into a single report for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates weekly invoice summaries from raw billing data for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
       "complexity": "low",
       "monetization_model": "freemium"
     }
@@ -342,38 +135,65 @@
     }
   },
   {
-    "idea_text": "System that converts voicemail messages into text summaries and emails them to busy professionals.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that aggregates and displays key financial and operational metrics for freelance professionals, integrating with their various business tools.",
+    "idea_text": "Service that monitors vendor delivery schedules and sends alerts on delays to operations managers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Service that monitors employee certification expiration dates and sends renewal reminders to HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key financial metrics for small business owners, integrating with their accounting software.",
+    "idea_text": "A service that monitors and analyzes competitor pricing and product offerings for small business owners, providing insights to inform their pricing and product strategies.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that tracks and logs vehicle maintenance schedules for small fleet owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors job application statuses and sends updates to recruiters managing multiple candidates.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically schedules and sends personalized follow-up emails to sales leads based on their engagement levels.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "System that converts scanned receipts into categorized expense reports for accountants.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "finance",
       "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes job candidate resumes and outputs ranked shortlists for recruiters.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
       "monetization_model": "unknown"
     }
   },
@@ -387,20 +207,11 @@
     }
   },
   {
-    "idea_text": "Automation that processes customer feedback forms and outputs categorized improvement suggestions for small business owners.",
+    "idea_text": "A dashboard that aggregates and visualizes key recruitment metrics for HR professionals, integrating with their applicant tracking system.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates custom reports and presentations for HR professionals, based on their employee data and workforce analytics.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
+      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
@@ -414,16 +225,7 @@
     }
   },
   {
-    "idea_text": "Tool that automatically generates personalized follow-up emails based on recent customer interactions for sales reps.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors rental property utility usage and sends alerts on unusual consumption patterns to property managers.",
+    "idea_text": "A service that monitors and analyzes commercial property data, providing alerts and insights to property managers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -450,17 +252,8 @@
     }
   },
   {
-    "idea_text": "An automation that processes job applicant data and generates personalized rejection emails",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation that processes job applications and identifies top candidates for recruiters",
-    "verdict": "HOLD",
+    "idea_text": "An automation tool that processes incoming job applications and resumes, filtering and organizing them for HR coordinators.",
+    "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
       "complexity": "low",
@@ -468,134 +261,17 @@
     }
   },
   {
-    "idea_text": "System that tracks freelance invoice payments and sends reminders for overdue bills.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "System that tracks and reports on vendor invoice approvals and payment status for operations managers.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that automatically categorizes and archives business expenses from bank statements for small business owners.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that tracks freelance project deadlines and updates clients with progress reports.",
-    "verdict": "HOLD",
+    "idea_text": "A dashboard that summarizes key performance metrics for operations managers, integrating with their various business systems and tools.",
+    "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
       "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "A service that monitors employee time-off requests and sends alerts when thresholds are reached",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A system that converts handwritten notes into digital meeting minutes",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates invoices and tracks payments for freelance contractors",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Service that monitors freelance contract expiration dates and sends renewal prompts.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "legal",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Dashboard that aggregates and summarizes customer support ticket statuses for support team leads.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "marketing",
-      "complexity": "medium",
-      "monetization_model": "ads"
-    }
-  },
-  {
-    "idea_text": "A service that monitors website uptime and sends alerts when a site goes down",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer support tickets into knowledge base articles",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that converts meeting audio recordings into concise action item lists for freelancers.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "System that converts job applicant resumes into standardized profiles for recruiters.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that monitors server uptime and sends alerts to IT operators when issues are detected.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors inventory levels and sends alerts when stock is running low",
-    "verdict": "HOLD",
+    "idea_text": "Dashboard that summarizes daily inventory levels and alerts on low stock for retail store managers.",
+    "verdict": "EXCLUDE",
     "tags": {
       "category": "operations",
       "complexity": "medium",
@@ -603,7 +279,178 @@
     }
   },
   {
-    "idea_text": "A tool that automatically schedules recurring maintenance tasks for property managers",
+    "idea_text": "A tool that automatically generates custom invoices and expense reports for freelancers, based on their project data.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically tracks and reports client payment delays to small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors rental property utility usage and sends alerts on unusual consumption patterns to property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts voicemail messages into text summaries and emails them to busy professionals.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key financial metrics for small business owners, integrating with their accounting software.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that tracks and reports on daily social media ad spend and performance for solo marketers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes daily sales leads and tracks follow-up tasks for solo sales representatives.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "Automation that compiles weekly project status updates from multiple sources into a single report for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A service that monitors website uptime and server performance, sending alerts to operations managers when issues are detected.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates weekly invoice summaries from raw billing data for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Dashboard that tracks employee time-off requests and approvals for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically converts handwritten meeting notes into structured digital summaries for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Service that monitors employee certification expiration dates and sends renewal reminders to HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes key financial metrics from multiple accounts for accountants managing small clients.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes customer feedback forms and outputs categorized improvement suggestions for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates personalized follow-up emails based on recent customer interactions for sales reps.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom reports and presentations for HR professionals, based on their employee data and workforce analytics.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation system that processes employee timesheets and leave requests, generating reports and integrating with payroll for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts handwritten notes and documents into digital text and organizes them for freelance writers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically schedules and sends reminders for recurring equipment maintenance tasks to operations managers.",
     "verdict": "HOLD",
     "tags": {
       "category": "operations",
@@ -621,15 +468,6 @@
     }
   },
   {
-    "idea_text": "Dashboard that summarizes weekly sales calls and generates follow-up task lists for sales reps.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
     "idea_text": "Dashboard that compiles daily inventory updates and flags low stock items for small retail managers.",
     "verdict": "HOLD",
     "tags": {
@@ -639,34 +477,16 @@
     }
   },
   {
-    "idea_text": "An automation that processes customer support emails and outputs suggested responses",
+    "idea_text": "Automation that tracks freelance project deadlines and updates clients with progress reports.",
     "verdict": "HOLD",
     "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that scans contracts for upcoming renewal dates and automatically notifies small business owners.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "legal",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically organizes and tags email receipts for freelancers to simplify expense tracking.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "finance",
+      "category": "unknown",
       "complexity": "low",
       "monetization_model": "freemium"
     }
   },
   {
-    "idea_text": "Tool that automatically schedules and sends reminders for recurring equipment maintenance tasks to operations managers.",
+    "idea_text": "A tool that automatically schedules recurring maintenance tasks for property managers",
     "verdict": "HOLD",
     "tags": {
       "category": "operations",
@@ -675,37 +495,28 @@
     }
   },
   {
-    "idea_text": "Tool that tracks and reports on sales commission calculations for individual salespeople.",
+    "idea_text": "A service that monitors inventory levels and sends alerts when stock is running low",
     "verdict": "HOLD",
     "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "commission"
-    }
-  },
-  {
-    "idea_text": "Tool that automates the generation of weekly project status reports for small project managers.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
+      "category": "operations",
+      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A system that converts audio recordings into searchable meeting transcripts",
+    "idea_text": "System that converts job applicant resumes into standardized profiles for recruiters.",
     "verdict": "HOLD",
     "tags": {
       "category": "unknown",
-      "complexity": "low",
+      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key financial metrics for small business owners",
+    "idea_text": "Service that automatically categorizes and archives business expenses from bank statements for small business owners.",
     "verdict": "HOLD",
     "tags": {
-      "category": "unknown",
+      "category": "finance",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -720,24 +531,6 @@
     }
   },
   {
-    "idea_text": "A service that monitors employee productivity and sends alerts for potential issues",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer data into personalized email campaigns",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "marketing",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
     "idea_text": "A service that monitors website traffic and sends alerts for sudden changes",
     "verdict": "HOLD",
     "tags": {
@@ -747,19 +540,10 @@
     }
   },
   {
-    "idea_text": "Tool that generates personalized onboarding checklists for new hires for HR coordinators.",
+    "idea_text": "A service that monitors employee time-off requests and sends alerts when thresholds are reached",
     "verdict": "HOLD",
     "tags": {
       "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors rental property utility usage and sends alerts when consumption exceeds set thresholds.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "unknown",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -774,12 +558,219 @@
     }
   },
   {
-    "idea_text": "Automation that monitors subscription renewals and sends payment reminders to freelancers.",
+    "idea_text": "An automation that processes customer support emails and outputs suggested responses",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates invoices and tracks payments for freelance contractors",
     "verdict": "HOLD",
     "tags": {
       "category": "finance",
       "complexity": "low",
-      "monetization_model": "subscription"
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "An automation that processes job applicant data and generates personalized rejection emails",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that converts meeting audio recordings into concise action item lists for freelancers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "An automation that processes job applications and identifies top candidates for recruiters",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that monitors server uptime and sends alerts to IT operators when issues are detected.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors rental property utility usage and sends alerts when consumption exceeds set thresholds.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that tracks and reports on sales commission calculations for individual salespeople.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "commission"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key financial metrics for small business owners",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that tracks and reports on vendor invoice approvals and payment status for operations managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes weekly sales calls and generates follow-up task lists for sales reps.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that scans contracts for upcoming renewal dates and automatically notifies small business owners.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors website uptime and sends alerts when a site goes down",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically organizes and tags email receipts for freelancers to simplify expense tracking.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A system that converts customer support tickets into knowledge base articles",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that aggregates and summarizes customer support ticket statuses for support team leads.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "Service that monitors freelance contract expiration dates and sends renewal prompts.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A system that converts customer data into personalized email campaigns",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automates the generation of weekly project status reports for small project managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that tracks freelance invoice payments and sends reminders for overdue bills.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Tool that generates personalized onboarding checklists for new hires for HR coordinators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors employee productivity and sends alerts for potential issues",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts audio recordings into searchable meeting transcripts",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts handwritten notes into digital meeting minutes",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
     }
   },
   {
@@ -792,6 +783,15 @@
     }
   },
   {
+    "idea_text": "A dashboard that summarizes key HR metrics like employee turnover, attendance, and compliance for small businesses.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
     "idea_text": "A dashboard that visualizes key HR metrics like employee satisfaction, training completion, and compliance for small teams.",
     "verdict": "HOLD",
     "tags": {
@@ -801,10 +801,55 @@
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key HR metrics like employee turnover, attendance, and compliance for small businesses.",
+    "idea_text": "Automation that monitors subscription renewals and sends payment reminders to freelancers.",
     "verdict": "HOLD",
     "tags": {
-      "category": "hr",
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom proposals and quotes for small professional services firms.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts handwritten meeting notes into organized digital summaries for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that tracks lease expirations and sends renewal reminders to property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that compiles social media ad spend reports and ROI summaries for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts raw customer support logs into prioritized ticket lists for support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -819,19 +864,73 @@
     }
   },
   {
-    "idea_text": "An automation that processes job application materials and generates a standardized scoring system for recruiters.",
+    "idea_text": "Automation that scans vendor contracts for key dates and sends alert reminders to operations managers.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
+      "category": "legal",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Automation that processes incoming purchase orders and generates order confirmation emails for operations managers.",
+    "idea_text": "Tool that automatically generates weekly inventory restock alerts based on sales data for sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors job application statuses and sends alerts for recruiters on candidate progress.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically schedules social media posts for small business owners based on their content calendar.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom email signatures and branding for small professional services firms.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation that processes employee time off requests and generates custom PTO reports for small HR teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors inventory levels and sends alerts when restocking is needed for small retail businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes expense receipts and generates categorized expense reports for accountants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
       "complexity": "low",
       "monetization_model": "unknown"
     }
@@ -846,16 +945,16 @@
     }
   },
   {
-    "idea_text": "Dashboard that compiles social media ad spend reports and ROI summaries for small business owners.",
+    "idea_text": "Tool that generates compliance checklists and tracks completion status for operations managers.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "marketing",
-      "complexity": "medium",
+      "category": "legal",
+      "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Service that monitors job application statuses and sends alerts for recruiters on candidate progress.",
+    "idea_text": "A service that monitors and analyzes web traffic data for small business owners, and provides optimization recommendations.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -873,317 +972,11 @@
     }
   },
   {
-    "idea_text": "A system that converts audio recordings of sales calls into searchable transcripts with key insights and action items.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that automatically generates custom invoices for freelance designers based on their project details.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "System that converts handwritten meeting notes into organized digital summaries for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that tracks employee certification expiry dates and sends renewal notifications to HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes freelance project time tracking and generates invoice drafts automatically.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates custom email campaigns and newsletters for local service providers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that monitors website uptime and server performance, and sends alerts when issues are detected.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation that processes employee time off requests and generates custom PTO reports for small HR teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer feedback and support tickets into custom reports and dashboards for small businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that processes expense receipts and generates categorized expense reports for accountants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that aggregates customer feedback emails and highlights common issues for support teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors inventory levels and sends alerts when restocking is needed for small retail businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically schedules social media posts for small business owners based on their content calendar.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts raw customer support logs into prioritized ticket lists for support teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
     "idea_text": "Tool that automatically categorizes business bank transactions for small business owners' accounting.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "finance",
       "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes weekly sales calls and highlights follow-up tasks for sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates weekly inventory restock alerts based on sales data for sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation that processes real estate listing data and outputs a comprehensive market analysis report for property managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts financial data into visual reports and dashboards for small business accountants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors competitor pricing changes and sends weekly summaries to sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically extracts and formats invoices from email attachments for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Tool that tracks lease expirations and sends renewal reminders to property managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts email appointment requests into calendar events with automated confirmations for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that scans vendor contracts for key dates and sends alert reminders to operations managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates custom proposals and quotes for small professional services firms.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts support chat transcripts into categorized FAQ entries for support teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts handwritten meeting notes into editable digital documents for remote teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that generates compliance checklists and tracks completion status for operations managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates custom email signatures and branding for small professional services firms.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes vendor payment statuses and upcoming due dates for accountants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors online listings and sends alerts when pricing or availability changes for property managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts employee time tracking data into payroll reports and invoices for small businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors and analyzes web traffic data for small business owners, and provides optimization recommendations.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts scanned handwritten timesheets into digital payroll entries for accountants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors website uptime and sends detailed downtime reports to small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
@@ -1202,6 +995,213 @@
     "tags": {
       "category": "unknown",
       "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation that processes real estate listing data and outputs a comprehensive market analysis report for property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that automatically generates custom invoices for freelance designers based on their project details.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A system that converts financial data into visual reports and dashboards for small business accountants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation that processes job application materials and generates a standardized scoring system for recruiters.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that aggregates customer feedback emails and highlights common issues for support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors website uptime and sends detailed downtime reports to small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts email appointment requests into calendar events with automated confirmations for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes incoming purchase orders and generates order confirmation emails for operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes weekly sales calls and highlights follow-up tasks for sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors competitor pricing changes and sends weekly summaries to sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that monitors website uptime and server performance, and sends alerts when issues are detected.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically extracts and formats invoices from email attachments for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A system that converts customer feedback and support tickets into custom reports and dashboards for small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes freelance project time tracking and generates invoice drafts automatically.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Service that tracks employee certification expiry dates and sends renewal notifications to HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts employee time tracking data into payroll reports and invoices for small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts support chat transcripts into categorized FAQ entries for support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes vendor payment statuses and upcoming due dates for accountants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts scanned handwritten timesheets into digital payroll entries for accountants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors online listings and sends alerts when pricing or availability changes for property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts handwritten meeting notes into editable digital documents for remote teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom email campaigns and newsletters for local service providers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts audio recordings of sales calls into searchable transcripts with key insights and action items.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
       "monetization_model": "unknown"
     }
   },
@@ -1233,7 +1233,43 @@
     }
   },
   {
-    "idea_text": "An automation tool that processes customer service inquiries and generates personalized responses.",
+    "idea_text": "A service that monitors compliance requirements and sends alerts about upcoming deadlines.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes customer support emails and outputs prioritized response lists.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically tracks job applicant statuses and sends reminders to recruiters.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically converts PDF timesheets into payroll-ready spreadsheets for HR departments.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "Automation that extracts data from sales call logs and outputs performance summaries for sales reps.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -1251,48 +1287,21 @@
     }
   },
   {
-    "idea_text": "An automation tool that processes payroll data and generates paystubs.",
+    "idea_text": "Tool that automatically generates personalized follow-up email templates for salespeople.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
+      "category": "productivity",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Service that tracks equipment usage hours and schedules preventative maintenance alerts for facility managers.",
+    "idea_text": "Automation that processes expense reimbursement requests and flags missing documentation for finance teams.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors software license expirations and sends renewal alerts to IT administrators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that extracts key metrics from social media ad reports and outputs simplified summaries for marketers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
+      "category": "finance",
       "complexity": "low",
       "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically converts PDF timesheets into payroll-ready spreadsheets for HR departments.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "low",
-      "monetization_model": "ads"
     }
   },
   {
@@ -1305,61 +1314,16 @@
     }
   },
   {
-    "idea_text": "A service that monitors inventory levels and sends alerts when restocking is needed.",
+    "idea_text": "A tool that automatically schedules employee shift coverage based on availability and workload.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts handwritten meeting notes into formatted digital documents.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that processes customer support emails and outputs prioritized response lists.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
+      "category": "hr",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "System that generates personalized onboarding checklists for new hires in small companies.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that consolidates and visualizes employee attendance data for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors online reviews and sends alerts about new feedback.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors web traffic and sends alerts when a website experiences a sudden spike in activity.",
+    "idea_text": "A service that monitors online listings and sends alerts when new properties become available.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -1377,11 +1341,11 @@
     }
   },
   {
-    "idea_text": "A system that converts sales data into personalized client presentations.",
+    "idea_text": "A tool that automatically generates personalized job postings based on a company's hiring needs.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
-      "complexity": "medium",
+      "category": "hr",
+      "complexity": "low",
       "monetization_model": "unknown"
     }
   },
@@ -1395,164 +1359,11 @@
     }
   },
   {
-    "idea_text": "Dashboard that tracks freelance project deadlines and sends automated progress alerts.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates personalized job postings based on a company's hiring needs.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically schedules employee shift coverage based on availability and workload.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that provides real-time data on employee productivity metrics.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that extracts data from sales call logs and outputs performance summaries for sales reps.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that schedules and sends recurring maintenance reminders for property managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "subscription"
-    }
-  },
-  {
-    "idea_text": "Automation that processes expense reimbursement requests and flags missing documentation for finance teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation tool that processes customer support inquiries and outputs suggested responses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts sales leads into formatted customer profiles.",
+    "idea_text": "Automation that extracts key metrics from social media ad reports and outputs simplified summaries for marketers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "marketing",
-      "complexity": "medium",
-      "monetization_model": "ads"
-    }
-  },
-  {
-    "idea_text": "Automation that processes supplier invoices and flags discrepancies for accounts payable teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
       "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates weekly invoice summaries for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically tracks job applicant statuses and sends reminders to recruiters.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts meeting notes into actionable task lists for operations managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates personalized follow-up email templates for salespeople.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors compliance requirements and sends alerts about upcoming deadlines.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation tool that processes job applications and generates initial screening reports.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer feedback into actionable insights for sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that summarizes key HR metrics for small to medium-sized companies.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
@@ -1566,37 +1377,10 @@
     }
   },
   {
-    "idea_text": "A service that monitors online listings and sends alerts when new properties become available.",
+    "idea_text": "A dashboard that provides real-time data on employee productivity metrics.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically creates weekly sales performance reports from CRM exports for sales managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates detailed property management reports.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer data into personalized marketing campaigns.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
+      "category": "hr",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -1611,21 +1395,21 @@
     }
   },
   {
-    "idea_text": "Dashboard that aggregates and displays customer feedback trends for support team leads.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "medium",
-      "monetization_model": "ads"
-    }
-  },
-  {
-    "idea_text": "Service that monitors rental property maintenance schedules and sends alerts to landlords.",
+    "idea_text": "A service that monitors inventory levels and sends alerts when restocking is needed.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "operations",
       "complexity": "medium",
       "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that schedules and sends recurring maintenance reminders for property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "subscription"
     }
   },
   {
@@ -1647,12 +1431,219 @@
     }
   },
   {
-    "idea_text": "Dashboard that summarizes monthly utility consumption and costs for property managers.",
-    "verdict": "HOLD",
+    "idea_text": "An automation tool that processes customer support inquiries and outputs suggested responses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation tool that processes customer service inquiries and generates personalized responses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts sales leads into formatted customer profiles.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "An automation tool that processes payroll data and generates paystubs.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that tracks freelance project deadlines and sends automated progress alerts.",
+    "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
       "complexity": "medium",
-      "monetization_model": "subscription"
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Service that monitors rental property maintenance schedules and sends alerts to landlords.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts meeting notes into actionable task lists for operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key HR metrics for small to medium-sized companies.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors software license expirations and sends renewal alerts to IT administrators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes supplier invoices and flags discrepancies for accounts payable teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors web traffic and sends alerts when a website experiences a sudden spike in activity.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates weekly invoice summaries for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "An automation tool that processes job applications and generates initial screening reports.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts sales data into personalized client presentations.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that consolidates and visualizes employee attendance data for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that generates personalized onboarding checklists for new hires in small companies.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts customer data into personalized marketing campaigns.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that tracks equipment usage hours and schedules preventative maintenance alerts for facility managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically creates weekly sales performance reports from CRM exports for sales managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that aggregates and displays customer feedback trends for support team leads.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates detailed property management reports.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts customer feedback into actionable insights for sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors online reviews and sends alerts about new feedback.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts handwritten meeting notes into formatted digital documents.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
     }
   },
   {
@@ -1674,250 +1665,16 @@
     }
   },
   {
-    "idea_text": "A desktop application that automates the process of creating and sending personalized thank-you notes to customers and clients.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A desktop application that automates the process of converting audio recordings to written meeting transcripts.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes employee training progress and certifications for HR managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that extracts contact details from business cards and updates CRM for sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically schedules and sends payment reminders to clients for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "A mobile app that schedules and sends automated appointment reminders for service providers like hair salons and dentists.",
-    "verdict": "EXCLUDE",
+    "idea_text": "Dashboard that summarizes monthly utility consumption and costs for property managers.",
+    "verdict": "HOLD",
     "tags": {
       "category": "unknown",
       "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An online tool that converts handwritten notes to digital text, with formatting options for various document types.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A web service that automatically generates custom email signatures for businesses based on their brand guidelines.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
+      "monetization_model": "subscription"
     }
   },
   {
     "idea_text": "Automation that processes scanned receipts and outputs categorized bookkeeping entries for small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates compliance checklists based on industry regulations for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that extracts invoice data and uploads it into accounting software for accountants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "low",
-      "monetization_model": "ads"
-    }
-  },
-  {
-    "idea_text": "An online tool that converts client project proposals into professional-looking documents, with customizable templates.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A desktop application that monitors website uptime and performance, and sends instant alerts when issues are detected.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An online tool that generates custom employee handbooks for small businesses, with customizable policies and procedures.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A desktop application that automates the process of creating and updating client project status reports, with customizable templates.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes recruitment funnel metrics and candidate statuses for recruiters.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts job applicant resumes into standardized profiles for recruiters.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that processes timesheets and calculates payroll for freelancers and small teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "An online tool that generates custom job descriptions and postings for small businesses, optimized for candidate attraction.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A cloud-based platform that tracks and manages employee time off and leave requests for small teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A web-based system that monitors and analyzes website traffic data, providing actionable insights for digital marketers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors inventory levels and sends reorder alerts for small retail business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts handwritten maintenance logs into digital records for property managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes weekly sales performance from CRM data for sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts PDF contracts into editable text files for small legal teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation system that processes customer invoices and generates custom reports for accounting and tax purposes.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A mobile app that simplifies the process of managing and tracking business expenses for freelancers and solo entrepreneurs.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates weekly task summaries from project management tools for operations managers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -1935,10 +1692,28 @@
     }
   },
   {
-    "idea_text": "Service that monitors website uptime and sends alerts to small business owners when downtime occurs.",
+    "idea_text": "Automation that extracts contact details from business cards and updates CRM for sales teams.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors inventory levels and sends reorder alerts for small retail business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A desktop application that automates the process of creating and sending personalized thank-you notes to customers and clients.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -1953,34 +1728,52 @@
     }
   },
   {
-    "idea_text": "Service that monitors email inboxes and flags overdue client follow-ups for freelancers.",
+    "idea_text": "System that converts PDF contracts into editable text files for small legal teams.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "productivity",
+      "category": "legal",
       "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically schedules and sends payment reminders to clients for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
       "monetization_model": "freemium"
     }
   },
   {
-    "idea_text": "An online tool that simplifies the process of creating and managing custom email newsletter templates for small businesses.",
+    "idea_text": "A cloud-based platform that tracks and manages employee time off and leave requests for small teams.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "marketing",
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An online tool that generates custom employee handbooks for small businesses, with customizable policies and procedures.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "An online tool that generates custom HR policy documents for small businesses based on their location and industry.",
+    "idea_text": "An online tool that generates custom job descriptions and postings for small businesses, optimized for candidate attraction.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "productivity",
+      "category": "unknown",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key sales metrics for small businesses, providing real-time insights and forecasting.",
+    "idea_text": "System that converts job applicant resumes into standardized profiles for recruiters.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -1998,25 +1791,7 @@
     }
   },
   {
-    "idea_text": "Automation that processes refund requests and updates accounting records for small e-commerce owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A web-based service that generates custom job offer letters and employment contracts for small businesses, with e-signing capabilities.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A web-based system that generates custom performance review templates for managers, with guided feedback and goal-setting features.",
+    "idea_text": "A web-based system that monitors and analyzes website traffic data, providing actionable insights for digital marketers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -2034,19 +1809,19 @@
     }
   },
   {
-    "idea_text": "Service that monitors vehicle maintenance schedules and sends alerts to fleet managers.",
+    "idea_text": "A mobile app that schedules and sends automated appointment reminders for service providers like hair salons and dentists.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "operations",
+      "category": "unknown",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Service that monitors rental property utility usage and sends alerts for unusual spikes to property managers.",
+    "idea_text": "System that converts handwritten maintenance logs into digital records for property managers.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
+      "category": "operations",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -2070,6 +1845,240 @@
     }
   },
   {
+    "idea_text": "An automation system that processes customer invoices and generates custom reports for accounting and tax purposes.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A web service that automatically generates custom email signatures for businesses based on their brand guidelines.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes recruitment funnel metrics and candidate statuses for recruiters.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A mobile app that simplifies the process of managing and tracking business expenses for freelancers and solo entrepreneurs.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A desktop application that automates the process of converting audio recordings to written meeting transcripts.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes timesheets and calculates payroll for freelancers and small teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Service that monitors rental property utility usage and sends alerts for unusual spikes to property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors website uptime and sends alerts to small business owners when downtime occurs.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key sales metrics for small businesses, providing real-time insights and forecasting.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes employee training progress and certifications for HR managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes weekly sales performance from CRM data for sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates weekly task summaries from project management tools for operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A desktop application that monitors website uptime and performance, and sends instant alerts when issues are detected.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An online tool that simplifies the process of creating and managing custom email newsletter templates for small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A desktop application that automates the process of creating and updating client project status reports, with customizable templates.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that extracts invoice data and uploads it into accounting software for accountants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates compliance checklists based on industry regulations for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "legal",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A web-based system that generates custom performance review templates for managers, with guided feedback and goal-setting features.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors email inboxes and flags overdue client follow-ups for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Automation that processes refund requests and updates accounting records for small e-commerce owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors vehicle maintenance schedules and sends alerts to fleet managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A web-based service that generates custom job offer letters and employment contracts for small businesses, with e-signing capabilities.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An online tool that generates custom HR policy documents for small businesses based on their location and industry.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An online tool that converts client project proposals into professional-looking documents, with customizable templates.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An online tool that converts handwritten notes to digital text, with formatting options for various document types.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors social media mentions and sends alerts to sales teams about potential leads.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "ads"
+    }
+  },
+  {
     "idea_text": "Dashboard that summarizes monthly vehicle mileage and fuel expenses for operations managers.",
     "verdict": "HOLD",
     "tags": {
@@ -2088,79 +2097,7 @@
     }
   },
   {
-    "idea_text": "A service that monitors social media mentions and sends alerts to sales teams about potential leads.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "marketing",
-      "complexity": "medium",
-      "monetization_model": "ads"
-    }
-  },
-  {
-    "idea_text": "An automation that processes and tracks inventory for operations managers in small businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that tracks and monitors inventory levels for operations managers in small businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that compiles daily sales call notes into CRM-ready entries for sales reps.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors contract expiry dates and sends renewal alerts to property managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors invoice due dates and sends payment reminder alerts for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "A system that converts handwritten notes into digital to-do lists for small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that converts audio recordings into text transcripts with timestamps for support teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automated system that scans and organizes digital receipts for small business owners.",
+    "idea_text": "A service that monitors and alerts support teams about customer inquiries and issues.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -2178,7 +2115,7 @@
     }
   },
   {
-    "idea_text": "Tool that automatically generates payroll summaries from timesheet data for HR coordinators.",
+    "idea_text": "Tool that automatically tracks and logs candidate interview feedback for recruiters.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -2187,16 +2124,7 @@
     }
   },
   {
-    "idea_text": "Dashboard that summarizes employee timesheet submissions and flags inconsistencies for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors and alerts accountants about important tax deadlines and compliance updates.",
+    "idea_text": "Service that monitors contract expiry dates and sends renewal alerts to property managers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "legal",
@@ -2205,7 +2133,61 @@
     }
   },
   {
-    "idea_text": "A dashboard that tracks and visualizes key performance metrics for property management companies.",
+    "idea_text": "Automation that extracts sales data from emails and compiles daily performance reports for sales reps.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation that processes and tracks inventory for operations managers in small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that generates customized lease renewal reminders for property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts handwritten delivery receipts into digital proof of service logs for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Service that monitors invoice due dates and sends payment reminder alerts for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom invoices and payment tracking for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A service that automates the process of generating custom sales proposals for sales teams.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -2214,19 +2196,10 @@
     }
   },
   {
-    "idea_text": "A dashboard that visualizes employee performance metrics for HR coordinators in small businesses.",
+    "idea_text": "A system that converts customer feedback into actionable insights for support teams.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that tracks equipment maintenance logs and sends notifications for scheduled servicing to small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
+      "category": "unknown",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -2241,168 +2214,6 @@
     }
   },
   {
-    "idea_text": "Tool that automatically generates client billing summaries from project management data for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer feedback into actionable insights for support teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates custom invoices and payment tracking for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "An automation that processes job applications and schedules interviews for recruiters.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that extracts sales data from emails and compiles daily performance reports for sales reps.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that processes and categorizes vendor invoices for small business accounting.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts handwritten delivery receipts into digital proof of service logs for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "An automation that processes employee timesheets and generates payroll reports for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that visualizes employee productivity metrics for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that monitors customer support ticket aging and outputs escalation alerts for support teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates weekly expense reports from bank statements for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically tracks and logs candidate interview feedback for recruiters.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts handwritten job site notes into structured digital logs for operations managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that generates customized lease renewal reminders for property managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors and alerts support teams about customer inquiries and issues.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors software license usage and sends renewal reminders to small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that generates custom reports and analytics for property management companies.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that summarizes key financial metrics for accountants and their clients.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
     "idea_text": "Automation that extracts key candidate information from resumes and compiles recruiter shortlists.",
     "verdict": "EXCLUDE",
     "tags": {
@@ -2412,38 +2223,11 @@
     }
   },
   {
-    "idea_text": "A service that automates the process of generating custom sales proposals for sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that tracks customer refund requests and outputs status reports for support teams.",
+    "idea_text": "An automation that processes job applications and schedules interviews for recruiters.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
       "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer feedback into personalized sales pitches for sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that summarizes key recruitment metrics for HR coordinators in small businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
@@ -2457,19 +2241,19 @@
     }
   },
   {
-    "idea_text": "Tool that processes incoming purchase orders and generates delivery checklists for operations managers.",
+    "idea_text": "A system that converts handwritten notes into digital to-do lists for small business owners.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
-      "complexity": "low",
+      "category": "productivity",
+      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Service that monitors rental property maintenance schedules and sends automated reminders to property managers.",
+    "idea_text": "Service that processes and categorizes vendor invoices for small business accounting.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "operations",
+      "category": "finance",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -2493,6 +2277,222 @@
     }
   },
   {
+    "idea_text": "An automation that processes employee timesheets and generates payroll reports for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automated system that scans and organizes digital receipts for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that tracks equipment maintenance logs and sends notifications for scheduled servicing to small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that visualizes employee productivity metrics for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that tracks and monitors inventory levels for operations managers in small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates client billing summaries from project management data for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Service that monitors rental property maintenance schedules and sends automated reminders to property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts handwritten job site notes into structured digital logs for operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that monitors customer support ticket aging and outputs escalation alerts for support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that tracks and visualizes key performance metrics for property management companies.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates weekly expense reports from bank statements for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A tool that generates custom reports and analytics for property management companies.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that visualizes employee performance metrics for HR coordinators in small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes employee timesheet submissions and flags inconsistencies for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates payroll summaries from timesheet data for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key recruitment metrics for HR coordinators in small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors software license usage and sends renewal reminders to small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that compiles daily sales call notes into CRM-ready entries for sales reps.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that tracks customer refund requests and outputs status reports for support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that processes incoming purchase orders and generates delivery checklists for operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts customer feedback into personalized sales pitches for sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key financial metrics for accountants and their clients.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors and alerts accountants about important tax deadlines and compliance updates.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that converts audio recordings into text transcripts with timestamps for support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
     "idea_text": "Service that monitors subscription services usage and alerts on upcoming renewals for small business owners.",
     "verdict": "HOLD",
     "tags": {
@@ -2511,91 +2511,10 @@
     }
   },
   {
-    "idea_text": "An automation that processes customer orders and generates shipping labels for small business owners.",
+    "idea_text": "A tool that automatically generates project plans and timelines for freelance project managers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that summarizes key sales metrics for small business sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation that processes job applications and schedules interviews for recruiters.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes maintenance schedules and alerts for equipment managers at small facilities.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes inventory levels and sends reorder alerts for small retail shop owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts daily sales data into visual performance reports for solo sales representatives.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that tracks software license renewals and sends payment reminders for IT freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "A service that monitors inventory levels and sends reorder alerts for small retail business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts handwritten notes into digital files for busy professionals.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates invoices and tracks payments for freelance designers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
       "complexity": "low",
       "monetization_model": "freemium"
     }
@@ -2610,97 +2529,7 @@
     }
   },
   {
-    "idea_text": "Service that tracks freelance project deadlines and sends automated reminders to consultants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "System that converts PDF invoices into structured accounting entries for freelance bookkeepers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates social media content calendars for small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors website uptime and sends alerts when a site goes down for small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that summarizes key compliance metrics for small business HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts paper documents into searchable digital archives for small business operations managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Dashboard that aggregates invoice payment status from multiple platforms for solo freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes pending tasks and deadlines extracted from multiple project management tools for operations managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that converts handwritten notes into searchable text and categorizes them for small team leaders.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors employee attendance and generates timesheets for small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates sales reports and forecasts for sales teams.",
+    "idea_text": "Automation that processes incoming resumes and highlights candidate qualifications for solo recruiters.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -2709,7 +2538,7 @@
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key financial metrics for small business accountants.",
+    "idea_text": "System that converts daily sales data into visual performance reports for solo sales representatives.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -2727,19 +2556,19 @@
     }
   },
   {
-    "idea_text": "Automation that monitors competitor pricing changes and sends alerts to independent sales consultants.",
+    "idea_text": "A dashboard that summarizes key sales metrics for small business sales teams.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
-      "complexity": "low",
+      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "System that converts voicemail messages into text with priority tagging for busy sales reps.",
+    "idea_text": "Dashboard that summarizes customer support ticket status and flags overdue issues for solo support agents.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "productivity",
+      "category": "unknown",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -2754,88 +2583,7 @@
     }
   },
   {
-    "idea_text": "An automation that processes customer support emails and outputs standardized responses for support teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts paper contracts into digital signatures for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Service that extracts key data from rental agreements and syncs it with calendar reminders for property managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that extracts and categorizes receipts from email attachments for freelance accountants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Automation that processes incoming resumes and highlights candidate qualifications for solo recruiters.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates personalized follow-up emails based on recent client interactions for sales freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes customer support ticket status and flags overdue issues for solo support agents.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates project plans and timelines for freelance project managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "An automation that processes vendor invoices and generates payment schedules for small business accountants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts paper receipts into digital expense reports for freelancers.",
+    "idea_text": "Service that tracks software license renewals and sends payment reminders for IT freelancers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "finance",
@@ -2844,16 +2592,7 @@
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key HR metrics for small business HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that processes call logs and generates client contact summaries for independent consultants.",
+    "idea_text": "A tool that automatically generates sales reports and forecasts for sales teams.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -2871,25 +2610,43 @@
     }
   },
   {
-    "idea_text": "System that converts meeting audio recordings into structured action items for solo project managers.",
+    "idea_text": "A dashboard that summarizes key compliance metrics for small business HR coordinators.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
+      "category": "legal",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A service that monitors client communication and generates activity reports for small business owners.",
+    "idea_text": "A service that monitors employee attendance and generates timesheets for small business owners.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
+      "category": "hr",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A system that converts paper forms into digital workflows for small business operations managers.",
+    "idea_text": "Dashboard that summarizes pending tasks and deadlines extracted from multiple project management tools for operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes call logs and generates client contact summaries for independent consultants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key financial metrics for small business accountants.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -2907,20 +2664,20 @@
     }
   },
   {
-    "idea_text": "Tool that automatically creates standardized job descriptions from recruiter inputs for hiring coordinators.",
+    "idea_text": "A service that monitors inventory levels and sends reorder alerts for small retail business owners.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "hr",
-      "complexity": "low",
+      "category": "operations",
+      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Service that monitors utility bills for property managers and alerts on unusual spikes.",
+    "idea_text": "Automation that monitors competitor pricing changes and sends alerts to independent sales consultants.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
-      "complexity": "medium",
+      "complexity": "low",
       "monetization_model": "unknown"
     }
   },
@@ -2943,10 +2700,253 @@
     }
   },
   {
-    "idea_text": "Automation that extracts key metrics from monthly bank statements and generates expense insights for accountants.",
-    "verdict": "HOLD",
+    "idea_text": "An automation that processes customer support emails and outputs standardized responses for support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates invoices and tracks payments for freelance designers.",
+    "verdict": "EXCLUDE",
     "tags": {
       "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "An automation that processes customer orders and generates shipping labels for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that aggregates invoice payment status from multiple platforms for solo freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A system that converts paper contracts into digital signatures for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "An automation that processes job applications and schedules interviews for recruiters.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts handwritten notes into searchable text and categorizes them for small team leaders.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors utility bills for property managers and alerts on unusual spikes.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates personalized follow-up emails based on recent client interactions for sales freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key HR metrics for small business HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes inventory levels and sends reorder alerts for small retail shop owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts voicemail messages into text with priority tagging for busy sales reps.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that extracts key data from rental agreements and syncs it with calendar reminders for property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors website uptime and sends alerts when a site goes down for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that extracts and categorizes receipts from email attachments for freelance accountants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "An automation that processes vendor invoices and generates payment schedules for small business accountants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts paper documents into searchable digital archives for small business operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts PDF invoices into structured accounting entries for freelance bookkeepers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Service that tracks freelance project deadlines and sends automated reminders to consultants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A system that converts paper forms into digital workflows for small business operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes maintenance schedules and alerts for equipment managers at small facilities.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts meeting audio recordings into structured action items for solo project managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically creates standardized job descriptions from recruiter inputs for hiring coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors client communication and generates activity reports for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts paper receipts into digital expense reports for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates social media content calendars for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts handwritten notes into digital files for busy professionals.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates monthly utility cost breakdowns for property managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
       "complexity": "low",
       "monetization_model": "subscription"
     }
@@ -2961,10 +2961,10 @@
     }
   },
   {
-    "idea_text": "Tool that automatically generates monthly utility cost breakdowns for property managers.",
+    "idea_text": "Automation that extracts key metrics from monthly bank statements and generates expense insights for accountants.",
     "verdict": "HOLD",
     "tags": {
-      "category": "unknown",
+      "category": "finance",
       "complexity": "low",
       "monetization_model": "subscription"
     }
@@ -2979,29 +2979,29 @@
     }
   },
   {
-    "idea_text": "A dashboard that visualizes key productivity metrics for freelancers, such as time spent on tasks, project progress, and billable hours.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "An automation that processes expense reports and generates tax-ready documentation for freelancers and small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Dashboard that tracks and summarizes social media ad spend and ROI for small marketing consultants.",
+    "idea_text": "A tool that automatically generates and schedules social media content for small professional service providers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes incoming customer support tickets and prioritizes them for small support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
       "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that generates customized sales follow-up email templates based on previous client interactions for sales reps.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
       "monetization_model": "unknown"
     }
   },
@@ -3015,115 +3015,34 @@
     }
   },
   {
-    "idea_text": "A service that monitors and optimizes energy usage for small office buildings, providing recommendations to reduce costs.",
+    "idea_text": "Automation that extracts key data from job applications and formats it into recruiter-friendly summaries.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
-      "complexity": "medium",
+      "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A system that converts handwritten notes into searchable digital documents for small business owners.",
+    "idea_text": "A dashboard that visualizes key productivity metrics for freelancers, such as time spent on tasks, project progress, and billable hours.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "productivity",
       "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates invoices and tracks payments for freelance designers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
       "monetization_model": "freemium"
     }
   },
   {
-    "idea_text": "Dashboard that summarizes incoming customer support tickets and prioritizes them for small support teams.",
+    "idea_text": "Tool that automatically converts scanned contracts into searchable, organized digital files for legal assistants.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically scans and summarizes weekly team meeting agendas and action items for managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
+      "category": "legal",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Dashboard that consolidates multiple supplier order statuses and highlights delays for small inventory managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates custom email signatures and tracks email metrics for sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors web traffic and sends alerts when a website experiences sudden spikes or drops in visitors.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that summarizes key financial metrics for small accounting firms, including client billing, revenue, and profitability.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer support chat logs into structured data, enabling better analysis and process improvements for customer service teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that processes and categorizes customer refund requests and outputs a summary report for support teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that tracks employee time-off requests and automatically updates HR records for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors web application performance and sends alerts when issues are detected, for operations managers.",
+    "idea_text": "System that tracks recruitment pipeline stages and sends alerts to recruiters on candidate stagnation.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -3141,115 +3060,7 @@
     }
   },
   {
-    "idea_text": "A dashboard that visualizes key hiring metrics for recruiters, such as candidate pipeline, interview schedules, and hiring trends.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that extracts key data from job applications and formats it into recruiter-friendly summaries.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that monitors equipment maintenance schedules and sends reminders to operations managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that converts email invoices into categorized accounting entries for small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that tracks recruitment pipeline stages and sends alerts to recruiters on candidate stagnation.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation that processes employee timesheets and outputs payroll reports for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts handwritten meeting notes into shareable, structured documents for teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that compiles daily sales data into a simple report emailed to small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates weekly expense reports from uploaded receipts for freelancers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Tool that generates customized sales follow-up email templates based on previous client interactions for sales reps.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that tracks employee certifications and licenses and notifies HR coordinators before expiry dates.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically converts scanned contracts into searchable, organized digital files for legal assistants.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "legal",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically generates and schedules social media content for small professional service providers.",
+    "idea_text": "A tool that automatically generates social media content calendars and schedules posts for small businesses.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "marketing",
@@ -3258,37 +3069,37 @@
     }
   },
   {
-    "idea_text": "Service that monitors customer support response times and sends alerts when SLA thresholds are at risk.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation that processes employee training records and generates compliance reports for HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer support tickets into structured data, enabling better analysis and reporting for customer service teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A dashboard that summarizes key financial metrics for property managers, including rental income, expenses, and occupancy rates.",
+    "idea_text": "A dashboard that summarizes key financial metrics for small accounting firms, including client billing, revenue, and profitability.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors web application performance and sends alerts when issues are detected, for operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that tracks employee time-off requests and automatically updates HR records for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that tracks and summarizes social media ad spend and ROI for small marketing consultants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -3303,28 +3114,10 @@
     }
   },
   {
-    "idea_text": "A tool that automatically generates social media content calendars and schedules posts for small businesses.",
+    "idea_text": "A dashboard that visualizes key hiring metrics for recruiters, such as candidate pipeline, interview schedules, and hiring trends.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "marketing",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A service that monitors and optimizes cloud infrastructure costs for operations managers in small organizations.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A system that converts customer feedback into structured data, enabling better analysis and product improvements for small businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
+      "category": "hr",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -3339,19 +3132,19 @@
     }
   },
   {
-    "idea_text": "Tool that automatically formats and schedules recurring client invoices for freelancers and small businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "finance",
-      "complexity": "low",
-      "monetization_model": "subscription"
-    }
-  },
-  {
-    "idea_text": "Service that monitors rental property utility bills and sends alerts on unusual usage for property managers.",
+    "idea_text": "A service that monitors and optimizes energy usage for small office buildings, providing recommendations to reduce costs.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors equipment maintenance schedules and sends reminders to operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -3375,19 +3168,226 @@
     }
   },
   {
-    "idea_text": "Dashboard that consolidates and summarizes monthly tax deadlines and requirements for accountants.",
-    "verdict": "HOLD",
+    "idea_text": "An automation that processes employee timesheets and outputs payroll reports for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates invoices and tracks payments for freelance designers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Service that processes and categorizes customer refund requests and outputs a summary report for support teams.",
+    "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts handwritten meeting notes into shareable, structured documents for teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation that processes expense reports and generates tax-ready documentation for freelancers and small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Service that monitors rental property utility bills and sends alerts on unusual usage for property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that tracks employee certifications and licenses and notifies HR coordinators before expiry dates.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key financial metrics for property managers, including rental income, expenses, and occupancy rates.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that converts email invoices into categorized accounting entries for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that compiles daily sales data into a simple report emailed to small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors web traffic and sends alerts when a website experiences sudden spikes or drops in visitors.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates weekly expense reports from uploaded receipts for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "An automation that processes employee training records and generates compliance reports for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts customer support chat logs into structured data, enabling better analysis and process improvements for customer service teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that consolidates multiple supplier order statuses and highlights delays for small inventory managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically scans and summarizes weekly team meeting agendas and action items for managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts customer feedback into structured data, enabling better analysis and product improvements for small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors customer support response times and sends alerts when SLA thresholds are at risk.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically formats and schedules recurring client invoices for freelancers and small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "A service that monitors and optimizes cloud infrastructure costs for operations managers in small organizations.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts customer support tickets into structured data, enabling better analysis and reporting for customer service teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom email signatures and tracks email metrics for sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A system that converts handwritten notes into searchable digital documents for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that summarizes monthly client billing data and generates payment reminder emails for freelancers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
       "complexity": "medium",
       "monetization_model": "subscription"
     }
   },
   {
-    "idea_text": "Dashboard that summarizes monthly vendor payment statuses and flags overdue invoices for accountants.",
+    "idea_text": "Dashboard that consolidates and summarizes monthly tax deadlines and requirements for accountants.",
     "verdict": "HOLD",
     "tags": {
-      "category": "finance",
+      "category": "unknown",
       "complexity": "medium",
       "monetization_model": "subscription"
     }
@@ -3402,15 +3402,6 @@
     }
   },
   {
-    "idea_text": "System that summarizes monthly client billing data and generates payment reminder emails for freelancers.",
-    "verdict": "HOLD",
-    "tags": {
-      "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "subscription"
-    }
-  },
-  {
     "idea_text": "Service that automatically tracks and categorizes monthly software subscription expenses for freelancers.",
     "verdict": "HOLD",
     "tags": {
@@ -3420,46 +3411,37 @@
     }
   },
   {
-    "idea_text": "A tool that automatically generates custom progress reports and status updates for project managers.",
-    "verdict": "EXCLUDE",
+    "idea_text": "Dashboard that summarizes monthly vendor payment statuses and flags overdue invoices for accountants.",
+    "verdict": "HOLD",
     "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "subscription"
     }
   },
   {
-    "idea_text": "A service that monitors software usage and sends alerts when licenses need to be renewed.",
+    "idea_text": "A system that converts lead information into personalized nurturing email campaigns.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
+      "category": "marketing",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A service that monitors online reviews and reputation for local service providers.",
+    "idea_text": "Automation that monitors employee attendance logs and sends daily compliance alerts to HR coordinators.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that converts handwritten work logs into digital time tracking entries for small business owners.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
+      "category": "hr",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Tool that converts maintenance request emails into prioritized task lists for property managers.",
+    "idea_text": "Tool that automatically generates weekly payroll summaries from time tracking data for small businesses.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "operations",
+      "category": "unknown",
       "complexity": "low",
       "monetization_model": "unknown"
     }
@@ -3474,10 +3456,109 @@
     }
   },
   {
+    "idea_text": "Automation that converts client email inquiries into structured lead tracking entries for sales reps.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors software usage and sends alerts when licenses need to be renewed.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically extracts key data from resumes and outputs candidate scorecards for recruiters.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
     "idea_text": "Service that monitors property maintenance schedules and sends reminders to property managers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically schedules and sends personalized birthday and anniversary emails for client relationships.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom invoices and tracks payments for freelance consultants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A monitoring service that tracks software update availability and sends alerts when updates are released.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes recruitment and hiring metrics for HR teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that processes online customer support tickets and outputs prioritized daily task lists for support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that extracts time spent on tasks from calendar events and outputs weekly productivity summaries for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "An automation that processes employee timesheets and generates payroll reports for small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key performance metrics for small law practices.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
@@ -3492,7 +3573,34 @@
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key performance metrics for small retail businesses.",
+    "idea_text": "Service that processes expense receipts via photo upload and generates reimbursable reports for freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A monitoring service that tracks inventory levels and sends alerts when stock is low.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom proposals and quotes for sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A monitoring service that tracks website uptime and sends alerts when a site goes down.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -3510,16 +3618,7 @@
     }
   },
   {
-    "idea_text": "Automation that monitors employee attendance logs and sends daily compliance alerts to HR coordinators.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically tracks support ticket resolution times and generates weekly performance reports.",
+    "idea_text": "A tool that automatically generates custom progress reports and status updates for project managers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -3528,43 +3627,16 @@
     }
   },
   {
-    "idea_text": "A system that converts client meeting notes into action items and task reminders.",
+    "idea_text": "An automation that processes property maintenance requests and schedules vendor visits.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that converts handwritten notes into digital task lists and calendar events.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
+      "category": "operations",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A monitoring service that tracks software update availability and sends alerts when updates are released.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation that processes customer feedback and generates custom survey reports.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "System that processes online customer support tickets and outputs prioritized daily task lists for support teams.",
+    "idea_text": "A service that monitors online reviews and reputation for local service providers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -3582,91 +3654,10 @@
     }
   },
   {
-    "idea_text": "A dashboard that summarizes recruitment and hiring metrics for HR teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A tool that automatically schedules and sends personalized birthday and anniversary emails for client relationships.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation that processes employee timesheets and generates payroll reports for small businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "hr",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that converts client email inquiries into structured lead tracking entries for sales reps.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Service that processes expense receipts via photo upload and generates reimbursable reports for freelancers.",
+    "idea_text": "Tool that converts scanned paper invoices into organized digital expense reports for small business owners.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "finance",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "Dashboard that summarizes weekly sales call outcomes and highlights follow-up tasks for sales teams.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "A monitoring service that tracks website uptime and sends alerts when a site goes down.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "An automation that processes property maintenance requests and schedules vendor visits.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "operations",
-      "complexity": "low",
-      "monetization_model": "unknown"
-    }
-  },
-  {
-    "idea_text": "Automation that monitors inventory levels from spreadsheets and sends restock alerts to operations managers.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "marketing",
-      "complexity": "low",
-      "monetization_model": "ads"
-    }
-  },
-  {
-    "idea_text": "Tool that automatically generates weekly payroll summaries from time tracking data for small businesses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "unknown",
       "complexity": "low",
       "monetization_model": "unknown"
     }
@@ -3681,29 +3672,47 @@
     }
   },
   {
-    "idea_text": "Tool that automatically extracts key data from resumes and outputs candidate scorecards for recruiters.",
+    "idea_text": "An automation system that processes customer support emails and generates templated responses.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "unknown",
+      "category": "productivity",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A system that converts lead information into personalized nurturing email campaigns.",
+    "idea_text": "Tool that converts maintenance request emails into prioritized task lists for property managers.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "marketing",
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes weekly sales call outcomes and highlights follow-up tasks for sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
       "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Service that monitors compliance document expiration dates and sends alerts to HR coordinators.",
+    "idea_text": "Automation that monitors inventory levels from spreadsheets and sends restock alerts to operations managers.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "legal",
-      "complexity": "medium",
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "A tool that converts handwritten notes into digital task lists and calendar events.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
       "monetization_model": "unknown"
     }
   },
@@ -3717,39 +3726,48 @@
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key financial metrics for freelance creative professionals.",
+    "idea_text": "An automation that processes customer feedback and generates custom survey reports.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
-      "complexity": "medium",
-      "monetization_model": "freemium"
-    }
-  },
-  {
-    "idea_text": "An automation system that processes customer support emails and generates templated responses.",
-    "verdict": "EXCLUDE",
-    "tags": {
-      "category": "productivity",
       "complexity": "low",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "Automation that extracts time spent on tasks from calendar events and outputs weekly productivity summaries for freelancers.",
+    "idea_text": "Tool that automatically tracks support ticket resolution times and generates weekly performance reports.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "productivity",
+      "category": "unknown",
       "complexity": "low",
-      "monetization_model": "freemium"
+      "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A tool that automatically generates custom invoices and tracks payments for freelance consultants.",
+    "idea_text": "An automation that processes expense reports and generates tax-ready documentation.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "finance",
       "complexity": "low",
-      "monetization_model": "freemium"
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors compliance document expiration dates and sends alerts to HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that converts handwritten work logs into digital time tracking entries for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
     }
   },
   {
@@ -3771,16 +3789,25 @@
     }
   },
   {
-    "idea_text": "An automation that processes expense reports and generates tax-ready documentation.",
+    "idea_text": "A dashboard that summarizes key financial metrics for freelance creative professionals.",
     "verdict": "EXCLUDE",
     "tags": {
-      "category": "finance",
-      "complexity": "low",
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A system that converts client meeting notes into action items and task reminders.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
       "monetization_model": "unknown"
     }
   },
   {
-    "idea_text": "A dashboard that summarizes key performance metrics for small law practices.",
+    "idea_text": "A dashboard that summarizes key performance metrics for small retail businesses.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",
@@ -3789,7 +3816,187 @@
     }
   },
   {
-    "idea_text": "Tool that converts scanned paper invoices into organized digital expense reports for small business owners.",
+    "idea_text": "Automation that processes refund requests and outputs approval recommendations for support teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes monthly subscription renewals and upcoming cancellations for SaaS freelancers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Service that monitors utility usage for small offices and sends monthly cost alerts to facility managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "A service that monitors employee productivity and generates custom reports for small teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates compliance checklists from regulatory documents for small businesses.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes monthly utility costs and usage trends for small property managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically schedules and manages social media content for small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts scanned receipts into categorized expense reports for small business owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically tracks contractor hours and generates payroll-ready reports for operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "legal",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts email inquiries into structured sales leads for solo sales representatives.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "A dashboard that tracks key performance indicators for small service-based businesses and provides insights.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates custom quote documents based on client inputs for sales freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically schedules social media posts for local businesses based on their marketing calendar and audience.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation system that processes job applications and resumes to identify top candidates for recruiters.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors property listings and automatically generates rental property reports for landlords.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes customer support ticket statuses and aging for small support teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors domain and software license expirations and sends renewal reminders to IT freelancers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically tracks equipment maintenance schedules and sends alerts to operations managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors employee time tracking and generates custom timesheets and payroll reports.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates custom email templates and sequences for small business marketing campaigns.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation system that processes invoices and receipts to categorize expenses for small business accounting.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "finance",
@@ -3798,7 +4005,214 @@
     }
   },
   {
-    "idea_text": "A monitoring service that tracks inventory levels and sends alerts when stock is low.",
+    "idea_text": "An automation system that processes customer support tickets and assigns them to the appropriate team members.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key sales metrics and provides forecasting for small sales teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that converts customer feedback and reviews into structured data that can be analyzed for insights.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that automatically generates personalized email signatures for teams based on their branding and contact information.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes daily sales metrics and flags anomalies for small retail owners.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates personalized onboarding checklists and training materials for new hires.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates project management reports and dashboards for freelancers and small teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "Automation that processes customer feedback emails and outputs categorized improvement suggestions for product managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors rental payment deadlines and sends automated reminders to property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts timesheet data into client-ready project status reports for consultants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key HR metrics like employee attendance, performance reviews, and training progress for small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes job applications and outputs ranked candidate lists for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors employee certification expirations and sends renewal reminders to HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that monitors web traffic and automatically optimizes website content and layouts to improve conversion rates.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates weekly invoice summaries for freelancers based on uploaded timesheets.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "freemium"
+    }
+  },
+  {
+    "idea_text": "A service that converts customer feedback and reviews into structured data for small businesses to analyze.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A dashboard that summarizes key financial metrics and provides forecasting for small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes supplier invoices and outputs payment schedules for accountants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors contract deadlines and sends renewal or termination alerts to legal assistants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "An automation system that processes inventory data and generates custom reports for small retail businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts voice meeting notes into structured task lists for solo project managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Dashboard that summarizes social media ad spend and ROI for small marketing consultants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that processes employee time-off requests and outputs updated schedules for HR coordinators.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts handwritten delivery logs into digital inventory updates for warehouse managers.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "operations",
@@ -3807,7 +4221,25 @@
     }
   },
   {
-    "idea_text": "A tool that automatically generates custom proposals and quotes for sales teams.",
+    "idea_text": "An automation system that processes HR data and generates custom reports for small businesses.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A service that monitors website analytics and automatically optimizes content and ads to improve conversion rates.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "ads"
+    }
+  },
+  {
+    "idea_text": "An automation system that processes customer support tickets and outputs suggested response templates based on the issue type.",
     "verdict": "EXCLUDE",
     "tags": {
       "category": "unknown",

@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors website analytics and automatically optimizes content and ads to improve conversion rates.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 50,
+    "competition_inverse": 40
+  },
+  "overlay_score": 44,
+  "arr_score": 44,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-26T09:37:15.043082",
+  "verdict_source": "overlay_score"
+}

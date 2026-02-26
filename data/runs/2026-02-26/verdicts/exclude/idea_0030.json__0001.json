@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that converts customer feedback and reviews into structured data that can be analyzed for insights.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 50,
+    "competition_inverse": 40
+  },
+  "overlay_score": 41,
+  "arr_score": 41,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-26T09:37:15.041372",
+  "verdict_source": "overlay_score"
+}
