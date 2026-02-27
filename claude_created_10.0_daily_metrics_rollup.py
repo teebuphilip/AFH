@@ -20,6 +20,7 @@ Design:
 """
 
 import json
+import os
 from datetime import datetime
 from pathlib import Path
 from typing import Dict
@@ -72,6 +73,21 @@ def safe_ratio(numer: int, denom: int) -> float:
         return 0.0
     return round(numer / denom, 4)
 
+def count_jsonl_lines(path: Path) -> int:
+    total = 0
+    for file_path in path.glob("*.jsonl"):
+        with open(file_path, "r", encoding="utf-8", errors="replace") as f:
+            for line in f:
+                if line.strip():
+                    total += 1
+    return total
+
+def count_raw_ideas(path: Path) -> int:
+    if not path.exists():
+        return 0
+    # Raw ideas are JSONL (one idea per line). Fall back to JSON files if present.
+    return count_jsonl_lines(path) + count_json(path)
+
 # ------------------------------------------------------------
 # Main
 # ------------------------------------------------------------
@@ -84,14 +100,18 @@ def count_from_runs(subpath: str) -> int:
             if run_dir.is_dir():
                 target = run_dir / subpath
                 if target.exists():
-                    total += len(list(target.glob("*.json")))
+                    if subpath == "raw":
+                        total += count_raw_ideas(target)
+                    else:
+                        total += len(list(target.glob("*.json")))
     return total
 
 def main() -> None:
     today = utc_date()
 
     # Idempotency: one entry per day
-    if today in load_existing_dates():
+    force = os.getenv("AFH_METRICS_FORCE", "0") == "1"
+    if (today in load_existing_dates()) and not force:
         return
 
     # Count across all runs
@@ -110,7 +130,7 @@ def main() -> None:
     # Today's run specifically
     today_run = RUNS_BASE / today
     if today_run.exists():
-        counts["today_raw"] = count_json(today_run / "raw")
+        counts["today_raw"] = count_raw_ideas(today_run / "raw")
         counts["today_normalized"] = count_json(today_run / "normalized")
         counts["today_scored"] = count_json(today_run / "scored")
         counts["today_keep"] = count_json(today_run / "verdicts" / "keep")
@@ -129,7 +149,21 @@ def main() -> None:
         },
     }
 
-    with open(OUTFILE, "a") as f:
+    if force and OUTFILE.exists():
+        # Rewrite file without today's entry, then append refreshed metrics.
+        lines = []
+        with open(OUTFILE, "r", encoding="utf-8", errors="replace") as f:
+            for line in f:
+                try:
+                    if json.loads(line).get("date") == today:
+                        continue
+                except Exception:
+                    pass
+                lines.append(line)
+        with open(OUTFILE, "w", encoding="utf-8") as f:
+            f.writelines(lines)
+
+    with open(OUTFILE, "a", encoding="utf-8") as f:
         f.write(json.dumps(metrics) + "\n")
 
 if __name__ == "__main__":
