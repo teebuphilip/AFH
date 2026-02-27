@@ -1,5 +1,5 @@
 {
-  "idea_text": "A dashboard that tracks and visualizes inventory management for e-commerce businesses",
+  "idea_text": "A dashboard that visualizes project management metrics and KPIs for small teams.",
   "scores": {
     "pricing_power": 40,
     "user_count": 90,
@@ -10,6 +10,6 @@
   "overlay_score": 52,
   "arr_score": 55,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.035058",
+  "verdict_timestamp": "2026-02-27T13:00:53.111509",
   "verdict_source": "overlay_score"
 }

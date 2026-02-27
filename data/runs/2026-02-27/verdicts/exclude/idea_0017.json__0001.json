@@ -1,15 +1,15 @@
 {
-  "idea_text": "Service that monitors supply inventory levels and sends reorder alerts for small retailers.",
+  "idea_text": "Service that monitors social media mentions of a brand and sends daily digest alerts to small marketing teams.",
   "scores": {
     "pricing_power": 40,
-    "user_count": 40,
+    "user_count": 90,
     "automation": 40,
     "market_clarity": 40,
     "competition_inverse": 40
   },
-  "overlay_score": 40,
-  "arr_score": 40,
+  "overlay_score": 52,
+  "arr_score": 55,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.030555",
+  "verdict_timestamp": "2026-02-27T13:00:53.107948",
   "verdict_source": "overlay_score"
 }

@@ -8,8 +8,11 @@
     "competition_inverse": 40
   },
   "overlay_score": 68,
-  "arr_score": 72,
+  "arr_score": 72.0,
   "verdict": "KEEP",
   "verdict_timestamp": "2026-02-27T09:30:29.028838",
-  "verdict_source": "overlay_score"
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-02-27T13:00:53.135555",
+  "hold_reason": "arr_70_89"
 }

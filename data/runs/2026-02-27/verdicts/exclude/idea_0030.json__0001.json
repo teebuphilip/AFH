@@ -1,15 +1,15 @@
 {
-  "idea_text": "An automation tool that processes customer feedback and outputs actionable insights",
+  "idea_text": "An automation that processes employee timesheets and outputs payroll data for accountants.",
   "scores": {
     "pricing_power": 40,
     "user_count": 40,
     "automation": 40,
-    "market_clarity": 50,
+    "market_clarity": 40,
     "competition_inverse": 40
   },
-  "overlay_score": 41,
-  "arr_score": 41,
+  "overlay_score": 40,
+  "arr_score": 40,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.032703",
+  "verdict_timestamp": "2026-02-27T13:00:53.109656",
   "verdict_source": "overlay_score"
 }

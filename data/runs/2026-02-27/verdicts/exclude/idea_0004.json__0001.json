@@ -1,5 +1,5 @@
 {
-  "idea_text": "Dashboard that summarizes weekly sales calls and follow-up tasks for solo sales reps.",
+  "idea_text": "Dashboard that summarizes daily sales metrics from multiple point-of-sale systems for small retailers.",
   "scores": {
     "pricing_power": 40,
     "user_count": 40,
@@ -10,6 +10,6 @@
   "overlay_score": 40,
   "arr_score": 40,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.028345",
+  "verdict_timestamp": "2026-02-27T13:00:53.106267",
   "verdict_source": "overlay_score"
 }
