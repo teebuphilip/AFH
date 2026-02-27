@@ -8,7 +8,7 @@ Reads overlay-scored idea files and routes them into
 KEEP / HOLD / EXCLUDE directories based on overlay_score.
 
 Supports inputs:
-- Directory (default: data/scored/overlay) containing:
+- Directory (default: data/runs/YYYY-MM-DD/scored) containing:
   - *.json   (single object OR array)
   - *.jsonl  (one object per line)
 - Or a single file path via CLI.
@@ -229,8 +229,7 @@ def main() -> int:
 
                 written_records += 1
 
-            # Remove original file ONLY after all records written (state transition)
-            file_path.unlink()
+            # Keep scored inputs for auditability; re-runs will overwrite outputs.
             processed_files += 1
 
         except Exception as e:

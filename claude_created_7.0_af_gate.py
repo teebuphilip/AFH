@@ -13,13 +13,13 @@ data/fo_intake/*.json
 Output:
 -------
 PASS -> data/af_bucket/*.json
-FAIL -> data/verdicts/hold/*.json
+FAIL -> data/runs/YYYY-MM-DD/verdicts/hold/*.json
 """
 
 import json
 import re
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, date
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -30,9 +30,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 BASE = Path("data")
 
+run_date = date.today().isoformat()
+RUN_BASE = BASE / "runs" / run_date
+
 FO_DIR = BASE / "fo_intake"
 AF_DIR = BASE / "af_bucket"
-HOLD_DIR = BASE / "verdicts" / "hold"
+HOLD_DIR = RUN_BASE / "verdicts" / "hold"
 
 AF_DIR.mkdir(parents=True, exist_ok=True)
 HOLD_DIR.mkdir(parents=True, exist_ok=True)
