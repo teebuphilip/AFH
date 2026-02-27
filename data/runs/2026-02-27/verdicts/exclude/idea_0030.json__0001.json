@@ -1,0 +1,15 @@
+{
+  "idea_text": "An automation tool that processes customer feedback and outputs actionable insights",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 50,
+    "competition_inverse": 40
+  },
+  "overlay_score": 41,
+  "arr_score": 41,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-27T09:30:29.032703",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors and optimizes equipment maintenance for industrial facilities",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 49,
+  "arr_score": 50,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-27T09:30:29.035558",
+  "verdict_source": "overlay_score"
+}

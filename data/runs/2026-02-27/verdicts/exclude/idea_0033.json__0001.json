@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that converts audio recordings to text for better note-taking",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 40,
+  "arr_score": 40,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-02-27T09:30:29.033207",
+  "verdict_source": "overlay_score"
+}
