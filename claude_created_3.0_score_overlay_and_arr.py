@@ -61,29 +61,29 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 RUBRICS = {
     "pricing_power": [
-        (90, ["subscription", "saas", "per seat", "monthly", "annual", "b2b", "enterprise"]),
-        (70, ["freemium", "trial", "upgrade", "pro tier", "premium"]),
+        (90, ["subscription", "saas", "per seat", "per user", "per-user", "monthly", "annual", "b2b", "enterprise", "licens"]),
+        (70, ["freemium", "trial", "upgrade", "pro tier", "premium", "paid", "plan", "tier"]),
         (50, ["ads", "affiliate", "commission", "marketplace"]),
         (30, ["future monetization", "community", "network"]),
         (10, [])  # default floor
     ],
     "user_count": [
-        (90, ["teams", "companies", "businesses", "organizations"]),
-        (70, ["professionals", "creators", "freelancers"]),
+        (90, ["teams", "companies", "businesses", "organizations", "sales team", "marketing team", "ops team", "operations team"]),
+        (70, ["professionals", "creators", "freelancer", "accountant", "retailer", "property manager", "operations manager", "small business"]),
         (50, ["consumers", "individuals"]),
         (30, ["hobbyists", "enthusiasts"]),
         (10, [])
     ],
     "automation": [
-        (90, ["automated", "scheduled", "background", "pipeline"]),
-        (70, ["assisted", "ai-generated", "recommendation"]),
+        (90, ["automat", "schedul", "background", "pipeline", "alert", "monitor", "process", "extract", "convert", "summar", "digest", "notify"]),
+        (70, ["assisted", "ai-generated", "recommendation", "suggest"]),
         (50, ["manual input", "user-driven"]),
         (30, ["fully manual"]),
         (10, [])
     ],
     "market_clarity": [
-        (90, ["clear pain", "compliance", "cost reduction", "time savings"]),
-        (70, ["optimization", "productivity"]),
+        (90, ["clear pain", "compliance", "cost reduction", "time savings", "invoice", "receipt", "expense", "inventory", "stock", "tax", "payroll", "bookkeep", "reconcile"]),
+        (70, ["optimization", "productivity", "forecast", "pipeline", "follow-up", "meeting", "maintenance"]),
         (50, ["insights", "analytics"]),
         (30, ["engagement", "community"]),
         (10, [])
@@ -106,7 +106,7 @@ def score_dimension(text: str, rubric) -> int:
     for score, keywords in rubric:
         if any(k in text for k in keywords):
             return score
-    return 40  # conservative default
+    return 55  # conservative default
 
 def weighted_sum(scores: dict, weights: dict) -> int:
     return round(sum(scores[k] * w for k, w in weights.items()))
