@@ -1,5 +1,5 @@
 {
-  "idea_text": "A system that converts handwritten notes to digital text for better organization",
+  "idea_text": "A system that converts handwritten meeting notes into digital, searchable files.",
   "scores": {
     "pricing_power": 40,
     "user_count": 40,
@@ -10,6 +10,6 @@
   "overlay_score": 40,
   "arr_score": 40,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.032389",
+  "verdict_timestamp": "2026-02-27T13:00:53.109401",
   "verdict_source": "overlay_score"
 }

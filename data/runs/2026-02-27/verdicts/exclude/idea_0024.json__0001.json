@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that monitors contractor timesheets and flags hours exceeding budget.",
+  "idea_text": "Dashboard that summarizes employee onboarding progress and sends reminders to HR coordinators.",
   "scores": {
     "pricing_power": 40,
     "user_count": 40,
@@ -10,6 +10,6 @@
   "overlay_score": 40,
   "arr_score": 40,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.031711",
+  "verdict_timestamp": "2026-02-27T13:00:53.108866",
   "verdict_source": "overlay_score"
 }

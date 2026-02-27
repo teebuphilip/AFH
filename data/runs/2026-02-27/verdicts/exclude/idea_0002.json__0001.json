@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that monitors small business utility bills and sends alerts for unusual spikes.",
+  "idea_text": "Service that monitors rental property listings and sends alerts for upcoming lease expirations.",
   "scores": {
     "pricing_power": 40,
     "user_count": 40,
@@ -10,6 +10,6 @@
   "overlay_score": 40,
   "arr_score": 40,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.027985",
+  "verdict_timestamp": "2026-02-27T13:00:53.105941",
   "verdict_source": "overlay_score"
 }

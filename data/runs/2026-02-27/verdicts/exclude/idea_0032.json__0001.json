@@ -1,5 +1,5 @@
 {
-  "idea_text": "A service that monitors and optimizes energy usage for commercial properties",
+  "idea_text": "A service that monitors commercial property listings and alerts property managers to new opportunities.",
   "scores": {
     "pricing_power": 40,
     "user_count": 40,
@@ -10,6 +10,6 @@
   "overlay_score": 40,
   "arr_score": 40,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.033030",
+  "verdict_timestamp": "2026-02-27T13:00:53.109915",
   "verdict_source": "overlay_score"
 }

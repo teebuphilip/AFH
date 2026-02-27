@@ -1,15 +1,15 @@
 {
-  "idea_text": "A system that converts spreadsheet data into visually appealing reports",
+  "idea_text": "A system that converts customer feedback into actionable insights for sales teams.",
   "scores": {
-    "pricing_power": 50,
-    "user_count": 40,
+    "pricing_power": 40,
+    "user_count": 90,
     "automation": 40,
-    "market_clarity": 40,
+    "market_clarity": 50,
     "competition_inverse": 40
   },
-  "overlay_score": 43,
-  "arr_score": 44,
+  "overlay_score": 54,
+  "arr_score": 56,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.034902",
+  "verdict_timestamp": "2026-02-27T13:00:53.111384",
   "verdict_source": "overlay_score"
 }

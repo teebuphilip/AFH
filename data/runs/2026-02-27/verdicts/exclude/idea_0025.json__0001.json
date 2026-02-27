@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automation that processes expense reports and outputs reimbursement summaries for small teams.",
+  "idea_text": "Automation that processes support chat transcripts and outputs common issue reports for support teams.",
   "scores": {
     "pricing_power": 40,
     "user_count": 90,
@@ -10,6 +10,6 @@
   "overlay_score": 52,
   "arr_score": 55,
   "verdict": "EXCLUDE",
-  "verdict_timestamp": "2026-02-27T09:30:29.031880",
+  "verdict_timestamp": "2026-02-27T13:00:53.108999",
   "verdict_source": "overlay_score"
 }

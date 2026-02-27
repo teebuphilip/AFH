@@ -1,5 +1,15 @@
 # AFH Pipeline TODO
 
+## Status Update (2026-02-27)
+
+Recent fixes are on branch `fix/pipeline-run-paths` (PR #8):
+- Step 5 ARR scoring now uses run-specific paths and aligns with Step 3 output schema
+- Step 7 AF gate HOLD outputs are run-specific
+- Step 4.2 verdict routing preserves scored artifacts for auditability
+- Metrics rollup now counts raw JSONL and supports forced refresh
+
+Pending merge to `main`.
+
 ## Priority Issues
 
 ### 1. Scoring Algorithm Too Conservative ⚠️ HIGH PRIORITY

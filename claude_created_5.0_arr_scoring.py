@@ -5,30 +5,33 @@ arr_scoring.py
 
 AFH v1.3 — ARR Feasibility Scoring
 ---------------------------------
-Calculates ARR score from existing dimension scores
+Calculates ARR score from existing scores (or uses arr_score)
 and routes ideas to FO intake, HOLD, or EXCLUDE.
 """
 
 import json
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, date
 
 # -----------------------------
 # CONFIG (LOCKED)
 # -----------------------------
 
-INPUT_DIR = Path("data/verdicts/keep")
+run_date = date.today().isoformat()
+RUN_BASE = Path("data") / "runs" / run_date
+
+INPUT_DIR = RUN_BASE / "verdicts" / "keep"
 
 OUTPUT_DIRS = {
     "FO_INTAKE": Path("data/ready/fo_intake"),
-    "HOLD": Path("data/verdicts/hold"),
-    "EXCLUDE": Path("data/verdicts/exclude"),
+    "HOLD": RUN_BASE / "verdicts" / "hold",
+    "EXCLUDE": RUN_BASE / "verdicts" / "exclude",
 }
 
 ARR_WEIGHTS = {
     "pricing_power": 0.35,
-    "user_count_feasibility": 0.30,
-    "automation_level": 0.20,
+    "user_count": 0.30,
+    "automation": 0.20,
     "market_clarity": 0.10,
     "competition_inverse": 0.05,
 }
@@ -41,11 +44,8 @@ HOLD_THRESHOLD = 70
 # HELPERS
 # -----------------------------
 
-def compute_arr_score(dim_scores: dict) -> float:
-    return round(
-        sum(dim_scores[k] * w for k, w in ARR_WEIGHTS.items()),
-        2
-    )
+def compute_arr_score(scores: dict) -> float:
+    return round(sum(scores[k] * w for k, w in ARR_WEIGHTS.items()), 2)
 
 
 def determine_arr_verdict(score: float) -> str:
@@ -77,10 +77,12 @@ def main():
         with open(file_path, "r") as f:
             obj = json.load(f)
 
-        if "dimension_scores" not in obj:
-            raise ValueError(f"Missing dimension_scores in {file_path.name}")
-
-        arr_score = compute_arr_score(obj["dimension_scores"])
+        if "arr_score" in obj:
+            arr_score = float(obj["arr_score"])
+        elif "scores" in obj:
+            arr_score = compute_arr_score(obj["scores"])
+        else:
+            raise ValueError(f"Missing scores/arr_score in {file_path.name}")
         verdict = determine_arr_verdict(arr_score)
 
         obj["arr_score"] = arr_score
