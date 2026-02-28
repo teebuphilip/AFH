@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that automatically tracks and categorizes freelance invoices for quick monthly tax reporting.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 55,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-02-28T09:15:41.360905",
+  "verdict_source": "overlay_score"
+}

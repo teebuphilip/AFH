@@ -1,0 +1,12 @@
+{
+  "idea_text": "Tool that automatically compiles monthly utility usage reports from scanned meter readings for landlords.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 55,
+  "arr_score": 58
+}
