@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors and reports on employee productivity for operations managers.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 40,
+    "automation": 40,
+    "market_clarity": 70,
+    "competition_inverse": 40
+  },
+  "overlay_score": 43,
+  "arr_score": 43,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-03-01T09:18:42.246015",
+  "verdict_source": "overlay_score"
+}

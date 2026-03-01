@@ -1,0 +1,15 @@
+{
+  "idea_text": "An automation that processes customer support emails and outputs standardized responses for customer service teams.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 90,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 52,
+  "arr_score": 55,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-03-01T09:18:42.244267",
+  "verdict_source": "overlay_score"
+}

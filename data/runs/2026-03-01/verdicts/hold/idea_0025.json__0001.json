@@ -1,0 +1,15 @@
+{
+  "idea_text": "Automation that converts raw sales data into formatted commission reports for sales teams.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 90,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 56,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-01T09:18:42.243561",
+  "verdict_source": "overlay_score"
+}
