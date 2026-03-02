@@ -1,0 +1,15 @@
+{
+  "idea_text": "A dashboard that visualizes financial data and generates reports for accountants.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 59,
+  "arr_score": 60,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-02T09:37:00.207295",
+  "verdict_source": "overlay_score"
+}

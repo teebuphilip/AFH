@@ -1,0 +1,17 @@
+{
+  "idea_text": "A system that converts real estate listings into virtual tour experiences for property managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 68,
+  "arr_score": 66.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-02T09:37:00.208523",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-03-02T09:37:00.243351"
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "A tool that automatically generates marketing content and tracks engagement for social media managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 30,
+    "competition_inverse": 55
+  },
+  "overlay_score": 61,
+  "arr_score": 60,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-02T09:37:00.208918",
+  "verdict_source": "overlay_score"
+}

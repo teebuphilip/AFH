@@ -1,0 +1,17 @@
+{
+  "idea_text": "An automation that processes expense reports and outputs approved reimbursements for HR coordinators.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-02T09:37:00.207436",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-03-02T09:37:00.241389"
+}
