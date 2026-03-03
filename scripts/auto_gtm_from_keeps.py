@@ -47,6 +47,23 @@ def _estimate_cost(tokens_in: int, tokens_out: int, in_rate: float, out_rate: fl
     return (tokens_in / 1000.0) * in_rate + (tokens_out / 1000.0) * out_rate
 
 
+def _extract_json(text: str):
+    text = (text or "").strip()
+    if not text:
+        raise ValueError("Empty response")
+    # Try full parse
+    try:
+        return json.loads(text)
+    except Exception:
+        pass
+    # Try to extract first JSON object in the text
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        return json.loads(text[start : end + 1])
+    raise ValueError("No JSON object found")
+
+
 def chatgpt_score(client, idea_text: str, cost_log: Path):
     prompt = {
         "role": "user",
@@ -60,22 +77,29 @@ def chatgpt_score(client, idea_text: str, cost_log: Path):
             f"Idea: {idea_text}"
         ),
     }
-    resp = client.chat.completions.create(
-        model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
-        messages=[prompt],
-        temperature=0.2,
-    )
-    data = json.loads(resp.choices[0].message.content)
-    usage = getattr(resp, "usage", None)
-    if usage:
-        in_tokens = usage.prompt_tokens or 0
-        out_tokens = usage.completion_tokens or 0
-        # allow configurable cost rates
-        in_rate = float(os.getenv("OPENAI_IN_COST_PER_1K", "0"))
-        out_rate = float(os.getenv("OPENAI_OUT_COST_PER_1K", "0"))
-        cost = _estimate_cost(in_tokens, out_tokens, in_rate, out_rate)
-        _append_cost_row(cost_log, "openai", cost, in_tokens, out_tokens)
-    return data
+    last_err = None
+    for _ in range(3):
+        resp = client.chat.completions.create(
+            model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
+            messages=[prompt],
+            temperature=0.2,
+            response_format={"type": "json_object"},
+        )
+        usage = getattr(resp, "usage", None)
+        if usage:
+            in_tokens = usage.prompt_tokens or 0
+            out_tokens = usage.completion_tokens or 0
+            # allow configurable cost rates
+            in_rate = float(os.getenv("OPENAI_IN_COST_PER_1K", "0"))
+            out_rate = float(os.getenv("OPENAI_OUT_COST_PER_1K", "0"))
+            cost = _estimate_cost(in_tokens, out_tokens, in_rate, out_rate)
+            _append_cost_row(cost_log, "openai", cost, in_tokens, out_tokens)
+        try:
+            return _extract_json(resp.choices[0].message.content)
+        except Exception as e:
+            last_err = e
+            continue
+    raise SystemExit(f"Failed to parse ChatGPT JSON: {last_err}")
 
 
 def claude_score(client, idea_text: str, cost_log: Path):
