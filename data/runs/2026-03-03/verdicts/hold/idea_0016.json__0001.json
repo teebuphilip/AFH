@@ -1,0 +1,15 @@
+{
+  "idea_text": "Dashboard that consolidates vendor invoice statuses and sends payment reminders to operations managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 62,
+  "arr_score": 63,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-03T09:31:02.707949",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "Dashboard that tracks pending contract signatures and sends reminders to sales teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-03T09:31:02.709130",
+  "verdict_source": "overlay_score"
+}
