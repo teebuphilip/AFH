@@ -37,7 +37,7 @@ def _append_cost_row(csv_path: Path, ai: str, cost: float, in_tokens: int, out_t
     if not csv_path.exists():
         csv_path.write_text("date,time,ai,cost,input_tokens,output_tokens\n")
     now = datetime.utcnow()
-    row = f\"{now.date()},{now.strftime('%H:%M:%S')},{ai},{cost:.6f},{in_tokens},{out_tokens}\\n\"
+    row = f"{now.date()},{now.strftime('%H:%M:%S')},{ai},{cost:.6f},{in_tokens},{out_tokens}\n"
     with open(csv_path, \"a\", encoding=\"utf-8\") as f:
         f.write(row)
 
