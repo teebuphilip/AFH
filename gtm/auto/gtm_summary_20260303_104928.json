@@ -1,0 +1,456 @@
+{
+  "top": [
+    {
+      "idea_text": "Automation that generates monthly financial summaries from raw bookkeeping data for accountants.",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0011.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "High demand for automation in accounting; requires solid data processing capabilities."
+        }
+      ]
+    },
+    {
+      "idea_text": "Automation that processes client feedback forms and outputs prioritized improvement tasks for support teams.",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0019.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "Demand for feedback processing tools is high; requires integration with existing systems."
+        }
+      ]
+    },
+    {
+      "idea_text": "A tool that automatically generates expense reports for small businesses",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0036.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "High demand among small businesses; integration with accounting software can enhance value."
+        }
+      ]
+    }
+  ],
+  "all": [
+    {
+      "idea_text": "Automation that generates monthly financial summaries from raw bookkeeping data for accountants.",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0011.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "High demand for automation in accounting; requires solid data processing capabilities."
+        }
+      ]
+    },
+    {
+      "idea_text": "Automation that processes client feedback forms and outputs prioritized improvement tasks for support teams.",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0019.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "Demand for feedback processing tools is high; requires integration with existing systems."
+        }
+      ]
+    },
+    {
+      "idea_text": "A tool that automatically generates expense reports for small businesses",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0036.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "High demand among small businesses; integration with accounting software can enhance value."
+        }
+      ]
+    },
+    {
+      "idea_text": "A tool that automatically generates social media content calendars for small businesses",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0041.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "High demand for social media tools; requires initial development but can scale with minimal updates."
+        }
+      ]
+    },
+    {
+      "idea_text": "A tool that automatically generates SEO-optimized blog posts for small businesses",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0046.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "High demand for SEO tools; requires ongoing content updates and algorithm adjustments."
+        }
+      ]
+    },
+    {
+      "idea_text": "A dashboard that summarizes key marketing metrics for small businesses",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0049.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "High demand for marketing insights; requires integration with various platforms."
+        }
+      ]
+    },
+    {
+      "idea_text": "A dashboard that visualizes key sales metrics like pipeline, conversion rates, and revenue forecasts for small sales teams.",
+      "keep_path": "data/runs/2026-02-19/verdicts/keep/idea_0034.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "Strong demand for sales tools; requires integration with existing systems."
+        }
+      ]
+    },
+    {
+      "idea_text": "A tool that automatically generates detailed monthly financial reports for small businesses.",
+      "keep_path": "data/runs/2026-02-20/verdicts/keep/idea_0026.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "High demand for financial tools; requires integration with accounting software."
+        }
+      ]
+    },
+    {
+      "idea_text": "A cloud-based platform that manages and tracks inventory levels for small retail businesses, with automated reordering capabilities.",
+      "keep_path": "data/runs/2026-02-21/verdicts/keep/idea_0036.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "Strong demand for inventory solutions; automated features enhance appeal to small retailers."
+        }
+      ]
+    },
+    {
+      "idea_text": "Service that monitors subscription payments and sends alerts before renewal dates to freelancers and small teams.",
+      "keep_path": "data/runs/2026-02-24/verdicts/keep/idea_0007.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "High demand among freelancers; requires integration with payment systems."
+        }
+      ]
+    },
+    {
+      "idea_text": "Tool that monitors contract renewal dates and sends automated reminders to sales teams.",
+      "keep_path": "data/runs/2026-02-25/verdicts/keep/idea_0018.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 8.0,
+        "chance_300_mrr_6mo": 6.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 8,
+          "chance_300_mrr_6mo": 6,
+          "notes": "Moderate complexity; requires integration with existing systems. Demand exists, but competition is strong."
+        }
+      ]
+    },
+    {
+      "idea_text": "A dashboard that tracks sales pipeline metrics and provides forecasting for small sales teams.",
+      "keep_path": "data/runs/2026-02-26/verdicts/keep/idea_0033.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 8.0
+      },
+      "total": 21.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 8,
+          "notes": "Strong demand for sales tools; requires integration with existing systems."
+        }
+      ]
+    },
+    {
+      "idea_text": "Automation that processes scanned invoices and outputs categorized accounting entries for small businesses.",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0003.json__0001.json",
+      "avg": {
+        "ease_to_build": 6.0,
+        "ease_to_maintain": 5.0,
+        "chance_300_mrr_6mo": 7.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 6,
+          "ease_to_maintain": 5,
+          "chance_300_mrr_6mo": 7,
+          "notes": "Moderate complexity in development; ongoing maintenance needed for accuracy. Demand exists among small businesses."
+        }
+      ]
+    },
+    {
+      "idea_text": "Tool that converts handwritten delivery logs into digital spreadsheets for small logistics businesses.",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0010.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 5.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 5,
+          "notes": "Moderate complexity in OCR technology; potential market but requires effective marketing to reach MRR goal."
+        }
+      ]
+    },
+    {
+      "idea_text": "Automation that converts paper timesheets into digital payroll-ready formats for small businesses.",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0024.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 5.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 5,
+          "notes": "Moderate complexity in development; ongoing support needed. Market demand exists but competition is strong."
+        }
+      ]
+    },
+    {
+      "idea_text": "A dashboard that visualizes sales pipeline data for small sales teams",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0034.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 5.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 5,
+          "notes": "Moderate complexity; requires data integration. Market demand exists but competition is high."
+        }
+      ]
+    },
+    {
+      "idea_text": "A system that converts social media posts into branded content for marketing teams",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0038.json__0001.json",
+      "avg": {
+        "ease_to_build": 6.0,
+        "ease_to_maintain": 5.0,
+        "chance_300_mrr_6mo": 7.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 6,
+          "ease_to_maintain": 5,
+          "chance_300_mrr_6mo": 7,
+          "notes": "Moderate complexity in development; requires ongoing updates and marketing outreach for MRR growth."
+        }
+      ]
+    },
+    {
+      "idea_text": "A dashboard that summarizes key HR metrics for small businesses",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0039.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 5.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 5,
+          "notes": "Moderate complexity; requires integration with existing HR systems and user acquisition efforts."
+        }
+      ]
+    },
+    {
+      "idea_text": "A dashboard that visualizes project management data for small teams",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0044.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 5.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 5,
+          "notes": "Moderate complexity; requires integration with existing tools. Potential market, but competition is strong."
+        }
+      ]
+    },
+    {
+      "idea_text": "An automation that processes payroll data and generates tax reports for small businesses",
+      "keep_path": "data/runs/2026-02-18/verdicts/keep/idea_0045.json__0001.json",
+      "avg": {
+        "ease_to_build": 6.0,
+        "ease_to_maintain": 5.0,
+        "chance_300_mrr_6mo": 7.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 6,
+          "ease_to_maintain": 5,
+          "chance_300_mrr_6mo": 7,
+          "notes": "Moderate complexity due to regulatory requirements; potential demand from small businesses."
+        }
+      ]
+    },
+    {
+      "idea_text": "A mobile app that tracks and manages the licensing and certification requirements for small businesses, with automated renewal notifications.",
+      "keep_path": "data/runs/2026-02-21/verdicts/keep/idea_0046.json__0001.json",
+      "avg": {
+        "ease_to_build": 6.0,
+        "ease_to_maintain": 5.0,
+        "chance_300_mrr_6mo": 7.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 6,
+          "ease_to_maintain": 5,
+          "chance_300_mrr_6mo": 7,
+          "notes": "Moderate complexity; requires integration with various regulatory databases and user engagement for subscriptions."
+        }
+      ]
+    },
+    {
+      "idea_text": "Dashboard that summarizes monthly subscription costs and usage for small teams to control expenses.",
+      "keep_path": "data/runs/2026-02-22/verdicts/keep/idea_0017.json__0001.json",
+      "avg": {
+        "ease_to_build": 7.0,
+        "ease_to_maintain": 6.0,
+        "chance_300_mrr_6mo": 5.0
+      },
+      "total": 18.0,
+      "raw_scores": [
+        {
+          "ease_to_build": 7,
+          "ease_to_maintain": 6,
+          "chance_300_mrr_6mo": 5,
+          "notes": "Moderate complexity; requires integration with various subscription services and user engagement for growth."
+        }
+      ]
+    }
+  ]
+}
