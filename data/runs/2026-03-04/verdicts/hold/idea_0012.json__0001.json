@@ -1,0 +1,18 @@
+{
+  "idea_text": "Service that monitors customer feedback emails and sends alerts for urgent issues to support teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-04T09:29:16.993957",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-04T09:29:17.037785",
+  "hold_reason": "arr_70_89"
+}

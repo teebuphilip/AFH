@@ -1,0 +1,18 @@
+{
+  "idea_text": "Automation that processes payroll timesheets and outputs formatted payment files for accountants.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 71,
+  "arr_score": 70.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-04T09:29:16.993510",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-04T09:29:17.034112",
+  "hold_reason": "arr_70_89"
+}
