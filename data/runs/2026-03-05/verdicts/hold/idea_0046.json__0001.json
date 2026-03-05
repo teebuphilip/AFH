@@ -1,0 +1,15 @@
+{
+  "idea_text": "A tool that automatically generates and sends personalized client reports for freelance consultants.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-05T09:32:19.856855",
+  "verdict_source": "overlay_score"
+}

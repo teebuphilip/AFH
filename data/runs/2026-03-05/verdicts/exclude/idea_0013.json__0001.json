@@ -1,0 +1,17 @@
+{
+  "idea_text": "System that converts handwritten delivery notes into digital inventory updates for logistics managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-05T09:32:19.852336",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-03-05T09:32:19.889385"
+}

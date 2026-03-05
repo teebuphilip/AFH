@@ -1,0 +1,15 @@
+{
+  "idea_text": "Automation that processes client onboarding forms and outputs organized client profiles for consultants.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-05T09:32:19.852596",
+  "verdict_source": "overlay_score"
+}
