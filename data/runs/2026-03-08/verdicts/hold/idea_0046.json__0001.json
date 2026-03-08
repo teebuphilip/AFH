@@ -1,0 +1,15 @@
+{
+  "idea_text": "A tool that automatically schedules social media posts and tracks engagement for small marketing agencies.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 30,
+    "competition_inverse": 55
+  },
+  "overlay_score": 61,
+  "arr_score": 60,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-08T09:18:32.079300",
+  "verdict_source": "overlay_score"
+}

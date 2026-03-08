@@ -1,0 +1,17 @@
+{
+  "idea_text": "Automation that processes incoming support emails and categorizes them by urgency for small business owners.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 68,
+  "arr_score": 66.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-08T09:18:32.072907",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-03-08T09:18:32.109740"
+}
