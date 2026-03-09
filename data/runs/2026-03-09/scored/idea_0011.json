@@ -1,0 +1,12 @@
+{
+  "idea_text": "Service that scans email inboxes and flags unresponded client inquiries older than 48 hours for small business owners.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 59,
+  "arr_score": 60
+}

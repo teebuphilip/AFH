@@ -1,0 +1,12 @@
+{
+  "idea_text": "Service that monitors customer support ticket volume and sends alerts when thresholds are exceeded for support teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72
+}
