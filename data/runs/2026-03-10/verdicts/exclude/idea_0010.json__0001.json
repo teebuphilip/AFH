@@ -1,0 +1,17 @@
+{
+  "idea_text": "System that converts email meeting requests into calendar events with automated reminders for operations managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 69,
+  "arr_score": 68.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-10T09:32:48.810325",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-03-10T09:32:48.845226"
+}
