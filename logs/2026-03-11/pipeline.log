@@ -1,0 +1,30 @@
+→ Running: claude_created_1.0_generate_ideas.py
+✅ Wrote:
+  /home/runner/work/AFH/AFH/data/runs/2026-03-11/raw/chatgpt_2026-03-11.jsonl
+  /home/runner/work/AFH/AFH/data/runs/2026-03-11/raw/claude_2026-03-11.jsonl
+
+✅ claude_created_1.0_generate_ideas.py completed
+→ Running: claude_created_2.0_normalize_and_dedup.py
+✅ Normalized and deduped 50 ideas to data/runs/2026-03-11/normalized
+
+✅ claude_created_2.0_normalize_and_dedup.py completed
+→ Running: claude_created_3.0_score_overlay_and_arr.py
+✅ claude_created_3.0_score_overlay_and_arr.py completed
+→ Running: claude_created_4.2_verdict_routing.py
+Verdict routing complete. Processed 50 files. Wrote 50 idea files.
+
+✅ claude_created_4.2_verdict_routing.py completed
+→ Running: claude_created_5.0_arr_scoring.py
+ARR scoring complete. Processed 30 files.
+
+✅ claude_created_5.0_arr_scoring.py completed
+⏭️  Skipping FO intake - no KEEP ideas
+⏭️  Skipping AF gate - no FO intake files
+→ Running: claude_created_8.0_promote_to_catalog.py
+✅ claude_created_8.0_promote_to_catalog.py completed
+→ Running: claude_created_9.0_tag_holding.py
+Catalog built: data/catalog/catalog.json (1123 ideas from all runs)
+
+✅ claude_created_9.0_tag_holding.py completed
+→ Running: claude_created_10.0_daily_metrics_rollup.py
+✅ claude_created_10.0_daily_metrics_rollup.py completed
