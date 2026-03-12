@@ -1,0 +1,17 @@
+{
+  "idea_text": "Automation that processes inventory stock levels and outputs reorder alerts for small retail owners.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-12T09:32:31.910746",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-03-12T09:32:31.947979"
+}
