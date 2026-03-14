@@ -1,0 +1,18 @@
+{
+  "idea_text": "Service that monitors software error logs and sends actionable alerts to IT support teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-14T09:22:00.053992",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-14T09:22:00.088689",
+  "hold_reason": "arr_70_89"
+}
