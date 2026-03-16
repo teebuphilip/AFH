@@ -1,0 +1,15 @@
+{
+  "idea_text": "A monitoring service that tracks key performance indicators for small professional service firms and provides analytics.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 50,
+    "competition_inverse": 55
+  },
+  "overlay_score": 63,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-16T09:53:12.549494",
+  "verdict_source": "overlay_score"
+}
