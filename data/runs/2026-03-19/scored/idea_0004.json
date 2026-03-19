@@ -1,0 +1,12 @@
+{
+  "idea_text": "Dashboard that summarizes daily sales leads status and sends alerts for overdue follow-ups to sales reps.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62
+}

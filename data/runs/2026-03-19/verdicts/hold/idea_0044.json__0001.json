@@ -1,0 +1,15 @@
+{
+  "idea_text": "A dashboard that summarizes key marketing metrics and sends performance reports for small agencies and entrepreneurs.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-19T09:32:34.779689",
+  "verdict_source": "overlay_score"
+}
