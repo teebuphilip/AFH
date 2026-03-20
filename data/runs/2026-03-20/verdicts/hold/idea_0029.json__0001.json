@@ -1,0 +1,15 @@
+{
+  "idea_text": "A dashboard that summarizes key recruiting metrics and provides insights for corporate HR coordinators.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 50,
+    "competition_inverse": 55
+  },
+  "overlay_score": 63,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-20T09:30:01.546545",
+  "verdict_source": "overlay_score"
+}

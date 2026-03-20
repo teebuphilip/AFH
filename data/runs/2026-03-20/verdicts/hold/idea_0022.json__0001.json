@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that generates daily operational checklists for small business owners based on past task completion data.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 59,
+  "arr_score": 60,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-20T09:30:01.545569",
+  "verdict_source": "overlay_score"
+}
