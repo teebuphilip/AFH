@@ -1,0 +1,18 @@
+{
+  "idea_text": "An automation that processes expense reports and generates compliance-ready documentation for operations managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 71,
+  "arr_score": 70.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-21T09:21:23.507792",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-21T09:21:23.545796",
+  "hold_reason": "arr_70_89"
+}

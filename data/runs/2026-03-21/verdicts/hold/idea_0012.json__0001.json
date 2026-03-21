@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that monitors employee time sheets and flags missing or inconsistent entries for HR coordinators.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-21T09:21:23.504569",
+  "verdict_source": "overlay_score"
+}
