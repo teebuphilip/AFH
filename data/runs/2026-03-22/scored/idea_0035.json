@@ -1,0 +1,12 @@
+{
+  "idea_text": "A service that monitors job board postings and sends alerts when roles matching a recruiter's criteria are listed.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62
+}

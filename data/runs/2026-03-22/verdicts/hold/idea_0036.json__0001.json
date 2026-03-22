@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that converts customer support tickets into knowledge base articles and FAQs.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-22T09:21:38.613175",
+  "verdict_source": "overlay_score"
+}
