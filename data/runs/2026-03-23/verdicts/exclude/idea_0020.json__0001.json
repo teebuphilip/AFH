@@ -1,0 +1,17 @@
+{
+  "idea_text": "System that converts handwritten inventory logs into digital spreadsheets with validation for small warehouses.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 66,
+  "arr_score": 64.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-23T09:56:52.121429",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-03-23T09:56:52.160715"
+}
