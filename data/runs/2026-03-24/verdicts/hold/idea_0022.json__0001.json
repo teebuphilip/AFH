@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that converts handwritten delivery logs into searchable digital records for small logistics operators.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-24T09:43:46.211036",
+  "verdict_source": "overlay_score"
+}
