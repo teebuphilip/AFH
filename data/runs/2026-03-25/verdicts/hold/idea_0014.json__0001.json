@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that generates standardized job offer letters from recruiter input data.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 55,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-25T09:41:37.289732",
+  "verdict_source": "overlay_score"
+}

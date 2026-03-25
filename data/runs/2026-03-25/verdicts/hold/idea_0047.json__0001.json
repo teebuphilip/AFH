@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that converts employee data into personalized performance review documents for managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-25T09:41:37.294490",
+  "verdict_source": "overlay_score"
+}
