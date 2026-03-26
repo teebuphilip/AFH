@@ -1,0 +1,15 @@
+{
+  "idea_text": "An automated system that generates custom reports and dashboards for small accounting firms.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-26T09:51:13.281632",
+  "verdict_source": "overlay_score"
+}
