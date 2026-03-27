@@ -38,6 +38,21 @@ def count_json_files(path: Path) -> int:
         return 0
     return len(list(path.glob("*.json")))
 
+def collect_scored_stems(path: Path) -> set:
+    if not path.exists():
+        return set()
+    return {p.stem for p in path.glob("*.json")}
+
+def count_verdicts_for_scored(verdict_dir: Path, scored_stems: set) -> int:
+    if not verdict_dir.exists() or not scored_stems:
+        return 0
+    total = 0
+    for p in verdict_dir.glob("*.json"):
+        base = p.stem.split("__", 1)[0]
+        if base in scored_stems:
+            total += 1
+    return total
+
 
 def read_metrics_entry(metrics_path: Path, run_date: str) -> Optional[dict]:
     if not metrics_path.exists():
@@ -73,10 +88,17 @@ def main() -> int:
     total_raw_today = chat_count + claude_count
 
     normalized_today = count_json_files(run_base / "normalized")
-    scored_today = count_json_files(run_base / "scored")
-    keep_today = count_json_files(run_base / "verdicts" / "keep")
-    hold_today = count_json_files(run_base / "verdicts" / "hold")
-    exclude_today = count_json_files(run_base / "verdicts" / "exclude")
+    scored_dir = run_base / "scored"
+    scored_today = count_json_files(scored_dir)
+    scored_stems = collect_scored_stems(scored_dir)
+
+    keep_dir = run_base / "verdicts" / "keep"
+    hold_dir = run_base / "verdicts" / "hold"
+    exclude_dir = run_base / "verdicts" / "exclude"
+
+    keep_today = count_verdicts_for_scored(keep_dir, scored_stems)
+    hold_today = count_verdicts_for_scored(hold_dir, scored_stems)
+    exclude_today = count_verdicts_for_scored(exclude_dir, scored_stems)
     verdict_total = keep_today + hold_today + exclude_today
 
     if strict and scored_today > 0 and verdict_total != scored_today:
