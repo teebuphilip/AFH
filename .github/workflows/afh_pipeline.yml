@@ -67,6 +67,15 @@ jobs:
           cat /tmp/afh_daily_email.txt >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
 
+      - name: Validate email secrets
+        run: |
+          if [ -z "${ALERT_EMAIL_TO}" ]; then
+            echo "Missing ALERT_EMAIL_TO"; exit 1; fi
+          if [ -z "${{ secrets.ALERT_EMAIL_USER }}" ]; then
+            echo "Missing ALERT_EMAIL_USER"; exit 1; fi
+          if [ -z "${{ secrets.ALERT_EMAIL_PASS }}" ]; then
+            echo "Missing ALERT_EMAIL_PASS"; exit 1; fi
+
       - name: Commit results
         run: |
           git config user.name "afh-bot"
