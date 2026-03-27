@@ -1,18 +1,18 @@
 {
-  "idea_text": "A dashboard that summarizes key HR metrics and compliance tasks for small business HR coordinators.",
+  "idea_text": "A dashboard that summarizes key financial metrics for small businesses, pulling data from their accounting software.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70.0,
+  "overlay_score": 72,
+  "arr_score": 72.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:17:17.967089",
+  "verdict_timestamp": "2026-03-27T18:38:26.865621",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T18:17:18.000832",
+  "arr_scored_at": "2026-03-27T18:38:26.896211",
   "hold_reason": "arr_70_89"
 }

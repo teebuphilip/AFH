@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that processes customer support emails and outputs suggested responses for customer service teams.",
+  "idea_text": "An automation that processes employee time-off requests and outputs a consolidated schedule for managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

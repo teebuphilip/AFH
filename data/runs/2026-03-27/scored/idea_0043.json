@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts sales call recordings into actionable insights for sales managers.",
+  "idea_text": "A system that converts physical documents into searchable digital archives for small offices.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 50,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 63,
+  "overlay_score": 64,
   "arr_score": 62
 }

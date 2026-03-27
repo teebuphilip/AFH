@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors customer subscription renewals and sends alerts for upcoming expirations.",
+  "idea_text": "Dashboard that summarizes utility usage trends and forecasts monthly costs for property managers.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 80,
+  "arr_score": 80
 }

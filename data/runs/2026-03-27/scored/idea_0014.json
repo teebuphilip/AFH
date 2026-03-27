@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically generates weekly payroll summaries from timesheet data for HR coordinators.",
+  "idea_text": "Dashboard that summarizes daily customer support ticket volumes and resolution times.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 64,
+  "arr_score": 62
 }

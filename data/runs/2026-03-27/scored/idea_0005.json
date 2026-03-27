@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts handwritten expense receipts into structured digital expense reports for small business owners.",
+  "idea_text": "Automation that processes incoming customer support emails and categorizes them by priority.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 64,
+  "arr_score": 62
 }

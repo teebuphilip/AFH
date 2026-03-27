@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically schedules and confirms client appointments for independent accountants.",
+  "idea_text": "A tool that automatically creates and schedules social media posts for local service providers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 64,
+  "arr_score": 62
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts voice meeting notes into structured action item lists for project managers.",
+  "idea_text": "Tool that automatically generates compliance checklists based on industry regulations for operations managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 71,
+  "arr_score": 70
 }

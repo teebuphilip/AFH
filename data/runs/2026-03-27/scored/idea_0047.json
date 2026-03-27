@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors website traffic and sends alerts about sudden changes for small e-commerce businesses.",
+  "idea_text": "A service that monitors changes in industry trends and sends customized insights to small business owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 67,
+  "arr_score": 66
 }

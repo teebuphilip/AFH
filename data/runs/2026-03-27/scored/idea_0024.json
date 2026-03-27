@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that processes freelance contract templates and populates client-specific details automatically.",
+  "idea_text": "Dashboard that summarizes monthly employee performance review statuses for HR coordinators.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 74,
+  "arr_score": 74
 }

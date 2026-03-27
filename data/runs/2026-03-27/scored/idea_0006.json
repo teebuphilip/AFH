@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically generates monthly sales commission reports from CRM data for sales managers.",
+  "idea_text": "Tool that automatically tracks and reminds freelancers of upcoming tax deadlines based on income data.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 71,
+  "arr_score": 70
 }

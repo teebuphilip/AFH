@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors website uptime and sends alerts when a site goes down for small business owners.",
+  "idea_text": "A service that monitors website uptime and server performance, and sends alerts when issues are detected.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 64,
+  "arr_score": 62
 }

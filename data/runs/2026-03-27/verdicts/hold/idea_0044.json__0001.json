@@ -1,15 +1,15 @@
 {
-  "idea_text": "A dashboard that aggregates and visualizes key performance metrics for small marketing agencies.",
+  "idea_text": "A dashboard that tracks and visualizes key sales metrics for small business owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55,
+  "overlay_score": 59,
+  "arr_score": 60,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:17:17.969368",
+  "verdict_timestamp": "2026-03-27T18:38:26.868178",
   "verdict_source": "overlay_score"
 }

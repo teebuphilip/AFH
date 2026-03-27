@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that monitors rental property utility usage and sends alerts for unusual spikes.",
+  "idea_text": "Service that monitors rental property utility usage and sends alerts for abnormal consumption to landlords.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T17:34:10.070601",
+  "verdict_timestamp": "2026-03-27T18:38:26.861272",
   "verdict_source": "overlay_score"
 }

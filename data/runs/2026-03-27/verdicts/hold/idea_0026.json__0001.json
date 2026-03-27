@@ -1,5 +1,5 @@
 {
-  "idea_text": "A tool that automatically generates custom email signatures for businesses based on their brand guidelines.",
+  "idea_text": "A tool that automatically generates custom email signatures for businesses based on their branding and employee information.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
@@ -10,9 +10,9 @@
   "overlay_score": 72,
   "arr_score": 72.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T17:34:10.074357",
+  "verdict_timestamp": "2026-03-27T18:38:26.865129",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T17:34:10.110902",
+  "arr_scored_at": "2026-03-27T18:38:26.901662",
   "hold_reason": "arr_70_89"
 }

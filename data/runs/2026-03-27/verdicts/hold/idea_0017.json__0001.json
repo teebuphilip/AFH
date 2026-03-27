@@ -1,5 +1,5 @@
 {
-  "idea_text": "Dashboard that summarizes freelance client payment statuses and sends overdue reminders automatically.",
+  "idea_text": "Service that monitors employee attendance and sends alerts for irregular patterns to HR coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:17:17.965257",
+  "verdict_timestamp": "2026-03-27T18:38:26.863697",
   "verdict_source": "overlay_score"
 }

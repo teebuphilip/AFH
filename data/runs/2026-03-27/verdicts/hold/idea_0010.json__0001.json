@@ -1,5 +1,5 @@
 {
-  "idea_text": "Dashboard that summarizes employee leave balances and pending approvals for HR coordinators.",
+  "idea_text": "Automation that processes and archives employee timesheets for HR coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:11:18.775655",
+  "verdict_timestamp": "2026-03-27T18:38:26.862592",
   "verdict_source": "overlay_score"
 }

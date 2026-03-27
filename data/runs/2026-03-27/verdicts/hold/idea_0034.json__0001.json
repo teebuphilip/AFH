@@ -1,5 +1,5 @@
 {
-  "idea_text": "A dashboard that aggregates and visualizes recruiting metrics for HR coordinators at small and medium-sized businesses.",
+  "idea_text": "A dashboard that tracks and visualizes key recruitment metrics for HR teams.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 66,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:17:17.967835",
+  "verdict_timestamp": "2026-03-27T18:38:26.866512",
   "verdict_source": "overlay_score"
 }

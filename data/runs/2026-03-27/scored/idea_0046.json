@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically generates custom email signatures and tracks usage for small teams.",
+  "idea_text": "A tool that automatically generates custom invoices and estimates for freelancers and small businesses.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 76,
+  "arr_score": 76
 }

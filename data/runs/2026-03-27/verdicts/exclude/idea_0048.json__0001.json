@@ -1,17 +1,17 @@
 {
-  "idea_text": "A system that converts handwritten notes into digital to-do lists for busy professionals.",
+  "idea_text": "A system that converts handwritten meeting notes into shareable digital documents.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66.0,
+  "overlay_score": 65,
+  "arr_score": 64.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:17:17.969988",
+  "verdict_timestamp": "2026-03-27T18:38:26.868804",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T18:17:17.999791"
+  "arr_scored_at": "2026-03-27T18:38:26.895753"
 }
