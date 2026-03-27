@@ -39,6 +39,7 @@ The AFH pipeline is a 10-stage automated system that generates, scores, validate
 - Schedule: Daily at `09:00 UTC`
 - Entrypoint: `claude_created_0.0_run_afh_pipeline.py`
 - Commits: `data/`, `catalogs/`, `metrics/`, `logs/YYYY-MM-DD/`
+- Daily stats email: `codex_created_11.0_daily_stats_email.py` (sent to `ALERT_EMAIL_TO`)
 
 ### AFH Auto GTM
 - Workflow: `.github/workflows/auto_gtm.yml`
@@ -236,6 +237,15 @@ Appends a daily snapshot of counts and conversion ratios. Idempotent per UTC day
 
 ---
 
+### Stage 11: Daily Stats Email (workflow-only)
+**Script:** `codex_created_11.0_daily_stats_email.py`
+**Input:** `data/runs/YYYY-MM-DD/*` and `metrics/daily_metrics.jsonl`
+**Output:** Plain-text email body via GitHub Actions
+
+Summarizes daily ChatGPT/Claude idea counts, daily KEEP/HOLD/EXCLUDE, and total metrics across all runs. Sent by the workflow using SMTP credentials in `ALERT_EMAIL_USER` and `ALERT_EMAIL_PASS`.
+
+---
+
 ## Running the Pipeline
 
 ### Prerequisites
@@ -285,6 +295,7 @@ python3 claude_created_0.0_run_afh_pipeline.py
 | `claude_created_8.0_promote_to_catalog.py` | 8 | `data/af_bucket/` | `data/catalog/` | YES |
 | `claude_created_9.0_tag_holding.py` | 9 | `runs/*/verdicts/hold,exclude/` | `data/catalog/catalog.json` | NO |
 | `claude_created_10.0_daily_metrics_rollup.py` | 10 | All directories | `metrics/daily_metrics.jsonl` | NO |
+| `codex_created_11.0_daily_stats_email.py` | 11 | `runs/DATE/` + `metrics/` | Email body | NO |
 
 ---
 

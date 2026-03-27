@@ -74,6 +74,7 @@ If there is a conflict:
 - `AFH Daily Pipeline` (`.github/workflows/afh_pipeline.yml`)
   - Schedule: daily at `09:00 UTC`
   - Entrypoint: `claude_created_0.0_run_afh_pipeline.py`
+  - Daily stats email: uses `codex_created_11.0_daily_stats_email.py` and sends results to `ALERT_EMAIL_TO`
   - Commits: `data/`, `catalogs/`, `metrics/`, and `logs/YYYY-MM-DD/`
 - `AFH Auto GTM` (`.github/workflows/auto_gtm.yml`)
   - Schedule: monthly on the 3rd at `09:00 UTC`
