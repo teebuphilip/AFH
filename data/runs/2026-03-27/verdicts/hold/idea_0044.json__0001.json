@@ -1,0 +1,18 @@
+{
+  "idea_text": "A dashboard that summarizes key marketing metrics for small businesses, such as website traffic, lead generation, and social media engagement.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 30,
+    "competition_inverse": 55
+  },
+  "overlay_score": 70,
+  "arr_score": 70.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-27T09:43:11.681559",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-27T09:43:11.711291",
+  "hold_reason": "arr_70_89"
+}

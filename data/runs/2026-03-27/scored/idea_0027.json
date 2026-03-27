@@ -1,0 +1,12 @@
+{
+  "idea_text": "A service that monitors website uptime and sends alerts when a site goes down, with automated troubleshooting steps.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62
+}
