@@ -1,5 +1,5 @@
 {
-  "idea_text": "Tool that automatically generates weekly expense reports from bank transactions for freelancers.",
+  "idea_text": "Tool that automatically categorizes and reconciles bank transactions for freelance accountants.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
@@ -10,9 +10,9 @@
   "overlay_score": 71,
   "arr_score": 70.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:11:18.774287",
+  "verdict_timestamp": "2026-03-27T18:17:17.962636",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T18:11:18.814026",
+  "arr_scored_at": "2026-03-27T18:17:18.003329",
   "hold_reason": "arr_70_89"
 }

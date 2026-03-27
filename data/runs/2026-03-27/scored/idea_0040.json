@@ -1,10 +1,10 @@
 {
-  "idea_text": "A service that monitors vendor performance and sends alerts to procurement teams when issues arise.",
+  "idea_text": "An automation that processes customer feedback and generates insights for customer support teams.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
   "overlay_score": 72,

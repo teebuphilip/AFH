@@ -1,5 +1,5 @@
 {
-  "idea_text": "A service that automatically generates invoices and tracks payments for freelance service providers.",
+  "idea_text": "A tool that automatically generates invoices and tracks payments for freelance designers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,8 +10,8 @@
   "overlay_score": 67,
   "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:11:18.778125",
+  "verdict_timestamp": "2026-03-27T18:17:17.966695",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T18:11:18.817604"
+  "arr_scored_at": "2026-03-27T18:17:18.007015"
 }

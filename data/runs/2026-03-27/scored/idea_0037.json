@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that processes candidate resumes and generates personalized job offer templates for recruiters.",
+  "idea_text": "A service that monitors inventory levels and sends alerts when stock is running low for small e-commerce businesses.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 76,
+  "arr_score": 76
 }

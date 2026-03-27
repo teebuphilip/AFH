@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts physical receipts into digital expense reports for accountants.",
+  "idea_text": "A dashboard that aggregates and visualizes recruiting metrics for HR coordinators at small and medium-sized businesses.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 90,
-    "market_clarity": 90,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 64,
+  "arr_score": 66
 }

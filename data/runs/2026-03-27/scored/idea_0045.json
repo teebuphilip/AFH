@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that processes employee time-off requests and generates approval workflows for HR teams.",
+  "idea_text": "An automation that processes employee expense reports and generates reimbursement reports for small business owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 71,
+  "arr_score": 70
 }

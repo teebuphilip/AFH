@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically generates monthly sales commission reports for sales team managers.",
+  "idea_text": "Service that monitors employee attendance logs and sends alerts for anomalies to HR coordinators.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 83,
-  "arr_score": 85
+  "overlay_score": 64,
+  "arr_score": 62
 }

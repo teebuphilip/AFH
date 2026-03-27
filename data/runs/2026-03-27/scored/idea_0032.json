@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that processes customer support inquiries and outputs personalized response templates for service teams.",
+  "idea_text": "A service that monitors commercial property vacancy rates and sends alerts about potential tenants for property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 68,
+  "arr_score": 66
 }

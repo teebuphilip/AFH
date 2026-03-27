@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically generates email signatures and manages email marketing campaigns for small businesses.",
+  "idea_text": "An automation that processes employee timesheets and generates payroll reports for small business owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 71,
+  "arr_score": 70
 }

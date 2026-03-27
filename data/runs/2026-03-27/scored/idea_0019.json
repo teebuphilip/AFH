@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically generates compliance audit checklists from regulatory updates for operations managers.",
+  "idea_text": "Service that monitors customer subscription renewals and sends alerts for upcoming expirations.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 70,
+    "pricing_power": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 74,
+  "arr_score": 74
 }

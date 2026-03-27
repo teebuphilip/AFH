@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors website analytics and sends insights to marketing teams for small businesses.",
+  "idea_text": "A system that converts handwritten notes into digital to-do lists for busy professionals.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 50,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 68,
+  "arr_score": 66
 }

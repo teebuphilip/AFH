@@ -1,12 +1,12 @@
 {
-  "idea_text": "Dashboard that summarizes monthly cash flow trends and highlights irregularities for accountants.",
+  "idea_text": "Automation that converts handwritten delivery logs into digital tracking reports for logistics coordinators.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 79
+  "overlay_score": 64,
+  "arr_score": 62
 }

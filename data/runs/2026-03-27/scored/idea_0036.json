@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors employee productivity and sends alerts to operations managers when issues are detected.",
+  "idea_text": "A tool that automatically generates custom email templates and tracks campaign metrics for small marketing teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 68
+  "overlay_score": 72,
+  "arr_score": 72
 }

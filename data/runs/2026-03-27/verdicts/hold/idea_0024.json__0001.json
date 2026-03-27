@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automation that tracks employee training completions and outputs certification status reports for HR coordinators.",
+  "idea_text": "Automation that processes freelance contract templates and populates client-specific details automatically.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:11:18.777798",
+  "verdict_timestamp": "2026-03-27T18:17:17.966343",
   "verdict_source": "overlay_score"
 }

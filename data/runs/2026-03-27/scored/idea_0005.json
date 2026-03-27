@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts job applicant resumes into standardized evaluation scorecards for recruiters.",
+  "idea_text": "System that converts handwritten expense receipts into structured digital expense reports for small business owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 71,
+  "arr_score": 70
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Dashboard that summarizes daily website uptime and sends incident alerts to IT support staff.",
+  "idea_text": "Tool that automatically generates daily cash flow summaries from POS data for small business owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 68,
+  "arr_score": 66
 }

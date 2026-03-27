@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically generates and sends employee training certificates for HR coordinators.",
+  "idea_text": "A system that converts sales call recordings into actionable insights for sales managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
+  "overlay_score": 63,
   "arr_score": 62
 }

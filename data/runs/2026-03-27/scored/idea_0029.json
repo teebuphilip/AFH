@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts handwritten notes into digital to-do lists and task reminders for busy professionals.",
+  "idea_text": "A dashboard that summarizes key HR metrics and compliance tasks for small business HR coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 71,
+  "arr_score": 70
 }

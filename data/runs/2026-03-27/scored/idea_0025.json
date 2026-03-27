@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically generates monthly subscription usage summaries and invoices for SaaS freelancers.",
+  "idea_text": "Dashboard that summarizes daily website form submissions and flags incomplete entries for sales teams.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 82,
-  "arr_score": 82
+  "overlay_score": 72,
+  "arr_score": 72
 }
