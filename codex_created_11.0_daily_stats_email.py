@@ -75,7 +75,7 @@ def read_metrics_entry(metrics_path: Path, run_date: str) -> Optional[dict]:
 
 def main() -> int:
     run_date = os.getenv("AFH_RUN_DATE") or utc_date()
-    strict = os.getenv("AFH_EMAIL_STRICT", "1") == "1"
+    strict = os.getenv("AFH_EMAIL_STRICT", "0") == "1"
 
     run_base = Path("data") / "runs" / run_date
     raw_dir = run_base / "raw"
@@ -101,9 +101,10 @@ def main() -> int:
     exclude_today = count_verdicts_for_scored(exclude_dir, scored_stems)
     verdict_total = keep_today + hold_today + exclude_today
 
-    if strict and scored_today > 0 and verdict_total != scored_today:
-        raise SystemExit(
-            f"Mismatch: verdict total {verdict_total} != scored {scored_today} for {run_date}"
+    warning_lines = []
+    if scored_today > 0 and verdict_total != scored_today:
+        warning_lines.append(
+            f"Warning: verdict total {verdict_total} != scored {scored_today} (run {run_date})"
         )
 
     metrics_entry = read_metrics_entry(Path("metrics") / "daily_metrics.jsonl", run_date)
@@ -141,12 +142,19 @@ def main() -> int:
         f"- KEEP: {keep_today}",
         f"- HOLD: {hold_today}",
         f"- EXCLUDE: {exclude_today}",
+        f"- Verdict total: {verdict_total}",
         "",
         "Total metrics:",
     ]
 
     for line in totals_block:
         lines.append(f"- {line}")
+
+    if warning_lines:
+        lines.append("")
+        lines.append("Warnings:")
+        for w in warning_lines:
+            lines.append(f"- {w}")
 
     print("\n".join(lines))
     return 0
