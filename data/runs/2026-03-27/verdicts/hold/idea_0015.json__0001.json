@@ -1,18 +1,18 @@
 {
-  "idea_text": "System that monitors software license usage and sends renewal reminders to IT managers.",
+  "idea_text": "Service that monitors subscription payments and sends renewal reminders to freelancers.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74.0,
+  "overlay_score": 78,
+  "arr_score": 79.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T09:43:11.677721",
+  "verdict_timestamp": "2026-03-27T17:52:11.668291",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T09:43:11.713357",
+  "arr_scored_at": "2026-03-27T17:52:11.707150",
   "hold_reason": "arr_70_89"
 }

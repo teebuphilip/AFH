@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation tool that processes expense reports and generates tax-compliant documentation for small businesses.",
+  "idea_text": "An automation that processes rental applications and generates tenant screening reports for property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 68,
+  "arr_score": 66
 }

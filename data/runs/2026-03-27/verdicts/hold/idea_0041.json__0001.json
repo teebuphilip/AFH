@@ -1,5 +1,5 @@
 {
-  "idea_text": "A tool that automatically generates custom client reports based on project data, saving time for freelance consultants.",
+  "idea_text": "A tool that automatically generates personalized thank-you notes for sales representatives.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T17:34:10.076858",
+  "verdict_timestamp": "2026-03-27T17:52:11.672340",
   "verdict_source": "overlay_score"
 }

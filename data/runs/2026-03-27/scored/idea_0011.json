@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors employee timesheets and flags inconsistencies for small business owners.",
+  "idea_text": "Service that monitors equipment maintenance schedules and sends automated reminder emails to operators.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 65,
+  "arr_score": 64
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "A dashboard that summarizes key HR metrics for small businesses, streamlining employee data management.",
+  "idea_text": "A dashboard that summarizes key HR metrics and provides analytics for small business HR coordinators.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 67,
+  "arr_score": 66
 }

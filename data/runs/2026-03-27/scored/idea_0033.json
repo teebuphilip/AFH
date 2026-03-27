@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts audio recordings into written transcripts, assisting with meeting notes and interviews.",
+  "idea_text": "A system that converts handwritten to-do lists into digital task management for busy freelance writers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

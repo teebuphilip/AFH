@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically generates monthly tax filing reminders and document checklists for freelancers.",
+  "idea_text": "Tool that automatically converts PDF contracts into editable text for small business owners.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 82,
-  "arr_score": 82
+  "overlay_score": 68,
+  "arr_score": 66
 }

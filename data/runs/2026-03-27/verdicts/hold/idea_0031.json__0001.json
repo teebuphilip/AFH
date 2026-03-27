@@ -1,5 +1,5 @@
 {
-  "idea_text": "A tool that automatically generates customized job descriptions based on a company's specific requirements.",
+  "idea_text": "A tool that automatically schedules and confirms client appointments for independent financial advisors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T17:34:10.075183",
+  "verdict_timestamp": "2026-03-27T17:52:11.670766",
   "verdict_source": "overlay_score"
 }

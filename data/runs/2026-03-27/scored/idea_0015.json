@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors credit card statements and highlights potential fraudulent charges for accountants.",
+  "idea_text": "Service that monitors subscription payments and sends renewal reminders to freelancers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 70,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 78,
+  "arr_score": 79
 }

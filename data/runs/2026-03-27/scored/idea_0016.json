@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that processes incoming client emails and outputs summarized meeting notes for consultants.",
+  "idea_text": "Automation that extracts tax-deductible expenses from receipts and outputs organized reports for accountants.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 71,
+  "arr_score": 70
 }

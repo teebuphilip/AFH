@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that converts handwritten to-do lists into digital task management for busy freelance writers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-27T17:52:11.671205",
+  "verdict_source": "overlay_score"
+}

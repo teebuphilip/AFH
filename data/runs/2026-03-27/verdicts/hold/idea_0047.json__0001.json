@@ -1,18 +1,15 @@
 {
-  "idea_text": "A service that monitors and optimizes inventory levels for small retailers, helping to prevent stockouts and overstocking.",
+  "idea_text": "A service that monitors website traffic and sends analytics reports for small e-commerce business owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T17:34:10.077801",
-  "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T17:34:10.109387",
-  "hold_reason": "arr_70_89"
+  "overlay_score": 63,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-27T17:52:11.673223",
+  "verdict_source": "overlay_score"
 }

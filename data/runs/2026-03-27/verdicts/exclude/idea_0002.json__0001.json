@@ -1,17 +1,17 @@
 {
-  "idea_text": "Service that monitors rental property listings and sends alerts for upcoming lease expirations to property managers.",
+  "idea_text": "Service that monitors rental property maintenance requests and sends prioritized alerts to landlords.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66.0,
+  "overlay_score": 65,
+  "arr_score": 64.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T09:43:11.675885",
+  "verdict_timestamp": "2026-03-27T17:52:11.666051",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T09:43:11.709752"
+  "arr_scored_at": "2026-03-27T17:52:11.703398"
 }

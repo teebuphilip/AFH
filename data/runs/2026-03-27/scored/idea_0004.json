@@ -1,12 +1,12 @@
 {
-  "idea_text": "Dashboard that summarizes monthly expenses and flags recurring service subscriptions for small businesses.",
+  "idea_text": "Dashboard that summarizes daily sales metrics from multiple POS systems for retail store owners.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88
+  "overlay_score": 64,
+  "arr_score": 62
 }

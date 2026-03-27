@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors and optimizes website performance, providing actionable insights to improve user experience.",
+  "idea_text": "A service that monitors software usage and sends license renewal alerts for IT managers at small organizations.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
+    "pricing_power": 90,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 50,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 63,
-  "arr_score": 62
+  "overlay_score": 83,
+  "arr_score": 85
 }

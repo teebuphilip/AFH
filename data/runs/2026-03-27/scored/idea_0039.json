@@ -1,12 +1,12 @@
 {
-  "idea_text": "A dashboard that aggregates and visualizes key real estate metrics for property managers, streamlining portfolio oversight.",
+  "idea_text": "A dashboard that summarizes recruiting metrics and provides candidate pipeline analysis for HR coordinators.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 55,
-    "market_clarity": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 59,
-  "arr_score": 60
+  "overlay_score": 65,
+  "arr_score": 64
 }

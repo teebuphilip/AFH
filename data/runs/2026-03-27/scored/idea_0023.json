@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors software subscription usage and sends cancellation reminders to small business owners.",
+  "idea_text": "Service that monitors freelance project deadlines and sends automated progress reminders.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 79
+  "overlay_score": 64,
+  "arr_score": 62
 }

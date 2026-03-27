@@ -1,12 +1,12 @@
 {
-  "idea_text": "A dashboard that provides real-time insights into employee productivity and attendance for small teams.",
+  "idea_text": "A dashboard that summarizes employee attendance and provides analytics for HR coordinators at small companies.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
-    "automation": 55,
-    "market_clarity": 70,
+    "automation": 90,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 67
+  "overlay_score": 72,
+  "arr_score": 72
 }

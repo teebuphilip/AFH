@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically generates standardized client proposals from inputted project details.",
+  "idea_text": "Tool that automatically converts meeting notes into task lists for consultants.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 65,
+  "arr_score": 64
 }

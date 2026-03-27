@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts customer feedback into actionable insights, assisting small businesses with improving their products or services.",
+  "idea_text": "A system that converts paper documents into digital formats for freelance administrative assistants.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 50,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

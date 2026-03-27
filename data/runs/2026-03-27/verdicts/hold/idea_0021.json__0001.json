@@ -1,5 +1,5 @@
 {
-  "idea_text": "Dashboard that tracks freelance project deadlines and sends automated progress reminders.",
+  "idea_text": "Dashboard that summarizes daily employee attendance and flags anomalies for HR coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T17:34:10.073559",
+  "verdict_timestamp": "2026-03-27T17:52:11.669082",
   "verdict_source": "overlay_score"
 }

@@ -1,5 +1,5 @@
 {
-  "idea_text": "A dashboard that provides real-time insights into sales pipeline and forecasting for small sales teams.",
+  "idea_text": "A dashboard that summarizes sales performance metrics and provides forecasting for small business sales teams.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
@@ -10,9 +10,9 @@
   "overlay_score": 74,
   "arr_score": 74.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T17:34:10.075757",
+  "verdict_timestamp": "2026-03-27T17:52:11.671416",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T17:34:10.109551",
+  "arr_scored_at": "2026-03-27T17:52:11.706503",
   "hold_reason": "arr_70_89"
 }
