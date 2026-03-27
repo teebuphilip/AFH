@@ -1,15 +1,18 @@
 {
-  "idea_text": "Service that monitors job applicant status updates and sends daily summary notifications to recruiters.",
+  "idea_text": "Service that tracks software subscription renewals and sends alerts to HR coordinators.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:38:26.862119",
-  "verdict_source": "overlay_score"
+  "overlay_score": 74,
+  "arr_score": 74.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-27T18:45:42.357014",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-27T18:45:42.394499",
+  "hold_reason": "arr_70_89"
 }

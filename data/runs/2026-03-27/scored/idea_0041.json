@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically generates custom email newsletters for small businesses.",
+  "idea_text": "An automation tool that processes employee onboarding documentation and generates personalized checklists and training schedules.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts handwritten meeting notes into shareable digital documents.",
+  "idea_text": "A service that monitors social media mentions and generates custom social media content for small businesses.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 72,
+  "arr_score": 72
 }

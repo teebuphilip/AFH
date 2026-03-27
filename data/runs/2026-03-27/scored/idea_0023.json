@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts paper contracts into searchable digital documents for recruiters.",
+  "idea_text": "Automation that processes subscription cancellations and outputs churn reports for SaaS small business owners.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
+    "pricing_power": 90,
+    "user_count": 70,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 78,
+  "arr_score": 79
 }

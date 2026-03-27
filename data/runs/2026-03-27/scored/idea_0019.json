@@ -1,12 +1,12 @@
 {
-  "idea_text": "Dashboard that summarizes utility usage trends and forecasts monthly costs for property managers.",
+  "idea_text": "System that converts scanned receipts into categorized expense reports for accountants.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 70,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 80,
-  "arr_score": 80
+  "overlay_score": 71,
+  "arr_score": 70
 }

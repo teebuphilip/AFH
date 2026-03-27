@@ -1,17 +1,17 @@
 {
-  "idea_text": "Automation that processes client billing hours and outputs invoices for small agencies.",
+  "idea_text": "System that converts maintenance logs into predictive service schedules for property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66.0,
+  "overlay_score": 69,
+  "arr_score": 68.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T17:52:11.669589",
+  "verdict_timestamp": "2026-03-27T18:45:42.359744",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T17:52:11.703028"
+  "arr_scored_at": "2026-03-27T18:45:42.392159"
 }

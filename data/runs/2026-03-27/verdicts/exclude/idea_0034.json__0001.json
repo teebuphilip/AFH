@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that monitors small business utility bills and sends alerts on unusual spikes.",
+  "idea_text": "A system that converts handwritten notes into digital text and organizes them into a searchable knowledge base for professionals.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
@@ -10,8 +10,8 @@
   "overlay_score": 68,
   "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:45:42.356210",
+  "verdict_timestamp": "2026-03-27T18:45:42.361333",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T18:45:42.392573"
+  "arr_scored_at": "2026-03-27T18:45:42.396127"
 }

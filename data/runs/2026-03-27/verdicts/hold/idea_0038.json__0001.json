@@ -1,5 +1,5 @@
 {
-  "idea_text": "A system that converts handwritten notes into structured to-do lists and reminders.",
+  "idea_text": "An automation platform that processes job applications and generates personalized rejection or interview scheduling emails for recruiters.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:38:26.867175",
+  "verdict_timestamp": "2026-03-27T18:45:42.361969",
   "verdict_source": "overlay_score"
 }

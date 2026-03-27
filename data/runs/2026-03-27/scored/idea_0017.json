@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors employee attendance and sends alerts for irregular patterns to HR coordinators.",
+  "idea_text": "Service that monitors equipment usage hours and sends maintenance alerts for operations managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 69,
+  "arr_score": 68
 }

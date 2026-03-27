@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors changes in government regulations and sends alerts to affected businesses.",
+  "idea_text": "A service that monitors website traffic and user behavior, and sends alerts when specific goals or thresholds are reached.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

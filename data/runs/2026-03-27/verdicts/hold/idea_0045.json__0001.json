@@ -1,5 +1,5 @@
 {
-  "idea_text": "An automation that processes employee reimbursement requests and outputs approved payment files.",
+  "idea_text": "A dashboard that summarizes key metrics for professional services firms, such as billable hours, utilization rates, and project profitability.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:38:26.868350",
+  "verdict_timestamp": "2026-03-27T18:45:42.363097",
   "verdict_source": "overlay_score"
 }

@@ -1,5 +1,5 @@
 {
-  "idea_text": "Tool that automatically generates weekly payroll summaries from timesheet data for HR coordinators.",
+  "idea_text": "System that converts delivery logs into inventory restock alerts for small retail owners.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,8 +10,8 @@
   "overlay_score": 67,
   "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:17:17.964807",
+  "verdict_timestamp": "2026-03-27T18:45:42.358131",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T18:17:17.998778"
+  "arr_scored_at": "2026-03-27T18:45:42.391062"
 }

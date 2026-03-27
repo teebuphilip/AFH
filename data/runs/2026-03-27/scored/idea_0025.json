@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that processes incoming purchase orders and generates supplier payment schedules.",
+  "idea_text": "Dashboard that summarizes monthly freelance invoicing and payment status with automated reminders.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 74,
+  "arr_score": 74
 }

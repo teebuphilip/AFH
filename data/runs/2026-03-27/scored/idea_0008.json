@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts scanned receipts into categorized expense entries for small business owners.",
+  "idea_text": "Automation that processes customer support tickets and outputs priority queues for support teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 72,
+  "arr_score": 72
 }

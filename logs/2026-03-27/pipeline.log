@@ -15,7 +15,7 @@ Verdict routing complete. Processed 50 files. Wrote 50 idea files.
 
 ✅ claude_created_4.2_verdict_routing.py completed
 → Running: claude_created_5.0_arr_scoring.py
-ARR scoring complete. Processed 30 files.
+ARR scoring complete. Processed 35 files.
 
 ✅ claude_created_5.0_arr_scoring.py completed
 ⏭️  Skipping FO intake - no KEEP ideas
@@ -23,7 +23,7 @@ ARR scoring complete. Processed 30 files.
 → Running: claude_created_8.0_promote_to_catalog.py
 ✅ claude_created_8.0_promote_to_catalog.py completed
 → Running: claude_created_9.0_tag_holding.py
-Catalog built: data/catalog/catalog.json (1955 ideas from all runs)
+Catalog built: data/catalog/catalog.json (1958 ideas from all runs)
 
 ✅ claude_created_9.0_tag_holding.py completed
 → Running: claude_created_10.0_daily_metrics_rollup.py

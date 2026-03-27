@@ -1,5 +1,5 @@
 {
-  "idea_text": "A tool that automatically creates and schedules social media posts for local service providers.",
+  "idea_text": "A service that monitors website uptime and server performance, and sends alerts when issues are detected.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:38:26.865932",
+  "verdict_timestamp": "2026-03-27T18:45:42.360782",
   "verdict_source": "overlay_score"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors subscription renewals and sends alerts for upcoming cancellations to freelancers.",
+  "idea_text": "Service that monitors vendor contract expiration dates and sends renewal reminders for procurement managers.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 79
+  "overlay_score": 64,
+  "arr_score": 62
 }
