@@ -69,20 +69,110 @@ If there is a conflict:
 
 ---
 
-## High-Level Pipeline
+## GitHub Actions
 
-1. Scheduled run (GitHub Actions)
-2. Idea ingestion (ChatGPT / Claude)
-3. Normalization (AI-based)
-4. Deduplication & merge
-5. Tagging
-6. Lightweight scoring (internal only)
-7. Verdict assignment (KEEP / HOLD / EXCLUDE)
-8. Perplexity downgrade (KEEPS only)
-9. Routing and storage
-10. Commit results or abort on failure
+- `AFH Daily Pipeline` (`.github/workflows/afh_pipeline.yml`)
+  - Schedule: daily at `09:00 UTC`
+  - Entrypoint: `claude_created_0.0_run_afh_pipeline.py`
+  - Commits: `data/`, `catalogs/`, `metrics/`, and `logs/YYYY-MM-DD/`
+- `AFH Auto GTM` (`.github/workflows/auto_gtm.yml`)
+  - Schedule: monthly on the 3rd at `09:00 UTC`
+  - Entrypoint: `scripts/auto_gtm_from_keeps.py`
+  - Commits: `gtm/` and `scripts/ai_costs.csv`
 
 All steps are deterministic per run.
+
+---
+
+## Pipeline Steps (0.0 → 10.0)
+
+0. `claude_created_0.0_run_afh_pipeline.py`
+Runs the full pipeline in order and writes failures to `logs/failures_YYYY-MM-DD.jsonl`.
+
+1. `claude_created_1.0_generate_ideas.py`
+Calls `claude_created_1.1_generate_chatgpt.sh` and `claude_created_1.2_generate_claude_afh.sh` and writes JSONL to:
+`data/runs/YYYY-MM-DD/raw/chatgpt_YYYY-MM-DD.jsonl` and `data/runs/YYYY-MM-DD/raw/claude_YYYY-MM-DD.jsonl`.
+
+2. `claude_created_2.0_normalize_and_dedup.py`
+Normalizes text, TF‑IDF dedups, and writes individual JSON files to:
+`data/runs/YYYY-MM-DD/normalized/idea_####.json`.
+
+3. `claude_created_3.0_score_overlay_and_arr.py`
+Deterministic keyword heuristic scoring, writes scored ideas to:
+`data/runs/YYYY-MM-DD/scored/`.
+
+3.1 `claude_created_3.1_overlay_scoring.py`
+Legacy/standalone overlay scorer for JSONL input. Not used by the daily pipeline.
+
+4. `claude_created_4.2_verdict_routing.py`
+Routes each scored idea into:
+`data/runs/YYYY-MM-DD/verdicts/keep|hold|exclude/` and stamps verdict metadata.
+
+5. `claude_created_5.0_arr_scoring.py`
+Secondary ARR routing for KEEPs only. Promotes to FO intake or moves to HOLD/EXCLUDE.
+
+6. `claude_created_6.0_fo_intake_enrich.py`
+ChatGPT Q1–Q10 intake enrichment for high‑ARR KEEPs. Writes to `data/fo_intake/`.
+Failures are moved to HOLD.
+
+7. `claude_created_7.0_af_gate.py`
+Build readiness gate over FO intake. PASS -> `data/af_bucket/`, FAIL -> HOLD.
+
+8. `claude_created_8.0_promote_to_catalog.py`
+Promotes AF‑ready ideas to `data/catalog/ideas/` and updates `data/catalog/index.json`.
+
+9. `claude_created_9.0_tag_holding.py`
+Builds a public catalog of HOLD/EXCLUDE ideas across all runs at `data/catalog/catalog.json`.
+
+10. `claude_created_10.0_daily_metrics_rollup.py`
+Appends a daily snapshot to `metrics/daily_metrics.jsonl`.
+
+---
+
+## Scoring System
+
+**Overlay + ARR (deterministic heuristics, no LLM calls)**
+- Dimensions:
+  - `pricing_power`
+  - `user_count`
+  - `automation`
+  - `market_clarity`
+  - `competition_inverse`
+- Overlay score weights:
+  - `0.30 * pricing_power`
+  - `0.25 * user_count`
+  - `0.25 * automation`
+  - `0.10 * market_clarity`
+  - `0.10 * competition_inverse`
+- ARR score weights:
+  - `0.35 * pricing_power`
+  - `0.30 * user_count`
+  - `0.20 * automation`
+  - `0.10 * market_clarity`
+  - `0.05 * competition_inverse`
+
+**Verdict Routing (4.2 thresholds)**
+- KEEP if `overlay_score >= 65` OR `arr_score >= 70`
+- HOLD if mid‑range on either score (`overlay_score >= 55` or `arr_score >= 60`)
+- EXCLUDE otherwise
+
+**ARR Secondary Routing (5.0)**
+- FO intake if `arr_score >= 90`
+- HOLD if `arr_score >= 70`
+- EXCLUDE otherwise
+
+---
+
+## GTM
+
+`scripts/auto_gtm_from_keeps.py` (run by `AFH Auto GTM`) ranks KEEP ideas and generates GTM one‑pagers.
+
+- Inputs: `data/runs/*/verdicts/keep/*.json`
+- Scoring: ChatGPT by default; optional Claude with `--use-claude`
+- Outputs:
+  - `gtm/auto/idea_01.md` ... for the top ideas
+  - `gtm/auto/gtm_summary_YYYYMMDD_HHMMSS.json`
+  - `scripts/ai_costs.csv` for token/cost logging
 
 ---
 
@@ -156,8 +246,6 @@ Internal use only.
 
 This repository exists to support:
 - AutoFounder Hub
-- FounderOps intake routing
-- Teebu Movil portfolio operations
 
 No external guarantees are made.
 
