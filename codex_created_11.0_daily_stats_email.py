@@ -81,6 +81,21 @@ def latest_run_dir(runs_base: Path) -> Optional[Path]:
     # Run dirs are YYYY-MM-DD; lexicographic max works.
     return sorted(dirs, key=lambda p: p.name)[-1]
 
+def latest_run_with_verdicts(runs_base: Path) -> Optional[Path]:
+    if not runs_base.exists():
+        return None
+    dirs = [p for p in runs_base.iterdir() if p.is_dir()]
+    if not dirs:
+        return None
+    # Prefer the most recent run that has any verdicts.
+    for run_dir in sorted(dirs, key=lambda p: p.name, reverse=True):
+        vdir = run_dir / "verdicts"
+        if not vdir.exists():
+            continue
+        if any((vdir / k).exists() and list((vdir / k).glob("*.json")) for k in ["keep", "hold", "exclude"]):
+            return run_dir
+    return None
+
 def verdict_counts_for_run(run_base: Path) -> dict:
     keep = count_json_files(run_base / "verdicts" / "keep")
     hold = count_json_files(run_base / "verdicts" / "hold")
@@ -124,7 +139,8 @@ def main() -> int:
 
     runs_base = Path("data") / "runs"
     latest_run = latest_run_dir(runs_base)
-    latest_verdicts = verdict_counts_for_run(latest_run) if latest_run else {"keep": 0, "hold": 0, "exclude": 0, "total": 0}
+    latest_verdict_run = latest_run_with_verdicts(runs_base)
+    latest_verdicts = verdict_counts_for_run(latest_verdict_run) if latest_verdict_run else {"keep": 0, "hold": 0, "exclude": 0, "total": 0}
 
     metrics_entry = read_metrics_entry(Path("metrics") / "daily_metrics.jsonl", run_date)
 
@@ -163,7 +179,7 @@ def main() -> int:
         f"- EXCLUDE: {exclude_today}",
         f"- Verdict total: {verdict_total}",
         "",
-        f"Latest verdict counts (run {latest_run.name if latest_run else 'n/a'}):",
+        f"Latest verdict counts (run {latest_verdict_run.name if latest_verdict_run else 'n/a'}):",
         f"- KEEP: {latest_verdicts['keep']}",
         f"- HOLD: {latest_verdicts['hold']}",
         f"- EXCLUDE: {latest_verdicts['exclude']}",
