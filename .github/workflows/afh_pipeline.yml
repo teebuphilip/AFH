@@ -60,6 +60,13 @@ jobs:
             echo "Integrity check script not found, skipping"
           fi
 
+      - name: Build daily stats email
+        run: |
+          python3 codex_created_11.0_daily_stats_email.py > /tmp/afh_daily_email.txt
+          echo "AFH_DAILY_EMAIL_BODY<<EOF" >> $GITHUB_ENV
+          cat /tmp/afh_daily_email.txt >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
       - name: Commit results
         run: |
           git config user.name "afh-bot"
@@ -73,6 +80,20 @@ jobs:
 
           git commit -m "AFH pipeline run ${AFH_RUN_DATE} (v2.0 run-specific)" || echo "No changes to commit"
           git push
+
+      - name: Email daily stats
+        if: ${{ success() && env.ALERT_EMAIL_TO != '' }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          secure: false
+          username: ${{ secrets.ALERT_EMAIL_USER }}
+          password: ${{ secrets.ALERT_EMAIL_PASS }}
+          subject: "AFH DAILY STATS — ${{ env.AFH_RUN_DATE }}"
+          body: ${{ env.AFH_DAILY_EMAIL_BODY }}
+          to: ${{ secrets.ALERT_EMAIL_TO }}
+          from: "AFH Pipeline <afh-alerts@local>"
 
       - name: Email alert on failure
         if: ${{ failure() && env.ALERT_EMAIL_TO != '' }}
