@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that processes job applications and generates candidate screening reports for HR coordinators.",
+  "idea_text": "A dashboard that summarizes employee engagement metrics and generates reports for HR coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 30,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 61,
+  "arr_score": 60
 }

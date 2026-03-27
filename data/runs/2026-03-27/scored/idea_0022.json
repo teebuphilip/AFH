@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically converts meeting notes into task lists for consultants.",
+  "idea_text": "Dashboard that summarizes daily website uptime and sends incident alerts to IT support staff.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

@@ -1,5 +1,5 @@
 {
-  "idea_text": "An automation that processes customer support tickets and generates suggested responses for customer service teams.",
+  "idea_text": "An automation that processes employee time-off requests and generates approval workflows for HR teams.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
@@ -10,9 +10,9 @@
   "overlay_score": 72,
   "arr_score": 72.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T17:52:11.672965",
+  "verdict_timestamp": "2026-03-27T18:11:18.780809",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T17:52:11.705275",
+  "arr_scored_at": "2026-03-27T18:11:18.813628",
   "hold_reason": "arr_70_89"
 }

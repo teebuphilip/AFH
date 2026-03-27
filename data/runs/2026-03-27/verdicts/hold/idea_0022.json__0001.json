@@ -1,5 +1,5 @@
 {
-  "idea_text": "Tool that automatically generates standardized client proposals from inputted project details.",
+  "idea_text": "Dashboard that summarizes daily website uptime and sends incident alerts to IT support staff.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T17:34:10.073718",
+  "verdict_timestamp": "2026-03-27T18:11:18.777480",
   "verdict_source": "overlay_score"
 }

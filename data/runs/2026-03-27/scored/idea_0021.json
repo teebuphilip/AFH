@@ -1,12 +1,12 @@
 {
-  "idea_text": "Dashboard that summarizes daily employee attendance and flags anomalies for HR coordinators.",
+  "idea_text": "Automation that extracts meeting minutes from audio recordings and produces summarized action items for small teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 74,
+  "arr_score": 74
 }

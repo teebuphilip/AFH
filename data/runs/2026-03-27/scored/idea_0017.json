@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts voicemail messages into text summaries for busy sales professionals.",
+  "idea_text": "System that converts handwritten maintenance logs into digital records for property managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 69,
+  "arr_score": 68
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically generates personalized thank-you notes for sales representatives.",
+  "idea_text": "An automation that processes customer feedback and generates personalized response templates for support teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 72,
+  "arr_score": 72
 }

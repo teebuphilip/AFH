@@ -1,5 +1,5 @@
 {
-  "idea_text": "A dashboard that summarizes key sales metrics for small businesses, such as lead conversion, revenue, and customer retention.",
+  "idea_text": "An automation that processes customer orders and generates shipping labels for e-commerce businesses.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
@@ -10,9 +10,9 @@
   "overlay_score": 72,
   "arr_score": 72.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T09:43:11.682211",
+  "verdict_timestamp": "2026-03-27T18:11:18.781435",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T09:43:11.713198",
+  "arr_scored_at": "2026-03-27T18:11:18.815462",
   "hold_reason": "arr_70_89"
 }

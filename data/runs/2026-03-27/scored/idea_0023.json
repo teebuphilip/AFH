@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors freelance project deadlines and sends automated progress reminders.",
+  "idea_text": "System that converts sales call transcripts into follow-up task lists for sales representatives.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 65,
+  "arr_score": 64
 }

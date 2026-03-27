@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically converts PDF contracts into editable text for small business owners.",
+  "idea_text": "Service that monitors customer feedback emails and sends sentiment summary reports to support teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 72,
+  "arr_score": 72
 }

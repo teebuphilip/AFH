@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors software usage and sends license renewal alerts for IT managers at small organizations.",
+  "idea_text": "An automation that processes candidate resumes and generates personalized job offer templates for recruiters.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 83,
-  "arr_score": 85
+  "overlay_score": 64,
+  "arr_score": 62
 }

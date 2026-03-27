@@ -1,12 +1,12 @@
 {
-  "idea_text": "A dashboard that summarizes employee attendance and provides analytics for HR coordinators at small companies.",
+  "idea_text": "A service that monitors inventory levels and sends alerts to operations managers when restocking is needed.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 50,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 71,
+  "arr_score": 70
 }

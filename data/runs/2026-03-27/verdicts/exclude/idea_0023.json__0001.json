@@ -1,5 +1,5 @@
 {
-  "idea_text": "A tool that automatically schedules and sends client meeting reminders for freelance service providers.",
+  "idea_text": "System that converts sales call transcripts into follow-up task lists for sales representatives.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,8 +10,8 @@
   "overlay_score": 65,
   "arr_score": 64.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:11:18.779988",
+  "verdict_timestamp": "2026-03-27T18:11:18.777642",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T18:11:18.814825"
+  "arr_scored_at": "2026-03-27T18:11:18.812035"
 }

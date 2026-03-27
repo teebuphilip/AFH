@@ -1,5 +1,5 @@
 {
-  "idea_text": "A system that converts business data into professional-looking presentations and proposals, assisting with client pitches.",
+  "idea_text": "A tool that automatically generates and sends employee training certificates for HR coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T17:34:10.077193",
+  "verdict_timestamp": "2026-03-27T18:11:18.780526",
   "verdict_source": "overlay_score"
 }

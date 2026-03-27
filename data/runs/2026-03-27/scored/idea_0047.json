@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors website traffic and sends analytics reports for small e-commerce business owners.",
+  "idea_text": "A tool that automatically schedules and sends client follow-up reminders for sales teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 50,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 63,
-  "arr_score": 62
+  "overlay_score": 74,
+  "arr_score": 74
 }

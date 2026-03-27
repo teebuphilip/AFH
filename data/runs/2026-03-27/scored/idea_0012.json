@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that processes sales leads from emails and outputs prioritized contact lists for sales reps.",
+  "idea_text": "Automation that processes client onboarding forms and outputs compliance checklists for operations managers.",
   "scores": {
-    "pricing_power": 50,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 60
+  "overlay_score": 71,
+  "arr_score": 70
 }

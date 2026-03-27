@@ -1,15 +1,18 @@
 {
-  "idea_text": "A system that converts handwritten notes into digital text, automating the process of document digitization.",
+  "idea_text": "An automation tool that processes employee timesheets and generates payroll reports for small businesses.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T17:34:10.074648",
-  "verdict_source": "overlay_score"
+  "overlay_score": 76,
+  "arr_score": 76.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-27T18:11:18.778416",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-27T18:11:18.816090",
+  "hold_reason": "arr_70_89"
 }

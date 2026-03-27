@@ -1,15 +1,18 @@
 {
-  "idea_text": "A service that monitors website traffic and sends analytics reports for small e-commerce business owners.",
+  "idea_text": "A tool that automatically schedules and sends client follow-up reminders for sales teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 50,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 63,
-  "arr_score": 62,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T17:52:11.673223",
-  "verdict_source": "overlay_score"
+  "overlay_score": 74,
+  "arr_score": 74.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-27T18:11:18.781128",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-27T18:11:18.815013",
+  "hold_reason": "arr_70_89"
 }

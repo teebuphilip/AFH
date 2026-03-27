@@ -1,18 +1,18 @@
 {
-  "idea_text": "An automation tool that processes expense reports and generates tax-compliant documentation for small businesses.",
+  "idea_text": "A tool that automatically generates email signatures and manages email marketing campaigns for small businesses.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76.0,
+  "overlay_score": 72,
+  "arr_score": 72.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T17:34:10.075889",
+  "verdict_timestamp": "2026-03-27T18:11:18.779410",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T17:34:10.109991",
+  "arr_scored_at": "2026-03-27T18:11:18.815650",
   "hold_reason": "arr_70_89"
 }
