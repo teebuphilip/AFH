@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that extracts contact information from business cards and updates CRM entries for sales teams.",
+  "idea_text": "Tool that automatically converts handwritten meeting notes into organized digital text for small teams.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 74,
+  "arr_score": 74
 }

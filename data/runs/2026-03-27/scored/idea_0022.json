@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that processes customer feedback emails and categorizes issues for support teams.",
+  "idea_text": "Tool that automatically generates standardized client proposals from inputted project details.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

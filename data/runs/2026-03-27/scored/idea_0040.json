@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that processes payroll and outputs tax forms for small business owners.",
+  "idea_text": "An automation tool that processes customer support inquiries and generates personalized responses, improving response times.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 64,
+  "arr_score": 62
 }

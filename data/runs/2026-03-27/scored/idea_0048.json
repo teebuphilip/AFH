@@ -1,10 +1,10 @@
 {
-  "idea_text": "A system that converts customer support inquiries into knowledge base articles for customer service teams.",
+  "idea_text": "A system that converts customer feedback into actionable insights, assisting small businesses with improving their products or services.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
   "overlay_score": 72,

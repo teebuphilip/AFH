@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors and reports on changes to industry regulations for operations managers.",
+  "idea_text": "A service that monitors and optimizes inventory levels for small retailers, helping to prevent stockouts and overstocking.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 71,
+  "arr_score": 70
 }

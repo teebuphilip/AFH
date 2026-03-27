@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically formats and submits tax forms based on financial data for accountants.",
+  "idea_text": "Automation that processes incoming client emails and outputs summarized meeting notes for consultants.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 65,
+  "arr_score": 64
 }

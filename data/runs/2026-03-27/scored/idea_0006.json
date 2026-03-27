@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that tracks and notifies overdue client payments for freelancers.",
+  "idea_text": "Tool that automatically tracks and reminds sales teams of upcoming contract renewal dates.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 55,
+    "user_count": 90,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 59,
-  "arr_score": 60
+  "overlay_score": 72,
+  "arr_score": 72
 }

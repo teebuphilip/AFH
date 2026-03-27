@@ -1,12 +1,12 @@
 {
-  "idea_text": "A dashboard that summarizes key project management metrics for small teams, such as task completion, budget, and resource utilization.",
+  "idea_text": "A dashboard that aggregates and visualizes key real estate metrics for property managers, streamlining portfolio oversight.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
+    "user_count": 70,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 59,
+  "arr_score": 60
 }

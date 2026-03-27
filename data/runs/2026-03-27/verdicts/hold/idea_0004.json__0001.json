@@ -1,18 +1,18 @@
 {
-  "idea_text": "Dashboard that summarizes monthly utility usage and forecasts costs for property managers.",
+  "idea_text": "Dashboard that summarizes monthly expenses and flags recurring service subscriptions for small businesses.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 70,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 80,
-  "arr_score": 80.0,
+  "overlay_score": 86,
+  "arr_score": 88.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T09:43:11.676159",
+  "verdict_timestamp": "2026-03-27T17:34:10.070923",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T09:43:11.714709",
+  "arr_scored_at": "2026-03-27T17:34:10.110726",
   "hold_reason": "arr_70_89"
 }

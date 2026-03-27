@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts paper-based delivery receipts into digital records for operations managers.",
+  "idea_text": "Service that monitors software subscription usage and sends cancellation reminders to small business owners.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 78,
+  "arr_score": 79
 }

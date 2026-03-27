@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors support ticket queues and sends alerts for unresolved high-priority issues to support teams.",
+  "idea_text": "Dashboard that summarizes daily website uptime and sends alerts to freelancers managing client sites.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 68,
+  "arr_score": 66
 }

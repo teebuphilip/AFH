@@ -1,12 +1,12 @@
 {
-  "idea_text": "Dashboard that compiles daily sales metrics and forecasts weekly revenue for small business owners.",
+  "idea_text": "Service that monitors shipment tracking numbers and alerts support teams of delivery exceptions.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 55,
-    "market_clarity": 70,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 60,
-  "arr_score": 61
+  "overlay_score": 72,
+  "arr_score": 72
 }

@@ -1,18 +1,18 @@
 {
-  "idea_text": "Automation that converts manual inventory counts into digital stock reports for operations managers.",
+  "idea_text": "Tool that automatically generates monthly tax filing reminders and document checklists for freelancers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 70,
     "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70.0,
+  "overlay_score": 82,
+  "arr_score": 82.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T09:43:11.677595",
+  "verdict_timestamp": "2026-03-27T17:34:10.072561",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T09:43:11.708702",
+  "arr_scored_at": "2026-03-27T17:34:10.105348",
   "hold_reason": "arr_70_89"
 }

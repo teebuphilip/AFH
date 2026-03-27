@@ -1,5 +1,5 @@
 {
-  "idea_text": "A service that monitors job boards and sends alerts when new relevant positions are posted for recruiters.",
+  "idea_text": "A service that monitors and optimizes energy usage for small commercial properties, helping owners reduce costs.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T09:43:11.679933",
+  "verdict_timestamp": "2026-03-27T17:34:10.075340",
   "verdict_source": "overlay_score"
 }

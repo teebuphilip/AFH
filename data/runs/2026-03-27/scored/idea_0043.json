@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts customer data into personalized product recommendations for e-commerce businesses.",
+  "idea_text": "A system that converts business data into professional-looking presentations and proposals, assisting with client pitches.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

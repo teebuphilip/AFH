@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts PDF resumes into structured candidate profiles for recruiters.",
+  "idea_text": "System that converts paper receipts into categorized digital expense reports for accountants.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 71,
+  "arr_score": 70
 }

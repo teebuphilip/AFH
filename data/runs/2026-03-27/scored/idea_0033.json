@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts handwritten notes into digital documents for professionals like doctors and real estate agents.",
+  "idea_text": "A system that converts audio recordings into written transcripts, assisting with meeting notes and interviews.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 65,
+  "arr_score": 64
 }

@@ -1,18 +1,15 @@
 {
-  "idea_text": "Service that monitors competitor pricing and sends alerts to sales teams for adjustment opportunities.",
+  "idea_text": "Dashboard that tracks freelance project deadlines and sends automated progress reminders.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T09:43:11.678487",
-  "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T09:43:11.710584",
-  "hold_reason": "arr_70_89"
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-27T17:34:10.073559",
+  "verdict_source": "overlay_score"
 }

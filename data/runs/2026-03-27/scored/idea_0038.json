@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts customer feedback into actionable insights for product managers.",
+  "idea_text": "A system that converts product data into consistent, SEO-optimized listings for small e-commerce businesses.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 50,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 63,
-  "arr_score": 62
+  "overlay_score": 72,
+  "arr_score": 72
 }

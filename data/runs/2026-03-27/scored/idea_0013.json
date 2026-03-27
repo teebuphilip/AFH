@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that scans expense receipts and automatically logs them into accounting software for freelancers.",
+  "idea_text": "Dashboard that tracks and reports on small business inventory levels and reorder points.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 62,
+  "arr_score": 63
 }
