@@ -117,97 +117,57 @@ def main() -> int:
     claude_count = count_jsonl_lines(claude_raw)
     total_raw_today = chat_count + claude_count
 
-    normalized_today = count_json_files(run_base / "normalized")
-    scored_dir = run_base / "scored"
-    scored_today = count_json_files(scored_dir)
-    scored_stems = collect_scored_stems(scored_dir)
-
     keep_dir = run_base / "verdicts" / "keep"
-    hold_dir = run_base / "verdicts" / "hold"
-    exclude_dir = run_base / "verdicts" / "exclude"
-
-    keep_today = count_verdicts_for_scored(keep_dir, scored_stems)
-    hold_today = count_verdicts_for_scored(hold_dir, scored_stems)
-    exclude_today = count_verdicts_for_scored(exclude_dir, scored_stems)
-    verdict_total = keep_today + hold_today + exclude_today
-
-    warning_lines = []
-    if scored_today > 0 and verdict_total != scored_today:
-        warning_lines.append(
-            f"Warning: verdict total {verdict_total} != scored {scored_today} (run {run_date})"
-        )
-
-    runs_base = Path("data") / "runs"
-    latest_run = latest_run_dir(runs_base)
-    latest_verdict_run = latest_run_with_verdicts(runs_base)
-    latest_verdicts = verdict_counts_for_run(latest_verdict_run) if latest_verdict_run else {"keep": 0, "hold": 0, "exclude": 0, "total": 0}
 
     metrics_entry = read_metrics_entry(Path("metrics") / "daily_metrics.jsonl", run_date)
-
-    totals_block = []
-    if metrics_entry and isinstance(metrics_entry.get("counts"), dict):
-        counts = metrics_entry["counts"]
-        totals_block = [
-            f"Total ideas generated (all runs): {counts.get('total_raw', 0)}",
-            f"Total KEEP (all runs): {counts.get('total_keep', 0)}",
-            f"Total HOLD (all runs): {counts.get('total_hold', 0)}",
-            f"Total EXCLUDE (all runs): {counts.get('total_exclude', 0)}",
-            f"Total FO Intake: {counts.get('fo_intake', 0)}",
-            f"Total AF Bucket: {counts.get('af_bucket', 0)}",
-            f"Total Catalog: {counts.get('catalog', 0)}",
-        ]
-    else:
-        totals_block = [
-            "Total metrics: unavailable (metrics/daily_metrics.jsonl not found)",
-        ]
 
     lines = [
         f"AFH Daily Stats — {run_date}",
         "",
-        "Daily idea generation:",
-        f"- ChatGPT ideas: {chat_count}",
-        f"- Claude ideas: {claude_count}",
-        f"- Total ideas: {total_raw_today}",
+        "New ideas generated:",
+        f"- ChatGPT: {chat_count}",
+        f"- Claude: {claude_count}",
+        f"- Total: {total_raw_today}",
         "",
-        "Daily processing counts:",
-        f"- Normalized: {normalized_today}",
-        f"- Scored: {scored_today}",
-        "",
-        "Total metrics:",
+        "Total verdicts (all runs):",
     ]
 
-    if verdict_total > 0:
+    if metrics_entry and isinstance(metrics_entry.get("counts"), dict):
+        counts = metrics_entry["counts"]
         lines += [
-            "Daily verdict counts:",
-            f"- KEEP: {keep_today}",
-            f"- HOLD: {hold_today}",
-            f"- EXCLUDE: {exclude_today}",
-            f"- Verdict total: {verdict_total}",
-            "",
+            f"- KEEP: {counts.get('total_keep', 0)}",
+            f"- HOLD: {counts.get('total_hold', 0)}",
+            f"- EXCLUDE: {counts.get('total_exclude', 0)}",
         ]
     else:
+        # Fallback if metrics file is missing
+        runs_base = Path("data") / "runs"
+        latest_verdict_run = latest_run_with_verdicts(runs_base)
+        latest_verdicts = verdict_counts_for_run(latest_verdict_run) if latest_verdict_run else {"keep": 0, "hold": 0, "exclude": 0, "total": 0}
         lines += [
-            "Daily verdict counts: unavailable for run date (no verdict files found)",
-            "",
+            f"- KEEP: {latest_verdicts['keep']}",
+            f"- HOLD: {latest_verdicts['hold']}",
+            f"- EXCLUDE: {latest_verdicts['exclude']}",
         ]
 
-    lines += [
-        f"Latest verdict counts (run {latest_verdict_run.name if latest_verdict_run else 'n/a'}):",
-        f"- KEEP: {latest_verdicts['keep']}",
-        f"- HOLD: {latest_verdicts['hold']}",
-        f"- EXCLUDE: {latest_verdicts['exclude']}",
-        f"- Verdict total: {latest_verdicts['total']}",
-        "",
-    ]
-
-    for line in totals_block:
-        lines.append(f"- {line}")
-
-    if warning_lines:
-        lines.append("")
-        lines.append("Warnings:")
-        for w in warning_lines:
-            lines.append(f"- {w}")
+    # Append new KEEP ideas (today's run only)
+    keep_ideas = []
+    if keep_dir.exists():
+        for p in sorted(keep_dir.glob("*.json")):
+            try:
+                obj = json.loads(p.read_text(encoding="utf-8", errors="replace"))
+                idea_text = (obj.get("idea_text") or "").strip()
+                if idea_text:
+                    keep_ideas.append(idea_text)
+            except Exception:
+                continue
+    lines.append("")
+    if keep_ideas:
+        lines.append(f"New KEEPs (run {run_date}):")
+        for idea in keep_ideas:
+            lines.append(f"- {idea}")
+    else:
+        lines.append(f"New KEEPs (run {run_date}): none")
 
     print("\n".join(lines))
     return 0
