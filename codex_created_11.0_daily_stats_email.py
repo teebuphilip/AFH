@@ -173,19 +173,31 @@ def main() -> int:
         f"- Normalized: {normalized_today}",
         f"- Scored: {scored_today}",
         "",
-        "Daily verdict counts:",
-        f"- KEEP: {keep_today}",
-        f"- HOLD: {hold_today}",
-        f"- EXCLUDE: {exclude_today}",
-        f"- Verdict total: {verdict_total}",
-        "",
+        "Total metrics:",
+    ]
+
+    if verdict_total > 0:
+        lines += [
+            "Daily verdict counts:",
+            f"- KEEP: {keep_today}",
+            f"- HOLD: {hold_today}",
+            f"- EXCLUDE: {exclude_today}",
+            f"- Verdict total: {verdict_total}",
+            "",
+        ]
+    else:
+        lines += [
+            "Daily verdict counts: unavailable for run date (no verdict files found)",
+            "",
+        ]
+
+    lines += [
         f"Latest verdict counts (run {latest_verdict_run.name if latest_verdict_run else 'n/a'}):",
         f"- KEEP: {latest_verdicts['keep']}",
         f"- HOLD: {latest_verdicts['hold']}",
         f"- EXCLUDE: {latest_verdicts['exclude']}",
         f"- Verdict total: {latest_verdicts['total']}",
         "",
-        "Total metrics:",
     ]
 
     for line in totals_block:
