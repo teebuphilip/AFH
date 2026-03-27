@@ -60,6 +60,7 @@ def read_metrics_entry(metrics_path: Path, run_date: str) -> Optional[dict]:
 
 def main() -> int:
     run_date = os.getenv("AFH_RUN_DATE") or utc_date()
+    strict = os.getenv("AFH_EMAIL_STRICT", "1") == "1"
 
     run_base = Path("data") / "runs" / run_date
     raw_dir = run_base / "raw"
@@ -71,9 +72,17 @@ def main() -> int:
     claude_count = count_jsonl_lines(claude_raw)
     total_raw_today = chat_count + claude_count
 
+    normalized_today = count_json_files(run_base / "normalized")
+    scored_today = count_json_files(run_base / "scored")
     keep_today = count_json_files(run_base / "verdicts" / "keep")
     hold_today = count_json_files(run_base / "verdicts" / "hold")
     exclude_today = count_json_files(run_base / "verdicts" / "exclude")
+    verdict_total = keep_today + hold_today + exclude_today
+
+    if strict and scored_today > 0 and verdict_total != scored_today:
+        raise SystemExit(
+            f"Mismatch: verdict total {verdict_total} != scored {scored_today} for {run_date}"
+        )
 
     metrics_entry = read_metrics_entry(Path("metrics") / "daily_metrics.jsonl", run_date)
 
@@ -101,6 +110,10 @@ def main() -> int:
         f"- ChatGPT ideas: {chat_count}",
         f"- Claude ideas: {claude_count}",
         f"- Total ideas: {total_raw_today}",
+        "",
+        "Daily processing counts:",
+        f"- Normalized: {normalized_today}",
+        f"- Scored: {scored_today}",
         "",
         "Daily verdict counts:",
         f"- KEEP: {keep_today}",
