@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts scanned receipts into categorized expense reports for accountants.",
+  "idea_text": "Dashboard that summarizes monthly billing and payments for freelance consultants.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 70,
+    "pricing_power": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 74,
+  "arr_score": 74
 }

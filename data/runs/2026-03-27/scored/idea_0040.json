@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts raw data from various sources into visually appealing reports and dashboards for operations managers.",
+  "idea_text": "An automation tool that processes incoming customer support tickets and routes them to the appropriate team member based on skill set.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 64,
+  "arr_score": 62
 }

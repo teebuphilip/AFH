@@ -1,10 +1,10 @@
 {
-  "idea_text": "System that converts delivery logs into inventory restock alerts for small retail owners.",
+  "idea_text": "Dashboard that summarizes website analytics into simple weekly reports for freelancers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
   "overlay_score": 67,

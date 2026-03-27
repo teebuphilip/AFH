@@ -1,17 +1,17 @@
 {
-  "idea_text": "System that converts paper-based inventory counts into digital logs for small retail owners.",
+  "idea_text": "Automation that processes online booking data and outputs daily appointment schedules for small business owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
+  "overlay_score": 68,
   "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:38:26.863118",
+  "verdict_timestamp": "2026-03-27T18:55:12.365967",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T18:38:26.896434"
+  "arr_scored_at": "2026-03-27T18:55:12.400083"
 }

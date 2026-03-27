@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts handwritten time sheets into digital timesheets for operations managers.",
+  "idea_text": "System that converts expense receipts into categorized accounting entries for small businesses.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 76,
+  "arr_score": 76
 }

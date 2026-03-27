@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically generates customer feedback summaries from support emails for product managers.",
+  "idea_text": "Tool that automatically tracks inventory levels and sends reorder alerts to small retailers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 71,
+  "arr_score": 70
 }

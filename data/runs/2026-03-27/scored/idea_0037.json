@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically generates invoices and tracks payments for small service-based businesses.",
+  "idea_text": "A tool that automatically generates custom email newsletter templates and scheduling for small businesses.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 72,
+  "arr_score": 72
 }

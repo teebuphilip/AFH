@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation platform that processes inventory data and generates optimized purchase orders for small retail businesses.",
+  "idea_text": "A dashboard that summarizes key financial metrics like cash flow, profitability, and tax planning for small business owners.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 90,
+    "pricing_power": 70,
+    "user_count": 70,
     "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
   "overlay_score": 76,
-  "arr_score": 76
+  "arr_score": 75
 }

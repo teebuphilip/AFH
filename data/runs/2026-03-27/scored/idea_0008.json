@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that processes customer support tickets and outputs priority queues for support teams.",
+  "idea_text": "Automation that extracts key performance metrics from spreadsheets and creates weekly reports for operations managers.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 90,
+    "pricing_power": 50,
+    "user_count": 70,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 66,
+  "arr_score": 65
 }

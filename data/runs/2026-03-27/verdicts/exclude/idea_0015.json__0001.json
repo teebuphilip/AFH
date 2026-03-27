@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that monitors credit card statements and highlights potential fraudulent charges for accountants.",
+  "idea_text": "System that converts service requests into prioritized job tickets for operations managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
@@ -10,8 +10,8 @@
   "overlay_score": 68,
   "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T17:34:10.072702",
+  "verdict_timestamp": "2026-03-27T18:55:12.366225",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T17:34:10.109769"
+  "arr_scored_at": "2026-03-27T18:55:12.403833"
 }

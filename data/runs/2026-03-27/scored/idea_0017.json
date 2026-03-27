@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors equipment usage hours and sends maintenance alerts for operations managers.",
+  "idea_text": "Service that monitors contract renewal dates and sends reminders to property managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 68
+  "overlay_score": 68,
+  "arr_score": 66
 }

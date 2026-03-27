@@ -1,15 +1,18 @@
 {
-  "idea_text": "An automation tool that processes real estate listings and outputs a detailed comparative market analysis report for property owners.",
+  "idea_text": "An automated system that monitors social media mentions and online reviews for small businesses, and sends customized response templates to streamline reputation management.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:45:42.360271",
-  "verdict_source": "overlay_score"
+  "overlay_score": 72,
+  "arr_score": 72.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-27T18:55:12.368101",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-27T18:55:12.404663",
+  "hold_reason": "arr_70_89"
 }

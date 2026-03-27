@@ -1,5 +1,5 @@
 {
-  "idea_text": "A service that monitors social media mentions and sentiment, and sends alerts when specific keywords or trends are detected.",
+  "idea_text": "A service that monitors job board postings and automatically applies to relevant positions on behalf of job seekers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:45:42.361634",
+  "verdict_timestamp": "2026-03-27T18:55:12.369335",
   "verdict_source": "overlay_score"
 }

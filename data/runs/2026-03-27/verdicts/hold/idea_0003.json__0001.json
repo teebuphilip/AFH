@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automation that processes job applications and outputs ranked candidate lists for recruiters.",
+  "idea_text": "Automation that processes incoming resumes and outputs candidate shortlists for recruiters.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:45:42.356349",
+  "verdict_timestamp": "2026-03-27T18:55:12.364313",
   "verdict_source": "overlay_score"
 }

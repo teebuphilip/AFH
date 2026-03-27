@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that tracks software subscription renewals and sends alerts to HR coordinators.",
+  "idea_text": "Service that monitors sales leads and sends alerts for follow-up deadlines to sales reps.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 50,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 64,
+  "arr_score": 62
 }

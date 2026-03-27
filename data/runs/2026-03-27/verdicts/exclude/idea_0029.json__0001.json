@@ -1,5 +1,5 @@
 {
-  "idea_text": "A system that converts handwritten notes into digital to-do lists and task reminders for busy professionals.",
+  "idea_text": "A dashboard that summarizes key HR metrics like employee turnover, attendance, and performance data for small business owners.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
@@ -10,8 +10,8 @@
   "overlay_score": 68,
   "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:11:18.778544",
+  "verdict_timestamp": "2026-03-27T18:55:12.368226",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-03-27T18:11:18.810954"
+  "arr_scored_at": "2026-03-27T18:55:12.399652"
 }

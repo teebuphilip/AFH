@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that processes sales leads from emails and outputs contact priority lists for sales reps.",
+  "idea_text": "Automation that extracts candidate contact details from job boards and compiles outreach lists for recruiters.",
   "scores": {
-    "pricing_power": 50,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 60
+  "overlay_score": 64,
+  "arr_score": 62
 }

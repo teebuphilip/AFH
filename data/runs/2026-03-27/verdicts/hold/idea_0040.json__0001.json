@@ -1,5 +1,5 @@
 {
-  "idea_text": "An automation that processes customer feedback and outputs customized thank-you messages.",
+  "idea_text": "An automation tool that processes incoming customer support tickets and routes them to the appropriate team member based on skill set.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-03-27T18:38:26.867532",
+  "verdict_timestamp": "2026-03-27T18:55:12.369947",
   "verdict_source": "overlay_score"
 }

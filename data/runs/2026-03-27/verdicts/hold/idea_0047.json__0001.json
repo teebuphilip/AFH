@@ -1,18 +1,18 @@
 {
-  "idea_text": "An automation tool that processes sales data and generates personalized commission reports for sales teams.",
+  "idea_text": "A tool that automatically generates custom sales proposal templates and tracks proposal status for small sales teams.",
   "scores": {
-    "pricing_power": 50,
+    "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 71.0,
+  "overlay_score": 72,
+  "arr_score": 72.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-03-27T18:45:42.363421",
+  "verdict_timestamp": "2026-03-27T18:55:12.370943",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-03-27T18:45:42.395924",
+  "arr_scored_at": "2026-03-27T18:55:12.403001",
   "hold_reason": "arr_70_89"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that processes employee expense submissions and outputs reimbursement reports for finance teams.",
+  "idea_text": "Automation that processes online booking data and outputs daily appointment schedules for small business owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 68,
+  "arr_score": 66
 }
