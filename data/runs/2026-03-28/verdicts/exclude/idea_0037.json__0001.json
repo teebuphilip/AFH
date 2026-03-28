@@ -1,0 +1,15 @@
+{
+  "idea_text": "Recruiting metrics tracker that aggregates hiring data, generates reports, and provides insights for HR coordinators.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 50,
+    "competition_inverse": 55
+  },
+  "overlay_score": 54,
+  "arr_score": 54,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-03-28T09:25:52.575207",
+  "verdict_source": "overlay_score"
+}

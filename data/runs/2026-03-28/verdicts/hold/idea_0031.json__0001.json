@@ -1,0 +1,15 @@
+{
+  "idea_text": "Lead generation platform that aggregates and filters sales leads based on customizable criteria for sales teams.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 62,
+  "arr_score": 64,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-28T09:25:52.574324",
+  "verdict_source": "overlay_score"
+}
