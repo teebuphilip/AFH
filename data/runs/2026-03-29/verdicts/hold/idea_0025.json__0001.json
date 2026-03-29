@@ -1,0 +1,18 @@
+{
+  "idea_text": "Dashboard that summarizes monthly client billing statuses and flags overdue accounts for accountants.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 78,
+  "arr_score": 79.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-29T09:26:37.261087",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-29T09:26:37.290539",
+  "hold_reason": "arr_70_89"
+}

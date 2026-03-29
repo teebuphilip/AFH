@@ -1,0 +1,18 @@
+{
+  "idea_text": "Tool that automatically generates follow-up email templates based on recent client interactions for sales teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 74,
+  "arr_score": 74.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-29T09:26:37.260839",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-29T09:26:37.291613",
+  "hold_reason": "arr_70_89"
+}
