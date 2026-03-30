@@ -1,0 +1,17 @@
+{
+  "idea_text": "Tool that automatically formats and exports accounting data into tax-ready spreadsheets for accountants.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 70,
+  "arr_score": 68.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-30T10:05:26.662691",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-03-30T10:05:26.695228"
+}

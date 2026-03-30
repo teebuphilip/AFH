@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors vendor performance and sends alerts for delivery delays or quality issues for procurement managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-30T10:05:26.667639",
+  "verdict_source": "overlay_score"
+}

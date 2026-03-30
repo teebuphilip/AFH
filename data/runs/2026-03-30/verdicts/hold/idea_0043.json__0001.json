@@ -1,0 +1,18 @@
+{
+  "idea_text": "A system that converts customer order data into customized shipping labels and tracking updates for fulfillment teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-03-30T10:05:26.667098",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-03-30T10:05:26.697211",
+  "hold_reason": "arr_70_89"
+}

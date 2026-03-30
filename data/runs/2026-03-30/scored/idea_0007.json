@@ -1,0 +1,12 @@
+{
+  "idea_text": "Service that monitors sales leads status and sends daily pipeline summaries to sales representatives.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62
+}
