@@ -1,0 +1,15 @@
+{
+  "idea_text": "An app that tracks and organizes business travel expenses, generating reports for accounting.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-03-31T09:53:28.768097",
+  "verdict_source": "overlay_score"
+}
