@@ -1,0 +1,37 @@
+# .github/workflows/afh_quality_audit.yml
+name: AFH Quality Audit
+
+on:
+  schedule:
+    # Run monthly on the 3rd at 15:00 UTC
+    - cron: "0 15 3 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  run-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install scikit-learn numpy
+          fi
+
+      - name: Run quality audit (last 30 days)
+        run: |
+          python3 scripts/afh_quality_audit.py --catalog data/catalog/catalog.json --days 30
