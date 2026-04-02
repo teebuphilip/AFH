@@ -46,25 +46,7 @@ def _today_iso() -> str:
     return dt.date.today().isoformat()
 
 
-def _run_cmd_to_file(cmd: list[str], out_path: Path, env: dict[str, str]) -> None:
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-
-    # Run and capture stdout/stderr for diagnostics
-    proc = subprocess.run(
-        cmd,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-        env=env,
-        text=True,
-    )
-
-    if proc.returncode != 0:
-        # Write stderr to help debugging and ensure the expected raw file is not silently empty.
-        err_msg = proc.stderr.strip() or "(no stderr)"
-        raise RuntimeError(f"Command failed: {' '.join(cmd)}\n{err_msg}")
-
-    stdout = proc.stdout
-
+def _validate_jsonl(stdout: str, cmd: list[str]) -> None:
     # Hard fail if empty (prevents silently producing 0-byte raw files)
     if not stdout.strip():
         raise RuntimeError(f"Command produced empty output: {' '.join(cmd)}")
@@ -88,14 +70,40 @@ def _run_cmd_to_file(cmd: list[str], out_path: Path, env: dict[str, str]) -> Non
             f"Hint: your generator must print one JSON object per line."
         )
 
-    # Write
-    out_path.write_text(stdout, encoding="utf-8")
+def _run_cmd(cmd: list[str], env: dict[str, str]) -> str:
+    # Run and capture stdout/stderr for diagnostics
+    proc = subprocess.run(
+        cmd,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        env=env,
+        text=True,
+    )
+
+    if proc.returncode != 0:
+        # Write stderr to help debugging and ensure the expected raw file is not silently empty.
+        err_msg = proc.stderr.strip() or "(no stderr)"
+        raise RuntimeError(f"Command failed: {' '.join(cmd)}\n{err_msg}")
+
+    stdout = proc.stdout
+    _validate_jsonl(stdout, cmd)
+    return stdout
+
+def _append_output(out_path: Path, stdout: str) -> None:
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(out_path, "a", encoding="utf-8") as f:
+        f.write(stdout)
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Generate AFH ideas into data/raw/ (canonical filenames).")
     parser.add_argument("--date", default=_today_iso(), help="Run date in YYYY-MM-DD (default: today).")
     parser.add_argument("--idea-count", type=int, default=25, help="Target number of ideas per generator (default: 25).")
+    parser.add_argument(
+        "--prompt-files",
+        default="prompts/afh_ideas_ops.txt,prompts/afh_ideas_verticals.txt",
+        help="Comma-separated prompt files (default: ops + verticals).",
+    )
     args = parser.parse_args()
 
     run_date = args.date.strip()
@@ -125,6 +133,21 @@ def main() -> int:
     chat_out = raw_dir / f"chatgpt_{run_date}.jsonl"
     claude_out = raw_dir / f"claude_{run_date}.jsonl"
 
+    prompt_files = [p.strip() for p in args.prompt_files.split(",") if p.strip()]
+    if not prompt_files:
+        print("❌ No prompt files provided.", file=sys.stderr)
+        return 2
+    for p in prompt_files:
+        if not Path(p).exists():
+            print(f"❌ Missing prompt file: {p}", file=sys.stderr)
+            return 2
+
+    # Reset outputs for this run (avoid cross-run append)
+    if chat_out.exists():
+        chat_out.unlink()
+    if claude_out.exists():
+        claude_out.unlink()
+
     # Canonical env shared with shell scripts
     env = dict(os.environ)
     env["RUN_DATE"] = run_date
@@ -132,8 +155,11 @@ def main() -> int:
 
     # Ensure executable bit not required (we invoke via bash explicitly)
     try:
-        _run_cmd_to_file(["/bin/bash", str(chat_script)], chat_out, env=env)
-        _run_cmd_to_file(["/bin/bash", str(claude_script)], claude_out, env=env)
+        for prompt_file in prompt_files:
+            chat_stdout = _run_cmd(["/bin/bash", str(chat_script), prompt_file], env=env)
+            _append_output(chat_out, chat_stdout)
+            claude_stdout = _run_cmd(["/bin/bash", str(claude_script), prompt_file], env=env)
+            _append_output(claude_out, claude_stdout)
     except Exception as e:
         print(f"❌ generate_ideas.py failed:\n{e}", file=sys.stderr)
         return 1
