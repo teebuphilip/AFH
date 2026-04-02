@@ -1,12 +1,12 @@
 {
-  "idea_text": "A payroll and benefits administration tool that simplifies tax filings, direct deposit, and employee self-service for small-to-medium businesses.",
+  "idea_text": "Automation that reconciles logistics data and generates performance reports for fleet operations teams.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 69
+  "overlay_score": 76,
+  "arr_score": 76
 }

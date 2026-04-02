@@ -1,15 +1,15 @@
 {
-  "idea_text": "A tool that streamlines the invoicing and payment collection process for the accounting team, including automated late payment reminders and integration with various payment gateways.",
+  "idea_text": "Expense policy enforcement tool that reviews employee expense claims, enforces spending limits, and flags violations for the finance manager.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 58,
+  "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:25:40.901333",
+  "verdict_timestamp": "2026-04-02T19:37:33.398958",
   "verdict_source": "overlay_score"
 }

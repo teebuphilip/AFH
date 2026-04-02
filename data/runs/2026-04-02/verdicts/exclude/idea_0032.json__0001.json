@@ -1,17 +1,17 @@
 {
-  "idea_text": "System that automates trust account reconciliation for legal firm accountants.",
+  "idea_text": "System that converts timecard records into payroll-ready summaries for hospitality payroll clerks.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
+  "overlay_score": 67,
   "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:28:41.827247",
+  "verdict_timestamp": "2026-04-02T19:37:33.392884",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:28:41.865923"
+  "arr_scored_at": "2026-04-02T19:37:33.440875"
 }

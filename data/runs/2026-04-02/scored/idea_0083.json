@@ -1,12 +1,12 @@
 {
-  "idea_text": "An HR onboarding and offboarding tool that handles new hire paperwork, IT provisioning, and employee exit procedures for small businesses.",
+  "idea_text": "Tool that automatically prepares quarterly financial reports for small accounting firms.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 55,
+    "user_count": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
   "overlay_score": 64,
-  "arr_score": 66
+  "arr_score": 62
 }

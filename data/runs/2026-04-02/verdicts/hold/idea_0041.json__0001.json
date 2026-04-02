@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automation that flags insurance claims with missing documentation for claims supervisors.",
+  "idea_text": "Automation that tracks insurance claim document submissions for claims processing coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.828166",
+  "verdict_timestamp": "2026-04-02T19:37:33.394442",
   "verdict_source": "overlay_score"
 }

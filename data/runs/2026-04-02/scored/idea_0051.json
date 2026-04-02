@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated expense report generator that scans receipts and categorizes spending for finance teams.",
+  "idea_text": "Automated accounts receivable reconciliation tool that syncs with accounting software and emails overdue payment alerts to the finance team.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 64,
+  "arr_score": 62
 }

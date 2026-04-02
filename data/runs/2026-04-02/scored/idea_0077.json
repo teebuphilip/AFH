@@ -1,12 +1,12 @@
 {
-  "idea_text": "Software that monitors construction site safety compliance and generates detailed reports for project managers in the building industry.",
+  "idea_text": "Service that monitors insurance policy renewals and flags upcoming expirations for claims adjusters.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 64,
+  "arr_score": 62
 }

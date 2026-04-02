@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that tracks equipment maintenance schedules and alerts facilities managers of service needs.",
+  "idea_text": "Expense policy enforcement tool that reviews employee expense claims, enforces spending limits, and flags violations for the finance manager.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 70,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 58,
+  "arr_score": 58
 }

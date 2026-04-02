@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automation that converts clinic appointment data into billing summaries for medical office managers.",
+  "idea_text": "Automation that generates daily clinic appointment no-show reports for medical office managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.827735",
+  "verdict_timestamp": "2026-04-02T19:37:33.393690",
   "verdict_source": "overlay_score"
 }

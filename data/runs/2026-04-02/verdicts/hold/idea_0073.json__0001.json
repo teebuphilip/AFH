@@ -1,15 +1,15 @@
 {
-  "idea_text": "An automation that collects and analyzes customer feedback data, generates insights and recommendations, and delivers them to the customer success team.",
+  "idea_text": "Employee onboarding checklist that guides new hires through the setup process, collects required information, and notifies the HR generalist.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 50,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 63,
+  "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:25:40.901843",
+  "verdict_timestamp": "2026-04-02T19:37:33.399466",
   "verdict_source": "overlay_score"
 }

@@ -1,15 +1,15 @@
 {
-  "idea_text": "Inventory optimization algorithm for small independent pharmacies to right-size drug stocks and minimize waste.",
+  "idea_text": "Tool that automatically prepares client financial statements for accounting firms.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:25:40.906003",
+  "verdict_timestamp": "2026-04-02T19:37:33.403443",
   "verdict_source": "overlay_score"
 }

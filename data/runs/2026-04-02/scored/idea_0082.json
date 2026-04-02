@@ -1,12 +1,12 @@
 {
-  "idea_text": "A property management platform that automates rent collection, maintenance request tracking, and financial reporting for landlords of residential rental properties.",
+  "idea_text": "Automation that converts legal case files into formatted court document submissions.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

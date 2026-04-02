@@ -1,18 +1,18 @@
 {
-  "idea_text": "Tool that monitors employee overtime hours and sends weekly alerts to HR payroll teams.",
+  "idea_text": "Tool that tracks vendor contract compliance metrics and sends monthly scorecards to procurement teams.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 90,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76.0,
+  "overlay_score": 78,
+  "arr_score": 81.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.891911",
+  "verdict_timestamp": "2026-04-02T19:37:33.391119",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:25:40.939005",
+  "arr_scored_at": "2026-04-02T19:37:33.433809",
   "hold_reason": "arr_70_89"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "A freight forwarding optimization tool that automates shipment consolidation, carrier selection, and proof of delivery documentation for logistics companies.",
+  "idea_text": "Service that monitors property inspections and generates compliance reports for property management companies.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 76,
+  "arr_score": 76
 }

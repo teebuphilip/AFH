@@ -1,12 +1,12 @@
 {
-  "idea_text": "Software that tracks supplier performance metrics and alerts procurement teams of issues.",
+  "idea_text": "Fixed asset management software that tracks depreciation, generates tax reports, and notifies the finance team of upcoming replacements.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 58,
+  "arr_score": 58
 }

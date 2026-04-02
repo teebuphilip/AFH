@@ -1,18 +1,18 @@
 {
-  "idea_text": "Automation that compiles monthly rent collection status and emails property managers a summary report.",
+  "idea_text": "Automation that reconciles bank statements with internal ledger entries and flags mismatches for finance teams.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 79.0,
+  "overlay_score": 76,
+  "arr_score": 76.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.888908",
+  "verdict_timestamp": "2026-04-02T19:37:33.388805",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:25:40.939506",
+  "arr_scored_at": "2026-04-02T19:37:33.434245",
   "hold_reason": "arr_70_89"
 }

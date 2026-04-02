@@ -1,12 +1,12 @@
 {
-  "idea_text": "A data analytics dashboard that tracks key performance indicators and generates customizable reports for mid-size manufacturing companies.",
+  "idea_text": "System that monitors property maintenance requests and schedules vendor dispatches for property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 55,
-    "market_clarity": 50,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 63,
-  "arr_score": 65
+  "overlay_score": 69,
+  "arr_score": 68
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that reconciles shipping invoices with delivery confirmations and sends weekly exception reports to procurement.",
+  "idea_text": "System that monitors equipment maintenance schedules and sends reminders to facilities managers weekly.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 65,
+  "arr_score": 64
 }

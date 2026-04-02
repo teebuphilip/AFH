@@ -1,15 +1,15 @@
 {
-  "idea_text": "Service that tracks vendor insurance policies and alerts procurement when renewals are due.",
+  "idea_text": "Compliance document management system that stores and organizes policies, procedures, and regulatory filings for the compliance officer.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 58,
+  "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.831574",
+  "verdict_timestamp": "2026-04-02T19:37:33.399804",
   "verdict_source": "overlay_score"
 }

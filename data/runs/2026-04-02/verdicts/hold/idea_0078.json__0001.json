@@ -1,5 +1,5 @@
 {
-  "idea_text": "An AI-powered medical coding and billing assistant that streamlines the claims submission process for independent healthcare clinics.",
+  "idea_text": "System that converts construction project documents into standardized permit submissions on a schedule.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.831878",
+  "verdict_timestamp": "2026-04-02T19:37:33.400337",
   "verdict_source": "overlay_score"
 }

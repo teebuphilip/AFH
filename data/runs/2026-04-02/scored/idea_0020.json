@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that tracks contract milestone payments and sends alerts to finance operations when due dates approach.",
+  "idea_text": "System that reconciles utility meter readings against billed amounts and flags inconsistencies for property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 62,
+  "arr_score": 63
 }

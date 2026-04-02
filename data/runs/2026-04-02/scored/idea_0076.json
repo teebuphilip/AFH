@@ -1,12 +1,12 @@
 {
-  "idea_text": "A cloud-based platform that automates the preparation and submission of monthly insurance policy renewal paperwork for small-to-medium sized insurance agencies.",
+  "idea_text": "Tool that automatically generates quarterly tax reports for property management firms.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 67,
+  "arr_score": 66
 }

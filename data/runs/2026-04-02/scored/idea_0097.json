@@ -1,12 +1,12 @@
 {
-  "idea_text": "Workforce planning software that forecasts labor needs, optimizes shift schedules, and monitors overtime for retail store and restaurant managers.",
+  "idea_text": "Tool that automatically prepares client financial statements for accounting firms.",
   "scores": {
-    "pricing_power": 70,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 70,
-  "arr_score": 69
+  "overlay_score": 64,
+  "arr_score": 62
 }

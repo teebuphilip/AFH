@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated lease management software that tracks rent payments and generates reports for property managers.",
+  "idea_text": "Payroll reporting dashboard that consolidates data from multiple sources, identifies discrepancies, and produces regulatory filings for the payroll administrator.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 58,
+  "arr_score": 58
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that consolidates and validates utility meter readings monthly and emails anomaly reports to facility managers.",
+  "idea_text": "Service that monitors supplier delivery delays and sends weekly performance reports to procurement managers.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 66,
-  "arr_score": 67
+  "overlay_score": 64,
+  "arr_score": 62
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that extracts and validates monthly expense reports from sales teams and emails compliance flags to finance ops.",
+  "idea_text": "Automation that extracts and formats logistics delivery confirmations into standardized reports for operations teams.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88
+  "overlay_score": 72,
+  "arr_score": 72
 }

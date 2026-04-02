@@ -1,12 +1,12 @@
 {
-  "idea_text": "A predictive scheduling system that optimizes shift coverage and identifies understaffing risks for retail store managers.",
+  "idea_text": "Automation that analyzes insurance claim history and flags suspicious patterns for underwriting teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 72,
+  "arr_score": 72
 }

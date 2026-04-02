@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automates monthly bank account reconciliation and sends balance reports to accounting.",
+  "idea_text": "Inventory management system that tracks stock levels, generates purchase orders, and sends notifications to the warehouse manager when reorder thresholds are reached.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 58,
+  "arr_score": 58
 }

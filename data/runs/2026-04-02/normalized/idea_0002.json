@@ -1,3 +1,3 @@
 {
-  "idea_text": "Service that monitors employee timesheets against payroll records and alerts HR ops of inconsistencies monthly."
+  "idea_text": "Service that monitors employee timesheets and alerts payroll teams when submitted hours exceed set thresholds."
 }

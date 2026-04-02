@@ -1,15 +1,18 @@
 {
-  "idea_text": "Automation that extracts and validates shipment delivery logs and sends weekly status summaries to logistics ops.",
+  "idea_text": "System that schedules and sends monthly rent collection summaries to property management accounting teams.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
+    "pricing_power": 90,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.825217",
-  "verdict_source": "overlay_score"
+  "overlay_score": 83,
+  "arr_score": 85.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:37:33.389660",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T19:37:33.442344",
+  "hold_reason": "arr_70_89"
 }

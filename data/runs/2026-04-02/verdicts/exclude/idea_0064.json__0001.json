@@ -1,17 +1,17 @@
 {
-  "idea_text": "A service that monitors and alerts the facilities team when equipment maintenance is due, schedules vendor visits, and tracks the work orders.",
+  "idea_text": "Accounts payable automation that captures invoices, matches them to purchase orders, and schedules payments for the accounting team.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64.0,
+  "overlay_score": 67,
+  "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.900356",
+  "verdict_timestamp": "2026-04-02T19:37:33.397945",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:25:40.945721"
+  "arr_scored_at": "2026-04-02T19:37:33.439777"
 }

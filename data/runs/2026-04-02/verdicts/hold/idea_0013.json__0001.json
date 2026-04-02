@@ -1,15 +1,15 @@
 {
-  "idea_text": "Tool that tracks employee certification expirations and sends quarterly renewal reminders to HR operations.",
+  "idea_text": "Tool that reconciles inventory shipment receipts with purchase orders and notifies logistics coordinators of discrepancies.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 55,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55,
+  "overlay_score": 58,
+  "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.825335",
+  "verdict_timestamp": "2026-04-02T19:37:33.389806",
   "verdict_source": "overlay_score"
 }

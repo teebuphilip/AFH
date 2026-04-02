@@ -1,18 +1,18 @@
 {
-  "idea_text": "A freight forwarding optimization tool that automates shipment consolidation, carrier selection, and proof of delivery documentation for logistics companies.",
+  "idea_text": "Service that monitors property inspections and generates compliance reports for property management companies.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74.0,
+  "overlay_score": 76,
+  "arr_score": 76.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:28:41.833344",
+  "verdict_timestamp": "2026-04-02T19:37:33.402442",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:28:41.863870",
+  "arr_scored_at": "2026-04-02T19:37:33.436937",
   "hold_reason": "arr_70_89"
 }

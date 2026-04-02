@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that tracks and reports vehicle maintenance schedules for fleet operations coordinators.",
+  "idea_text": "Tool that schedules and reports on restaurant health inspection readiness tasks for restaurant managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

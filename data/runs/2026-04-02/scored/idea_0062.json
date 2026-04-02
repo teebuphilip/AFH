@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated lead qualification system that scores prospects and alerts sales operations staff.",
+  "idea_text": "Vendor relationship management system that scores supplier performance, identifies risks, and provides insights to the procurement manager.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 54,
+  "arr_score": 54
 }

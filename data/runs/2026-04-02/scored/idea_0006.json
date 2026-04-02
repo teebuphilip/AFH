@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that consolidates travel expense receipts and generates monthly reimbursement summaries for accounting firms.",
+  "idea_text": "Service that tracks recurring vendor payments and alerts accounting teams about upcoming renewals.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 78
+  "overlay_score": 72,
+  "arr_score": 72
 }

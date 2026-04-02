@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that tracks and reports expiration dates of business licenses for construction compliance managers.",
+  "idea_text": "Tool that prepares monthly sales tax filing summaries for restaurant finance teams.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 55,
-    "automation": 55,
+    "user_count": 90,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 71
+  "overlay_score": 86,
+  "arr_score": 88
 }

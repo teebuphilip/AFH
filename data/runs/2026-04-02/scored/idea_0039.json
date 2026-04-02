@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that prepares monthly labor compliance submissions for restaurant HR managers.",
+  "idea_text": "Service that compiles vehicle fuel usage and cost reports for fleet accounting teams.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 55,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 71
+  "overlay_score": 64,
+  "arr_score": 66
 }

@@ -1,15 +1,15 @@
 {
-  "idea_text": "System that compiles daily cash reconciliation reports for hospitality back office accountants.",
+  "idea_text": "System that automates equipment rental invoicing and usage reports for construction rental coordinators.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 55,
+    "user_count": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 59,
-  "arr_score": 60,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.828482",
+  "verdict_timestamp": "2026-04-02T19:37:33.394923",
   "verdict_source": "overlay_score"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Software that monitors employee attendance and generates timekeeping reports for HR ops.",
+  "idea_text": "Procurement analytics platform that aggregates spend data, identifies savings opportunities, and provides insights to the purchasing director.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 54,
+  "arr_score": 54
 }

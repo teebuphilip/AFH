@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that automates insurance premium audit report preparations for insurance brokers.",
+  "idea_text": "Service that tracks and flags overdue compliance filings for legal firm compliance officers.",
   "scores": {
-    "pricing_power": 70,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 67
+  "overlay_score": 58,
+  "arr_score": 58
 }

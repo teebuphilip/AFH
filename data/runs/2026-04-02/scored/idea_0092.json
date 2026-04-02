@@ -1,12 +1,12 @@
 {
-  "idea_text": "Restaurant back-office software that handles recipe costing, inventory management, and sales forecasting for multi-location food service businesses.",
+  "idea_text": "Automation that analyzes insurance claim patterns and flags high-risk cases for claims adjusters.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 55,
-    "market_clarity": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 69
+  "overlay_score": 64,
+  "arr_score": 62
 }

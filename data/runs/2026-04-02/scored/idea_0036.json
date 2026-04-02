@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that reconciles subcontractor invoices with project budgets for construction project accountants.",
+  "idea_text": "System that automates delivery route exception reports for logistics operations supervisors.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 55,
-    "market_clarity": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 63
+  "overlay_score": 64,
+  "arr_score": 62
 }

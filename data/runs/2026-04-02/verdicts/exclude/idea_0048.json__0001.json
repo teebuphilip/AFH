@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automation that compiles tenant maintenance request summaries for property maintenance supervisors.",
+  "idea_text": "System that automates vehicle inspection checklist reporting for fleet maintenance supervisors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,8 +10,8 @@
   "overlay_score": 65,
   "arr_score": 64.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.897233",
+  "verdict_timestamp": "2026-04-02T19:37:33.395486",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:25:40.936161"
+  "arr_scored_at": "2026-04-02T19:37:33.431841"
 }

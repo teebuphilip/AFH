@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically matches bank transactions with internal ledgers and emails weekly reconciliation reports to finance ops.",
+  "idea_text": "Tool that monitors contract expiry dates and sends alerts to procurement teams 30 days prior.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 72,
+  "arr_score": 72
 }

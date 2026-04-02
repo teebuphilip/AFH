@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that consolidates employee benefits enrollment data and generates monthly participation reports for HR operations.",
+  "idea_text": "Tool that tracks vendor contract compliance metrics and sends monthly scorecards to procurement teams.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 55,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 66,
-  "arr_score": 67
+  "overlay_score": 78,
+  "arr_score": 81
 }

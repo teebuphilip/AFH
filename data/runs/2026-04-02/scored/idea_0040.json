@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that automates client billing statement generation for small legal practices.",
+  "idea_text": "System that automates monthly client billing reconciliation for accounting firm bookkeepers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 78,
+  "arr_score": 78
 }

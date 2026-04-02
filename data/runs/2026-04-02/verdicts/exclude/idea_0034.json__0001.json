@@ -1,17 +1,17 @@
 {
-  "idea_text": "Service that reconciles insurance policy endorsements with claims data for underwriting teams.",
+  "idea_text": "Tool that prepares monthly insurance premium audit reports for insurance brokers.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 90,
+    "pricing_power": 90,
+    "user_count": 55,
     "automation": 55,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 69.0,
+  "overlay_score": 66,
+  "arr_score": 67.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:19:33.450733",
+  "verdict_timestamp": "2026-04-02T19:37:33.393195",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:25:40.942948"
+  "arr_scored_at": "2026-04-02T19:37:33.437339"
 }

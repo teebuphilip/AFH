@@ -1,18 +1,15 @@
 {
-  "idea_text": "Property inspection software that automates move-in/move-out checklists, maintenance requests, and condition reporting for residential property management companies.",
+  "idea_text": "System that tracks patient medical history and generates automated progress reports for medical practice managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:28:41.833666",
-  "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:28:41.865681",
-  "hold_reason": "arr_70_89"
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:37:33.402926",
+  "verdict_source": "overlay_score"
 }

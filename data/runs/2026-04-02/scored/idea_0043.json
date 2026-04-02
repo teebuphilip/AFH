@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that converts supplier invoices into accounts payable entries for property management finance teams.",
+  "idea_text": "Service that reconciles utility bills against lease agreements for property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
+    "user_count": 70,
+    "automation": 55,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 62,
+  "arr_score": 63
 }

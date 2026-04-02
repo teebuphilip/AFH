@@ -1,12 +1,12 @@
 {
-  "idea_text": "A field service management platform that coordinates technician schedules, work orders, and customer communications for HVAC and plumbing companies.",
+  "idea_text": "Tool that tracks patient appointment schedules and generates automated billing for medical billing specialists.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

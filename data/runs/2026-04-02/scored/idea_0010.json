@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that scans vendor payment histories and flags late payments monthly for accounts payable teams.",
+  "idea_text": "Service that aggregates employee reimbursement requests and generates batch payment files for payroll departments.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 55,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 78
+  "overlay_score": 58,
+  "arr_score": 58
 }

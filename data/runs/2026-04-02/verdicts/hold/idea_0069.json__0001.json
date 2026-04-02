@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automated document management system that digitizes and organizes files for office administrators.",
+  "idea_text": "Recruitment tracking system that manages applicants, schedules interviews, and reports hiring metrics to the talent acquisition team.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.830990",
+  "verdict_timestamp": "2026-04-02T19:37:33.398765",
   "verdict_source": "overlay_score"
 }

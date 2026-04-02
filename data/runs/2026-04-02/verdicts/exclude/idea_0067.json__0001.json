@@ -1,17 +1,17 @@
 {
-  "idea_text": "HR policy and compliance software for small businesses to manage employee handbooks, training, and regulatory filings.",
+  "idea_text": "Invoice generation service that converts customer quotes and orders into branded invoices and sends them to the accounts receivable clerk.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 55,
+    "user_count": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
   "overlay_score": 67,
-  "arr_score": 69.0,
+  "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:19:33.463002",
+  "verdict_timestamp": "2026-04-02T19:37:33.398441",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:25:40.946370"
+  "arr_scored_at": "2026-04-02T19:37:33.440438"
 }

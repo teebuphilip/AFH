@@ -1,18 +1,18 @@
 {
-  "idea_text": "Compliance monitoring service for HR teams to track employee training, certification, and policy acknowledgments.",
+  "idea_text": "Facility maintenance planner that schedules routine inspections, tracks work orders, and notifies the property manager of any issues that need attention.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 90,
+    "pricing_power": 70,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76.0,
+  "overlay_score": 74,
+  "arr_score": 73.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:19:33.459592",
+  "verdict_timestamp": "2026-04-02T19:37:33.396991",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:25:40.937770",
+  "arr_scored_at": "2026-04-02T19:37:33.432936",
   "hold_reason": "arr_70_89"
 }

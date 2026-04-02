@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors fleet maintenance schedules and notifies logistics managers weekly of upcoming services.",
+  "idea_text": "Service that automates the generation of monthly vendor payment aging reports for accounting departments.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 74,
+  "arr_score": 74
 }

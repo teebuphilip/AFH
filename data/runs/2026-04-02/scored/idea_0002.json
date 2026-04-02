@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors employee timesheets against payroll records and alerts HR ops of inconsistencies monthly.",
+  "idea_text": "Service that monitors employee timesheets and alerts payroll teams when submitted hours exceed set thresholds.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 78
+  "overlay_score": 76,
+  "arr_score": 76
 }

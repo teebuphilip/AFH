@@ -1,15 +1,15 @@
 {
-  "idea_text": "A client engagement platform that streamlines the onboarding, document management, and billing processes for small-to-medium sized law firms.",
+  "idea_text": "Tool that converts construction project documents into digital building permit applications.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 30,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 61,
-  "arr_score": 60,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.833566",
+  "verdict_timestamp": "2026-04-02T19:37:33.402735",
   "verdict_source": "overlay_score"
 }

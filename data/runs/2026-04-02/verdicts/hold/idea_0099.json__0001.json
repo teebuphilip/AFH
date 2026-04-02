@@ -1,15 +1,15 @@
 {
-  "idea_text": "A field service platform that manages work orders, parts inventory, and customer communications for home appliance repair technicians.",
+  "idea_text": "System that analyzes insurance policy data and flags coverage gaps for underwriting teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 55,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58,
+  "overlay_score": 64,
+  "arr_score": 66,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.834168",
+  "verdict_timestamp": "2026-04-02T19:37:33.403764",
   "verdict_source": "overlay_score"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that converts patient billing codes into insurance submissions for medical billing specialists.",
+  "idea_text": "Automation that prepares patient billing compliance reports for medical billing specialists.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 67,
+  "arr_score": 66
 }

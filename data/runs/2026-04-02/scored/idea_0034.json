@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that generates weekly shift scheduling summaries and alerts for hospitality floor managers.",
+  "idea_text": "Tool that prepares monthly insurance premium audit reports for insurance brokers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 66,
+  "arr_score": 67
 }
