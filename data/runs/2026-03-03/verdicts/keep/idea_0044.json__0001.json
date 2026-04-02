@@ -1,0 +1,15 @@
+{
+  "idea_text": "A dashboard that consolidates and visualizes key financial metrics for small businesses, including cash flow, expenses, and revenue forecasts.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 69,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:19:31.126948",
+  "verdict_source": "overlay_score"
+}

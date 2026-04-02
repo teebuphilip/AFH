@@ -19,6 +19,7 @@ No command-line output paths.
 
 import json
 import sys
+import os
 from pathlib import Path
 from datetime import datetime, date
 
@@ -26,7 +27,7 @@ from datetime import datetime, date
 # CONFIG (LOCKED - Run-specific)
 # -----------------------------
 
-run_date = date.today().isoformat()
+run_date = os.getenv("AFH_RUN_DATE") or date.today().isoformat()
 RUN_BASE = Path("data") / "runs" / run_date
 
 DEFAULT_INPUT_DIR = RUN_BASE / "scored"

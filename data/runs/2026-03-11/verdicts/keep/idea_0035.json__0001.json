@@ -1,0 +1,15 @@
+{
+  "idea_text": "An automation that processes expense reports and generates analytics for finance teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:19:31.730010",
+  "verdict_source": "overlay_score"
+}

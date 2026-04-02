@@ -1,0 +1,15 @@
+{
+  "idea_text": "A dashboard that summarizes key metrics for small businesses, such as sales, expenses, and cash flow.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:19:31.420908",
+  "verdict_source": "overlay_score"
+}

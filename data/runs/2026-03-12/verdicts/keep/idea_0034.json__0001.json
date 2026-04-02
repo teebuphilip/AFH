@@ -1,0 +1,15 @@
+{
+  "idea_text": "An automation tool that processes property management invoices and generates detailed reports for landlords.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:19:31.807179",
+  "verdict_source": "overlay_score"
+}

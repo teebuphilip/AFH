@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that monitors email inboxes for unpaid invoices and sends payment reminder alerts to small business owners.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 75,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:19:32.103468",
+  "verdict_source": "overlay_score"
+}

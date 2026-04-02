@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that monitors social media ad spend and sends alerts when budgets exceed limits for small marketing teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:19:31.263615",
+  "verdict_source": "overlay_score"
+}

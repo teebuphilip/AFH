@@ -1,0 +1,15 @@
+{
+  "idea_text": "A dashboard that summarizes key HR metrics for small businesses and provides actionable insights.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 50,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:19:32.185841",
+  "verdict_source": "overlay_score"
+}

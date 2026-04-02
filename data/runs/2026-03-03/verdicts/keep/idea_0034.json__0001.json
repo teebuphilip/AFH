@@ -1,0 +1,15 @@
+{
+  "idea_text": "A dashboard that aggregates and visualizes key sales metrics like pipeline, conversion rates, and revenue forecasts for small sales teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 74,
+  "arr_score": 74,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:19:31.123781",
+  "verdict_source": "overlay_score"
+}

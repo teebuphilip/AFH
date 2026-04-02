@@ -1,0 +1,15 @@
+{
+  "idea_text": "A tool that automatically generates project plans, tracks progress, and sends updates for freelancers and small teams.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 77,
+  "arr_score": 78,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:19:31.655482",
+  "verdict_source": "overlay_score"
+}
