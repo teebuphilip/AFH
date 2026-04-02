@@ -77,9 +77,13 @@ If there is a conflict:
   - Daily stats email: uses `codex_created_11.0_daily_stats_email.py` and sends results to `ALERT_EMAIL_TO`
   - Commits: `data/`, `catalogs/`, `metrics/`, and `logs/YYYY-MM-DD/`
 - `AFH Auto GTM` (`.github/workflows/auto_gtm.yml`)
-  - Schedule: monthly on the 3rd at `09:00 UTC`
+  - Schedule: manual only
   - Entrypoint: `scripts/auto_gtm_from_keeps.py`
   - Commits: `gtm/` and `scripts/ai_costs.csv`
+- `AFH Quality Audit` (`.github/workflows/afh_quality_audit.yml`)
+  - Schedule: monthly on the 3rd at `15:00 UTC`
+  - Entrypoint: `scripts/afh_quality_audit.py`
+  - Output: terminal report only
 
 All steps are deterministic per run.
 
@@ -174,6 +178,12 @@ Appends a daily snapshot to `metrics/daily_metrics.jsonl`.
   - `gtm/auto/idea_01.md` ... for the top ideas
   - `gtm/auto/gtm_summary_YYYYMMDD_HHMMSS.json`
   - `scripts/ai_costs.csv` for token/cost logging
+
+---
+
+## Pricing
+
+See `codemart-pricing-plan.md`.
 
 ---
 
