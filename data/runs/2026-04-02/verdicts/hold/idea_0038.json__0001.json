@@ -1,15 +1,18 @@
 {
-  "idea_text": "Tool that schedules and reports on restaurant health inspection readiness tasks for restaurant managers.",
+  "idea_text": "Tool that automatically compiles monthly lease compliance documentation for commercial property managers.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
+    "pricing_power": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:37:33.393874",
-  "verdict_source": "overlay_score"
+  "overlay_score": 82,
+  "arr_score": 82.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:46:18.254170",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T19:46:18.316654",
+  "hold_reason": "arr_70_89"
 }

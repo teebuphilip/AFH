@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated accounts receivable reconciliation tool that syncs with accounting software and emails overdue payment alerts to the finance team.",
+  "idea_text": "A service that automatically reconciles bank transactions and credit card statements for small finance teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 76,
+  "arr_score": 76
 }

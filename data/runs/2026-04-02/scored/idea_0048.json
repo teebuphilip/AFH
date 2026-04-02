@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that automates vehicle inspection checklist reporting for fleet maintenance supervisors.",
+  "idea_text": "System that compiles and emails daily patient billing exception reports to clinic administrators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 70,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 55,
+  "arr_score": 55
 }

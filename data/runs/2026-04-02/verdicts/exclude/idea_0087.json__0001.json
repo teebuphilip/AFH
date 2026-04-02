@@ -1,17 +1,17 @@
 {
-  "idea_text": "Equipment maintenance scheduling software for dental practices to proactively plan servicing and replacements.",
+  "idea_text": "Automated inventory management system that tracks stock levels and generates purchase orders for restaurant managers.",
   "scores": {
-    "pricing_power": 70,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 70,
-  "arr_score": 69.0,
+  "overlay_score": 67,
+  "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.904234",
+  "verdict_timestamp": "2026-04-02T19:46:18.262493",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:25:40.945533"
+  "arr_scored_at": "2026-04-02T19:46:18.308261"
 }

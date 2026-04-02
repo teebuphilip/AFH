@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically prepares quarterly financial reports for small accounting firms.",
+  "idea_text": "Invoice reconciliation software that matches insurance claims to payments for medical billing specialists.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 58,
+  "arr_score": 58
 }

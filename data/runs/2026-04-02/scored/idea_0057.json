@@ -1,12 +1,12 @@
 {
-  "idea_text": "Sales commission tracking system that calculates earnings, generates commission statements, and integrates with the sales team's CRM.",
+  "idea_text": "A platform that monitors client billing and sends automated late payment notifications to accounting firms.",
   "scores": {
-    "pricing_power": 50,
-    "user_count": 90,
-    "automation": 55,
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Vendor risk assessment tool that evaluates suppliers, identifies potential issues, and reports findings to the procurement risk manager.",
+  "idea_text": "An automated system that generates quarterly tax reports for property management companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
-    "market_clarity": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 76,
+  "arr_score": 76
 }

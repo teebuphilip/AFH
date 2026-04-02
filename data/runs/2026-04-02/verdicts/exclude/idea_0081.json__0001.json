@@ -1,17 +1,17 @@
 {
-  "idea_text": "Service that organizes and formats restaurant inventory data for back office teams.",
+  "idea_text": "Compliance monitoring tool that identifies potential issues and generates reports for human resources managers in the hospitality industry.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 55,
+    "user_count": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
   "overlay_score": 67,
-  "arr_score": 69.0,
+  "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:37:33.400902",
+  "verdict_timestamp": "2026-04-02T19:46:18.261393",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:37:33.433129"
+  "arr_scored_at": "2026-04-02T19:46:18.296551"
 }

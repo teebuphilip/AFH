@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that schedules and reports on field service technician certifications compliance for construction HR managers.",
+  "idea_text": "Tool that monitors delivery route adherence and flags deviations for logistics fleet supervisors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 64,
+  "arr_score": 62
 }

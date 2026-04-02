@@ -1,15 +1,18 @@
 {
-  "idea_text": "Service that aggregates employee time-off requests and generates PTO reports for HR managers.",
+  "idea_text": "An automation system that converts sales data into customized commission reports for sales operations teams.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
+    "pricing_power": 50,
+    "user_count": 90,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.830016",
-  "verdict_source": "overlay_score"
+  "overlay_score": 71,
+  "arr_score": 71.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:46:18.258048",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T19:46:18.295131",
+  "hold_reason": "arr_70_89"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that tracks patient medical history and generates automated progress reports for medical practice managers.",
+  "idea_text": "Route optimization and dispatch software that improves efficiency and reduces costs for logistics and delivery companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 65,
+  "arr_score": 67
 }

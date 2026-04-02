@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that tracks vendor contract compliance metrics and sends monthly scorecards to procurement teams.",
+  "idea_text": "Tool that monitors recurring software subscription invoices and notifies IT finance teams of billing anomalies.",
   "scores": {
     "pricing_power": 90,
     "user_count": 90,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 81
+  "overlay_score": 86,
+  "arr_score": 88
 }

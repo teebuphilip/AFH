@@ -1,15 +1,15 @@
 {
-  "idea_text": "A data analytics dashboard that tracks key performance indicators and generates customizable reports for mid-size manufacturing companies.",
+  "idea_text": "Scheduling application that optimizes field technician routes and generates work orders for construction projects.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 55,
-    "market_clarity": 50,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 63,
-  "arr_score": 65,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.832622",
+  "verdict_timestamp": "2026-04-02T19:46:18.261860",
   "verdict_source": "overlay_score"
 }

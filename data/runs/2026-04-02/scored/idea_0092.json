@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that analyzes insurance claim patterns and flags high-risk cases for claims adjusters.",
+  "idea_text": "Project management tool that tracks timelines, budgets, and regulatory requirements for construction project managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 55,
+  "arr_score": 55
 }

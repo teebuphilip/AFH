@@ -1,12 +1,12 @@
 {
-  "idea_text": "Workforce planning dashboard that forecasts staffing needs, tracks headcount and costs, and reports to the HR operations manager.",
+  "idea_text": "A service that monitors supplier performance metrics and alerts procurement managers when thresholds are breached.",
   "scores": {
-    "pricing_power": 70,
-    "user_count": 70,
-    "automation": 55,
-    "market_clarity": 70,
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 66
+  "overlay_score": 64,
+  "arr_score": 62
 }

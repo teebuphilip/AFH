@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that tracks and flags overdue compliance filings for legal firm compliance officers.",
+  "idea_text": "Service that schedules and sends reminders for equipment calibration checks in industrial facilities.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 70,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 68,
+  "arr_score": 67
 }

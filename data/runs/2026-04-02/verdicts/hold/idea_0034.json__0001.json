@@ -1,15 +1,15 @@
 {
-  "idea_text": "Tool that generates weekly shift scheduling summaries and alerts for hospitality floor managers.",
+  "idea_text": "Tool that auto-generates daily field service job completion reports for construction project managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 55,
+  "arr_score": 55,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.827441",
+  "verdict_timestamp": "2026-04-02T19:46:18.253438",
   "verdict_source": "overlay_score"
 }

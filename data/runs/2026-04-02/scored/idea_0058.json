@@ -1,12 +1,12 @@
 {
-  "idea_text": "Facility maintenance planner that schedules routine inspections, tracks work orders, and notifies the property manager of any issues that need attention.",
+  "idea_text": "A tool that streamlines the collection and organization of vendor W-9 forms for procurement departments.",
   "scores": {
-    "pricing_power": 70,
-    "user_count": 70,
-    "automation": 90,
-    "market_clarity": 70,
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 73
+  "overlay_score": 55,
+  "arr_score": 55
 }

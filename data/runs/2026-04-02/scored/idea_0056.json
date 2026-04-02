@@ -1,12 +1,12 @@
 {
-  "idea_text": "Payroll reporting dashboard that consolidates data from multiple sources, identifies discrepancies, and produces regulatory filings for the payroll administrator.",
+  "idea_text": "An app that automates the process of gathering and formatting expense reports for reimbursement by finance teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
+    "user_count": 90,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 76,
+  "arr_score": 76
 }

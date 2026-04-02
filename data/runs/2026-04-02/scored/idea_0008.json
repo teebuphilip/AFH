@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that compiles weekly sales commissions reports automatically for sales ops managers.",
+  "idea_text": "System that monitors subscription renewals and alerts procurement managers before contract expirations.",
   "scores": {
-    "pricing_power": 50,
+    "pricing_power": 90,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 60
+  "overlay_score": 74,
+  "arr_score": 74
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that reconciles bank statements with internal ledger entries and flags mismatches for finance teams.",
+  "idea_text": "Automation that generates weekly cash flow forecasts from bank transactions for small finance teams.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 74,
+  "arr_score": 74
 }

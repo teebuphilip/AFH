@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that generates monthly expense reports from credit card transactions for finance ops teams.",
+  "idea_text": "Automation that generates monthly rent roll reports for property managers and emails them automatically.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88
+  "overlay_score": 78,
+  "arr_score": 79
 }

@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automation that prepares OSHA compliance checklists based on field service reports for safety officers.",
+  "idea_text": "Automation that reconciles supplier invoices against purchase orders for hospitality procurement officers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,8 +10,8 @@
   "overlay_score": 67,
   "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:28:41.827329",
+  "verdict_timestamp": "2026-04-02T19:46:18.253303",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:28:41.860439"
+  "arr_scored_at": "2026-04-02T19:46:18.295685"
 }

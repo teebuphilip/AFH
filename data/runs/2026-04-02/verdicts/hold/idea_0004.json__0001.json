@@ -1,18 +1,18 @@
 {
-  "idea_text": "System that extracts and consolidates utility bills for property managers and sends monthly summaries.",
+  "idea_text": "System that converts expense receipts into categorized expense reports for finance operations teams.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 79.0,
+  "overlay_score": 76,
+  "arr_score": 76.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:37:33.388412",
+  "verdict_timestamp": "2026-04-02T19:46:18.248501",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:37:33.442116",
+  "arr_scored_at": "2026-04-02T19:46:18.315476",
   "hold_reason": "arr_70_89"
 }

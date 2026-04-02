@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that converts construction project plans into digital permit application formats.",
+  "idea_text": "Fleet optimization tool that analyzes driver behavior, routes, and vehicle performance to improve logistics operations.",
   "scores": {
-    "pricing_power": 70,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 67
+  "overlay_score": 56,
+  "arr_score": 56
 }

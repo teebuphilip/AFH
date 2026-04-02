@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that extracts and summarizes credit note transactions for accounting departments on a biweekly basis.",
+  "idea_text": "Tool that automatically generates monthly commission reports from sales data and sends to sales operations.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 74,
+  "arr_score": 74
 }

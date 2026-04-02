@@ -1,18 +1,18 @@
 {
-  "idea_text": "Service that automates monthly patient copay reconciliation for medical billing departments.",
+  "idea_text": "Service that automates reconciliation of subcontractor invoices against work orders for construction finance teams.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74.0,
+  "overlay_score": 76,
+  "arr_score": 76.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:28:41.828781",
+  "verdict_timestamp": "2026-04-02T19:46:18.255740",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:28:41.863579",
+  "arr_scored_at": "2026-04-02T19:46:18.304630",
   "hold_reason": "arr_70_89"
 }

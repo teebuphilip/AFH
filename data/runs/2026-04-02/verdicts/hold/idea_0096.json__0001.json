@@ -1,5 +1,5 @@
 {
-  "idea_text": "A quality control dashboard that tracks production metrics, identifies defects, and generates compliance reports for mid-size manufacturers.",
+  "idea_text": "Document management and e-filing platform that simplifies regulatory compliance for accounting and law firms.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 58,
   "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.833848",
+  "verdict_timestamp": "2026-04-02T19:46:18.263954",
   "verdict_source": "overlay_score"
 }

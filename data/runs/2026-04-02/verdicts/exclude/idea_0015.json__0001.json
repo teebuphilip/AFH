@@ -1,17 +1,17 @@
 {
-  "idea_text": "Automation that generates weekly shipment delay reports from logistics data for operations managers.",
+  "idea_text": "Automation that generates weekly inventory valuation reports for finance operations and emails to controllers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
+  "overlay_score": 67,
   "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.890660",
+  "verdict_timestamp": "2026-04-02T19:46:18.250195",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:25:40.944965"
+  "arr_scored_at": "2026-04-02T19:46:18.306962"
 }

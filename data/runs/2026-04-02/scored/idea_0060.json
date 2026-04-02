@@ -1,12 +1,12 @@
 {
-  "idea_text": "Compliance reporting tool that collects data from various systems, generates regulatory filings, and alerts the risk management team of any violations.",
+  "idea_text": "An automation system that converts sales data into customized commission reports for sales operations teams.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
+    "pricing_power": 50,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 71,
+  "arr_score": 71
 }

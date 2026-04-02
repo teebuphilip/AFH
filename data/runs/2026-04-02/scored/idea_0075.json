@@ -1,12 +1,12 @@
 {
-  "idea_text": "Compliance document management system that stores and organizes policies, procedures, and regulatory filings for the compliance officer.",
+  "idea_text": "A cloud-based tool that streamlines the claims filing process for insurance adjusters.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 64,
+  "arr_score": 62
 }

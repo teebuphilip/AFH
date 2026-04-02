@@ -1,12 +1,12 @@
 {
-  "idea_text": "Lease management tool that monitors contract terms, calculates rent and charges, and sends alerts to the property administrator.",
+  "idea_text": "A tool that automatically generates and sends weekly cash flow reports to finance teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 72,
+  "arr_score": 72
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that flags discrepancies between purchase orders and invoices for legal firm procurement officers.",
+  "idea_text": "Automation that generates monthly tax deduction reports for property management accountants.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
+    "pricing_power": 90,
+    "user_count": 70,
     "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 82,
+  "arr_score": 82
 }

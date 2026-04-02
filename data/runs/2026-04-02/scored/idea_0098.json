@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that monitors property maintenance schedules and generates work order requests for property managers.",
+  "idea_text": "Preventative maintenance and asset tracking software for property management companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 90,
+    "user_count": 90,
+    "automation": 55,
     "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 68
+  "overlay_score": 65,
+  "arr_score": 67
 }

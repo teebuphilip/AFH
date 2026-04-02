@@ -1,12 +1,12 @@
 {
-  "idea_text": "Vendor contract management tool that stores all agreements, sends renewal reminders to the procurement team, and flags any changes in terms or pricing.",
+  "idea_text": "A dashboard that tracks key inventory metrics and alerts logistics managers when restocking is required.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 55,
+    "automation": 90,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 67,
+  "arr_score": 66
 }

@@ -1,15 +1,15 @@
 {
-  "idea_text": "A tool that tracks vehicle maintenance and logs for logistics fleet managers.",
+  "idea_text": "Document conversion service that transforms legal contracts and financial statements into e-filing formats for accounting firms.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 55,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 56,
-  "arr_score": 56,
+  "overlay_score": 55,
+  "arr_score": 55,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.467038",
+  "verdict_timestamp": "2026-04-02T19:46:18.261241",
   "verdict_source": "overlay_score"
 }

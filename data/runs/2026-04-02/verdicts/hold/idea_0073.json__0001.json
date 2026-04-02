@@ -1,5 +1,5 @@
 {
-  "idea_text": "Employee onboarding checklist that guides new hires through the setup process, collects required information, and notifies the HR generalist.",
+  "idea_text": "A service that monitors employee time-off requests and alerts HR administrators when thresholds are reached.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:37:33.399466",
+  "verdict_timestamp": "2026-04-02T19:46:18.260143",
   "verdict_source": "overlay_score"
 }

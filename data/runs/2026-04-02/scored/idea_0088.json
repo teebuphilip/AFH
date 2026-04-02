@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that reconciles fleet fuel usage and expense reports for logistics managers.",
+  "idea_text": "Document conversion and e-filing service that simplifies regulatory compliance for accounting and law firms.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 58,
+  "arr_score": 58
 }

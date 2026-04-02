@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors property inspections and generates compliance reports for property management companies.",
+  "idea_text": "Automated claims processing system that verifies eligibility, submits claims, and reconciles payments for insurance adjusters.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 67,
+  "arr_score": 66
 }

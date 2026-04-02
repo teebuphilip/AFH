@@ -1,18 +1,15 @@
 {
-  "idea_text": "Tool that tracks recurring vendor contract renewals and sends alerts to finance teams 30 days before expiration.",
+  "idea_text": "Tool that tracks and reconciles fuel consumption logs against fleet invoices for logistics operations.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:28:41.824525",
-  "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:28:41.860027",
-  "hold_reason": "arr_70_89"
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:46:18.248646",
+  "verdict_source": "overlay_score"
 }

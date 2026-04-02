@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically prepares client financial statements for accounting firms.",
+  "idea_text": "Workforce planning and scheduling application for hospitality businesses with multiple locations and shift-based employees.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
+    "pricing_power": 70,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 77,
+  "arr_score": 78
 }

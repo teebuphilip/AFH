@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that monitors employee timesheets and alerts payroll teams when submitted hours exceed set thresholds.",
+  "idea_text": "Service that monitors employee overtime hours and alerts payroll teams when thresholds are exceeded.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,

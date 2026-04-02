@@ -1,12 +1,12 @@
 {
-  "idea_text": "Inventory management system that tracks stock levels, generates purchase orders, and sends notifications to the warehouse manager when reorder thresholds are reached.",
+  "idea_text": "An automation system that generates payroll reports and tax forms on a fixed monthly schedule for HR administrators.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 78,
+  "arr_score": 78
 }

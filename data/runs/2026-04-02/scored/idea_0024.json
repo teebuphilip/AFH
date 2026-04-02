@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that monitors equipment maintenance schedules and sends reminders to facilities managers weekly.",
+  "idea_text": "System that tracks employee credential expirations and alerts HR operations ahead of renewal dates.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

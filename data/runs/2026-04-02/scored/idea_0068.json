@@ -1,12 +1,12 @@
 {
-  "idea_text": "Procurement analytics platform that aggregates spend data, identifies savings opportunities, and provides insights to the purchasing director.",
+  "idea_text": "A software solution that tracks and alerts sales operations teams when customer contracts are up for renewal.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
-    "market_clarity": 50,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 54,
-  "arr_score": 54
+  "overlay_score": 72,
+  "arr_score": 72
 }

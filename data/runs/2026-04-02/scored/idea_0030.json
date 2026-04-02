@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that monitors fleet mileage against service schedules for logistics fleet managers.",
+  "idea_text": "Tool that prepares weekly inventory usage reports for restaurant kitchen managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 58,
+  "arr_score": 58
 }

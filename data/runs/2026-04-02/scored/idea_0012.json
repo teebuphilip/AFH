@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that schedules and sends monthly rent collection summaries to property management accounting teams.",
+  "idea_text": "System that reconciles employee time-off requests with payroll data and alerts HR teams of inconsistencies.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 83,
-  "arr_score": 85
+  "overlay_score": 76,
+  "arr_score": 76
 }

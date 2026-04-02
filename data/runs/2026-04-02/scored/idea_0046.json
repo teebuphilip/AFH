@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that prepares monthly sales tax filing summaries for restaurant finance teams.",
+  "idea_text": "Tool that schedules and tracks insurance policy renewal dates for claims managers.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88
+  "overlay_score": 64,
+  "arr_score": 62
 }

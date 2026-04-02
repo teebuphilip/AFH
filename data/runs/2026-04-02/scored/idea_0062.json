@@ -1,12 +1,12 @@
 {
-  "idea_text": "Vendor relationship management system that scores supplier performance, identifies risks, and provides insights to the procurement manager.",
+  "idea_text": "A dashboard that monitors contract renewals and sends notifications to vendor management teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
-    "market_clarity": 50,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 54,
-  "arr_score": 54
+  "overlay_score": 72,
+  "arr_score": 72
 }
