@@ -10,6 +10,7 @@
   "overlay_score": 58,
   "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:31.128490",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-02T20:04:46.742223",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

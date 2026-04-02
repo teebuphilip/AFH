@@ -21,7 +21,7 @@ import json
 import sys
 import os
 from pathlib import Path
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 
 # -----------------------------
 # CONFIG (LOCKED - Run-specific)
@@ -52,6 +52,14 @@ OVERLAY_HOLD_THRESHOLD = 55  # 4.0: 40
 
 ARR_KEEP_THRESHOLD = 70  # 4.0: 55
 ARR_HOLD_THRESHOLD = 60  # 4.0: 45
+
+# Optional: dynamic KEEP cutoff based on rolling history
+# If AFH_KEEP_TARGET is set (e.g., 100), KEEP is decided by max(overlay, arr)
+# against a cutoff computed from scored files in data/runs/*/scored within
+# a rolling window (AFH_KEEP_WINDOW_DAYS).
+KEEP_TARGET = int(os.getenv("AFH_KEEP_TARGET", "0") or "0")
+KEEP_GLOBAL_CAP = os.getenv("AFH_KEEP_GLOBAL_CAP", "1") == "1"
+KEEP_WINDOW_DAYS = int(os.getenv("AFH_KEEP_WINDOW_DAYS", "30") or "30")
 
 # -----------------------------
 # HELPERS
@@ -91,6 +99,103 @@ def determine_verdict(overlay_score: float, arr_score: float) -> str:
     else:
         return "EXCLUDE"
 
+def _parse_run_date(run_dir: Path):
+    try:
+        return datetime.strptime(run_dir.name, "%Y-%m-%d").date()
+    except ValueError:
+        return None
+
+
+def _iter_scored_files(runs_base: Path, window_days: int, as_of: date):
+    if not runs_base.exists():
+        return
+    window_start = as_of - timedelta(days=max(window_days, 1) - 1)
+    for run_dir in sorted(runs_base.iterdir()):
+        if not run_dir.is_dir():
+            continue
+        run_dt = _parse_run_date(run_dir)
+        if run_dt is None or run_dt < window_start or run_dt > as_of:
+            continue
+        scored_dir = run_dir / "scored"
+        if not scored_dir.exists():
+            continue
+        for p in scored_dir.glob("*.json"):
+            yield p
+
+def compute_keep_cutoff(runs_base: Path, target: int, window_days: int, as_of: date) -> float:
+    """
+    Compute cutoff score (max(overlay, arr)) so that top N scores are KEEP.
+    Returns -inf if not enough scored ideas exist.
+    """
+    if target <= 0:
+        return float("-inf")
+
+    scores = []
+    for p in _iter_scored_files(runs_base, window_days, as_of):
+        try:
+            obj = json.loads(p.read_text(encoding="utf-8", errors="replace"))
+        except Exception:
+            continue
+        try:
+            overlay = float(obj.get("overlay_score", -1))
+            arr = float(obj.get("arr_score", -1))
+        except Exception:
+            continue
+        scores.append(max(overlay, arr))
+
+    if len(scores) < target:
+        return float("-inf")
+
+    scores.sort(reverse=True)
+    return scores[target - 1]
+
+def enforce_global_keep_cap(runs_base: Path, target: int, window_days: int, as_of: date) -> None:
+    if target <= 0:
+        return
+    keep_files = list(runs_base.glob("*/verdicts/keep/*.json"))
+    if not keep_files:
+        return
+
+    window_start = as_of - timedelta(days=max(window_days, 1) - 1)
+    items = []
+    for p in keep_files:
+        run_dt = _parse_run_date(p.parents[2])
+        if run_dt is None:
+            continue
+        if run_dt < window_start or run_dt > as_of:
+            obj = json.loads(p.read_text(encoding="utf-8", errors="replace"))
+            obj["verdict"] = "HOLD"
+            obj["hold_reason"] = "keep_window_expired"
+            hold_dir = p.parents[1] / "hold"
+            hold_dir.mkdir(parents=True, exist_ok=True)
+            hold_path = hold_dir / p.name
+            hold_path.write_text(json.dumps(obj, indent=2))
+            p.unlink()
+            continue
+        try:
+            obj = json.loads(p.read_text(encoding="utf-8", errors="replace"))
+        except Exception:
+            continue
+        try:
+            overlay = float(obj.get("overlay_score", -1))
+            arr = float(obj.get("arr_score", -1))
+        except Exception:
+            continue
+        score = max(overlay, arr)
+        items.append((score, p, obj))
+
+    items.sort(key=lambda x: x[0], reverse=True)
+    items.sort(key=lambda x: x[0], reverse=True)
+    keep_set = set(p for _, p, _ in items[:target])
+
+    for _, p, obj in items[target:]:
+        obj["verdict"] = "HOLD"
+        obj["hold_reason"] = "keep_cap"
+        hold_dir = p.parents[1] / "hold"
+        hold_dir.mkdir(parents=True, exist_ok=True)
+        hold_path = hold_dir / p.name
+        hold_path.write_text(json.dumps(obj, indent=2))
+        p.unlink()
 
 def enrich_with_verdict_metadata(obj: dict, verdict: str) -> dict:
     obj["verdict"] = verdict
@@ -195,6 +300,16 @@ def main() -> int:
         print("No overlay-scored files found. Nothing to do.")
         return 0
 
+    keep_cutoff = None
+    if KEEP_TARGET > 0:
+        keep_cutoff = compute_keep_cutoff(
+            Path("data") / "runs",
+            KEEP_TARGET,
+            KEEP_WINDOW_DAYS,
+            date.fromisoformat(run_date),
+        )
+        print(f"Dynamic KEEP cutoff (top {KEEP_TARGET} in {KEEP_WINDOW_DAYS}d): {keep_cutoff}")
+
     processed_files = 0
     written_records = 0
 
@@ -216,7 +331,10 @@ def main() -> int:
 
                 overlay_score = float(obj["overlay_score"])
                 arr_score = float(obj["arr_score"])
-                verdict = determine_verdict(overlay_score, arr_score)
+                if keep_cutoff is not None and max(overlay_score, arr_score) >= keep_cutoff:
+                    verdict = "KEEP"
+                else:
+                    verdict = determine_verdict(overlay_score, arr_score)
                 obj = enrich_with_verdict_metadata(obj, verdict)
 
                 target_dir = OUTPUT_DIRS[verdict]
@@ -239,6 +357,14 @@ def main() -> int:
             continue
 
     print(f"Verdict routing complete. Processed {processed_files} files. Wrote {written_records} idea files.")
+    if KEEP_TARGET > 0 and KEEP_GLOBAL_CAP:
+        enforce_global_keep_cap(
+            Path("data") / "runs",
+            KEEP_TARGET,
+            KEEP_WINDOW_DAYS,
+            date.fromisoformat(run_date),
+        )
+        print(f"Global KEEP cap enforced at {KEEP_TARGET} in {KEEP_WINDOW_DAYS}d window")
     return 0
 
 

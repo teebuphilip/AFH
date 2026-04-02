@@ -1,15 +1,16 @@
 {
-  "idea_text": "Recruitment tracking system that manages applicants, schedules interviews, and reports hiring metrics to the talent acquisition team.",
+  "idea_text": "A dashboard that monitors property maintenance schedules and sends notifications to property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 69,
+  "arr_score": 68,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:37:33.398765",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-02T20:04:52.404296",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

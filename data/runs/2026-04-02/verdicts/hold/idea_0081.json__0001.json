@@ -1,15 +1,16 @@
 {
-  "idea_text": "Compliance workflow software that manages the document retention and submission requirements for legal and accounting firms.",
+  "idea_text": "Compliance monitoring tool that identifies potential issues and generates reports for human resources managers in the hospitality industry.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58,
+  "overlay_score": 67,
+  "arr_score": 66,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.832294",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-02T20:04:52.409750",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

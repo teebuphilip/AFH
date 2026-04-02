@@ -1,15 +1,16 @@
 {
-  "idea_text": "A medical billing clearinghouse that electronically submits claims, tracks payer status, and generates remittance reports for small medical practices.",
+  "idea_text": "Predictive maintenance platform that forecasts equipment failures and schedules preventative service for property management firms.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 55,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55,
+  "overlay_score": 65,
+  "arr_score": 64,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:28:41.833235",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-02T20:04:52.412801",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

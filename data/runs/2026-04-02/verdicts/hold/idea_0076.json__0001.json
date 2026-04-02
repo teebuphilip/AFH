@@ -1,18 +1,16 @@
 {
-  "idea_text": "A cloud-based platform that automates the preparation and submission of monthly insurance policy renewal paperwork for small-to-medium sized insurance agencies.",
+  "idea_text": "Software that schedules recurring maintenance tasks and dispatches field technicians for construction firms.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:28:41.831675",
+  "overlay_score": 65,
+  "arr_score": 64,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T20:04:52.406812",
   "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:28:41.859909",
-  "hold_reason": "arr_70_89"
+  "hold_reason": "keep_cap"
 }

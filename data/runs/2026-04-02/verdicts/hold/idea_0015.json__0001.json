@@ -1,18 +1,16 @@
 {
-  "idea_text": "Automation that generates monthly budget vs actual expense variance reports for finance ops teams.",
+  "idea_text": "Automation that generates weekly inventory valuation reports for finance operations and emails to controllers.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:37:33.390145",
+  "overlay_score": 67,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T20:04:52.386521",
   "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:37:33.439182",
-  "hold_reason": "arr_70_89"
+  "hold_reason": "keep_cap"
 }

@@ -1,0 +1,16 @@
+{
+  "idea_text": "System that converts paper receipts into categorized digital expense entries for freelancers.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 70,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 48,
+  "arr_score": 49,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T20:04:46.240204",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

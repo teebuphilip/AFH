@@ -1,18 +1,16 @@
 {
-  "idea_text": "Tool that generates monthly contractor compliance and certification status reports for construction project leads.",
+  "idea_text": "System that automates payroll tax filings and generates compliance reports for small accounting firms.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 71.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.893888",
+  "overlay_score": 67,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T20:04:52.392062",
   "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:25:40.947208",
-  "hold_reason": "arr_70_89"
+  "hold_reason": "keep_cap"
 }

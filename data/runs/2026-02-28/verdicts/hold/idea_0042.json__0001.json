@@ -1,0 +1,16 @@
+{
+  "idea_text": "A dashboard that summarizes and visualizes key sales metrics for small sales teams.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 90,
+    "automation": 40,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 52,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T20:04:46.387504",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

@@ -1,0 +1,16 @@
+{
+  "idea_text": "Tool that automatically generates monthly subscription renewal reminders for SaaS freelancers.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 78,
+  "arr_score": 79,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:59:53.863303",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_window_expired"
+}

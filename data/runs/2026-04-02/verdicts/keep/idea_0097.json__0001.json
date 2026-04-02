@@ -1,0 +1,15 @@
+{
+  "idea_text": "Workforce planning and scheduling application for hospitality businesses with multiple locations and shift-based employees.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 77,
+  "arr_score": 78,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T20:04:52.415289",
+  "verdict_source": "overlay_score"
+}

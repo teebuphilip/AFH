@@ -1,0 +1,16 @@
+{
+  "idea_text": "System that processes employee time sheets and outputs payroll-ready reports for small HR teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:59:55.109798",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_window_expired"
+}
