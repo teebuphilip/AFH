@@ -1,0 +1,16 @@
+{
+  "idea_text": "A system that converts audio recordings of meeting notes into searchable, structured summaries with action items and due dates.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 65,
+  "arr_score": 64,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:31.124965",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

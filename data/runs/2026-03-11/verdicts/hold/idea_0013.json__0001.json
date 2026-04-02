@@ -1,0 +1,16 @@
+{
+  "idea_text": "Automation that processes supplier invoices and matches them against purchase orders for small businesses.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:31.722878",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

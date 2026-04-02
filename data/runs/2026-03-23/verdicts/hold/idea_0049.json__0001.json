@@ -1,0 +1,16 @@
+{
+  "idea_text": "A tool that automatically generates customized employee onboarding checklists and training plans for HR coordinators.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 68,
+  "arr_score": 67,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:32.660525",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

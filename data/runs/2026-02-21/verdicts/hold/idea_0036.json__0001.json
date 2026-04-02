@@ -1,0 +1,16 @@
+{
+  "idea_text": "A cloud-based platform that manages and tracks inventory levels for small retail businesses, with automated reordering capabilities.",
+  "scores": {
+    "pricing_power": 40,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 40,
+    "competition_inverse": 40
+  },
+  "overlay_score": 65,
+  "arr_score": 65,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-02-21T09:19:55.582811",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

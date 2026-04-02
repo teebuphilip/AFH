@@ -1,0 +1,16 @@
+{
+  "idea_text": "A service that tracks and organizes vendor contracts, insurance policies, and compliance documents for property management companies.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 69,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:32.817525",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

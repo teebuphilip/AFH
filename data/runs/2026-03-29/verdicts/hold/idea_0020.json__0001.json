@@ -1,0 +1,16 @@
+{
+  "idea_text": "Automation that converts handwritten notes into searchable digital documents for freelancers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 68,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:33.126478",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

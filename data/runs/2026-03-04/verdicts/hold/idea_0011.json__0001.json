@@ -1,0 +1,16 @@
+{
+  "idea_text": "Tool that automatically generates compliance checklists based on uploaded company policies for HR coordinators.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:31.189857",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

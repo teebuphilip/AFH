@@ -1,0 +1,16 @@
+{
+  "idea_text": "Dashboard that compiles monthly energy consumption data for property managers and suggests cost-saving tips.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 70,
+    "automation": 70,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 73,
+  "arr_score": 75,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:33.203337",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

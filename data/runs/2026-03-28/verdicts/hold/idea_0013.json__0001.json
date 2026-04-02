@@ -1,0 +1,16 @@
+{
+  "idea_text": "System that automatically generates payroll summaries from time-tracking data for small HR teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:33.045370",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

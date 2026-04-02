@@ -1,0 +1,16 @@
+{
+  "idea_text": "Dashboard that tracks monthly subscription software usage and suggests cancellations for underused licenses.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 70,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 69,
+  "arr_score": 70,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:32.334131",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

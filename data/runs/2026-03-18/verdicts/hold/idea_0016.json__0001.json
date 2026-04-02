@@ -1,0 +1,16 @@
+{
+  "idea_text": "Automation that extracts key metrics from customer feedback forms and compiles reports for support teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:19:32.256110",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}
