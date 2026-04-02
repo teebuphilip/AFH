@@ -1,9 +1,6 @@
 name: AFH Auto GTM
 
 on:
-  schedule:
-    # Run monthly on the 3rd at 09:00 UTC
-    - cron: "0 9 3 * *"
   workflow_dispatch:
 
 permissions:
