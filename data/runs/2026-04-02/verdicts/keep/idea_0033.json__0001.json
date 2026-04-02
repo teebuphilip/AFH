@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that generates monthly compliance audit checklists for property management compliance officers.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 69,
+  "arr_score": 71,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T18:55:52.756779",
+  "verdict_source": "overlay_score"
+}

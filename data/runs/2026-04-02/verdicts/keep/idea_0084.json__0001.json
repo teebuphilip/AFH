@@ -1,0 +1,15 @@
+{
+  "idea_text": "A scheduling system that optimizes field technician routes for home services companies.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T18:55:52.774497",
+  "verdict_source": "overlay_score"
+}
