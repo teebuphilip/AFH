@@ -1,12 +1,12 @@
 {
-  "idea_text": "A dashboard that visualizes website analytics and generates reports for small business owners.",
+  "idea_text": "System that creates daily patient billing discrepancy alerts for clinic billing specialists.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 55,
-    "market_clarity": 50,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 59
+  "overlay_score": 64,
+  "arr_score": 62
 }

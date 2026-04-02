@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts handwritten meeting notes into structured task lists for small business owners.",
+  "idea_text": "Automation that generates monthly expense summaries from credit card transactions and sends them to finance teams.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 70,
+    "pricing_power": 90,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 68
+  "overlay_score": 86,
+  "arr_score": 88
 }

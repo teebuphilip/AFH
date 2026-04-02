@@ -1,15 +1,18 @@
 {
-  "idea_text": "A system that converts voice recordings of customer feedback into text transcripts for analysis.",
+  "idea_text": "Automation that schedules and tracks equipment calibration compliance for property maintenance teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T09:50:05.420585",
-  "verdict_source": "overlay_score"
+  "overlay_score": 76,
+  "arr_score": 76.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T18:08:35.885531",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T18:08:35.924694",
+  "hold_reason": "arr_70_89"
 }

@@ -1,0 +1,17 @@
+{
+  "idea_text": "Automated inventory forecasting and replenishment tool for warehouse managers to optimize stock levels and prevent stockouts.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T18:08:35.887357",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-02T18:08:35.927885"
+}

@@ -1,5 +1,5 @@
 {
-  "idea_text": "An automation that processes incoming customer support emails and assigns them to the appropriate team member.",
+  "idea_text": "Automation that creates daily construction site safety inspection reports for project supervisors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T09:50:05.419640",
+  "verdict_timestamp": "2026-04-02T18:08:35.884437",
   "verdict_source": "overlay_score"
 }

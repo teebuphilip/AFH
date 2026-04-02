@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that processes online order confirmations and outputs shipping label batches for small businesses.",
+  "idea_text": "System that audits vendor payment terms compliance and alerts finance teams of any deviations monthly.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 86,
+  "arr_score": 88
 }

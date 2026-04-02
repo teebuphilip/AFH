@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts video recordings of customer support calls into text transcripts for review.",
+  "idea_text": "Tool that generates monthly compliance audit checklists for property management compliance officers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 69,
+  "arr_score": 71
 }

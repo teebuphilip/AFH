@@ -1,0 +1,18 @@
+{
+  "idea_text": "A preventive maintenance scheduling tool for property management companies.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 74,
+  "arr_score": 74.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T18:08:35.891271",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T18:08:35.922446",
+  "hold_reason": "arr_70_89"
+}

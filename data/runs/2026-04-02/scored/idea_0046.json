@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors and reports on compliance requirements for small businesses in regulated industries.",
+  "idea_text": "Automation that generates monthly legal trust account reconciliation reports for law firm accountants.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 90,
+    "pricing_power": 90,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 78,
+  "arr_score": 79
 }

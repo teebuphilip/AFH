@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that tracks and reports on employee training and certification progress for small HR teams.",
+  "idea_text": "Service that generates monthly subcontractor payment reconciliation reports for construction accountants.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 90,
+    "pricing_power": 90,
+    "user_count": 70,
     "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 66
+  "overlay_score": 69,
+  "arr_score": 72
 }

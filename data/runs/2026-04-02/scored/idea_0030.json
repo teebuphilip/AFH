@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that processes job applications and outputs a ranked list of candidates for recruiters.",
+  "idea_text": "Tool that monitors fleet vehicle maintenance schedules and alerts logistics managers of upcoming services.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 65,
+  "arr_score": 64
 }

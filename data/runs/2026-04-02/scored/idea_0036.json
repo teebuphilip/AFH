@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that generates custom job descriptions and postings for HR coordinators at small companies.",
+  "idea_text": "System that schedules recurring medical billing follow-ups for clinic revenue cycle managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 55,
-    "market_clarity": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 66
+  "overlay_score": 65,
+  "arr_score": 64
 }

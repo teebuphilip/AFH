@@ -1,12 +1,12 @@
 {
-  "idea_text": "A dashboard that visualizes financial data and generates reports for small business accountants.",
+  "idea_text": "Service that reconciles insurance policy endorsements with claims data for underwriting teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 90,
     "automation": 55,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 59,
-  "arr_score": 60
+  "overlay_score": 67,
+  "arr_score": 69
 }

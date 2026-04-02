@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts handwritten meeting notes into digital, searchable documents for busy professionals.",
+  "idea_text": "Automation that prepares daily field service technician schedules based on job priorities.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 68
+  "overlay_score": 64,
+  "arr_score": 62
 }

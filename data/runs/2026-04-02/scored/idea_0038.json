@@ -1,12 +1,12 @@
 {
-  "idea_text": "A dashboard that summarizes key project management metrics for small teams, like task completion and budget.",
+  "idea_text": "Service that prepares weekly restaurant staff shift compliance reports for HR managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 58,
+  "arr_score": 58
 }

@@ -1,15 +1,15 @@
 {
-  "idea_text": "Dashboard that summarizes sales call outcomes and next steps for sales representatives.",
+  "idea_text": "Tool that generates weekly cash flow forecasts based on AR and AP data for finance operations.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 56,
+  "arr_score": 56,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T09:50:05.415946",
+  "verdict_timestamp": "2026-04-02T18:08:35.880797",
   "verdict_source": "overlay_score"
 }

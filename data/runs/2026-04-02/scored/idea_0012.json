@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors website uptime for freelancers and sends alerts when downtime is detected.",
+  "idea_text": "System that extracts and formats sales commission reports for sales ops teams every pay period.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 70,
+    "pricing_power": 50,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 71,
+  "arr_score": 71
 }

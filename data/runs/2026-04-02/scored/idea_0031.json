@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically schedules and manages property showings for real estate agents.",
+  "idea_text": "Service that compiles weekly food cost and inventory usage reports for restaurant managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 58,
+  "arr_score": 58
 }

@@ -1,0 +1,15 @@
+{
+  "idea_text": "System that monitors vendor contract renewal dates and alerts procurement managers 30 days in advance.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T18:08:35.880629",
+  "verdict_source": "overlay_score"
+}

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors equipment maintenance schedules and alerts property managers when service is due.",
+  "idea_text": "Service that consolidates freight cost invoices and compares them to contracts for logistics managers monthly.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 70,
-    "automation": 90,
-    "market_clarity": 70,
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
   "overlay_score": 69,
-  "arr_score": 68
+  "arr_score": 71
 }

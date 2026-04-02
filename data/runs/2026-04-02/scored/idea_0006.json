@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically tracks and categorizes business mileage from GPS data for accountants.",
+  "idea_text": "Service that extracts and consolidates vendor payment statuses for procurement teams on a weekly basis.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 72,
+  "arr_score": 72
 }
