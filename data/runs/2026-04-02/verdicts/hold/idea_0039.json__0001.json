@@ -1,15 +1,18 @@
 {
-  "idea_text": "Automation that converts legal discovery documents into court submission formats on a set cadence.",
+  "idea_text": "System that automates monthly lease agreement compliance checks for property management firms.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.452350",
-  "verdict_source": "overlay_score"
+  "overlay_score": 78,
+  "arr_score": 78.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:25:40.895368",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T19:25:40.941915",
+  "hold_reason": "arr_70_89"
 }

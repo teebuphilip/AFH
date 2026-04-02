@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that monitors vendor contract renewal dates and alerts procurement managers 30 days in advance.",
+  "idea_text": "System that reconciles sales commissions with CRM data and provides weekly alerts to sales ops managers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 50,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 66,
+  "arr_score": 64
 }

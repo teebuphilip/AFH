@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that generates monthly rent roll reports for property managers from lease and payment data.",
+  "idea_text": "Service that monitors contract renewal dates and alerts procurement managers 30 days in advance.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
-    "automation": 55,
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

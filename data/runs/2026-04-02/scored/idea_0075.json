@@ -1,12 +1,12 @@
 {
-  "idea_text": "Vendor risk assessment and mitigation platform for procurement professionals to evaluate suppliers and manage compliance.",
+  "idea_text": "A system that automates the generation and distribution of sales reports, including pipeline updates and commission calculations, for the sales operations team.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 70,
-    "automation": 55,
-    "market_clarity": 90,
+    "pricing_power": 50,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 63
+  "overlay_score": 72,
+  "arr_score": 72
 }

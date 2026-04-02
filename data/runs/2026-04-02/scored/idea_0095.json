@@ -1,12 +1,12 @@
 {
-  "idea_text": "A workflow automation that converts construction bids into project plans for estimators.",
+  "idea_text": "Equipment maintenance and repair log for HVAC technicians to record service history and schedule future work.",
   "scores": {
-    "pricing_power": 70,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 67
+  "overlay_score": 65,
+  "arr_score": 64
 }

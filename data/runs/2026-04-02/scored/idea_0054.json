@@ -1,12 +1,12 @@
 {
-  "idea_text": "Contract management platform for procurement teams to centralize vendor contracts, track renewal dates, and generate audit reports.",
+  "idea_text": "A tool that converts sales data into customized invoices and purchase orders, and sends them directly to clients and vendors for the sales operations team.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
-    "automation": 55,
-    "market_clarity": 55,
+    "automation": 90,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 66
+  "overlay_score": 76,
+  "arr_score": 76
 }

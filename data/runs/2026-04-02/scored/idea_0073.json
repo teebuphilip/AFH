@@ -1,12 +1,12 @@
 {
-  "idea_text": "Property maintenance scheduling and work order system for facility managers to coordinate repairs and preventative care.",
+  "idea_text": "An automation that collects and analyzes customer feedback data, generates insights and recommendations, and delivers them to the customer success team.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 63,
+  "arr_score": 62
 }

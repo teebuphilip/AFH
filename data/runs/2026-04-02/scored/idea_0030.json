@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that monitors fleet vehicle maintenance schedules and alerts logistics managers of upcoming services.",
+  "idea_text": "Automation that prepares weekly patient billing reconciliation reports for clinic billing managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

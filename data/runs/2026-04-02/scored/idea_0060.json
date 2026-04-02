@@ -1,12 +1,12 @@
 {
-  "idea_text": "Logistics optimization software for trucking companies to plan routes, track deliveries, and generate billing for clients.",
+  "idea_text": "A service that monitors and alerts the logistics team when shipments deviate from the expected delivery schedule, and provides real-time updates to customers.",
   "scores": {
-    "pricing_power": 70,
-    "user_count": 90,
-    "automation": 55,
-    "market_clarity": 70,
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 70,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

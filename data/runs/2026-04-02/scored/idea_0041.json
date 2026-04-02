@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that generates monthly subcontractor payment reconciliation reports for construction accountants.",
+  "idea_text": "Tool that generates weekly cash flow and expense reports for small restaurant owners.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 55,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 72
+  "overlay_score": 58,
+  "arr_score": 58
 }

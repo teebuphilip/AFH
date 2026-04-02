@@ -1,12 +1,12 @@
 {
-  "idea_text": "A software service that automates restaurant employee scheduling and time tracking.",
+  "idea_text": "Catering order management system for hotel event planning teams to streamline menu selection, costing, and billing.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
-    "automation": 90,
+    "pricing_power": 70,
+    "user_count": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 68,
+  "arr_score": 71
 }

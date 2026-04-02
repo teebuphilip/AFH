@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically reconciles employee benefit deductions with payroll records and notifies HR teams monthly.",
+  "idea_text": "Tool that automates monthly fixed asset depreciation calculations and sends reports to accounting.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88
+  "overlay_score": 74,
+  "arr_score": 74
 }

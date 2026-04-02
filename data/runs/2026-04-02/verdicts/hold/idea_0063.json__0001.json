@@ -1,15 +1,15 @@
 {
-  "idea_text": "Payroll integrations hub for HR administrators to connect employee time tracking, benefits, and tax systems.",
+  "idea_text": "A system that automates the generation and distribution of client statements, performance reports, and other portfolio updates for the wealth management firm.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.461604",
+  "verdict_timestamp": "2026-04-02T19:25:40.900192",
   "verdict_source": "overlay_score"
 }

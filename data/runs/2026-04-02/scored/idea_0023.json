@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that extracts and formats monthly utility expense reports for property management teams.",
+  "idea_text": "Automation that generates weekly inventory audit exceptions reports for procurement teams.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88
+  "overlay_score": 76,
+  "arr_score": 76
 }

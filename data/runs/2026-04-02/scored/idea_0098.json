@@ -1,12 +1,12 @@
 {
-  "idea_text": "A restaurant inventory and ordering management app for back office managers.",
+  "idea_text": "Automated job scheduling and dispatch platform for specialty trade contractors like electricians and plumbers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 64,
+  "arr_score": 62
 }

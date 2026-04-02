@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated audit preparation tool for accounting firms to collect client data, reconcile accounts, and generate financial statements.",
+  "idea_text": "A tool that streamlines the invoicing and payment collection process for the accounting team, including automated late payment reminders and integration with various payment gateways.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 64,
+  "arr_score": 62
 }

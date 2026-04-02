@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that converts clinic appointment logs into insurance billing submissions automatically.",
+  "idea_text": "System that converts restaurant daily sales logs into tax submission formats for hospitality accountants.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 71,
+  "arr_score": 70
 }

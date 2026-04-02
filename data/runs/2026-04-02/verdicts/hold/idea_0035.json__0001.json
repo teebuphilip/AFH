@@ -1,15 +1,15 @@
 {
-  "idea_text": "Automation that creates daily construction site safety inspection reports for project supervisors.",
+  "idea_text": "System that reconciles restaurant inventory usage with purchase orders for hospitality back-office managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 58,
+  "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.451042",
+  "verdict_timestamp": "2026-04-02T19:25:40.894351",
   "verdict_source": "overlay_score"
 }

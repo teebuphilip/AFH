@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that prepares daily field service technician schedules based on job priorities.",
+  "idea_text": "Service that schedules and sends routine equipment maintenance reminders for fleet managers in logistics.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 65,
+  "arr_score": 64
 }

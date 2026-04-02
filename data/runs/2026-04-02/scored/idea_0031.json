@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that compiles weekly food cost and inventory usage reports for restaurant managers.",
+  "idea_text": "Software that monitors and flags overdue tenant rent payments for property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 68,
+  "arr_score": 66
 }

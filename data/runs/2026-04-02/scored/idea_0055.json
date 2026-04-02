@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated inventory forecasting and replenishment tool for warehouse managers to optimize stock levels and prevent stockouts.",
+  "idea_text": "A system that tracks and categorizes business expenses, generates expense reports, and submits them to the finance team for approval.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 58,
+  "arr_score": 58
 }

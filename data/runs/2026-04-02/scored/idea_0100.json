@@ -1,12 +1,12 @@
 {
-  "idea_text": "A payroll and benefits administration platform for accounting firms serving small businesses.",
+  "idea_text": "Work order and project management system for facilities maintenance teams at commercial property management firms.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 55,
-    "market_clarity": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 69
+  "overlay_score": 65,
+  "arr_score": 67
 }

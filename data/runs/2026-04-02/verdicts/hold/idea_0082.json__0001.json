@@ -1,5 +1,5 @@
 {
-  "idea_text": "An automated document management system for legal document workflows in law firms.",
+  "idea_text": "Automated employee scheduling and shift swap platform for restaurant managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.467817",
+  "verdict_timestamp": "2026-04-02T19:25:40.903383",
   "verdict_source": "overlay_score"
 }

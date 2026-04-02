@@ -1,12 +1,12 @@
 {
-  "idea_text": "A fleet maintenance tracking and reporting tool for logistics coordinators.",
+  "idea_text": "Freight audit and payment reconciliation platform for transportation logistics coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 55,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 56,
-  "arr_score": 56
+  "overlay_score": 55,
+  "arr_score": 55
 }

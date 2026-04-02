@@ -1,12 +1,12 @@
 {
-  "idea_text": "A scheduling system that optimizes field technician routes for home services companies.",
+  "idea_text": "Inventory forecasting and ordering system for independent pharmacies to optimize purchasing and prevent stockouts.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 58,
+  "arr_score": 58
 }

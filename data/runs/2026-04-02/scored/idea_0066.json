@@ -1,12 +1,12 @@
 {
-  "idea_text": "Accounts receivable automation tool for finance teams to send invoices, track payments, and generate aging reports.",
+  "idea_text": "A tool that streamlines the onboarding process for new clients, gathers the necessary information, and generates the required documentation for the customer service team.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 64,
+  "arr_score": 62
 }

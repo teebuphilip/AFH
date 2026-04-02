@@ -1,15 +1,15 @@
 {
-  "idea_text": "A route optimization system for food delivery logistics coordinators.",
+  "idea_text": "Inventory optimization algorithm for small independent pharmacies to right-size drug stocks and minimize waste.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 55,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 56,
-  "arr_score": 56,
+  "overlay_score": 58,
+  "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.472829",
+  "verdict_timestamp": "2026-04-02T19:25:40.906003",
   "verdict_source": "overlay_score"
 }

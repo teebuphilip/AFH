@@ -1,10 +1,10 @@
 {
-  "idea_text": "Sales pipeline management software for operations teams to forecast revenue, monitor activity, and report on key metrics.",
+  "idea_text": "A service that monitors and alerts the IT support team when software licenses are about to expire, and facilitates the renewal process to ensure continuous coverage.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 90,
+    "pricing_power": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
   "overlay_score": 74,

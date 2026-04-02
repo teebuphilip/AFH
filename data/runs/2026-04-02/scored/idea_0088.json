@@ -1,12 +1,12 @@
 {
-  "idea_text": "A patient intake and registration system for small medical practices.",
+  "idea_text": "Automated marketing campaign generator for local real estate agents to nurture leads and stay top-of-mind.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 50,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 62,
+  "arr_score": 60
 }

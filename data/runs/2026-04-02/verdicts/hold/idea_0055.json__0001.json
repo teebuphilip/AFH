@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that tracks and categorizes business expenses, generates expense reports, and submits them to the finance team for approval.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:25:40.898874",
+  "verdict_source": "overlay_score"
+}

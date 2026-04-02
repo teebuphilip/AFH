@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that cross-checks legal case billing hours against client contracts for law firm accountants.",
+  "idea_text": "Tool that generates monthly contractor compliance and certification status reports for construction project leads.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 70,
-    "automation": 90,
-    "market_clarity": 55,
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 69,
+  "arr_score": 71
 }

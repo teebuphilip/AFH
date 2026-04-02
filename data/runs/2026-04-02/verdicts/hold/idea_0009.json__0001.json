@@ -1,15 +1,18 @@
 {
-  "idea_text": "Tool that generates weekly cash flow forecasts based on AR and AP data for finance operations.",
+  "idea_text": "Tool that monitors petty cash expenses and generates weekly variance reports for accounting teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
-    "market_clarity": 70,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 56,
-  "arr_score": 56,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.442248",
-  "verdict_source": "overlay_score"
+  "overlay_score": 76,
+  "arr_score": 76.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:25:40.889345",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T19:25:40.939703",
+  "hold_reason": "arr_70_89"
 }

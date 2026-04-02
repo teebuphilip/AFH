@@ -1,12 +1,12 @@
 {
-  "idea_text": "A project management app that tracks construction site progress for project managers.",
+  "idea_text": "Equipment maintenance scheduling software for dental practices to proactively plan servicing and replacements.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 70,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 55,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 70,
+  "arr_score": 69
 }

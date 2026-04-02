@@ -1,0 +1,18 @@
+{
+  "idea_text": "An automation that generates monthly compliance reports from various data sources, and presents them in a standardized format for the regulatory team.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 78,
+  "arr_score": 78.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:25:40.899186",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T19:25:40.948696",
+  "hold_reason": "arr_70_89"
+}

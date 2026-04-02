@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automated bookkeeping and invoicing platform for freelance accountants.",
+  "idea_text": "Residential tenant screening and background check service for property management companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 72,
+  "arr_score": 72
 }

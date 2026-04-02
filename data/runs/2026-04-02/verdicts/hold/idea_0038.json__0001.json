@@ -1,15 +1,15 @@
 {
-  "idea_text": "Service that prepares weekly restaurant staff shift compliance reports for HR managers.",
+  "idea_text": "Service that monitors and flags discrepancies in legal billing hours for small law firm partners.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.451979",
+  "verdict_timestamp": "2026-04-02T19:25:40.895116",
   "verdict_source": "overlay_score"
 }

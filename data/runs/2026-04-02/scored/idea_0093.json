@@ -1,12 +1,12 @@
 {
-  "idea_text": "A preventive maintenance scheduling tool for property management companies.",
+  "idea_text": "Automated contract generation and e-signature system for small accounting firms to onboard new clients.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 64,
+  "arr_score": 62
 }

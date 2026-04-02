@@ -1,0 +1,17 @@
+{
+  "idea_text": "A system that automates the generation and distribution of regulatory compliance reports, such as tax filings and financial disclosures, for the legal and finance departments.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:25:40.901464",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-02T19:25:40.940101"
+}

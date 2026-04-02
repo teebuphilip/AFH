@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that schedules recurring medical billing follow-ups for clinic revenue cycle managers.",
+  "idea_text": "Automation that prepares quarterly insurance regulatory filings for independent insurance brokers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

@@ -1,15 +1,15 @@
 {
-  "idea_text": "Automated lead qualification and routing tool for sales development representatives to prioritize prospects and assign to closers.",
+  "idea_text": "A system that tracks and organizes employee time-off requests, generates leave reports, and integrates with the payroll system for the HR department.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 58,
+  "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.459947",
+  "verdict_timestamp": "2026-04-02T19:25:40.899538",
   "verdict_source": "overlay_score"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated marketing campaign builder for sales operations to generate and launch nurture emails, social posts, and ads.",
+  "idea_text": "A service that monitors and alerts the facilities team when equipment maintenance is due, schedules vendor visits, and tracks the work orders.",
   "scores": {
-    "pricing_power": 50,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 60
+  "overlay_score": 65,
+  "arr_score": 64
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that schedules and tracks construction permit renewals for project managers.",
+  "idea_text": "Automation that compiles tenant maintenance request summaries for property maintenance supervisors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 65,
+  "arr_score": 64
 }

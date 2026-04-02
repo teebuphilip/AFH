@@ -1,5 +1,5 @@
 {
-  "idea_text": "A tool that generates standard operating procedure documents for hospitality managers.",
+  "idea_text": "Time and attendance tracking app for field service technicians in the HVAC and plumbing industries.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 55,
   "arr_score": 55,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.468790",
+  "verdict_timestamp": "2026-04-02T19:25:40.903881",
   "verdict_source": "overlay_score"
 }

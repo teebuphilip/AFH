@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that extracts and consolidates vendor payment statuses for procurement teams on a weekly basis.",
+  "idea_text": "Service that tracks recurring subscription payments and flags anomalies for finance operations.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 66,
+  "arr_score": 67
 }

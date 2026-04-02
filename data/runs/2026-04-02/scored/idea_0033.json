@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that generates monthly compliance audit checklists for property management compliance officers.",
+  "idea_text": "Automated system that compiles vehicle inspection reports for logistics fleet supervisors.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 71
+  "overlay_score": 64,
+  "arr_score": 62
 }

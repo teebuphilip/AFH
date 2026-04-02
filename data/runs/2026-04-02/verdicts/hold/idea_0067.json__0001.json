@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that tracks and manages the vendor contract renewal process, sends alerts when contracts are nearing expiration, and facilitates the renegotiation for the procurement department.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:25:40.900873",
+  "verdict_source": "overlay_score"
+}
