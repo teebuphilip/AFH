@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that automates the generation and distribution of regulatory compliance reports, such as tax filings and financial disclosures, for the legal and finance departments.",
+  "idea_text": "Tool that automates accounts receivable collections and provides aging reports to finance teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 72,
+  "arr_score": 72
 }

@@ -1,15 +1,18 @@
 {
-  "idea_text": "A project management app that tracks construction site progress for project managers.",
+  "idea_text": "A field service management platform that coordinates technician schedules, work orders, and customer communications for HVAC and plumbing companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
+    "user_count": 90,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.469557",
-  "verdict_source": "overlay_score"
+  "overlay_score": 72,
+  "arr_score": 72.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:28:41.832949",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T19:28:41.865084",
+  "hold_reason": "arr_70_89"
 }

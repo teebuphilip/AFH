@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated marketing campaign generator for local real estate agents to nurture leads and stay top-of-mind.",
+  "idea_text": "A specialized CRM that tracks lead sources, sales cycles, and client contracts for independent insurance brokers.",
   "scores": {
-    "pricing_power": 50,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 60
+  "overlay_score": 55,
+  "arr_score": 55
 }

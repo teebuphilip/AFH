@@ -1,15 +1,15 @@
 {
-  "idea_text": "Tool that reconciles vendor invoices and payments for hospitality venue accountants.",
+  "idea_text": "Automation that prepares workers’ compensation claim summaries for insurance adjusters.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
-    "automation": 55,
-    "market_clarity": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 63,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:25:40.896550",
+  "verdict_timestamp": "2026-04-02T19:28:41.828583",
   "verdict_source": "overlay_score"
 }

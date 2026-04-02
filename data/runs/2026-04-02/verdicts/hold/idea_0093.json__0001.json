@@ -1,18 +1,15 @@
 {
-  "idea_text": "A preventive maintenance scheduling tool for property management companies.",
+  "idea_text": "A client engagement platform that streamlines the onboarding, document management, and billing processes for small-to-medium sized law firms.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 30,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:19:33.471533",
-  "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:25:40.936575",
-  "hold_reason": "arr_70_89"
+  "overlay_score": 61,
+  "arr_score": 60,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:28:41.833566",
+  "verdict_source": "overlay_score"
 }

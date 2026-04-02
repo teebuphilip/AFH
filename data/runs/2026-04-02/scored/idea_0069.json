@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that collects and organizes marketing campaign data, generates performance reports, and delivers them to the marketing operations team.",
+  "idea_text": "Automated document management system that digitizes and organizes files for office administrators.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Client intake and case management software for solo practitioners and boutique law offices.",
+  "idea_text": "Property inspection software that automates move-in/move-out checklists, maintenance requests, and condition reporting for residential property management companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
-    "market_clarity": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 74,
+  "arr_score": 74
 }

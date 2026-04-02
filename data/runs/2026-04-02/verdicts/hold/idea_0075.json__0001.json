@@ -1,18 +1,15 @@
 {
-  "idea_text": "A system that automates the generation and distribution of sales reports, including pipeline updates and commission calculations, for the sales operations team.",
+  "idea_text": "Service that tracks vendor insurance policies and alerts procurement when renewals are due.",
   "scores": {
-    "pricing_power": 50,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.902185",
-  "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:25:40.948485",
-  "hold_reason": "arr_70_89"
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:28:41.831574",
+  "verdict_source": "overlay_score"
 }

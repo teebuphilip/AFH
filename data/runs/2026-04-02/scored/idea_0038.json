@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors and flags discrepancies in legal billing hours for small law firm partners.",
+  "idea_text": "Tool that tracks and reports vehicle maintenance schedules for fleet operations coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 65,
+  "arr_score": 64
 }

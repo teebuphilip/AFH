@@ -1,12 +1,12 @@
 {
-  "idea_text": "Compliance management software for small healthcare practices to track licensing, certifications, and regulatory requirements.",
+  "idea_text": "A field service platform that manages work orders, parts inventory, and customer communications for home appliance repair technicians.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 55,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 71
+  "overlay_score": 58,
+  "arr_score": 58
 }

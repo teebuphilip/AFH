@@ -1,5 +1,5 @@
 {
-  "idea_text": "Freight audit and payment reconciliation platform for transportation logistics coordinators.",
+  "idea_text": "Construction project management software that centralizes bid tracking, subcontractor coordination, and progress reporting for general contractors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 55,
   "arr_score": 55,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:25:40.904565",
+  "verdict_timestamp": "2026-04-02T19:28:41.833142",
   "verdict_source": "overlay_score"
 }

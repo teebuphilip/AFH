@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors and alerts the facilities team when equipment maintenance is due, schedules vendor visits, and tracks the work orders.",
+  "idea_text": "System that monitors client contracts and sends renewal reminders to account managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

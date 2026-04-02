@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated insurance claims reconciliation system for small-to-medium insurance brokers.",
+  "idea_text": "A cloud-based platform that automates the preparation and submission of monthly insurance policy renewal paperwork for small-to-medium sized insurance agencies.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 74,
+  "arr_score": 74
 }

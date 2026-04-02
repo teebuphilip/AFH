@@ -1,18 +1,18 @@
 {
-  "idea_text": "System that converts payroll data into tax compliance reports and emails payroll teams monthly.",
+  "idea_text": "Automation that monitors petty cash transactions and alerts finance teams of unusual activity weekly.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88.0,
+  "overlay_score": 72,
+  "arr_score": 72.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.890911",
+  "verdict_timestamp": "2026-04-02T19:28:41.825639",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:25:40.941292",
+  "arr_scored_at": "2026-04-02T19:28:41.862684",
   "hold_reason": "arr_70_89"
 }

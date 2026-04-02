@@ -1,12 +1,12 @@
 {
-  "idea_text": "Inventory optimization algorithm for small independent pharmacies to right-size drug stocks and minimize waste.",
+  "idea_text": "Workforce planning software that forecasts labor needs, optimizes shift schedules, and monitors overtime for retail store and restaurant managers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 70,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 70,
+  "arr_score": 69
 }

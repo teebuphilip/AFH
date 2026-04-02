@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors property maintenance schedules, alerts the property manager when tasks are due, and coordinates with vendors to schedule and complete the work.",
+  "idea_text": "Automated lease management software that tracks rent payments and generates reports for property managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 70,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 68
+  "overlay_score": 68,
+  "arr_score": 66
 }

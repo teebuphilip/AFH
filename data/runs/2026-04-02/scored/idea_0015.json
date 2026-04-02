@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that generates weekly shipment delay reports from logistics data for operations managers.",
+  "idea_text": "System that automatically generates monthly VAT reports from sales and purchase data for accounting teams.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 70,
+    "pricing_power": 90,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 66
+  "overlay_score": 83,
+  "arr_score": 85
 }

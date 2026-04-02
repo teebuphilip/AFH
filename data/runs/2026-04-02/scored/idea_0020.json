@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that reconciles utility bills with lease agreements and reports discrepancies to property managers monthly.",
+  "idea_text": "Automation that tracks contract milestone payments and sends alerts to finance operations when due dates approach.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
-    "automation": 55,
-    "market_clarity": 90,
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 73,
-  "arr_score": 75
+  "overlay_score": 64,
+  "arr_score": 62
 }

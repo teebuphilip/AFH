@@ -1,18 +1,15 @@
 {
-  "idea_text": "Logistics optimization software for trucking companies to plan routes, track deliveries, and generate billing for clients.",
+  "idea_text": "Service that aggregates employee time-off requests and generates PTO reports for HR managers.",
   "scores": {
-    "pricing_power": 70,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 55,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 70,
-  "arr_score": 72.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:19:33.460303",
-  "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-02T19:25:40.935218",
-  "hold_reason": "arr_70_89"
+  "overlay_score": 55,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-02T19:28:41.830016",
+  "verdict_source": "overlay_score"
 }

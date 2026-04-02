@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that generates weekly cash flow and expense reports for small restaurant owners.",
+  "idea_text": "Automation that flags insurance claims with missing documentation for claims supervisors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 64,
+  "arr_score": 62
 }

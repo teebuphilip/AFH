@@ -1,12 +1,12 @@
 {
-  "idea_text": "Accounts receivable tracking system for small law firms to manage billing and collections.",
+  "idea_text": "Compliance workflow software that manages the document retention and submission requirements for legal and accounting firms.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 55,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 58,
+  "arr_score": 58
 }

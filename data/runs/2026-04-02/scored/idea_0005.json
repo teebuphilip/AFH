@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that summarizes unpaid vendor invoices and sends automated reminders to accounts payable teams.",
+  "idea_text": "Tool that tracks recurring vendor contract renewals and sends alerts to finance teams 30 days before expiration.",
   "scores": {
-    "pricing_power": 70,
+    "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 80,
-  "arr_score": 81
+  "overlay_score": 72,
+  "arr_score": 72
 }

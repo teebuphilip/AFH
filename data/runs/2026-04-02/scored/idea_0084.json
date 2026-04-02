@@ -1,12 +1,12 @@
 {
-  "idea_text": "Inventory forecasting and ordering system for independent pharmacies to optimize purchasing and prevent stockouts.",
+  "idea_text": "A data analytics dashboard that tracks key performance indicators and generates customizable reports for mid-size manufacturing companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 55,
-    "market_clarity": 90,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 63,
+  "arr_score": 65
 }

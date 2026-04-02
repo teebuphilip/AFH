@@ -1,15 +1,15 @@
 {
-  "idea_text": "Automated marketing campaign builder for sales operations to generate and launch nurture emails, social posts, and ads.",
+  "idea_text": "System that monitors client contracts and sends renewal reminders to account managers.",
   "scores": {
-    "pricing_power": 50,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 60,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:19:33.461985",
+  "verdict_timestamp": "2026-04-02T19:28:41.830453",
   "verdict_source": "overlay_score"
 }

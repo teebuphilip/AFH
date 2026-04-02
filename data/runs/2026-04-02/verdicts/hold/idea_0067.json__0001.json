@@ -1,5 +1,5 @@
 {
-  "idea_text": "A system that tracks and manages the vendor contract renewal process, sends alerts when contracts are nearing expiration, and facilitates the renegotiation for the procurement department.",
+  "idea_text": "Tool that automates recurring client billing and invoicing for professional services firms.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:25:40.900873",
+  "verdict_timestamp": "2026-04-02T19:28:41.830758",
   "verdict_source": "overlay_score"
 }

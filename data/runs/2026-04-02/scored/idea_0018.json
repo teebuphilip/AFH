@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that tracks office supply usage and generates monthly reorder recommendations for facilities teams.",
+  "idea_text": "Service that extracts and compiles vendor delivery performance metrics and sends monthly summaries to procurement managers.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 90,
-    "automation": 70,
+    "user_count": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 81
+  "overlay_score": 74,
+  "arr_score": 74
 }

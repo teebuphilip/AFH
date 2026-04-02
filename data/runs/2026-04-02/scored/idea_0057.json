@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that generates monthly compliance reports from various data sources, and presents them in a standardized format for the regulatory team.",
+  "idea_text": "Tool that analyzes sales data and generates forecasting reports for operations teams.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
-    "automation": 90,
-    "market_clarity": 90,
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 78
+  "overlay_score": 65,
+  "arr_score": 67
 }

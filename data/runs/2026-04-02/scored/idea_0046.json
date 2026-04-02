@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that schedules recurring legal document review reminders for paralegals in law firms.",
+  "idea_text": "Tool that tracks and reports expiration dates of business licenses for construction compliance managers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 69,
+  "arr_score": 71
 }

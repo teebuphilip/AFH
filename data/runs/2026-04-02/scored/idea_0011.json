@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that schedules and sends monthly vendor performance scorecards to procurement leads.",
+  "idea_text": "System that aggregates lease payment schedules and generates monthly cash flow forecasts for property managers.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 80,
+  "arr_score": 80
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Catering order management system for hotel event planning teams to streamline menu selection, costing, and billing.",
+  "idea_text": "A medical billing clearinghouse that electronically submits claims, tracks payer status, and generates remittance reports for small medical practices.",
   "scores": {
-    "pricing_power": 70,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 71
+  "overlay_score": 55,
+  "arr_score": 55
 }

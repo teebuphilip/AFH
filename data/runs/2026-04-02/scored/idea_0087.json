@@ -1,12 +1,12 @@
 {
-  "idea_text": "Equipment maintenance scheduling software for dental practices to proactively plan servicing and replacements.",
+  "idea_text": "A field service management platform that coordinates technician schedules, work orders, and customer communications for HVAC and plumbing companies.",
   "scores": {
-    "pricing_power": 70,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 70,
-  "arr_score": 69
+  "overlay_score": 72,
+  "arr_score": 72
 }

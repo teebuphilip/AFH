@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors and analyzes employee productivity metrics, generates performance reports, and provides insights to the HR team.",
+  "idea_text": "Software that monitors employee attendance and generates timekeeping reports for HR ops.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

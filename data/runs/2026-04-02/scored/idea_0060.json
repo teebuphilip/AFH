@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors and alerts the logistics team when shipments deviate from the expected delivery schedule, and provides real-time updates to customers.",
+  "idea_text": "Service that aggregates employee time-off requests and generates PTO reports for HR managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 55,
+  "arr_score": 55
 }

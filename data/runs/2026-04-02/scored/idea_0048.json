@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that compiles tenant maintenance request summaries for property maintenance supervisors.",
+  "idea_text": "System that generates weekly fuel consumption and cost reports for logistics fleet supervisors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 70,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 55,
+  "arr_score": 55
 }

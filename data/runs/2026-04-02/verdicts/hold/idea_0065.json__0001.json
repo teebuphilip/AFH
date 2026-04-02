@@ -1,5 +1,5 @@
 {
-  "idea_text": "An automation that converts business data into custom reports, dashboards, and presentations for the executive team to review on a regular basis.",
+  "idea_text": "Automated data entry tool that converts paper forms into digital records for administrative staff.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:25:40.900518",
+  "verdict_timestamp": "2026-04-02T19:28:41.830549",
   "verdict_source": "overlay_score"
 }

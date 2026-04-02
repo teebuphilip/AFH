@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automated job scheduling and dispatch platform for specialty trade contractors like electricians and plumbers.",
+  "idea_text": "Automated accounts receivable software that streamlines the invoicing, payment tracking, and collections process for professional service providers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:25:40.906167",
+  "verdict_timestamp": "2026-04-02T19:28:41.834044",
   "verdict_source": "overlay_score"
 }

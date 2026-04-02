@@ -1,0 +1,17 @@
+{
+  "idea_text": "Service that automates insurance premium audit report preparations for insurance brokers.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 68,
+  "arr_score": 67.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:28:41.827552",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-02T19:28:41.864983"
+}

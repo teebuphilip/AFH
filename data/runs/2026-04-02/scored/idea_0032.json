@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that generates monthly contractor compliance and certification status reports for construction project leads.",
+  "idea_text": "System that automates trust account reconciliation for legal firm accountants.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 71
+  "overlay_score": 68,
+  "arr_score": 66
 }

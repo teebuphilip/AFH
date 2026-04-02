@@ -1,0 +1,17 @@
+{
+  "idea_text": "System that converts business data into customized reports and dashboards for operations managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 68,
+  "arr_score": 66.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:28:41.831487",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-02T19:28:41.864886"
+}

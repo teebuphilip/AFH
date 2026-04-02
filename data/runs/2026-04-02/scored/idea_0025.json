@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automates monthly fixed asset depreciation calculations and sends reports to accounting.",
+  "idea_text": "Tool that aggregates and monitors vendor credit usage and alerts accounts payable teams when limits near monthly thresholds.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 83,
+  "arr_score": 85
 }

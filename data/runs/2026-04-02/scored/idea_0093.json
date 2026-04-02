@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated contract generation and e-signature system for small accounting firms to onboard new clients.",
+  "idea_text": "A client engagement platform that streamlines the onboarding, document management, and billing processes for small-to-medium sized law firms.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 30,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 61,
+  "arr_score": 60
 }

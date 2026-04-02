@@ -1,12 +1,12 @@
 {
-  "idea_text": "Time and attendance tracking app for field service technicians in the HVAC and plumbing industries.",
+  "idea_text": "A predictive scheduling system that optimizes shift coverage and identifies understaffing risks for retail store managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 64,
+  "arr_score": 62
 }

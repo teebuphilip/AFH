@@ -1,17 +1,17 @@
 {
-  "idea_text": "Equipment maintenance and repair log for HVAC technicians to record service history and schedule future work.",
+  "idea_text": "A payroll and benefits administration tool that simplifies tax filings, direct deposit, and employee self-service for small-to-medium businesses.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 90,
-    "market_clarity": 70,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64.0,
+  "overlay_score": 67,
+  "arr_score": 69.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.905622",
+  "verdict_timestamp": "2026-04-02T19:28:41.833753",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:25:40.943278"
+  "arr_scored_at": "2026-04-02T19:28:41.864001"
 }

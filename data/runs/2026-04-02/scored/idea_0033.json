@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated system that compiles vehicle inspection reports for logistics fleet supervisors.",
+  "idea_text": "Automation that prepares OSHA compliance checklists based on field service reports for safety officers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 67,
+  "arr_score": 66
 }

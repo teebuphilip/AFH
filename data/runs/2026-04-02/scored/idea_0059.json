@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that tracks and organizes employee time-off requests, generates leave reports, and integrates with the payroll system for the HR department.",
+  "idea_text": "Automated AP system that processes vendor bills and schedules payments for finance departments.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 64,
+  "arr_score": 62
 }

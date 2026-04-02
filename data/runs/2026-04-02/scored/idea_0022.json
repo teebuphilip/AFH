@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that extracts and categorizes travel expenses from receipts for monthly finance review.",
+  "idea_text": "Service that monitors fleet maintenance schedules and notifies logistics managers weekly of upcoming services.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 78
+  "overlay_score": 65,
+  "arr_score": 64
 }

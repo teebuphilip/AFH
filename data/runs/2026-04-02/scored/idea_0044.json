@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that prepares monthly payroll tax filings for small construction subcontractors.",
+  "idea_text": "System that compiles daily cash reconciliation reports for hospitality back office accountants.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
-    "automation": 90,
-    "market_clarity": 90,
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 78
+  "overlay_score": 59,
+  "arr_score": 60
 }

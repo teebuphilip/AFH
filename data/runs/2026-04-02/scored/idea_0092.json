@@ -1,12 +1,12 @@
 {
-  "idea_text": "Residential tenant screening and background check service for property management companies.",
+  "idea_text": "Restaurant back-office software that handles recipe costing, inventory management, and sales forecasting for multi-location food service businesses.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 67,
+  "arr_score": 69
 }

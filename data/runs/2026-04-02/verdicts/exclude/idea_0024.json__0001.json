@@ -1,17 +1,17 @@
 {
-  "idea_text": "System that tracks vendor insurance expirations and notifies risk management monthly.",
+  "idea_text": "Automation that reconciles shipping invoices with delivery confirmations and sends weekly exception reports to procurement.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 55,
+    "automation": 90,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 66,
-  "arr_score": 67.0,
+  "overlay_score": 67,
+  "arr_score": 66.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-02T19:25:40.892480",
+  "verdict_timestamp": "2026-04-02T19:28:41.826387",
   "verdict_source": "overlay_score",
   "arr_verdict": "EXCLUDE",
-  "arr_scored_at": "2026-04-02T19:25:40.936859"
+  "arr_scored_at": "2026-04-02T19:28:41.860579"
 }

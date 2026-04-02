@@ -1,15 +1,18 @@
 {
-  "idea_text": "A system that automates the generation and distribution of client statements, performance reports, and other portfolio updates for the wealth management firm.",
+  "idea_text": "Software that tracks supplier performance metrics and alerts procurement teams of issues.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-02T19:25:40.900192",
-  "verdict_source": "overlay_score"
+  "overlay_score": 72,
+  "arr_score": 72.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-02T19:28:41.830350",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-02T19:28:41.861491",
+  "hold_reason": "arr_70_89"
 }

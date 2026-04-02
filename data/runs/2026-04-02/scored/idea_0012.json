@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that tracks employee certification expirations and notifies HR operations monthly.",
+  "idea_text": "Automation that extracts and validates shipment delivery logs and sends weekly status summaries to logistics ops.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 66,
-  "arr_score": 67
+  "overlay_score": 64,
+  "arr_score": 62
 }

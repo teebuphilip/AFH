@@ -1,12 +1,12 @@
 {
-  "idea_text": "Specimen tracking and lab results reporting tool for veterinary clinics to optimize workflows.",
+  "idea_text": "A freight forwarding optimization tool that automates shipment consolidation, carrier selection, and proof of delivery documentation for logistics companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
-    "market_clarity": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 74,
+  "arr_score": 74
 }

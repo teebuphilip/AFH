@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors contract renewal dates and alerts procurement managers 30 days in advance.",
+  "idea_text": "Service that consolidates and validates utility meter readings monthly and emails anomaly reports to facility managers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 66,
+  "arr_score": 67
 }

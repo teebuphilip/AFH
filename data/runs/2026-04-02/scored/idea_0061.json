@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that collects and consolidates financial data from multiple sources, generates customized reports, and delivers them to the CFO on a weekly basis.",
+  "idea_text": "Tool that converts financial data into custom regulatory compliance reports for audit teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 76,
+  "arr_score": 76
 }

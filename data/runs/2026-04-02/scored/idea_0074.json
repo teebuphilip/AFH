@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that streamlines the vendor management process, including onboarding, performance tracking, and contract renewal, for the procurement and supply chain teams.",
+  "idea_text": "System that converts business data into customized reports and dashboards for operations managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 70,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 68,
+  "arr_score": 66
 }
