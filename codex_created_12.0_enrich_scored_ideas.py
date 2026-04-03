@@ -53,9 +53,32 @@ def _idea_id_from_path(path: Path) -> str:
     return path.stem
 
 
-def _build_business_brief(idea: Dict[str, Any], run_date: str, idea_id: str) -> Tuple[Dict[str, Any], str]:
+def _build_business_brief(
+    idea: Dict[str, Any],
+    run_date: str,
+    idea_id: str,
+    provider: str,
+    model: str | None,
+) -> Tuple[Dict[str, Any], str]:
     deterministic = pass0.run_deterministic_checks(idea)
-    locked_fields = pass0._build_locked_fields(deterministic, None)
+    research = None
+    if provider:
+        try:
+            if provider == "openai":
+                researcher = pass0.OpenAIResearchProvider(model=model)
+            else:
+                researcher = pass0.AnthropicResearchProvider(model=model)
+            research = researcher.research(
+                deterministic.idea_text,
+                deterministic.intake_summary,
+                "; ".join(deterministic.explicit_non_features),
+                "; ".join(deterministic.non_goals),
+                ", ".join(pass0._load_allowlist(None)),
+            )
+        except Exception:
+            research = None
+
+    locked_fields = pass0._build_locked_fields(deterministic, research)
     locked_fields["mvp_wedge"] = pass0._tighten_wedge_language(locked_fields.get("mvp_wedge"))
 
     primary_user = locked_fields.get("primary_user") or "unknown audience"
@@ -194,7 +217,15 @@ def main() -> int:
         idea_out = out_dir / idea_id
         try:
             idea = _load_json(path)
-            brief, one_liner = _build_business_brief(idea, run_date, idea_id)
+            research_provider = args.provider if not args.no_ai else ""
+            research_model = args.model if args.provider == "openai" else args.model
+            brief, one_liner = _build_business_brief(
+                idea,
+                run_date,
+                idea_id,
+                research_provider,
+                research_model,
+            )
 
             brief_path = idea_out / "business_brief.json"
             one_liner_path = idea_out / "one_liner.txt"
