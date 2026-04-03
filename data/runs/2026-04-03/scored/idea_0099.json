@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated bookkeeping platform that connects financial accounts, generates invoices, and files taxes for small businesses.",
+  "idea_text": "A medical billing analytics tool that identifies coding errors and reimbursement opportunities.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 90,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 54,
+  "arr_score": 54
 }

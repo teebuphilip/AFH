@@ -1,12 +1,12 @@
 {
-  "idea_text": "Construction bid management software that generates project proposals, tracks subcontractor costs, and invoices clients.",
+  "idea_text": "A fleet optimization software that plans efficient routes and schedules for logistics companies.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "pricing_power": 70,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 78,
+  "arr_score": 79
 }

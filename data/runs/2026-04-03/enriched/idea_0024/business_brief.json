@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "System that extracts and formats sales orders into accounting invoices automatically for sales operations teams.",
-  "target_audience": "unknown audience",
-  "problem_solved": "System that extracts and formats sales orders into accounting invoices automatically for sales operations teams.",
+  "name": "law firms managing 5\u201315 contracts/month tool",
+  "description": "For law firms managing 5\u201315 contracts/month, poor compliance monitoring causes legal penalties. We provide automated compliance alerts instead of manual tracking through spreadsheets.",
+  "target_audience": "law firms managing 5\u201315 contracts/month",
+  "problem_solved": "Inability to monitor contract compliance effectively, leading to potential legal penalties.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "dashboard for compliance metrics",
+    "manual entry for contract details",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": "Spreadsheets + calendar reminders",
+    "primary_user": "law firms managing 5\u201315 contracts/month",
+    "primary_problem": "Inability to monitor contract compliance effectively, leading to potential legal penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms managing 5\u201315 contracts/month, poor compliance monitoring causes legal penalties. We provide automated compliance alerts instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking of compliance metrics through spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "dashboard for compliance metrics",
+      "manual entry for contract details",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "System that extracts and formats sales orders into accounting invoices automatically for sales operations teams.",
+  "one_liner": "For law firms managing 5\u201315 contracts/month, poor compliance monitoring causes legal penalties. We provide automated compliance alerts instead of manual tracking through spreadsheets.",
   "source": {
     "idea_id": "idea_0024",
     "run_date": "2026-04-03",
-    "overlay_score": 76,
-    "arr_score": 76
+    "overlay_score": 67,
+    "arr_score": 66
   }
 }

@@ -1,15 +1,16 @@
 {
-  "idea_text": "System that schedules and tracks equipment inspections for construction site managers.",
+  "idea_text": "Automation that schedules and tracks equipment maintenance for construction site managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 65,
+  "arr_score": 64,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.374991",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-03T11:57:21.137986",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

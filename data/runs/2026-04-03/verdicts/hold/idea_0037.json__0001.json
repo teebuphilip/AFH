@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
+  "idea_text": "System that creates compliance checklists and reports for property management compliance officers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 58,
   "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.376585",
+  "verdict_timestamp": "2026-04-03T11:57:21.139453",
   "verdict_source": "overlay_score"
 }

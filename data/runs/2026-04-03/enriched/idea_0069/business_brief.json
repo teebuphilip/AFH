@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Inventory management system that forecasts demand and triggers replenishment orders.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Inventory management system that forecasts demand and triggers replenishment orders.",
+  "name": "logistics carriers managing 5\u201315 vehicles tool",
+  "description": "For logistics carriers processing 5\u201315 vehicles, inefficient monitoring of driver behavior causes increased fuel costs. We provide real-time insights instead of manual tracking and reporting.",
+  "target_audience": "logistics carriers managing 5\u201315 vehicles",
+  "problem_solved": "Inefficient monitoring of driver behavior and fuel consumption",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Driver behavior monitoring",
+    "Fuel consumption tracking",
+    "Maintenance scheduling alerts"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "logistics carriers managing 5\u201315 vehicles",
+    "primary_problem": "Inefficient monitoring of driver behavior and fuel consumption",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 5\u201315 vehicles, inefficient monitoring of driver behavior causes increased fuel costs. We provide real-time insights instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Driver behavior monitoring",
+      "Fuel consumption tracking",
+      "Maintenance scheduling alerts"
     ]
   },
-  "one_liner": "Inventory management system that forecasts demand and triggers replenishment orders.",
+  "one_liner": "For logistics carriers processing 5\u201315 vehicles, inefficient monitoring of driver behavior causes increased fuel costs. We provide real-time insights instead of manual tracking and reporting.",
   "source": {
     "idea_id": "idea_0069",
     "run_date": "2026-04-03",
-    "overlay_score": 58,
-    "arr_score": 58
+    "overlay_score": 65,
+    "arr_score": 64
   }
 }

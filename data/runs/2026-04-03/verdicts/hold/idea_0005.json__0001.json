@@ -1,16 +1,16 @@
 {
-  "idea_text": "Tool that extracts and summarizes weekly sales commission data and emails reports to sales operations managers.",
+  "idea_text": "Tool that tracks lease payments and sends monthly reminders to property managers for upcoming due dates.",
   "scores": {
-    "pricing_power": 50,
+    "pricing_power": 90,
     "user_count": 70,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 66,
-  "arr_score": 65,
+  "overlay_score": 69,
+  "arr_score": 72,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.371304",
+  "verdict_timestamp": "2026-04-03T11:57:21.134506",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

@@ -1,5 +1,5 @@
 {
-  "idea_text": "Insurance agency management system that streamlines policy renewals, claims processing, and client reporting.",
+  "idea_text": "A medical records management system that converts patient files into electronic health records.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.385330",
+  "verdict_timestamp": "2026-04-03T11:57:21.147801",
   "verdict_source": "overlay_score"
 }

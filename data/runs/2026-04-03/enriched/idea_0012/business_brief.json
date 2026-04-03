@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "System that generates weekly procurement spend breakdowns by supplier and emails reports to purchasing managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "System that generates weekly procurement spend breakdowns by supplier and emails reports to purchasing managers.",
+  "name": "HR operations for small to medium-sized businesses using Gusto, processing 5\u201315 employee benefit enrollments/month tool",
+  "description": "For HR operations for small to medium-sized businesses using Gusto, processing 5\u201315 employee benefit enrollments/month, manual tracking causes missed deadlines. We automate reminders instead of manual tracking and email reminders.",
+  "target_audience": "HR operations for small to medium-sized businesses using Gusto, processing 5\u201315 employee benefit enrollments/month",
+  "problem_solved": "Timely reminders for employee benefit enrollments",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Customizable reminder templates",
+    "User-friendly dashboard for tracking enrollments",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "HR operations for small to medium-sized businesses using Gusto, processing 5\u201315 employee benefit enrollments/month",
+    "primary_problem": "Timely reminders for employee benefit enrollments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations for small to medium-sized businesses using Gusto, processing 5\u201315 employee benefit enrollments/month, manual tracking causes missed deadlines. We automate reminders instead of manual tracking and email reminders.",
+    "current_alternative": "Manual tracking and email reminders",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Customizable reminder templates",
+      "User-friendly dashboard for tracking enrollments",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "System that generates weekly procurement spend breakdowns by supplier and emails reports to purchasing managers.",
+  "one_liner": "For HR operations for small to medium-sized businesses using Gusto, processing 5\u201315 employee benefit enrollments/month, manual tracking causes missed deadlines. We automate reminders instead of manual tracking and email reminders.",
   "source": {
     "idea_id": "idea_0012",
     "run_date": "2026-04-03",
-    "overlay_score": 55,
-    "arr_score": 55
+    "overlay_score": 74,
+    "arr_score": 74
   }
 }

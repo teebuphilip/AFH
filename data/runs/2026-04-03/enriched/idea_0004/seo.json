@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "freelancer using upwork invoice tracking",
+    "freelancer using upwork vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "System that converts daily timesheet entries into formatted payroll input files for small HR departments.",
-    "unknown audience"
+    "For freelancer using Upwork processing 5\u201315 invoices/month, inaccurate billing causes cash flow gaps. We automate report generation instead of manual tracking and Excel spreadsheets.",
+    "Inaccurate and delayed billing reports",
+    "freelancer using Upwork processing 5\u201315 invoices/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "freelancer using upwork invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | freelancer using upwork tool",
+      "freelancer using upwork tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with system that converts daily timesheet entries into formatted payroll input files for small hr departments."
+      "freelancer using upwork tool helps with inaccurate and delayed billing reports."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Tool that reconciles property management data and generates monthly owner statements.",
-  "problem": "Tool that reconciles property management data and generates monthly owner statements.",
+  "who": "property managers handling 5\u201315 rental units/month",
+  "offer": "For property managers handling 5\u201315 rental units/month, inefficient tracking of rental income causes cash flow gaps. We provide a real estate portfolio management tool instead of manual spreadsheets and basic accounting software.",
+  "problem": "inefficient tracking of rental income and occupancy",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
+    "Post in Reddit communities where property managers handling 5\u201315 rental units/month ask for help",
     "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "DM outreach to 20-50 property managers handling 5\u201315 rental units/month with a short demo video",
+    "Community forums/groups where property managers handling 5\u201315 rental units/month share tools"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try income tracking dashboard and occupancy rate calculator on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
     "1-page landing page with the one-liner and CTA",

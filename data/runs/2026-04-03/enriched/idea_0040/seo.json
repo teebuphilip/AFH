@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "construction contractors managing projects month invoice tracking",
+    "construction contractors managing projects month vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Service that schedules and tracks field service technician certifications for construction HR managers.",
-    "unknown audience"
+    "For construction contractors managing 5\u201315 projects/month, compliance documentation delays cause potential fines and project delays. We automate OSHA documentation preparation instead of manual documentation processes using spreadsheets and templates.",
+    "Difficulty in preparing OSHA compliance documentation accurately and on time.",
+    "construction contractors managing 5\u201315 projects/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "construction contractors managing projects month invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | construction contractors managing projects month tool",
+      "construction contractors managing projects month tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with service that schedules and tracks field service technician certifications for construction hr managers."
+      "construction contractors managing projects month tool helps with difficulty in preparing osha compliance documentation accurately and on time."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

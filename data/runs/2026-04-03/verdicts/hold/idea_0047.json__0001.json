@@ -1,18 +1,16 @@
 {
-  "idea_text": "Tool that automates monthly subcontractor lien waiver collections and status updates for construction finance teams.",
+  "idea_text": "Service that schedules routine equipment inspections and generates compliance reports for field service managers.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 83,
-  "arr_score": 85.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-03T10:41:06.378359",
+  "overlay_score": 67,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-03T11:57:21.141147",
   "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-03T10:41:06.438082",
-  "hold_reason": "arr_70_89"
+  "hold_reason": "keep_cap"
 }

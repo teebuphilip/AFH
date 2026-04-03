@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Insurance agency management system that streamlines policy renewals, claims processing, and client reporting.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Insurance agency management system that streamlines policy renewals, claims processing, and client reporting.",
+  "name": "medical clinics processing 50\u2013100 patient files/month tool",
+  "description": "For medical clinics processing 50\u2013100 patient files/month, inefficient management of paper-based records causes delays in patient care. We convert patient files into electronic health records instead of manual filing and retrieval of paper records.",
+  "target_audience": "medical clinics processing 50\u2013100 patient files/month",
+  "problem_solved": "Inefficient management of paper-based patient records.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "user-friendly interface for data entry",
+    "secure storage for patient records",
+    "search functionality for quick access to files"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "medical clinics processing 50\u2013100 patient files/month",
+    "primary_problem": "Inefficient management of paper-based patient records.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 50\u2013100 patient files/month, inefficient management of paper-based records causes delays in patient care. We convert patient files into electronic health records instead of manual filing and retrieval of paper records.",
+    "current_alternative": "manual filing and retrieval of paper records",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "user-friendly interface for data entry",
+      "secure storage for patient records",
+      "search functionality for quick access to files"
     ]
   },
-  "one_liner": "Insurance agency management system that streamlines policy renewals, claims processing, and client reporting.",
+  "one_liner": "For medical clinics processing 50\u2013100 patient files/month, inefficient management of paper-based records causes delays in patient care. We convert patient files into electronic health records instead of manual filing and retrieval of paper records.",
   "source": {
     "idea_id": "idea_0085",
     "run_date": "2026-04-03",

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that reconciles monthly credit card statements with internal expense reports and flags discrepancies for accounting.",
+  "idea_text": "Tool that extracts and consolidates expense data from multiple sources for monthly bookkeeping reports.",
   "scores": {
     "pricing_power": 90,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 71
+  "overlay_score": 78,
+  "arr_score": 78
 }

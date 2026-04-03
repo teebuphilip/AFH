@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that automatically audits monthly employee expense reports for policy compliance and sends flagged cases to HR ops.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that automatically audits monthly employee expense reports for policy compliance and sends flagged cases to HR ops.",
+  "name": "procurement managers in mid-sized retail companies using Shopify, processing 10-20 purchase orders/week tool",
+  "description": "For procurement managers in mid-sized retail companies using Shopify processing 10-20 invoices/week, delayed approvals cause compliance issues. We provide automated tracking and weekly summaries instead of manual tracking via spreadsheets.",
+  "target_audience": "procurement managers in mid-sized retail companies using Shopify, processing 10-20 purchase orders/week",
+  "problem_solved": "Lack of visibility into purchase order approvals leading to compliance issues.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual entry of purchase orders",
+    "weekly compliance summary reports",
+    "email notifications for approval status"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "procurement managers in mid-sized retail companies using Shopify, processing 10-20 purchase orders/week",
+    "primary_problem": "Lack of visibility into purchase order approvals leading to compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized retail companies using Shopify processing 10-20 invoices/week, delayed approvals cause compliance issues. We provide automated tracking and weekly summaries instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking of purchase orders and compliance summaries via spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual entry of purchase orders",
+      "weekly compliance summary reports",
+      "email notifications for approval status"
     ]
   },
-  "one_liner": "Tool that automatically audits monthly employee expense reports for policy compliance and sends flagged cases to HR ops.",
+  "one_liner": "For procurement managers in mid-sized retail companies using Shopify processing 10-20 invoices/week, delayed approvals cause compliance issues. We provide automated tracking and weekly summaries instead of manual tracking via spreadsheets.",
   "source": {
     "idea_id": "idea_0013",
     "run_date": "2026-04-03",
-    "overlay_score": 78,
-    "arr_score": 78
+    "overlay_score": 67,
+    "arr_score": 66
   }
 }

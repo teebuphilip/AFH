@@ -1,15 +1,16 @@
 {
-  "idea_text": "Automation that converts patient billing codes into insurer-specific submission formats for medical billing specialists.",
+  "idea_text": "System that schedules claims follow-ups and updates status logs for insurance claims supervisors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 65,
+  "arr_score": 64,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.377309",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-03T11:57:21.140124",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automated commission tracker that syncs with CRM and payroll for sales operations.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automated commission tracker that syncs with CRM and payroll for sales operations.",
+  "name": "law firms managing 10\u201320 contracts/month tool",
+  "description": "For law firms processing 10\u201320 contracts/month, missed contract renewal dates cause potential legal disputes. We provide automated notifications instead of manual tracking through spreadsheets.",
+  "target_audience": "law firms managing 10\u201320 contracts/month",
+  "problem_solved": "missed contract renewal dates leading to potential legal disputes",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "store agreements securely",
+    "track renewal dates",
+    "send notifications to legal teams"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": "Spreadsheets + email threads",
+    "primary_user": "law firms managing 10\u201320 contracts/month",
+    "primary_problem": "missed contract renewal dates leading to potential legal disputes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 10\u201320 contracts/month, missed contract renewal dates cause potential legal disputes. We provide automated notifications instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "store agreements securely",
+      "track renewal dates",
+      "send notifications to legal teams"
     ]
   },
-  "one_liner": "Automated commission tracker that syncs with CRM and payroll for sales operations.",
+  "one_liner": "For law firms processing 10\u201320 contracts/month, missed contract renewal dates cause potential legal disputes. We provide automated notifications instead of manual tracking through spreadsheets.",
   "source": {
     "idea_id": "idea_0068",
     "run_date": "2026-04-03",
-    "overlay_score": 66,
-    "arr_score": 64
+    "overlay_score": 64,
+    "arr_score": 66
   }
 }

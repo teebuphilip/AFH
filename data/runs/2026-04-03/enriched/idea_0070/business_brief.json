@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Payroll compliance tool that handles tax filings and payments for small businesses.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Payroll compliance tool that handles tax filings and payments for small businesses.",
+  "name": "operations leaders in restaurants processing 20-50 staff schedules/week tool",
+  "description": "For operations leaders in restaurants processing 20-50 staff schedules/week, inefficient scheduling causes operational disruptions. We provide automated scheduling recommendations instead of manual scheduling spreadsheets.",
+  "target_audience": "operations leaders in restaurants processing 20-50 staff schedules/week",
+  "problem_solved": "inefficient staff scheduling leading to operational disruptions",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual input for staff availability",
+    "visual scheduling interface",
+    "basic reporting on staffing levels"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "operations leaders in restaurants processing 20-50 staff schedules/week",
+    "primary_problem": "inefficient staff scheduling leading to operational disruptions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For operations leaders in restaurants processing 20-50 staff schedules/week, inefficient scheduling causes operational disruptions. We provide automated scheduling recommendations instead of manual scheduling spreadsheets.",
+    "current_alternative": "manual scheduling spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual input for staff availability",
+      "visual scheduling interface",
+      "basic reporting on staffing levels"
     ]
   },
-  "one_liner": "Payroll compliance tool that handles tax filings and payments for small businesses.",
+  "one_liner": "For operations leaders in restaurants processing 20-50 staff schedules/week, inefficient scheduling causes operational disruptions. We provide automated scheduling recommendations instead of manual scheduling spreadsheets.",
   "source": {
     "idea_id": "idea_0070",
     "run_date": "2026-04-03",
-    "overlay_score": 67,
-    "arr_score": 69
+    "overlay_score": 68,
+    "arr_score": 67
   }
 }

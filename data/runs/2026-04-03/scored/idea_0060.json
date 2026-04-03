@@ -1,12 +1,12 @@
 {
-  "idea_text": "Payroll tax compliance tool that generates filings and payments for small businesses.",
+  "idea_text": "Sales forecasting tool that predicts revenue based on pipeline data for operations managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 55,
-    "market_clarity": 90,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 69
+  "overlay_score": 69,
+  "arr_score": 68
 }

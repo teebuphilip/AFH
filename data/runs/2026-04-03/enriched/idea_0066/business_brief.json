@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Logistics visibility dashboard that aggregates shipment data and provides exception alerts.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Logistics visibility dashboard that aggregates shipment data and provides exception alerts.",
+  "name": "HR coordinators in small to medium-sized companies using BambooHR tool",
+  "description": "For HR coordinators in small to medium-sized companies using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire integration. We provide a structured onboarding checklist instead of manual checklists and spreadsheets.",
+  "target_audience": "HR coordinators in small to medium-sized companies using BambooHR",
+  "problem_solved": "Inefficient onboarding processes leading to delays in new hire integration.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "step-by-step onboarding guide",
+    "checklist tracking for completion",
+    "template emails for new hires"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "HR coordinators in small to medium-sized companies using BambooHR",
+    "primary_problem": "Inefficient onboarding processes leading to delays in new hire integration.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR coordinators in small to medium-sized companies using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire integration. We provide a structured onboarding checklist instead of manual checklists and spreadsheets.",
+    "current_alternative": "manual checklists and spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "step-by-step onboarding guide",
+      "checklist tracking for completion",
+      "template emails for new hires"
     ]
   },
-  "one_liner": "Logistics visibility dashboard that aggregates shipment data and provides exception alerts.",
+  "one_liner": "For HR coordinators in small to medium-sized companies using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire integration. We provide a structured onboarding checklist instead of manual checklists and spreadsheets.",
   "source": {
     "idea_id": "idea_0066",
     "run_date": "2026-04-03",

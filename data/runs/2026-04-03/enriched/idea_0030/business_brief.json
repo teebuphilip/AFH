@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that compiles daily fleet fuel usage reports for logistics fleet managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that compiles daily fleet fuel usage reports for logistics fleet managers.",
+  "name": "logistics supervisors at freight brokers managing 5-15 vehicles tool",
+  "description": "For logistics supervisors at freight brokers processing 5-15 vehicles, missed inspections cause compliance penalties. We provide automated alerts instead of manual tracking of inspection schedules and compliance.",
+  "target_audience": "logistics supervisors at freight brokers managing 5-15 vehicles",
+  "problem_solved": "Ensuring fleet vehicle inspection compliance",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual entry for inspection records",
+    "dashboard for tracking inspection status",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "logistics supervisors at freight brokers managing 5-15 vehicles",
+    "primary_problem": "Ensuring fleet vehicle inspection compliance",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For logistics supervisors at freight brokers processing 5-15 vehicles, missed inspections cause compliance penalties. We provide automated alerts instead of manual tracking of inspection schedules and compliance.",
+    "current_alternative": "manual tracking of inspection schedules and compliance",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual entry for inspection records",
+      "dashboard for tracking inspection status",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Tool that compiles daily fleet fuel usage reports for logistics fleet managers.",
+  "one_liner": "For logistics supervisors at freight brokers processing 5-15 vehicles, missed inspections cause compliance penalties. We provide automated alerts instead of manual tracking of inspection schedules and compliance.",
   "source": {
     "idea_id": "idea_0030",
     "run_date": "2026-04-03",
-    "overlay_score": 55,
-    "arr_score": 55
+    "overlay_score": 67,
+    "arr_score": 66
   }
 }

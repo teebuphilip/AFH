@@ -1,12 +1,9 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "invoice payments",
-    "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "small business owners using quickbooks for payroll invoice tracking",
+    "small business owners using quickbooks for payroll vendor invoices",
+    "invoice tracking"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -14,11 +11,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -29,37 +26,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Expense report generator that integrates with accounting systems for small businesses.",
-    "unknown audience"
+    "For small business owners using QuickBooks for payroll processing 5\u201315 employees, manual entry of employee hours causes payroll inaccuracies. We provide a timesheet aggregator instead of manual timesheet tracking and entry into QuickBooks.",
+    "manual entry of employee hours leading to payroll inaccuracies",
+    "small business owners using QuickBooks for payroll processing 5\u201315 employees"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -82,26 +80,8 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Invoice Tracking",
       "target_keyword": "invoice tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Vendor Invoices",
-      "target_keyword": "vendor invoices",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -109,7 +89,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "small business owners using quickbooks for payroll invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +115,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | small business owners using quickbooks for payroll tool",
+      "small business owners using quickbooks for payroll tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with expense report generator that integrates with accounting systems for small businesses."
+      "small business owners using quickbooks for payroll tool helps with manual entry of employee hours leading to payroll inaccuracies."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automation that reconciles legal trust account transactions and generates compliance reports for law firm accountants.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automation that reconciles legal trust account transactions and generates compliance reports for law firm accountants.",
+  "name": "restaurant back office controllers processing 5\u201315 labor cost summaries/week tool",
+  "description": "For restaurant back office controllers processing 5\u201315 labor cost summaries/week, inaccurate tracking causes budget overruns. We provide automated summaries instead of manual spreadsheets.",
+  "target_audience": "restaurant back office controllers processing 5\u201315 labor cost summaries/week",
+  "problem_solved": "Inaccurate labor cost tracking leads to budget overruns.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual entry for labor hours",
+    "weekly summary generation",
+    "export to CSV"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "restaurant back office controllers processing 5\u201315 labor cost summaries/week",
+    "primary_problem": "Inaccurate labor cost tracking leads to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back office controllers processing 5\u201315 labor cost summaries/week, inaccurate tracking causes budget overruns. We provide automated summaries instead of manual spreadsheets.",
+    "current_alternative": "manual spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual entry for labor hours",
+      "weekly summary generation",
+      "export to CSV"
     ]
   },
-  "one_liner": "Automation that reconciles legal trust account transactions and generates compliance reports for law firm accountants.",
+  "one_liner": "For restaurant back office controllers processing 5\u201315 labor cost summaries/week, inaccurate tracking causes budget overruns. We provide automated summaries instead of manual spreadsheets.",
   "source": {
     "idea_id": "idea_0045",
     "run_date": "2026-04-03",
-    "overlay_score": 71,
-    "arr_score": 70
+    "overlay_score": 64,
+    "arr_score": 62
   }
 }

@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automated sales commission calculator that integrates with CRM and payroll.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automated sales commission calculator that integrates with CRM and payroll.",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual categorization causes delays in report generation. We automate expense categorization instead of manual expense tracking and categorization using spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Manual categorization of expenses leads to time-consuming reports and potential errors.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "user-friendly interface for manual adjustments",
+    "export functionality for reports",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": "Spreadsheets + email threads",
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Manual categorization of expenses leads to time-consuming reports and potential errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual categorization causes delays in report generation. We automate expense categorization instead of manual expense tracking and categorization using spreadsheets.",
+    "current_alternative": "manual expense tracking and categorization using spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "user-friendly interface for manual adjustments",
+      "export functionality for reports",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Automated sales commission calculator that integrates with CRM and payroll.",
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual categorization causes delays in report generation. We automate expense categorization instead of manual expense tracking and categorization using spreadsheets.",
   "source": {
     "idea_id": "idea_0058",
     "run_date": "2026-04-03",
-    "overlay_score": 66,
-    "arr_score": 64
+    "overlay_score": 67,
+    "arr_score": 66
   }
 }

@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "hr operations for small to medium-sized businesses using gusto invoice tracking",
+    "hr operations for small to medium-sized businesses using gusto vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "System that generates weekly procurement spend breakdowns by supplier and emails reports to purchasing managers.",
-    "unknown audience"
+    "For HR operations for small to medium-sized businesses using Gusto, processing 5\u201315 employee benefit enrollments/month, manual tracking causes missed deadlines. We automate reminders instead of manual tracking and email reminders.",
+    "Timely reminders for employee benefit enrollments",
+    "HR operations for small to medium-sized businesses using Gusto, processing 5\u201315 employee benefit enrollments/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "hr operations for small to medium-sized businesses using gusto invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | hr operations for small to medium-sized businesses using gusto tool",
+      "hr operations for small to medium-sized businesses using gusto tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with system that generates weekly procurement spend breakdowns by supplier and emails reports to purchasing managers."
+      "hr operations for small to medium-sized businesses using gusto tool helps with timely reminders for employee benefit enrollments."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

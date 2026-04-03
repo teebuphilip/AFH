@@ -1,12 +1,9 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "invoice payments",
-    "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "procurement managers in mid-sized retail companies using shopify invoice tracking",
+    "procurement managers in mid-sized retail companies using shopify vendor invoices",
+    "invoice tracking"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -14,11 +11,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -29,37 +26,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Tool that automatically audits monthly employee expense reports for policy compliance and sends flagged cases to HR ops.",
-    "unknown audience"
+    "For procurement managers in mid-sized retail companies using Shopify processing 10-20 invoices/week, delayed approvals cause compliance issues. We provide automated tracking and weekly summaries instead of manual tracking via spreadsheets.",
+    "Lack of visibility into purchase order approvals leading to compliance issues.",
+    "procurement managers in mid-sized retail companies using Shopify, processing 10-20 purchase orders/week"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -82,26 +80,8 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Invoice Tracking",
       "target_keyword": "invoice tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Vendor Invoices",
-      "target_keyword": "vendor invoices",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -109,7 +89,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "procurement managers in mid-sized retail companies using shopify invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +115,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | procurement managers in mid-sized retail companies using shopify tool",
+      "procurement managers in mid-sized retail companies using shopify tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with tool that automatically audits monthly employee expense reports for policy compliance and sends flagged cases to hr ops."
+      "procurement managers in mid-sized retail companies using shopify tool helps with lack of visibility into purchase order approvals leading to compliance issues."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Restaurant inventory management system that tracks ordering, waste, and costs, and generates financial reports for owners.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Restaurant inventory management system that tracks ordering, waste, and costs, and generates financial reports for owners.",
+  "name": "law firms processing 10\u201320 invoices/month tool",
+  "description": "For law firms processing 10\u201320 invoices/month, delayed billing causes cash flow gaps. We provide a streamlined time tracking and billing solution instead of manual time tracking and billing software.",
+  "target_audience": "law firms processing 10\u201320 invoices/month",
+  "problem_solved": "timely billing leading to cash flow gaps",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual time entry",
+    "invoice generation",
+    "basic reporting"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "law firms processing 10\u201320 invoices/month",
+    "primary_problem": "timely billing leading to cash flow gaps",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 10\u201320 invoices/month, delayed billing causes cash flow gaps. We provide a streamlined time tracking and billing solution instead of manual time tracking and billing software.",
+    "current_alternative": "manual time tracking and billing software",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual time entry",
+      "invoice generation",
+      "basic reporting"
     ]
   },
-  "one_liner": "Restaurant inventory management system that tracks ordering, waste, and costs, and generates financial reports for owners.",
+  "one_liner": "For law firms processing 10\u201320 invoices/month, delayed billing causes cash flow gaps. We provide a streamlined time tracking and billing solution instead of manual time tracking and billing software.",
   "source": {
     "idea_id": "idea_0081",
     "run_date": "2026-04-03",
-    "overlay_score": 58,
-    "arr_score": 58
+    "overlay_score": 59,
+    "arr_score": 60
   }
 }

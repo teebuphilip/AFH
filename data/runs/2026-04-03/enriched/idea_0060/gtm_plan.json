@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Payroll tax compliance tool that generates filings and payments for small businesses.",
-  "problem": "Payroll tax compliance tool that generates filings and payments for small businesses.",
+  "who": "operations managers in marketing agencies processing 10\u201320 invoices/month",
+  "offer": "For operations managers in marketing agencies processing 10\u201320 invoices/month, inaccurate revenue predictions cause cash flow issues. We provide a sales forecasting tool instead of manual spreadsheets and basic accounting software.",
+  "problem": "inaccurate revenue predictions leading to cash flow issues",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for operations managers",
+    "Indie Hackers discussions on revenue forecasting",
+    "DM outreach to operations managers with demo links",
+    "Share insights in community forums for operations managers"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try simple revenue prediction based on pipeline data and user-friendly dashboard for tracking forecasts on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
-    "Collect 10 short interviews from target users",
+    "Create a landing page with clear value proposition",
+    "Produce a short demo video of the tool",
+    "Conduct 10 interviews with potential users",
     "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Share weekly updates in relevant online communities"
   ],
   "automation_simplification_ideas": [
     "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of a simple report",
-    "Fewer steps in onboarding"
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
   ]
 }

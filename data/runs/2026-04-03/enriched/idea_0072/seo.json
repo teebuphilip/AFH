@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "consulting agencies invoice tracking",
+    "consulting agencies vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Vendor contract management service that tracks renewals and alerts procurement teams.",
-    "unknown audience"
+    "For consulting agencies processing 5\u201315 invoices/month, budget tracking issues cause cash flow gaps. We provide project accounting software instead of manual spreadsheets and generic accounting software.",
+    "Difficulty in tracking budgets and generating timely financial reports.",
+    "consulting agencies processing 5\u201315 invoices/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "consulting agencies invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | consulting agencies tool",
+      "consulting agencies tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with vendor contract management service that tracks renewals and alerts procurement teams."
+      "consulting agencies tool helps with difficulty in tracking budgets and generating timely financial reports."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

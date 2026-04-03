@@ -1,16 +1,15 @@
 {
-  "idea_text": "System that monitors vehicle maintenance schedules and sends reminders for fleet operations supervisors.",
+  "idea_text": "System that compiles subcontractor labor hour reports for construction project controllers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 70,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64,
+  "overlay_score": 55,
+  "arr_score": 55,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.375928",
-  "verdict_source": "overlay_score",
-  "hold_reason": "keep_cap"
+  "verdict_timestamp": "2026-04-03T11:57:21.138780",
+  "verdict_source": "overlay_score"
 }

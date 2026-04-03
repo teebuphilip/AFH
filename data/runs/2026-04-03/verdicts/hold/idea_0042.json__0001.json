@@ -1,15 +1,15 @@
 {
-  "idea_text": "System that monitors fleet GPS logs and flags discrepancies for logistics operations analysts.",
+  "idea_text": "Tool that generates patient insurance verification reports for clinic billing managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 55,
+  "arr_score": 55,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.377501",
+  "verdict_timestamp": "2026-04-03T11:57:21.140260",
   "verdict_source": "overlay_score"
 }

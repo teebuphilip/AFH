@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "procurement managers in small to medium-sized retail businesses invoice tracking",
+    "procurement managers in small to medium-sized retail businesses vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Tool that automatically reconciles monthly vendor invoices with purchase orders and sends discrepancy reports to procurement managers.",
-    "unknown audience"
+    "For procurement managers in small to medium-sized retail businesses processing 10\u201350 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+    "manual reconciliation of vendor invoices with purchase orders is time-consuming and error-prone.",
+    "procurement managers in small to medium-sized retail businesses processing 10\u201350 invoices/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "procurement managers in small to medium-sized retail businesses invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | procurement managers in small to medium-sized retail businesses tool",
+      "procurement managers in small to medium-sized retail businesses tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with tool that automatically reconciles monthly vendor invoices with purchase orders and sends discrepancy reports to procurement managers."
+      "procurement managers in small to medium-sized retail businesses tool helps with manual reconciliation of vendor invoices with purchase orders is time-consuming and error-prone."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

@@ -1,16 +1,15 @@
 {
-  "idea_text": "Automated commission tracker that syncs with CRM and payroll for sales operations.",
+  "idea_text": "Contract management platform that stores agreements, tracks renewals, and notifies legal teams of key dates.",
   "scores": {
-    "pricing_power": 50,
-    "user_count": 55,
-    "automation": 90,
-    "market_clarity": 90,
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 66,
-  "arr_score": 64,
+  "overlay_score": 64,
+  "arr_score": 66,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.382460",
-  "verdict_source": "overlay_score",
-  "hold_reason": "keep_cap"
+  "verdict_timestamp": "2026-04-03T11:57:21.144860",
+  "verdict_source": "overlay_score"
 }

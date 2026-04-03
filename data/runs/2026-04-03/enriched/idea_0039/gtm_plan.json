@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "insurance claim supervisors",
-  "offer": "Tool that automates monthly claims status tracking and exception reporting for insurance claim supervisors.",
-  "problem": "Tool that automates monthly claims status tracking and exception reporting for insurance claim supervisors.",
+  "who": "restaurant finance managers processing 10\u201320 sales reports/week",
+  "offer": "For restaurant finance managers processing 10\u201320 sales reports/week, inaccurate sales and tip reporting causes cash flow gaps. We automate reporting instead of manual reporting spreadsheets.",
+  "problem": "Inaccurate sales and tip reporting leads to cash flow gaps.",
   "channels_free": [
-    "Post in Reddit communities for insurance professionals",
-    "Engage in discussions on LinkedIn groups for claims",
-    "DM outreach to insurance supervisors with demo video",
-    "Share insights in industry-specific forums"
+    "Post in Reddit communities for restaurant finance managers",
+    "Indie Hackers discussions on similar reporting challenges",
+    "DM outreach to finance managers with demo video",
+    "Engage in community forums for finance tools"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try weekly sales report generation and insights dashboard",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
-    "Collect 10 short interviews from target users",
-    "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Create a simple landing page with CTA",
+    "Produce a demo video of manual workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
   ],
   "automation_simplification_ideas": [
-    "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of a simple report",
-    "Fewer steps in onboarding"
+    "Allow saving common inputs as templates",
+    "Provide default reminder schedules",
+    "Enable CSV import for existing sales data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process with fewer steps"
   ]
 }

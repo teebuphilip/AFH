@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "insurance brokers invoice tracking",
+    "insurance brokers vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Service that automates monthly insurance policy renewal compliance reports for insurance brokers.",
-    "unknown audience"
+    "For insurance brokers processing 5\u201315 clients/month, inaccurate premium calculations cause client dissatisfaction. We generate precise monthly audit reports instead of manual calculations and spreadsheets.",
+    "Inaccurate premium calculations leading to client dissatisfaction.",
+    "insurance brokers processing 5\u201315 clients/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "insurance brokers invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | insurance brokers tool",
+      "insurance brokers tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with service that automates monthly insurance policy renewal compliance reports for insurance brokers."
+      "insurance brokers tool helps with inaccurate premium calculations leading to client dissatisfaction."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

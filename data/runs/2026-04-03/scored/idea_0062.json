@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that tracks vendor contracts and alerts procurement teams of renewal dates.",
+  "idea_text": "Compliance monitoring service that alerts HR teams to policy changes and filing deadlines.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 76,
+  "arr_score": 76
 }

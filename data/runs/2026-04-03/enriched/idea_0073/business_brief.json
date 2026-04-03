@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Customer data reporting tool that generates custom analytics for sales operations.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Customer data reporting tool that generates custom analytics for sales operations.",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, maverick buying causes missed discounts. We provide procurement analytics instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Maverick buying leads to missed discounts and increased costs.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Spend visibility dashboard",
+    "Supplier performance metrics",
+    "Maverick buying alerts"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Maverick buying leads to missed discounts and increased costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, maverick buying causes missed discounts. We provide procurement analytics instead of manual tracking.",
+    "current_alternative": "Manual tracking of expenses and supplier performance.",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Spend visibility dashboard",
+      "Supplier performance metrics",
+      "Maverick buying alerts"
     ]
   },
-  "one_liner": "Customer data reporting tool that generates custom analytics for sales operations.",
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, maverick buying causes missed discounts. We provide procurement analytics instead of manual tracking.",
   "source": {
     "idea_id": "idea_0073",
     "run_date": "2026-04-03",

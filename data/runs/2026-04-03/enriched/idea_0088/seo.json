@@ -1,13 +1,12 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "etsy sellers invoice tracking",
+    "etsy sellers vendor invoices",
     "invoice payments",
     "invoice tracking",
     "payment reminders",
-    "vendor invoices",
-    "monitors driver hours"
+    "vendor invoices"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -30,8 +29,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Logistics optimization tool that plans truck routes, monitors driver hours, and generates regulatory compliance reports.",
-    "unknown audience"
+    "For Etsy sellers processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We streamline invoicing instead of manual spreadsheets and basic accounting software.",
+    "Inefficient invoicing and bookkeeping processes",
+    "Etsy sellers processing 5\u201315 invoices/month"
   ],
   "content_plan": [
     {
@@ -110,7 +110,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "etsy sellers invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -136,11 +136,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | etsy sellers tool",
+      "etsy sellers tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with logistics optimization tool that plans truck routes monitors driver hours and generates regulatory compliance reports."
+      "etsy sellers tool helps with inefficient invoicing and bookkeeping processes."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

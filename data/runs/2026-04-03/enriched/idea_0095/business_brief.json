@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Medical billing automation that converts clinical documentation into insurance claims and manages the revenue cycle for small practices.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Medical billing automation that converts clinical documentation into insurance claims and manages the revenue cycle for small practices.",
+  "name": "freelancer using Upwork processing 5\u201315 invoices/month tool",
+  "description": "For freelancer using Upwork processing 5\u201315 invoices/month, delayed invoicing causes cash flow gaps. We streamline invoicing instead of manual tracking and invoicing through spreadsheets.",
+  "target_audience": "freelancer using Upwork processing 5\u201315 invoices/month",
+  "problem_solved": "timely invoicing and project management",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "simple project tracking",
+    "basic reporting tools",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "freelancer using Upwork processing 5\u201315 invoices/month",
+    "primary_problem": "timely invoicing and project management",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancer using Upwork processing 5\u201315 invoices/month, delayed invoicing causes cash flow gaps. We streamline invoicing instead of manual tracking and invoicing through spreadsheets.",
+    "current_alternative": "manual tracking and invoicing through spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "simple project tracking",
+      "basic reporting tools",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Medical billing automation that converts clinical documentation into insurance claims and manages the revenue cycle for small practices.",
+  "one_liner": "For freelancer using Upwork processing 5\u201315 invoices/month, delayed invoicing causes cash flow gaps. We streamline invoicing instead of manual tracking and invoicing through spreadsheets.",
   "source": {
     "idea_id": "idea_0095",
     "run_date": "2026-04-03",

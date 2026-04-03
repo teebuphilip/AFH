@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "accounting firms invoice tracking",
+    "accounting firms vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Automation that converts raw payroll tax filings into compliance-ready reports for HR compliance officers.",
-    "unknown audience"
+    "For accounting firms processing 10\u201320 invoices/month, manual data entry causes late audits. We automate the extraction and formatting of vendor payment data instead of manual data entry and spreadsheet management.",
+    "Manual data entry and formatting for quarterly audits is time-consuming and error-prone.",
+    "accounting firms processing 10\u201320 invoices/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "accounting firms invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | accounting firms tool",
+      "accounting firms tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with automation that converts raw payroll tax filings into compliance-ready reports for hr compliance officers."
+      "accounting firms tool helps with manual data entry and formatting for quarterly audits is time-consuming and error-prone."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

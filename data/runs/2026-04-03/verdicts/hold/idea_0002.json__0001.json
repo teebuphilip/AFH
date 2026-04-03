@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that monitors weekly payroll submissions and alerts HR ops on missing or inconsistent employee data before processing.",
+  "idea_text": "Service that monitors employee expense reports for policy compliance and alerts HR ops when exceptions are found.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,7 +10,7 @@
   "overlay_score": 67,
   "arr_score": 66,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.370754",
+  "verdict_timestamp": "2026-04-03T11:57:21.134007",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "property managers handling - properties invoice tracking",
+    "property managers handling - properties vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
-    "unknown audience"
+    "For property managers handling 10-20 properties, compliance oversight causes legal penalties. We automate compliance checklist creation instead of manual checklist creation using spreadsheets.",
+    "Difficulty in maintaining up-to-date compliance checklists and reports.",
+    "property managers handling 10-20 properties"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "property managers handling - properties invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | property managers handling - properties tool",
+      "property managers handling - properties tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with service that compiles supplier delivery compliance reports for restaurant procurement managers."
+      "property managers handling - properties tool helps with difficulty in maintaining up-to-date compliance checklists and reports."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

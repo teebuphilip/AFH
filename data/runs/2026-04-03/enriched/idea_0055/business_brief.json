@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that reconciles property management data and generates monthly owner statements.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that reconciles property management data and generates monthly owner statements.",
+  "name": "property managers handling 5\u201315 rental units/month tool",
+  "description": "For property managers handling 5\u201315 rental units/month, inefficient tracking of rental income causes cash flow gaps. We provide a real estate portfolio management tool instead of manual spreadsheets and basic accounting software.",
+  "target_audience": "property managers handling 5\u201315 rental units/month",
+  "problem_solved": "inefficient tracking of rental income and occupancy",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "income tracking dashboard",
+    "occupancy rate calculator",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "property managers handling 5\u201315 rental units/month",
+    "primary_problem": "inefficient tracking of rental income and occupancy",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 rental units/month, inefficient tracking of rental income causes cash flow gaps. We provide a real estate portfolio management tool instead of manual spreadsheets and basic accounting software.",
+    "current_alternative": "manual spreadsheets and basic accounting software",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "income tracking dashboard",
+      "occupancy rate calculator",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Tool that reconciles property management data and generates monthly owner statements.",
+  "one_liner": "For property managers handling 5\u201315 rental units/month, inefficient tracking of rental income causes cash flow gaps. We provide a real estate portfolio management tool instead of manual spreadsheets and basic accounting software.",
   "source": {
     "idea_id": "idea_0055",
     "run_date": "2026-04-03",
-    "overlay_score": 69,
-    "arr_score": 71
+    "overlay_score": 59,
+    "arr_score": 60
   }
 }

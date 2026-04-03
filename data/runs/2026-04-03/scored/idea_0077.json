@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated insurance claim processing software that flags errors and exceptions for claims adjusters.",
+  "idea_text": "A construction project management tool that generates customized compliance reports for government contracts.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 58,
+  "arr_score": 58
 }

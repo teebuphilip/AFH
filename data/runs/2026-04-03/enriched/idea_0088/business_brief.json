@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Logistics optimization tool that plans truck routes, monitors driver hours, and generates regulatory compliance reports.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Logistics optimization tool that plans truck routes, monitors driver hours, and generates regulatory compliance reports.",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We streamline invoicing instead of manual spreadsheets and basic accounting software.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient invoicing and bookkeeping processes",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "simple invoice generation",
+    "basic expense tracking",
+    "client payment reminders"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient invoicing and bookkeeping processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We streamline invoicing instead of manual spreadsheets and basic accounting software.",
+    "current_alternative": "manual spreadsheets and basic accounting software",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "simple invoice generation",
+      "basic expense tracking",
+      "client payment reminders"
     ]
   },
-  "one_liner": "Logistics optimization tool that plans truck routes, monitors driver hours, and generates regulatory compliance reports.",
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We streamline invoicing instead of manual spreadsheets and basic accounting software.",
   "source": {
     "idea_id": "idea_0088",
     "run_date": "2026-04-03",
-    "overlay_score": 72,
-    "arr_score": 71
+    "overlay_score": 58,
+    "arr_score": 58
   }
 }

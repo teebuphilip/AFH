@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "procurement managers",
-  "offer": "Tool that compiles monthly vendor contract renewals and sends reminders.",
-  "problem": "Procurement managers struggle to track vendor contract renewals.",
+  "who": "logistics carriers managing 10-20 routes/week",
+  "offer": "For logistics carriers processing 10-20 routes/week, inefficient route management causes increased operational costs. We compile weekly logistics route efficiency reports instead of manual tracking and reporting.",
+  "problem": "Inefficient route management leading to increased operational costs.",
   "channels_free": [
-    "Post in Reddit communities for procurement advice",
-    "Join LinkedIn groups for procurement professionals",
-    "Share insights on procurement blogs and forums",
-    "Engage in Twitter discussions about vendor management"
+    "Post in Reddit communities for logistics carriers",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to logistics carriers with demo video",
+    "Community forums for logistics tools discussion"
   ],
-  "try_it": "Let users try manual invoice entry for 1-3 vendors",
-  "pay": "subscription model with tiered pricing options",
+  "try_it": "Let users try email notifications and basic analytics on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "Create a simple landing page with a clear CTA",
-    "Produce a demo video showcasing key features",
-    "Conduct 10 user interviews for feedback",
-    "Offer exclusive early access to initial users",
-    "Share weekly updates in relevant online communities"
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
   ],
   "automation_simplification_ideas": [
-    "Create templates for common vendor contracts",
-    "Set default reminder schedules for renewals",
-    "Allow CSV uploads for existing vendor data",
-    "Provide easy export options for reports",
-    "Simplify onboarding with guided steps"
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Inventory management system that forecasts demand and triggers replenishment orders.",
+  "idea_text": "Fleet management tool that monitors driver behavior, fuel consumption, and maintenance for transportation coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 65,
+  "arr_score": 64
 }

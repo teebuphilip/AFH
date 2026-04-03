@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Property management software that automates tenant statements and payment tracking.",
-  "problem": "Property management software that automates tenant statements and payment tracking.",
+  "who": "property managers handling 5\u201315 properties/month",
+  "offer": "For property managers processing 5\u201315 properties/month, inefficient reporting causes late financial insights. We automate the reporting process instead of manual reporting processes using spreadsheets.",
+  "problem": "Inefficient monthly reporting processes",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for property managers",
+    "Engage on Indie Hackers about similar workflows",
+    "DM outreach to property managers with demo video",
+    "Participate in forums where property managers share tools"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try template-based report generation and user-friendly dashboard on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
     "1-page landing page with the one-liner and CTA",

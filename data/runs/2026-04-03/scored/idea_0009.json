@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automatically matches vendor payment receipts against accounting entries and flags unmatched items for finance teams.",
+  "idea_text": "Tool that aggregates utility bills by property and generates monthly cost allocation reports for property managers.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 90,
+    "pricing_power": 90,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 69,
+  "arr_score": 72
 }

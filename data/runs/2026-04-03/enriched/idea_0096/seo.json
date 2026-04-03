@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "property managers handling - units invoice tracking",
+    "property managers handling - units vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
-    "vendor invoices",
-    "driver compliance"
+    "vendor invoices"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -30,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Logistics reporting dashboard that monitors fleet performance, driver compliance, and operational metrics for transportation companies.",
-    "unknown audience"
+    "For property managers handling 10-50 units, inefficient tenant communication causes delayed work orders. We automate tenant communication instead of manual communication and tracking via email and spreadsheets.",
+    "inefficient tenant communication and delayed work order processing",
+    "property managers handling 10-50 units"
   ],
   "content_plan": [
     {
@@ -95,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -110,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "property managers handling - units invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -136,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | property managers handling - units tool",
+      "property managers handling - units tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with logistics reporting dashboard that monitors fleet performance driver compliance and operational metrics for transportation companies."
+      "property managers handling - units tool helps with inefficient tenant communication and delayed work order processing."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

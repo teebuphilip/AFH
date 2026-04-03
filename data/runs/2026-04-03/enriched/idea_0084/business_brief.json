@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Vacation rental management platform that handles guest communications, cleaning schedules, and financial reporting for property owners.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Vacation rental management platform that handles guest communications, cleaning schedules, and financial reporting for property owners.",
+  "name": "construction contractors managing 5\u201310 projects simultaneously tool",
+  "description": "For construction contractors managing 5\u201310 projects simultaneously, inefficient tracking causes missed deadlines. We provide automated progress reports instead of manual spreadsheets and email updates.",
+  "target_audience": "construction contractors managing 5\u201310 projects simultaneously",
+  "problem_solved": "Inefficient tracking of project progress and delays",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "simple project timeline visualization",
+    "task assignment and tracking",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "construction contractors managing 5\u201310 projects simultaneously",
+    "primary_problem": "Inefficient tracking of project progress and delays",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201310 projects simultaneously, inefficient tracking causes missed deadlines. We provide automated progress reports instead of manual spreadsheets and email updates.",
+    "current_alternative": "manual spreadsheets and email updates",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "simple project timeline visualization",
+      "task assignment and tracking",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Vacation rental management platform that handles guest communications, cleaning schedules, and financial reporting for property owners.",
+  "one_liner": "For construction contractors managing 5\u201310 projects simultaneously, inefficient tracking causes missed deadlines. We provide automated progress reports instead of manual spreadsheets and email updates.",
   "source": {
     "idea_id": "idea_0084",
     "run_date": "2026-04-03",

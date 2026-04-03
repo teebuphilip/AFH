@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Contract lifecycle management platform that automates document creation, e-signatures, and renewal tracking for law firms.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Contract lifecycle management platform that automates document creation, e-signatures, and renewal tracking for law firms.",
+  "name": "insurance adjusters processing 10\u201320 claims/month tool",
+  "description": "For insurance adjusters processing 10\u201320 claims/month, excessive manual data entry causes delayed claim resolutions. We automate data entry instead of manual data entry and processing.",
+  "target_audience": "insurance adjusters processing 10\u201320 claims/month",
+  "problem_solved": "excessive manual data entry",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "user-friendly interface for data input",
+    "real-time status tracking of claims",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
+    "primary_user": "insurance adjusters processing 10\u201320 claims/month",
+    "primary_problem": "excessive manual data entry",
     "primary_gap_type": "workflow gap",
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "mvp_wedge": "For insurance adjusters processing 10\u201320 claims/month, excessive manual data entry causes delayed claim resolutions. We automate data entry instead of manual data entry and processing.",
+    "current_alternative": "manual data entry and processing",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "user-friendly interface for data input",
+      "real-time status tracking of claims",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Contract lifecycle management platform that automates document creation, e-signatures, and renewal tracking for law firms.",
+  "one_liner": "For insurance adjusters processing 10\u201320 claims/month, excessive manual data entry causes delayed claim resolutions. We automate data entry instead of manual data entry and processing.",
   "source": {
     "idea_id": "idea_0090",
     "run_date": "2026-04-03",

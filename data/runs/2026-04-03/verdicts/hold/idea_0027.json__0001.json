@@ -1,15 +1,15 @@
 {
-  "idea_text": "Service that reconciles insurance claims payments and policy records for claims adjusters in mid-sized firms.",
+  "idea_text": "Service that generates weekly insurance claims status summaries for claims adjusters.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.374783",
+  "verdict_timestamp": "2026-04-03T11:57:21.137832",
   "verdict_source": "overlay_score"
 }

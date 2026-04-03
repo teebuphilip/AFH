@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automation that extracts financial data from PDFs and populates accounting software ledgers for bookkeeping firms.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automation that extracts financial data from PDFs and populates accounting software ledgers for bookkeeping firms.",
+  "name": "accounting firms managing 10-20 clients/month tool",
+  "description": "For accounting firms managing 10-20 clients/month, manual forecasting causes cash flow gaps. We automate cash flow forecasts instead of manual cash flow forecasting using spreadsheets.",
+  "target_audience": "accounting firms managing 10-20 clients/month",
+  "problem_solved": "Inaccurate cash flow forecasts leading to financial mismanagement.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "weekly cash flow report generation",
+    "data import from accounting software",
+    "customizable forecasting parameters"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "accounting firms managing 10-20 clients/month",
+    "primary_problem": "Inaccurate cash flow forecasts leading to financial mismanagement.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10-20 clients/month, manual forecasting causes cash flow gaps. We automate cash flow forecasts instead of manual cash flow forecasting using spreadsheets.",
+    "current_alternative": "manual cash flow forecasting using spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "weekly cash flow report generation",
+      "data import from accounting software",
+      "customizable forecasting parameters"
     ]
   },
-  "one_liner": "Automation that extracts financial data from PDFs and populates accounting software ledgers for bookkeeping firms.",
+  "one_liner": "For accounting firms managing 10-20 clients/month, manual forecasting causes cash flow gaps. We automate cash flow forecasts instead of manual cash flow forecasting using spreadsheets.",
   "source": {
     "idea_id": "idea_0015",
     "run_date": "2026-04-03",
-    "overlay_score": 67,
-    "arr_score": 66
+    "overlay_score": 74,
+    "arr_score": 74
   }
 }

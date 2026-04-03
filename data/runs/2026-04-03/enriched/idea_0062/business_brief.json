@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that tracks vendor contracts and alerts procurement teams of renewal dates.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that tracks vendor contracts and alerts procurement teams of renewal dates.",
+  "name": "HR teams in small to medium-sized law firms using BambooHR, processing 5\u201315 employee policy updates/month tool",
+  "description": "For HR teams in small to medium-sized law firms using BambooHR, processing 5\u201315 employee policy updates/month, manual tracking causes missed compliance deadlines. We provide automated alerts instead of manual tracking.",
+  "target_audience": "HR teams in small to medium-sized law firms using BambooHR, processing 5\u201315 employee policy updates/month",
+  "problem_solved": "Staying updated with compliance changes and deadlines",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Email notifications for policy changes",
+    "Deadline reminders for filings",
+    "Dashboard for tracking compliance status"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "HR teams in small to medium-sized law firms using BambooHR, processing 5\u201315 employee policy updates/month",
+    "primary_problem": "Staying updated with compliance changes and deadlines",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR teams in small to medium-sized law firms using BambooHR, processing 5\u201315 employee policy updates/month, manual tracking causes missed compliance deadlines. We provide automated alerts instead of manual tracking.",
+    "current_alternative": "Manual tracking of policy changes and deadlines",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Email notifications for policy changes",
+      "Deadline reminders for filings",
+      "Dashboard for tracking compliance status"
     ]
   },
-  "one_liner": "Service that tracks vendor contracts and alerts procurement teams of renewal dates.",
+  "one_liner": "For HR teams in small to medium-sized law firms using BambooHR, processing 5\u201315 employee policy updates/month, manual tracking causes missed compliance deadlines. We provide automated alerts instead of manual tracking.",
   "source": {
     "idea_id": "idea_0062",
     "run_date": "2026-04-03",
-    "overlay_score": 72,
-    "arr_score": 72
+    "overlay_score": 76,
+    "arr_score": 76
   }
 }

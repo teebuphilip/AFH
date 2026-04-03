@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "accounting firms invoice tracking",
+    "accounting firms vendor invoices",
     "invoice payments",
     "invoice tracking",
     "payment reminders",
@@ -29,8 +29,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Automation that converts legal case time logs into formatted billing submissions for small law firms.",
-    "unknown audience"
+    "For accounting firms processing 5\u201315 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "Inaccurate reconciliation of billing records with payment receipts.",
+    "accounting firms processing 5\u201315 invoices/month"
   ],
   "content_plan": [
     {
@@ -109,7 +110,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "accounting firms invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +136,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | accounting firms tool",
+      "accounting firms tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with automation that converts legal case time logs into formatted billing submissions for small law firms."
+      "accounting firms tool helps with inaccurate reconciliation of billing records with payment receipts."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

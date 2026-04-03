@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Construction project planning tool that schedules subcontractors, tracks budgets, and generates progress reports for general contractors.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Construction project planning tool that schedules subcontractors, tracks budgets, and generates progress reports for general contractors.",
+  "name": "restaurant owners processing 10\u201320 orders/day tool",
+  "description": "For restaurant owners processing 10\u201320 orders/day, inaccurate inventory levels cause stockouts and overstocking. We suggest order quantities based on sales trends instead of manual inventory tracking and ordering.",
+  "target_audience": "restaurant owners processing 10\u201320 orders/day",
+  "problem_solved": "Inaccurate inventory levels lead to stockouts and overstocking.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "sales trend analysis",
+    "manual inventory adjustment options",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "restaurant owners processing 10\u201320 orders/day",
+    "primary_problem": "Inaccurate inventory levels lead to stockouts and overstocking.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant owners processing 10\u201320 orders/day, inaccurate inventory levels cause stockouts and overstocking. We suggest order quantities based on sales trends instead of manual inventory tracking and ordering.",
+    "current_alternative": "manual inventory tracking and ordering",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "sales trend analysis",
+      "manual inventory adjustment options",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Construction project planning tool that schedules subcontractors, tracks budgets, and generates progress reports for general contractors.",
+  "one_liner": "For restaurant owners processing 10\u201320 orders/day, inaccurate inventory levels cause stockouts and overstocking. We suggest order quantities based on sales trends instead of manual inventory tracking and ordering.",
   "source": {
     "idea_id": "idea_0094",
     "run_date": "2026-04-03",
-    "overlay_score": 68,
-    "arr_score": 67
+    "overlay_score": 62,
+    "arr_score": 62
   }
 }

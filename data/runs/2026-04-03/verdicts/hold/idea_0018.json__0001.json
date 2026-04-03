@@ -1,18 +1,16 @@
 {
-  "idea_text": "Service that compiles monthly sales tax filings from multiple jurisdictions and prepares reports for finance teams.",
+  "idea_text": "Service that tracks employee overtime hours and sends weekly alerts to payroll administrators.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 90,
-    "automation": 55,
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 81.0,
-  "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-03T10:41:06.373357",
+  "overlay_score": 67,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-03T11:57:21.136490",
   "verdict_source": "overlay_score",
-  "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-03T10:41:06.437868",
-  "hold_reason": "arr_70_89"
+  "hold_reason": "keep_cap"
 }

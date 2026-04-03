@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "accounting firms invoice tracking",
+    "accounting firms vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Automated sales commission calculator that integrates with CRM and payroll.",
-    "unknown audience"
+    "For accounting firms processing 10\u201320 invoices/month, manual categorization causes delays in report generation. We automate expense categorization instead of manual expense tracking and categorization using spreadsheets.",
+    "Manual categorization of expenses leads to time-consuming reports and potential errors.",
+    "accounting firms processing 10\u201320 invoices/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "accounting firms invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | accounting firms tool",
+      "accounting firms tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with automated sales commission calculator that integrates with crm and payroll."
+      "accounting firms tool helps with manual categorization of expenses leads to time-consuming reports and potential errors."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

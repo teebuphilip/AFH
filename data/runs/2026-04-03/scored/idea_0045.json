@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that reconciles legal trust account transactions and generates compliance reports for law firm accountants.",
+  "idea_text": "System that compiles weekly labor cost summaries for restaurant back office controllers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70
+  "overlay_score": 64,
+  "arr_score": 62
 }

@@ -1,18 +1,18 @@
 {
-  "idea_text": "Automation tool that generates monthly maintenance compliance reports for property management supervisors.",
+  "idea_text": "Tool that automates monthly rent reconciliation reports for property management accountants.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
   "overlay_score": 78,
-  "arr_score": 78.0,
+  "arr_score": 79.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-03T10:41:06.374600",
+  "verdict_timestamp": "2026-04-03T11:57:21.137619",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-03T10:41:06.439215",
+  "arr_scored_at": "2026-04-03T11:57:21.196532",
   "hold_reason": "arr_70_89"
 }

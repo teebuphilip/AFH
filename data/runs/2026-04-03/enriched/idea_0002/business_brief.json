@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that monitors weekly payroll submissions and alerts HR ops on missing or inconsistent employee data before processing.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that monitors weekly payroll submissions and alerts HR ops on missing or inconsistent employee data before processing.",
+  "name": "HR operations in small marketing agencies processing 5\u201315 expense reports/month tool",
+  "description": "For HR operations in small marketing agencies processing 5\u201315 expense reports/month, inconsistent policy adherence causes compliance risks. We automate compliance monitoring instead of manual review of expense reports by HR staff.",
+  "target_audience": "HR operations in small marketing agencies processing 5\u201315 expense reports/month",
+  "problem_solved": "Ensuring compliance with expense report policies",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Dashboard for tracking compliance metrics",
+    "Manual entry option for exceptions",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "HR operations in small marketing agencies processing 5\u201315 expense reports/month",
+    "primary_problem": "Ensuring compliance with expense report policies",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations in small marketing agencies processing 5\u201315 expense reports/month, inconsistent policy adherence causes compliance risks. We automate compliance monitoring instead of manual review of expense reports by HR staff.",
+    "current_alternative": "Manual review of expense reports by HR staff",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Dashboard for tracking compliance metrics",
+      "Manual entry option for exceptions",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Service that monitors weekly payroll submissions and alerts HR ops on missing or inconsistent employee data before processing.",
+  "one_liner": "For HR operations in small marketing agencies processing 5\u201315 expense reports/month, inconsistent policy adherence causes compliance risks. We automate compliance monitoring instead of manual review of expense reports by HR staff.",
   "source": {
     "idea_id": "idea_0002",
     "run_date": "2026-04-03",

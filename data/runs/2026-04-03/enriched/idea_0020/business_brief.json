@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "System that tracks employee benefit enrollment changes and automates monthly updates to payroll systems for HR ops.",
-  "target_audience": "unknown audience",
-  "problem_solved": "System that tracks employee benefit enrollment changes and automates monthly updates to payroll systems for HR ops.",
+  "name": "Shopify store owners processing 10\u201320 invoices/month tool",
+  "description": "For Shopify store owners processing 10\u201320 invoices/month, missed invoice due dates cause stock shortages. We send automated payment reminders instead of manual tracking with spreadsheets.",
+  "target_audience": "Shopify store owners processing 10\u201320 invoices/month",
+  "problem_solved": "Late payments to suppliers due to missed invoice due dates.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Invoice due date monitoring",
+    "User-friendly dashboard for tracking invoices",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "Shopify store owners processing 10\u201320 invoices/month",
+    "primary_problem": "Late payments to suppliers due to missed invoice due dates.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201320 invoices/month, missed invoice due dates cause stock shortages. We send automated payment reminders instead of manual tracking with spreadsheets.",
+    "current_alternative": "Manual tracking of invoice due dates using spreadsheets.",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Invoice due date monitoring",
+      "User-friendly dashboard for tracking invoices",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "System that tracks employee benefit enrollment changes and automates monthly updates to payroll systems for HR ops.",
+  "one_liner": "For Shopify store owners processing 10\u201320 invoices/month, missed invoice due dates cause stock shortages. We send automated payment reminders instead of manual tracking with spreadsheets.",
   "source": {
     "idea_id": "idea_0020",
     "run_date": "2026-04-03",
-    "overlay_score": 78,
-    "arr_score": 78
+    "overlay_score": 76,
+    "arr_score": 76
   }
 }

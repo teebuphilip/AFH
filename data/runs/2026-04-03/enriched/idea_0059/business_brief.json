@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "System that monitors inventory levels and triggers purchase orders for warehouse managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "System that monitors inventory levels and triggers purchase orders for warehouse managers.",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, compliance issues cause supplier penalties. We provide a vendor management platform instead of manual tracking through spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Managing contracts and compliance effectively",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Contract tracking",
+    "Insurance documentation management",
+    "Compliance checklist"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Managing contracts and compliance effectively",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, compliance issues cause supplier penalties. We provide a vendor management platform instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Contract tracking",
+      "Insurance documentation management",
+      "Compliance checklist"
     ]
   },
-  "one_liner": "System that monitors inventory levels and triggers purchase orders for warehouse managers.",
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, compliance issues cause supplier penalties. We provide a vendor management platform instead of manual tracking through spreadsheets.",
   "source": {
     "idea_id": "idea_0059",
     "run_date": "2026-04-03",
     "overlay_score": 67,
-    "arr_score": 66
+    "arr_score": 69
   }
 }

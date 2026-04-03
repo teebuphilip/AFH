@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that automatically matches vendor payment receipts against accounting entries and flags unmatched items for finance teams.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that automatically matches vendor payment receipts against accounting entries and flags unmatched items for finance teams.",
+  "name": "property managers processing 5\u201315 utility bills/month tool",
+  "description": "For property managers processing 5\u201315 utility bills/month, inaccurate cost allocation causes cash flow gaps. We aggregate utility bills instead of manual tracking and allocation of utility costs.",
+  "target_audience": "property managers processing 5\u201315 utility bills/month",
+  "problem_solved": "Inaccurate cost allocation of utility bills across properties",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual entry of utility bills",
+    "monthly cost allocation report generation",
+    "property-specific cost tracking"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "property managers processing 5\u201315 utility bills/month",
+    "primary_problem": "Inaccurate cost allocation of utility bills across properties",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 utility bills/month, inaccurate cost allocation causes cash flow gaps. We aggregate utility bills instead of manual tracking and allocation of utility costs.",
+    "current_alternative": "manual tracking and allocation of utility costs",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual entry of utility bills",
+      "monthly cost allocation report generation",
+      "property-specific cost tracking"
     ]
   },
-  "one_liner": "Tool that automatically matches vendor payment receipts against accounting entries and flags unmatched items for finance teams.",
+  "one_liner": "For property managers processing 5\u201315 utility bills/month, inaccurate cost allocation causes cash flow gaps. We aggregate utility bills instead of manual tracking and allocation of utility costs.",
   "source": {
     "idea_id": "idea_0009",
     "run_date": "2026-04-03",
-    "overlay_score": 76,
-    "arr_score": 76
+    "overlay_score": 69,
+    "arr_score": 72
   }
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that converts customer data into custom reports for sales operations.",
+  "idea_text": "Budget planning app that aggregates spending and generates custom reports for non-profit finance teams.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 55,
-    "automation": 90,
+    "pricing_power": 70,
+    "user_count": 90,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 68,
+  "arr_score": 71
 }

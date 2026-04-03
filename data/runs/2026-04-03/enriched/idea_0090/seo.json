@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "insurance adjusters invoice tracking",
+    "insurance adjusters vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Contract lifecycle management platform that automates document creation, e-signatures, and renewal tracking for law firms.",
-    "unknown audience"
+    "For insurance adjusters processing 10\u201320 claims/month, excessive manual data entry causes delayed claim resolutions. We automate data entry instead of manual data entry and processing.",
+    "excessive manual data entry",
+    "insurance adjusters processing 10\u201320 claims/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "insurance adjusters invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | insurance adjusters tool",
+      "insurance adjusters tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with contract lifecycle management platform that automates document creation e-signatures and renewal tracking for law firms."
+      "insurance adjusters tool helps with excessive manual data entry."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

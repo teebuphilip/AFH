@@ -1,12 +1,12 @@
 {
-  "idea_text": "Billing and coding automation for small medical clinics to streamline insurance submissions and payment reconciliation.",
+  "idea_text": "A fleet management software that monitors vehicle diagnostics and schedules maintenance for logistics companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 74,
+  "arr_score": 74
 }

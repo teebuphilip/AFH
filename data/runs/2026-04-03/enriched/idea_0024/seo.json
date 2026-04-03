@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "law firms managing contracts month invoice tracking",
+    "law firms managing contracts month vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "System that extracts and formats sales orders into accounting invoices automatically for sales operations teams.",
-    "unknown audience"
+    "For law firms managing 5\u201315 contracts/month, poor compliance monitoring causes legal penalties. We provide automated compliance alerts instead of manual tracking through spreadsheets.",
+    "Inability to monitor contract compliance effectively, leading to potential legal penalties.",
+    "law firms managing 5\u201315 contracts/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "law firms managing contracts month invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | law firms managing contracts month tool",
+      "law firms managing contracts month tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with system that extracts and formats sales orders into accounting invoices automatically for sales operations teams."
+      "law firms managing contracts month tool helps with inability to monitor contract compliance effectively leading to potential legal penalties."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

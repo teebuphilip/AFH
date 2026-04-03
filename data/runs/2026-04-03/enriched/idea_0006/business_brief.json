@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that tracks recurring subscription payments and alerts accounting teams when renewal amounts or dates change.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that tracks recurring subscription payments and alerts accounting teams when renewal amounts or dates change.",
+  "name": "procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month tool",
+  "description": "For procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewals cause service interruptions. We provide timely alerts instead of manual tracking of contract dates using spreadsheets.",
+  "target_audience": "procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month",
+  "problem_solved": "Missed contract renewals leading to service interruptions and potential penalties.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual entry of contract details",
+    "30-day alert notifications",
+    "dashboard for upcoming renewals"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month",
+    "primary_problem": "Missed contract renewals leading to service interruptions and potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewals cause service interruptions. We provide timely alerts instead of manual tracking of contract dates using spreadsheets.",
+    "current_alternative": "manual tracking of contract dates using spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual entry of contract details",
+      "30-day alert notifications",
+      "dashboard for upcoming renewals"
     ]
   },
-  "one_liner": "Service that tracks recurring subscription payments and alerts accounting teams when renewal amounts or dates change.",
+  "one_liner": "For procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewals cause service interruptions. We provide timely alerts instead of manual tracking of contract dates using spreadsheets.",
   "source": {
     "idea_id": "idea_0006",
     "run_date": "2026-04-03",
-    "overlay_score": 83,
-    "arr_score": 85
+    "overlay_score": 64,
+    "arr_score": 62
   }
 }

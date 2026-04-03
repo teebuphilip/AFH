@@ -1,16 +1,15 @@
 {
-  "idea_text": "Tool that compiles monthly vendor contract renewals and sends automated reminders to procurement managers.",
+  "idea_text": "Tool that compiles weekly logistics route efficiency reports and emails them to operations managers.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
-    "automation": 90,
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 55,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74,
+  "overlay_score": 59,
+  "arr_score": 60,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.374467",
-  "verdict_source": "overlay_score",
-  "hold_reason": "keep_cap"
+  "verdict_timestamp": "2026-04-03T11:57:21.137443",
+  "verdict_source": "overlay_score"
 }

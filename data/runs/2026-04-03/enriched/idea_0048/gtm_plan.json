@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Service that generates daily supply chain exception reports for logistics warehouse supervisors.",
-  "problem": "Service that generates daily supply chain exception reports for logistics warehouse supervisors.",
+  "who": "logistics dispatch coordinators processing 10\u201320 invoices/month",
+  "offer": "For logistics dispatch coordinators processing 10\u201320 invoices/month, manual entry causes late payments and cash flow gaps. We automate the conversion of delivery logs into billing submissions instead of manual entry.",
+  "problem": "Manual conversion of delivery logs into billing submissions leads to errors and delays.",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for logistics dispatch coordinators",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to logistics dispatch coordinators with demo video",
+    "Community forums for sharing tools among coordinators"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try manual override option for adjustments and Manual invoice entry form on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
     "Collect 10 short interviews from target users",
     "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Post weekly progress updates in relevant communities"
   ],
   "automation_simplification_ideas": [
     "Save common inputs as templates",
     "Default reminder schedule presets",
     "CSV import for existing data",
-    "One-click export of a simple report",
+    "One-click export of simple reports",
     "Fewer steps in onboarding"
   ]
 }

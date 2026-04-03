@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that converts payroll data into standardized reports for HR operations.",
+  "idea_text": "Inventory tracking app that sends low stock alerts to retail store managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,7 +10,7 @@
   "overlay_score": 67,
   "arr_score": 66,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.380017",
+  "verdict_timestamp": "2026-04-03T11:57:21.142629",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

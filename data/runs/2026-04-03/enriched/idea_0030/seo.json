@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "logistics supervisors at freight brokers managing - vehicles invoice tracking",
+    "logistics supervisors at freight brokers managing - vehicles vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Tool that compiles daily fleet fuel usage reports for logistics fleet managers.",
-    "unknown audience"
+    "For logistics supervisors at freight brokers processing 5-15 vehicles, missed inspections cause compliance penalties. We provide automated alerts instead of manual tracking of inspection schedules and compliance.",
+    "Ensuring fleet vehicle inspection compliance",
+    "logistics supervisors at freight brokers managing 5-15 vehicles"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "logistics supervisors at freight brokers managing - vehicles invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | logistics supervisors at freight brokers managing - vehicles tool",
+      "logistics supervisors at freight brokers managing - vehicles tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with tool that compiles daily fleet fuel usage reports for logistics fleet managers."
+      "logistics supervisors at freight brokers managing - vehicles tool helps with ensuring fleet vehicle inspection compliance."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

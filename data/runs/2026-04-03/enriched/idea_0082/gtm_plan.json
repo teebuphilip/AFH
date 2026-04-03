@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "small law firms",
-  "offer": "Contract management tool that simplifies document generation and compliance tracking.",
-  "problem": "Small law firms struggle with managing contracts efficiently.",
+  "who": "property managers handling 10-20 rental units",
+  "offer": "For property managers handling 10-20 rental units, inefficient tenant communication causes late rent payments. We automate tenant communication and rent collection instead of manual communication and rent collection processes.",
+  "problem": "Inefficient tenant communication and delayed rent collection",
   "channels_free": [
-    "Post in Reddit communities for legal professionals",
-    "Share insights on Indie Hackers about legal workflows",
-    "DM outreach to small law firms with demo video",
-    "Engage in community forums for legal tech discussions"
+    "Post in Reddit communities for property managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to property managers with demo video",
+    "Community forums for property management tools"
   ],
-  "try_it": "Allow users to test manual invoice entry and vendor management.",
-  "pay": "Flexible pricing with clear upgrade options.",
+  "try_it": "Let users try tenant communication logs and rent tracking",
+  "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "Create a simple landing page with clear CTA",
-    "Produce a short demo video of the tool",
-    "Gather feedback from 10 potential users",
-    "Provide early access for first 10 sign-ups",
-    "Share weekly updates in legal communities"
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 user interviews for feedback",
+    "Offer early-access onboarding for first users",
+    "Post weekly progress updates in relevant community"
   ],
   "automation_simplification_ideas": [
-    "Create templates for common contract types",
-    "Set default reminders for contract renewals",
-    "Enable CSV import for existing contracts",
-    "Allow one-click report generation",
-    "Streamline the onboarding process for new users"
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing tenant data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
   ]
 }

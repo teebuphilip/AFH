@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automation that converts raw payroll tax filings into compliance-ready reports for HR compliance officers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automation that converts raw payroll tax filings into compliance-ready reports for HR compliance officers.",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual data entry causes late audits. We automate the extraction and formatting of vendor payment data instead of manual data entry and spreadsheet management.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Manual data entry and formatting for quarterly audits is time-consuming and error-prone.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "data extraction from invoices",
+    "formatting for audit reports",
+    "user-friendly interface for manual adjustments"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Manual data entry and formatting for quarterly audits is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual data entry causes late audits. We automate the extraction and formatting of vendor payment data instead of manual data entry and spreadsheet management.",
+    "current_alternative": "manual data entry and spreadsheet management",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "data extraction from invoices",
+      "formatting for audit reports",
+      "user-friendly interface for manual adjustments"
     ]
   },
-  "one_liner": "Automation that converts raw payroll tax filings into compliance-ready reports for HR compliance officers.",
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual data entry causes late audits. We automate the extraction and formatting of vendor payment data instead of manual data entry and spreadsheet management.",
   "source": {
     "idea_id": "idea_0011",
     "run_date": "2026-04-03",
-    "overlay_score": 67,
-    "arr_score": 66
+    "overlay_score": 72,
+    "arr_score": 72
   }
 }

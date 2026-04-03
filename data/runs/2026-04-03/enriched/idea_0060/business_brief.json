@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Payroll tax compliance tool that generates filings and payments for small businesses.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Payroll tax compliance tool that generates filings and payments for small businesses.",
+  "name": "operations managers in marketing agencies processing 10\u201320 invoices/month tool",
+  "description": "For operations managers in marketing agencies processing 10\u201320 invoices/month, inaccurate revenue predictions cause cash flow issues. We provide a sales forecasting tool instead of manual spreadsheets and basic accounting software.",
+  "target_audience": "operations managers in marketing agencies processing 10\u201320 invoices/month",
+  "problem_solved": "inaccurate revenue predictions leading to cash flow issues",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "simple revenue prediction based on pipeline data",
+    "user-friendly dashboard for tracking forecasts",
+    "exportable reports for financial analysis"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "operations managers in marketing agencies processing 10\u201320 invoices/month",
+    "primary_problem": "inaccurate revenue predictions leading to cash flow issues",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For operations managers in marketing agencies processing 10\u201320 invoices/month, inaccurate revenue predictions cause cash flow issues. We provide a sales forecasting tool instead of manual spreadsheets and basic accounting software.",
+    "current_alternative": "manual spreadsheets and basic accounting software",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "simple revenue prediction based on pipeline data",
+      "user-friendly dashboard for tracking forecasts",
+      "exportable reports for financial analysis"
     ]
   },
-  "one_liner": "Payroll tax compliance tool that generates filings and payments for small businesses.",
+  "one_liner": "For operations managers in marketing agencies processing 10\u201320 invoices/month, inaccurate revenue predictions cause cash flow issues. We provide a sales forecasting tool instead of manual spreadsheets and basic accounting software.",
   "source": {
     "idea_id": "idea_0060",
     "run_date": "2026-04-03",
-    "overlay_score": 67,
-    "arr_score": 69
+    "overlay_score": 69,
+    "arr_score": 68
   }
 }

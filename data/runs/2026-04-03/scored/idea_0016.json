@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that reconciles monthly lease payments with bank transactions and alerts property managers on mismatches.",
+  "idea_text": "System that reconciles petty cash transactions daily and emails exception reports to accounting staff.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
-    "automation": 90,
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 82,
-  "arr_score": 82
+  "overlay_score": 58,
+  "arr_score": 58
 }

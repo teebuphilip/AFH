@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
+  "name": "property managers handling 10-20 properties tool",
+  "description": "For property managers handling 10-20 properties, compliance oversight causes legal penalties. We automate compliance checklist creation instead of manual checklist creation using spreadsheets.",
+  "target_audience": "property managers handling 10-20 properties",
+  "problem_solved": "Difficulty in maintaining up-to-date compliance checklists and reports.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "template-based checklist creation",
+    "user-friendly interface for checklist updates",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "property managers handling 10-20 properties",
+    "primary_problem": "Difficulty in maintaining up-to-date compliance checklists and reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For property managers handling 10-20 properties, compliance oversight causes legal penalties. We automate compliance checklist creation instead of manual checklist creation using spreadsheets.",
+    "current_alternative": "manual checklist creation using spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "template-based checklist creation",
+      "user-friendly interface for checklist updates",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
+  "one_liner": "For property managers handling 10-20 properties, compliance oversight causes legal penalties. We automate compliance checklist creation instead of manual checklist creation using spreadsheets.",
   "source": {
     "idea_id": "idea_0037",
     "run_date": "2026-04-03",

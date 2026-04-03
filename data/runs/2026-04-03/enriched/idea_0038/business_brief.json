@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "System that generates weekly safety incident logs and sends alerts to property management safety officers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "System that generates weekly safety incident logs and sends alerts to property management safety officers.",
+  "name": "law firm billing administrators processing 5\u201315 invoices/month tool",
+  "description": "For law firm billing administrators processing 5\u201315 invoices/month, inefficient extraction causes cash flow gaps. We automate formatting instead of manual data entry and formatting.",
+  "target_audience": "law firm billing administrators processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient extraction and formatting of legal billing timesheets.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual data entry support",
+    "customizable formatting options",
+    "export to common file formats"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "law firm billing administrators processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient extraction and formatting of legal billing timesheets.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm billing administrators processing 5\u201315 invoices/month, inefficient extraction causes cash flow gaps. We automate formatting instead of manual data entry and formatting.",
+    "current_alternative": "manual data entry and formatting",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual data entry support",
+      "customizable formatting options",
+      "export to common file formats"
     ]
   },
-  "one_liner": "System that generates weekly safety incident logs and sends alerts to property management safety officers.",
+  "one_liner": "For law firm billing administrators processing 5\u201315 invoices/month, inefficient extraction causes cash flow gaps. We automate formatting instead of manual data entry and formatting.",
   "source": {
     "idea_id": "idea_0038",
     "run_date": "2026-04-03",

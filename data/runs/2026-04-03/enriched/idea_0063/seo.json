@@ -1,12 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "invoice payments",
+    "non-profit finance teams invoice tracking",
+    "non-profit finance teams vendor invoices",
     "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "for non"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -14,11 +12,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -29,37 +27,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Tool that converts customer data into custom reports for sales operations.",
-    "unknown audience"
+    "For non-profit finance teams processing 5\u201315 invoices/month, inefficient budget tracking causes cash flow gaps. We provide a budget planning app instead of manual spreadsheets and basic accounting software.",
+    "Inefficient budget tracking and reporting",
+    "non-profit finance teams processing 5\u201315 invoices/month"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -82,26 +81,14 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Invoice Tracking",
       "target_keyword": "invoice tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Vendor Invoices",
-      "target_keyword": "vendor invoices",
+      "title": "For Non",
+      "target_keyword": "for non",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -109,7 +96,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "non-profit finance teams invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +122,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | non-profit finance teams tool",
+      "non-profit finance teams tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with tool that converts customer data into custom reports for sales operations."
+      "non-profit finance teams tool helps with inefficient budget tracking and reporting."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

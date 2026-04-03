@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Fleet management software that monitors driver behavior, optimizes routes, and generates compliance reports for logistics companies.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Fleet management software that monitors driver behavior, optimizes routes, and generates compliance reports for logistics companies.",
+  "name": "restaurant owners managing 5\u201315 invoices/month tool",
+  "description": "For restaurant owners managing 5\u201315 invoices/month, inaccurate stock levels cause late orders. We provide automated stock tracking instead of manual tracking and ordering.",
+  "target_audience": "restaurant owners managing 5\u201315 invoices/month",
+  "problem_solved": "inaccurate stock levels leading to late orders",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "real-time stock level tracking",
+    "order recommendation generation",
+    "manual entry for stock adjustments"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "restaurant owners managing 5\u201315 invoices/month",
+    "primary_problem": "inaccurate stock levels leading to late orders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant owners managing 5\u201315 invoices/month, inaccurate stock levels cause late orders. We provide automated stock tracking instead of manual tracking and ordering.",
+    "current_alternative": "manual tracking and ordering",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "real-time stock level tracking",
+      "order recommendation generation",
+      "manual entry for stock adjustments"
     ]
   },
-  "one_liner": "Fleet management software that monitors driver behavior, optimizes routes, and generates compliance reports for logistics companies.",
+  "one_liner": "For restaurant owners managing 5\u201315 invoices/month, inaccurate stock levels cause late orders. We provide automated stock tracking instead of manual tracking and ordering.",
   "source": {
     "idea_id": "idea_0080",
     "run_date": "2026-04-03",
-    "overlay_score": 76,
-    "arr_score": 76
+    "overlay_score": 62,
+    "arr_score": 62
   }
 }

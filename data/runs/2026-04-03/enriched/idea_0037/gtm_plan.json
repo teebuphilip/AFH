@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "restaurant procurement managers",
-  "offer": "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
-  "problem": "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
+  "who": "property managers handling 10-20 properties",
+  "offer": "For property managers handling 10-20 properties, compliance oversight causes legal penalties. We automate compliance checklist creation instead of manual checklist creation using spreadsheets.",
+  "problem": "Difficulty in maintaining up-to-date compliance checklists and reports.",
   "channels_free": [
-    "Post in Reddit communities for restaurant managers",
-    "Indie Hackers discussions on procurement tools",
-    "DM outreach to restaurant managers with demo video",
-    "Join forums where procurement managers share insights"
+    "Post in Reddit communities for property management advice",
+    "Indie Hackers discussions on compliance tools",
+    "DM outreach to property managers with demo video",
+    "Join forums for property management tool discussions"
   ],
-  "try_it": "Let users try Manual invoice entry and Vendor list management",
+  "try_it": "Let users try template-based checklist creation for 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing manual invoice entry",
-    "Collect feedback from 10 restaurant managers",
-    "Offer early-access onboarding for first 10 users",
-    "Post weekly updates in relevant forums"
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
   ],
   "automation_simplification_ideas": [
-    "Save common invoice formats as templates",
-    "Default reminders for invoice submissions",
-    "CSV import for vendor data",
-    "One-click generation of compliance reports",
-    "Simplified onboarding process for new users"
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for checklists",
+    "Enable CSV import for existing compliance data",
+    "Facilitate one-click export of reports",
+    "Streamline onboarding with fewer steps"
   ]
 }

@@ -1,12 +1,9 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "invoice payments",
-    "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "medical clinic billing managers invoice tracking",
+    "medical clinic billing managers vendor invoices",
+    "cash flow tracking"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -14,11 +11,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to cash flow tracking",
+    "best cash flow tracking tool",
+    "cash flow tracking vs spreadsheets",
+    "cash flow tracking checklist",
+    "cash flow tracking pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -29,37 +26,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "System that monitors fleet GPS logs and flags discrepancies for logistics operations analysts.",
-    "unknown audience"
+    "For medical clinic billing managers processing 10\u201320 invoices/month, delays in insurance verification cause cash flow gaps. We generate patient insurance verification reports instead of manual verification processes.",
+    "Delays in insurance verification lead to cash flow gaps.",
+    "medical clinic billing managers processing 10\u201320 invoices/month"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Cash Flow Tracking",
+      "target_keyword": "how to cash flow tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Cash Flow Tracking Tool",
+      "target_keyword": "best cash flow tracking tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Cash Flow Tracking Vs Spreadsheets",
+      "target_keyword": "cash flow tracking vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Cash Flow Tracking Checklist",
+      "target_keyword": "cash flow tracking checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Cash Flow Tracking Pricing",
+      "target_keyword": "cash flow tracking pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -82,26 +80,8 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Invoice Tracking",
-      "target_keyword": "invoice tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Vendor Invoices",
-      "target_keyword": "vendor invoices",
+      "title": "Cash Flow Tracking",
+      "target_keyword": "cash flow tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -109,7 +89,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "medical clinic billing managers invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +115,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | medical clinic billing managers tool",
+      "medical clinic billing managers tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with system that monitors fleet gps logs and flags discrepancies for logistics operations analysts."
+      "medical clinic billing managers tool helps with delays in insurance verification lead to cash flow gaps."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

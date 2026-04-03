@@ -1,15 +1,16 @@
 {
-  "idea_text": "Automated onboarding checklist and document generator for HR operations.",
+  "idea_text": "Tax preparation assistant that organizes financial records and files returns for small businesses.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 67,
+  "arr_score": 69,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.381243",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-03T11:57:21.143850",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

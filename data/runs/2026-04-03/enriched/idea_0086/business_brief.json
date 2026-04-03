@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Construction bid management software that generates project proposals, tracks subcontractor costs, and invoices clients.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Construction bid management software that generates project proposals, tracks subcontractor costs, and invoices clients.",
+  "name": "logistics carriers processing 50\u2013100 shipments/week tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/week, inefficient routing causes late deliveries. We optimize routes instead of manual route planning and scheduling.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/week",
+  "problem_solved": "Inefficient routing and scheduling of shipments",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Route optimization algorithm",
+    "Scheduling interface",
+    "Performance tracking dashboard"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": "Spreadsheets + calendar reminders",
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/week",
+    "primary_problem": "Inefficient routing and scheduling of shipments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/week, inefficient routing causes late deliveries. We optimize routes instead of manual route planning and scheduling.",
+    "current_alternative": "manual route planning and scheduling",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Route optimization algorithm",
+      "Scheduling interface",
+      "Performance tracking dashboard"
     ]
   },
-  "one_liner": "Construction bid management software that generates project proposals, tracks subcontractor costs, and invoices clients.",
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/week, inefficient routing causes late deliveries. We optimize routes instead of manual route planning and scheduling.",
   "source": {
     "idea_id": "idea_0086",
     "run_date": "2026-04-03",
-    "overlay_score": 58,
-    "arr_score": 58
+    "overlay_score": 78,
+    "arr_score": 79
   }
 }

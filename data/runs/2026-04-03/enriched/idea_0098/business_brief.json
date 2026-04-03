@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Legal practice management system that automates document creation, client billing, and trust accounting for small law firms.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Legal practice management system that automates document creation, client billing, and trust accounting for small law firms.",
+  "name": "construction supervisors managing 5\u201310 projects simultaneously tool",
+  "description": "For construction supervisors managing 5\u201310 projects simultaneously, lack of real-time visibility causes project delays. We provide a dashboard instead of manual tracking through spreadsheets.",
+  "target_audience": "construction supervisors managing 5\u201310 projects simultaneously",
+  "problem_solved": "lack of real-time visibility into project status",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "real-time project status updates",
+    "task assignment and tracking",
+    "simple reporting tools"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "construction supervisors managing 5\u201310 projects simultaneously",
+    "primary_problem": "lack of real-time visibility into project status",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction supervisors managing 5\u201310 projects simultaneously, lack of real-time visibility causes project delays. We provide a dashboard instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "real-time project status updates",
+      "task assignment and tracking",
+      "simple reporting tools"
     ]
   },
-  "one_liner": "Legal practice management system that automates document creation, client billing, and trust accounting for small law firms.",
+  "one_liner": "For construction supervisors managing 5\u201310 projects simultaneously, lack of real-time visibility causes project delays. We provide a dashboard instead of manual tracking through spreadsheets.",
   "source": {
     "idea_id": "idea_0098",
     "run_date": "2026-04-03",
-    "overlay_score": 64,
-    "arr_score": 62
+    "overlay_score": 55,
+    "arr_score": 55
   }
 }

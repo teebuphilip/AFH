@@ -1,12 +1,12 @@
 {
-  "idea_text": "Restaurant workforce management system that schedules shifts, tracks time, and generates payroll for multi-location operators.",
+  "idea_text": "A property inspection tool that generates comprehensive reports for real estate investors.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 90,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66
+  "overlay_score": 55,
+  "arr_score": 55
 }

@@ -1,12 +1,9 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "invoice payments",
-    "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "operations managers in marketing agencies invoice tracking",
+    "operations managers in marketing agencies vendor invoices",
+    "cash flow tracking"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -14,11 +11,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to cash flow tracking",
+    "best cash flow tracking tool",
+    "cash flow tracking vs spreadsheets",
+    "cash flow tracking checklist",
+    "cash flow tracking pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -29,37 +26,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Payroll tax compliance tool that generates filings and payments for small businesses.",
-    "unknown audience"
+    "For operations managers in marketing agencies processing 10\u201320 invoices/month, inaccurate revenue predictions cause cash flow issues. We provide a sales forecasting tool instead of manual spreadsheets and basic accounting software.",
+    "inaccurate revenue predictions leading to cash flow issues",
+    "operations managers in marketing agencies processing 10\u201320 invoices/month"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Cash Flow Tracking",
+      "target_keyword": "how to cash flow tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Cash Flow Tracking Tool",
+      "target_keyword": "best cash flow tracking tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Cash Flow Tracking Vs Spreadsheets",
+      "target_keyword": "cash flow tracking vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Cash Flow Tracking Checklist",
+      "target_keyword": "cash flow tracking checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Cash Flow Tracking Pricing",
+      "target_keyword": "cash flow tracking pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -82,26 +80,8 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Invoice Tracking",
-      "target_keyword": "invoice tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Vendor Invoices",
-      "target_keyword": "vendor invoices",
+      "title": "Cash Flow Tracking",
+      "target_keyword": "cash flow tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -109,7 +89,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "operations managers in marketing agencies invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +115,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | operations managers in marketing agencies tool",
+      "operations managers in marketing agencies tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with payroll tax compliance tool that generates filings and payments for small businesses."
+      "operations managers in marketing agencies tool helps with inaccurate revenue predictions leading to cash flow issues."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

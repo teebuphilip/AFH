@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "medical clinics invoice tracking",
+    "medical clinics vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
-    "vendor invoices",
-    "handles guest communication"
+    "vendor invoices"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -30,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Vacation rental channel management software that lists properties, handles guest communication, and collects payments for property managers.",
-    "unknown audience"
+    "For medical clinics processing 50\u2013100 appointments/week, inefficient scheduling causes missed appointments. We optimize patient flow instead of manual scheduling via phone and paper calendars.",
+    "inefficient patient scheduling leading to missed appointments and overbooked slots",
+    "medical clinics processing 50\u2013100 appointments/week"
   ],
   "content_plan": [
     {
@@ -95,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -110,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "medical clinics invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -136,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | medical clinics tool",
+      "medical clinics tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with vacation rental channel management software that lists properties handles guest communication and collects payments for property managers."
+      "medical clinics tool helps with inefficient patient scheduling leading to missed appointments and overbooked slots."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

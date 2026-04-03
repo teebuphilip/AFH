@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "construction finance teams",
-  "offer": "Tool that automates monthly subcontractor lien waiver collections and status updates for construction finance teams.",
-  "problem": "Construction finance teams struggle with lien waiver collections and status updates.",
+  "who": "field service managers in the construction industry managing 5\u201315 equipment inspections/month",
+  "offer": "For field service managers in the construction industry processing 5\u201315 inspections/month, inefficient scheduling causes compliance delays. We automate scheduling and reporting instead of manual scheduling and reporting processes.",
+  "problem": "Difficulty in scheduling routine inspections and generating compliance reports.",
   "channels_free": [
-    "Post in Reddit communities for construction finance advice",
-    "Indie Hackers discussions on lien waiver processes",
-    "DM outreach to construction finance professionals with demo",
-    "Join construction finance forums and share insights"
+    "Post in Reddit communities for field service managers",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to field service managers with demo video",
+    "Community forums where field service managers share tools"
   ],
-  "try_it": "Let users try Manual invoice entry and Vendor list management",
-  "pay": "subscription model with tiered pricing options",
+  "try_it": "Let users try manual scheduling interface and compliance report generation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "Create a simple landing page with clear CTA",
-    "Produce a demo video of the manual process",
-    "Conduct 10 user interviews for feedback",
-    "Provide early-access onboarding for initial users",
-    "Share weekly updates in relevant online communities"
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
   ],
   "automation_simplification_ideas": [
-    "Allow users to save common data as templates",
-    "Set default reminders for key tasks",
-    "Enable CSV import for existing vendor data",
-    "Facilitate one-click report generation",
-    "Streamline the onboarding process for new users"
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
   ]
 }

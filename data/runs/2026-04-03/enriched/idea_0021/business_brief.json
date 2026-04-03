@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that reconciles monthly credit card statements with internal expense reports and flags discrepancies for accounting.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that reconciles monthly credit card statements with internal expense reports and flags discrepancies for accounting.",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, manual tracking causes cash flow gaps. We consolidate expense data instead of manual tracking and spreadsheet management.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in consolidating expense data for accurate monthly bookkeeping.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Expense data extraction from multiple sources",
+    "Monthly report generation",
+    "User-friendly interface for manual entry"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in consolidating expense data for accurate monthly bookkeeping.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, manual tracking causes cash flow gaps. We consolidate expense data instead of manual tracking and spreadsheet management.",
+    "current_alternative": "Manual tracking and spreadsheet management.",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Expense data extraction from multiple sources",
+      "Monthly report generation",
+      "User-friendly interface for manual entry"
     ]
   },
-  "one_liner": "Tool that reconciles monthly credit card statements with internal expense reports and flags discrepancies for accounting.",
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, manual tracking causes cash flow gaps. We consolidate expense data instead of manual tracking and spreadsheet management.",
   "source": {
     "idea_id": "idea_0021",
     "run_date": "2026-04-03",
-    "overlay_score": 69,
-    "arr_score": 71
+    "overlay_score": 78,
+    "arr_score": 78
   }
 }

@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Expense report generator that integrates with accounting systems for small businesses.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Expense report generator that integrates with accounting systems for small businesses.",
+  "name": "small business owners using QuickBooks for payroll processing 5\u201315 employees tool",
+  "description": "For small business owners using QuickBooks for payroll processing 5\u201315 employees, manual entry of employee hours causes payroll inaccuracies. We provide a timesheet aggregator instead of manual timesheet tracking and entry into QuickBooks.",
+  "target_audience": "small business owners using QuickBooks for payroll processing 5\u201315 employees",
+  "problem_solved": "manual entry of employee hours leading to payroll inaccuracies",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual entry of hours",
+    "export payroll reports",
+    "employee time tracking"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "small business owners using QuickBooks for payroll processing 5\u201315 employees",
+    "primary_problem": "manual entry of employee hours leading to payroll inaccuracies",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small business owners using QuickBooks for payroll processing 5\u201315 employees, manual entry of employee hours causes payroll inaccuracies. We provide a timesheet aggregator instead of manual timesheet tracking and entry into QuickBooks.",
+    "current_alternative": "manual timesheet tracking and entry into QuickBooks",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual entry of hours",
+      "export payroll reports",
+      "employee time tracking"
     ]
   },
-  "one_liner": "Expense report generator that integrates with accounting systems for small businesses.",
+  "one_liner": "For small business owners using QuickBooks for payroll processing 5\u201315 employees, manual entry of employee hours causes payroll inaccuracies. We provide a timesheet aggregator instead of manual timesheet tracking and entry into QuickBooks.",
   "source": {
     "idea_id": "idea_0057",
     "run_date": "2026-04-03",

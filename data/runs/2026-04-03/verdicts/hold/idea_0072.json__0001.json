@@ -1,16 +1,15 @@
 {
-  "idea_text": "Vendor contract management service that tracks renewals and alerts procurement teams.",
+  "idea_text": "Project accounting software that tracks budgets, invoices clients, and generates financial reports for consulting firms.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72,
+  "overlay_score": 58,
+  "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.383136",
-  "verdict_source": "overlay_score",
-  "hold_reason": "keep_cap"
+  "verdict_timestamp": "2026-04-03T11:57:21.145498",
+  "verdict_source": "overlay_score"
 }

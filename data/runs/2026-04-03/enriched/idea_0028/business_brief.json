@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "System that schedules and tracks equipment inspections for construction site managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "System that schedules and tracks equipment inspections for construction site managers.",
+  "name": "construction contractors managing 5-10 projects simultaneously tool",
+  "description": "For construction contractors managing 5-10 projects simultaneously, inefficient scheduling causes project delays. We automate equipment maintenance tracking instead of manual tracking via spreadsheets or paper logs.",
+  "target_audience": "construction contractors managing 5-10 projects simultaneously",
+  "problem_solved": "Inefficient scheduling and tracking of equipment maintenance leading to project delays.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "simple scheduling interface",
+    "tracking log for maintenance history",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "construction contractors managing 5-10 projects simultaneously",
+    "primary_problem": "Inefficient scheduling and tracking of equipment maintenance leading to project delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5-10 projects simultaneously, inefficient scheduling causes project delays. We automate equipment maintenance tracking instead of manual tracking via spreadsheets or paper logs.",
+    "current_alternative": "manual tracking via spreadsheets or paper logs",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "simple scheduling interface",
+      "tracking log for maintenance history",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "System that schedules and tracks equipment inspections for construction site managers.",
+  "one_liner": "For construction contractors managing 5-10 projects simultaneously, inefficient scheduling causes project delays. We automate equipment maintenance tracking instead of manual tracking via spreadsheets or paper logs.",
   "source": {
     "idea_id": "idea_0028",
     "run_date": "2026-04-03",
-    "overlay_score": 64,
-    "arr_score": 62
+    "overlay_score": 65,
+    "arr_score": 64
   }
 }

@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "logistics dispatch coordinators invoice tracking",
+    "logistics dispatch coordinators vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Service that generates daily supply chain exception reports for logistics warehouse supervisors.",
-    "unknown audience"
+    "For logistics dispatch coordinators processing 10\u201320 invoices/month, manual entry causes late payments and cash flow gaps. We automate the conversion of delivery logs into billing submissions instead of manual entry.",
+    "Manual conversion of delivery logs into billing submissions leads to errors and delays.",
+    "logistics dispatch coordinators processing 10\u201320 invoices/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "logistics dispatch coordinators invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | logistics dispatch coordinators tool",
+      "logistics dispatch coordinators tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with service that generates daily supply chain exception reports for logistics warehouse supervisors."
+      "logistics dispatch coordinators tool helps with manual conversion of delivery logs into billing submissions leads to errors and delays."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

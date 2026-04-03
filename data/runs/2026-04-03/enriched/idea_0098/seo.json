@@ -1,13 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "invoice payments",
+    "construction supervisors managing projects simultaneously invoice tracking",
+    "construction supervisors managing projects simultaneously vendor invoices",
     "invoice tracking",
-    "payment reminders",
-    "vendor invoices",
-    "client billing"
+    "lack of real"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -15,11 +12,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -30,37 +27,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Legal practice management system that automates document creation, client billing, and trust accounting for small law firms.",
-    "unknown audience"
+    "For construction supervisors managing 5\u201310 projects simultaneously, lack of real-time visibility causes project delays. We provide a dashboard instead of manual tracking through spreadsheets.",
+    "lack of real-time visibility into project status",
+    "construction supervisors managing 5\u201310 projects simultaneously"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -83,26 +81,14 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Invoice Tracking",
       "target_keyword": "invoice tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Vendor Invoices",
-      "target_keyword": "vendor invoices",
+      "title": "Lack Of Real",
+      "target_keyword": "lack of real",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -110,7 +96,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "construction supervisors managing projects simultaneously invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -136,11 +122,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | construction supervisors managing projects simultaneously tool",
+      "construction supervisors managing projects simultaneously tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with legal practice management system that automates document creation client billing and trust accounting for small law firms."
+      "construction supervisors managing projects simultaneously tool helps with lack of real-time visibility into project status."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

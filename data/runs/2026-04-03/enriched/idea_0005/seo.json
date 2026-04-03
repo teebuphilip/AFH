@@ -1,12 +1,9 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "invoice payments",
-    "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "property managers handling lease payments month invoice tracking",
+    "property managers handling lease payments month vendor invoices",
+    "payment reminders"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -14,11 +11,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to payment reminders",
+    "best payment reminders tool",
+    "payment reminders vs spreadsheets",
+    "payment reminders checklist",
+    "payment reminders pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -29,37 +26,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Tool that extracts and summarizes weekly sales commission data and emails reports to sales operations managers.",
-    "unknown audience"
+    "For property managers processing 5\u201315 lease payments/month, missed due dates cause late fees. We send automated reminders instead of manual tracking via spreadsheets or calendars.",
+    "Difficulty in tracking lease payment due dates",
+    "property managers handling 5\u201315 lease payments/month"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Payment Reminders",
+      "target_keyword": "how to payment reminders",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Payment Reminders Tool",
+      "target_keyword": "best payment reminders tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Payment Reminders Vs Spreadsheets",
+      "target_keyword": "payment reminders vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Payment Reminders Checklist",
+      "target_keyword": "payment reminders checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Payment Reminders Pricing",
+      "target_keyword": "payment reminders pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -82,26 +80,8 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Invoice Tracking",
-      "target_keyword": "invoice tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Payment Reminders",
       "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Vendor Invoices",
-      "target_keyword": "vendor invoices",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -109,7 +89,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "property managers handling lease payments month invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +115,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | property managers handling lease payments month tool",
+      "property managers handling lease payments month tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with tool that extracts and summarizes weekly sales commission data and emails reports to sales operations managers."
+      "property managers handling lease payments month tool helps with difficulty in tracking lease payment due dates."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

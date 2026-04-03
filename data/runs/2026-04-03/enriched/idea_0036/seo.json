@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "logistics carriers managing - vehicles invoice tracking",
+    "logistics carriers managing - vehicles vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Automation that prepares daily appointment reconciliation reports for medical clinic administrators.",
-    "unknown audience"
+    "For logistics carriers managing 10-20 vehicles, inaccurate fuel expense reporting causes cash flow gaps. We automate reconciliation instead of manual reconciliation of fuel purchases and mileage logs.",
+    "Inaccurate fuel expense reporting due to manual reconciliation.",
+    "logistics carriers managing 10-20 vehicles"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "logistics carriers managing - vehicles invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | logistics carriers managing - vehicles tool",
+      "logistics carriers managing - vehicles tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with automation that prepares daily appointment reconciliation reports for medical clinic administrators."
+      "logistics carriers managing - vehicles tool helps with inaccurate fuel expense reporting due to manual reconciliation."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Logistics operations dashboard that tracks shipments and alerts managers of delays.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Logistics operations dashboard that tracks shipments and alerts managers of delays.",
+  "name": "logistics coordinators for freight brokers managing 10-20 shipments/week tool",
+  "description": "For logistics coordinators processing 10-20 shipments/week, lack of visibility causes late orders. We provide a supply chain visibility dashboard instead of manual tracking through emails and phone calls.",
+  "target_audience": "logistics coordinators for freight brokers managing 10-20 shipments/week",
+  "problem_solved": "Lack of real-time visibility into shipment status and estimated time of arrival.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "real-time shipment status updates",
+    "ETA notifications",
+    "dashboard for tracking multiple shipments"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "logistics coordinators for freight brokers managing 10-20 shipments/week",
+    "primary_problem": "Lack of real-time visibility into shipment status and estimated time of arrival.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators processing 10-20 shipments/week, lack of visibility causes late orders. We provide a supply chain visibility dashboard instead of manual tracking through emails and phone calls.",
+    "current_alternative": "manual tracking through emails and phone calls",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "real-time shipment status updates",
+      "ETA notifications",
+      "dashboard for tracking multiple shipments"
     ]
   },
-  "one_liner": "Logistics operations dashboard that tracks shipments and alerts managers of delays.",
+  "one_liner": "For logistics coordinators processing 10-20 shipments/week, lack of visibility causes late orders. We provide a supply chain visibility dashboard instead of manual tracking through emails and phone calls.",
   "source": {
     "idea_id": "idea_0056",
     "run_date": "2026-04-03",

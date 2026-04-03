@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that extracts and summarizes weekly sales commission data and emails reports to sales operations managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that extracts and summarizes weekly sales commission data and emails reports to sales operations managers.",
+  "name": "property managers handling 5\u201315 lease payments/month tool",
+  "description": "For property managers processing 5\u201315 lease payments/month, missed due dates cause late fees. We send automated reminders instead of manual tracking via spreadsheets or calendars.",
+  "target_audience": "property managers handling 5\u201315 lease payments/month",
+  "problem_solved": "Difficulty in tracking lease payment due dates",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Monthly reminder notifications",
+    "Simple dashboard for tracking due dates",
+    "Manual entry for lease payment details"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "property managers handling 5\u201315 lease payments/month",
+    "primary_problem": "Difficulty in tracking lease payment due dates",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 lease payments/month, missed due dates cause late fees. We send automated reminders instead of manual tracking via spreadsheets or calendars.",
+    "current_alternative": "manual tracking via spreadsheets or calendars",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Monthly reminder notifications",
+      "Simple dashboard for tracking due dates",
+      "Manual entry for lease payment details"
     ]
   },
-  "one_liner": "Tool that extracts and summarizes weekly sales commission data and emails reports to sales operations managers.",
+  "one_liner": "For property managers processing 5\u201315 lease payments/month, missed due dates cause late fees. We send automated reminders instead of manual tracking via spreadsheets or calendars.",
   "source": {
     "idea_id": "idea_0005",
     "run_date": "2026-04-03",
-    "overlay_score": 66,
-    "arr_score": 65
+    "overlay_score": 69,
+    "arr_score": 72
   }
 }

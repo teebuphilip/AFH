@@ -1,12 +1,12 @@
 {
-  "idea_text": "Logistics optimization tool that plans truck routes, monitors driver hours, and generates regulatory compliance reports.",
+  "idea_text": "An accounting practice management system that streamlines client invoicing and bookkeeping.",
   "scores": {
-    "pricing_power": 70,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 71
+  "overlay_score": 58,
+  "arr_score": 58
 }

@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that schedules and tracks field service technician certifications for construction HR managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that schedules and tracks field service technician certifications for construction HR managers.",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, compliance documentation delays cause potential fines and project delays. We automate OSHA documentation preparation instead of manual documentation processes using spreadsheets and templates.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Difficulty in preparing OSHA compliance documentation accurately and on time.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "template library for OSHA forms",
+    "user-friendly interface for document customization",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Difficulty in preparing OSHA compliance documentation accurately and on time.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, compliance documentation delays cause potential fines and project delays. We automate OSHA documentation preparation instead of manual documentation processes using spreadsheets and templates.",
+    "current_alternative": "manual documentation processes using spreadsheets and templates",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "template library for OSHA forms",
+      "user-friendly interface for document customization",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Service that schedules and tracks field service technician certifications for construction HR managers.",
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, compliance documentation delays cause potential fines and project delays. We automate OSHA documentation preparation instead of manual documentation processes using spreadsheets and templates.",
   "source": {
     "idea_id": "idea_0040",
     "run_date": "2026-04-03",
-    "overlay_score": 64,
-    "arr_score": 62
+    "overlay_score": 67,
+    "arr_score": 66
   }
 }

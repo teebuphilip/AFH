@@ -1,13 +1,9 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "cash flow tracking",
-    "invoice payments",
-    "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "etsy sellers invoice tracking",
+    "etsy sellers vendor invoices",
+    "invoice tracking"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -15,11 +11,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to cash flow tracking",
-    "best cash flow tracking tool",
-    "cash flow tracking vs spreadsheets",
-    "cash flow tracking checklist",
-    "cash flow tracking pricing"
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -30,37 +26,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "System that monitors cash flow and alerts finance managers when thresholds are breached.",
-    "unknown audience"
+    "For Etsy sellers processing 5\u201315 invoices/month, delayed financial reporting causes cash flow gaps. We provide automated dashboards instead of manual spreadsheets.",
+    "Timely financial reporting",
+    "Etsy sellers processing 5\u201315 invoices/month"
   ],
   "content_plan": [
     {
-      "title": "How To Cash Flow Tracking",
-      "target_keyword": "how to cash flow tracking",
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Cash Flow Tracking Tool",
-      "target_keyword": "best cash flow tracking tool",
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Cash Flow Tracking Vs Spreadsheets",
-      "target_keyword": "cash flow tracking vs spreadsheets",
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Cash Flow Tracking Checklist",
-      "target_keyword": "cash flow tracking checklist",
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Cash Flow Tracking Pricing",
-      "target_keyword": "cash flow tracking pricing",
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -83,26 +80,8 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Cash Flow Tracking",
-      "target_keyword": "cash flow tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Invoice Tracking",
       "target_keyword": "invoice tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -110,7 +89,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "etsy sellers invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -136,11 +115,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | etsy sellers tool",
+      "etsy sellers tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with system that monitors cash flow and alerts finance managers when thresholds are breached."
+      "etsy sellers tool helps with timely financial reporting."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

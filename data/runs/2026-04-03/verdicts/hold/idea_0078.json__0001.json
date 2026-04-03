@@ -1,5 +1,5 @@
 {
-  "idea_text": "A construction project management system that schedules equipment rentals and tracks utilization for field supervisors.",
+  "idea_text": "A medical billing automation system that converts patient records into insurance claims for small clinics.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.384135",
+  "verdict_timestamp": "2026-04-03T11:57:21.146578",
   "verdict_source": "overlay_score"
 }

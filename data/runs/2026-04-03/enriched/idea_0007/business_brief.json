@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automation that reconciles freight invoices against shipping manifests and sends weekly exception reports to logistics ops.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automation that reconciles freight invoices against shipping manifests and sends weekly exception reports to logistics ops.",
+  "name": "Sales Operations Managers in Marketing Agencies processing 10\u201320 commission reports/week tool",
+  "description": "For Sales Operations Managers in Marketing Agencies processing 10\u201320 commission reports/week, inefficient manual compilation causes delays in commission payments. We automate report generation and email distribution instead of manual report compilation and email distribution.",
+  "target_audience": "Sales Operations Managers in Marketing Agencies processing 10\u201320 commission reports/week",
+  "problem_solved": "Inefficient manual compilation of sales commission reports",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Template-based report generation",
+    "Email scheduling for report delivery",
+    "User-friendly dashboard for report access"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": "Spreadsheets + calendar reminders",
+    "primary_user": "Sales Operations Managers in Marketing Agencies processing 10\u201320 commission reports/week",
+    "primary_problem": "Inefficient manual compilation of sales commission reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Managers in Marketing Agencies processing 10\u201320 commission reports/week, inefficient manual compilation causes delays in commission payments. We automate report generation and email distribution instead of manual report compilation and email distribution.",
+    "current_alternative": "Manual report compilation and email distribution",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Template-based report generation",
+      "Email scheduling for report delivery",
+      "User-friendly dashboard for report access"
     ]
   },
-  "one_liner": "Automation that reconciles freight invoices against shipping manifests and sends weekly exception reports to logistics ops.",
+  "one_liner": "For Sales Operations Managers in Marketing Agencies processing 10\u201320 commission reports/week, inefficient manual compilation causes delays in commission payments. We automate report generation and email distribution instead of manual report compilation and email distribution.",
   "source": {
     "idea_id": "idea_0007",
     "run_date": "2026-04-03",
-    "overlay_score": 67,
-    "arr_score": 66
+    "overlay_score": 66,
+    "arr_score": 65
   }
 }

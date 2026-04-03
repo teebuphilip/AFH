@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that monitors cash flow thresholds daily and sends alerts to finance operations when balances approach limits.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that monitors cash flow thresholds daily and sends alerts to finance operations when balances approach limits.",
+  "name": "logistics carriers processing 50\u2013100 shipments/month tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/month, delays in shipment delivery statuses cause late orders. We provide real-time alerts instead of manual tracking and notifications.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/month",
+  "problem_solved": "Delays in shipment delivery statuses",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Real-time shipment status monitoring",
+    "User-friendly dashboard for tracking",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/month",
+    "primary_problem": "Delays in shipment delivery statuses",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/month, delays in shipment delivery statuses cause late orders. We provide real-time alerts instead of manual tracking and notifications.",
+    "current_alternative": "manual tracking and notifications",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Real-time shipment status monitoring",
+      "User-friendly dashboard for tracking",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Service that monitors cash flow thresholds daily and sends alerts to finance operations when balances approach limits.",
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/month, delays in shipment delivery statuses cause late orders. We provide real-time alerts instead of manual tracking and notifications.",
   "source": {
     "idea_id": "idea_0010",
     "run_date": "2026-04-03",

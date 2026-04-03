@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Billing and coding automation for small medical clinics to streamline insurance submissions and payment reconciliation.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Billing and coding automation for small medical clinics to streamline insurance submissions and payment reconciliation.",
+  "name": "logistics carriers managing 5-15 vehicles tool",
+  "description": "For logistics carriers managing 5-15 vehicles, inefficient maintenance scheduling causes unexpected breakdowns. We provide automated diagnostics monitoring instead of manual tracking of vehicle maintenance schedules.",
+  "target_audience": "logistics carriers managing 5-15 vehicles",
+  "problem_solved": "Inefficient vehicle maintenance scheduling leading to unexpected breakdowns.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "vehicle diagnostics monitoring",
+    "maintenance scheduling alerts",
+    "manual entry for vehicle data"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "logistics carriers managing 5-15 vehicles",
+    "primary_problem": "Inefficient vehicle maintenance scheduling leading to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5-15 vehicles, inefficient maintenance scheduling causes unexpected breakdowns. We provide automated diagnostics monitoring instead of manual tracking of vehicle maintenance schedules.",
+    "current_alternative": "manual tracking of vehicle maintenance schedules",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "vehicle diagnostics monitoring",
+      "maintenance scheduling alerts",
+      "manual entry for vehicle data"
     ]
   },
-  "one_liner": "Billing and coding automation for small medical clinics to streamline insurance submissions and payment reconciliation.",
+  "one_liner": "For logistics carriers managing 5-15 vehicles, inefficient maintenance scheduling causes unexpected breakdowns. We provide automated diagnostics monitoring instead of manual tracking of vehicle maintenance schedules.",
   "source": {
     "idea_id": "idea_0079",
     "run_date": "2026-04-03",
-    "overlay_score": 64,
-    "arr_score": 62
+    "overlay_score": 74,
+    "arr_score": 74
   }
 }

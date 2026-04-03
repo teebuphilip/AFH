@@ -1,15 +1,15 @@
 {
-  "idea_text": "Service that generates daily supply chain exception reports for logistics warehouse supervisors.",
+  "idea_text": "Automation that converts delivery logs into billing submissions for logistics dispatch coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.378522",
+  "verdict_timestamp": "2026-04-03T11:57:21.141304",
   "verdict_source": "overlay_score"
 }

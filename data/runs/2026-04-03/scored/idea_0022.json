@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors daily bank transactions for unusual activity and alerts finance teams to potential fraud.",
+  "idea_text": "Service that tracks property maintenance requests and sends weekly status updates to property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 60,
+  "arr_score": 61
 }

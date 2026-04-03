@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that prepares monthly tax compliance summaries for accounting firms servicing small businesses.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that prepares monthly tax compliance summaries for accounting firms servicing small businesses.",
+  "name": "property managers processing 10\u201320 invoices/month tool",
+  "description": "For property managers processing 10\u201320 invoices/month, discrepancies between vendor invoices and purchase orders cause cash flow gaps. We provide automated reconciliation instead of manual reconciliation processes.",
+  "target_audience": "property managers processing 10\u201320 invoices/month",
+  "problem_solved": "discrepancies between vendor invoices and purchase orders",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual invoice entry",
+    "purchase order matching",
+    "discrepancy reporting"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "property managers processing 10\u201320 invoices/month",
+    "primary_problem": "discrepancies between vendor invoices and purchase orders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 invoices/month, discrepancies between vendor invoices and purchase orders cause cash flow gaps. We provide automated reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual invoice entry",
+      "purchase order matching",
+      "discrepancy reporting"
     ]
   },
-  "one_liner": "Tool that prepares monthly tax compliance summaries for accounting firms servicing small businesses.",
+  "one_liner": "For property managers processing 10\u201320 invoices/month, discrepancies between vendor invoices and purchase orders cause cash flow gaps. We provide automated reconciliation instead of manual reconciliation processes.",
   "source": {
     "idea_id": "idea_0043",
     "run_date": "2026-04-03",
-    "overlay_score": 86,
-    "arr_score": 88
+    "overlay_score": 62,
+    "arr_score": 63
   }
 }

@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Automated medical coding and billing solution that converts patient records into insurance claims for small practices.",
-  "problem": "Automated medical coding and billing solution that converts patient records into insurance claims for small practices.",
+  "who": "restaurant managers overseeing 10-20 employees",
+  "offer": "For restaurant managers overseeing 10-20 employees, inefficient manual scheduling causes employee dissatisfaction and scheduling conflicts. We automate shift planning instead of manual scheduling via spreadsheets.",
+  "problem": "Inefficient manual scheduling leads to employee dissatisfaction and scheduling conflicts.",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for restaurant managers",
+    "Indie Hackers discussions on scheduling tools",
+    "DM outreach to restaurant managers with demo video",
+    "Community forums for restaurant management tools"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try shift planning and time-off management features",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
-    "Collect 10 short interviews from target users",
-    "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of scheduling process",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant online communities"
   ],
   "automation_simplification_ideas": [
-    "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of a simple report",
-    "Fewer steps in onboarding"
+    "Create templates for common scheduling scenarios",
+    "Set default reminders for shifts",
+    "Allow CSV imports for existing schedules",
+    "Enable one-click report exports",
+    "Streamline onboarding process for new users"
   ]
 }

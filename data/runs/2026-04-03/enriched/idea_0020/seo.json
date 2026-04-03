@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "shopify store owners invoice tracking",
+    "shopify store owners vendor invoices",
     "invoice payments",
     "invoice tracking",
     "payment reminders",
@@ -29,8 +29,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "System that tracks employee benefit enrollment changes and automates monthly updates to payroll systems for HR ops.",
-    "unknown audience"
+    "For Shopify store owners processing 10\u201320 invoices/month, missed invoice due dates cause stock shortages. We send automated payment reminders instead of manual tracking with spreadsheets.",
+    "Late payments to suppliers due to missed invoice due dates.",
+    "Shopify store owners processing 10\u201320 invoices/month"
   ],
   "content_plan": [
     {
@@ -109,7 +110,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "shopify store owners invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +136,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | shopify store owners tool",
+      "shopify store owners tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with system that tracks employee benefit enrollment changes and automates monthly updates to payroll systems for hr ops."
+      "shopify store owners tool helps with late payments to suppliers due to missed invoice due dates."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

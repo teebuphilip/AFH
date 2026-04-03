@@ -1,12 +1,12 @@
 {
-  "idea_text": "Construction project planning tool that schedules subcontractors, tracks budgets, and generates progress reports for general contractors.",
+  "idea_text": "A restaurant inventory forecasting tool that suggests order quantities based on sales trends.",
   "scores": {
-    "pricing_power": 70,
+    "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 68,
-  "arr_score": 67
+  "overlay_score": 62,
+  "arr_score": 62
 }

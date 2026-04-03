@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "finance officers at law firms invoice tracking",
+    "finance officers at law firms vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "System that tracks and reports property lease renewal deadlines for property management leasing agents.",
-    "unknown audience"
+    "For finance officers at law firms processing 5\u201315 trust account reconciliations/month, manual reconciliation causes compliance risks. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+    "manual reconciliation processes lead to errors and compliance risks.",
+    "finance officers at law firms processing 5\u201315 trust account reconciliations/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "finance officers at law firms invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | finance officers at law firms tool",
+      "finance officers at law firms tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with system that tracks and reports property lease renewal deadlines for property management leasing agents."
+      "finance officers at law firms tool helps with manual reconciliation processes lead to errors and compliance risks."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automation that compiles patient insurance eligibility checks and flags issues for medical billing coordinators.",
+  "idea_text": "System that tracks and reports on insurance claim denials for claims processing managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.378696",
+  "verdict_timestamp": "2026-04-03T11:57:21.141490",
   "verdict_source": "overlay_score"
 }

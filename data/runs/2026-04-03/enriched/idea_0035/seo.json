@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "medical clinic billing coordinators invoice tracking",
+    "medical clinic billing coordinators vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
-    "unknown audience"
+    "For medical clinic billing coordinators processing 10\u201320 invoices/month, missed reminders cause cash flow gaps. We automate scheduling and reminder notifications instead of manual scheduling and reminder notifications via email or phone calls.",
+    "Timely scheduling and reminders for billing processes.",
+    "medical clinic billing coordinators processing 10\u201320 invoices/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "medical clinic billing coordinators invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | medical clinic billing coordinators tool",
+      "medical clinic billing coordinators tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with tool that reconciles subcontractor invoices with project milestones for construction project coordinators."
+      "medical clinic billing coordinators tool helps with timely scheduling and reminders for billing processes."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

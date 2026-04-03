@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "System that reconciles monthly lease payments with bank transactions and alerts property managers on mismatches.",
-  "target_audience": "unknown audience",
-  "problem_solved": "System that reconciles monthly lease payments with bank transactions and alerts property managers on mismatches.",
+  "name": "accounting firms processing 5\u201315 petty cash transactions/month tool",
+  "description": "For accounting firms processing 5\u201315 petty cash transactions/month, manual reconciliation causes delays in financial reporting. We automate reconciliation instead of manual reconciliation and exception reporting via spreadsheets.",
+  "target_audience": "accounting firms processing 5\u201315 petty cash transactions/month",
+  "problem_solved": "Daily reconciliation of petty cash transactions is time-consuming and error-prone.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "daily transaction logging",
+    "email notifications for discrepancies",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "accounting firms processing 5\u201315 petty cash transactions/month",
+    "primary_problem": "Daily reconciliation of petty cash transactions is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 petty cash transactions/month, manual reconciliation causes delays in financial reporting. We automate reconciliation instead of manual reconciliation and exception reporting via spreadsheets.",
+    "current_alternative": "manual reconciliation and exception reporting via spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "daily transaction logging",
+      "email notifications for discrepancies",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "System that reconciles monthly lease payments with bank transactions and alerts property managers on mismatches.",
+  "one_liner": "For accounting firms processing 5\u201315 petty cash transactions/month, manual reconciliation causes delays in financial reporting. We automate reconciliation instead of manual reconciliation and exception reporting via spreadsheets.",
   "source": {
     "idea_id": "idea_0016",
     "run_date": "2026-04-03",
-    "overlay_score": 82,
-    "arr_score": 82
+    "overlay_score": 58,
+    "arr_score": 58
   }
 }

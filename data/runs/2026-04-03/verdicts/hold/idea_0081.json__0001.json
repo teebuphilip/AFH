@@ -1,15 +1,15 @@
 {
-  "idea_text": "Restaurant inventory management system that tracks ordering, waste, and costs, and generates financial reports for owners.",
+  "idea_text": "A time tracking and billing application for legal and accounting professionals.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 55,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58,
+  "overlay_score": 59,
+  "arr_score": 60,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.384682",
+  "verdict_timestamp": "2026-04-03T11:57:21.147076",
   "verdict_source": "overlay_score"
 }

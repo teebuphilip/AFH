@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that generates daily supply chain exception reports for logistics warehouse supervisors.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that generates daily supply chain exception reports for logistics warehouse supervisors.",
+  "name": "logistics dispatch coordinators processing 10\u201320 invoices/month tool",
+  "description": "For logistics dispatch coordinators processing 10\u201320 invoices/month, manual entry causes late payments and cash flow gaps. We automate the conversion of delivery logs into billing submissions instead of manual entry.",
+  "target_audience": "logistics dispatch coordinators processing 10\u201320 invoices/month",
+  "problem_solved": "Manual conversion of delivery logs into billing submissions leads to errors and delays.",
   "features": [
+    "manual override option for adjustments",
     "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Vendor list management"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "logistics dispatch coordinators processing 10\u201320 invoices/month",
+    "primary_problem": "Manual conversion of delivery logs into billing submissions leads to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics dispatch coordinators processing 10\u201320 invoices/month, manual entry causes late payments and cash flow gaps. We automate the conversion of delivery logs into billing submissions instead of manual entry.",
+    "current_alternative": "manual entry of billing submissions from delivery logs",
     "must_have_features": [
+      "manual override option for adjustments",
       "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Vendor list management"
     ]
   },
-  "one_liner": "Service that generates daily supply chain exception reports for logistics warehouse supervisors.",
+  "one_liner": "For logistics dispatch coordinators processing 10\u201320 invoices/month, manual entry causes late payments and cash flow gaps. We automate the conversion of delivery logs into billing submissions instead of manual entry.",
   "source": {
     "idea_id": "idea_0048",
     "run_date": "2026-04-03",
-    "overlay_score": 55,
-    "arr_score": 55
+    "overlay_score": 64,
+    "arr_score": 62
   }
 }

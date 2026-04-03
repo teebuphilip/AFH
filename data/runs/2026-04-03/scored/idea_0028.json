@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that schedules and tracks equipment inspections for construction site managers.",
+  "idea_text": "Automation that schedules and tracks equipment maintenance for construction site managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 65,
+  "arr_score": 64
 }

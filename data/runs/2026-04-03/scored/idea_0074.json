@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated time tracking and leave management system for small operations teams.",
+  "idea_text": "Facility management system that monitors energy usage, maintenance schedules, and compliance for property owners.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 67,
+  "arr_score": 66
 }

@@ -1,12 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "invoice payments",
+    "logistics carriers managing vehicles invoice tracking",
+    "logistics carriers managing vehicles vendor invoices",
     "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "we provide real"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -14,11 +12,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -29,37 +27,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Inventory management system that forecasts demand and triggers replenishment orders.",
-    "unknown audience"
+    "For logistics carriers processing 5\u201315 vehicles, inefficient monitoring of driver behavior causes increased fuel costs. We provide real-time insights instead of manual tracking and reporting.",
+    "Inefficient monitoring of driver behavior and fuel consumption",
+    "logistics carriers managing 5\u201315 vehicles"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -82,26 +81,14 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Invoice Tracking",
       "target_keyword": "invoice tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Vendor Invoices",
-      "target_keyword": "vendor invoices",
+      "title": "We Provide Real",
+      "target_keyword": "we provide real",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -109,7 +96,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "logistics carriers managing vehicles invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +122,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | logistics carriers managing vehicles tool",
+      "logistics carriers managing vehicles tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with inventory management system that forecasts demand and triggers replenishment orders."
+      "logistics carriers managing vehicles tool helps with inefficient monitoring of driver behavior and fuel consumption."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

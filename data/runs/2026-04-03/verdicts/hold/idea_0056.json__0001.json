@@ -1,5 +1,5 @@
 {
-  "idea_text": "Logistics operations dashboard that tracks shipments and alerts managers of delays.",
+  "idea_text": "Supply chain visibility dashboard that monitors shipment status and ETA for logistics coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.380505",
+  "verdict_timestamp": "2026-04-03T11:57:21.143080",
   "verdict_source": "overlay_score"
 }

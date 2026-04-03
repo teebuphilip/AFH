@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automated employee onboarding platform that generates documents and checklists.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automated employee onboarding platform that generates documents and checklists.",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, regulatory compliance changes cause missed deadlines and potential penalties. We provide a compliance dashboard instead of manual tracking.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Difficulty in staying updated with regulatory compliance changes.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "real-time compliance alerts",
+    "dashboard for tracking compliance status",
+    "industry standards aggregation"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Difficulty in staying updated with regulatory compliance changes.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, regulatory compliance changes cause missed deadlines and potential penalties. We provide a compliance dashboard instead of manual tracking.",
+    "current_alternative": "manual tracking of compliance updates through newsletters and websites.",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "real-time compliance alerts",
+      "dashboard for tracking compliance status",
+      "industry standards aggregation"
     ]
   },
-  "one_liner": "Automated employee onboarding platform that generates documents and checklists.",
+  "one_liner": "For accounting firms managing 5\u201315 clients, regulatory compliance changes cause missed deadlines and potential penalties. We provide a compliance dashboard instead of manual tracking.",
   "source": {
     "idea_id": "idea_0071",
     "run_date": "2026-04-03",
-    "overlay_score": 64,
-    "arr_score": 62
+    "overlay_score": 76,
+    "arr_score": 76
   }
 }

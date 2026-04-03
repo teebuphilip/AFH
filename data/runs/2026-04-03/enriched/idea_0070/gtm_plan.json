@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Payroll compliance tool that handles tax filings and payments for small businesses.",
-  "problem": "Payroll compliance tool that handles tax filings and payments for small businesses.",
+  "who": "operations leaders in restaurants processing 20-50 staff schedules/week",
+  "offer": "For operations leaders in restaurants processing 20-50 staff schedules/week, inefficient scheduling causes operational disruptions. We provide scheduling recommendations instead of manual scheduling spreadsheets.",
+  "problem": "inefficient staff scheduling leading to operational disruptions",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for restaurant operations leaders",
+    "Indie Hackers posts about scheduling challenges",
+    "DM outreach with demo video to target leaders",
+    "Community forums for sharing scheduling tools"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try manual input for staff availability and visual scheduling interface on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
     "1-page landing page with the one-liner and CTA",

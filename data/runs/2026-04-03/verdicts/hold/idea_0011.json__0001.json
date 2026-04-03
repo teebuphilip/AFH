@@ -1,16 +1,16 @@
 {
-  "idea_text": "Automation that converts raw payroll tax filings into compliance-ready reports for HR compliance officers.",
+  "idea_text": "Automation that extracts and formats vendor payment data into quarterly audit reports for accounting teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66,
+  "overlay_score": 72,
+  "arr_score": 72,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.372153",
+  "verdict_timestamp": "2026-04-03T11:57:21.135471",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

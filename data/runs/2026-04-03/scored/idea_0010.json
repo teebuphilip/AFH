@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that monitors cash flow thresholds daily and sends alerts to finance operations when balances approach limits.",
+  "idea_text": "Service that monitors shipment delivery statuses and sends alerts to logistics ops when delays occur.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,

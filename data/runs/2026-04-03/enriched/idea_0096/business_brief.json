@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Logistics reporting dashboard that monitors fleet performance, driver compliance, and operational metrics for transportation companies.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Logistics reporting dashboard that monitors fleet performance, driver compliance, and operational metrics for transportation companies.",
+  "name": "property managers handling 10-50 units tool",
+  "description": "For property managers handling 10-50 units, inefficient tenant communication causes delayed work orders. We automate tenant communication instead of manual communication and tracking via email and spreadsheets.",
+  "target_audience": "property managers handling 10-50 units",
+  "problem_solved": "inefficient tenant communication and delayed work order processing",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "work order tracking dashboard",
+    "notification system for updates",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "property managers handling 10-50 units",
+    "primary_problem": "inefficient tenant communication and delayed work order processing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-50 units, inefficient tenant communication causes delayed work orders. We automate tenant communication instead of manual communication and tracking via email and spreadsheets.",
+    "current_alternative": "manual communication and tracking via email and spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "work order tracking dashboard",
+      "notification system for updates",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Logistics reporting dashboard that monitors fleet performance, driver compliance, and operational metrics for transportation companies.",
+  "one_liner": "For property managers handling 10-50 units, inefficient tenant communication causes delayed work orders. We automate tenant communication instead of manual communication and tracking via email and spreadsheets.",
   "source": {
     "idea_id": "idea_0096",
     "run_date": "2026-04-03",
-    "overlay_score": 76,
-    "arr_score": 76
+    "overlay_score": 64,
+    "arr_score": 62
   }
 }

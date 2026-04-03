@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automation that generates weekly cash forecast reports from ERP data and sends them to treasury managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automation that generates weekly cash forecast reports from ERP data and sends them to treasury managers.",
+  "name": "accounting firms processing 10\u201350 invoices/month tool",
+  "description": "For accounting firms processing 10\u201350 invoices/month, manual calculations cause late tax filings. We automate report generation instead of manual spreadsheet calculations.",
+  "target_audience": "accounting firms processing 10\u201350 invoices/month",
+  "problem_solved": "Inaccurate sales tax reporting due to manual processes.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual data entry for transactions",
+    "monthly report generation",
+    "error-checking for tax calculations"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "accounting firms processing 10\u201350 invoices/month",
+    "primary_problem": "Inaccurate sales tax reporting due to manual processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201350 invoices/month, manual calculations cause late tax filings. We automate report generation instead of manual spreadsheet calculations.",
+    "current_alternative": "manual spreadsheet calculations",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual data entry for transactions",
+      "monthly report generation",
+      "error-checking for tax calculations"
     ]
   },
-  "one_liner": "Automation that generates weekly cash forecast reports from ERP data and sends them to treasury managers.",
+  "one_liner": "For accounting firms processing 10\u201350 invoices/month, manual calculations cause late tax filings. We automate report generation instead of manual spreadsheet calculations.",
   "source": {
     "idea_id": "idea_0023",
     "run_date": "2026-04-03",
-    "overlay_score": 65,
-    "arr_score": 64
+    "overlay_score": 86,
+    "arr_score": 88
   }
 }

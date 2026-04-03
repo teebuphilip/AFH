@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "property managers handling - rental units invoice tracking",
+    "property managers handling - rental units vendor invoices",
     "invoice payments",
     "invoice tracking",
     "payment reminders",
@@ -29,8 +29,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Contract management tool that automates document generation, e-signatures, and compliance tracking for small law firms.",
-    "unknown audience"
+    "For property managers handling 10-20 rental units, inefficient tenant communication causes late rent payments. We automate tenant communication and rent collection instead of manual communication and rent collection processes.",
+    "Inefficient tenant communication and delayed rent collection",
+    "property managers handling 10-20 rental units"
   ],
   "content_plan": [
     {
@@ -109,7 +110,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "property managers handling - rental units invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +136,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | property managers handling - rental units tool",
+      "property managers handling - rental units tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with contract management tool that automates document generation e-signatures and compliance tracking for small law firms."
+      "property managers handling - rental units tool helps with inefficient tenant communication and delayed rent collection."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

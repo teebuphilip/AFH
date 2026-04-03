@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Automation that generates monthly expense allocation reports from aggregated credit card data for finance operations teams.",
-  "problem": "Automation that generates monthly expense allocation reports from aggregated credit card data for finance operations teams.",
+  "who": "accounting firms processing 5\u201315 payrolls/month",
+  "offer": "For accounting firms processing 5\u201315 payrolls/month, delays in payroll tax filings cause penalties. We automate the generation of monthly payroll tax filings instead of manual preparation of payroll tax filings.",
+  "problem": "timely payroll tax filings",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for accounting help",
+    "Engage in Indie Hackers discussions on payroll",
+    "DM outreach to accounting firms with demo video",
+    "Participate in forums for accounting tools"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try manual review option and reminders for filings",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
-    "Collect 10 short interviews from target users",
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual-first workflow",
+    "Conduct 10 short interviews with target users",
     "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Share weekly updates in relevant communities"
   ],
   "automation_simplification_ideas": [
     "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of a simple report",
-    "Fewer steps in onboarding"
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
   ]
 }

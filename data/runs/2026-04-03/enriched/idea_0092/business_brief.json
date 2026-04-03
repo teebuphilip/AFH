@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Vacation rental channel management software that lists properties, handles guest communication, and collects payments for property managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Vacation rental channel management software that lists properties, handles guest communication, and collects payments for property managers.",
+  "name": "medical clinics processing 50\u2013100 appointments/week tool",
+  "description": "For medical clinics processing 50\u2013100 appointments/week, inefficient scheduling causes missed appointments. We optimize patient flow instead of manual scheduling via phone and paper calendars.",
+  "target_audience": "medical clinics processing 50\u2013100 appointments/week",
+  "problem_solved": "inefficient patient scheduling leading to missed appointments and overbooked slots",
   "features": [
+    "simple appointment booking interface",
     "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Vendor list management"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "medical clinics processing 50\u2013100 appointments/week",
+    "primary_problem": "inefficient patient scheduling leading to missed appointments and overbooked slots",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 50\u2013100 appointments/week, inefficient scheduling causes missed appointments. We optimize patient flow instead of manual scheduling via phone and paper calendars.",
+    "current_alternative": "manual scheduling via phone and paper calendars",
     "must_have_features": [
+      "simple appointment booking interface",
       "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Vendor list management"
     ]
   },
-  "one_liner": "Vacation rental channel management software that lists properties, handles guest communication, and collects payments for property managers.",
+  "one_liner": "For medical clinics processing 50\u2013100 appointments/week, inefficient scheduling causes missed appointments. We optimize patient flow instead of manual scheduling via phone and paper calendars.",
   "source": {
     "idea_id": "idea_0092",
     "run_date": "2026-04-03",
-    "overlay_score": 59,
-    "arr_score": 60
+    "overlay_score": 64,
+    "arr_score": 62
   }
 }

@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automation that prepares daily appointment reconciliation reports for medical clinic administrators.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automation that prepares daily appointment reconciliation reports for medical clinic administrators.",
+  "name": "logistics carriers managing 10-20 vehicles tool",
+  "description": "For logistics carriers managing 10-20 vehicles, inaccurate fuel expense reporting causes cash flow gaps. We automate reconciliation instead of manual reconciliation of fuel purchases and mileage logs.",
+  "target_audience": "logistics carriers managing 10-20 vehicles",
+  "problem_solved": "Inaccurate fuel expense reporting due to manual reconciliation.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual entry for fuel purchase data",
+    "manual entry for mileage logs",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "logistics carriers managing 10-20 vehicles",
+    "primary_problem": "Inaccurate fuel expense reporting due to manual reconciliation.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 10-20 vehicles, inaccurate fuel expense reporting causes cash flow gaps. We automate reconciliation instead of manual reconciliation of fuel purchases and mileage logs.",
+    "current_alternative": "manual reconciliation of fuel purchases and mileage logs",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual entry for fuel purchase data",
+      "manual entry for mileage logs",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Automation that prepares daily appointment reconciliation reports for medical clinic administrators.",
+  "one_liner": "For logistics carriers managing 10-20 vehicles, inaccurate fuel expense reporting causes cash flow gaps. We automate reconciliation instead of manual reconciliation of fuel purchases and mileage logs.",
   "source": {
     "idea_id": "idea_0036",
     "run_date": "2026-04-03",
-    "overlay_score": 64,
-    "arr_score": 62
+    "overlay_score": 67,
+    "arr_score": 66
   }
 }

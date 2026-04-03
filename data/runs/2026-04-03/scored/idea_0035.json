@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
+  "idea_text": "Service that automates scheduling and reminder notifications for clinic billing coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 64,
+  "arr_score": 62
 }

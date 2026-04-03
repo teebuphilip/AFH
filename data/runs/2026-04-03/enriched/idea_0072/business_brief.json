@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Vendor contract management service that tracks renewals and alerts procurement teams.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Vendor contract management service that tracks renewals and alerts procurement teams.",
+  "name": "consulting agencies processing 5\u201315 invoices/month tool",
+  "description": "For consulting agencies processing 5\u201315 invoices/month, budget tracking issues cause cash flow gaps. We provide project accounting software instead of manual spreadsheets and generic accounting software.",
+  "target_audience": "consulting agencies processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in tracking budgets and generating timely financial reports.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Budget tracking",
+    "Invoice generation",
+    "Financial report generation"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "consulting agencies processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in tracking budgets and generating timely financial reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For consulting agencies processing 5\u201315 invoices/month, budget tracking issues cause cash flow gaps. We provide project accounting software instead of manual spreadsheets and generic accounting software.",
+    "current_alternative": "manual spreadsheets and generic accounting software",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Budget tracking",
+      "Invoice generation",
+      "Financial report generation"
     ]
   },
-  "one_liner": "Vendor contract management service that tracks renewals and alerts procurement teams.",
+  "one_liner": "For consulting agencies processing 5\u201315 invoices/month, budget tracking issues cause cash flow gaps. We provide project accounting software instead of manual spreadsheets and generic accounting software.",
   "source": {
     "idea_id": "idea_0072",
     "run_date": "2026-04-03",
-    "overlay_score": 72,
-    "arr_score": 72
+    "overlay_score": 58,
+    "arr_score": 58
   }
 }

@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "insurance brokers invoice tracking",
+    "insurance brokers vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
-    "vendor invoices",
-    "a web"
+    "vendor invoices"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -30,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "A web-based tool that automatically generates and files quarterly tax reports for small property management firms.",
-    "unknown audience"
+    "For insurance brokers processing 10\u201320 claims/month, delays in claim processing cause client dissatisfaction. We streamline the submission and tracking of claims instead of manual tracking and submission of claims via email and spreadsheets.",
+    "Delays in claim processing lead to client dissatisfaction.",
+    "insurance brokers processing 10\u201320 claims/month"
   ],
   "content_plan": [
     {
@@ -95,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -110,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "insurance brokers invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -136,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | insurance brokers tool",
+      "insurance brokers tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with a web-based tool that automatically generates and files quarterly tax reports for small property management firms."
+      "insurance brokers tool helps with delays in claim processing lead to client dissatisfaction."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

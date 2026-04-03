@@ -1,12 +1,12 @@
 {
-  "idea_text": "Bookkeeping automation that syncs financial accounts, generates invoices, and prepares tax filings for small businesses.",
+  "idea_text": "A construction project cost tracking software that monitors budgets and flags variances.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 76,
-  "arr_score": 76
+  "overlay_score": 64,
+  "arr_score": 62
 }

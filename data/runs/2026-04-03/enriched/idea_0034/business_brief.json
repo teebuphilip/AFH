@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that automates monthly insurance policy renewal compliance reports for insurance brokers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that automates monthly insurance policy renewal compliance reports for insurance brokers.",
+  "name": "insurance brokers processing 5\u201315 clients/month tool",
+  "description": "For insurance brokers processing 5\u201315 clients/month, inaccurate premium calculations cause client dissatisfaction. We generate precise monthly audit reports instead of manual calculations and spreadsheets.",
+  "target_audience": "insurance brokers processing 5\u201315 clients/month",
+  "problem_solved": "Inaccurate premium calculations leading to client dissatisfaction.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "customizable report templates",
+    "user-friendly interface for data input",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "insurance brokers processing 5\u201315 clients/month",
+    "primary_problem": "Inaccurate premium calculations leading to client dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 5\u201315 clients/month, inaccurate premium calculations cause client dissatisfaction. We generate precise monthly audit reports instead of manual calculations and spreadsheets.",
+    "current_alternative": "manual calculations and spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "customizable report templates",
+      "user-friendly interface for data input",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Service that automates monthly insurance policy renewal compliance reports for insurance brokers.",
+  "one_liner": "For insurance brokers processing 5\u201315 clients/month, inaccurate premium calculations cause client dissatisfaction. We generate precise monthly audit reports instead of manual calculations and spreadsheets.",
   "source": {
     "idea_id": "idea_0034",
     "run_date": "2026-04-03",
-    "overlay_score": 78,
-    "arr_score": 78
+    "overlay_score": 66,
+    "arr_score": 67
   }
 }

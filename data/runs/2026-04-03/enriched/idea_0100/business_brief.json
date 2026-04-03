@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Vacation rental distribution and revenue management tool that optimizes pricing, booking, and guest communications for property management companies.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Vacation rental distribution and revenue management tool that optimizes pricing, booking, and guest communications for property management companies.",
+  "name": "property managers handling 5\u201315 vacation rentals tool",
+  "description": "For property managers processing 5\u201315 vacation rentals, inefficient pricing strategies cause lost revenue opportunities. We optimize pricing and guest communications instead of manual pricing adjustments and guest communication via email.",
+  "target_audience": "property managers handling 5\u201315 vacation rentals",
+  "problem_solved": "inefficient pricing strategies leading to lost revenue opportunities",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual pricing adjustment tools",
+    "guest communication templates",
+    "booking calendar management"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "property managers handling 5\u201315 vacation rentals",
+    "primary_problem": "inefficient pricing strategies leading to lost revenue opportunities",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 vacation rentals, inefficient pricing strategies cause lost revenue opportunities. We optimize pricing and guest communications instead of manual pricing adjustments and guest communication via email.",
+    "current_alternative": "manual pricing adjustments and guest communication via email",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual pricing adjustment tools",
+      "guest communication templates",
+      "booking calendar management"
     ]
   },
-  "one_liner": "Vacation rental distribution and revenue management tool that optimizes pricing, booking, and guest communications for property management companies.",
+  "one_liner": "For property managers processing 5\u201315 vacation rentals, inefficient pricing strategies cause lost revenue opportunities. We optimize pricing and guest communications instead of manual pricing adjustments and guest communication via email.",
   "source": {
     "idea_id": "idea_0100",
     "run_date": "2026-04-03",

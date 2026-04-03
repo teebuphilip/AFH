@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Automation that reconciles legal trust account transactions and generates compliance reports for law firm accountants.",
-  "problem": "Automation that reconciles legal trust account transactions and generates compliance reports for law firm accountants.",
+  "who": "restaurant back office controllers processing 5\u201315 labor cost summaries/week",
+  "offer": "For restaurant back office controllers processing 5\u201315 labor cost summaries/week, inaccurate tracking causes budget overruns. We provide automated summaries instead of manual spreadsheets.",
+  "problem": "Inaccurate labor cost tracking leads to budget overruns.",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for restaurant back office controllers",
+    "Indie Hackers posts on workflow challenges",
+    "DM outreach to restaurant back office controllers with demo video",
+    "Community forums for sharing tools and solutions"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try manual entry for labor hours and summaries",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
-    "Collect 10 short interviews from target users",
-    "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Create a simple landing page with the one-liner",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
   ],
   "automation_simplification_ideas": [
-    "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of a simple report",
-    "Fewer steps in onboarding"
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing labor data",
+    "Enable one-click export of summary reports",
+    "Streamline onboarding process with fewer steps"
   ]
 }

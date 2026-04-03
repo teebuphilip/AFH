@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Service that automates monthly insurance policy renewal compliance reports for insurance brokers.",
-  "problem": "Service that automates monthly insurance policy renewal compliance reports for insurance brokers.",
+  "who": "insurance brokers processing 5\u201315 clients/month",
+  "offer": "For insurance brokers processing 5\u201315 clients/month, inaccurate premium calculations cause client dissatisfaction. We generate precise monthly audit reports instead of manual calculations and spreadsheets.",
+  "problem": "Inaccurate premium calculations leading to client dissatisfaction.",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for insurance brokers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to insurance brokers with demo video",
+    "Share insights in community forums for brokers"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try customizable report templates and user-friendly interface for data input on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
     "1-page landing page with the one-liner and CTA",

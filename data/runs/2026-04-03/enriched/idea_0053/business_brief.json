@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that converts payroll data into standardized reports for HR operations.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that converts payroll data into standardized reports for HR operations.",
+  "name": "Etsy sellers managing 10-50 products tool",
+  "description": "For Etsy sellers processing 10-50 products/month, low stock levels cause missed sales opportunities. We provide automated low stock alerts instead of manual inventory tracking via spreadsheets.",
+  "target_audience": "Etsy sellers managing 10-50 products",
+  "problem_solved": "Inability to track low stock levels effectively",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Low stock alert notifications",
+    "Simple inventory dashboard",
+    "Manual stock level adjustments"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "Etsy sellers managing 10-50 products",
+    "primary_problem": "Inability to track low stock levels effectively",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10-50 products/month, low stock levels cause missed sales opportunities. We provide automated low stock alerts instead of manual inventory tracking via spreadsheets.",
+    "current_alternative": "manual inventory tracking via spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Low stock alert notifications",
+      "Simple inventory dashboard",
+      "Manual stock level adjustments"
     ]
   },
-  "one_liner": "Service that converts payroll data into standardized reports for HR operations.",
+  "one_liner": "For Etsy sellers processing 10-50 products/month, low stock levels cause missed sales opportunities. We provide automated low stock alerts instead of manual inventory tracking via spreadsheets.",
   "source": {
     "idea_id": "idea_0053",
     "run_date": "2026-04-03",

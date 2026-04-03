@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that automates weekly restaurant staff shift scheduling and reports for hospitality managers.",
+  "idea_text": "Automation that monitors vehicle registration and insurance expiration dates for fleet operations.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.377872",
+  "verdict_timestamp": "2026-04-03T11:57:21.140615",
   "verdict_source": "overlay_score"
 }

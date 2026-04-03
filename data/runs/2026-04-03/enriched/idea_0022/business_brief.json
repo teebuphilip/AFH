@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that monitors daily bank transactions for unusual activity and alerts finance teams to potential fraud.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that monitors daily bank transactions for unusual activity and alerts finance teams to potential fraud.",
+  "name": "property managers handling 10-20 maintenance requests/week tool",
+  "description": "For property managers processing 10-20 maintenance requests/week, delayed updates cause tenant dissatisfaction. We provide weekly status updates instead of manual tracking via spreadsheets or emails.",
+  "target_audience": "property managers handling 10-20 maintenance requests/week",
+  "problem_solved": "Lack of timely updates on maintenance requests leads to tenant dissatisfaction.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual entry of maintenance requests",
+    "weekly status update notifications",
+    "dashboard for tracking request status"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "property managers handling 10-20 maintenance requests/week",
+    "primary_problem": "Lack of timely updates on maintenance requests leads to tenant dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 maintenance requests/week, delayed updates cause tenant dissatisfaction. We provide weekly status updates instead of manual tracking via spreadsheets or emails.",
+    "current_alternative": "manual tracking via spreadsheets or emails",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual entry of maintenance requests",
+      "weekly status update notifications",
+      "dashboard for tracking request status"
     ]
   },
-  "one_liner": "Service that monitors daily bank transactions for unusual activity and alerts finance teams to potential fraud.",
+  "one_liner": "For property managers processing 10-20 maintenance requests/week, delayed updates cause tenant dissatisfaction. We provide weekly status updates instead of manual tracking via spreadsheets or emails.",
   "source": {
     "idea_id": "idea_0022",
     "run_date": "2026-04-03",
-    "overlay_score": 72,
-    "arr_score": 72
+    "overlay_score": 60,
+    "arr_score": 61
   }
 }

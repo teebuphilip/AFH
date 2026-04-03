@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automated bookkeeping platform that connects financial accounts, generates invoices, and files taxes for small businesses.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automated bookkeeping platform that connects financial accounts, generates invoices, and files taxes for small businesses.",
+  "name": "medical clinics processing 20\u201350 invoices/month tool",
+  "description": "For medical clinics processing 20\u201350 invoices/month, frequent coding errors cause delayed reimbursements. We identify coding errors and reimbursement opportunities instead of manual coding review.",
+  "target_audience": "medical clinics processing 20\u201350 invoices/month",
+  "problem_solved": "frequent coding errors leading to delayed reimbursements",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "error detection for common coding mistakes",
+    "reimbursement opportunity alerts",
+    "monthly performance reporting"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": "Spreadsheets + calendar reminders",
+    "primary_user": "medical clinics processing 20\u201350 invoices/month",
+    "primary_problem": "frequent coding errors leading to delayed reimbursements",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 20\u201350 invoices/month, frequent coding errors cause delayed reimbursements. We identify coding errors and reimbursement opportunities instead of manual coding review.",
+    "current_alternative": "manual coding review",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "error detection for common coding mistakes",
+      "reimbursement opportunity alerts",
+      "monthly performance reporting"
     ]
   },
-  "one_liner": "Automated bookkeeping platform that connects financial accounts, generates invoices, and files taxes for small businesses.",
+  "one_liner": "For medical clinics processing 20\u201350 invoices/month, frequent coding errors cause delayed reimbursements. We identify coding errors and reimbursement opportunities instead of manual coding review.",
   "source": {
     "idea_id": "idea_0099",
     "run_date": "2026-04-03",
-    "overlay_score": 76,
-    "arr_score": 76
+    "overlay_score": 54,
+    "arr_score": 54
   }
 }

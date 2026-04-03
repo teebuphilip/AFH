@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automated insurance claim processing software that flags errors and exceptions for claims adjusters.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automated insurance claim processing software that flags errors and exceptions for claims adjusters.",
+  "name": "construction contractors managing 5\u201315 government contracts/month tool",
+  "description": "For construction contractors managing 5\u201315 government contracts/month, compliance reporting delays cause supplier penalties. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "construction contractors managing 5\u201315 government contracts/month",
+  "problem_solved": "Difficulty in generating timely compliance reports for government contracts.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "customizable report templates",
+    "user-friendly dashboard for tracking compliance status",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "construction contractors managing 5\u201315 government contracts/month",
+    "primary_problem": "Difficulty in generating timely compliance reports for government contracts.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 government contracts/month, compliance reporting delays cause supplier penalties. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "customizable report templates",
+      "user-friendly dashboard for tracking compliance status",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Automated insurance claim processing software that flags errors and exceptions for claims adjusters.",
+  "one_liner": "For construction contractors managing 5\u201315 government contracts/month, compliance reporting delays cause supplier penalties. We automate report generation instead of manual report generation using spreadsheets.",
   "source": {
     "idea_id": "idea_0077",
     "run_date": "2026-04-03",
-    "overlay_score": 64,
-    "arr_score": 62
+    "overlay_score": 58,
+    "arr_score": 58
   }
 }

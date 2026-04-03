@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "System that prepares monthly utility usage and billing summaries for property management finance officers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "System that prepares monthly utility usage and billing summaries for property management finance officers.",
+  "name": "property managers processing 5\u201315 utility invoices/month tool",
+  "description": "For property managers processing 5\u201315 invoices/month, manual report preparation causes cash flow gaps. We automate report generation instead of manual report preparation using spreadsheets.",
+  "target_audience": "property managers processing 5\u201315 utility invoices/month",
+  "problem_solved": "Manual preparation of utility expense reports is time-consuming and error-prone.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "template-based report generation",
+    "data entry validation",
+    "export to CSV"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "property managers processing 5\u201315 utility invoices/month",
+    "primary_problem": "Manual preparation of utility expense reports is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 invoices/month, manual report preparation causes cash flow gaps. We automate report generation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "template-based report generation",
+      "data entry validation",
+      "export to CSV"
     ]
   },
-  "one_liner": "System that prepares monthly utility usage and billing summaries for property management finance officers.",
+  "one_liner": "For property managers processing 5\u201315 invoices/month, manual report preparation causes cash flow gaps. We automate report generation instead of manual report preparation using spreadsheets.",
   "source": {
     "idea_id": "idea_0050",
     "run_date": "2026-04-03",
-    "overlay_score": 74,
-    "arr_score": 74
+    "overlay_score": 78,
+    "arr_score": 78
   }
 }

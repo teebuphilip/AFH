@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that tracks invoice approval status and sends daily reminders to accounts payable teams to reduce processing delays.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that tracks invoice approval status and sends daily reminders to accounts payable teams to reduce processing delays.",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, unexpected subscription charges cause cash flow gaps. We monitor recurring expenses instead of manual tracking of subscription expenses.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Unexpected subscription charges leading to cash flow gaps.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Expense monitoring alerts",
+    "Anomaly detection",
+    "Monthly expense summary"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": "Spreadsheets + calendar reminders",
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Unexpected subscription charges leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, unexpected subscription charges cause cash flow gaps. We monitor recurring expenses instead of manual tracking of subscription expenses.",
+    "current_alternative": "Manual tracking of subscription expenses",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Expense monitoring alerts",
+      "Anomaly detection",
+      "Monthly expense summary"
     ]
   },
-  "one_liner": "Service that tracks invoice approval status and sends daily reminders to accounts payable teams to reduce processing delays.",
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, unexpected subscription charges cause cash flow gaps. We monitor recurring expenses instead of manual tracking of subscription expenses.",
   "source": {
     "idea_id": "idea_0014",
     "run_date": "2026-04-03",
-    "overlay_score": 76,
-    "arr_score": 76
+    "overlay_score": 78,
+    "arr_score": 78
   }
 }

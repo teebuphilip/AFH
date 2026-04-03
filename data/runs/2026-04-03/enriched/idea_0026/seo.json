@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "property managers invoice tracking",
+    "property managers vendor invoices",
     "invoice payments",
     "invoice tracking",
     "payment reminders",
@@ -29,8 +29,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Automation tool that generates monthly maintenance compliance reports for property management supervisors.",
-    "unknown audience"
+    "For property managers processing 10\u201320 rental properties/month, manual reconciliation causes cash flow gaps. We automate rent reconciliation reports instead of manual spreadsheets and accounting software.",
+    "Manual reconciliation of rent payments leads to errors and delays.",
+    "property managers processing 10\u201320 rental properties/month"
   ],
   "content_plan": [
     {
@@ -109,7 +110,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "property managers invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +136,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | property managers tool",
+      "property managers tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with automation tool that generates monthly maintenance compliance reports for property management supervisors."
+      "property managers tool helps with manual reconciliation of rent payments leads to errors and delays."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

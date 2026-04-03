@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "A web-based tool that automatically generates and files quarterly tax reports for small property management firms.",
-  "problem": "A web-based tool that automatically generates and files quarterly tax reports for small property management firms.",
+  "who": "insurance brokers processing 10\u201320 claims/month",
+  "offer": "For insurance brokers processing 10\u201320 claims/month, delays in claim processing cause client dissatisfaction. We streamline the submission and tracking of claims instead of manual tracking and submission of claims via email and spreadsheets.",
+  "problem": "Delays in claim processing lead to client dissatisfaction.",
   "channels_free": [
-    "Post in Reddit communities for property management advice",
-    "Indie Hackers discussions on tax reporting tools",
-    "DM outreach to small property managers with demo video",
-    "Community forums for property management software solutions"
+    "Post in Reddit communities for insurance brokers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to insurance brokers with demo video",
+    "Participate in community forums for insurance tools"
   ],
-  "try_it": "Let users try manual invoice entry and vendor list management",
+  "try_it": "Let users try claim submission form and status tracking dashboard on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing manual workflows",
-    "Collect 10 user interviews for feedback",
-    "Offer early-access onboarding for first 10 users",
-    "Post weekly updates in relevant communities"
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
   ],
   "automation_simplification_ideas": [
     "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of simple reports",
+    "Set up reminder schedule presets",
+    "Enable CSV import for existing data",
+    "Provide one-click export of reports",
     "Reduce onboarding steps for new users"
   ]
 }

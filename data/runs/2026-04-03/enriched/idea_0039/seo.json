@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "restaurant finance managers invoice tracking",
+    "restaurant finance managers vendor invoices",
+    "cash flow tracking",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -14,11 +14,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to cash flow tracking",
+    "best cash flow tracking tool",
+    "cash flow tracking vs spreadsheets",
+    "cash flow tracking checklist",
+    "cash flow tracking pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -29,37 +29,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Tool that automates monthly claims status tracking and exception reporting for insurance claim supervisors.",
-    "unknown audience"
+    "For restaurant finance managers processing 10\u201320 sales reports/week, inaccurate sales and tip reporting causes cash flow gaps. We automate reporting instead of manual reporting spreadsheets.",
+    "Inaccurate sales and tip reporting leads to cash flow gaps.",
+    "restaurant finance managers processing 10\u201320 sales reports/week"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Cash Flow Tracking",
+      "target_keyword": "how to cash flow tracking",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Cash Flow Tracking Tool",
+      "target_keyword": "best cash flow tracking tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Cash Flow Tracking Vs Spreadsheets",
+      "target_keyword": "cash flow tracking vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Cash Flow Tracking Checklist",
+      "target_keyword": "cash flow tracking checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Cash Flow Tracking Pricing",
+      "target_keyword": "cash flow tracking pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -82,6 +83,12 @@
       "estimated_difficulty": "high"
     },
     {
+      "title": "Cash Flow Tracking",
+      "target_keyword": "cash flow tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
       "title": "Invoice Payments",
       "target_keyword": "invoice payments",
       "intent": "informational",
@@ -90,12 +97,6 @@
     {
       "title": "Invoice Tracking",
       "target_keyword": "invoice tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
@@ -109,7 +110,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "restaurant finance managers invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +136,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | restaurant finance managers tool",
+      "restaurant finance managers tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with tool that automates monthly claims status tracking and exception reporting for insurance claim supervisors."
+      "restaurant finance managers tool helps with inaccurate sales and tip reporting leads to cash flow gaps."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

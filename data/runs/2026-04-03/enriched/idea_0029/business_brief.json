@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automated billing reconciliation service for medical billing coordinators in outpatient clinics.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automated billing reconciliation service for medical billing coordinators in outpatient clinics.",
+  "name": "medical billing specialists processing 10\u201320 invoices/month tool",
+  "description": "For medical billing specialists processing 10\u201320 invoices/month, manual entry causes cash flow gaps. We automate the conversion of appointment logs instead of manual entry.",
+  "target_audience": "medical billing specialists processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient conversion of appointment logs into billing submissions",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual log entry interface",
+    "basic reporting on submissions",
+    "error-checking for appointment data"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "medical billing specialists processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient conversion of appointment logs into billing submissions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists processing 10\u201320 invoices/month, manual entry causes cash flow gaps. We automate the conversion of appointment logs instead of manual entry.",
+    "current_alternative": "manual entry of appointment logs into billing software",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual log entry interface",
+      "basic reporting on submissions",
+      "error-checking for appointment data"
     ]
   },
-  "one_liner": "Automated billing reconciliation service for medical billing coordinators in outpatient clinics.",
+  "one_liner": "For medical billing specialists processing 10\u201320 invoices/month, manual entry causes cash flow gaps. We automate the conversion of appointment logs instead of manual entry.",
   "source": {
     "idea_id": "idea_0029",
     "run_date": "2026-04-03",

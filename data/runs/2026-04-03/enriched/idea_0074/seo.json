@@ -1,12 +1,9 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "invoice payments",
-    "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "property managers overseeing properties invoice tracking",
+    "property managers overseeing properties vendor invoices",
+    "payment reminders"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -14,11 +11,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to invoice payments",
-    "best invoice payments tool",
-    "invoice payments vs spreadsheets",
-    "invoice payments checklist",
-    "invoice payments pricing"
+    "how to payment reminders",
+    "best payment reminders tool",
+    "payment reminders vs spreadsheets",
+    "payment reminders checklist",
+    "payment reminders pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -29,37 +26,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Automated time tracking and leave management system for small operations teams.",
-    "unknown audience"
+    "For property managers overseeing 5\u201315 properties, inefficient tracking of energy usage causes compliance issues. We provide a facility management system instead of manual spreadsheets and disparate systems.",
+    "inefficient tracking of energy usage and maintenance schedules",
+    "property managers overseeing 5\u201315 properties"
   ],
   "content_plan": [
     {
-      "title": "How To Invoice Payments",
-      "target_keyword": "how to invoice payments",
+      "title": "How To Payment Reminders",
+      "target_keyword": "how to payment reminders",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Invoice Payments Tool",
-      "target_keyword": "best invoice payments tool",
+      "title": "Best Payment Reminders Tool",
+      "target_keyword": "best payment reminders tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Vs Spreadsheets",
-      "target_keyword": "invoice payments vs spreadsheets",
+      "title": "Payment Reminders Vs Spreadsheets",
+      "target_keyword": "payment reminders vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Invoice Payments Checklist",
-      "target_keyword": "invoice payments checklist",
+      "title": "Payment Reminders Checklist",
+      "target_keyword": "payment reminders checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments Pricing",
-      "target_keyword": "invoice payments pricing",
+      "title": "Payment Reminders Pricing",
+      "target_keyword": "payment reminders pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -82,26 +80,8 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Invoice Payments",
-      "target_keyword": "invoice payments",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Invoice Tracking",
-      "target_keyword": "invoice tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Payment Reminders",
       "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
-      "title": "Vendor Invoices",
-      "target_keyword": "vendor invoices",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -109,7 +89,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "property managers overseeing properties invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +115,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | property managers overseeing properties tool",
+      "property managers overseeing properties tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with automated time tracking and leave management system for small operations teams."
+      "property managers overseeing properties tool helps with inefficient tracking of energy usage and maintenance schedules."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

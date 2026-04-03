@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "construction project coordinators",
-  "offer": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
-  "problem": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
+  "who": "medical clinic billing coordinators processing 10\u201320 invoices/month",
+  "offer": "For medical clinic billing coordinators processing 10\u201320 invoices/month, missed reminders cause cash flow gaps. We automate scheduling and reminder notifications instead of manual scheduling and reminder notifications via email or phone calls.",
+  "problem": "Timely scheduling and reminders for billing processes.",
   "channels_free": [
-    "Post in Reddit communities for construction project help",
-    "Indie Hackers discussions on invoicing tools",
-    "DM outreach to construction coordinators with demo video",
-    "Construction forums sharing project management tools"
+    "Post in Reddit communities for billing coordinators",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to 20-50 coordinators with demo video",
+    "Participate in forums for sharing billing tools"
   ],
-  "try_it": "Let users try manual invoice entry and vendor management",
+  "try_it": "Let users try simple scheduling interface and manual override for urgent changes on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "Create a landing page with one-liner and CTA",
-    "Produce a demo video of manual workflow",
-    "Conduct 10 interviews with target users",
-    "Offer onboarding for first 10 users",
-    "Share weekly updates in relevant communities"
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
   ],
   "automation_simplification_ideas": [
-    "Save frequent inputs as templates",
-    "Preset reminder schedules for tasks",
-    "Allow CSV import for existing records",
-    "Enable one-click report exports",
-    "Streamline onboarding with fewer steps"
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
   ]
 }

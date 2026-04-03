@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that converts customer data into custom reports for sales operations.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that converts customer data into custom reports for sales operations.",
+  "name": "non-profit finance teams processing 5\u201315 invoices/month tool",
+  "description": "For non-profit finance teams processing 5\u201315 invoices/month, inefficient budget tracking causes cash flow gaps. We provide a budget planning app instead of manual spreadsheets and basic accounting software.",
+  "target_audience": "non-profit finance teams processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient budget tracking and reporting",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Custom report generation",
+    "Spending aggregation",
+    "User-friendly interface"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "non-profit finance teams processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient budget tracking and reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For non-profit finance teams processing 5\u201315 invoices/month, inefficient budget tracking causes cash flow gaps. We provide a budget planning app instead of manual spreadsheets and basic accounting software.",
+    "current_alternative": "manual spreadsheets and basic accounting software",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Custom report generation",
+      "Spending aggregation",
+      "User-friendly interface"
     ]
   },
-  "one_liner": "Tool that converts customer data into custom reports for sales operations.",
+  "one_liner": "For non-profit finance teams processing 5\u201315 invoices/month, inefficient budget tracking causes cash flow gaps. We provide a budget planning app instead of manual spreadsheets and basic accounting software.",
   "source": {
     "idea_id": "idea_0063",
     "run_date": "2026-04-03",
-    "overlay_score": 64,
-    "arr_score": 62
+    "overlay_score": 68,
+    "arr_score": 71
   }
 }

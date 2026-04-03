@@ -1,13 +1,12 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
-    "cash flow tracking",
+    "logistics carriers invoice tracking",
+    "logistics carriers vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
-    "vendor invoices"
+    "vendor invoices",
+    "we provide real"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -15,11 +14,11 @@
     "invoice due reminders"
   ],
   "long_tail_keywords": [
-    "how to cash flow tracking",
-    "best cash flow tracking tool",
-    "cash flow tracking vs spreadsheets",
-    "cash flow tracking checklist",
-    "cash flow tracking pricing"
+    "how to invoice payments",
+    "best invoice payments tool",
+    "invoice payments vs spreadsheets",
+    "invoice payments checklist",
+    "invoice payments pricing"
   ],
   "search_intent": {
     "primary_intent": "commercial",
@@ -30,37 +29,38 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Service that monitors cash flow thresholds daily and sends alerts to finance operations when balances approach limits.",
-    "unknown audience"
+    "For logistics carriers processing 50\u2013100 shipments/month, delays in shipment delivery statuses cause late orders. We provide real-time alerts instead of manual tracking and notifications.",
+    "Delays in shipment delivery statuses",
+    "logistics carriers processing 50\u2013100 shipments/month"
   ],
   "content_plan": [
     {
-      "title": "How To Cash Flow Tracking",
-      "target_keyword": "how to cash flow tracking",
+      "title": "How To Invoice Payments",
+      "target_keyword": "how to invoice payments",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Best Cash Flow Tracking Tool",
-      "target_keyword": "best cash flow tracking tool",
+      "title": "Best Invoice Payments Tool",
+      "target_keyword": "best invoice payments tool",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Cash Flow Tracking Vs Spreadsheets",
-      "target_keyword": "cash flow tracking vs spreadsheets",
+      "title": "Invoice Payments Vs Spreadsheets",
+      "target_keyword": "invoice payments vs spreadsheets",
       "intent": "commercial",
       "estimated_difficulty": "medium"
     },
     {
-      "title": "Cash Flow Tracking Checklist",
-      "target_keyword": "cash flow tracking checklist",
+      "title": "Invoice Payments Checklist",
+      "target_keyword": "invoice payments checklist",
       "intent": "informational",
       "estimated_difficulty": "high"
     },
     {
-      "title": "Cash Flow Tracking Pricing",
-      "target_keyword": "cash flow tracking pricing",
+      "title": "Invoice Payments Pricing",
+      "target_keyword": "invoice payments pricing",
       "intent": "commercial",
       "estimated_difficulty": "high"
     },
@@ -83,12 +83,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Cash Flow Tracking",
-      "target_keyword": "cash flow tracking",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Invoice Payments",
       "target_keyword": "invoice payments",
       "intent": "informational",
@@ -101,8 +95,14 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
+      "title": "Vendor Invoices",
+      "target_keyword": "vendor invoices",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real",
+      "target_keyword": "we provide real",
       "intent": "informational",
       "estimated_difficulty": "high"
     }
@@ -110,7 +110,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "logistics carriers invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -136,11 +136,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | logistics carriers tool",
+      "logistics carriers tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with service that monitors cash flow thresholds daily and sends alerts to finance operations when balances approach limits."
+      "logistics carriers tool helps with delays in shipment delivery statuses."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

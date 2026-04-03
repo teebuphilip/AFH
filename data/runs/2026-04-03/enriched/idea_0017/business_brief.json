@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that monitors weekly inventory receipts and consumption, generating variance reports for logistics operations.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that monitors weekly inventory receipts and consumption, generating variance reports for logistics operations.",
+  "name": "procurement managers in mid-sized companies processing 10-20 vendor contracts/month tool",
+  "description": "For procurement managers in mid-sized companies processing 10-20 vendor contracts/month, inconsistent vendor performance tracking causes missed opportunities for cost savings. We provide automated performance reports instead of manual tracking through spreadsheets and emails.",
+  "target_audience": "procurement managers in mid-sized companies processing 10-20 vendor contracts/month",
+  "problem_solved": "Inconsistent vendor performance tracking leads to missed opportunities for cost savings and compliance issues.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "monthly performance report generation",
+    "vendor performance scorecard",
+    "email notifications for report availability"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "procurement managers in mid-sized companies processing 10-20 vendor contracts/month",
+    "primary_problem": "Inconsistent vendor performance tracking leads to missed opportunities for cost savings and compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized companies processing 10-20 vendor contracts/month, inconsistent vendor performance tracking causes missed opportunities for cost savings. We provide automated performance reports instead of manual tracking through spreadsheets and emails.",
+    "current_alternative": "manual tracking through spreadsheets and emails",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "monthly performance report generation",
+      "vendor performance scorecard",
+      "email notifications for report availability"
     ]
   },
-  "one_liner": "Tool that monitors weekly inventory receipts and consumption, generating variance reports for logistics operations.",
+  "one_liner": "For procurement managers in mid-sized companies processing 10-20 vendor contracts/month, inconsistent vendor performance tracking causes missed opportunities for cost savings. We provide automated performance reports instead of manual tracking through spreadsheets and emails.",
   "source": {
     "idea_id": "idea_0017",
     "run_date": "2026-04-03",
-    "overlay_score": 67,
-    "arr_score": 66
+    "overlay_score": 66,
+    "arr_score": 67
   }
 }

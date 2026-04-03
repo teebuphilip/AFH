@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "System that monitors vehicle maintenance schedules and sends reminders for fleet operations supervisors.",
-  "target_audience": "unknown audience",
-  "problem_solved": "System that monitors vehicle maintenance schedules and sends reminders for fleet operations supervisors.",
+  "name": "construction project controllers managing 5\u201315 subcontractor labor hour reports/month tool",
+  "description": "For construction project controllers processing 5\u201315 subcontractor labor hour reports/month, inaccurate reporting causes project delays. We automate report compilation instead of manual compilation using spreadsheets.",
+  "target_audience": "construction project controllers managing 5\u201315 subcontractor labor hour reports/month",
+  "problem_solved": "Inaccurate labor hour reporting leads to project delays and budget overruns.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual entry of labor hours",
+    "report generation",
+    "email notifications for report submissions"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "construction project controllers managing 5\u201315 subcontractor labor hour reports/month",
+    "primary_problem": "Inaccurate labor hour reporting leads to project delays and budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project controllers processing 5\u201315 subcontractor labor hour reports/month, inaccurate reporting causes project delays. We automate report compilation instead of manual compilation using spreadsheets.",
+    "current_alternative": "manual compilation of labor hour reports using spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual entry of labor hours",
+      "report generation",
+      "email notifications for report submissions"
     ]
   },
-  "one_liner": "System that monitors vehicle maintenance schedules and sends reminders for fleet operations supervisors.",
+  "one_liner": "For construction project controllers processing 5\u201315 subcontractor labor hour reports/month, inaccurate reporting causes project delays. We automate report compilation instead of manual compilation using spreadsheets.",
   "source": {
     "idea_id": "idea_0033",
     "run_date": "2026-04-03",
-    "overlay_score": 65,
-    "arr_score": 64
+    "overlay_score": 55,
+    "arr_score": 55
   }
 }

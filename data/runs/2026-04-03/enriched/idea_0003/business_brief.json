@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automation that generates monthly expense allocation reports from aggregated credit card data for finance operations teams.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automation that generates monthly expense allocation reports from aggregated credit card data for finance operations teams.",
+  "name": "accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For accounting firms processing 5\u201315 payrolls/month, delays in payroll tax filings cause penalties. We automate the generation of monthly payroll tax filings instead of manual preparation of payroll tax filings.",
+  "target_audience": "accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "timely payroll tax filings",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "manual review option for generated filings",
+    "monthly reminders for payroll tax deadlines",
+    "simple user interface for filing adjustments"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "timely payroll tax filings",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payrolls/month, delays in payroll tax filings cause penalties. We automate the generation of monthly payroll tax filings instead of manual preparation of payroll tax filings.",
+    "current_alternative": "manual preparation of payroll tax filings",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "manual review option for generated filings",
+      "monthly reminders for payroll tax deadlines",
+      "simple user interface for filing adjustments"
     ]
   },
-  "one_liner": "Automation that generates monthly expense allocation reports from aggregated credit card data for finance operations teams.",
+  "one_liner": "For accounting firms processing 5\u201315 payrolls/month, delays in payroll tax filings cause penalties. We automate the generation of monthly payroll tax filings instead of manual preparation of payroll tax filings.",
   "source": {
     "idea_id": "idea_0003",
     "run_date": "2026-04-03",

@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "System that tracks and reports property lease renewal deadlines for property management leasing agents.",
-  "problem": "System that tracks and reports property lease renewal deadlines for property management leasing agents.",
+  "who": "finance officers at law firms processing 5\u201315 trust account reconciliations/month",
+  "offer": "For finance officers at law firms processing 5\u201315 trust account reconciliations/month, manual reconciliation causes compliance risks. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "problem": "manual reconciliation processes lead to errors and compliance risks.",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for finance officers seeking solutions",
+    "Indie Hackers discussions on similar reconciliation challenges",
+    "DM outreach to finance officers with demo video links",
+    "Engage in community forums for finance officers sharing tools"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try error flagging for discrepancies and reports on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
-    "Collect 10 short interviews from target users",
+    "Create a simple landing page with clear CTA",
+    "Produce a short demo video of manual workflows",
+    "Conduct 10 user interviews for insights",
     "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Share weekly updates in relevant online communities"
   ],
   "automation_simplification_ideas": [
-    "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of a simple report",
-    "Fewer steps in onboarding"
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for tasks",
+    "Allow CSV import for existing reconciliation data",
+    "Enable one-click export of reconciliation reports",
+    "Streamline onboarding with fewer steps"
   ]
 }

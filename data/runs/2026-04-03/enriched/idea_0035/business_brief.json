@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
+  "name": "medical clinic billing coordinators processing 10\u201320 invoices/month tool",
+  "description": "For medical clinic billing coordinators processing 10\u201320 invoices/month, missed reminders cause cash flow gaps. We automate scheduling and reminder notifications instead of manual scheduling and reminder notifications via email or phone calls.",
+  "target_audience": "medical clinic billing coordinators processing 10\u201320 invoices/month",
+  "problem_solved": "Timely scheduling and reminders for billing processes.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "simple scheduling interface",
+    "manual override for urgent changes",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": "Spreadsheets + calendar reminders",
+    "primary_user": "medical clinic billing coordinators processing 10\u201320 invoices/month",
+    "primary_problem": "Timely scheduling and reminders for billing processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic billing coordinators processing 10\u201320 invoices/month, missed reminders cause cash flow gaps. We automate scheduling and reminder notifications instead of manual scheduling and reminder notifications via email or phone calls.",
+    "current_alternative": "manual scheduling and reminder notifications via email or phone calls",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "simple scheduling interface",
+      "manual override for urgent changes",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
+  "one_liner": "For medical clinic billing coordinators processing 10\u201320 invoices/month, missed reminders cause cash flow gaps. We automate scheduling and reminder notifications instead of manual scheduling and reminder notifications via email or phone calls.",
   "source": {
     "idea_id": "idea_0035",
     "run_date": "2026-04-03",
-    "overlay_score": 58,
-    "arr_score": 58
+    "overlay_score": 64,
+    "arr_score": 62
   }
 }

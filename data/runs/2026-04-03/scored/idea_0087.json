@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automated medical coding and billing solution that converts patient records into insurance claims for small practices.",
+  "idea_text": "A restaurant employee scheduling application that automates shift planning and time-off requests.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 70,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 68,
+  "arr_score": 67
 }

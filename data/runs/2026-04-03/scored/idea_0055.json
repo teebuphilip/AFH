@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that reconciles property management data and generates monthly owner statements.",
+  "idea_text": "Real estate portfolio management tool that analyzes rental income and occupancy for property managers.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 70,
     "automation": 55,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 71
+  "overlay_score": 59,
+  "arr_score": 60
 }

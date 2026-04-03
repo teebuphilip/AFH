@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "restaurant owners invoice tracking",
+    "restaurant owners vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
-    "vendor invoices",
-    "tracks budgets"
+    "vendor invoices"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -30,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Construction project planning tool that schedules subcontractors, tracks budgets, and generates progress reports for general contractors.",
-    "unknown audience"
+    "For restaurant owners processing 10\u201320 orders/day, inaccurate inventory levels cause stockouts and overstocking. We suggest order quantities based on sales trends instead of manual inventory tracking and ordering.",
+    "Inaccurate inventory levels lead to stockouts and overstocking.",
+    "restaurant owners processing 10\u201320 orders/day"
   ],
   "content_plan": [
     {
@@ -95,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -110,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "restaurant owners invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -136,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | restaurant owners tool",
+      "restaurant owners tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with construction project planning tool that schedules subcontractors tracks budgets and generates progress reports for general contractors."
+      "restaurant owners tool helps with inaccurate inventory levels lead to stockouts and overstocking."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "System that compiles monthly utility bills across multiple properties and generates consolidated reports for property managers.",
-  "problem": "System that compiles monthly utility bills across multiple properties and generates consolidated reports for property managers.",
+  "who": "accounting firms processing 10\u201350 invoices/month",
+  "offer": "For accounting firms processing 10\u201350 invoices/month, discrepancies cause cash flow gaps. We reconcile daily bank transactions instead of manual reconciliation processes.",
+  "problem": "discrepancies between bank transactions and accounting records",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for accounting firms",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to accounting firms with demo video",
+    "Join community forums for accounting tools discussions"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try manual transaction entry and discrepancy flagging on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
-    "Collect 10 short interviews from target users",
-    "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Create a landing page with a clear CTA",
+    "Produce a short demo video of the workflow",
+    "Gather 10 short interviews from target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
   ],
   "automation_simplification_ideas": [
     "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of a simple report",
-    "Fewer steps in onboarding"
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Offer one-click export of simple reports",
+    "Streamline onboarding steps"
   ]
 }

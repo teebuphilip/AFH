@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Expense reporting app that integrates with accounting systems and generates analytics.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Expense reporting app that integrates with accounting systems and generates analytics.",
+  "name": "Shopify store owners processing 10\u201350 orders/month tool",
+  "description": "For Shopify store owners processing 10\u201350 orders/month, inaccurate inventory levels cause stockouts and overstock. We provide an inventory forecasting system instead of manual tracking and spreadsheets.",
+  "target_audience": "Shopify store owners processing 10\u201350 orders/month",
+  "problem_solved": "Inaccurate inventory levels leading to stockouts and overstock.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Basic demand prediction",
+    "Stock level alerts",
+    "Simple reporting dashboard"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "Shopify store owners processing 10\u201350 orders/month",
+    "primary_problem": "Inaccurate inventory levels leading to stockouts and overstock.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201350 orders/month, inaccurate inventory levels cause stockouts and overstock. We provide an inventory forecasting system instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Basic demand prediction",
+      "Stock level alerts",
+      "Simple reporting dashboard"
     ]
   },
-  "one_liner": "Expense reporting app that integrates with accounting systems and generates analytics.",
+  "one_liner": "For Shopify store owners processing 10\u201350 orders/month, inaccurate inventory levels cause stockouts and overstock. We provide an inventory forecasting system instead of manual tracking and spreadsheets.",
   "source": {
     "idea_id": "idea_0067",
     "run_date": "2026-04-03",

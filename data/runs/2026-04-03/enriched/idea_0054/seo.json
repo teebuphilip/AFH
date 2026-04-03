@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "etsy sellers invoice tracking",
+    "etsy sellers vendor invoices",
     "invoice payments",
     "invoice tracking",
     "payment reminders",
@@ -29,8 +29,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Automated procurement system that generates purchase orders and tracks vendor payments.",
-    "unknown audience"
+    "For Etsy sellers processing 10\u201320 invoices/month, delayed payments cause missed discounts. We streamline manual invoice tracking instead of spreadsheets.",
+    "Timely processing of supplier invoices",
+    "Etsy sellers processing 10\u201320 invoices/month"
   ],
   "content_plan": [
     {
@@ -109,7 +110,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "etsy sellers invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +136,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | etsy sellers tool",
+      "etsy sellers tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with automated procurement system that generates purchase orders and tracks vendor payments."
+      "etsy sellers tool helps with timely processing of supplier invoices."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

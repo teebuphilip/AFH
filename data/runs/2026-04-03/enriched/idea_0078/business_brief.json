@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "A construction project management system that schedules equipment rentals and tracks utilization for field supervisors.",
-  "target_audience": "unknown audience",
-  "problem_solved": "A construction project management system that schedules equipment rentals and tracks utilization for field supervisors.",
+  "name": "small medical clinics processing 5\u201315 insurance claims/month tool",
+  "description": "For small medical clinics processing 5\u201315 invoices/month, manual billing causes cash flow gaps. We automate the claims submission instead of manual billing and claims submission.",
+  "target_audience": "small medical clinics processing 5\u201315 insurance claims/month",
+  "problem_solved": "manual billing processes lead to delayed insurance claims",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "user-friendly interface for claim entry",
+    "basic reporting on claim submissions",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "small medical clinics processing 5\u201315 insurance claims/month",
+    "primary_problem": "manual billing processes lead to delayed insurance claims",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small medical clinics processing 5\u201315 invoices/month, manual billing causes cash flow gaps. We automate the claims submission instead of manual billing and claims submission.",
+    "current_alternative": "manual billing and claims submission",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "user-friendly interface for claim entry",
+      "basic reporting on claim submissions",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "A construction project management system that schedules equipment rentals and tracks utilization for field supervisors.",
+  "one_liner": "For small medical clinics processing 5\u201315 invoices/month, manual billing causes cash flow gaps. We automate the claims submission instead of manual billing and claims submission.",
   "source": {
     "idea_id": "idea_0078",
     "run_date": "2026-04-03",

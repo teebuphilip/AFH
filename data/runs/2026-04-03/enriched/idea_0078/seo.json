@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "small medical clinics invoice tracking",
+    "small medical clinics vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "A construction project management system that schedules equipment rentals and tracks utilization for field supervisors.",
-    "unknown audience"
+    "For small medical clinics processing 5\u201315 invoices/month, manual billing causes cash flow gaps. We automate the claims submission instead of manual billing and claims submission.",
+    "manual billing processes lead to delayed insurance claims",
+    "small medical clinics processing 5\u201315 insurance claims/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "small medical clinics invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | small medical clinics tool",
+      "small medical clinics tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with a construction project management system that schedules equipment rentals and tracks utilization for field supervisors."
+      "small medical clinics tool helps with manual billing processes lead to delayed insurance claims."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

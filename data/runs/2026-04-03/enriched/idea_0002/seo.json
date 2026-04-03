@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "hr operations in small marketing agencies invoice tracking",
+    "hr operations in small marketing agencies vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Service that monitors weekly payroll submissions and alerts HR ops on missing or inconsistent employee data before processing.",
-    "unknown audience"
+    "For HR operations in small marketing agencies processing 5\u201315 expense reports/month, inconsistent policy adherence causes compliance risks. We automate compliance monitoring instead of manual review of expense reports by HR staff.",
+    "Ensuring compliance with expense report policies",
+    "HR operations in small marketing agencies processing 5\u201315 expense reports/month"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "hr operations in small marketing agencies invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | hr operations in small marketing agencies tool",
+      "hr operations in small marketing agencies tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with service that monitors weekly payroll submissions and alerts hr ops on missing or inconsistent employee data before processing."
+      "hr operations in small marketing agencies tool helps with ensuring compliance with expense report policies."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Accounting workflow automation that connects bank accounts, invoices, and tax forms for bookkeeping firms.",
-  "problem": "Accounting workflow automation that connects bank accounts, invoices, and tax forms for bookkeeping firms.",
+  "who": "insurance brokers processing 5\u201315 policies/month",
+  "offer": "For insurance brokers processing 5\u201315 policies/month, inaccurate risk assessments cause inadequate coverage recommendations. We provide a streamlined risk assessment tool instead of manual risk assessment methods.",
+  "problem": "Inaccurate risk assessments lead to inadequate coverage recommendations.",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for insurance brokers seeking solutions",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "DM outreach to 20-50 brokers with demo video",
+    "Share insights in community forums for insurance brokers"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users explore risk exposure identification on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
-    "Collect 10 short interviews from target users",
-    "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Create a simple landing page with one-liner and CTA",
+    "Produce a demo video showcasing manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant online communities"
   ],
   "automation_simplification_ideas": [
-    "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of a simple report",
-    "Fewer steps in onboarding"
+    "Allow saving common inputs as templates",
+    "Implement default reminder schedules",
+    "Enable CSV import for existing data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding steps for new users"
   ]
 }

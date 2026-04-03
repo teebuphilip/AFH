@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Bookkeeping automation that syncs financial accounts, generates invoices, and prepares tax filings for small businesses.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Bookkeeping automation that syncs financial accounts, generates invoices, and prepares tax filings for small businesses.",
+  "name": "construction contractors managing 5\u201310 projects/month tool",
+  "description": "For construction contractors processing 5\u201310 projects/month, budget overruns cause cash flow gaps. We provide real-time budget tracking instead of manual spreadsheets and basic accounting software.",
+  "target_audience": "construction contractors managing 5\u201310 projects/month",
+  "problem_solved": "Inability to effectively track project budgets and variances.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "budget variance alerts",
+    "project cost summaries",
+    "manual entry for expenses"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": "Spreadsheets + calendar reminders",
+    "primary_user": "construction contractors managing 5\u201310 projects/month",
+    "primary_problem": "Inability to effectively track project budgets and variances.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201310 projects/month, budget overruns cause cash flow gaps. We provide real-time budget tracking instead of manual spreadsheets and basic accounting software.",
+    "current_alternative": "manual spreadsheets and basic accounting software",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "budget variance alerts",
+      "project cost summaries",
+      "manual entry for expenses"
     ]
   },
-  "one_liner": "Bookkeeping automation that syncs financial accounts, generates invoices, and prepares tax filings for small businesses.",
+  "one_liner": "For construction contractors processing 5\u201310 projects/month, budget overruns cause cash flow gaps. We provide real-time budget tracking instead of manual spreadsheets and basic accounting software.",
   "source": {
     "idea_id": "idea_0091",
     "run_date": "2026-04-03",
-    "overlay_score": 76,
-    "arr_score": 76
+    "overlay_score": 64,
+    "arr_score": 62
   }
 }

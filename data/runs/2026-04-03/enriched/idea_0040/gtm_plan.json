@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "construction HR managers",
-  "offer": "Service that schedules and tracks field service technician certifications for construction HR managers.",
-  "problem": "Service that schedules and tracks field service technician certifications for construction HR managers.",
+  "who": "construction contractors managing 5\u201315 projects/month",
+  "offer": "For construction contractors managing 5\u201315 projects/month, compliance documentation delays cause potential fines and project delays. We automate OSHA documentation preparation instead of manual documentation processes using spreadsheets and templates.",
+  "problem": "Difficulty in preparing OSHA compliance documentation accurately and on time.",
   "channels_free": [
-    "Post in Reddit communities for HR managers",
-    "Indie Hackers discussions on certification tracking",
-    "DM outreach to HR managers with demo video",
-    "Community forums for construction industry tools"
+    "Post in Reddit communities for construction contractors",
+    "Share insights on Indie Hackers about compliance tools",
+    "DM outreach to construction contractors with demo video",
+    "Engage in community forums for construction project management"
   ],
-  "try_it": "Let users try Manual invoice entry and Vendor list management",
-  "pay": "subscription model with tiered features",
+  "try_it": "Let users try template library for OSHA forms on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "Create a landing page with clear CTA",
-    "Produce a short demo video of features",
-    "Conduct 10 interviews with potential users",
-    "Offer onboarding for first 10 sign-ups",
-    "Share weekly updates in relevant forums"
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Gather 10 short interviews from target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant online communities"
   ],
   "automation_simplification_ideas": [
-    "Save common certification types as templates",
-    "Set default reminder schedules for renewals",
-    "Allow CSV import for existing technician data",
-    "Enable one-click export of certification reports",
-    "Streamline onboarding process for new users"
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for compliance tasks",
+    "Allow CSV import for existing OSHA data",
+    "Enable one-click export for compliance reports",
+    "Streamline onboarding with fewer steps"
   ]
 }

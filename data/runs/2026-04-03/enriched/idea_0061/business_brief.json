@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Automated onboarding checklist and document generator for HR operations.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Automated onboarding checklist and document generator for HR operations.",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, disorganized financial records cause late tax filings. We provide a tax preparation assistant instead of manual record-keeping and tax filing.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in organizing financial records and filing tax returns on time.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "Record organization",
+    "Tax return filing reminders",
+    "Basic financial reporting"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in organizing financial records and filing tax returns on time.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, disorganized financial records cause late tax filings. We provide a tax preparation assistant instead of manual record-keeping and tax filing.",
+    "current_alternative": "Manual record-keeping and tax filing",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "Record organization",
+      "Tax return filing reminders",
+      "Basic financial reporting"
     ]
   },
-  "one_liner": "Automated onboarding checklist and document generator for HR operations.",
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, disorganized financial records cause late tax filings. We provide a tax preparation assistant instead of manual record-keeping and tax filing.",
   "source": {
     "idea_id": "idea_0061",
     "run_date": "2026-04-03",
-    "overlay_score": 64,
-    "arr_score": 62
+    "overlay_score": 67,
+    "arr_score": 69
   }
 }

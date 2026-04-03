@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "who": "unknown audience",
-  "offer": "Automation that reconciles freight invoices against shipping manifests and sends weekly exception reports to logistics ops.",
-  "problem": "Automation that reconciles freight invoices against shipping manifests and sends weekly exception reports to logistics ops.",
+  "who": "Sales Operations Managers in Marketing Agencies processing 10\u201320 commission reports/week",
+  "offer": "For Sales Operations Managers in Marketing Agencies processing 10\u201320 commission reports/week, inefficient manual compilation causes delays in commission payments. We automate report generation and email distribution instead of manual report compilation and email distribution.",
+  "problem": "Inefficient manual compilation of sales commission reports",
   "channels_free": [
-    "Post in Reddit communities where unknown audience ask for help",
-    "Indie Hackers posts and comments on similar workflows",
-    "DM outreach to 20-50 unknown audience with a short demo video",
-    "Community forums/groups where unknown audience share tools"
+    "Post in Reddit communities for Sales Operations Managers",
+    "Indie Hackers discussions on workflow improvements",
+    "DM outreach to Sales Operations Managers with demo video",
+    "Community forums for sharing tools and solutions"
   ],
-  "try_it": "Let users try Manual invoice entry form and Vendor list management on 1-3 items",
+  "try_it": "Let users try template-based report generation on 1-3 items",
   "pay": "unknown with a clear upgrade path",
   "cheap_execution_checklist": [
-    "1-page landing page with the one-liner and CTA",
-    "Short demo video showing the manual-first workflow",
-    "Collect 10 short interviews from target users",
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
     "Offer early-access onboarding for first 10 users",
-    "Post a weekly progress update in a relevant community"
+    "Share weekly updates in relevant communities"
   ],
   "automation_simplification_ideas": [
-    "Save common inputs as templates",
-    "Default reminder schedule presets",
-    "CSV import for existing data",
-    "One-click export of a simple report",
-    "Fewer steps in onboarding"
+    "Save common inputs as templates for easy access",
+    "Default reminder schedules for reports",
+    "Allow CSV import for existing data",
+    "One-click export for simple reports",
+    "Simplify onboarding process for new users"
   ]
 }

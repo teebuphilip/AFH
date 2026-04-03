@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that automates monthly claims status tracking and exception reporting for insurance claim supervisors.",
+  "idea_text": "Service that automates weekly sales and tip reporting for restaurant finance managers.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 74,
-  "arr_score": 74
+  "overlay_score": 64,
+  "arr_score": 62
 }

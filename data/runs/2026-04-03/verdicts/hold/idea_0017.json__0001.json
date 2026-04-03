@@ -1,16 +1,16 @@
 {
-  "idea_text": "Tool that monitors weekly inventory receipts and consumption, generating variance reports for logistics operations.",
+  "idea_text": "Tool that compiles vendor performance metrics monthly and delivers reports to procurement managers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 90,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66,
+  "overlay_score": 66,
+  "arr_score": 67,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.373155",
+  "verdict_timestamp": "2026-04-03T11:57:21.136311",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Insurance agency workflow solution that streamlines policy issuance, renewal processing, and claims management.",
+  "idea_text": "A fleet maintenance platform that predicts vehicle breakdowns and schedules service.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 65,
+  "arr_score": 64
 }

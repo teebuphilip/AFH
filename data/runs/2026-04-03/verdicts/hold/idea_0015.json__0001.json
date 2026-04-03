@@ -1,16 +1,16 @@
 {
-  "idea_text": "Automation that extracts financial data from PDFs and populates accounting software ledgers for bookkeeping firms.",
+  "idea_text": "Automation that generates weekly cash flow forecasts from accounting data for finance ops teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66,
+  "overlay_score": 74,
+  "arr_score": 74,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T10:41:06.372798",
+  "verdict_timestamp": "2026-04-03T11:57:21.136017",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

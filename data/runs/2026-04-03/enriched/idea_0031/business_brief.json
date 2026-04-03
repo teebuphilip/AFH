@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Service that automates weekly inventory audit reports for restaurant back office managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Service that automates weekly inventory audit reports for restaurant back office managers.",
+  "name": "restaurant back office managers processing 5\u201315 inventory reports/month tool",
+  "description": "For restaurant back office managers processing 5\u201315 inventory reports/month, inaccurate inventory tracking causes overstocking and wastage. We provide automated daily inventory usage reports instead of manual tracking and reporting using spreadsheets.",
+  "target_audience": "restaurant back office managers processing 5\u201315 inventory reports/month",
+  "problem_solved": "Inaccurate inventory tracking leads to overstocking and wastage.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "daily report generation",
+    "manual data entry for inventory items",
+    "email notifications for report availability"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "restaurant back office managers processing 5\u201315 inventory reports/month",
+    "primary_problem": "Inaccurate inventory tracking leads to overstocking and wastage.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back office managers processing 5\u201315 inventory reports/month, inaccurate inventory tracking causes overstocking and wastage. We provide automated daily inventory usage reports instead of manual tracking and reporting using spreadsheets.",
+    "current_alternative": "manual tracking and reporting using spreadsheets",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "daily report generation",
+      "manual data entry for inventory items",
+      "email notifications for report availability"
     ]
   },
-  "one_liner": "Service that automates weekly inventory audit reports for restaurant back office managers.",
+  "one_liner": "For restaurant back office managers processing 5\u201315 inventory reports/month, inaccurate inventory tracking causes overstocking and wastage. We provide automated daily inventory usage reports instead of manual tracking and reporting using spreadsheets.",
   "source": {
     "idea_id": "idea_0031",
     "run_date": "2026-04-03",
-    "overlay_score": 67,
-    "arr_score": 66
+    "overlay_score": 58,
+    "arr_score": 58
   }
 }

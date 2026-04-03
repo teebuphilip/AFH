@@ -5,7 +5,7 @@
 
 ✅ claude_created_1.0_generate_ideas.py completed
 → Running: claude_created_2.0_normalize_and_dedup.py
-✅ Normalized and deduped 100 ideas to data/runs/2026-04-03/normalized
+✅ Normalized and deduped 99 ideas to data/runs/2026-04-03/normalized
 
 ✅ claude_created_2.0_normalize_and_dedup.py completed
 → Running: claude_created_3.0_score_overlay_and_arr.py
@@ -29,7 +29,7 @@ ARR scoring complete. Processed 13 files.
 → Running: claude_created_8.0_promote_to_catalog.py
 ✅ claude_created_8.0_promote_to_catalog.py completed
 → Running: claude_created_9.0_tag_holding.py
-Catalog built: data/catalog/catalog.json (2471 ideas from all runs)
+Catalog built: data/catalog/catalog.json (2472 ideas from all runs)
 
 ✅ claude_created_9.0_tag_holding.py completed
 → Running: claude_created_10.0_daily_metrics_rollup.py

@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "construction contractors managing projects simultaneously invoice tracking",
+    "construction contractors managing projects simultaneously vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
-    "vendor invoices",
-    "cleaning schedules"
+    "vendor invoices"
   ],
   "secondary_keywords": [
     "vendor invoice tracker",
@@ -30,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Vacation rental management platform that handles guest communications, cleaning schedules, and financial reporting for property owners.",
-    "unknown audience"
+    "For construction contractors managing 5\u201310 projects simultaneously, inefficient tracking causes missed deadlines. We provide automated progress reports instead of manual spreadsheets and email updates.",
+    "Inefficient tracking of project progress and delays",
+    "construction contractors managing 5\u201310 projects simultaneously"
   ],
   "content_plan": [
     {
@@ -95,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -110,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "construction contractors managing projects simultaneously invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -136,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | construction contractors managing projects simultaneously tool",
+      "construction contractors managing projects simultaneously tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with vacation rental management platform that handles guest communications cleaning schedules and financial reporting for property owners."
+      "construction contractors managing projects simultaneously tool helps with inefficient tracking of project progress and delays."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

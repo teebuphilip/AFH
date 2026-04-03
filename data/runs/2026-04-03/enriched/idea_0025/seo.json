@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
   "primary_keywords": [
-    "unknown audience invoice tracking",
-    "unknown audience vendor invoices",
+    "logistics carriers managing - routes week invoice tracking",
+    "logistics carriers managing - routes week vendor invoices",
     "invoice payments",
     "invoice tracking",
-    "payment reminders",
     "vendor invoices"
   ],
   "secondary_keywords": [
@@ -29,8 +28,9 @@
   },
   "competitor_keywords": [],
   "marketing_seeds": [
-    "Tool that compiles monthly vendor contract renewals and sends automated reminders to procurement managers.",
-    "unknown audience"
+    "For logistics carriers processing 10-20 routes/week, inefficient route management causes increased operational costs. We compile weekly logistics route efficiency reports instead of manual tracking and reporting.",
+    "Inefficient route management leading to increased operational costs.",
+    "logistics carriers managing 10-20 routes/week"
   ],
   "content_plan": [
     {
@@ -94,12 +94,6 @@
       "estimated_difficulty": "high"
     },
     {
-      "title": "Payment Reminders",
-      "target_keyword": "payment reminders",
-      "intent": "informational",
-      "estimated_difficulty": "high"
-    },
-    {
       "title": "Vendor Invoices",
       "target_keyword": "vendor invoices",
       "intent": "informational",
@@ -109,7 +103,7 @@
   "site_structure": [
     {
       "page": "homepage",
-      "target_keyword": "unknown audience invoice tracking",
+      "target_keyword": "logistics carriers managing - routes week invoice tracking",
       "purpose": "Overview and value proposition"
     },
     {
@@ -135,11 +129,11 @@
   ],
   "on_page_seo": {
     "title_templates": [
-      "{primary_keyword} | unknown audience tool",
-      "unknown audience tool - {primary_keyword}"
+      "{primary_keyword} | logistics carriers managing - routes week tool",
+      "logistics carriers managing - routes week tool - {primary_keyword}"
     ],
     "meta_description_templates": [
-      "unknown audience tool helps with tool that compiles monthly vendor contract renewals and sends automated reminders to procurement managers."
+      "logistics carriers managing - routes week tool helps with inefficient route management leading to increased operational costs."
     ],
     "header_patterns": [
       "How to {primary_keyword}",

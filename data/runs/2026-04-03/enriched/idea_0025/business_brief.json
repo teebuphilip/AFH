@@ -1,33 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "name": "unknown audience tool",
-  "description": "Tool that compiles monthly vendor contract renewals and sends automated reminders to procurement managers.",
-  "target_audience": "unknown audience",
-  "problem_solved": "Tool that compiles monthly vendor contract renewals and sends automated reminders to procurement managers.",
+  "name": "logistics carriers managing 10-20 routes/week tool",
+  "description": "For logistics carriers processing 10-20 routes/week, inefficient route management causes increased operational costs. We compile weekly logistics route efficiency reports instead of manual tracking and reporting.",
+  "target_audience": "logistics carriers managing 10-20 routes/week",
+  "problem_solved": "Inefficient route management leading to increased operational costs.",
   "features": [
-    "Manual invoice entry form",
-    "Vendor list management",
-    "Payment schedule calculator"
+    "email notifications to operations managers",
+    "basic analytics dashboard",
+    "Manual invoice entry form"
   ],
   "pricing_model": "unknown",
   "category": "saas",
   "locked_fields": {
-    "primary_user": null,
-    "primary_problem": null,
-    "primary_gap_type": null,
-    "mvp_wedge": null,
-    "current_alternative": null,
+    "primary_user": "logistics carriers managing 10-20 routes/week",
+    "primary_problem": "Inefficient route management leading to increased operational costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10-20 routes/week, inefficient route management causes increased operational costs. We compile weekly logistics route efficiency reports instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting of logistics routes",
     "must_have_features": [
-      "Manual invoice entry form",
-      "Vendor list management",
-      "Payment schedule calculator"
+      "email notifications to operations managers",
+      "basic analytics dashboard",
+      "Manual invoice entry form"
     ]
   },
-  "one_liner": "Tool that compiles monthly vendor contract renewals and sends automated reminders to procurement managers.",
+  "one_liner": "For logistics carriers processing 10-20 routes/week, inefficient route management causes increased operational costs. We compile weekly logistics route efficiency reports instead of manual tracking and reporting.",
   "source": {
     "idea_id": "idea_0025",
     "run_date": "2026-04-03",
-    "overlay_score": 74,
-    "arr_score": 74
+    "overlay_score": 59,
+    "arr_score": 60
   }
 }
