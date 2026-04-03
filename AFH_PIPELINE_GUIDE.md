@@ -186,6 +186,18 @@ Adds verdict metadata fields.
 
 ---
 
+### Stage 4.5: Perplexity Keep Review
+**Script:** `codex_created_13.0_perplexity_keep_review.py`
+**Input:** `data/runs/YYYY-MM-DD/verdicts/keep/*.json`
+**Output:** Updates KEEP files with Perplexity score + status.
+
+Rules:
+- Score >= 65: build-ready KEEP
+- Score < 65: queued for monthly re-run
+- 3 failed months: demote to HOLD
+
+---
+
 ### Stage 5: ARR Scoring (Secondary, Optional)
 **Script:** `claude_created_5.0_arr_scoring.py`
 **Input:** `data/runs/YYYY-MM-DD/verdicts/keep/*.json`

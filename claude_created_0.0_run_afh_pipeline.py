@@ -86,6 +86,9 @@ def main():
     if not run("claude_created_4.2_verdict_routing.py"):
         log_failure("verdict_routing", "*", "ROUTE_003", "HOLD")
 
+    # STEP 4.5 — Perplexity review for KEEP ideas
+    run("codex_created_13.0_perplexity_keep_review.py")  # non-blocking
+
     # STEP 5 — ARR Scoring (optional secondary)
     run("claude_created_5.0_arr_scoring.py")  # never blocks
 
