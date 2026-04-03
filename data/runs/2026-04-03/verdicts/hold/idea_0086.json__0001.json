@@ -1,5 +1,5 @@
 {
-  "idea_text": "A construction bidding platform that compiles material costs, labor estimates, and compliance forms for subcontractors.",
+  "idea_text": "Construction bid management software that generates project proposals, tracks subcontractor costs, and invoices clients.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 58,
   "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.803086",
+  "verdict_timestamp": "2026-04-03T10:41:06.385518",
   "verdict_source": "overlay_score"
 }

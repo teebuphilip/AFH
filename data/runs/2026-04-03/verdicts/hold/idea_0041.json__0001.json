@@ -1,16 +1,15 @@
 {
-  "idea_text": "Automation that compiles driver logbook compliance reports for fleet operations managers.",
+  "idea_text": "Automation that converts patient billing codes into insurer-specific submission formats for medical billing specialists.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 70,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 71,
-  "arr_score": 70,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.796798",
-  "verdict_source": "overlay_score",
-  "hold_reason": "keep_cap"
+  "verdict_timestamp": "2026-04-03T10:41:06.377309",
+  "verdict_source": "overlay_score"
 }

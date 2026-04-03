@@ -1,12 +1,12 @@
 {
-  "idea_text": "An automation that collects and organizes shipping data for the logistics operations team.",
+  "idea_text": "Expense report generator that integrates with accounting systems for small businesses.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 67,
+  "arr_score": 69
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Tool that prepares monthly client trust account reports for small law firm accountants.",
+  "idea_text": "System that generates weekly safety incident logs and sends alerts to property management safety officers.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
-    "automation": 55,
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 69,
-  "arr_score": 72
+  "overlay_score": 64,
+  "arr_score": 62
 }

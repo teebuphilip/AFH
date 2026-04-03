@@ -1,16 +1,15 @@
 {
-  "idea_text": "System that schedules and generates HACCP compliance checklists for restaurant kitchen managers.",
+  "idea_text": "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
+    "automation": 55,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66,
+  "overlay_score": 58,
+  "arr_score": 58,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.796286",
-  "verdict_source": "overlay_score",
-  "hold_reason": "keep_cap"
+  "verdict_timestamp": "2026-04-03T10:41:06.376585",
+  "verdict_source": "overlay_score"
 }

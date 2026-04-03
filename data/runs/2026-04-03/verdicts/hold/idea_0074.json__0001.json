@@ -1,15 +1,16 @@
 {
-  "idea_text": "A service that monitors and alerts the procurement manager when vendor contracts are up for renewal.",
+  "idea_text": "Automated time tracking and leave management system for small operations teams.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 72,
+  "arr_score": 72,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.801567",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-03T10:41:06.383499",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

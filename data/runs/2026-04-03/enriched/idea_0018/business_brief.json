@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Service that compiles monthly sales tax filings from multiple jurisdictions and prepares reports for finance teams.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Service that compiles monthly sales tax filings from multiple jurisdictions and prepares reports for finance teams.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Service that compiles monthly sales tax filings from multiple jurisdictions and prepares reports for finance teams.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-03",
+    "overlay_score": 78,
+    "arr_score": 81
+  }
+}

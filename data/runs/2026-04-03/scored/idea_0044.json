@@ -1,12 +1,12 @@
 {
-  "idea_text": "Software that automates preparation of monthly tax filing reminders for small legal practices.",
+  "idea_text": "Service that automates weekly restaurant staff shift scheduling and reports for hospitality managers.",
   "scores": {
-    "pricing_power": 90,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 78
+  "overlay_score": 64,
+  "arr_score": 62
 }

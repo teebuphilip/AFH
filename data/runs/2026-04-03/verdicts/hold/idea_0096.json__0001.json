@@ -1,16 +1,16 @@
 {
-  "idea_text": "A fleet tracking system that monitors vehicle diagnostics, routes, and maintenance for transportation managers.",
+  "idea_text": "Logistics reporting dashboard that monitors fleet performance, driver compliance, and operational metrics for transportation companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64,
+  "overlay_score": 76,
+  "arr_score": 76,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.804351",
+  "verdict_timestamp": "2026-04-03T10:41:06.387265",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

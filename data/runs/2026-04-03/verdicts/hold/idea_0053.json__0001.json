@@ -1,15 +1,16 @@
 {
-  "idea_text": "A system that converts sales data into the required format for quarterly financial reporting.",
+  "idea_text": "Service that converts payroll data into standardized reports for HR operations.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62,
+  "overlay_score": 67,
+  "arr_score": 66,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.798802",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-03T10:41:06.380017",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

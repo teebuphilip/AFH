@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that extracts and formats subcontractor lien waivers for construction project managers.",
+  "idea_text": "Automated billing reconciliation service for medical billing coordinators in outpatient clinics.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.795289",
+  "verdict_timestamp": "2026-04-03T10:41:06.375187",
   "verdict_source": "overlay_score"
 }

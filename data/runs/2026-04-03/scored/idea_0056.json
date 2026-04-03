@@ -1,12 +1,12 @@
 {
-  "idea_text": "A service that monitors property maintenance requests and schedules service visits for the property management team.",
+  "idea_text": "Logistics operations dashboard that tracks shipments and alerts managers of delays.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 64,
+  "arr_score": 62
 }

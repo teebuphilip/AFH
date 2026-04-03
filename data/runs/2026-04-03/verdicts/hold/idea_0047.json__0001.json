@@ -1,15 +1,18 @@
 {
-  "idea_text": "Tool that prepares daily fuel usage and cost reports for logistics fleet accountants.",
+  "idea_text": "Tool that automates monthly subcontractor lien waiver collections and status updates for construction finance teams.",
   "scores": {
-    "pricing_power": 55,
-    "user_count": 70,
-    "automation": 55,
+    "pricing_power": 90,
+    "user_count": 90,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 59,
-  "arr_score": 60,
-  "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.797568",
-  "verdict_source": "overlay_score"
+  "overlay_score": 83,
+  "arr_score": 85.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-03T10:41:06.378359",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-03T10:41:06.438082",
+  "hold_reason": "arr_70_89"
 }

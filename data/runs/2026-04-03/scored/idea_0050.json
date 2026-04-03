@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that flags discrepancies in insurance claims versus repair invoices for claims adjusters.",
+  "idea_text": "System that prepares monthly utility usage and billing summaries for property management finance officers.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 90,
     "user_count": 55,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 58,
-  "arr_score": 58
+  "overlay_score": 74,
+  "arr_score": 74
 }

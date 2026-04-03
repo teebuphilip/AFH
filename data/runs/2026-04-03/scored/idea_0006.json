@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that aggregates and reconciles credit card transactions for accounting teams and emails monthly exceptions reports.",
+  "idea_text": "Service that tracks recurring subscription payments and alerts accounting teams when renewal amounts or dates change.",
   "scores": {
     "pricing_power": 90,
     "user_count": 90,
-    "automation": 55,
-    "market_clarity": 90,
+    "automation": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 81
+  "overlay_score": 83,
+  "arr_score": 85
 }

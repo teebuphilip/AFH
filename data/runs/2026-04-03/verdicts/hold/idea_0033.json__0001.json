@@ -1,15 +1,16 @@
 {
-  "idea_text": "Software that automates timesheet approval summaries for field service team leads.",
+  "idea_text": "System that monitors vehicle maintenance schedules and sends reminders for fleet operations supervisors.",
   "scores": {
-    "pricing_power": 50,
+    "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 62,
-  "arr_score": 60,
+  "overlay_score": 65,
+  "arr_score": 64,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.795802",
-  "verdict_source": "overlay_score"
+  "verdict_timestamp": "2026-04-03T10:41:06.375928",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
 }

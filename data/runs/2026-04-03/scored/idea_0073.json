@@ -1,12 +1,12 @@
 {
-  "idea_text": "A system that converts customer data into the required format for the CRM used by the sales operations team.",
+  "idea_text": "Customer data reporting tool that generates custom analytics for sales operations.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 50,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72
+  "overlay_score": 54,
+  "arr_score": 54
 }

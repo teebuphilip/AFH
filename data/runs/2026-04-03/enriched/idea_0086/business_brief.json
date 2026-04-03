@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Construction bid management software that generates project proposals, tracks subcontractor costs, and invoices clients.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Construction bid management software that generates project proposals, tracks subcontractor costs, and invoices clients.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": "Spreadsheets + calendar reminders",
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Construction bid management software that generates project proposals, tracks subcontractor costs, and invoices clients.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-03",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

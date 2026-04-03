@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Insurance agency management system that streamlines policy renewals, claims processing, and client reporting.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Insurance agency management system that streamlines policy renewals, claims processing, and client reporting.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Insurance agency management system that streamlines policy renewals, claims processing, and client reporting.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-03",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

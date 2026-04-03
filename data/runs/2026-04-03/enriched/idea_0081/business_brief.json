@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Restaurant inventory management system that tracks ordering, waste, and costs, and generates financial reports for owners.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Restaurant inventory management system that tracks ordering, waste, and costs, and generates financial reports for owners.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Restaurant inventory management system that tracks ordering, waste, and costs, and generates financial reports for owners.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-03",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

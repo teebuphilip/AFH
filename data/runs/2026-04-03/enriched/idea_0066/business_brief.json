@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Logistics visibility dashboard that aggregates shipment data and provides exception alerts.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Logistics visibility dashboard that aggregates shipment data and provides exception alerts.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Logistics visibility dashboard that aggregates shipment data and provides exception alerts.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-03",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

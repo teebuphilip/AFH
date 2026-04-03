@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction finance teams",
+  "offer": "Tool that automates monthly subcontractor lien waiver collections and status updates for construction finance teams.",
+  "problem": "Construction finance teams struggle with lien waiver collections and status updates.",
+  "channels_free": [
+    "Post in Reddit communities for construction finance advice",
+    "Indie Hackers discussions on lien waiver processes",
+    "DM outreach to construction finance professionals with demo",
+    "Join construction finance forums and share insights"
+  ],
+  "try_it": "Let users try Manual invoice entry and Vendor list management",
+  "pay": "subscription model with tiered pricing options",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with clear CTA",
+    "Produce a demo video of the manual process",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow users to save common data as templates",
+    "Set default reminders for key tasks",
+    "Enable CSV import for existing vendor data",
+    "Facilitate one-click report generation",
+    "Streamline the onboarding process for new users"
+  ]
+}

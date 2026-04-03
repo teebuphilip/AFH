@@ -1,16 +1,16 @@
 {
-  "idea_text": "An accounting workflow solution that categorizes transactions, forecasts cash flow, and files tax documents for small businesses.",
+  "idea_text": "Automated bookkeeping platform that connects financial accounts, generates invoices, and files taxes for small businesses.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 69,
+  "overlay_score": 76,
+  "arr_score": 76,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.804822",
+  "verdict_timestamp": "2026-04-03T10:41:06.387793",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that reconciles freight invoices with shipment data and alerts logistics teams of discrepancies monthly.",
+  "idea_text": "Automation that generates weekly cash forecast reports from ERP data and sends them to treasury managers.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 90,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 70,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88
+  "overlay_score": 65,
+  "arr_score": 64
 }

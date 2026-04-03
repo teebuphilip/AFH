@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Automation that compiles patient insurance eligibility checks and flags issues for medical billing coordinators.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Automation that compiles patient insurance eligibility checks and flags issues for medical billing coordinators.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Automation that compiles patient insurance eligibility checks and flags issues for medical billing coordinators.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-03",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

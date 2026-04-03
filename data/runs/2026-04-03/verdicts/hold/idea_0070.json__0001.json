@@ -1,16 +1,16 @@
 {
-  "idea_text": "A service that monitors and reports on key performance indicators for the operations team.",
+  "idea_text": "Payroll compliance tool that handles tax filings and payments for small businesses.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 72,
-  "arr_score": 72,
+  "overlay_score": 67,
+  "arr_score": 69,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.800975",
+  "verdict_timestamp": "2026-04-03T10:41:06.382786",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

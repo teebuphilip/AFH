@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Property management software that automates tenant statements and payment tracking.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Property management software that automates tenant statements and payment tracking.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Property management software that automates tenant statements and payment tracking.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-03",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

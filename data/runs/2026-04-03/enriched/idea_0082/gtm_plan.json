@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small law firms",
+  "offer": "Contract management tool that simplifies document generation and compliance tracking.",
+  "problem": "Small law firms struggle with managing contracts efficiently.",
+  "channels_free": [
+    "Post in Reddit communities for legal professionals",
+    "Share insights on Indie Hackers about legal workflows",
+    "DM outreach to small law firms with demo video",
+    "Engage in community forums for legal tech discussions"
+  ],
+  "try_it": "Allow users to test manual invoice entry and vendor management.",
+  "pay": "Flexible pricing with clear upgrade options.",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with clear CTA",
+    "Produce a short demo video of the tool",
+    "Gather feedback from 10 potential users",
+    "Provide early access for first 10 sign-ups",
+    "Share weekly updates in legal communities"
+  ],
+  "automation_simplification_ideas": [
+    "Create templates for common contract types",
+    "Set default reminders for contract renewals",
+    "Enable CSV import for existing contracts",
+    "Allow one-click report generation",
+    "Streamline the onboarding process for new users"
+  ]
+}

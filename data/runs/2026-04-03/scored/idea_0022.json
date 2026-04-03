@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that automatically tracks and reports purchase order approvals for procurement managers weekly.",
+  "idea_text": "Service that monitors daily bank transactions for unusual activity and alerts finance teams to potential fraud.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 72,
+  "arr_score": 72
 }

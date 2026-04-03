@@ -1,12 +1,12 @@
 {
-  "idea_text": "A construction project management platform that tracks budgets, timelines, and permits for general contractors.",
+  "idea_text": "Construction project planning tool that schedules subcontractors, tracks budgets, and generates progress reports for general contractors.",
   "scores": {
-    "pricing_power": 55,
+    "pricing_power": 70,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 68,
+  "arr_score": 67
 }

@@ -1,5 +1,5 @@
 {
-  "idea_text": "Tool that automatically categorizes and summarizes petty cash expenses for small finance teams weekly.",
+  "idea_text": "Tool that automatically matches vendor payment receipts against accounting entries and flags unmatched items for finance teams.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,

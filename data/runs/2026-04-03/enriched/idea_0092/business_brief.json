@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Vacation rental channel management software that lists properties, handles guest communication, and collects payments for property managers.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Vacation rental channel management software that lists properties, handles guest communication, and collects payments for property managers.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Vacation rental channel management software that lists properties, handles guest communication, and collects payments for property managers.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-03",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

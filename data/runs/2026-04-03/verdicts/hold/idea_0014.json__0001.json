@@ -1,18 +1,18 @@
 {
-  "idea_text": "Service that automates monthly rent roll generation and sends reports to property managers.",
+  "idea_text": "Service that tracks invoice approval status and sends daily reminders to accounts payable teams to reduce processing delays.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 79.0,
+  "overlay_score": 76,
+  "arr_score": 76.0,
   "verdict": "KEEP",
-  "verdict_timestamp": "2026-04-03T09:42:37.793290",
+  "verdict_timestamp": "2026-04-03T10:41:06.372633",
   "verdict_source": "overlay_score",
   "arr_verdict": "HOLD",
-  "arr_scored_at": "2026-04-03T09:42:37.937084",
+  "arr_scored_at": "2026-04-03T10:41:06.436430",
   "hold_reason": "arr_70_89"
 }

@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that generates monthly cash flow forecasts from accounting data for finance operations teams.",
+  "idea_text": "Automation that generates monthly expense allocation reports from aggregated credit card data for finance operations teams.",
   "scores": {
     "pricing_power": 90,
     "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 84,
-  "arr_score": 86
+  "overlay_score": 86,
+  "arr_score": 88
 }

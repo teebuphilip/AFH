@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Logistics optimization tool that plans truck routes, monitors driver hours, and generates regulatory compliance reports.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Logistics optimization tool that plans truck routes, monitors driver hours, and generates regulatory compliance reports.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Logistics optimization tool that plans truck routes, monitors driver hours, and generates regulatory compliance reports.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-03",
+    "overlay_score": 72,
+    "arr_score": 71
+  }
+}

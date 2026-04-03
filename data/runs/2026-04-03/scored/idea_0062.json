@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically reconciles bank transactions and generates monthly statements for the accounting team.",
+  "idea_text": "Service that tracks vendor contracts and alerts procurement teams of renewal dates.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 78
+  "overlay_score": 72,
+  "arr_score": 72
 }

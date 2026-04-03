@@ -1,5 +1,5 @@
 {
-  "idea_text": "An accounting automation suite that categorizes transactions, forecasts cash flow, and files quarterly taxes for small businesses.",
+  "idea_text": "Bookkeeping automation that syncs financial accounts, generates invoices, and prepares tax filings for small businesses.",
   "scores": {
     "pricing_power": 55,
     "user_count": 90,
@@ -10,7 +10,7 @@
   "overlay_score": 76,
   "arr_score": 76,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.803727",
+  "verdict_timestamp": "2026-04-03T10:41:06.386368",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

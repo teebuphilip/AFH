@@ -1,12 +1,12 @@
 {
-  "idea_text": "A fleet management dashboard that monitors vehicle diagnostics, routes, and maintenance schedules for logistics supervisors.",
+  "idea_text": "Fleet management software that monitors driver behavior, optimizes routes, and generates compliance reports for logistics companies.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64
+  "overlay_score": 76,
+  "arr_score": 76
 }

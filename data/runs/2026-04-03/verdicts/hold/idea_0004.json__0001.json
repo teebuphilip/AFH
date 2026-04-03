@@ -1,5 +1,5 @@
 {
-  "idea_text": "System that converts raw timesheet entries into formatted payroll reports for HR administrators on a bi-weekly basis.",
+  "idea_text": "System that converts daily timesheet entries into formatted payroll input files for small HR departments.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,7 +10,7 @@
   "overlay_score": 67,
   "arr_score": 66,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.791923",
+  "verdict_timestamp": "2026-04-03T10:41:06.371067",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property management supervisors",
+  "offer": "Automation tool that generates monthly maintenance compliance reports for property management supervisors.",
+  "problem": "Property management supervisors need efficient compliance reporting.",
+  "channels_free": [
+    "Post in Reddit communities for property management advice",
+    "Engage in Indie Hackers discussions about compliance tools",
+    "DM outreach to property managers with a demo video",
+    "Join forums where property management tools are discussed"
+  ],
+  "try_it": "Let users try manual invoice entry for 1-3 items",
+  "pay": "Subscription model with tiered pricing options",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a clear CTA",
+    "Produce a short demo video of the tool",
+    "Conduct interviews with 10 potential users",
+    "Offer onboarding for first 10 sign-ups",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Create templates for common report formats",
+    "Set default reminders for report submissions",
+    "Allow CSV imports for existing compliance data",
+    "Enable one-click report generation",
+    "Streamline the onboarding process for new users"
+  ]
+}

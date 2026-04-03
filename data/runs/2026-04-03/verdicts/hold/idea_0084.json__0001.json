@@ -1,16 +1,15 @@
 {
-  "idea_text": "A property management CRM that automates tenant screening, lease renewals, and maintenance requests for residential managers.",
+  "idea_text": "Vacation rental management platform that handles guest communications, cleaning schedules, and financial reporting for property owners.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 65,
-  "arr_score": 64,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.802839",
-  "verdict_source": "overlay_score",
-  "hold_reason": "keep_cap"
+  "verdict_timestamp": "2026-04-03T10:41:06.385169",
+  "verdict_source": "overlay_score"
 }

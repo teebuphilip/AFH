@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant procurement managers",
+  "offer": "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
+  "problem": "Service that compiles supplier delivery compliance reports for restaurant procurement managers.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant managers",
+    "Indie Hackers discussions on procurement tools",
+    "DM outreach to restaurant managers with demo video",
+    "Join forums where procurement managers share insights"
+  ],
+  "try_it": "Let users try Manual invoice entry and Vendor list management",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual invoice entry",
+    "Collect feedback from 10 restaurant managers",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant forums"
+  ],
+  "automation_simplification_ideas": [
+    "Save common invoice formats as templates",
+    "Default reminders for invoice submissions",
+    "CSV import for vendor data",
+    "One-click generation of compliance reports",
+    "Simplified onboarding process for new users"
+  ]
+}

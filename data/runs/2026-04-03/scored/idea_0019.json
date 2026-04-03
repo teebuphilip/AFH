@@ -1,12 +1,12 @@
 {
-  "idea_text": "Automation that extracts and reconciles utility bill data for property managers and sends monthly alerts on anomalies.",
+  "idea_text": "Automation that generates scheduled vendor aging reports and emails them to accounts payable supervisors.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 70,
+    "pricing_power": 55,
+    "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 82,
-  "arr_score": 82
+  "overlay_score": 64,
+  "arr_score": 62
 }

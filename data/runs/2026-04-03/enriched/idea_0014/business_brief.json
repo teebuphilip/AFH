@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Service that tracks invoice approval status and sends daily reminders to accounts payable teams to reduce processing delays.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Service that tracks invoice approval status and sends daily reminders to accounts payable teams to reduce processing delays.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": "Spreadsheets + calendar reminders",
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Service that tracks invoice approval status and sends daily reminders to accounts payable teams to reduce processing delays.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-03",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

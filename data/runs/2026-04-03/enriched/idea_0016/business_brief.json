@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "System that reconciles monthly lease payments with bank transactions and alerts property managers on mismatches.",
+  "target_audience": "unknown audience",
+  "problem_solved": "System that reconciles monthly lease payments with bank transactions and alerts property managers on mismatches.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "System that reconciles monthly lease payments with bank transactions and alerts property managers on mismatches.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-03",
+    "overlay_score": 82,
+    "arr_score": 82
+  }
+}

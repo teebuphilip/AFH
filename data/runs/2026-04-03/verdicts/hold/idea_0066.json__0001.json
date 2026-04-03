@@ -1,16 +1,15 @@
 {
-  "idea_text": "An automation that generates expense reports and submits them for approval to the finance team.",
+  "idea_text": "Logistics visibility dashboard that aggregates shipment data and provides exception alerts.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 67,
-  "arr_score": 66,
+  "overlay_score": 64,
+  "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.800475",
-  "verdict_source": "overlay_score",
-  "hold_reason": "keep_cap"
+  "verdict_timestamp": "2026-04-03T10:41:06.382082",
+  "verdict_source": "overlay_score"
 }

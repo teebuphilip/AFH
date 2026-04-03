@@ -1,12 +1,12 @@
 {
-  "idea_text": "An insurance underwriting system that analyzes risk factors, prices policies, and issues documents for commercial agents.",
+  "idea_text": "Insurance agency management system that streamlines policy renewals, claims processing, and client reporting.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 55,
+    "automation": 90,
     "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 55,
-  "arr_score": 55
+  "overlay_score": 64,
+  "arr_score": 62
 }

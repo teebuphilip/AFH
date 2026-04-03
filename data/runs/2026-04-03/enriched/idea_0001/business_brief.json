@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Tool that automatically reconciles monthly vendor invoices with purchase orders and sends discrepancy reports to procurement managers.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Tool that automatically reconciles monthly vendor invoices with purchase orders and sends discrepancy reports to procurement managers.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": "Spreadsheets + calendar reminders",
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Tool that automatically reconciles monthly vendor invoices with purchase orders and sends discrepancy reports to procurement managers.",
+  "source": {
+    "idea_id": "idea_0001",
+    "run_date": "2026-04-03",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

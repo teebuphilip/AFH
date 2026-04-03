@@ -1,5 +1,5 @@
 {
-  "idea_text": "Automation that generates compliance-ready vendor tax forms quarterly for finance compliance officers.",
+  "idea_text": "Automation that reconciles freight invoices against shipping manifests and sends weekly exception reports to logistics ops.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,7 +10,7 @@
   "overlay_score": 67,
   "arr_score": 66,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.792381",
+  "verdict_timestamp": "2026-04-03T10:41:06.371557",
   "verdict_source": "overlay_score",
   "hold_reason": "keep_cap"
 }

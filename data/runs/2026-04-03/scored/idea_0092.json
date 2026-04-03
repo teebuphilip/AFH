@@ -1,12 +1,12 @@
 {
-  "idea_text": "A property management system that handles tenant onboarding, maintenance requests, and rent collection for residential landlords.",
+  "idea_text": "Vacation rental channel management software that lists properties, handles guest communication, and collects payments for property managers.",
   "scores": {
     "pricing_power": 55,
-    "user_count": 55,
+    "user_count": 70,
     "automation": 55,
-    "market_clarity": 70,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 56,
-  "arr_score": 56
+  "overlay_score": 59,
+  "arr_score": 60
 }

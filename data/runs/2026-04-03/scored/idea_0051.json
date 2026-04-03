@@ -1,12 +1,12 @@
 {
-  "idea_text": "A tool that automatically reconciles employee expenses and generates monthly reports for the accounting team.",
+  "idea_text": "Automated invoicing and accounts receivable tool for small operations teams.",
   "scores": {
-    "pricing_power": 90,
-    "user_count": 55,
+    "pricing_power": 55,
+    "user_count": 90,
     "automation": 90,
-    "market_clarity": 90,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 78,
-  "arr_score": 78
+  "overlay_score": 72,
+  "arr_score": 72
 }

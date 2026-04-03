@@ -1,12 +1,12 @@
 {
-  "idea_text": "System that monitors utility usage invoices and flags unusual spikes to property management teams monthly.",
+  "idea_text": "System that compiles monthly utility bills across multiple properties and generates consolidated reports for property managers.",
   "scores": {
     "pricing_power": 90,
-    "user_count": 90,
-    "automation": 90,
-    "market_clarity": 90,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 55,
     "competition_inverse": 55
   },
-  "overlay_score": 86,
-  "arr_score": 88
+  "overlay_score": 69,
+  "arr_score": 72
 }

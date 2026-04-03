@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics fleet managers",
+  "offer": "Tool that compiles daily fleet fuel usage reports for logistics fleet managers.",
+  "problem": "Tool that compiles daily fleet fuel usage reports for logistics fleet managers.",
+  "channels_free": [
+    "Post in Reddit communities for fleet management",
+    "Engage in Indie Hackers discussions on logistics tools",
+    "DM outreach to fleet managers with demo video",
+    "Join community forums for logistics and fleet management"
+  ],
+  "try_it": "Let users try Manual invoice entry and Vendor list management",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a clear CTA",
+    "Produce a short demo video of the tool",
+    "Gather 10 interviews from logistics fleet managers",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant logistics communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common invoice formats for quick access",
+    "Pre-set reminders for recurring tasks",
+    "Allow CSV imports for existing data",
+    "Enable one-click report generation",
+    "Streamline the onboarding process for new users"
+  ]
+}

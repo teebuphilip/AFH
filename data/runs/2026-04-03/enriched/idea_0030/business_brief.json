@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Tool that compiles daily fleet fuel usage reports for logistics fleet managers.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Tool that compiles daily fleet fuel usage reports for logistics fleet managers.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": null,
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Tool that compiles daily fleet fuel usage reports for logistics fleet managers.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-03",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

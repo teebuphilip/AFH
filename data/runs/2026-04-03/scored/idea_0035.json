@@ -1,12 +1,12 @@
 {
-  "idea_text": "Service that monitors and flags anomalies in insurance claim payout schedules for claims managers.",
+  "idea_text": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
-    "automation": 90,
-    "market_clarity": 55,
+    "automation": 55,
+    "market_clarity": 90,
     "competition_inverse": 55
   },
-  "overlay_score": 64,
-  "arr_score": 62
+  "overlay_score": 58,
+  "arr_score": 58
 }

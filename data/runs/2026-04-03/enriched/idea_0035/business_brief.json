@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "unknown audience tool",
+  "description": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
+  "target_audience": "unknown audience",
+  "problem_solved": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": null,
+    "primary_problem": null,
+    "primary_gap_type": null,
+    "mvp_wedge": null,
+    "current_alternative": "Spreadsheets + calendar reminders",
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "Tool that reconciles subcontractor invoices with project milestones for construction project coordinators.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-03",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

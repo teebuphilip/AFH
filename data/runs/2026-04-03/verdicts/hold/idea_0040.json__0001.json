@@ -1,5 +1,5 @@
 {
-  "idea_text": "Service that extracts and summarizes denied insurance claims for medical billing specialists.",
+  "idea_text": "Service that schedules and tracks field service technician certifications for construction HR managers.",
   "scores": {
     "pricing_power": 55,
     "user_count": 55,
@@ -10,6 +10,6 @@
   "overlay_score": 64,
   "arr_score": 62,
   "verdict": "HOLD",
-  "verdict_timestamp": "2026-04-03T09:42:37.796678",
+  "verdict_timestamp": "2026-04-03T10:41:06.377144",
   "verdict_source": "overlay_score"
 }

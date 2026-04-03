@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical billing coordinators in outpatient clinics",
+  "offer": "Automated billing reconciliation service for medical billing coordinators in outpatient clinics.",
+  "problem": "Medical billing coordinators struggle with reconciliation tasks.",
+  "channels_free": [
+    "Post in Reddit communities for medical billing help",
+    "Engage in Indie Hackers discussions on billing tools",
+    "DM outreach to clinics with a demo video",
+    "Share insights in medical billing forums"
+  ],
+  "try_it": "Let users try manual invoice entry and vendor management.",
+  "pay": "Subscription model with clear upgrade options",
+  "cheap_execution_checklist": [
+    "Create a landing page with key features and CTA",
+    "Produce a short demo video of the service",
+    "Conduct 10 user interviews for feedback",
+    "Offer onboarding for first 10 users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common invoice formats for reuse",
+    "Set up default reminders for tasks",
+    "Enable CSV import for existing invoices",
+    "Provide one-click report generation",
+    "Streamline onboarding process for users"
+  ]
+}

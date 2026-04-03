@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction HR managers",
+  "offer": "Service that schedules and tracks field service technician certifications for construction HR managers.",
+  "problem": "Service that schedules and tracks field service technician certifications for construction HR managers.",
+  "channels_free": [
+    "Post in Reddit communities for HR managers",
+    "Indie Hackers discussions on certification tracking",
+    "DM outreach to HR managers with demo video",
+    "Community forums for construction industry tools"
+  ],
+  "try_it": "Let users try Manual invoice entry and Vendor list management",
+  "pay": "subscription model with tiered features",
+  "cheap_execution_checklist": [
+    "Create a landing page with clear CTA",
+    "Produce a short demo video of features",
+    "Conduct 10 interviews with potential users",
+    "Offer onboarding for first 10 sign-ups",
+    "Share weekly updates in relevant forums"
+  ],
+  "automation_simplification_ideas": [
+    "Save common certification types as templates",
+    "Set default reminder schedules for renewals",
+    "Allow CSV import for existing technician data",
+    "Enable one-click export of certification reports",
+    "Streamline onboarding process for new users"
+  ]
+}
