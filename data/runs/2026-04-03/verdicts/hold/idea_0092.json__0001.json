@@ -1,0 +1,15 @@
+{
+  "idea_text": "A property management system that handles tenant onboarding, maintenance requests, and rent collection for residential landlords.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 56,
+  "arr_score": 56,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-03T09:42:37.803859",
+  "verdict_source": "overlay_score"
+}

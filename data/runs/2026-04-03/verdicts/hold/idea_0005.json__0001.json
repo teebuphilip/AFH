@@ -1,0 +1,16 @@
+{
+  "idea_text": "Tool that automatically matches delivery receipts with invoices and sends discrepancy alerts to logistics managers weekly.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-03T09:42:37.792127",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}
