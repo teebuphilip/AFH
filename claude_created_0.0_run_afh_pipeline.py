@@ -78,6 +78,10 @@ def main():
     if not run("claude_created_3.0_score_overlay_and_arr.py"):
         log_failure("overlay_scoring", "*", "SCORE_002", "HOLD")
 
+    # STEP 3.5 — Enrich scored ideas (brief + SEO + marketing + GTM)
+    if not run("codex_created_12.0_enrich_scored_ideas.py"):
+        log_failure("enrichment", "*", "ENRICH_002", "HOLD")
+
     # STEP 4 — Verdict Routing
     if not run("claude_created_4.2_verdict_routing.py"):
         log_failure("verdict_routing", "*", "ROUTE_003", "HOLD")

@@ -106,6 +106,10 @@ Normalizes text, TF‑IDF dedups, and writes individual JSON files to:
 Deterministic keyword heuristic scoring, writes scored ideas to:
 `data/runs/YYYY-MM-DD/scored/`.
 
+3.5 `codex_created_12.0_enrich_scored_ideas.py`
+Builds business brief + SEO + marketing copy + GTM plan for every scored idea. Writes to:
+`data/runs/YYYY-MM-DD/enriched/<idea_id>/`.
+
 3.1 `claude_created_3.1_overlay_scoring.py`
 Legacy/standalone overlay scorer for JSONL input. Not used by the daily pipeline.
 

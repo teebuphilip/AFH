@@ -158,6 +158,20 @@ Overlay and ARR scores are computed with fixed weights (see script for rubric).
 
 ---
 
+### Stage 3.5: Enrich Scored Ideas
+**Script:** `codex_created_12.0_enrich_scored_ideas.py`
+**Input:** `data/runs/YYYY-MM-DD/scored/*.json`
+**Output:** `data/runs/YYYY-MM-DD/enriched/<idea_id>/`
+
+Generates per-idea artifacts:
+- business brief
+- one-liner
+- SEO config
+- marketing copy
+- GTM plan
+
+---
+
 ### Stage 4: Verdict Routing (v4.2)
 **Script:** `claude_created_4.2_verdict_routing.py`
 **Input:** `data/runs/YYYY-MM-DD/scored/*.json`
