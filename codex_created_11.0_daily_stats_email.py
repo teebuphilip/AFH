@@ -72,6 +72,27 @@ def read_metrics_entry(metrics_path: Path, run_date: str) -> Optional[dict]:
                 return obj
     return latest
 
+def read_daily_cost(path: Path, run_date: str) -> float:
+    if not path.exists():
+        return 0.0
+    total = 0.0
+    with open(path, "r", encoding="utf-8", errors="replace") as f:
+        header = f.readline()
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            parts = line.split(",")
+            if len(parts) < 7:
+                continue
+            if parts[0] != run_date:
+                continue
+            try:
+                total += float(parts[6])
+            except ValueError:
+                continue
+    return total
+
 def latest_run_dir(runs_base: Path) -> Optional[Path]:
     if not runs_base.exists():
         return None
@@ -120,6 +141,9 @@ def main() -> int:
     keep_dir = run_base / "verdicts" / "keep"
 
     metrics_entry = read_metrics_entry(Path("metrics") / "daily_metrics.jsonl", run_date)
+    chat_cost = read_daily_cost(Path("logs") / "ai_costs_chatgpt_ideas.csv", run_date)
+    claude_cost = read_daily_cost(Path("logs") / "ai_costs_claude_ideas.csv", run_date)
+    total_cost = chat_cost + claude_cost
 
     lines = [
         f"AFH Daily Stats — {run_date}",
@@ -128,6 +152,11 @@ def main() -> int:
         f"- ChatGPT: {chat_count}",
         f"- Claude: {claude_count}",
         f"- Total: {total_raw_today}",
+        "",
+        "Daily AI cost (idea generation):",
+        f"- ChatGPT: ${chat_cost:.2f}",
+        f"- Claude: ${claude_cost:.2f}",
+        f"- Total: ${total_cost:.2f}",
         "",
         "Total verdicts (all runs):",
     ]

@@ -21,6 +21,7 @@ fi
 
 mkdir -p "$(dirname "$HISTORY_FILE")"
 touch "$HISTORY_FILE"
+mkdir -p logs
 
 HISTORY_SNIPPET="$(tail -n 400 "$HISTORY_FILE")"
 
@@ -67,3 +68,39 @@ echo "$IDEAS_JSON" \
       [[ -n "$idea" ]] || { echo "❌ Empty idea_text" >&2; exit 1; }
       echo "$line"
     done
+
+# Log cost
+python3 - <<'PY' "$RESPONSE" "$MODEL"
+import json
+import os
+from datetime import datetime
+from pathlib import Path
+import sys
+
+raw = sys.argv[1]
+model = sys.argv[2]
+log_path = Path("logs") / "ai_costs_claude_ideas.csv"
+new_file = not log_path.exists()
+
+try:
+    data = json.loads(raw)
+except Exception:
+    sys.exit(0)
+
+usage = data.get("usage", {})
+in_tokens = usage.get("input_tokens", 0) or 0
+out_tokens = usage.get("output_tokens", 0) or 0
+in_rate = float(os.getenv("ANTHROPIC_INPUT_PER_MTOK", "3.00"))
+out_rate = float(os.getenv("ANTHROPIC_OUTPUT_PER_MTOK", "15.00"))
+total = (in_tokens * in_rate + out_tokens * out_rate) / 1_000_000
+
+now = datetime.utcnow()
+with log_path.open("a", newline="") as f:
+    if new_file:
+        f.write("date,time,provider,model,input_tokens,output_tokens,cost_usd\n")
+    f.write(
+        f"{now.strftime('%Y-%m-%d')},"
+        f"{now.strftime('%H:%M:%S')},"
+        f"anthropic,{model},{in_tokens},{out_tokens},{total:.6f}\n"
+    )
+PY

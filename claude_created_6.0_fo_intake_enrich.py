@@ -23,6 +23,7 @@ Moves idea to HOLD with hold_reason = intake_failure
 import json
 import time
 import re
+import os
 from pathlib import Path
 from datetime import datetime, date
 from typing import Dict
@@ -38,6 +39,33 @@ MAX_RETRIES = 3
 TIMEOUT_SEC = 60
 
 client = OpenAI()
+
+# ------------------------------------------------------------------
+# Cost Logging
+# ------------------------------------------------------------------
+
+def log_cost(usage, model: str):
+    if not usage:
+        return
+    in_tokens = getattr(usage, "prompt_tokens", None)
+    out_tokens = getattr(usage, "completion_tokens", None)
+    if in_tokens is None or out_tokens is None:
+        return
+    in_rate = float(os.getenv("OPENAI_INPUT_PER_MTOK", "2.50"))
+    out_rate = float(os.getenv("OPENAI_OUTPUT_PER_MTOK", "10.00"))
+    total = (in_tokens * in_rate + out_tokens * out_rate) / 1_000_000
+    log_path = Path("logs") / "ai_costs_fo_intake.csv"
+    log_path.parent.mkdir(parents=True, exist_ok=True)
+    new_file = not log_path.exists()
+    now = datetime.utcnow()
+    with log_path.open("a", newline="") as f:
+        if new_file:
+            f.write("date,time,provider,model,input_tokens,output_tokens,cost_usd\n")
+        f.write(
+            f"{now.strftime('%Y-%m-%d')},"
+            f"{now.strftime('%H:%M:%S')},"
+            f"openai,{model},{in_tokens},{out_tokens},{total:.6f}\n"
+        )
 
 # ------------------------------------------------------------------
 # Paths (AUTO - reads from today's run, writes to accumulated)
@@ -173,6 +201,7 @@ def call_chat(system_prompt: str, user_prompt: str) -> Dict:
         timeout=TIMEOUT_SEC,
     )
 
+    log_cost(resp.usage, MODEL)
     text = resp.choices[0].message.content
     return json.loads(text)
 
