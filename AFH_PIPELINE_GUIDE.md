@@ -208,16 +208,15 @@ Routes KEEP ideas by ARR score:
 - HOLD if `arr_score >= 70`
 - EXCLUDE otherwise
 
-Note: This step writes to `data/ready/fo_intake` (legacy path) and removes KEEP files. The current FO Intake step reads from `data/runs/YYYY-MM-DD/verdicts/keep`.
+Note: This step writes to `data/ready/fo_intake` (legacy path) and removes KEEP files.
 
 ---
 
-### Stage 6: FO Intake Enrichment
+### Stage 6: FO Intake Enrichment (Legacy)
 **Script:** `claude_created_6.0_fo_intake_enrich.py`
+**Status:** Not used in the daily pipeline.
 **Input:** `data/runs/YYYY-MM-DD/verdicts/keep/*.json` (arr_score >= 90)
 **Output:** `data/fo_intake/*.json`
-
-ChatGPT answers Q1-Q10 build constraints. Failures are moved to HOLD with `hold_reason: intake_failure`.
 
 ---
 
@@ -353,20 +352,17 @@ python3 claude_created_0.0_run_afh_pipeline.py
 │  ACCUMULATED: data/                                             │
 └─────────────────────────────────────────────────────────────────┘
                                │
-  Step 6: FO Intake            ↓
-                          fo_intake/idea_0001.json
-                               │
-  Step 7: AF Gate              ↓
+  Step 6: AF Gate              ↓
                           af_bucket/idea_0001.json
                                │
-  Step 8: Promote              ↓
+  Step 7: Promote              ↓
                           catalog/ideas/cat_a1b2c3d4e5f6.json
                           catalog/index.json
                                │
-  Step 9: Tag                  ↓
+  Step 8: Tag                  ↓
                           catalog/catalog.json
                                │
-  Step 10: Metrics             ↓
+  Step 9: Metrics              ↓
                           metrics/daily_metrics.jsonl
 ```
 
@@ -407,7 +403,7 @@ No input directory found: data/runs/YYYY-MM-DD/raw
 
 ---
 
-### Issue: FO Intake fails
+### Issue: FO Intake fails (Legacy)
 
 **Symptoms:**
 ```

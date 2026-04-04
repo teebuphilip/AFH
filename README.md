@@ -125,11 +125,10 @@ Routes each scored idea into:
 Secondary ARR routing for KEEPs only. Promotes to FO intake or moves to HOLD/EXCLUDE.
 
 6. `claude_created_6.0_fo_intake_enrich.py`
-ChatGPT Q1–Q10 intake enrichment for high‑ARR KEEPs. Writes to `data/fo_intake/`.
-Failures are moved to HOLD.
+Legacy step (no longer in the daily pipeline). Writes to `data/fo_intake/`.
 
 7. `claude_created_7.0_af_gate.py`
-Build readiness gate over FO intake. PASS -> `data/af_bucket/`, FAIL -> HOLD.
+Build readiness gate. PASS -> `data/af_bucket/`, FAIL -> HOLD.
 
 8. `claude_created_8.0_promote_to_catalog.py`
 Promotes AF‑ready ideas to `data/catalog/ideas/` and updates `data/catalog/index.json`.

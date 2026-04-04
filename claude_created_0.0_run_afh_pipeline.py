@@ -89,17 +89,6 @@ def main():
     # STEP 5 — ARR Scoring (optional secondary)
     run("claude_created_5.0_arr_scoring.py")  # never blocks
 
-    # STEP 6 — FO Intake (Q1–Q10)
-    run_date = date.today().isoformat()
-    keep_dir = Path("data") / "runs" / run_date / "verdicts" / "keep"
-    keep_files = list(keep_dir.glob("*.json")) if keep_dir.exists() else []
-
-    if keep_files:
-        if not run("claude_created_6.0_fo_intake_enrich.py"):
-            log_failure("fo_intake", "*", "INTAKE_005", "HOLD")
-    else:
-        print("⏭️  Skipping FO intake - no KEEP ideas")
-
     # STEP 7 — AF Gate
     fo_dir = Path("data") / "fo_intake"
     fo_files = list(fo_dir.glob("*.json")) if fo_dir.exists() else []
