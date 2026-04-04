@@ -137,6 +137,9 @@ def main() -> int:
     run_date = args.run_date or os.getenv("AFH_RUN_DATE") or date.today().isoformat()
     scored_dir = Path("data") / "runs" / run_date / "scored"
     enriched_dir = Path("data") / "runs" / run_date / "enriched"
+    verdict_dir = Path("data") / "runs" / run_date / "verdicts"
+    hold_dir = verdict_dir / "hold"
+    exclude_dir = verdict_dir / "exclude"
     out_dir = Path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -146,10 +149,16 @@ def main() -> int:
         return 0
 
     written = 0
+    hold_names = {p.name for p in hold_dir.glob("*.json")} if hold_dir.exists() else set()
+    exclude_names = {p.name for p in exclude_dir.glob("*.json")} if exclude_dir.exists() else set()
+
     for scored_path in scored_files:
         idea_id = scored_path.stem
         idea_dir = enriched_dir / idea_id
         if not idea_dir.exists():
+            continue
+        verdict_name = f"{idea_id}__0001.json"
+        if verdict_name not in hold_names and verdict_name not in exclude_names:
             continue
 
         scored = _load_json(scored_path)
