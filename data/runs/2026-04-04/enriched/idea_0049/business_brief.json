@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 rental properties/month tool",
+  "description": "For property managers processing 5\u201315 rental properties/month, inefficient report formatting causes late submissions. We automate report formatting instead of manual report preparation and submission.",
+  "target_audience": "property managers handling 5\u201315 rental properties/month",
+  "problem_solved": "Inefficient formatting and submission of monthly rent roll reports.",
+  "features": [
+    "manual report formatting",
+    "email submission capability",
+    "template customization options"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 rental properties/month",
+    "primary_problem": "Inefficient formatting and submission of monthly rent roll reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 rental properties/month, inefficient report formatting causes late submissions. We automate report formatting instead of manual report preparation and submission.",
+    "current_alternative": "manual report preparation and submission",
+    "must_have_features": [
+      "manual report formatting",
+      "email submission capability",
+      "template customization options"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 rental properties/month, inefficient report formatting causes late submissions. We automate report formatting instead of manual report preparation and submission.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-04",
+    "overlay_score": 69,
+    "arr_score": 72
+  }
+}

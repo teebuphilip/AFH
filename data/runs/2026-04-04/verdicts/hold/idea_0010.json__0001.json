@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that reconciles courier delivery logs with shipment invoices and reports discrepancies to logistics ops.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-04T09:57:19.541507",
+  "verdict_source": "overlay_score"
+}

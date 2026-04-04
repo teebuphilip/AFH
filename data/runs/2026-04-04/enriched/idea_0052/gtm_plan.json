@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR departments in small marketing agencies using Gusto for payroll processing 5\u201315 employees",
+  "offer": "For HR departments in small marketing agencies processing 5\u201315 employees, compliance gaps cause penalties and fines. We provide compliance monitoring instead of manual tracking of compliance requirements.",
+  "problem": "Ensuring payroll compliance with changing regulations",
+  "channels_free": [
+    "Post in Reddit communities for HR departments seeking solutions",
+    "Engage in Indie Hackers discussions on compliance tools",
+    "DM outreach to HR departments with demo video",
+    "Participate in community forums for HR tool sharing"
+  ],
+  "try_it": "Let users try Compliance checklist for payroll and summary report",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Enable CSV import for existing payroll data",
+    "Allow one-click export of compliance reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

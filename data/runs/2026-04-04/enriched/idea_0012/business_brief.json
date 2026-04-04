@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 5\u201315 clients/month tool",
+  "description": "For bookkeepers managing 5\u201315 clients/month, inefficient categorization of expense receipts causes time wastage. We convert receipt photos into categorized entries instead of manual entry of receipts into accounting software.",
+  "target_audience": "bookkeepers managing 5\u201315 clients/month",
+  "problem_solved": "Inefficient categorization of expense receipts leads to time wastage.",
+  "features": [
+    "automatic categorization of expenses",
+    "export to CSV for bookkeeping software",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 5\u201315 clients/month",
+    "primary_problem": "Inefficient categorization of expense receipts leads to time wastage.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 5\u201315 clients/month, inefficient categorization of expense receipts causes time wastage. We convert receipt photos into categorized entries instead of manual entry of receipts into accounting software.",
+    "current_alternative": "manual entry of receipts into accounting software",
+    "must_have_features": [
+      "automatic categorization of expenses",
+      "export to CSV for bookkeeping software",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 5\u201315 clients/month, inefficient categorization of expense receipts causes time wastage. We convert receipt photos into categorized entries instead of manual entry of receipts into accounting software.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

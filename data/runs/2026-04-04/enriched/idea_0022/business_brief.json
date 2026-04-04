@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing petty cash for 5\u201315 clients/month tool",
+  "description": "For accounting firms managing 5\u201315 clients/month, manual reconciliation causes late financial reporting. We automate petty cash reconciliation instead of manual tracking and reconciliation spreadsheets.",
+  "target_audience": "accounting firms managing petty cash for 5\u201315 clients/month",
+  "problem_solved": "manual reconciliation of petty cash transactions",
+  "features": [
+    "weekly summary reports",
+    "transaction categorization",
+    "manual entry for exceptions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing petty cash for 5\u201315 clients/month",
+    "primary_problem": "manual reconciliation of petty cash transactions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients/month, manual reconciliation causes late financial reporting. We automate petty cash reconciliation instead of manual tracking and reconciliation spreadsheets.",
+    "current_alternative": "manual tracking and reconciliation spreadsheets",
+    "must_have_features": [
+      "weekly summary reports",
+      "transaction categorization",
+      "manual entry for exceptions"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients/month, manual reconciliation causes late financial reporting. We automate petty cash reconciliation instead of manual tracking and reconciliation spreadsheets.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-04",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

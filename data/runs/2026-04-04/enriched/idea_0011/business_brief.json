@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 utility accounts/month tool",
+  "description": "For property managers processing 5\u201315 utility accounts/month, inconsistent utility bill tracking causes unexpected costs. We automate tracking and alerting instead of manual tracking of utility bills.",
+  "target_audience": "property managers handling 5\u201315 utility accounts/month",
+  "problem_solved": "Inconsistent utility bill tracking leads to unexpected costs.",
+  "features": [
+    "monthly variance alerts",
+    "usage tracking dashboard",
+    "manual entry option for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 utility accounts/month",
+    "primary_problem": "Inconsistent utility bill tracking leads to unexpected costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 utility accounts/month, inconsistent utility bill tracking causes unexpected costs. We automate tracking and alerting instead of manual tracking of utility bills.",
+    "current_alternative": "manual tracking of utility bills",
+    "must_have_features": [
+      "monthly variance alerts",
+      "usage tracking dashboard",
+      "manual entry option for discrepancies"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 utility accounts/month, inconsistent utility bill tracking causes unexpected costs. We automate tracking and alerting instead of manual tracking of utility bills.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-04",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

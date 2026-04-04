@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate invoice generation and late payment alerts instead of manual invoice tracking and reminders.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Late payments causing cash flow gaps",
+  "features": [
+    "Late payment alerts",
+    "Manual invoice editing",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Late payments causing cash flow gaps",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate invoice generation and late payment alerts instead of manual invoice tracking and reminders.",
+    "current_alternative": "Manual invoice tracking and reminders",
+    "must_have_features": [
+      "Late payment alerts",
+      "Manual invoice editing",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate invoice generation and late payment alerts instead of manual invoice tracking and reminders.",
+  "source": {
+    "idea_id": "idea_0062",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

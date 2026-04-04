@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Operations Teams in Marketing Agencies processing 10\u201320 commission statements/week tool",
+  "description": "For Sales Operations Teams in Marketing Agencies processing 10\u201320 commission statements/week, manual compilation causes delayed payments. We automate the emailing of commission statements instead of manual compilation and emailing.",
+  "target_audience": "Sales Operations Teams in Marketing Agencies processing 10\u201320 commission statements/week",
+  "problem_solved": "Delayed distribution of commission statements",
+  "features": [
+    "Template for commission statements",
+    "Manual override for adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Operations Teams in Marketing Agencies processing 10\u201320 commission statements/week",
+    "primary_problem": "Delayed distribution of commission statements",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Teams in Marketing Agencies processing 10\u201320 commission statements/week, manual compilation causes delayed payments. We automate the emailing of commission statements instead of manual compilation and emailing.",
+    "current_alternative": "Manual compilation and emailing of commission statements",
+    "must_have_features": [
+      "Template for commission statements",
+      "Manual override for adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Sales Operations Teams in Marketing Agencies processing 10\u201320 commission statements/week, manual compilation causes delayed payments. We automate the emailing of commission statements instead of manual compilation and emailing.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-04",
+    "overlay_score": 71,
+    "arr_score": 71
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "finance operations managers in accounting firms processing 10\u201320 invoices/week tool",
+  "description": "For finance operations managers in accounting firms processing 10\u201320 invoices/week, inconsistent cash flow visibility causes financial planning challenges. We automate weekly cash flow summaries instead of manual cash flow tracking and reporting.",
+  "target_audience": "finance operations managers in accounting firms processing 10\u201320 invoices/week",
+  "problem_solved": "Inconsistent cash flow visibility leading to financial planning challenges.",
+  "features": [
+    "customizable summary templates",
+    "manual input option for additional transactions",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "finance operations managers in accounting firms processing 10\u201320 invoices/week",
+    "primary_problem": "Inconsistent cash flow visibility leading to financial planning challenges.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For finance operations managers in accounting firms processing 10\u201320 invoices/week, inconsistent cash flow visibility causes financial planning challenges. We automate weekly cash flow summaries instead of manual cash flow tracking and reporting.",
+    "current_alternative": "manual cash flow tracking and reporting",
+    "must_have_features": [
+      "customizable summary templates",
+      "manual input option for additional transactions",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For finance operations managers in accounting firms processing 10\u201320 invoices/week, inconsistent cash flow visibility causes financial planning challenges. We automate weekly cash flow summaries instead of manual cash flow tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-04",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

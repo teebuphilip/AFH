@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors managing 5-15 job sites",
+  "offer": "For construction contractors managing 5-15 job sites, inefficient progress reporting causes project delays. We automate photo conversion into reports instead of manual photo organization and reporting.",
+  "problem": "Inefficient progress reporting from job site photos",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to construction contractors with demo video",
+    "Community forums for construction tools and resources"
+  ],
+  "try_it": "Let users try basic report generation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Reduce steps in the onboarding process"
+  ]
+}

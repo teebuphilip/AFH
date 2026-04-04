@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 clients/month tool",
+  "description": "For accounting firms processing 5\u201315 clients/month, inefficient tax preparation causes late filings. We automate tax preparation instead of manual tax preparation and filing.",
+  "target_audience": "accounting firms processing 5\u201315 clients/month",
+  "problem_solved": "Inefficient tax preparation and filing processes",
+  "features": [
+    "user-friendly interface for data entry",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 clients/month",
+    "primary_problem": "Inefficient tax preparation and filing processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 clients/month, inefficient tax preparation causes late filings. We automate tax preparation instead of manual tax preparation and filing.",
+    "current_alternative": "manual tax preparation and filing",
+    "must_have_features": [
+      "user-friendly interface for data entry",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 clients/month, inefficient tax preparation causes late filings. We automate tax preparation instead of manual tax preparation and filing.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

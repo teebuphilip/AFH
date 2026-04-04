@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201350 invoices/month tool",
+  "description": "For logistics carriers processing 10\u201350 invoices/month, discrepancies cause operational inefficiencies. We reconcile delivery logs with shipment invoices instead of manual reconciliation of logs and invoices.",
+  "target_audience": "logistics carriers processing 10\u201350 invoices/month",
+  "problem_solved": "discrepancies between delivery logs and shipment invoices",
+  "features": [
+    "manual entry of delivery logs",
+    "manual entry of shipment invoices",
+    "discrepancy reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201350 invoices/month",
+    "primary_problem": "discrepancies between delivery logs and shipment invoices",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201350 invoices/month, discrepancies cause operational inefficiencies. We reconcile delivery logs with shipment invoices instead of manual reconciliation of logs and invoices.",
+    "current_alternative": "manual reconciliation of logs and invoices",
+    "must_have_features": [
+      "manual entry of delivery logs",
+      "manual entry of shipment invoices",
+      "discrepancy reporting dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201350 invoices/month, discrepancies cause operational inefficiencies. We reconcile delivery logs with shipment invoices instead of manual reconciliation of logs and invoices.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-04",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201310 projects simultaneously tool",
+  "description": "For construction contractors managing 5\u201310 projects simultaneously, delays in project timelines cause penalties and cost overruns. We provide a tracking system instead of manual tracking via spreadsheets.",
+  "target_audience": "construction contractors managing 5\u201310 projects simultaneously",
+  "problem_solved": "delays in project timelines leading to penalties and cost overruns",
+  "features": [
+    "timeline visualization",
+    "delay notification system",
+    "project status dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201310 projects simultaneously",
+    "primary_problem": "delays in project timelines leading to penalties and cost overruns",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201310 projects simultaneously, delays in project timelines cause penalties and cost overruns. We provide a tracking system instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "timeline visualization",
+      "delay notification system",
+      "project status dashboard"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201310 projects simultaneously, delays in project timelines cause penalties and cost overruns. We provide a tracking system instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

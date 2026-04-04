@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "transportation fleet supervisors managing 5-15 vehicles",
+  "offer": "For transportation fleet supervisors processing 5-15 vehicles, compliance issues cause potential fines. We provide automated log tracking instead of manual log tracking and spreadsheets.",
+  "problem": "Ensuring compliance with hours-of-service regulations",
+  "channels_free": [
+    "Post in Reddit communities for fleet supervisors",
+    "Indie Hackers discussions on compliance tools",
+    "DM outreach to fleet supervisors with demo video",
+    "Community forums for sharing fleet management tools"
+  ],
+  "try_it": "Let users try manual entry of driver logs",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of manual log tracking",
+    "Conduct 10 interviews with target users",
+    "Offer early access for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set up reminder schedules for users",
+    "Allow CSV import for existing logs",
+    "Enable one-click report generation",
+    "Simplify onboarding process for new users"
+  ]
+}

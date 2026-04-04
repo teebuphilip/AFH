@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 5\u201315 submissions/month tool",
+  "description": "For insurance brokers processing 5\u201315 submissions/month, inefficient data handling causes delays in underwriting approvals. We automate the conversion of policy data instead of manual data entry and submission processes.",
+  "target_audience": "insurance brokers processing 5\u201315 submissions/month",
+  "problem_solved": "Inefficient conversion of insurance policy data into underwriting submissions.",
+  "features": [
+    "manual data entry interface",
+    "data validation checks",
+    "submission tracking dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 5\u201315 submissions/month",
+    "primary_problem": "Inefficient conversion of insurance policy data into underwriting submissions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 5\u201315 submissions/month, inefficient data handling causes delays in underwriting approvals. We automate the conversion of policy data instead of manual data entry and submission processes.",
+    "current_alternative": "manual data entry and submission processes",
+    "must_have_features": [
+      "manual data entry interface",
+      "data validation checks",
+      "submission tracking dashboard"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 5\u201315 submissions/month, inefficient data handling causes delays in underwriting approvals. We automate the conversion of policy data instead of manual data entry and submission processes.",
+  "source": {
+    "idea_id": "idea_0098",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201350 invoices/month",
+  "offer": "For Amazon sellers processing 10\u201350 invoices/month, poor supplier performance causes late orders. We provide real-time analytics instead of manual tracking through spreadsheets.",
+  "problem": "Inability to effectively monitor supplier performance",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to Amazon sellers with demo video",
+    "Community forums where Amazon sellers share tools"
+  ],
+  "try_it": "Let users try Supplier performance scorecard on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Enable CSV import for existing supplier data",
+    "Provide one-click export for simple reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

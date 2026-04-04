@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, inaccurate fixed asset depreciation calculations cause financial discrepancies. We provide automated depreciation reporting instead of manual spreadsheets for depreciation calculations.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Inaccurate fixed asset depreciation calculations leading to financial discrepancies.",
+  "features": [
+    "manual entry for asset details",
+    "basic reporting functionality",
+    "depreciation schedule generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Inaccurate fixed asset depreciation calculations leading to financial discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, inaccurate fixed asset depreciation calculations cause financial discrepancies. We provide automated depreciation reporting instead of manual spreadsheets for depreciation calculations.",
+    "current_alternative": "manual spreadsheets for depreciation calculations",
+    "must_have_features": [
+      "manual entry for asset details",
+      "basic reporting functionality",
+      "depreciation schedule generation"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, inaccurate fixed asset depreciation calculations cause financial discrepancies. We provide automated depreciation reporting instead of manual spreadsheets for depreciation calculations.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

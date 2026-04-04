@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in small clinics processing 10\u201320 invoices/month tool",
+  "description": "For medical billing specialists in small clinics processing 10\u201320 invoices/month, inaccurate coding causes claim rejections. We automate coding submissions instead of manual coding and submission processes.",
+  "target_audience": "medical billing specialists in small clinics processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate coding leads to claim rejections.",
+  "features": [
+    "manual entry of billing codes",
+    "error-checking for common coding mistakes",
+    "simple user interface for submission"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in small clinics processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate coding leads to claim rejections.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in small clinics processing 10\u201320 invoices/month, inaccurate coding causes claim rejections. We automate coding submissions instead of manual coding and submission processes.",
+    "current_alternative": "manual coding and submission processes",
+    "must_have_features": [
+      "manual entry of billing codes",
+      "error-checking for common coding mistakes",
+      "simple user interface for submission"
+    ]
+  },
+  "one_liner": "For medical billing specialists in small clinics processing 10\u201320 invoices/month, inaccurate coding causes claim rejections. We automate coding submissions instead of manual coding and submission processes.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

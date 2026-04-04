@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors managing 5-10 projects simultaneously",
+  "offer": "For construction contractors managing 5-10 projects simultaneously, inefficient scheduling of safety inspections causes compliance issues that can lead to fines. We automate the scheduling and tracking instead of relying on manual tracking through spreadsheets and emails.",
+  "problem": "Difficulty in scheduling and tracking safety inspections leads to compliance issues and potential fines.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to contractors with demo video",
+    "Community forums for sharing construction tools"
+  ],
+  "try_it": "Let users try manual entry for inspection dates and reminders",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
+  ]
+}

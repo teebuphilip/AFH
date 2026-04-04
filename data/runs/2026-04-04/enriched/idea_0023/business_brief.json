@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms managing 5\u201315 contracts/month tool",
+  "description": "For law firms managing 5\u201315 contracts/month, missed contract milestone deadlines cause penalties. We provide automated alerts instead of manual tracking through spreadsheets or calendars.",
+  "target_audience": "law firms managing 5\u201315 contracts/month",
+  "problem_solved": "Missed contract milestone deadlines can lead to penalties and damaged client relationships.",
+  "features": [
+    "Deadline tracking",
+    "Monthly summary reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms managing 5\u201315 contracts/month",
+    "primary_problem": "Missed contract milestone deadlines can lead to penalties and damaged client relationships.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms managing 5\u201315 contracts/month, missed contract milestone deadlines cause penalties. We provide automated alerts instead of manual tracking through spreadsheets or calendars.",
+    "current_alternative": "manual tracking through spreadsheets or calendars",
+    "must_have_features": [
+      "Deadline tracking",
+      "Monthly summary reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firms managing 5\u201315 contracts/month, missed contract milestone deadlines cause penalties. We provide automated alerts instead of manual tracking through spreadsheets or calendars.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-04",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10\u201320 work orders/month tool",
+  "description": "For property managers processing 10\u201320 work orders/month, inefficient scheduling causes tenant dissatisfaction. We streamline scheduling instead of manual scheduling via spreadsheets.",
+  "target_audience": "property managers processing 10\u201320 work orders/month",
+  "problem_solved": "Inefficient scheduling of maintenance tasks",
+  "features": [
+    "simple work order creation",
+    "calendar view for scheduling",
+    "notification system for upcoming tasks"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10\u201320 work orders/month",
+    "primary_problem": "Inefficient scheduling of maintenance tasks",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 work orders/month, inefficient scheduling causes tenant dissatisfaction. We streamline scheduling instead of manual scheduling via spreadsheets.",
+    "current_alternative": "manual scheduling via spreadsheets",
+    "must_have_features": [
+      "simple work order creation",
+      "calendar view for scheduling",
+      "notification system for upcoming tasks"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201320 work orders/month, inefficient scheduling causes tenant dissatisfaction. We streamline scheduling instead of manual scheduling via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-04",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

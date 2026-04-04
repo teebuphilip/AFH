@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, delays in vendor onboarding cause missed opportunities for unique supplies. We provide a streamlined onboarding tool instead of manual vendor checks and onboarding processes.",
+  "problem": "Delays in vendor onboarding and background checks",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to Etsy sellers with demo video",
+    "Community forums where Etsy sellers share tools"
+  ],
+  "try_it": "Let users try vendor input form and onboarding status tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access to first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Reduce steps in onboarding process"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-15 job sites tool",
+  "description": "For construction contractors managing 5-15 job sites, inefficient progress reporting causes project delays. We automate photo conversion into reports instead of manual photo organization and reporting.",
+  "target_audience": "construction contractors managing 5-15 job sites",
+  "problem_solved": "Inefficient progress reporting from job site photos",
+  "features": [
+    "basic report generation",
+    "user-friendly interface",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-15 job sites",
+    "primary_problem": "Inefficient progress reporting from job site photos",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5-15 job sites, inefficient progress reporting causes project delays. We automate photo conversion into reports instead of manual photo organization and reporting.",
+    "current_alternative": "manual photo organization and reporting",
+    "must_have_features": [
+      "basic report generation",
+      "user-friendly interface",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-15 job sites, inefficient progress reporting causes project delays. We automate photo conversion into reports instead of manual photo organization and reporting.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

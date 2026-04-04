@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR teams in small to medium-sized marketing agencies managing 5-15 employees tool",
+  "description": "For HR teams in small to medium-sized marketing agencies processing 5-15 employees, inefficient scheduling causes missed deadlines. We streamline scheduling instead of manual spreadsheets and email communication.",
+  "target_audience": "HR teams in small to medium-sized marketing agencies managing 5-15 employees",
+  "problem_solved": "Inefficient workforce scheduling and time-off management",
+  "features": [
+    "simple time-off request form",
+    "visual scheduling calendar",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR teams in small to medium-sized marketing agencies managing 5-15 employees",
+    "primary_problem": "Inefficient workforce scheduling and time-off management",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR teams in small to medium-sized marketing agencies processing 5-15 employees, inefficient scheduling causes missed deadlines. We streamline scheduling instead of manual spreadsheets and email communication.",
+    "current_alternative": "manual spreadsheets and email communication",
+    "must_have_features": [
+      "simple time-off request form",
+      "visual scheduling calendar",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR teams in small to medium-sized marketing agencies processing 5-15 employees, inefficient scheduling causes missed deadlines. We streamline scheduling instead of manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-04",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

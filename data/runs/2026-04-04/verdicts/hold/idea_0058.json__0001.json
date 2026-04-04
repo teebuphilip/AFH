@@ -1,0 +1,16 @@
+{
+  "idea_text": "Expense report generation and approval system for finance teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 69,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-04T09:57:19.548597",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

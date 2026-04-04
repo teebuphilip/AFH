@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR professionals in small to medium-sized businesses using BambooHR, processing 5\u201315 employee records/month tool",
+  "description": "For HR professionals in small to medium-sized businesses using BambooHR processing 5\u201315 employee records/month, regulatory compliance tracking issues cause potential legal penalties. We provide a streamlined compliance tracking service instead of manual tracking through spreadsheets and outdated resources.",
+  "target_audience": "HR professionals in small to medium-sized businesses using BambooHR, processing 5\u201315 employee records/month",
+  "problem_solved": "Difficulty in tracking regulatory compliance updates and ensuring adherence to labor laws.",
+  "features": [
+    "Compliance checklist for labor laws",
+    "Simple reporting tool for compliance status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR professionals in small to medium-sized businesses using BambooHR, processing 5\u201315 employee records/month",
+    "primary_problem": "Difficulty in tracking regulatory compliance updates and ensuring adherence to labor laws.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR professionals in small to medium-sized businesses using BambooHR processing 5\u201315 employee records/month, regulatory compliance tracking issues cause potential legal penalties. We provide a streamlined compliance tracking service instead of manual tracking through spreadsheets and outdated resources.",
+    "current_alternative": "Manual tracking through spreadsheets and outdated resources.",
+    "must_have_features": [
+      "Compliance checklist for labor laws",
+      "Simple reporting tool for compliance status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR professionals in small to medium-sized businesses using BambooHR processing 5\u201315 employee records/month, regulatory compliance tracking issues cause potential legal penalties. We provide a streamlined compliance tracking service instead of manual tracking through spreadsheets and outdated resources.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-04",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Shopify store owners processing 10\u201350 orders/month",
+  "offer": "For Shopify store owners processing 10\u201350 orders/month, high customer churn causes lost revenue. We provide a customer churn analysis and retention system instead of manual tracking of customer interactions and sales data.",
+  "problem": "High customer churn rates",
+  "channels_free": [
+    "Post in Reddit communities for Shopify store owners",
+    "Indie Hackers posts about similar challenges",
+    "DM outreach to Shopify store owners with demo video",
+    "Community forums where Shopify store owners share tools"
+  ],
+  "try_it": "Let users try logging interactions and churn rate on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Pre-set reminder schedules for users",
+    "Allow CSV import for existing customer data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process to reduce steps"
+  ]
+}

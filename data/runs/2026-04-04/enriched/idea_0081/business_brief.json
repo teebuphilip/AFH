@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10\u201320 invoices/month tool",
+  "description": "For property managers processing 10\u201320 invoices/month, inaccurate payroll and tax documents cause cash flow gaps. We automate document generation instead of manual data entry into spreadsheets.",
+  "target_audience": "property managers processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate payroll and tax documents due to manual data entry from hotel bookings.",
+  "features": [
+    "manual data entry interface",
+    "template generation for payroll documents",
+    "export functionality for tax documents"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate payroll and tax documents due to manual data entry from hotel bookings.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 invoices/month, inaccurate payroll and tax documents cause cash flow gaps. We automate document generation instead of manual data entry into spreadsheets.",
+    "current_alternative": "manual data entry into spreadsheets",
+    "must_have_features": [
+      "manual data entry interface",
+      "template generation for payroll documents",
+      "export functionality for tax documents"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201320 invoices/month, inaccurate payroll and tax documents cause cash flow gaps. We automate document generation instead of manual data entry into spreadsheets.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, discrepancies cause cash flow gaps. We reconcile daily sales data with payment gateway reports instead of manual reconciliation of sales and payment reports.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Discrepancies between sales data and payment gateway reports",
+  "features": [
+    "Daily sales data input",
+    "Alert system for discrepancies",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Discrepancies between sales data and payment gateway reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, discrepancies cause cash flow gaps. We reconcile daily sales data with payment gateway reports instead of manual reconciliation of sales and payment reports.",
+    "current_alternative": "Manual reconciliation of sales and payment reports",
+    "must_have_features": [
+      "Daily sales data input",
+      "Alert system for discrepancies",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, discrepancies cause cash flow gaps. We reconcile daily sales data with payment gateway reports instead of manual reconciliation of sales and payment reports.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

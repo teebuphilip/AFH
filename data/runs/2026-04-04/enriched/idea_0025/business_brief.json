@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5-15 vehicles tool",
+  "description": "For logistics carriers managing 5-15 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide automated alerts instead of manual tracking of maintenance schedules.",
+  "target_audience": "logistics carriers managing 5-15 vehicles",
+  "problem_solved": "Inconsistent vehicle maintenance schedules lead to unexpected breakdowns.",
+  "features": [
+    "manual entry of vehicle maintenance records",
+    "weekly alert notifications for upcoming maintenance",
+    "dashboard for tracking maintenance history"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5-15 vehicles",
+    "primary_problem": "Inconsistent vehicle maintenance schedules lead to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5-15 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide automated alerts instead of manual tracking of maintenance schedules.",
+    "current_alternative": "manual tracking of maintenance schedules",
+    "must_have_features": [
+      "manual entry of vehicle maintenance records",
+      "weekly alert notifications for upcoming maintenance",
+      "dashboard for tracking maintenance history"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5-15 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide automated alerts instead of manual tracking of maintenance schedules.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-04",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

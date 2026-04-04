@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics supervisors at freight brokers managing 5\u201315 deliveries/day tool",
+  "description": "For logistics supervisors at freight brokers processing 5\u201315 deliveries/day, route deviations cause late deliveries. We monitor GPS data instead of manual tracking of delivery routes.",
+  "target_audience": "logistics supervisors at freight brokers managing 5\u201315 deliveries/day",
+  "problem_solved": "route deviations leading to late deliveries",
+  "features": [
+    "real-time GPS tracking",
+    "manual route logging",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics supervisors at freight brokers managing 5\u201315 deliveries/day",
+    "primary_problem": "route deviations leading to late deliveries",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics supervisors at freight brokers processing 5\u201315 deliveries/day, route deviations cause late deliveries. We monitor GPS data instead of manual tracking of delivery routes.",
+    "current_alternative": "manual tracking of delivery routes",
+    "must_have_features": [
+      "real-time GPS tracking",
+      "manual route logging",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics supervisors at freight brokers processing 5\u201315 deliveries/day, route deviations cause late deliveries. We monitor GPS data instead of manual tracking of delivery routes.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

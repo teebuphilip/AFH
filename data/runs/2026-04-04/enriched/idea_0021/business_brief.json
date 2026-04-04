@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/month tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/month, inaccurate delivery compliance reporting causes supplier penalties. We convert raw logistics tracking data into delivery compliance reports instead of manual tracking and reporting.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/month",
+  "problem_solved": "Inaccurate delivery compliance reporting leads to penalties.",
+  "features": [
+    "manual data entry for tracking",
+    "customizable report templates",
+    "basic analytics dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/month",
+    "primary_problem": "Inaccurate delivery compliance reporting leads to penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/month, inaccurate delivery compliance reporting causes supplier penalties. We convert raw logistics tracking data into delivery compliance reports instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting",
+    "must_have_features": [
+      "manual data entry for tracking",
+      "customizable report templates",
+      "basic analytics dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/month, inaccurate delivery compliance reporting causes supplier penalties. We convert raw logistics tracking data into delivery compliance reports instead of manual tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

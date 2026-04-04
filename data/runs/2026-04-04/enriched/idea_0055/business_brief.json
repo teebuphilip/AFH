@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers processing 10\u201350 orders/month tool",
+  "description": "For logistics managers processing 10\u201350 orders/month, inaccurate inventory forecasting causes stockouts. We provide an automated inventory forecasting system instead of manual tracking and spreadsheets.",
+  "target_audience": "logistics managers processing 10\u201350 orders/month",
+  "problem_solved": "Inaccurate inventory forecasting leads to stockouts.",
+  "features": [
+    "manual entry for inventory data",
+    "basic reporting on stock levels",
+    "alert system for low inventory"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers processing 10\u201350 orders/month",
+    "primary_problem": "Inaccurate inventory forecasting leads to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers processing 10\u201350 orders/month, inaccurate inventory forecasting causes stockouts. We provide an automated inventory forecasting system instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "manual entry for inventory data",
+      "basic reporting on stock levels",
+      "alert system for low inventory"
+    ]
+  },
+  "one_liner": "For logistics managers processing 10\u201350 orders/month, inaccurate inventory forecasting causes stockouts. We provide an automated inventory forecasting system instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-04",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

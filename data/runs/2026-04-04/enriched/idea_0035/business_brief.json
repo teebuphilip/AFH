@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "field service coordinators in the construction industry processing 10\u201320 dispatches/week tool",
+  "description": "For field service coordinators in the construction industry processing 10\u201320 dispatches/week, inefficient communication causes missed deadlines. We generate automated dispatch summaries instead of manual tracking and email updates.",
+  "target_audience": "field service coordinators in the construction industry processing 10\u201320 dispatches/week",
+  "problem_solved": "Inefficient communication and tracking of field technician activities.",
+  "features": [
+    "manual entry of technician activities",
+    "weekly summary generation",
+    "email notifications for dispatch updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "field service coordinators in the construction industry processing 10\u201320 dispatches/week",
+    "primary_problem": "Inefficient communication and tracking of field technician activities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For field service coordinators in the construction industry processing 10\u201320 dispatches/week, inefficient communication causes missed deadlines. We generate automated dispatch summaries instead of manual tracking and email updates.",
+    "current_alternative": "manual tracking and email updates",
+    "must_have_features": [
+      "manual entry of technician activities",
+      "weekly summary generation",
+      "email notifications for dispatch updates"
+    ]
+  },
+  "one_liner": "For field service coordinators in the construction industry processing 10\u201320 dispatches/week, inefficient communication causes missed deadlines. We generate automated dispatch summaries instead of manual tracking and email updates.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

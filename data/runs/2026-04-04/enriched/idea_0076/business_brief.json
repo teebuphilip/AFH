@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10\u201320 properties/month tool",
+  "description": "For property managers processing 10\u201320 properties/month, time-consuming manual report generation causes delayed financial insights. We automate quarterly financial report generation instead of manual spreadsheet reporting.",
+  "target_audience": "property managers processing 10\u201320 properties/month",
+  "problem_solved": "Time-consuming manual report generation",
+  "features": [
+    "template-based report generation",
+    "data input forms for property expenses",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10\u201320 properties/month",
+    "primary_problem": "Time-consuming manual report generation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 properties/month, time-consuming manual report generation causes delayed financial insights. We automate quarterly financial report generation instead of manual spreadsheet reporting.",
+    "current_alternative": "manual spreadsheet reporting",
+    "must_have_features": [
+      "template-based report generation",
+      "data input forms for property expenses",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201320 properties/month, time-consuming manual report generation causes delayed financial insights. We automate quarterly financial report generation instead of manual spreadsheet reporting.",
+  "source": {
+    "idea_id": "idea_0076",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

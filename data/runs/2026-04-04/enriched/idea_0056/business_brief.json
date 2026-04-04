@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties tool",
+  "description": "For property managers handling 10-20 properties, inefficient reporting causes delayed insights on property performance. We automate reporting instead of manual spreadsheets and email updates.",
+  "target_audience": "property managers handling 10-20 properties",
+  "problem_solved": "Inefficient reporting processes lead to delayed insights on property performance.",
+  "features": [
+    "customizable reporting templates",
+    "user-friendly dashboard for performance tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties",
+    "primary_problem": "Inefficient reporting processes lead to delayed insights on property performance.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 properties, inefficient reporting causes delayed insights on property performance. We automate reporting instead of manual spreadsheets and email updates.",
+    "current_alternative": "manual spreadsheets and email updates",
+    "must_have_features": [
+      "customizable reporting templates",
+      "user-friendly dashboard for performance tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties, inefficient reporting causes delayed insights on property performance. We automate reporting instead of manual spreadsheets and email updates.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

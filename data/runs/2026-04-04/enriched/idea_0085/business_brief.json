@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 permit applications/month tool",
+  "description": "For construction contractors processing 5\u201315 permit applications/month, manual paperwork causes delays in project timelines. We automate the conversion of construction plans into permit application forms instead of manual paperwork and form filling.",
+  "target_audience": "construction contractors processing 5\u201315 permit applications/month",
+  "problem_solved": "Manual conversion of construction plans into permit applications is time-consuming and error-prone.",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 permit applications/month",
+    "primary_problem": "Manual conversion of construction plans into permit applications is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 permit applications/month, manual paperwork causes delays in project timelines. We automate the conversion of construction plans into permit application forms instead of manual paperwork and form filling.",
+    "current_alternative": "manual paperwork and form filling",
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 permit applications/month, manual paperwork causes delays in project timelines. We automate the conversion of construction plans into permit application forms instead of manual paperwork and form filling.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-04",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

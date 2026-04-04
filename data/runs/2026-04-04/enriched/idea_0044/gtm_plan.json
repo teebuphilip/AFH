@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics finance teams processing 10-20 invoices/month",
+  "offer": "For logistics finance teams processing 10-20 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "problem": "Inaccurate reconciliation of fuel invoices with fleet usage logs.",
+  "channels_free": [
+    "Post in Reddit communities for logistics finance teams",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to logistics finance teams with demo video",
+    "Community forums where finance teams share tools"
+  ],
+  "try_it": "Let users try invoice data entry and log comparison",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

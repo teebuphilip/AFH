@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 permits/month tool",
+  "description": "For construction contractors processing 5\u201315 permits/month, manual submission causes delays that can result in project penalties. We automate digital submissions instead of manual submission of paper permits.",
+  "target_audience": "construction contractors processing 5\u201315 permits/month",
+  "problem_solved": "Manual submission of construction permits leads to delays and potential fines.",
+  "features": [
+    "monthly scheduling for submissions",
+    "notification system for upcoming deadlines",
+    "user-friendly interface for permit entry"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 permits/month",
+    "primary_problem": "Manual submission of construction permits leads to delays and potential fines.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 permits/month, manual submission causes delays that can result in project penalties. We automate digital submissions instead of manual submission of paper permits.",
+    "current_alternative": "manual submission of paper permits",
+    "must_have_features": [
+      "monthly scheduling for submissions",
+      "notification system for upcoming deadlines",
+      "user-friendly interface for permit entry"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 permits/month, manual submission causes delays that can result in project penalties. We automate digital submissions instead of manual submission of paper permits.",
+  "source": {
+    "idea_id": "idea_0078",
+    "run_date": "2026-04-04",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

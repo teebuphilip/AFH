@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, overdue payments cause cash flow gaps. We provide automated alerts instead of manual tracking of invoices and payment reminders.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Overdue payments leading to cash flow gaps.",
+  "features": [
+    "Invoice aging dashboard",
+    "Manual entry for invoice details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Overdue payments leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, overdue payments cause cash flow gaps. We provide automated alerts instead of manual tracking of invoices and payment reminders.",
+    "current_alternative": "manual tracking of invoices and payment reminders",
+    "must_have_features": [
+      "Invoice aging dashboard",
+      "Manual entry for invoice details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, overdue payments cause cash flow gaps. We provide automated alerts instead of manual tracking of invoices and payment reminders.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-04",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 5\u201315 policies/month tool",
+  "description": "For insurance brokers processing 5\u201315 policies/month, manual tracking causes late alerts to clients. We provide automated monitoring instead of manual tracking of policy limits through spreadsheets.",
+  "target_audience": "insurance brokers managing 5\u201315 policies/month",
+  "problem_solved": "Risk managers are unaware of policy limit breaches until it's too late.",
+  "features": [
+    "alert system for policy limit breaches",
+    "dashboard for policy overview",
+    "manual entry for policy details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 5\u201315 policies/month",
+    "primary_problem": "Risk managers are unaware of policy limit breaches until it's too late.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 5\u201315 policies/month, manual tracking causes late alerts to clients. We provide automated monitoring instead of manual tracking of policy limits through spreadsheets.",
+    "current_alternative": "manual tracking of policy limits through spreadsheets",
+    "must_have_features": [
+      "alert system for policy limit breaches",
+      "dashboard for policy overview",
+      "manual entry for policy details"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 5\u201315 policies/month, manual tracking causes late alerts to clients. We provide automated monitoring instead of manual tracking of policy limits through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0084",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

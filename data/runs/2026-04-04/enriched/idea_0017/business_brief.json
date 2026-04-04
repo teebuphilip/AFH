@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations in medical clinics managing 5-15 certifications/month tool",
+  "description": "For HR operations in medical clinics processing 5-15 certifications/month, missed certification renewals cause compliance penalties. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "HR operations in medical clinics managing 5-15 certifications/month",
+  "problem_solved": "Tracking employee certification expirations and ensuring compliance.",
+  "features": [
+    "Monthly expiration alerts",
+    "Certification tracking dashboard",
+    "Manual entry for certification details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations in medical clinics managing 5-15 certifications/month",
+    "primary_problem": "Tracking employee certification expirations and ensuring compliance.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR operations in medical clinics processing 5-15 certifications/month, missed certification renewals cause compliance penalties. We provide automated alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "Manual tracking via spreadsheets",
+    "must_have_features": [
+      "Monthly expiration alerts",
+      "Certification tracking dashboard",
+      "Manual entry for certification details"
+    ]
+  },
+  "one_liner": "For HR operations in medical clinics processing 5-15 certifications/month, missed certification renewals cause compliance penalties. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-04",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant owners processing 20\u201350 sales transactions/month",
+  "offer": "For restaurant owners processing 20\u201350 sales transactions/month, inconsistent sales data causes payroll delays. We automate payroll and tax document generation instead of manual data entry into payroll systems.",
+  "problem": "Inaccurate payroll and tax documents due to manual data entry from sales.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant owners",
+    "Indie Hackers posts on payroll solutions",
+    "DM outreach with demo video to restaurant owners",
+    "Community forums for restaurant owners sharing tools"
+  ],
+  "try_it": "Let users try manual data entry and sales import functionality",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR operations in small accounting firms processing 5\u201315 payroll audits/week",
+  "offer": "For HR operations in small accounting firms processing 5\u201315 payroll audits/week, manual report generation causes compliance issues. We streamline report generation and email distribution instead of manual report generation and email distribution.",
+  "problem": "Timely generation of payroll audit reports",
+  "channels_free": [
+    "Post in Reddit communities for HR operations help",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to 20-50 HR operations with demo video",
+    "Community forums for sharing tools and solutions"
+  ],
+  "try_it": "Let users try Email distribution of reports and User-friendly interface for report customization on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple report",
+    "Fewer steps in onboarding"
+  ]
+}

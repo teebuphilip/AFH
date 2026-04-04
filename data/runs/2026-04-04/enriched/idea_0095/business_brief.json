@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hotel managers processing 10\u201320 bookings/month tool",
+  "description": "For hotel managers processing 10\u201320 bookings/month, manual data entry causes delayed revenue insights. We automate report generation instead of manual data entry and spreadsheet calculations.",
+  "target_audience": "hotel managers processing 10\u201320 bookings/month",
+  "problem_solved": "Inability to quickly generate accurate revenue and occupancy reports from sales data.",
+  "features": [
+    "customizable report templates",
+    "user-friendly dashboard for quick insights",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hotel managers processing 10\u201320 bookings/month",
+    "primary_problem": "Inability to quickly generate accurate revenue and occupancy reports from sales data.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hotel managers processing 10\u201320 bookings/month, manual data entry causes delayed revenue insights. We automate report generation instead of manual data entry and spreadsheet calculations.",
+    "current_alternative": "manual data entry and spreadsheet calculations",
+    "must_have_features": [
+      "customizable report templates",
+      "user-friendly dashboard for quick insights",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For hotel managers processing 10\u201320 bookings/month, manual data entry causes delayed revenue insights. We automate report generation instead of manual data entry and spreadsheet calculations.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

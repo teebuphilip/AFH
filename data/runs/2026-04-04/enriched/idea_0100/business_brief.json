@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billers processing 10\u201320 invoices/month tool",
+  "description": "For medical billers processing 10\u201320 invoices/month, inefficient claim submissions cause delayed payments. We automate the claims submission process instead of manual tracking and submission of claims.",
+  "target_audience": "medical billers processing 10\u201320 invoices/month",
+  "problem_solved": "inefficient claim submissions leading to delayed payments",
+  "features": [
+    "manual entry of patient bills",
+    "claim status tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billers processing 10\u201320 invoices/month",
+    "primary_problem": "inefficient claim submissions leading to delayed payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billers processing 10\u201320 invoices/month, inefficient claim submissions cause delayed payments. We automate the claims submission process instead of manual tracking and submission of claims.",
+    "current_alternative": "manual tracking and submission of claims",
+    "must_have_features": [
+      "manual entry of patient bills",
+      "claim status tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical billers processing 10\u201320 invoices/month, inefficient claim submissions cause delayed payments. We automate the claims submission process instead of manual tracking and submission of claims.",
+  "source": {
+    "idea_id": "idea_0100",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

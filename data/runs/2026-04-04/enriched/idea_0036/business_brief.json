@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing offices processing 10\u201320 payroll submissions/month tool",
+  "description": "For medical billing offices processing 10\u201320 payroll submissions/month, manual data entry causes late payroll submissions. We automate timesheet data extraction instead of manual data entry and spreadsheet management.",
+  "target_audience": "medical billing offices processing 10\u201320 payroll submissions/month",
+  "problem_solved": "manual data entry errors and time consumption in payroll submissions",
+  "features": [
+    "manual data entry interface",
+    "basic timesheet formatting options",
+    "error-checking for data accuracy"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing offices processing 10\u201320 payroll submissions/month",
+    "primary_problem": "manual data entry errors and time consumption in payroll submissions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing offices processing 10\u201320 payroll submissions/month, manual data entry causes late payroll submissions. We automate timesheet data extraction instead of manual data entry and spreadsheet management.",
+    "current_alternative": "manual data entry and spreadsheet management",
+    "must_have_features": [
+      "manual data entry interface",
+      "basic timesheet formatting options",
+      "error-checking for data accuracy"
+    ]
+  },
+  "one_liner": "For medical billing offices processing 10\u201320 payroll submissions/month, manual data entry causes late payroll submissions. We automate timesheet data extraction instead of manual data entry and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "paralegals in law firms managing 5\u201315 cases/month tool",
+  "description": "For paralegals in law firms processing 5\u201315 cases/month, missed legal document filing deadlines cause potential penalties. We provide automated deadline tracking instead of manual tracking through calendars and reminders.",
+  "target_audience": "paralegals in law firms managing 5\u201315 cases/month",
+  "problem_solved": "missed legal document filing deadlines",
+  "features": [
+    "deadline tracking",
+    "case management overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "paralegals in law firms managing 5\u201315 cases/month",
+    "primary_problem": "missed legal document filing deadlines",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For paralegals in law firms processing 5\u201315 cases/month, missed legal document filing deadlines cause potential penalties. We provide automated deadline tracking instead of manual tracking through calendars and reminders.",
+    "current_alternative": "manual tracking through calendars and reminders",
+    "must_have_features": [
+      "deadline tracking",
+      "case management overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For paralegals in law firms processing 5\u201315 cases/month, missed legal document filing deadlines cause potential penalties. We provide automated deadline tracking instead of manual tracking through calendars and reminders.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

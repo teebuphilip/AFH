@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized e-commerce companies using Shopify, processing 10-20 vendor deliveries/week tool",
+  "description": "For procurement managers in mid-sized e-commerce companies using Shopify, processing 10-20 vendor deliveries/week, inconsistent vendor delivery performance causes late orders. We provide automated performance monitoring instead of manual tracking through spreadsheets.",
+  "target_audience": "procurement managers in mid-sized e-commerce companies using Shopify, processing 10-20 vendor deliveries/week",
+  "problem_solved": "Inconsistent vendor delivery performance leading to late orders.",
+  "features": [
+    "Weekly performance alerts",
+    "Dashboard for vendor metrics",
+    "Manual entry option for performance data"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized e-commerce companies using Shopify, processing 10-20 vendor deliveries/week",
+    "primary_problem": "Inconsistent vendor delivery performance leading to late orders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized e-commerce companies using Shopify, processing 10-20 vendor deliveries/week, inconsistent vendor delivery performance causes late orders. We provide automated performance monitoring instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking of vendor performance metrics through spreadsheets.",
+    "must_have_features": [
+      "Weekly performance alerts",
+      "Dashboard for vendor metrics",
+      "Manual entry option for performance data"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized e-commerce companies using Shopify, processing 10-20 vendor deliveries/week, inconsistent vendor delivery performance causes late orders. We provide automated performance monitoring instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

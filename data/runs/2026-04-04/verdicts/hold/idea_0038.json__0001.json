@@ -1,0 +1,16 @@
+{
+  "idea_text": "Tool that prepares monthly inventory use reports for restaurant back office managers.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 69,
+  "arr_score": 71,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-04T09:57:19.545200",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

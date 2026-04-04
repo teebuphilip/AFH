@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "transportation fleet supervisors managing 5-15 vehicles tool",
+  "description": "For transportation fleet supervisors processing 5-15 vehicles, compliance issues cause potential fines. We provide automated log tracking instead of manual log tracking and spreadsheets.",
+  "target_audience": "transportation fleet supervisors managing 5-15 vehicles",
+  "problem_solved": "Ensuring compliance with hours-of-service regulations",
+  "features": [
+    "manual entry of driver logs",
+    "hour tracking alerts",
+    "compliance reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "transportation fleet supervisors managing 5-15 vehicles",
+    "primary_problem": "Ensuring compliance with hours-of-service regulations",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For transportation fleet supervisors processing 5-15 vehicles, compliance issues cause potential fines. We provide automated log tracking instead of manual log tracking and spreadsheets.",
+    "current_alternative": "manual log tracking and spreadsheets",
+    "must_have_features": [
+      "manual entry of driver logs",
+      "hour tracking alerts",
+      "compliance reporting"
+    ]
+  },
+  "one_liner": "For transportation fleet supervisors processing 5-15 vehicles, compliance issues cause potential fines. We provide automated log tracking instead of manual log tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

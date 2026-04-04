@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 5\u201315 claims/month tool",
+  "description": "For insurance adjusters processing 5\u201315 claims/month, lack of timely updates causes delayed claim resolutions. We provide automated status monitoring instead of manual follow-ups with insurance companies.",
+  "target_audience": "insurance adjusters processing 5\u201315 claims/month",
+  "problem_solved": "lack of timely updates on claim status",
+  "features": [
+    "claim status tracking",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 5\u201315 claims/month",
+    "primary_problem": "lack of timely updates on claim status",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 5\u201315 claims/month, lack of timely updates causes delayed claim resolutions. We provide automated status monitoring instead of manual follow-ups with insurance companies.",
+    "current_alternative": "manual follow-ups with insurance companies",
+    "must_have_features": [
+      "claim status tracking",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 5\u201315 claims/month, lack of timely updates causes delayed claim resolutions. We provide automated status monitoring instead of manual follow-ups with insurance companies.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

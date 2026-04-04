@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that analyzes financial statements and generates tax filing documents for accountants.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 62,
+  "arr_score": 63,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-04T09:57:19.553624",
+  "verdict_source": "overlay_score"
+}

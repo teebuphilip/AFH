@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "clinic office managers processing 10-20 patient records/month tool",
+  "description": "For clinic office managers processing 10-20 patient records/month, inefficient aggregation causes delays in patient care. We provide a streamlined service instead of manual record keeping and disparate systems.",
+  "target_audience": "clinic office managers processing 10-20 patient records/month",
+  "problem_solved": "Inefficient aggregation of patient medical history",
+  "features": [
+    "manual data entry for patient records",
+    "simple dashboard for viewing aggregated history",
+    "export functionality for reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "clinic office managers processing 10-20 patient records/month",
+    "primary_problem": "Inefficient aggregation of patient medical history",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For clinic office managers processing 10-20 patient records/month, inefficient aggregation causes delays in patient care. We provide a streamlined service instead of manual record keeping and disparate systems.",
+    "current_alternative": "manual record keeping and disparate systems",
+    "must_have_features": [
+      "manual data entry for patient records",
+      "simple dashboard for viewing aggregated history",
+      "export functionality for reports"
+    ]
+  },
+  "one_liner": "For clinic office managers processing 10-20 patient records/month, inefficient aggregation causes delays in patient care. We provide a streamlined service instead of manual record keeping and disparate systems.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

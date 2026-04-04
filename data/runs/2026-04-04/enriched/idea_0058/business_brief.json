@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For accounting firms processing 5\u201315 invoices/month, delayed approvals cause cash flow gaps. We streamline expense report generation and approval instead of manual spreadsheets and email approvals.",
+  "target_audience": "accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "Timely approval of expense reports",
+  "features": [
+    "manual entry of expenses",
+    "simple approval workflow",
+    "export to CSV for reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "Timely approval of expense reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 invoices/month, delayed approvals cause cash flow gaps. We streamline expense report generation and approval instead of manual spreadsheets and email approvals.",
+    "current_alternative": "manual spreadsheets and email approvals",
+    "must_have_features": [
+      "manual entry of expenses",
+      "simple approval workflow",
+      "export to CSV for reporting"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 invoices/month, delayed approvals cause cash flow gaps. We streamline expense report generation and approval instead of manual spreadsheets and email approvals.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

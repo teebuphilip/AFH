@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant owners processing 5\u201315 food safety inspections/month tool",
+  "description": "For restaurant owners processing 5\u201315 food safety inspections/month, inefficient report compilation causes compliance issues. We automate report generation instead of manual report compilation using spreadsheets.",
+  "target_audience": "restaurant owners processing 5\u201315 food safety inspections/month",
+  "problem_solved": "Inefficient compilation of food safety inspection reports leading to potential compliance issues.",
+  "features": [
+    "template-based report generation",
+    "user-friendly interface for data entry",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant owners processing 5\u201315 food safety inspections/month",
+    "primary_problem": "Inefficient compilation of food safety inspection reports leading to potential compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For restaurant owners processing 5\u201315 food safety inspections/month, inefficient report compilation causes compliance issues. We automate report generation instead of manual report compilation using spreadsheets.",
+    "current_alternative": "manual report compilation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly interface for data entry",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant owners processing 5\u201315 food safety inspections/month, inefficient report compilation causes compliance issues. We automate report generation instead of manual report compilation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

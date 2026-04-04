@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics carriers processing 50\u2013100 shipments/month",
+  "offer": "For logistics carriers processing 50\u2013100 shipments/month, inaccurate delivery compliance reporting causes supplier penalties. We convert raw logistics tracking data into delivery compliance reports instead of manual tracking and reporting.",
+  "problem": "Inaccurate delivery compliance reporting leads to penalties.",
+  "channels_free": [
+    "Post in Reddit communities for logistics carriers",
+    "Indie Hackers discussions on logistics workflows",
+    "DM outreach to logistics carriers with demo video",
+    "Community forums where logistics carriers share tools"
+  ],
+  "try_it": "Let users try manual data entry for tracking and reports",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

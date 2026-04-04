@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, delays in vendor onboarding cause missed opportunities for unique supplies. We provide a streamlined onboarding tool instead of manual vendor checks and onboarding processes.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Delays in vendor onboarding and background checks",
+  "features": [
+    "Simple vendor information input form",
+    "Status tracking for onboarding progress",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Delays in vendor onboarding and background checks",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, delays in vendor onboarding cause missed opportunities for unique supplies. We provide a streamlined onboarding tool instead of manual vendor checks and onboarding processes.",
+    "current_alternative": "Manual vendor checks and onboarding processes",
+    "must_have_features": [
+      "Simple vendor information input form",
+      "Status tracking for onboarding progress",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, delays in vendor onboarding cause missed opportunities for unique supplies. We provide a streamlined onboarding tool instead of manual vendor checks and onboarding processes.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

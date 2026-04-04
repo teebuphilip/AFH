@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical billing teams in small clinics processing 5\u201315 claims/month",
+  "offer": "For medical billing teams in small clinics processing 5\u201315 claims/month, manual reconciliation causes delayed payments. We automate the reconciliation instead of manual reconciliation processes.",
+  "problem": "reconciliation of patient records and insurance claims",
+  "channels_free": [
+    "Post in Reddit communities for medical billing help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to 20-50 medical billing teams with demo",
+    "Community forums where medical billing teams share tools"
+  ],
+  "try_it": "Let users try manual data entry for patient records",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

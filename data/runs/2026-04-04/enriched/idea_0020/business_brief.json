@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations in small accounting firms processing 5\u201315 payroll audits/week tool",
+  "description": "For HR operations in small accounting firms processing 5\u201315 payroll audits/week, manual report generation causes compliance issues. We automate report generation and email distribution instead of manual report generation and email distribution.",
+  "target_audience": "HR operations in small accounting firms processing 5\u201315 payroll audits/week",
+  "problem_solved": "Timely generation of payroll audit reports",
+  "features": [
+    "Email distribution of reports",
+    "User-friendly interface for report customization",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations in small accounting firms processing 5\u201315 payroll audits/week",
+    "primary_problem": "Timely generation of payroll audit reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations in small accounting firms processing 5\u201315 payroll audits/week, manual report generation causes compliance issues. We automate report generation and email distribution instead of manual report generation and email distribution.",
+    "current_alternative": "Manual report generation and email distribution",
+    "must_have_features": [
+      "Email distribution of reports",
+      "User-friendly interface for report customization",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations in small accounting firms processing 5\u201315 payroll audits/week, manual report generation causes compliance issues. We automate report generation and email distribution instead of manual report generation and email distribution.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

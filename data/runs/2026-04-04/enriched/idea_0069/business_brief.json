@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accountants managing 5\u201315 clients/month using QuickBooks tool",
+  "description": "For accountants managing 5\u201315 clients/month using QuickBooks, time-consuming manual financial statement generation causes late client reports. We automate financial statement generation instead of manual preparation of financial statements.",
+  "target_audience": "accountants managing 5\u201315 clients/month using QuickBooks",
+  "problem_solved": "Time-consuming manual financial statement generation",
+  "features": [
+    "template-based financial statement generation",
+    "client-specific customization options",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accountants managing 5\u201315 clients/month using QuickBooks",
+    "primary_problem": "Time-consuming manual financial statement generation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accountants managing 5\u201315 clients/month using QuickBooks, time-consuming manual financial statement generation causes late client reports. We automate financial statement generation instead of manual preparation of financial statements.",
+    "current_alternative": "manual preparation of financial statements",
+    "must_have_features": [
+      "template-based financial statement generation",
+      "client-specific customization options",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accountants managing 5\u201315 clients/month using QuickBooks, time-consuming manual financial statement generation causes late client reports. We automate financial statement generation instead of manual preparation of financial statements.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-04",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

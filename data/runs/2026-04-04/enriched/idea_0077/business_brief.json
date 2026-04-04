@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 10-20 policy renewals/month tool",
+  "description": "For insurance brokers processing 10-20 policy renewals/month, missed renewals cause coverage gaps. We monitor renewals instead of manual tracking.",
+  "target_audience": "insurance brokers managing 10-20 policy renewals/month",
+  "problem_solved": "Missed policy renewals can lead to coverage gaps for clients.",
+  "features": [
+    "exception flagging for renewals",
+    "manual entry for policy details",
+    "notification system for upcoming renewals"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 10-20 policy renewals/month",
+    "primary_problem": "Missed policy renewals can lead to coverage gaps for clients.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 10-20 policy renewals/month, missed renewals cause coverage gaps. We monitor renewals instead of manual tracking.",
+    "current_alternative": "manual tracking of policy renewals",
+    "must_have_features": [
+      "exception flagging for renewals",
+      "manual entry for policy details",
+      "notification system for upcoming renewals"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10-20 policy renewals/month, missed renewals cause coverage gaps. We monitor renewals instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0077",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

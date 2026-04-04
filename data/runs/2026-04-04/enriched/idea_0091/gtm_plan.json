@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance adjusters processing 5\u201315 claims/month",
+  "offer": "For insurance adjusters processing 5\u201315 claims/month, lack of timely updates causes delayed claim resolutions. We provide status monitoring instead of manual follow-ups with insurance companies.",
+  "problem": "lack of timely updates on claim status",
+  "channels_free": [
+    "Post in Reddit communities for insurance adjusters",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to 20-50 insurance adjusters with demo video",
+    "Community forums where insurance adjusters share tools"
+  ],
+  "try_it": "Let users try claim status tracking and dashboard on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple report",
+    "Fewer steps in onboarding"
+  ]
+}

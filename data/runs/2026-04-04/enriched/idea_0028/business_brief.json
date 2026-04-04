@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-10 projects simultaneously tool",
+  "description": "For construction contractors managing 5-10 projects simultaneously, inefficient scheduling of safety inspections causes compliance issues that can lead to fines. We automate the scheduling and tracking instead of relying on manual tracking through spreadsheets and emails.",
+  "target_audience": "construction contractors managing 5-10 projects simultaneously",
+  "problem_solved": "Difficulty in scheduling and tracking safety inspections leads to compliance issues and potential fines.",
+  "features": [
+    "manual entry for inspection dates",
+    "reminder notifications for upcoming inspections",
+    "simple reporting of inspection outcomes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-10 projects simultaneously",
+    "primary_problem": "Difficulty in scheduling and tracking safety inspections leads to compliance issues and potential fines.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5-10 projects simultaneously, inefficient scheduling of safety inspections causes compliance issues that can lead to fines. We automate the scheduling and tracking instead of relying on manual tracking through spreadsheets and emails.",
+    "current_alternative": "manual tracking through spreadsheets and emails",
+    "must_have_features": [
+      "manual entry for inspection dates",
+      "reminder notifications for upcoming inspections",
+      "simple reporting of inspection outcomes"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-10 projects simultaneously, inefficient scheduling of safety inspections causes compliance issues that can lead to fines. We automate the scheduling and tracking instead of relying on manual tracking through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

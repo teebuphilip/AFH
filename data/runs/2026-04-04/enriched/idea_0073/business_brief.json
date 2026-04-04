@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in mid-sized tech companies with 50-200 employees tool",
+  "description": "For HR managers in mid-sized tech companies processing 50-200 employees, high turnover rates cause increased recruitment costs. We provide predictive analytics instead of manual tracking.",
+  "target_audience": "HR managers in mid-sized tech companies with 50-200 employees",
+  "problem_solved": "High employee turnover rates leading to increased recruitment costs.",
+  "features": [
+    "Employee satisfaction survey templates",
+    "Turnover prediction dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in mid-sized tech companies with 50-200 employees",
+    "primary_problem": "High employee turnover rates leading to increased recruitment costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in mid-sized tech companies processing 50-200 employees, high turnover rates cause increased recruitment costs. We provide predictive analytics instead of manual tracking.",
+    "current_alternative": "Manual tracking of employee satisfaction and turnover metrics.",
+    "must_have_features": [
+      "Employee satisfaction survey templates",
+      "Turnover prediction dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in mid-sized tech companies processing 50-200 employees, high turnover rates cause increased recruitment costs. We provide predictive analytics instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-04",
+    "overlay_score": 54,
+    "arr_score": 54
+  }
+}

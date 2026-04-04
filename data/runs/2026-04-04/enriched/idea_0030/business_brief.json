@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in freight brokerage firms managing 5\u201315 vehicles tool",
+  "description": "For logistics managers in freight brokerage firms processing 5\u201315 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide timely alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "logistics managers in freight brokerage firms managing 5\u201315 vehicles",
+  "problem_solved": "Inconsistent vehicle maintenance schedules leading to unexpected breakdowns.",
+  "features": [
+    "vehicle maintenance history tracking",
+    "user-friendly dashboard for monitoring",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in freight brokerage firms managing 5\u201315 vehicles",
+    "primary_problem": "Inconsistent vehicle maintenance schedules leading to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in freight brokerage firms processing 5\u201315 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide timely alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking of maintenance schedules via spreadsheets",
+    "must_have_features": [
+      "vehicle maintenance history tracking",
+      "user-friendly dashboard for monitoring",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics managers in freight brokerage firms processing 5\u201315 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide timely alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-04",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

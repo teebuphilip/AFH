@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accountants managing 5\u201315 clients/month tool",
+  "description": "For accountants managing 5\u201315 clients/month, inefficient document preparation causes late filings. We automate tax document generation instead of manual document preparation and filing.",
+  "target_audience": "accountants managing 5\u201315 clients/month",
+  "problem_solved": "Inefficient generation of tax filing documents from financial statements.",
+  "features": [
+    "manual input for financial statement analysis",
+    "template generation for tax documents",
+    "user-friendly interface for document review"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accountants managing 5\u201315 clients/month",
+    "primary_problem": "Inefficient generation of tax filing documents from financial statements.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accountants managing 5\u201315 clients/month, inefficient document preparation causes late filings. We automate tax document generation instead of manual document preparation and filing.",
+    "current_alternative": "manual document preparation and filing",
+    "must_have_features": [
+      "manual input for financial statement analysis",
+      "template generation for tax documents",
+      "user-friendly interface for document review"
+    ]
+  },
+  "one_liner": "For accountants managing 5\u201315 clients/month, inefficient document preparation causes late filings. We automate tax document generation instead of manual document preparation and filing.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-04",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

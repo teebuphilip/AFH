@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201350 invoices/month tool",
+  "description": "For accounting firms processing 10\u201350 invoices/month, manual depreciation calculations cause errors and delays. We automate the generation of monthly fixed asset depreciation schedules instead of manual spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201350 invoices/month",
+  "problem_solved": "manual depreciation calculations lead to errors and delays",
+  "features": [
+    "user-friendly interface for inputting asset details",
+    "customizable depreciation methods",
+    "export functionality for reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201350 invoices/month",
+    "primary_problem": "manual depreciation calculations lead to errors and delays",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201350 invoices/month, manual depreciation calculations cause errors and delays. We automate the generation of monthly fixed asset depreciation schedules instead of manual spreadsheets.",
+    "current_alternative": "manual spreadsheets",
+    "must_have_features": [
+      "user-friendly interface for inputting asset details",
+      "customizable depreciation methods",
+      "export functionality for reports"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201350 invoices/month, manual depreciation calculations cause errors and delays. We automate the generation of monthly fixed asset depreciation schedules instead of manual spreadsheets.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-04",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

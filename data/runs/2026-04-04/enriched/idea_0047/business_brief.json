@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 10\u201320 claims/month tool",
+  "description": "For insurance adjusters processing 10\u201320 claims/month, delays in receiving updates on claim status changes cause missed deadlines. We provide real-time alerts instead of manual tracking of claim statuses through emails and phone calls.",
+  "target_audience": "insurance adjusters processing 10\u201320 claims/month",
+  "problem_solved": "delays in receiving updates on claim status changes",
+  "features": [
+    "real-time status monitoring",
+    "user-friendly dashboard for claim tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 10\u201320 claims/month",
+    "primary_problem": "delays in receiving updates on claim status changes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 10\u201320 claims/month, delays in receiving updates on claim status changes cause missed deadlines. We provide real-time alerts instead of manual tracking of claim statuses through emails and phone calls.",
+    "current_alternative": "manual tracking of claim statuses through emails and phone calls",
+    "must_have_features": [
+      "real-time status monitoring",
+      "user-friendly dashboard for claim tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 10\u201320 claims/month, delays in receiving updates on claim status changes cause missed deadlines. We provide real-time alerts instead of manual tracking of claim statuses through emails and phone calls.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

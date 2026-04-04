@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "real estate appraisers processing 5\u201315 reports/month tool",
+  "description": "For real estate appraisers processing 5\u201315 reports/month, inconsistent report generation causes delayed client responses. We automate report generation instead of manual report generation using spreadsheets and templates.",
+  "target_audience": "real estate appraisers processing 5\u201315 reports/month",
+  "problem_solved": "Inconsistent and time-consuming property valuation report generation.",
+  "features": [
+    "template library for property reports",
+    "customizable report fields",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "real estate appraisers processing 5\u201315 reports/month",
+    "primary_problem": "Inconsistent and time-consuming property valuation report generation.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For real estate appraisers processing 5\u201315 reports/month, inconsistent report generation causes delayed client responses. We automate report generation instead of manual report generation using spreadsheets and templates.",
+    "current_alternative": "manual report generation using spreadsheets and templates",
+    "must_have_features": [
+      "template library for property reports",
+      "customizable report fields",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For real estate appraisers processing 5\u201315 reports/month, inconsistent report generation causes delayed client responses. We automate report generation instead of manual report generation using spreadsheets and templates.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

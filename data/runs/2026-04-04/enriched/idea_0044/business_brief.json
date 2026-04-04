@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics finance teams processing 10-20 invoices/month tool",
+  "description": "For logistics finance teams processing 10-20 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "logistics finance teams processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate reconciliation of fuel invoices with fleet usage logs.",
+  "features": [
+    "invoice data entry",
+    "usage log comparison",
+    "discrepancy reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics finance teams processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate reconciliation of fuel invoices with fleet usage logs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics finance teams processing 10-20 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "invoice data entry",
+      "usage log comparison",
+      "discrepancy reporting"
+    ]
+  },
+  "one_liner": "For logistics finance teams processing 10-20 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-04",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

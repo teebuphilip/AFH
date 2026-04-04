@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-15 projects/month tool",
+  "description": "For construction contractors managing 5-15 projects/month, missed compliance training deadlines cause potential legal penalties. We automate training reminders instead of manual tracking of training schedules.",
+  "target_audience": "construction contractors managing 5-15 projects/month",
+  "problem_solved": "Missed compliance training deadlines leading to potential legal penalties.",
+  "features": [
+    "customizable training schedules",
+    "tracking of training completion",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-15 projects/month",
+    "primary_problem": "Missed compliance training deadlines leading to potential legal penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5-15 projects/month, missed compliance training deadlines cause potential legal penalties. We automate training reminders instead of manual tracking of training schedules.",
+    "current_alternative": "manual tracking of training schedules",
+    "must_have_features": [
+      "customizable training schedules",
+      "tracking of training completion",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-15 projects/month, missed compliance training deadlines cause potential legal penalties. We automate training reminders instead of manual tracking of training schedules.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

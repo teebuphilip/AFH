@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small to medium-sized accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For procurement managers in small to medium-sized accounting firms processing 10\u201320 invoices/month, manual tracking causes missed due dates. We automatically generate vendor payment schedules instead of manual tracking using spreadsheets.",
+  "target_audience": "procurement managers in small to medium-sized accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Managing vendor payment schedules manually leads to missed due dates.",
+  "features": [
+    "customizable payment schedule templates",
+    "manual entry option for unique invoices",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small to medium-sized accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Managing vendor payment schedules manually leads to missed due dates.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small to medium-sized accounting firms processing 10\u201320 invoices/month, manual tracking causes missed due dates. We automatically generate vendor payment schedules instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking of payment schedules using spreadsheets",
+    "must_have_features": [
+      "customizable payment schedule templates",
+      "manual entry option for unique invoices",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in small to medium-sized accounting firms processing 10\u201320 invoices/month, manual tracking causes missed due dates. We automatically generate vendor payment schedules instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

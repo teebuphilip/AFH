@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance compliance officers processing 5\u201315 claims/month tool",
+  "description": "For insurance compliance officers processing 5\u201315 claims/month, inaccurate claims reporting causes compliance issues. We compile detailed claims audit reports instead of manual report compilation using spreadsheets.",
+  "target_audience": "insurance compliance officers processing 5\u201315 claims/month",
+  "problem_solved": "Inaccurate claims reporting leading to compliance issues.",
+  "features": [
+    "manual data entry for claims",
+    "customizable report templates",
+    "export options for compliance documentation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance compliance officers processing 5\u201315 claims/month",
+    "primary_problem": "Inaccurate claims reporting leading to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For insurance compliance officers processing 5\u201315 claims/month, inaccurate claims reporting causes compliance issues. We compile detailed claims audit reports instead of manual report compilation using spreadsheets.",
+    "current_alternative": "manual report compilation using spreadsheets",
+    "must_have_features": [
+      "manual data entry for claims",
+      "customizable report templates",
+      "export options for compliance documentation"
+    ]
+  },
+  "one_liner": "For insurance compliance officers processing 5\u201315 claims/month, inaccurate claims reporting causes compliance issues. We compile detailed claims audit reports instead of manual report compilation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-04",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small marketing agencies processing 5\u201315 employee timesheets/week tool",
+  "description": "For HR managers in small marketing agencies processing 5\u201315 employee timesheets/week, unmonitored overtime causes budget overruns. We alert HR ops when overtime thresholds are exceeded instead of manual tracking of timesheets and overtime calculations.",
+  "target_audience": "HR managers in small marketing agencies processing 5\u201315 employee timesheets/week",
+  "problem_solved": "Overtime management leading to budget overruns.",
+  "features": [
+    "Real-time overtime alerts",
+    "Manual timesheet entry",
+    "Weekly summary reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small marketing agencies processing 5\u201315 employee timesheets/week",
+    "primary_problem": "Overtime management leading to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small marketing agencies processing 5\u201315 employee timesheets/week, unmonitored overtime causes budget overruns. We alert HR ops when overtime thresholds are exceeded instead of manual tracking of timesheets and overtime calculations.",
+    "current_alternative": "Manual tracking of timesheets and overtime calculations.",
+    "must_have_features": [
+      "Real-time overtime alerts",
+      "Manual timesheet entry",
+      "Weekly summary reports"
+    ]
+  },
+  "one_liner": "For HR managers in small marketing agencies processing 5\u201315 employee timesheets/week, unmonitored overtime causes budget overruns. We alert HR ops when overtime thresholds are exceeded instead of manual tracking of timesheets and overtime calculations.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

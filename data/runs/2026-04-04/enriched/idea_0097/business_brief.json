@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10\u201320 properties/month tool",
+  "description": "For property managers processing 10\u201320 properties/month, inconsistent reporting causes owner dissatisfaction. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "property managers handling 10\u201320 properties/month",
+  "problem_solved": "Inconsistent reporting leads to owner dissatisfaction.",
+  "features": [
+    "template-based report generation",
+    "email delivery of reports",
+    "customizable report formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10\u201320 properties/month",
+    "primary_problem": "Inconsistent reporting leads to owner dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 properties/month, inconsistent reporting causes owner dissatisfaction. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "email delivery of reports",
+      "customizable report formats"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201320 properties/month, inconsistent reporting causes owner dissatisfaction. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

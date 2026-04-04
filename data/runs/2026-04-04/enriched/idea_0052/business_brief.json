@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR departments in small marketing agencies using Gusto for payroll processing 5\u201315 employees tool",
+  "description": "For HR departments in small marketing agencies processing 5\u201315 employees, compliance gaps cause penalties and fines. We provide automated compliance monitoring instead of manual tracking of compliance requirements.",
+  "target_audience": "HR departments in small marketing agencies using Gusto for payroll processing 5\u201315 employees",
+  "problem_solved": "Ensuring payroll compliance with changing regulations",
+  "features": [
+    "Compliance checklist for payroll",
+    "Monthly compliance summary report",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR departments in small marketing agencies using Gusto for payroll processing 5\u201315 employees",
+    "primary_problem": "Ensuring payroll compliance with changing regulations",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR departments in small marketing agencies processing 5\u201315 employees, compliance gaps cause penalties and fines. We provide automated compliance monitoring instead of manual tracking of compliance requirements.",
+    "current_alternative": "Manual tracking of compliance requirements",
+    "must_have_features": [
+      "Compliance checklist for payroll",
+      "Monthly compliance summary report",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR departments in small marketing agencies processing 5\u201315 employees, compliance gaps cause penalties and fines. We provide automated compliance monitoring instead of manual tracking of compliance requirements.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

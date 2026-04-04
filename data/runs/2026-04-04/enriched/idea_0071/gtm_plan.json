@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201350 invoices/month",
+  "offer": "For accounting firms processing 10\u201350 invoices/month, inefficient billing causes cash flow gaps. We provide dunning notifications instead of manual tracking and follow-ups via spreadsheets.",
+  "problem": "Inefficient management of recurring billing and dunning processes.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers posts and comments on workflows",
+    "DM outreach to 20-50 accounting firms with demo",
+    "Community forums where accounting firms share tools"
+  ],
+  "try_it": "Let users try manual invoice creation and dunning templates on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in mid-sized tech companies with 50-200 employees",
+  "offer": "For HR managers in mid-sized tech companies processing 50-200 employees, high turnover rates cause increased recruitment costs. We provide predictive analytics instead of manual tracking.",
+  "problem": "High employee turnover rates leading to increased recruitment costs.",
+  "channels_free": [
+    "Post in Reddit communities for HR managers",
+    "Engage in Indie Hackers discussions on HR tools",
+    "DM outreach to HR managers with demo video",
+    "Participate in HR forums sharing best practices"
+  ],
+  "try_it": "Let users try employee satisfaction survey templates and turnover dashboard",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing employee data",
+    "Enable one-click export of simple reports",
+    "Streamline the onboarding process with fewer steps"
+  ]
+}

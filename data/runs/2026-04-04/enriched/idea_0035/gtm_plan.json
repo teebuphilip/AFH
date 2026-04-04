@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "field service coordinators in the construction industry processing 10\u201320 dispatches/week",
+  "offer": "For field service coordinators in the construction industry processing 10\u201320 dispatches/week, inefficient communication causes missed deadlines. We generate automated dispatch summaries instead of manual tracking and email updates.",
+  "problem": "Inefficient communication and tracking of field technician activities.",
+  "channels_free": [
+    "Post in Reddit communities for field service coordinators",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to field service coordinators with demo video",
+    "Community forums for sharing tools and tips"
+  ],
+  "try_it": "Let users try manual entry and summary generation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality operations managers in restaurants processing 5\u201315 maintenance logs/month tool",
+  "description": "For hospitality operations managers in restaurants processing 5\u201315 maintenance logs/month, inconsistent tracking causes unexpected equipment failures. We provide a digital log solution instead of manual tracking via spreadsheets or paper logs.",
+  "target_audience": "hospitality operations managers in restaurants processing 5\u201315 maintenance logs/month",
+  "problem_solved": "Inconsistent tracking of kitchen equipment maintenance leads to unexpected equipment failures.",
+  "features": [
+    "manual entry of maintenance logs",
+    "report generation for maintenance history",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality operations managers in restaurants processing 5\u201315 maintenance logs/month",
+    "primary_problem": "Inconsistent tracking of kitchen equipment maintenance leads to unexpected equipment failures.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality operations managers in restaurants processing 5\u201315 maintenance logs/month, inconsistent tracking causes unexpected equipment failures. We provide a digital log solution instead of manual tracking via spreadsheets or paper logs.",
+    "current_alternative": "manual tracking via spreadsheets or paper logs",
+    "must_have_features": [
+      "manual entry of maintenance logs",
+      "report generation for maintenance history",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For hospitality operations managers in restaurants processing 5\u201315 maintenance logs/month, inconsistent tracking causes unexpected equipment failures. We provide a digital log solution instead of manual tracking via spreadsheets or paper logs.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-04",
+    "overlay_score": 60,
+    "arr_score": 61
+  }
+}

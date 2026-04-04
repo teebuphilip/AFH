@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, manual approval delays cause late orders. We automate purchase order approvals instead of manual approval processes via email or spreadsheets.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Delays in order fulfillment due to manual purchase order approvals.",
+  "features": [
+    "Simple user interface for manual order entry",
+    "Email notifications for pending approvals",
+    "Basic reporting on approval times"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Delays in order fulfillment due to manual purchase order approvals.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, manual approval delays cause late orders. We automate purchase order approvals instead of manual approval processes via email or spreadsheets.",
+    "current_alternative": "Manual approval processes via email or spreadsheets.",
+    "must_have_features": [
+      "Simple user interface for manual order entry",
+      "Email notifications for pending approvals",
+      "Basic reporting on approval times"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, manual approval delays cause late orders. We automate purchase order approvals instead of manual approval processes via email or spreadsheets.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

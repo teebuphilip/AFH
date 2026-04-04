@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical receptionists in small clinics scheduling 50-100 appointments/week tool",
+  "description": "For medical receptionists in small clinics processing 50-100 appointments/week, scheduling conflicts cause patient dissatisfaction. We provide a conflict-flagging tool instead of manual scheduling via paper or basic digital calendars.",
+  "target_audience": "medical receptionists in small clinics scheduling 50-100 appointments/week",
+  "problem_solved": "frequent appointment scheduling conflicts",
+  "features": [
+    "manual appointment entry",
+    "conflict flagging alerts",
+    "appointment history tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical receptionists in small clinics scheduling 50-100 appointments/week",
+    "primary_problem": "frequent appointment scheduling conflicts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical receptionists in small clinics processing 50-100 appointments/week, scheduling conflicts cause patient dissatisfaction. We provide a conflict-flagging tool instead of manual scheduling via paper or basic digital calendars.",
+    "current_alternative": "manual scheduling via paper or basic digital calendars",
+    "must_have_features": [
+      "manual appointment entry",
+      "conflict flagging alerts",
+      "appointment history tracking"
+    ]
+  },
+  "one_liner": "For medical receptionists in small clinics processing 50-100 appointments/week, scheduling conflicts cause patient dissatisfaction. We provide a conflict-flagging tool instead of manual scheduling via paper or basic digital calendars.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

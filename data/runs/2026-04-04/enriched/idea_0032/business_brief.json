@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction accountants processing 5\u201315 invoices/month tool",
+  "description": "For construction accountants processing 5\u201315 invoices/month, inaccurate reconciliation causes budget overruns. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "construction accountants processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate reconciliation of subcontractor invoices with project budgets.",
+  "features": [
+    "manual invoice entry",
+    "budget tracking",
+    "error reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction accountants processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate reconciliation of subcontractor invoices with project budgets.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction accountants processing 5\u201315 invoices/month, inaccurate reconciliation causes budget overruns. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "manual invoice entry",
+      "budget tracking",
+      "error reporting"
+    ]
+  },
+  "one_liner": "For construction accountants processing 5\u201315 invoices/month, inaccurate reconciliation causes budget overruns. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-04",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

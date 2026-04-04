@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 lease renewals/month tool",
+  "description": "For property managers processing 10-20 lease renewals/month, manual tracking causes missed deadlines. We automate tracking and filing instead of manual tracking and filing of lease renewals.",
+  "target_audience": "property managers handling 10-20 lease renewals/month",
+  "problem_solved": "manual tracking of lease renewals",
+  "features": [
+    "simple dashboard for tracking lease statuses",
+    "manual entry option for unique cases",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 lease renewals/month",
+    "primary_problem": "manual tracking of lease renewals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 lease renewals/month, manual tracking causes missed deadlines. We automate tracking and filing instead of manual tracking and filing of lease renewals.",
+    "current_alternative": "manual tracking and filing of lease renewals",
+    "must_have_features": [
+      "simple dashboard for tracking lease statuses",
+      "manual entry option for unique cases",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 lease renewals/month, manual tracking causes missed deadlines. We automate tracking and filing instead of manual tracking and filing of lease renewals.",
+  "source": {
+    "idea_id": "idea_0033",
+    "run_date": "2026-04-04",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

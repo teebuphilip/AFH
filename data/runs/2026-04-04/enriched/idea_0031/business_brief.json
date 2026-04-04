@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant kitchen managers processing 5\u201315 labor cost reports/week tool",
+  "description": "For restaurant kitchen managers processing 5\u201315 labor cost reports/week, inaccurate reporting causes budget overruns. We provide automated daily labor cost reports instead of manual spreadsheets and guesswork.",
+  "target_audience": "restaurant kitchen managers processing 5\u201315 labor cost reports/week",
+  "problem_solved": "Inaccurate labor cost reporting leads to budget overruns.",
+  "features": [
+    "daily report generation",
+    "manual entry for adjustments",
+    "export to CSV for easy sharing"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant kitchen managers processing 5\u201315 labor cost reports/week",
+    "primary_problem": "Inaccurate labor cost reporting leads to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant kitchen managers processing 5\u201315 labor cost reports/week, inaccurate reporting causes budget overruns. We provide automated daily labor cost reports instead of manual spreadsheets and guesswork.",
+    "current_alternative": "manual spreadsheets and guesswork",
+    "must_have_features": [
+      "daily report generation",
+      "manual entry for adjustments",
+      "export to CSV for easy sharing"
+    ]
+  },
+  "one_liner": "For restaurant kitchen managers processing 5\u201315 labor cost reports/week, inaccurate reporting causes budget overruns. We provide automated daily labor cost reports instead of manual spreadsheets and guesswork.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

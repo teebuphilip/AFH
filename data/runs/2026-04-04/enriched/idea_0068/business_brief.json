@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators managing 10-50 shipments/week tool",
+  "description": "For logistics coordinators processing 10-50 shipments/week, inefficient inventory tracking causes stockouts. We provide an automated inventory tracking system instead of manual spreadsheets and email notifications.",
+  "target_audience": "logistics coordinators managing 10-50 shipments/week",
+  "problem_solved": "Inefficient inventory tracking leading to stockouts.",
+  "features": [
+    "manual entry for inventory updates",
+    "simple dashboard for tracking inventory levels",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators managing 10-50 shipments/week",
+    "primary_problem": "Inefficient inventory tracking leading to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators processing 10-50 shipments/week, inefficient inventory tracking causes stockouts. We provide an automated inventory tracking system instead of manual spreadsheets and email notifications.",
+    "current_alternative": "manual spreadsheets and email notifications",
+    "must_have_features": [
+      "manual entry for inventory updates",
+      "simple dashboard for tracking inventory levels",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics coordinators processing 10-50 shipments/week, inefficient inventory tracking causes stockouts. We provide an automated inventory tracking system instead of manual spreadsheets and email notifications.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-04",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

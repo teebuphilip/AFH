@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "real estate investors processing 5\u201315 property inspections/month tool",
+  "description": "For real estate investors processing 5\u201315 property inspections/month, inconsistent report generation causes delays in decision-making. We automate report creation instead of manual report writing using templates.",
+  "target_audience": "real estate investors processing 5\u201315 property inspections/month",
+  "problem_solved": "Inconsistent and time-consuming report generation",
+  "features": [
+    "template-based report generation",
+    "customizable inspection checklists",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "real estate investors processing 5\u201315 property inspections/month",
+    "primary_problem": "Inconsistent and time-consuming report generation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For real estate investors processing 5\u201315 property inspections/month, inconsistent report generation causes delays in decision-making. We automate report creation instead of manual report writing using templates.",
+    "current_alternative": "manual report writing using templates",
+    "must_have_features": [
+      "template-based report generation",
+      "customizable inspection checklists",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For real estate investors processing 5\u201315 property inspections/month, inconsistent report generation causes delays in decision-making. We automate report creation instead of manual report writing using templates.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-04",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

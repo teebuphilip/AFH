@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations teams using Salesforce processing 10-50 deals/month tool",
+  "description": "For sales operations teams using Salesforce processing 10-50 deals/month, inefficient manual reporting causes delayed insights. We automate reporting instead of manual reporting in spreadsheets.",
+  "target_audience": "sales operations teams using Salesforce processing 10-50 deals/month",
+  "problem_solved": "Inefficient manual reporting processes",
+  "features": [
+    "customizable report templates",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations teams using Salesforce processing 10-50 deals/month",
+    "primary_problem": "Inefficient manual reporting processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations teams using Salesforce processing 10-50 deals/month, inefficient manual reporting causes delayed insights. We automate reporting instead of manual reporting in spreadsheets.",
+    "current_alternative": "manual reporting in spreadsheets",
+    "must_have_features": [
+      "customizable report templates",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For sales operations teams using Salesforce processing 10-50 deals/month, inefficient manual reporting causes delayed insights. We automate reporting instead of manual reporting in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-04",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

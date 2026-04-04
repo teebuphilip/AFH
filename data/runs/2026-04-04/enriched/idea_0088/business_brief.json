@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant owners processing 20\u201350 sales transactions/month tool",
+  "description": "For restaurant owners processing 20\u201350 sales transactions/month, inconsistent sales data causes payroll delays. We automate payroll and tax document generation instead of manual data entry into payroll systems.",
+  "target_audience": "restaurant owners processing 20\u201350 sales transactions/month",
+  "problem_solved": "Inaccurate payroll and tax documents due to manual data entry from sales.",
+  "features": [
+    "manual data entry interface",
+    "sales data import functionality",
+    "payroll document generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant owners processing 20\u201350 sales transactions/month",
+    "primary_problem": "Inaccurate payroll and tax documents due to manual data entry from sales.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant owners processing 20\u201350 sales transactions/month, inconsistent sales data causes payroll delays. We automate payroll and tax document generation instead of manual data entry into payroll systems.",
+    "current_alternative": "manual data entry into payroll systems",
+    "must_have_features": [
+      "manual data entry interface",
+      "sales data import functionality",
+      "payroll document generation"
+    ]
+  },
+  "one_liner": "For restaurant owners processing 20\u201350 sales transactions/month, inconsistent sales data causes payroll delays. We automate payroll and tax document generation instead of manual data entry into payroll systems.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-04",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

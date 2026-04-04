@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 leases/month tool",
+  "description": "For property managers processing 10-20 leases/month, missed lease renewal deadlines cause cash flow gaps. We provide automated lease management alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "property managers handling 10-20 leases/month",
+  "problem_solved": "missed lease renewal deadlines",
+  "features": [
+    "lease tracking dashboard",
+    "manual entry for lease details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 leases/month",
+    "primary_problem": "missed lease renewal deadlines",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 leases/month, missed lease renewal deadlines cause cash flow gaps. We provide automated lease management alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "lease tracking dashboard",
+      "manual entry for lease details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 leases/month, missed lease renewal deadlines cause cash flow gaps. We provide automated lease management alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-04",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

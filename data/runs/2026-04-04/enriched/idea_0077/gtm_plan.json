@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance brokers managing 10-20 policy renewals/month",
+  "offer": "For insurance brokers processing 10-20 policy renewals/month, missed renewals cause coverage gaps. We monitor renewals instead of manual tracking.",
+  "problem": "Missed policy renewals can lead to coverage gaps for clients.",
+  "channels_free": [
+    "Post in Reddit communities for insurance brokers",
+    "Share insights on Indie Hackers about renewals",
+    "DM outreach with demo videos to targeted brokers",
+    "Engage in community forums for insurance tools"
+  ],
+  "try_it": "Let users try exception flagging for renewals on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a clear CTA",
+    "Produce a demo video of the manual-first workflow",
+    "Conduct 10 interviews with target users for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for renewals",
+    "Enable CSV import for existing client data",
+    "Facilitate one-click export of reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

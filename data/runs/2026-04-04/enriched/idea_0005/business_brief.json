@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in accounting firms processing 5\u201315 vendor contracts/month tool",
+  "description": "For procurement teams in accounting firms processing 5\u201315 vendor contracts/month, missed contract renewals cause late fees. We automate reminders instead of manual tracking via spreadsheets or calendar reminders.",
+  "target_audience": "procurement teams in accounting firms processing 5\u201315 vendor contracts/month",
+  "problem_solved": "Missed contract renewals leading to late fees and service interruptions.",
+  "features": [
+    "contract renewal tracking dashboard",
+    "manual entry for contract details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in accounting firms processing 5\u201315 vendor contracts/month",
+    "primary_problem": "Missed contract renewals leading to late fees and service interruptions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement teams in accounting firms processing 5\u201315 vendor contracts/month, missed contract renewals cause late fees. We automate reminders instead of manual tracking via spreadsheets or calendar reminders.",
+    "current_alternative": "manual tracking via spreadsheets or calendar reminders",
+    "must_have_features": [
+      "contract renewal tracking dashboard",
+      "manual entry for contract details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement teams in accounting firms processing 5\u201315 vendor contracts/month, missed contract renewals cause late fees. We automate reminders instead of manual tracking via spreadsheets or calendar reminders.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-04",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

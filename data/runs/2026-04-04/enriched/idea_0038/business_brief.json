@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant back office managers processing 10-20 invoices/month tool",
+  "description": "For restaurant back office managers processing 10-20 invoices/month, inaccurate inventory reporting causes overstocking and wastage. We provide automated monthly inventory use reports instead of manual spreadsheets and ad-hoc reporting.",
+  "target_audience": "restaurant back office managers processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate inventory reporting leads to overstocking and wastage.",
+  "features": [
+    "manual data entry for inventory items",
+    "monthly report generation",
+    "basic analytics for inventory trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant back office managers processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate inventory reporting leads to overstocking and wastage.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back office managers processing 10-20 invoices/month, inaccurate inventory reporting causes overstocking and wastage. We provide automated monthly inventory use reports instead of manual spreadsheets and ad-hoc reporting.",
+    "current_alternative": "manual spreadsheets and ad-hoc reporting",
+    "must_have_features": [
+      "manual data entry for inventory items",
+      "monthly report generation",
+      "basic analytics for inventory trends"
+    ]
+  },
+  "one_liner": "For restaurant back office managers processing 10-20 invoices/month, inaccurate inventory reporting causes overstocking and wastage. We provide automated monthly inventory use reports instead of manual spreadsheets and ad-hoc reporting.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-04",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

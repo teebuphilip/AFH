@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, inefficient contract management causes missed discounts. We provide a streamlined procurement contract management system instead of manual tracking through spreadsheets.",
+  "problem": "Etsy sellers face challenges in managing vendor contracts effectively.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Share insights on Indie Hackers forums",
+    "DM outreach to Etsy sellers with demo video",
+    "Engage in community groups for Etsy sellers"
+  ],
+  "try_it": "Let users try contract template library and invoice tracking dashboard on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video for the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Provide one-click report exports",
+    "Simplify onboarding steps"
+  ]
+}

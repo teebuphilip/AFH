@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 rental properties/month tool",
+  "description": "For property managers processing 5\u201315 rental properties/month, manual reconciliation causes late payment tracking and tenant disputes. We automate rent reconciliation reports instead of manual spreadsheets and reconciliation processes.",
+  "target_audience": "property managers processing 5\u201315 rental properties/month",
+  "problem_solved": "Time-consuming manual reconciliation of rent payments.",
+  "features": [
+    "Template-based report generation",
+    "Manual entry for adjustments",
+    "Export to CSV for record-keeping"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 rental properties/month",
+    "primary_problem": "Time-consuming manual reconciliation of rent payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 rental properties/month, manual reconciliation causes late payment tracking and tenant disputes. We automate rent reconciliation reports instead of manual spreadsheets and reconciliation processes.",
+    "current_alternative": "Manual spreadsheets and reconciliation processes.",
+    "must_have_features": [
+      "Template-based report generation",
+      "Manual entry for adjustments",
+      "Export to CSV for record-keeping"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 rental properties/month, manual reconciliation causes late payment tracking and tenant disputes. We automate rent reconciliation reports instead of manual spreadsheets and reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0026",
+    "run_date": "2026-04-04",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}
