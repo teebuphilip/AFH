@@ -227,16 +227,16 @@ def _build_content_plan(keywords: List[str]) -> List[Dict[str, str]]:
 
 
 def _build_site_structure(primary: List[str], category: str, programmatic: bool) -> List[Dict[str, str]]:
-    primary_kw = primary[0] if primary else "invoice tracking"
+    primary_kw = primary[0] if primary else "workflow tool"
     pages = [
         {"page": "homepage", "target_keyword": primary_kw, "purpose": "Overview and value proposition"},
-        {"page": "features", "target_keyword": "invoice tracking features", "purpose": "Explain core capabilities"},
-        {"page": "pricing", "target_keyword": "invoice tracking pricing", "purpose": "Pricing and plans"},
-        {"page": "blog", "target_keyword": "invoice tracking guides", "purpose": "Educational content"},
+        {"page": "features", "target_keyword": f"{primary_kw} features", "purpose": "Explain core capabilities"},
+        {"page": "pricing", "target_keyword": f"{primary_kw} pricing", "purpose": "Pricing and plans"},
+        {"page": "blog", "target_keyword": f"{primary_kw} guides", "purpose": "Educational content"},
     ]
     if programmatic:
         pages.append({
-            "page": "programmatic", "target_keyword": "invoice tracking templates", "purpose": "Scalable keyword coverage"}
+            "page": "programmatic", "target_keyword": f"{primary_kw} templates", "purpose": "Scalable keyword coverage"}
         )
     return pages
 
@@ -265,17 +265,35 @@ def generate_seo(brief: Dict[str, Any]) -> Dict[str, Any]:
 
     long_tail = _expand_long_tail(primary, brief)
 
-    if not primary:
-        primary = _dedupe_keep_order([
-            "etsy invoice tracker",
-            "vendor payment schedule",
-            "invoice payment reminders",
+    def _core_action(b: Dict[str, Any]) -> str:
+        text = f"{b.get('problem_solved', '')} {b.get('description', '')}"
+        tokens = re.findall(r"[a-z]+", _normalize(text))
+        stop = {
+            "a", "an", "the", "and", "or", "for", "to", "of", "in", "on",
+            "with", "without", "by", "from", "is", "are", "be", "helps",
+            "help", "tool", "platform", "software", "solution",
+        }
+        for t in tokens:
+            if t not in stop:
+                return t
+        return "workflow"
+
+    core_action = _core_action(brief)
+
+    if len(primary) < 3:
+        audience = _normalize(brief.get("target_audience", "")).strip() or "audience"
+        fallback = _dedupe_keep_order([
+            f"{audience} {core_action} tool",
+            f"{audience} {core_action} automation",
+            f"{audience} {core_action} workflow",
         ])
+        primary = _dedupe_keep_order(primary + fallback)[:8]
+
     if not secondary:
         secondary = _dedupe_keep_order([
-            "vendor invoice tracker",
-            "payment schedule tool",
-            "invoice due reminders",
+            f"{primary[0]} software",
+            f"{primary[0]} platform",
+            f"{primary[0]} solution",
         ])
     if not long_tail:
         long_tail = _expand_long_tail(primary, brief)
@@ -303,8 +321,8 @@ def generate_seo(brief: Dict[str, Any]) -> Dict[str, Any]:
 
     if persona_clean:
         persona_keywords = _dedupe_keep_order([
-            f"{persona_clean} invoice tracking",
-            f"{persona_clean} vendor invoices",
+            f"{persona_clean} {core_action} tool",
+            f"{persona_clean} {core_action} automation",
         ])
         primary = _dedupe_keep_order(persona_keywords + primary)[:8]
 

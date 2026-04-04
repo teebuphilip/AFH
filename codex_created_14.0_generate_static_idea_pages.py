@@ -55,6 +55,22 @@ def fill_template(template: str, seo: Dict, brief: Dict) -> str:
     return out
 
 
+def clean_title(raw_title: str, brand: str = "AutoFounder Hub") -> str:
+    parts = [p.strip() for p in raw_title.split("|")]
+    parts = [p for p in parts if p and p.lower() != brand.lower()]
+    if not parts:
+        title_part = brand
+    else:
+        title_part = parts[0]
+    return f"{title_part} | {brand}"
+
+
+def strip_brand(raw_title: str, brand: str = "AutoFounder Hub") -> str:
+    parts = [p.strip() for p in raw_title.split("|")]
+    parts = [p for p in parts if p and p.lower() != brand.lower()]
+    return parts[0] if parts else raw_title
+
+
 def render_page(
     scored: Dict,
     brief: Dict,
@@ -73,14 +89,11 @@ def render_page(
     meta_template = (seo.get("on_page_seo", {})
                      .get("meta_description_templates", [""]))[0]
 
-    title = fill_template(title_template, seo, brief).strip()
-    if "autofounder hub" not in title.lower():
-        full_title = f"{title} | AutoFounder Hub"
-    else:
-        full_title = title
-    meta_description = fill_template(meta_template, seo, brief)
+    raw_title = fill_template(title_template, seo, brief).strip()
+    full_title = clean_title(raw_title)
+    meta_description = fill_template(meta_template, seo, brief).strip()[:160]
 
-    h1 = title or "Idea"
+    h1 = strip_brand(raw_title) or "Idea"
     hook = (marketing.get("taglines") or [""])[0]
 
     overlay = scored.get("overlay_score", 0)
