@@ -110,6 +110,10 @@ Deterministic keyword heuristic scoring, writes scored ideas to:
 Builds business brief + SEO + marketing copy + GTM plan for every scored idea. Writes to:
 `data/runs/YYYY-MM-DD/enriched/<idea_id>/`.
 
+3.6 `codex_created_14.0_generate_static_idea_pages.py`
+Generates static HTML pages for each enriched idea. Writes to:
+`static/ideas/<slug>.html`.
+
 4.5 `codex_created_13.0_perplexity_keep_review.py`
 Scores each KEEP via Perplexity. Keeps with score >= 65 are marked build-ready.
 Keeps below 65 are queued for monthly re-check; after 3 failed months they are demoted to HOLD.

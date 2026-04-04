@@ -172,6 +172,15 @@ Generates per-idea artifacts:
 
 ---
 
+### Stage 3.6: Static HTML Pages
+**Script:** `codex_created_14.0_generate_static_idea_pages.py`
+**Input:** `data/runs/YYYY-MM-DD/scored/*.json` + `data/runs/YYYY-MM-DD/enriched/<idea_id>/`
+**Output:** `static/ideas/<slug>.html`
+
+Renders a static HTML page per idea using the enrichment artifacts.
+
+---
+
 ### Stage 4: Verdict Routing (v4.2)
 **Script:** `claude_created_4.2_verdict_routing.py`
 **Input:** `data/runs/YYYY-MM-DD/scored/*.json`

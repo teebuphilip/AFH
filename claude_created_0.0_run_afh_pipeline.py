@@ -82,6 +82,10 @@ def main():
     if not run("codex_created_12.0_enrich_scored_ideas.py"):
         log_failure("enrichment", "*", "ENRICH_002", "HOLD")
 
+    # STEP 3.6 — Generate static HTML pages for enriched ideas
+    if not run("codex_created_14.0_generate_static_idea_pages.py"):
+        log_failure("static_pages", "*", "STATIC_002", "HOLD")
+
     # STEP 4 — Verdict Routing
     if not run("claude_created_4.2_verdict_routing.py"):
         log_failure("verdict_routing", "*", "ROUTE_003", "HOLD")
