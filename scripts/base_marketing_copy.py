@@ -47,6 +47,7 @@ def _build_prompt(brief: Dict[str, Any], seo: Dict[str, Any]) -> str:
         "- Mention the persona explicitly in at least 3 items per list.\n"
         "- Use the persona and pain from the business brief.\n"
         "- Use SEO keywords as phrasing inspiration, not verbatim stuffing.\n"
+        "- Never reuse keywords that don't belong to the idea or persona.\n"
         "- Provide 5 items per list.\n\n"
         "Business brief:\n"
         f"{json.dumps(brief, indent=2)}\n\n"

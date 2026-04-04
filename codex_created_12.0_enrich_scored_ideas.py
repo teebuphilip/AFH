@@ -86,15 +86,16 @@ def _build_business_brief(
     if not features:
         features = pass0._fill_manual_features([])
 
-    description = locked_fields.get("mvp_wedge") or deterministic.idea_text or idea.get("idea_text", "")
-    one_liner = locked_fields.get("mvp_wedge") or deterministic.idea_text or idea.get("idea_text", "")
+    idea_text = idea.get("idea_text", "") or deterministic.idea_text or ""
+    description = locked_fields.get("mvp_wedge") or idea_text
+    one_liner = locked_fields.get("mvp_wedge") or idea_text
 
     brief = {
         "schema_version": "1.0.0",
         "name": f"{primary_user} tool",
         "description": description,
         "target_audience": primary_user,
-        "problem_solved": locked_fields.get("primary_problem") or deterministic.idea_text,
+        "problem_solved": locked_fields.get("primary_problem") or idea_text,
         "features": features,
         "pricing_model": "unknown",
         "category": "saas",

@@ -73,10 +73,14 @@ def render_page(
     meta_template = (seo.get("on_page_seo", {})
                      .get("meta_description_templates", [""]))[0]
 
-    title = fill_template(title_template, seo, brief)
+    title = fill_template(title_template, seo, brief).strip()
+    if "autofounder hub" not in title.lower():
+        full_title = f"{title} | AutoFounder Hub"
+    else:
+        full_title = title
     meta_description = fill_template(meta_template, seo, brief)
 
-    h1 = title_case(idea_text) if idea_text else "Idea"
+    h1 = title or "Idea"
     hook = (marketing.get("taglines") or [""])[0]
 
     overlay = scored.get("overlay_score", 0)
@@ -90,7 +94,7 @@ def render_page(
   <meta charset=\"UTF-8\">
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
 
-  <title>{title} | AutoFounder Hub</title>
+  <title>{full_title}</title>
   <meta name=\"description\" content=\"{meta_description}\">
   <link rel=\"canonical\" href=\"{canonical}\">
 </head>

@@ -109,8 +109,28 @@ def _object_terms(brief: Dict[str, Any]) -> List[str]:
         terms += ["payment schedule", "payment reminders"]
     if "cash flow" in blob:
         terms += ["cash flow tracking"]
+    if "billing" in blob or "claims" in blob:
+        terms += ["claims tracking", "billing workflow"]
+    if "patient" in blob or "medical" in blob:
+        terms += ["medical records workflow", "patient records"]
+    if "inventory" in blob:
+        terms += ["inventory tracking", "inventory workflow"]
+    if "appointment" in blob:
+        terms += ["appointment tracking", "appointment scheduling"]
+    if "support" in blob:
+        terms += ["support ticket tracking", "support workflow"]
+    if "procurement" in blob:
+        terms += ["procurement workflow", "vendor management"]
+    if "recruit" in blob or "hiring" in blob:
+        terms += ["hiring pipeline", "candidate tracking"]
+    if "shipping" in blob or "logistics" in blob:
+        terms += ["shipment tracking", "logistics workflow"]
     if not terms:
-        terms = ["invoice tracking", "payment schedule"]
+        audience = _normalize(brief.get("target_audience", ""))
+        if audience:
+            terms = [f"{audience} workflow", f"{audience} tracking"]
+        else:
+            terms = ["workflow tracking", "process tracking"]
     return _dedupe_keep_order(terms)
 
 
