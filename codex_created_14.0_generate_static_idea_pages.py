@@ -157,7 +157,7 @@ def main() -> int:
         idea_dir = enriched_dir / idea_id
         if not idea_dir.exists():
             continue
-        verdict_name = f"{idea_id}__0001.json"
+        verdict_name = f"{idea_id}.json__0001.json"
         if verdict_name not in hold_names and verdict_name not in exclude_names:
             continue
 
