@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales teams using QuickBooks processing 10\u201320 expense reports/month tool",
+  "description": "For sales teams using QuickBooks processing 10\u201320 expense reports/month, manual tracking causes cash flow gaps. We automate expense collection and reporting instead of manual expense tracking and reporting.",
+  "target_audience": "sales teams using QuickBooks processing 10\u201320 expense reports/month",
+  "problem_solved": "Timely submission of expense reports",
+  "features": [
+    "Receipt scanning and categorization",
+    "Monthly report generation",
+    "User-friendly dashboard for expense tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales teams using QuickBooks processing 10\u201320 expense reports/month",
+    "primary_problem": "Timely submission of expense reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales teams using QuickBooks processing 10\u201320 expense reports/month, manual tracking causes cash flow gaps. We automate expense collection and reporting instead of manual expense tracking and reporting.",
+    "current_alternative": "manual expense tracking and reporting",
+    "must_have_features": [
+      "Receipt scanning and categorization",
+      "Monthly report generation",
+      "User-friendly dashboard for expense tracking"
+    ]
+  },
+  "one_liner": "For sales teams using QuickBooks processing 10\u201320 expense reports/month, manual tracking causes cash flow gaps. We automate expense collection and reporting instead of manual expense tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-05",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

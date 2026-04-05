@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "transportation logistics managers processing 5\u201315 vehicle maintenance logs/month tool",
+  "description": "For transportation logistics managers processing 5\u201315 vehicle maintenance logs/month, inconsistent tracking causes potential breakdowns. We provide a dedicated tool instead of manual tracking via spreadsheets.",
+  "target_audience": "transportation logistics managers processing 5\u201315 vehicle maintenance logs/month",
+  "problem_solved": "Inconsistent vehicle maintenance tracking leading to potential breakdowns.",
+  "features": [
+    "manual entry for vehicle maintenance logs",
+    "reminder notifications for upcoming maintenance",
+    "simple reporting dashboard for maintenance history"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "transportation logistics managers processing 5\u201315 vehicle maintenance logs/month",
+    "primary_problem": "Inconsistent vehicle maintenance tracking leading to potential breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For transportation logistics managers processing 5\u201315 vehicle maintenance logs/month, inconsistent tracking causes potential breakdowns. We provide a dedicated tool instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry for vehicle maintenance logs",
+      "reminder notifications for upcoming maintenance",
+      "simple reporting dashboard for maintenance history"
+    ]
+  },
+  "one_liner": "For transportation logistics managers processing 5\u201315 vehicle maintenance logs/month, inconsistent tracking causes potential breakdowns. We provide a dedicated tool instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-05",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics operation leads managing delivery exceptions daily inefficient tool",
+    "logistics operation leads managing delivery exceptions daily inefficient automation",
+    "logistics operation leads managing 10 20 delivery exceptions daily inefficient tool",
+    "logistics operation leads managing 10 20 delivery exceptions daily inefficient automation",
+    "logistics operation leads managing 10 20 delivery exceptions daily inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "logistics operation leads managing 10 20 delivery exceptions daily inefficient tool software",
+    "logistics operation leads managing 10 20 delivery exceptions daily inefficient tool platform",
+    "logistics operation leads managing 10 20 delivery exceptions daily inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics operation leads managing 10\u201320 delivery exceptions daily, inefficient tracking causes delayed responses. We provide timely alerts instead of manual tracking through spreadsheets and emails.",
+    "Inefficient tracking of delivery exceptions leading to delayed responses.",
+    "logistics operation leads managing 10\u201320 delivery exceptions daily"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Operation Leads Managing 10 20 Delivery Exceptions Daily Inefficient Tool Software",
+      "target_keyword": "logistics operation leads managing 10 20 delivery exceptions daily inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Operation Leads Managing 10 20 Delivery Exceptions Daily Inefficient Tool Platform",
+      "target_keyword": "logistics operation leads managing 10 20 delivery exceptions daily inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Operation Leads Managing 10 20 Delivery Exceptions Daily Inefficient Tool Solution",
+      "target_keyword": "logistics operation leads managing 10 20 delivery exceptions daily inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Operation Leads Managing 10 20 Delivery Exceptions Daily Inefficient Tool",
+      "target_keyword": "logistics operation leads managing 10 20 delivery exceptions daily inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Operation Leads Managing 10 20 Delivery Exceptions Daily Inefficient Automation",
+      "target_keyword": "logistics operation leads managing 10 20 delivery exceptions daily inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Operation Leads Managing 10 20 Delivery Exceptions Daily Inefficient Workflow",
+      "target_keyword": "logistics operation leads managing 10 20 delivery exceptions daily inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics operation leads managing delivery exceptions daily inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics operation leads managing delivery exceptions daily inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics operation leads managing delivery exceptions daily inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics operation leads managing delivery exceptions daily inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics operation leads managing delivery exceptions daily inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics operation leads managing delivery exceptions daily tool",
+      "logistics operation leads managing delivery exceptions daily tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics operation leads managing delivery exceptions daily tool helps with inefficient tracking of delivery exceptions leading to delayed responses."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

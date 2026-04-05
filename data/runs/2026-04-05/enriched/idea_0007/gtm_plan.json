@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Shopify sellers processing 10\u201350 sales commissions/week",
+  "offer": "For Shopify sellers processing 10\u201350 sales commissions/week, delayed reconciliation causes cash flow gaps. We automate commission reconciliation instead of manual reconciliation and sporadic payout summaries.",
+  "problem": "Timely reconciliation of sales commissions",
+  "channels_free": [
+    "Post in Reddit communities for Shopify sellers",
+    "Engage in Indie Hackers discussions about workflows",
+    "DM outreach to Shopify sellers with demo video",
+    "Contribute in community forums for Shopify tools"
+  ],
+  "try_it": "Let users try Manual commission entry and Weekly payout summary generation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video for manual workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

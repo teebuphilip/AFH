@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "fleet operations managers processing 10\u201320 delivery logs/month",
+  "offer": "For fleet operations managers processing 10\u201320 delivery logs/month, inaccurate regulatory filings cause compliance penalties. We automate filing instead of manual log processing and filing.",
+  "problem": "Inaccurate regulatory filings due to manual log processing",
+  "channels_free": [
+    "Post in Reddit communities for fleet operations managers",
+    "Indie Hackers discussions on compliance workflows",
+    "DM outreach to fleet operations managers with demo video",
+    "Community forums for sharing fleet management tools"
+  ],
+  "try_it": "Let users try manual log entry interface and export options",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing logs",
+    "Enable one-click export of reports",
+    "Streamline onboarding process"
+  ]
+}

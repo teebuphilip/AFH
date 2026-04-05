@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201320 sales commissions/month tool",
+  "description": "For Shopify sellers processing 10\u201320 sales commissions/month, manual calculations cause delayed payouts. We automate commission reporting instead of manual spreadsheets.",
+  "target_audience": "Shopify sellers processing 10\u201320 sales commissions/month",
+  "problem_solved": "Manual calculation of sales commissions leads to errors and delayed payouts.",
+  "features": [
+    "Generate sales commission reports",
+    "Calculate payouts automatically",
+    "Submit payments to sales operations manager"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201320 sales commissions/month",
+    "primary_problem": "Manual calculation of sales commissions leads to errors and delayed payouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201320 sales commissions/month, manual calculations cause delayed payouts. We automate commission reporting instead of manual spreadsheets.",
+    "current_alternative": "Manual spreadsheets and email communication for commission tracking.",
+    "must_have_features": [
+      "Generate sales commission reports",
+      "Calculate payouts automatically",
+      "Submit payments to sales operations manager"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201320 sales commissions/month, manual calculations cause delayed payouts. We automate commission reporting instead of manual spreadsheets.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-05",
+    "overlay_score": 66,
+    "arr_score": 65
+  }
+}

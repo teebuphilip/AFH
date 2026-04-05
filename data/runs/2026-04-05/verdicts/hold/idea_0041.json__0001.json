@@ -1,0 +1,16 @@
+{
+  "idea_text": "System that monitors subcontractor license expirations and sends alerts for construction project managers.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 74,
+  "arr_score": 74,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-05T09:56:08.656685",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

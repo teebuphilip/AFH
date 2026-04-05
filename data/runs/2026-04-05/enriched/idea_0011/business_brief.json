@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "finance ops managers in accounting firms processing 5\u201315 bank statements/week tool",
+  "description": "For finance ops managers in accounting firms processing 5\u201315 bank statements/week, manual tracking causes cash flow gaps. We automate cash flow summaries instead of manual tracking and summarization of cash flow.",
+  "target_audience": "finance ops managers in accounting firms processing 5\u201315 bank statements/week",
+  "problem_solved": "Inconsistent cash flow visibility due to manual compilation of bank statements.",
+  "features": [
+    "manual input option for bank statements",
+    "weekly summary generation",
+    "export to CSV for easy sharing"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "finance ops managers in accounting firms processing 5\u201315 bank statements/week",
+    "primary_problem": "Inconsistent cash flow visibility due to manual compilation of bank statements.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For finance ops managers in accounting firms processing 5\u201315 bank statements/week, manual tracking causes cash flow gaps. We automate cash flow summaries instead of manual tracking and summarization of cash flow.",
+    "current_alternative": "manual tracking and summarization of cash flow",
+    "must_have_features": [
+      "manual input option for bank statements",
+      "weekly summary generation",
+      "export to CSV for easy sharing"
+    ]
+  },
+  "one_liner": "For finance ops managers in accounting firms processing 5\u201315 bank statements/week, manual tracking causes cash flow gaps. We automate cash flow summaries instead of manual tracking and summarization of cash flow.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

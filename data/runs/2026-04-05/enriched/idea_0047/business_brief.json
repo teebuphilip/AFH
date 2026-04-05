@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction finance teams processing 5\u201315 invoices/month tool",
+  "description": "For construction finance teams processing 5\u201315 invoices/month, inaccurate payment requests cause cash flow gaps. We reconcile subcontractor payment requests against contracts instead of manual reconciliation of payment requests against contracts.",
+  "target_audience": "construction finance teams processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate payment requests leading to disputes and delayed payments.",
+  "features": [
+    "manual entry of payment requests",
+    "dispute tracking system",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction finance teams processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate payment requests leading to disputes and delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction finance teams processing 5\u201315 invoices/month, inaccurate payment requests cause cash flow gaps. We reconcile subcontractor payment requests against contracts instead of manual reconciliation of payment requests against contracts.",
+    "current_alternative": "manual reconciliation of payment requests against contracts.",
+    "must_have_features": [
+      "manual entry of payment requests",
+      "dispute tracking system",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction finance teams processing 5\u201315 invoices/month, inaccurate payment requests cause cash flow gaps. We reconcile subcontractor payment requests against contracts instead of manual reconciliation of payment requests against contracts.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

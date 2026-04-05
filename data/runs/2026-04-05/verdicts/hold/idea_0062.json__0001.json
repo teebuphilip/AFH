@@ -1,0 +1,15 @@
+{
+  "idea_text": "HR onboarding assistant that guides new hires through paperwork, sets up accounts, and notifies the HR coordinator of completed tasks.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 55,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-05T09:56:08.660299",
+  "verdict_source": "overlay_score"
+}

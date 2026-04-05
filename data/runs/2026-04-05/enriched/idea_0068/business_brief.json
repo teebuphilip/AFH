@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 5\u201315 clients tool",
+  "description": "For insurance brokers managing 5\u201315 clients, missed renewals cause client dissatisfaction. We provide automated reminders instead of manual tracking through spreadsheets or basic calendar reminders.",
+  "target_audience": "insurance brokers managing 5\u201315 clients",
+  "problem_solved": "Difficulty in tracking multiple insurance policies and renewal dates for clients.",
+  "features": [
+    "policy tracking dashboard",
+    "certificate generation tool",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 5\u201315 clients",
+    "primary_problem": "Difficulty in tracking multiple insurance policies and renewal dates for clients.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers managing 5\u201315 clients, missed renewals cause client dissatisfaction. We provide automated reminders instead of manual tracking through spreadsheets or basic calendar reminders.",
+    "current_alternative": "manual tracking through spreadsheets or basic calendar reminders",
+    "must_have_features": [
+      "policy tracking dashboard",
+      "certificate generation tool",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers managing 5\u201315 clients, missed renewals cause client dissatisfaction. We provide automated reminders instead of manual tracking through spreadsheets or basic calendar reminders.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-05",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

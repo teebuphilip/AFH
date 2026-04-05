@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics dispatchers managing 10-20 drivers tool",
+  "description": "For logistics dispatchers managing 10-20 drivers, manual tracking of hours-of-service causes compliance issues that lead to penalties. We automate tracking instead of manual tracking of driver logs.",
+  "target_audience": "logistics dispatchers managing 10-20 drivers",
+  "problem_solved": "Ensuring compliance with hours-of-service regulations to avoid penalties.",
+  "features": [
+    "log entry tracking",
+    "violation flagging",
+    "report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics dispatchers managing 10-20 drivers",
+    "primary_problem": "Ensuring compliance with hours-of-service regulations to avoid penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For logistics dispatchers managing 10-20 drivers, manual tracking of hours-of-service causes compliance issues that lead to penalties. We automate tracking instead of manual tracking of driver logs.",
+    "current_alternative": "manual tracking of driver logs",
+    "must_have_features": [
+      "log entry tracking",
+      "violation flagging",
+      "report generation"
+    ]
+  },
+  "one_liner": "For logistics dispatchers managing 10-20 drivers, manual tracking of hours-of-service causes compliance issues that lead to penalties. We automate tracking instead of manual tracking of driver logs.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

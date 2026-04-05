@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "sales teams using quickbooks timely tool",
+    "sales teams using quickbooks timely automation",
+    "sales teams using quickbooks processing 10 20 expense reports month timely tool",
+    "sales teams using quickbooks processing 10 20 expense reports month timely automation",
+    "sales teams using quickbooks processing 10 20 expense reports month timely workflow"
+  ],
+  "secondary_keywords": [
+    "sales teams using quickbooks processing 10 20 expense reports month timely tool software",
+    "sales teams using quickbooks processing 10 20 expense reports month timely tool platform",
+    "sales teams using quickbooks processing 10 20 expense reports month timely tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For sales teams using QuickBooks processing 10\u201320 expense reports/month, manual tracking causes cash flow gaps. We automate expense collection and reporting instead of manual expense tracking and reporting.",
+    "Timely submission of expense reports",
+    "sales teams using QuickBooks processing 10\u201320 expense reports/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sales Teams Using Quickbooks Processing 10 20 Expense Reports Month Timely Tool Software",
+      "target_keyword": "sales teams using quickbooks processing 10 20 expense reports month timely tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Teams Using Quickbooks Processing 10 20 Expense Reports Month Timely Tool Platform",
+      "target_keyword": "sales teams using quickbooks processing 10 20 expense reports month timely tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Teams Using Quickbooks Processing 10 20 Expense Reports Month Timely Tool Solution",
+      "target_keyword": "sales teams using quickbooks processing 10 20 expense reports month timely tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Teams Using Quickbooks Processing 10 20 Expense Reports Month Timely Tool",
+      "target_keyword": "sales teams using quickbooks processing 10 20 expense reports month timely tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Teams Using Quickbooks Processing 10 20 Expense Reports Month Timely Automation",
+      "target_keyword": "sales teams using quickbooks processing 10 20 expense reports month timely automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Teams Using Quickbooks Processing 10 20 Expense Reports Month Timely Workflow",
+      "target_keyword": "sales teams using quickbooks processing 10 20 expense reports month timely workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "sales teams using quickbooks timely tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "sales teams using quickbooks timely tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "sales teams using quickbooks timely tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "sales teams using quickbooks timely tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "sales teams using quickbooks timely tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | sales teams using quickbooks tool",
+      "sales teams using quickbooks tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "sales teams using quickbooks tool helps with timely submission of expense reports."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For accounting firms processing 5\u201315 invoices/month, inefficient invoice processing causes late payments. We streamline manual invoice tracking instead of manual invoice processing.",
+  "target_audience": "accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient invoice processing leading to late payments.",
+  "features": [
+    "manual data entry for invoices",
+    "basic reporting on invoice status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient invoice processing leading to late payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 invoices/month, inefficient invoice processing causes late payments. We streamline manual invoice tracking instead of manual invoice processing.",
+    "current_alternative": "manual invoice processing",
+    "must_have_features": [
+      "manual data entry for invoices",
+      "basic reporting on invoice status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 invoices/month, inefficient invoice processing causes late payments. We streamline manual invoice tracking instead of manual invoice processing.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

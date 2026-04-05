@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firms processing 5\u201315 client trust account reconciliations/month tool",
+  "description": "For small law firms processing 5\u201315 client trust account reconciliations/month, manual reconciliation causes compliance issues. We automate the reconciliation process instead of using manual reconciliation spreadsheets.",
+  "target_audience": "small law firms processing 5\u201315 client trust account reconciliations/month",
+  "problem_solved": "manual reconciliation processes lead to compliance issues",
+  "features": [
+    "user-friendly interface for manual entry",
+    "export functionality for reporting",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firms processing 5\u201315 client trust account reconciliations/month",
+    "primary_problem": "manual reconciliation processes lead to compliance issues",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For small law firms processing 5\u201315 client trust account reconciliations/month, manual reconciliation causes compliance issues. We automate the reconciliation process instead of using manual reconciliation spreadsheets.",
+    "current_alternative": "manual reconciliation spreadsheets",
+    "must_have_features": [
+      "user-friendly interface for manual entry",
+      "export functionality for reporting",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small law firms processing 5\u201315 client trust account reconciliations/month, manual reconciliation causes compliance issues. We automate the reconciliation process instead of using manual reconciliation spreadsheets.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

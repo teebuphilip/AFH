@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility bills/month tool",
+  "description": "For property managers processing 5\u201315 utility bills/month, inconsistent tracking causes budget overruns. We aggregate utility bills and generate variance reports instead of manual tracking in spreadsheets.",
+  "target_audience": "property managers processing 5\u201315 utility bills/month",
+  "problem_solved": "Inconsistent tracking of utility expenses leads to budget overruns.",
+  "features": [
+    "monthly variance report generation",
+    "utility bill aggregation",
+    "manual entry for missing bills"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility bills/month",
+    "primary_problem": "Inconsistent tracking of utility expenses leads to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 utility bills/month, inconsistent tracking causes budget overruns. We aggregate utility bills and generate variance reports instead of manual tracking in spreadsheets.",
+    "current_alternative": "manual tracking of utility bills in spreadsheets",
+    "must_have_features": [
+      "monthly variance report generation",
+      "utility bill aggregation",
+      "manual entry for missing bills"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 utility bills/month, inconsistent tracking causes budget overruns. We aggregate utility bills and generate variance reports instead of manual tracking in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-05",
+    "overlay_score": 69,
+    "arr_score": 72
+  }
+}

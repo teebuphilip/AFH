@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR representatives in small to medium-sized companies using BambooHR, managing 5\u201315 new hires per month tool",
+  "description": "For HR representatives in small to medium-sized companies using BambooHR processing 5\u201315 new hires per month, inefficient onboarding causes delays in benefits enrollment. We provide a streamlined benefits administration tool instead of manual spreadsheets and email communication.",
+  "target_audience": "HR representatives in small to medium-sized companies using BambooHR, managing 5\u201315 new hires per month",
+  "problem_solved": "Inefficient onboarding process for new hires",
+  "features": [
+    "Self-service access for HR representatives",
+    "Change management for employee benefits",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR representatives in small to medium-sized companies using BambooHR, managing 5\u201315 new hires per month",
+    "primary_problem": "Inefficient onboarding process for new hires",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR representatives in small to medium-sized companies using BambooHR processing 5\u201315 new hires per month, inefficient onboarding causes delays in benefits enrollment. We provide a streamlined benefits administration tool instead of manual spreadsheets and email communication.",
+    "current_alternative": "Manual spreadsheets and email communication",
+    "must_have_features": [
+      "Self-service access for HR representatives",
+      "Change management for employee benefits",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR representatives in small to medium-sized companies using BambooHR processing 5\u201315 new hires per month, inefficient onboarding causes delays in benefits enrollment. We provide a streamlined benefits administration tool instead of manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-05",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "idea_text": "Logistics optimization software that analyzes shipping data, identifies cost-saving opportunities, and provides route planning recommendations to the logistics manager.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 55,
+    "automation": 70,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 65,
+  "arr_score": 65,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-05T09:56:08.660021",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

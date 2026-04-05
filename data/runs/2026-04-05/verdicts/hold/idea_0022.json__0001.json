@@ -1,0 +1,18 @@
+{
+  "idea_text": "Service that monitors contract compliance metrics and generates weekly reports for procurement teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-05T09:56:08.654152",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-05T09:56:08.714453",
+  "hold_reason": "arr_70_89"
+}

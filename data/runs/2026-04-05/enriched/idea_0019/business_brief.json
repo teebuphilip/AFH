@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 10-20 supplier invoices/month tool",
+  "description": "For bookkeepers managing 10-20 supplier invoices/month, manual processing causes delays in bookkeeping accuracy. We automate invoice extraction and categorization instead of manual data entry into accounting software.",
+  "target_audience": "bookkeepers managing 10-20 supplier invoices/month",
+  "problem_solved": "manual processing of invoices is time-consuming and error-prone",
+  "features": [
+    "categorization of invoices by supplier",
+    "monthly reporting of processed invoices",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 10-20 supplier invoices/month",
+    "primary_problem": "manual processing of invoices is time-consuming and error-prone",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 10-20 supplier invoices/month, manual processing causes delays in bookkeeping accuracy. We automate invoice extraction and categorization instead of manual data entry into accounting software.",
+    "current_alternative": "manual data entry into accounting software",
+    "must_have_features": [
+      "categorization of invoices by supplier",
+      "monthly reporting of processed invoices",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 10-20 supplier invoices/month, manual processing causes delays in bookkeeping accuracy. We automate invoice extraction and categorization instead of manual data entry into accounting software.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-05",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

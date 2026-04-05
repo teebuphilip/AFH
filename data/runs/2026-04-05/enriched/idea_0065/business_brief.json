@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers overseeing 5\u201315 buildings tool",
+  "description": "For property managers overseeing 5\u201315 buildings, inefficient tracking of work orders causes delayed maintenance responses. We provide streamlined tracking instead of manual tracking via spreadsheets.",
+  "target_audience": "property managers overseeing 5\u201315 buildings",
+  "problem_solved": "Inefficient tracking of work orders and preventive maintenance across multiple properties.",
+  "features": [
+    "work order tracking",
+    "preventive maintenance scheduling",
+    "asset lifecycle management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers overseeing 5\u201315 buildings",
+    "primary_problem": "Inefficient tracking of work orders and preventive maintenance across multiple properties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers overseeing 5\u201315 buildings, inefficient tracking of work orders causes delayed maintenance responses. We provide streamlined tracking instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "work order tracking",
+      "preventive maintenance scheduling",
+      "asset lifecycle management"
+    ]
+  },
+  "one_liner": "For property managers overseeing 5\u201315 buildings, inefficient tracking of work orders causes delayed maintenance responses. We provide streamlined tracking instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-05",
+    "overlay_score": 65,
+    "arr_score": 67
+  }
+}

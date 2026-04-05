@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10-20 clients/month tool",
+  "description": "For accounting firms managing 10-20 clients/month, manual expense report generation causes delays in financial reporting. We automate report generation instead of manual compilation of expense reports from credit card statements.",
+  "target_audience": "accounting firms managing 10-20 clients/month",
+  "problem_solved": "Manual expense report generation is time-consuming and prone to errors.",
+  "features": [
+    "user-friendly interface for manual entry",
+    "export functionality to common formats",
+    "basic categorization of expenses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10-20 clients/month",
+    "primary_problem": "Manual expense report generation is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10-20 clients/month, manual expense report generation causes delays in financial reporting. We automate report generation instead of manual compilation of expense reports from credit card statements.",
+    "current_alternative": "manual compilation of expense reports from credit card statements",
+    "must_have_features": [
+      "user-friendly interface for manual entry",
+      "export functionality to common formats",
+      "basic categorization of expenses"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10-20 clients/month, manual expense report generation causes delays in financial reporting. We automate report generation instead of manual compilation of expense reports from credit card statements.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-05",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

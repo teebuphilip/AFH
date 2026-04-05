@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors processing 5\u201315 reports/month",
+  "offer": "For construction contractors processing 5\u201315 reports/month, inconsistent regulatory submissions cause potential fines. We simplify submissions instead of manual report submission processes.",
+  "problem": "Inconsistent regulatory submissions lead to potential fines and project delays.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors seeking help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to 20-50 contractors with demo video",
+    "Community forums where contractors share tools"
+  ],
+  "try_it": "Let users try manual report entry and submission reminders on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers at freight brokers processing 10-50 shipments/month tool",
+  "description": "For logistics managers at freight brokers processing 10-50 shipments/month, inefficient route planning causes increased shipping costs. We provide route planning recommendations instead of manual route planning and cost analysis.",
+  "target_audience": "logistics managers at freight brokers processing 10-50 shipments/month",
+  "problem_solved": "inefficient route planning leading to increased shipping costs",
+  "features": [
+    "shipping data analysis",
+    "cost-saving opportunity identification",
+    "route planning recommendations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers at freight brokers processing 10-50 shipments/month",
+    "primary_problem": "inefficient route planning leading to increased shipping costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers at freight brokers processing 10-50 shipments/month, inefficient route planning causes increased shipping costs. We provide route planning recommendations instead of manual route planning and cost analysis.",
+    "current_alternative": "manual route planning and cost analysis",
+    "must_have_features": [
+      "shipping data analysis",
+      "cost-saving opportunity identification",
+      "route planning recommendations"
+    ]
+  },
+  "one_liner": "For logistics managers at freight brokers processing 10-50 shipments/month, inefficient route planning causes increased shipping costs. We provide route planning recommendations instead of manual route planning and cost analysis.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-05",
+    "overlay_score": 65,
+    "arr_score": 65
+  }
+}

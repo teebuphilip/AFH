@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, missed contract renewals cause supplier penalties. We provide automated notifications instead of manual tracking through spreadsheets and email reminders.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in tracking contract renewals and performance metrics, leading to potential compliance issues.",
+  "features": [
+    "Contract tracking",
+    "Performance metrics dashboard",
+    "Renewal notification system"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in tracking contract renewals and performance metrics, leading to potential compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, missed contract renewals cause supplier penalties. We provide automated notifications instead of manual tracking through spreadsheets and email reminders.",
+    "current_alternative": "Manual tracking through spreadsheets and email reminders.",
+    "must_have_features": [
+      "Contract tracking",
+      "Performance metrics dashboard",
+      "Renewal notification system"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, missed contract renewals cause supplier penalties. We provide automated notifications instead of manual tracking through spreadsheets and email reminders.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-05",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

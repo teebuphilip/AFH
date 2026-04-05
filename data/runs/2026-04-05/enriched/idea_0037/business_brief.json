@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations managers processing 10\u201320 delivery logs/month tool",
+  "description": "For fleet operations managers processing 10\u201320 delivery logs/month, inaccurate regulatory filings cause compliance penalties. We automate filing instead of manual log processing and filing.",
+  "target_audience": "fleet operations managers processing 10\u201320 delivery logs/month",
+  "problem_solved": "Inaccurate regulatory filings due to manual log processing",
+  "features": [
+    "manual log entry interface",
+    "export to common filing formats",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations managers processing 10\u201320 delivery logs/month",
+    "primary_problem": "Inaccurate regulatory filings due to manual log processing",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For fleet operations managers processing 10\u201320 delivery logs/month, inaccurate regulatory filings cause compliance penalties. We automate filing instead of manual log processing and filing.",
+    "current_alternative": "manual log processing and filing",
+    "must_have_features": [
+      "manual log entry interface",
+      "export to common filing formats",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet operations managers processing 10\u201320 delivery logs/month, inaccurate regulatory filings cause compliance penalties. We automate filing instead of manual log processing and filing.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-05",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

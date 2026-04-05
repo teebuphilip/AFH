@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers managing 5\u201315 properties tool",
+  "description": "For property managers managing 5\u201315 properties, inconsistent scheduling causes compliance issues. We automate scheduling instead of manual scheduling via email or phone calls.",
+  "target_audience": "property managers managing 5\u201315 properties",
+  "problem_solved": "Inconsistent scheduling of equipment inspections leading to potential compliance issues.",
+  "features": [
+    "simple scheduling interface",
+    "confirmation tracking for completed inspections",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers managing 5\u201315 properties",
+    "primary_problem": "Inconsistent scheduling of equipment inspections leading to potential compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers managing 5\u201315 properties, inconsistent scheduling causes compliance issues. We automate scheduling instead of manual scheduling via email or phone calls.",
+    "current_alternative": "manual scheduling via email or phone calls",
+    "must_have_features": [
+      "simple scheduling interface",
+      "confirmation tracking for completed inspections",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers managing 5\u201315 properties, inconsistent scheduling causes compliance issues. We automate scheduling instead of manual scheduling via email or phone calls.",
+  "source": {
+    "idea_id": "idea_0039",
+    "run_date": "2026-04-05",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

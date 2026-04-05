@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics managers at freight brokers processing 10-50 shipments/month",
+  "offer": "For logistics managers at freight brokers processing 10-50 shipments/month, inefficient route planning causes increased shipping costs. We provide route planning recommendations instead of manual route planning and cost analysis.",
+  "problem": "inefficient route planning leading to increased shipping costs",
+  "channels_free": [
+    "Post in Reddit communities for logistics managers",
+    "Indie Hackers discussions on logistics workflows",
+    "DM outreach to logistics managers with demo video",
+    "Engage in community forums for logistics tools"
+  ],
+  "try_it": "Let users try shipping data analysis on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Set up reminder schedules for users",
+    "Allow CSV import for existing shipment data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process for new users"
+  ]
+}

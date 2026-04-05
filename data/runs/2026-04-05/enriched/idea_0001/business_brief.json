@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small marketing agencies processing 5\u201315 invoices/month tool",
+  "description": "For procurement managers in small marketing agencies processing 5\u201315 invoices/month, invoice discrepancies cause cash flow gaps. We automatically reconcile invoices instead of manual reconciliation of invoices.",
+  "target_audience": "procurement managers in small marketing agencies processing 5\u201315 invoices/month",
+  "problem_solved": "Invoice discrepancies leading to cash flow gaps.",
+  "features": [
+    "manual invoice entry",
+    "discrepancy alert notifications",
+    "monthly reconciliation reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small marketing agencies processing 5\u201315 invoices/month",
+    "primary_problem": "Invoice discrepancies leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small marketing agencies processing 5\u201315 invoices/month, invoice discrepancies cause cash flow gaps. We automatically reconcile invoices instead of manual reconciliation of invoices.",
+    "current_alternative": "manual reconciliation of invoices",
+    "must_have_features": [
+      "manual invoice entry",
+      "discrepancy alert notifications",
+      "monthly reconciliation reports"
+    ]
+  },
+  "one_liner": "For procurement managers in small marketing agencies processing 5\u201315 invoices/month, invoice discrepancies cause cash flow gaps. We automatically reconcile invoices instead of manual reconciliation of invoices.",
+  "source": {
+    "idea_id": "idea_0001",
+    "run_date": "2026-04-05",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

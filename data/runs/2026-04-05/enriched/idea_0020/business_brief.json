@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics operation leads managing 10\u201320 delivery exceptions daily tool",
+  "description": "For logistics operation leads managing 10\u201320 delivery exceptions daily, inefficient tracking causes delayed responses. We provide timely alerts instead of manual tracking through spreadsheets and emails.",
+  "target_audience": "logistics operation leads managing 10\u201320 delivery exceptions daily",
+  "problem_solved": "Inefficient tracking of delivery exceptions leading to delayed responses.",
+  "features": [
+    "Daily exception alert notifications",
+    "Dashboard for tracking exceptions",
+    "Manual entry for exception details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics operation leads managing 10\u201320 delivery exceptions daily",
+    "primary_problem": "Inefficient tracking of delivery exceptions leading to delayed responses.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics operation leads managing 10\u201320 delivery exceptions daily, inefficient tracking causes delayed responses. We provide timely alerts instead of manual tracking through spreadsheets and emails.",
+    "current_alternative": "manual tracking through spreadsheets and emails",
+    "must_have_features": [
+      "Daily exception alert notifications",
+      "Dashboard for tracking exceptions",
+      "Manual entry for exception details"
+    ]
+  },
+  "one_liner": "For logistics operation leads managing 10\u201320 delivery exceptions daily, inefficient tracking causes delayed responses. We provide timely alerts instead of manual tracking through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-05",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

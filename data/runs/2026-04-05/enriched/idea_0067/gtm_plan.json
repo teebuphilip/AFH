@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, inconsistent sales cause missed tax deadlines. We automate payroll tax compliance instead of manual calculations and filing with no reminders.",
+  "problem": "Difficulty in managing payroll tax compliance due to varying sales volumes.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to Etsy sellers with demo video",
+    "Share tools in community forums for Etsy sellers"
+  ],
+  "try_it": "Let users try Calculate payroll tax withholdings and File payroll tax returns on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Provide one-click export for reports",
+    "Streamline onboarding process"
+  ]
+}

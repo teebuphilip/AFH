@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For accounting firms processing 5\u201315 payrolls/month, manual payroll tax filing causes late submissions, leading to penalties. We automate payroll tax filings instead of manual filing and tracking.",
+  "target_audience": "accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "manual payroll tax filing processes lead to errors and delays",
+  "features": [
+    "confirmation report generation",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "manual payroll tax filing processes lead to errors and delays",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payrolls/month, manual payroll tax filing causes late submissions, leading to penalties. We automate payroll tax filings instead of manual filing and tracking.",
+    "current_alternative": "manual filing and tracking of payroll taxes",
+    "must_have_features": [
+      "confirmation report generation",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payrolls/month, manual payroll tax filing causes late submissions, leading to penalties. We automate payroll tax filings instead of manual filing and tracking.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

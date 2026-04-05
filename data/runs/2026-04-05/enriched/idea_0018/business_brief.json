@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized companies processing 10\u201320 invoices/month tool",
+  "description": "For procurement managers in mid-sized companies processing 10\u201320 invoices/month, manual scorecard creation causes late performance reviews. We automate scorecard generation instead of manual scorecard creation using spreadsheets.",
+  "target_audience": "procurement managers in mid-sized companies processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in tracking vendor performance consistently.",
+  "features": [
+    "template-based scorecard generation",
+    "monthly performance summary reports",
+    "vendor performance comparison charts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized companies processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in tracking vendor performance consistently.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized companies processing 10\u201320 invoices/month, manual scorecard creation causes late performance reviews. We automate scorecard generation instead of manual scorecard creation using spreadsheets.",
+    "current_alternative": "manual scorecard creation using spreadsheets",
+    "must_have_features": [
+      "template-based scorecard generation",
+      "monthly performance summary reports",
+      "vendor performance comparison charts"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized companies processing 10\u201320 invoices/month, manual scorecard creation causes late performance reviews. We automate scorecard generation instead of manual scorecard creation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-05",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

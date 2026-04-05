@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant kitchen managers in fast-casual dining establishments tool",
+  "description": "For restaurant kitchen managers in fast-casual dining establishments processing 5\u201315 shifts/day, inconsistent compliance logging causes potential food safety violations. We generate automated daily shift compliance logs instead of manual logging on paper or spreadsheets.",
+  "target_audience": "restaurant kitchen managers in fast-casual dining establishments",
+  "problem_solved": "Inconsistent compliance logging leads to potential food safety violations.",
+  "features": [
+    "user-friendly interface for quick data entry",
+    "reminders for compliance checks",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant kitchen managers in fast-casual dining establishments",
+    "primary_problem": "Inconsistent compliance logging leads to potential food safety violations.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant kitchen managers in fast-casual dining establishments processing 5\u201315 shifts/day, inconsistent compliance logging causes potential food safety violations. We generate automated daily shift compliance logs instead of manual logging on paper or spreadsheets.",
+    "current_alternative": "manual logging on paper or spreadsheets",
+    "must_have_features": [
+      "user-friendly interface for quick data entry",
+      "reminders for compliance checks",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant kitchen managers in fast-casual dining establishments processing 5\u201315 shifts/day, inconsistent compliance logging causes potential food safety violations. We generate automated daily shift compliance logs instead of manual logging on paper or spreadsheets.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-05",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

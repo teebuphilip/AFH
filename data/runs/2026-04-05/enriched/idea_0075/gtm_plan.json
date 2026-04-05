@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Shopify sellers processing 10\u201320 sales commissions/month",
+  "offer": "For Shopify sellers processing 10\u201320 sales commissions/month, manual calculations cause delayed payouts. We automate commission reporting instead of manual spreadsheets.",
+  "problem": "Manual calculation of sales commissions leads to errors and delayed payouts.",
+  "channels_free": [
+    "Post in Reddit communities for Shopify sellers",
+    "Indie Hackers discussions on commission tracking",
+    "DM outreach to Shopify sellers with demo video",
+    "Community forums for Shopify seller tools"
+  ],
+  "try_it": "Let users try generating commission reports on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Make a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing commission data",
+    "Enable one-click export of simple reports",
+    "Reduce steps needed for onboarding process"
+  ]
+}

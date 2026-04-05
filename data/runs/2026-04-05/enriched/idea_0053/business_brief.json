@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For accounting firms processing 5\u201315 payrolls/month, inaccurate payroll calculations cause compliance issues. We automate payroll data conversion instead of manual payroll processing using spreadsheets.",
+  "target_audience": "accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Inaccurate payroll calculations leading to compliance issues.",
+  "features": [
+    "timesheet data entry",
+    "tax calculation",
+    "paystub generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Inaccurate payroll calculations leading to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payrolls/month, inaccurate payroll calculations cause compliance issues. We automate payroll data conversion instead of manual payroll processing using spreadsheets.",
+    "current_alternative": "manual payroll processing using spreadsheets",
+    "must_have_features": [
+      "timesheet data entry",
+      "tax calculation",
+      "paystub generation"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payrolls/month, inaccurate payroll calculations cause compliance issues. We automate payroll data conversion instead of manual payroll processing using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

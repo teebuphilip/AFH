@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 rental inspections/month tool",
+  "description": "For property managers processing 5\u201315 rental inspections/month, manual tracking causes missed deadlines, leading to tenant dissatisfaction. We automate inspections instead of spreadsheets and manual checklists.",
+  "target_audience": "property managers processing 5\u201315 rental inspections/month",
+  "problem_solved": "manual tracking of inspections leads to missed deadlines and tenant dissatisfaction.",
+  "features": [
+    "simple inspection scheduling",
+    "checklist creation for inspections",
+    "maintenance tracking log"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 rental inspections/month",
+    "primary_problem": "manual tracking of inspections leads to missed deadlines and tenant dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 rental inspections/month, manual tracking causes missed deadlines, leading to tenant dissatisfaction. We automate inspections instead of spreadsheets and manual checklists.",
+    "current_alternative": "spreadsheets and manual checklists",
+    "must_have_features": [
+      "simple inspection scheduling",
+      "checklist creation for inspections",
+      "maintenance tracking log"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 rental inspections/month, manual tracking causes missed deadlines, leading to tenant dissatisfaction. We automate inspections instead of spreadsheets and manual checklists.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-05",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

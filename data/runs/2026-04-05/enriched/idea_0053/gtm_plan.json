@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 5\u201315 payrolls/month",
+  "offer": "For accounting firms processing 5\u201315 payrolls/month, inaccurate payroll calculations cause compliance issues. We automate payroll data conversion instead of manual payroll processing using spreadsheets.",
+  "problem": "Inaccurate payroll calculations leading to compliance issues.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers discussions on payroll workflows",
+    "DM outreach to accounting firms with demo video",
+    "Engage in community forums for payroll solutions"
+  ],
+  "try_it": "Let users try timesheet entry and tax calculation",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Set default reminders for tasks",
+    "Allow CSV import for existing payroll data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

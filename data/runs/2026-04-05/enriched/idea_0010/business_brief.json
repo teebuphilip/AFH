@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual matching causes discrepancies in financial records. We automate the extraction and matching process instead of manual matching of invoices to purchase orders.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in matching invoice line items to purchase orders accurately.",
+  "features": [
+    "manual entry for invoice details",
+    "basic matching algorithm for line items",
+    "export functionality for reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in matching invoice line items to purchase orders accurately.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual matching causes discrepancies in financial records. We automate the extraction and matching process instead of manual matching of invoices to purchase orders.",
+    "current_alternative": "manual matching of invoices to purchase orders",
+    "must_have_features": [
+      "manual entry for invoice details",
+      "basic matching algorithm for line items",
+      "export functionality for reports"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual matching causes discrepancies in financial records. We automate the extraction and matching process instead of manual matching of invoices to purchase orders.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-05",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

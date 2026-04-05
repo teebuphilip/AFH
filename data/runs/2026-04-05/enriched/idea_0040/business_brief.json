@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in small clinics processing 10-20 invoices/month tool",
+  "description": "For medical billing specialists in small clinics processing 10-20 invoices/month, inaccurate billing codes cause claim denials. We automate reconciliation instead of manual reconciliation of billing codes and claims.",
+  "target_audience": "medical billing specialists in small clinics processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate billing codes lead to claim denials and delayed payments.",
+  "features": [
+    "manual entry of billing codes",
+    "error reporting for mismatched codes",
+    "export functionality for claims submission"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in small clinics processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate billing codes lead to claim denials and delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in small clinics processing 10-20 invoices/month, inaccurate billing codes cause claim denials. We automate reconciliation instead of manual reconciliation of billing codes and claims.",
+    "current_alternative": "manual reconciliation of billing codes and claims",
+    "must_have_features": [
+      "manual entry of billing codes",
+      "error reporting for mismatched codes",
+      "export functionality for claims submission"
+    ]
+  },
+  "one_liner": "For medical billing specialists in small clinics processing 10-20 invoices/month, inaccurate billing codes cause claim denials. We automate reconciliation instead of manual reconciliation of billing codes and claims.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

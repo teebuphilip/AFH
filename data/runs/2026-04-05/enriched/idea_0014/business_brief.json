@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR finance teams in accounting firms processing 10\u201320 reimbursement requests/month tool",
+  "description": "For HR finance teams in accounting firms processing 10\u201320 reimbursement requests/month, inaccurate tracking causes financial discrepancies. We provide automated anomaly detection instead of manual tracking via spreadsheets.",
+  "target_audience": "HR finance teams in accounting firms processing 10\u201320 reimbursement requests/month",
+  "problem_solved": "Inaccurate tracking of employee reimbursement requests",
+  "features": [
+    "manual entry for reimbursement requests",
+    "anomaly flagging system",
+    "monthly summary reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR finance teams in accounting firms processing 10\u201320 reimbursement requests/month",
+    "primary_problem": "Inaccurate tracking of employee reimbursement requests",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR finance teams in accounting firms processing 10\u201320 reimbursement requests/month, inaccurate tracking causes financial discrepancies. We provide automated anomaly detection instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry for reimbursement requests",
+      "anomaly flagging system",
+      "monthly summary reports"
+    ]
+  },
+  "one_liner": "For HR finance teams in accounting firms processing 10\u201320 reimbursement requests/month, inaccurate tracking causes financial discrepancies. We provide automated anomaly detection instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 66
+  }
+}

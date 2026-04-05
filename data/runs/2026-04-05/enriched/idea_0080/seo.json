@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "transportation logistics managers inconsistent tool",
+    "transportation logistics managers inconsistent automation",
+    "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent tool",
+    "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent automation",
+    "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent workflow"
+  ],
+  "secondary_keywords": [
+    "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent tool software",
+    "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent tool platform",
+    "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For transportation logistics managers processing 5\u201315 vehicle maintenance logs/month, inconsistent tracking causes potential breakdowns. We provide a dedicated tool instead of manual tracking via spreadsheets.",
+    "Inconsistent vehicle maintenance tracking leading to potential breakdowns.",
+    "transportation logistics managers processing 5\u201315 vehicle maintenance logs/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Transportation Logistics Managers Processing 5 15 Vehicle Maintenance Logs Month Inconsistent Tool Software",
+      "target_keyword": "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Transportation Logistics Managers Processing 5 15 Vehicle Maintenance Logs Month Inconsistent Tool Platform",
+      "target_keyword": "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Transportation Logistics Managers Processing 5 15 Vehicle Maintenance Logs Month Inconsistent Tool Solution",
+      "target_keyword": "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Transportation Logistics Managers Processing 5 15 Vehicle Maintenance Logs Month Inconsistent Tool",
+      "target_keyword": "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Transportation Logistics Managers Processing 5 15 Vehicle Maintenance Logs Month Inconsistent Automation",
+      "target_keyword": "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Transportation Logistics Managers Processing 5 15 Vehicle Maintenance Logs Month Inconsistent Workflow",
+      "target_keyword": "transportation logistics managers processing 5 15 vehicle maintenance logs month inconsistent workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "transportation logistics managers inconsistent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "transportation logistics managers inconsistent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "transportation logistics managers inconsistent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "transportation logistics managers inconsistent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "transportation logistics managers inconsistent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | transportation logistics managers tool",
+      "transportation logistics managers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "transportation logistics managers tool helps with inconsistent vehicle maintenance tracking leading to potential breakdowns."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

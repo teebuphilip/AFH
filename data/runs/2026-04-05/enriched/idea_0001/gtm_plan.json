@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "procurement managers in small marketing agencies processing 5\u201315 invoices/month",
+  "offer": "For procurement managers in small marketing agencies processing 5\u201315 invoices/month, invoice discrepancies cause cash flow gaps. We automatically reconcile invoices instead of manual reconciliation of invoices.",
+  "problem": "Invoice discrepancies leading to cash flow gaps.",
+  "channels_free": [
+    "Post in Reddit communities for procurement managers",
+    "Engage on Indie Hackers with relevant discussions",
+    "DM procurement managers with demo video",
+    "Share insights in community forums for procurement tools"
+  ],
+  "try_it": "Let users try manual invoice entry and discrepancy alerts",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of manual workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Create templates for common invoice entries",
+    "Set default reminder schedules for alerts",
+    "Enable CSV import for existing invoices",
+    "Allow one-click export of basic reports",
+    "Streamline onboarding process for new users"
+  ]
+}

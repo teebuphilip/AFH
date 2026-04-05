@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet safety managers in logistics carriers managing 10-20 vehicles tool",
+  "description": "For fleet safety managers in logistics carriers processing 10-20 vehicles/month, manual tracking causes compliance penalties. We automate compliance reporting instead of manual tracking and reporting of vehicle inspections.",
+  "target_audience": "fleet safety managers in logistics carriers managing 10-20 vehicles",
+  "problem_solved": "Ensuring timely compliance with vehicle inspection regulations.",
+  "features": [
+    "manual report generation",
+    "customizable report templates",
+    "email notifications for upcoming inspections"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet safety managers in logistics carriers managing 10-20 vehicles",
+    "primary_problem": "Ensuring timely compliance with vehicle inspection regulations.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For fleet safety managers in logistics carriers processing 10-20 vehicles/month, manual tracking causes compliance penalties. We automate compliance reporting instead of manual tracking and reporting of vehicle inspections.",
+    "current_alternative": "manual tracking and reporting of vehicle inspections",
+    "must_have_features": [
+      "manual report generation",
+      "customizable report templates",
+      "email notifications for upcoming inspections"
+    ]
+  },
+  "one_liner": "For fleet safety managers in logistics carriers processing 10-20 vehicles/month, manual tracking causes compliance penalties. We automate compliance reporting instead of manual tracking and reporting of vehicle inspections.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-05",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

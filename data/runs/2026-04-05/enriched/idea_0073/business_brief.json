@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers overseeing 5\u201315 rental units tool",
+  "description": "For property managers overseeing 5\u201315 rental units, inefficient scheduling causes delayed maintenance responses. We streamline work order management instead of manual scheduling via spreadsheets or phone calls.",
+  "target_audience": "property managers overseeing 5\u201315 rental units",
+  "problem_solved": "inefficient scheduling of maintenance tasks",
+  "features": [
+    "work order creation and tracking",
+    "technician dispatching",
+    "completion reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers overseeing 5\u201315 rental units",
+    "primary_problem": "inefficient scheduling of maintenance tasks",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers overseeing 5\u201315 rental units, inefficient scheduling causes delayed maintenance responses. We streamline work order management instead of manual scheduling via spreadsheets or phone calls.",
+    "current_alternative": "manual scheduling via spreadsheets or phone calls",
+    "must_have_features": [
+      "work order creation and tracking",
+      "technician dispatching",
+      "completion reporting"
+    ]
+  },
+  "one_liner": "For property managers overseeing 5\u201315 rental units, inefficient scheduling causes delayed maintenance responses. We streamline work order management instead of manual scheduling via spreadsheets or phone calls.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-05",
+    "overlay_score": 69,
+    "arr_score": 68
+  }
+}

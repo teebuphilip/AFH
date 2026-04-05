@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201315 vehicles tool",
+  "description": "For logistics carriers managing 5\u201315 vehicles, inefficient routing causes late deliveries. We optimize fleet routing and maintenance scheduling instead of manual scheduling and routing tools.",
+  "target_audience": "logistics carriers managing 5\u201315 vehicles",
+  "problem_solved": "inefficient routing and maintenance scheduling",
+  "features": [
+    "manual route input",
+    "maintenance scheduling alerts",
+    "basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201315 vehicles",
+    "primary_problem": "inefficient routing and maintenance scheduling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5\u201315 vehicles, inefficient routing causes late deliveries. We optimize fleet routing and maintenance scheduling instead of manual scheduling and routing tools.",
+    "current_alternative": "manual scheduling and routing tools",
+    "must_have_features": [
+      "manual route input",
+      "maintenance scheduling alerts",
+      "basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5\u201315 vehicles, inefficient routing causes late deliveries. We optimize fleet routing and maintenance scheduling instead of manual scheduling and routing tools.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-05",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

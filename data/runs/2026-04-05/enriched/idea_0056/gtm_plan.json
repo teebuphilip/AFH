@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "CFOs of accounting firms processing 10-20 invoices/month",
+  "offer": "For CFOs of accounting firms processing 10-20 invoices/month, inconsistent financial reporting causes delayed decision-making. We automate report generation instead of manual report generation using spreadsheets.",
+  "problem": "Inconsistent financial reporting leads to delayed decision-making.",
+  "channels_free": [
+    "Post in Reddit communities where CFOs seek help",
+    "Indie Hackers posts and comments on workflows",
+    "DM outreach to CFOs with a demo video",
+    "Community forums where CFOs share tools"
+  ],
+  "try_it": "Let users try customizable report templates and scheduled delivery on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

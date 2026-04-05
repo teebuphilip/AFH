@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "insurance brokers manual tool",
+    "insurance brokers manual automation",
+    "insurance brokers processing 5 15 premium audits month manual tool",
+    "insurance brokers processing 5 15 premium audits month manual automation",
+    "insurance brokers processing 5 15 premium audits month manual workflow"
+  ],
+  "secondary_keywords": [
+    "insurance brokers processing 5 15 premium audits month manual tool software",
+    "insurance brokers processing 5 15 premium audits month manual tool platform",
+    "insurance brokers processing 5 15 premium audits month manual tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For insurance brokers processing 5\u201315 premium audits/month, manual submission causes delays in claims processing. We automate submissions instead of manual submission via email or paper forms.",
+    "Manual submission of insurance premium audits is time-consuming and prone to errors.",
+    "insurance brokers processing 5\u201315 premium audits/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Premium Audits Month Manual Tool Software",
+      "target_keyword": "insurance brokers processing 5 15 premium audits month manual tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Premium Audits Month Manual Tool Platform",
+      "target_keyword": "insurance brokers processing 5 15 premium audits month manual tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Premium Audits Month Manual Tool Solution",
+      "target_keyword": "insurance brokers processing 5 15 premium audits month manual tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Premium Audits Month Manual Tool",
+      "target_keyword": "insurance brokers processing 5 15 premium audits month manual tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Premium Audits Month Manual Automation",
+      "target_keyword": "insurance brokers processing 5 15 premium audits month manual automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Premium Audits Month Manual Workflow",
+      "target_keyword": "insurance brokers processing 5 15 premium audits month manual workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "insurance brokers manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "insurance brokers manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "insurance brokers manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "insurance brokers manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "insurance brokers manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | insurance brokers tool",
+      "insurance brokers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "insurance brokers tool helps with manual submission of insurance premium audits is time-consuming and prone to errors."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

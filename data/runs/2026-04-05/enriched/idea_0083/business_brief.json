@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual transaction processing causes late reports. We automate report generation instead of manual bookkeeping and spreadsheet management.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Manual processing of financial transactions leads to errors and delays.",
+  "features": [
+    "simple transaction entry interface",
+    "basic error-checking functionality",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Manual processing of financial transactions leads to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual transaction processing causes late reports. We automate report generation instead of manual bookkeeping and spreadsheet management.",
+    "current_alternative": "manual bookkeeping and spreadsheet management",
+    "must_have_features": [
+      "simple transaction entry interface",
+      "basic error-checking functionality",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual transaction processing causes late reports. We automate report generation instead of manual bookkeeping and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

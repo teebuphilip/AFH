@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "finance ops managers in accounting firms processing 5\u201315 bank statements/week",
+  "offer": "For finance ops managers in accounting firms processing 5\u201315 bank statements/week, manual tracking causes cash flow gaps. We automate cash flow summaries instead of manual tracking and summarization of cash flow.",
+  "problem": "Inconsistent cash flow visibility due to manual compilation of bank statements.",
+  "channels_free": [
+    "Post in Reddit communities for finance ops managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach with demo video to finance ops managers",
+    "Community forums sharing tools for finance ops managers"
+  ],
+  "try_it": "Let users try manual input for 1-3 bank statements",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as user templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

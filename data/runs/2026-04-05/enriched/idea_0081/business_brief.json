@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers at small to medium-sized restaurants processing 10-30 shifts per week tool",
+  "description": "For restaurant managers at small to medium-sized restaurants processing 10-30 shifts per week, inefficient manual scheduling causes staff dissatisfaction. We automate scheduling instead of manual scheduling via spreadsheets or paper.",
+  "target_audience": "restaurant managers at small to medium-sized restaurants processing 10-30 shifts per week",
+  "problem_solved": "inefficient manual scheduling and shift swapping",
+  "features": [
+    "shift swapping request system",
+    "visual shift calendar",
+    "notification system for schedule changes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers at small to medium-sized restaurants processing 10-30 shifts per week",
+    "primary_problem": "inefficient manual scheduling and shift swapping",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers at small to medium-sized restaurants processing 10-30 shifts per week, inefficient manual scheduling causes staff dissatisfaction. We automate scheduling instead of manual scheduling via spreadsheets or paper.",
+    "current_alternative": "manual scheduling via spreadsheets or paper",
+    "must_have_features": [
+      "shift swapping request system",
+      "visual shift calendar",
+      "notification system for schedule changes"
+    ]
+  },
+  "one_liner": "For restaurant managers at small to medium-sized restaurants processing 10-30 shifts per week, inefficient manual scheduling causes staff dissatisfaction. We automate scheduling instead of manual scheduling via spreadsheets or paper.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

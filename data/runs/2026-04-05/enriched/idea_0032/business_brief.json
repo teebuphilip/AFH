@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant back office teams processing 10\u201320 invoices/month tool",
+  "description": "For restaurant back office teams processing 10\u201320 invoices/month, manual reconciliation causes late payments and supplier penalties. We streamline manual invoice tracking instead of manual invoice processing.",
+  "target_audience": "restaurant back office teams processing 10\u201320 invoices/month",
+  "problem_solved": "manual reconciliation of supplier invoices",
+  "features": [
+    "invoice data entry",
+    "notification system for discrepancies",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant back office teams processing 10\u201320 invoices/month",
+    "primary_problem": "manual reconciliation of supplier invoices",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back office teams processing 10\u201320 invoices/month, manual reconciliation causes late payments and supplier penalties. We streamline manual invoice tracking instead of manual invoice processing.",
+    "current_alternative": "manual invoice processing",
+    "must_have_features": [
+      "invoice data entry",
+      "notification system for discrepancies",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant back office teams processing 10\u201320 invoices/month, manual reconciliation causes late payments and supplier penalties. We streamline manual invoice tracking instead of manual invoice processing.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-05",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

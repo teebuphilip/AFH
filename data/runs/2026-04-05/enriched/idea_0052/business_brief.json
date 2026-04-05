@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 orders/month tool",
+  "description": "For Etsy sellers processing 10\u201320 orders/month, manual inventory tracking causes stockouts. We automate inventory monitoring and purchase orders instead of manual inventory tracking and order placement.",
+  "target_audience": "Etsy sellers processing 10\u201320 orders/month",
+  "problem_solved": "Inability to track inventory levels effectively, leading to stockouts.",
+  "features": [
+    "Inventory level alerts",
+    "User-friendly dashboard for inventory management",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 orders/month",
+    "primary_problem": "Inability to track inventory levels effectively, leading to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 orders/month, manual inventory tracking causes stockouts. We automate inventory monitoring and purchase orders instead of manual inventory tracking and order placement.",
+    "current_alternative": "Manual inventory tracking and order placement",
+    "must_have_features": [
+      "Inventory level alerts",
+      "User-friendly dashboard for inventory management",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 orders/month, manual inventory tracking causes stockouts. We automate inventory monitoring and purchase orders instead of manual inventory tracking and order placement.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-05",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

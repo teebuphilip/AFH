@@ -1,0 +1,16 @@
+{
+  "idea_text": "Service that tracks vehicle maintenance schedules and alerts fleet managers in logistics companies.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 74,
+  "arr_score": 74,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-05T09:56:08.655368",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

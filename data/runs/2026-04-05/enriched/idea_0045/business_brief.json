@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant kitchen managers processing 10-20 inventory reports/month tool",
+  "description": "For restaurant kitchen managers processing 10-20 inventory reports/month, inaccurate inventory reports cause overstocking and waste. We automate inventory usage reports instead of manual inventory tracking spreadsheets.",
+  "target_audience": "restaurant kitchen managers processing 10-20 inventory reports/month",
+  "problem_solved": "Inaccurate inventory reports lead to overstocking and waste.",
+  "features": [
+    "manual entry of inventory data",
+    "basic analytics on inventory usage",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant kitchen managers processing 10-20 inventory reports/month",
+    "primary_problem": "Inaccurate inventory reports lead to overstocking and waste.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant kitchen managers processing 10-20 inventory reports/month, inaccurate inventory reports cause overstocking and waste. We automate inventory usage reports instead of manual inventory tracking spreadsheets.",
+    "current_alternative": "manual inventory tracking spreadsheets",
+    "must_have_features": [
+      "manual entry of inventory data",
+      "basic analytics on inventory usage",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant kitchen managers processing 10-20 inventory reports/month, inaccurate inventory reports cause overstocking and waste. We automate inventory usage reports instead of manual inventory tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

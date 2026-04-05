@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic administration teams processing 10\u201320 patient records/month tool",
+  "description": "For medical clinic administration teams processing 10\u201320 invoices/month, billing discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "medical clinic administration teams processing 10\u201320 patient records/month",
+  "problem_solved": "frequent billing discrepancies due to manual reconciliation of patient records.",
+  "features": [
+    "manual data entry for patient records",
+    "basic reporting for billing discrepancies",
+    "user-friendly interface for tracking reconciliations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic administration teams processing 10\u201320 patient records/month",
+    "primary_problem": "frequent billing discrepancies due to manual reconciliation of patient records.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic administration teams processing 10\u201320 invoices/month, billing discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual data entry for patient records",
+      "basic reporting for billing discrepancies",
+      "user-friendly interface for tracking reconciliations"
+    ]
+  },
+  "one_liner": "For medical clinic administration teams processing 10\u201320 invoices/month, billing discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0079",
+    "run_date": "2026-04-05",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

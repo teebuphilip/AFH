@@ -1,0 +1,12 @@
+{
+  "idea_text": "Automated accounts payable reconciliation tool that tracks invoices, matches them to purchase orders, and sends exception reports to the finance team.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66
+}

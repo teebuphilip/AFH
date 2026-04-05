@@ -1,0 +1,12 @@
+{
+  "idea_text": "Tool that tracks SaaS subscription renewals, sends notifications to the IT manager, and automatically processes payments to avoid service disruptions.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 74,
+  "arr_score": 74
+}

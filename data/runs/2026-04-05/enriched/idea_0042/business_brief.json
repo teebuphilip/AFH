@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 commercial properties tool",
+  "description": "For property managers processing 5\u201315 commercial properties, manual updates cause cash flow gaps. We automate rent roll updates instead of manual spreadsheets and reports.",
+  "target_audience": "property managers handling 5\u201315 commercial properties",
+  "problem_solved": "Manual updates of rent rolls are time-consuming and prone to errors.",
+  "features": [
+    "customizable reporting templates",
+    "user-friendly dashboard for tracking updates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 commercial properties",
+    "primary_problem": "Manual updates of rent rolls are time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 commercial properties, manual updates cause cash flow gaps. We automate rent roll updates instead of manual spreadsheets and reports.",
+    "current_alternative": "manual spreadsheets and reports",
+    "must_have_features": [
+      "customizable reporting templates",
+      "user-friendly dashboard for tracking updates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 commercial properties, manual updates cause cash flow gaps. We automate rent roll updates instead of manual spreadsheets and reports.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-05",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

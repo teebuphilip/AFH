@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers overseeing 5\u201315 buildings",
+  "offer": "For property managers overseeing 5\u201315 buildings, inefficient tracking of work orders causes delayed maintenance responses. We provide streamlined tracking instead of manual tracking via spreadsheets.",
+  "problem": "Inefficient tracking of work orders and preventive maintenance across multiple properties.",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to property managers with demo video",
+    "Join community forums for property management tools"
+  ],
+  "try_it": "Let users try work order tracking and maintenance scheduling on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Simplify the onboarding process"
+  ]
+}

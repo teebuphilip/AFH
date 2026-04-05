@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 5\u201315 premium audits/month tool",
+  "description": "For insurance brokers processing 5\u201315 premium audits/month, manual submission causes delays in claims processing. We automate submissions instead of manual submission via email or paper forms.",
+  "target_audience": "insurance brokers processing 5\u201315 premium audits/month",
+  "problem_solved": "Manual submission of insurance premium audits is time-consuming and prone to errors.",
+  "features": [
+    "template for premium audit submissions",
+    "status tracking for submitted audits",
+    "reminder notifications for upcoming deadlines"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 5\u201315 premium audits/month",
+    "primary_problem": "Manual submission of insurance premium audits is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 5\u201315 premium audits/month, manual submission causes delays in claims processing. We automate submissions instead of manual submission via email or paper forms.",
+    "current_alternative": "manual submission via email or paper forms",
+    "must_have_features": [
+      "template for premium audit submissions",
+      "status tracking for submitted audits",
+      "reminder notifications for upcoming deadlines"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 5\u201315 premium audits/month, manual submission causes delays in claims processing. We automate submissions instead of manual submission via email or paper forms.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-05",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

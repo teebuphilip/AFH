@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers managing 5\u201315 subcontractors tool",
+  "description": "For construction project managers managing 5\u201315 subcontractors, license expirations cause project delays. We provide automated alerts instead of manual tracking of licenses and expirations.",
+  "target_audience": "construction project managers managing 5\u201315 subcontractors",
+  "problem_solved": "Subcontractor license expirations lead to project delays.",
+  "features": [
+    "manual entry of subcontractor license details",
+    "dashboard for tracking license status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers managing 5\u201315 subcontractors",
+    "primary_problem": "Subcontractor license expirations lead to project delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers managing 5\u201315 subcontractors, license expirations cause project delays. We provide automated alerts instead of manual tracking of licenses and expirations.",
+    "current_alternative": "manual tracking of licenses and expirations",
+    "must_have_features": [
+      "manual entry of subcontractor license details",
+      "dashboard for tracking license status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project managers managing 5\u201315 subcontractors, license expirations cause project delays. We provide automated alerts instead of manual tracking of licenses and expirations.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-05",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

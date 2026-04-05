@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR ops managers in small accounting firms processing 5\u201315 payroll summaries/month tool",
+  "description": "For HR ops managers in small accounting firms processing 5\u201315 payroll summaries/month, manual compilation causes delays in payroll reporting. We automate the summary generation instead of manual spreadsheet compilation and email distribution.",
+  "target_audience": "HR ops managers in small accounting firms processing 5\u201315 payroll summaries/month",
+  "problem_solved": "Manual compilation of payroll summaries is time-consuming and prone to errors.",
+  "features": [
+    "Email distribution to HR ops managers",
+    "User-friendly dashboard for summary review",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR ops managers in small accounting firms processing 5\u201315 payroll summaries/month",
+    "primary_problem": "Manual compilation of payroll summaries is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR ops managers in small accounting firms processing 5\u201315 payroll summaries/month, manual compilation causes delays in payroll reporting. We automate the summary generation instead of manual spreadsheet compilation and email distribution.",
+    "current_alternative": "Manual spreadsheet compilation and email distribution",
+    "must_have_features": [
+      "Email distribution to HR ops managers",
+      "User-friendly dashboard for summary review",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR ops managers in small accounting firms processing 5\u201315 payroll summaries/month, manual compilation causes delays in payroll reporting. We automate the summary generation instead of manual spreadsheet compilation and email distribution.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-05",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

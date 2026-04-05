@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 50\u2013100 patient records/month tool",
+  "description": "For medical clinics processing 50\u2013100 patient records/month, disorganization causes delays in patient care. We automate record organization instead of manual filing and storage of patient records.",
+  "target_audience": "medical clinics processing 50\u2013100 patient records/month",
+  "problem_solved": "Disorganized patient records leading to inefficiencies in patient care.",
+  "features": [
+    "manual record entry",
+    "searchable digital storage",
+    "basic categorization of records"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 50\u2013100 patient records/month",
+    "primary_problem": "Disorganized patient records leading to inefficiencies in patient care.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 50\u2013100 patient records/month, disorganization causes delays in patient care. We automate record organization instead of manual filing and storage of patient records.",
+    "current_alternative": "manual filing and storage of patient records",
+    "must_have_features": [
+      "manual record entry",
+      "searchable digital storage",
+      "basic categorization of records"
+    ]
+  },
+  "one_liner": "For medical clinics processing 50\u2013100 patient records/month, disorganization causes delays in patient care. We automate record organization instead of manual filing and storage of patient records.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

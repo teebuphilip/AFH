@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 reports/month tool",
+  "description": "For construction contractors processing 5\u201315 reports/month, inconsistent regulatory submissions cause potential fines. We automate submissions instead of manual report submission processes.",
+  "target_audience": "construction contractors processing 5\u201315 reports/month",
+  "problem_solved": "Inconsistent regulatory submissions lead to potential fines and project delays.",
+  "features": [
+    "manual report entry",
+    "scheduled submission reminders",
+    "basic report formatting tools"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 reports/month",
+    "primary_problem": "Inconsistent regulatory submissions lead to potential fines and project delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 reports/month, inconsistent regulatory submissions cause potential fines. We automate submissions instead of manual report submission processes.",
+    "current_alternative": "manual report submission processes",
+    "must_have_features": [
+      "manual report entry",
+      "scheduled submission reminders",
+      "basic report formatting tools"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 reports/month, inconsistent regulatory submissions cause potential fines. We automate submissions instead of manual report submission processes.",
+  "source": {
+    "idea_id": "idea_0078",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

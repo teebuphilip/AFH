@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, the complexity of OSHA compliance reporting causes potential fines and project delays. We automate report preparation instead of manual report preparation using spreadsheets.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Difficulty in preparing timely OSHA compliance reports.",
+  "features": [
+    "template-based report generation",
+    "user-friendly interface for data entry",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Difficulty in preparing timely OSHA compliance reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, the complexity of OSHA compliance reporting causes potential fines and project delays. We automate report preparation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly interface for data entry",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, the complexity of OSHA compliance reporting causes potential fines and project delays. We automate report preparation instead of manual report preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-05",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

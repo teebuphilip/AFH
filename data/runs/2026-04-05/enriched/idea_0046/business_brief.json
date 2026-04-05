@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small accounting firms processing 5\u201315 clients per quarter tool",
+  "description": "For small accounting firms processing 5\u201315 clients per quarter, the complexity of tax regulations causes late filings. We generate automated compliance filings instead of manual filing processes using spreadsheets.",
+  "target_audience": "small accounting firms processing 5\u201315 clients per quarter",
+  "problem_solved": "Difficulty in generating timely and accurate quarterly tax compliance filings.",
+  "features": [
+    "user-friendly interface for data entry",
+    "basic reporting for compliance tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small accounting firms processing 5\u201315 clients per quarter",
+    "primary_problem": "Difficulty in generating timely and accurate quarterly tax compliance filings.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For small accounting firms processing 5\u201315 clients per quarter, the complexity of tax regulations causes late filings. We generate automated compliance filings instead of manual filing processes using spreadsheets.",
+    "current_alternative": "manual filing processes using spreadsheets",
+    "must_have_features": [
+      "user-friendly interface for data entry",
+      "basic reporting for compliance tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small accounting firms processing 5\u201315 clients per quarter, the complexity of tax regulations causes late filings. We generate automated compliance filings instead of manual filing processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-05",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

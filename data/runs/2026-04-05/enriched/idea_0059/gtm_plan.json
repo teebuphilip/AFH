@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 rental units/month",
+  "offer": "For property managers processing 5\u201315 rental units/month, manual rent collection causes cash flow gaps. We automate rent collection instead of manual tracking and spreadsheets.",
+  "problem": "manual rent collection and late fee calculations",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Share insights on Indie Hackers forums",
+    "DM property managers with demo video",
+    "Engage in community groups for property managers"
+  ],
+  "try_it": "Let users try late fee calculation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with CTA",
+    "Develop a short demo video",
+    "Conduct 10 user interviews",
+    "Offer early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for data",
+    "One-click report export feature",
+    "Streamline onboarding process"
+  ]
+}

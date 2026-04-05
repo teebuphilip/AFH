@@ -1,0 +1,15 @@
+{
+  "idea_text": "Automated supply chain visibility tool that aggregates data from multiple sources, identifies delivery risks, and alerts the logistics coordinator.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-05T09:56:08.660833",
+  "verdict_source": "overlay_score"
+}

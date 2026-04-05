@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 5\u201315 payrolls/month",
+  "offer": "For accounting firms processing 5\u201315 payrolls/month, manual payroll tax filing causes late submissions, leading to penalties. We automate payroll tax filings instead of manual filing and tracking.",
+  "problem": "manual payroll tax filing processes lead to errors and delays",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers discussions on payroll solutions",
+    "DM outreach to 20-50 accounting firms with demo",
+    "Community forums for accounting tools sharing"
+  ],
+  "try_it": "Let users try confirmation report generation and dashboard features",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Reduce steps during onboarding"
+  ]
+}

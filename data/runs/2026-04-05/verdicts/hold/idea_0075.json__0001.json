@@ -1,0 +1,16 @@
+{
+  "idea_text": "Workflow automation that generates sales commission reports, calculates payouts, and submits payments to the sales operations manager.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 66,
+  "arr_score": 65,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-05T09:56:08.662042",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

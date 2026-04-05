@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/month tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/month",
+  "problem_solved": "Difficulty in generating compliance reports from raw shipment logs.",
+  "features": [
+    "Ability to import raw shipment logs",
+    "Template for standardized compliance reports",
+    "User-friendly interface for manual adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/month",
+    "primary_problem": "Difficulty in generating compliance reports from raw shipment logs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "Manual report generation using spreadsheets.",
+    "must_have_features": [
+      "Ability to import raw shipment logs",
+      "Template for standardized compliance reports",
+      "User-friendly interface for manual adjustments"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

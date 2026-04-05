@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancer using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancer using QuickBooks processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation of statements and reports.",
+  "target_audience": "freelancer using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Reconciling credit card statements with expense reports",
+  "features": [
+    "manual entry of credit card transactions",
+    "weekly summary reports",
+    "expense categorization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancer using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Reconciling credit card statements with expense reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancer using QuickBooks processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation of statements and reports.",
+    "current_alternative": "manual reconciliation of statements and reports",
+    "must_have_features": [
+      "manual entry of credit card transactions",
+      "weekly summary reports",
+      "expense categorization"
+    ]
+  },
+  "one_liner": "For freelancer using QuickBooks processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation of statements and reports.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

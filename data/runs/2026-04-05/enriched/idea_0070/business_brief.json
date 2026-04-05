@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "compliance officers in accounting firms processing 5\u201315 regulatory filings/month tool",
+  "description": "For compliance officers in accounting firms processing 5\u201315 regulatory filings/month, manual data entry causes late submissions. We automate data collection and form generation instead of manual data entry and form submission.",
+  "target_audience": "compliance officers in accounting firms processing 5\u201315 regulatory filings/month",
+  "problem_solved": "Manual data collection and form generation for regulatory filings.",
+  "features": [
+    "data collection templates",
+    "form generation tools",
+    "submission tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "compliance officers in accounting firms processing 5\u201315 regulatory filings/month",
+    "primary_problem": "Manual data collection and form generation for regulatory filings.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For compliance officers in accounting firms processing 5\u201315 regulatory filings/month, manual data entry causes late submissions. We automate data collection and form generation instead of manual data entry and form submission.",
+    "current_alternative": "manual data entry and form submission",
+    "must_have_features": [
+      "data collection templates",
+      "form generation tools",
+      "submission tracking"
+    ]
+  },
+  "one_liner": "For compliance officers in accounting firms processing 5\u201315 regulatory filings/month, manual data entry causes late submissions. We automate data collection and form generation instead of manual data entry and form submission.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

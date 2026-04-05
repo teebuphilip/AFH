@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, late payments cause cash flow gaps. We automate accounts receivable instead of manual tracking of payments and invoices.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in tracking customer payments and managing overdue invoices",
+  "features": [
+    "Payment tracking dashboard",
+    "Credit application management",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in tracking customer payments and managing overdue invoices",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, late payments cause cash flow gaps. We automate accounts receivable instead of manual tracking of payments and invoices.",
+    "current_alternative": "Manual tracking of payments and invoices",
+    "must_have_features": [
+      "Payment tracking dashboard",
+      "Credit application management",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, late payments cause cash flow gaps. We automate accounts receivable instead of manual tracking of payments and invoices.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

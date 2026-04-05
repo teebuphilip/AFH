@@ -1,0 +1,15 @@
+{
+  "idea_text": "Employee benefits administration tool that enrolls new hires, manages changes, and provides self-service access for the HR representative.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 55,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-05T09:56:08.661446",
+  "verdict_source": "overlay_score"
+}

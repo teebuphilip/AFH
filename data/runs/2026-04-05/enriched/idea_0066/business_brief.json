@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators for Amazon sellers processing 10\u201350 shipments/month tool",
+  "description": "For logistics coordinators for Amazon sellers processing 10\u201350 shipments/month, delivery risks cause late orders. We provide automated visibility instead of manual tracking and communication with carriers.",
+  "target_audience": "logistics coordinators for Amazon sellers processing 10\u201350 shipments/month",
+  "problem_solved": "Delivery risks leading to late orders",
+  "features": [
+    "real-time shipment tracking",
+    "risk alert notifications",
+    "data aggregation from multiple sources"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators for Amazon sellers processing 10\u201350 shipments/month",
+    "primary_problem": "Delivery risks leading to late orders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators for Amazon sellers processing 10\u201350 shipments/month, delivery risks cause late orders. We provide automated visibility instead of manual tracking and communication with carriers.",
+    "current_alternative": "manual tracking and communication with carriers",
+    "must_have_features": [
+      "real-time shipment tracking",
+      "risk alert notifications",
+      "data aggregation from multiple sources"
+    ]
+  },
+  "one_liner": "For logistics coordinators for Amazon sellers processing 10\u201350 shipments/month, delivery risks cause late orders. We provide automated visibility instead of manual tracking and communication with carriers.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

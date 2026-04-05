@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law practices managing 5\u201315 client files/month tool",
+  "description": "For small law practices processing 5\u201315 client files/month, disorganization causes missed deadlines. We provide a streamlined tracking system instead of manual file organization.",
+  "target_audience": "small law practices managing 5\u201315 client files/month",
+  "problem_solved": "disorganized client files",
+  "features": [
+    "file categorization",
+    "search functionality",
+    "reminder notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law practices managing 5\u201315 client files/month",
+    "primary_problem": "disorganized client files",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law practices processing 5\u201315 client files/month, disorganization causes missed deadlines. We provide a streamlined tracking system instead of manual file organization.",
+    "current_alternative": "manual file organization",
+    "must_have_features": [
+      "file categorization",
+      "search functionality",
+      "reminder notifications"
+    ]
+  },
+  "one_liner": "For small law practices processing 5\u201315 client files/month, disorganization causes missed deadlines. We provide a streamlined tracking system instead of manual file organization.",
+  "source": {
+    "idea_id": "idea_0098",
+    "run_date": "2026-04-05",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

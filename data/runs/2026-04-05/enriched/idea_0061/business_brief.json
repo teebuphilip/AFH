@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, unplanned equipment maintenance causes project delays. We automate maintenance scheduling instead of manual tracking.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Equipment downtime due to unplanned maintenance",
+  "features": [
+    "Inspection scheduling",
+    "Service history logging",
+    "Repair alerts for operations team"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Equipment downtime due to unplanned maintenance",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, unplanned equipment maintenance causes project delays. We automate maintenance scheduling instead of manual tracking.",
+    "current_alternative": "manual scheduling and tracking of maintenance",
+    "must_have_features": [
+      "Inspection scheduling",
+      "Service history logging",
+      "Repair alerts for operations team"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, unplanned equipment maintenance causes project delays. We automate maintenance scheduling instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-05",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

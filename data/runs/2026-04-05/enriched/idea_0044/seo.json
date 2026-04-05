@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics dispatchers managing - drivers ensuring tool",
+    "logistics dispatchers managing - drivers ensuring automation",
+    "logistics dispatchers managing 10-20 drivers ensuring tool",
+    "logistics dispatchers managing 10-20 drivers ensuring automation",
+    "logistics dispatchers managing 10-20 drivers ensuring workflow"
+  ],
+  "secondary_keywords": [
+    "logistics dispatchers managing 10-20 drivers ensuring tool software",
+    "logistics dispatchers managing 10-20 drivers ensuring tool platform",
+    "logistics dispatchers managing 10-20 drivers ensuring tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics dispatchers managing 10-20 drivers, manual tracking of hours-of-service causes compliance issues that lead to penalties. We automate tracking instead of manual tracking of driver logs.",
+    "Ensuring compliance with hours-of-service regulations to avoid penalties.",
+    "logistics dispatchers managing 10-20 drivers"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Dispatchers Managing 10-20 Drivers Ensuring Tool Software",
+      "target_keyword": "logistics dispatchers managing 10-20 drivers ensuring tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Dispatchers Managing 10-20 Drivers Ensuring Tool Platform",
+      "target_keyword": "logistics dispatchers managing 10-20 drivers ensuring tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Dispatchers Managing 10-20 Drivers Ensuring Tool Solution",
+      "target_keyword": "logistics dispatchers managing 10-20 drivers ensuring tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Dispatchers Managing 10-20 Drivers Ensuring Tool",
+      "target_keyword": "logistics dispatchers managing 10-20 drivers ensuring tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Dispatchers Managing 10-20 Drivers Ensuring Automation",
+      "target_keyword": "logistics dispatchers managing 10-20 drivers ensuring automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Dispatchers Managing 10-20 Drivers Ensuring Workflow",
+      "target_keyword": "logistics dispatchers managing 10-20 drivers ensuring workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics dispatchers managing - drivers ensuring tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics dispatchers managing - drivers ensuring tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics dispatchers managing - drivers ensuring tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics dispatchers managing - drivers ensuring tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics dispatchers managing - drivers ensuring tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics dispatchers managing - drivers tool",
+      "logistics dispatchers managing - drivers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics dispatchers managing - drivers tool helps with ensuring compliance with hours-of-service regulations to avoid penalties."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

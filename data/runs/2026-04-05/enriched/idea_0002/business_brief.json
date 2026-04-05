@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payrolls/week tool",
+  "description": "For accounting firms processing 5\u201315 payrolls/week, inconsistent timesheet entries cause payroll errors. We notify payroll teams of missing or inconsistent entries instead of manual tracking and reconciliation of timesheets.",
+  "target_audience": "accounting firms processing 5\u201315 payrolls/week",
+  "problem_solved": "Inconsistent timesheet entries lead to payroll errors.",
+  "features": [
+    "weekly timesheet monitoring",
+    "manual entry correction interface",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payrolls/week",
+    "primary_problem": "Inconsistent timesheet entries lead to payroll errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payrolls/week, inconsistent timesheet entries cause payroll errors. We notify payroll teams of missing or inconsistent entries instead of manual tracking and reconciliation of timesheets.",
+    "current_alternative": "manual tracking and reconciliation of timesheets",
+    "must_have_features": [
+      "weekly timesheet monitoring",
+      "manual entry correction interface",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payrolls/week, inconsistent timesheet entries cause payroll errors. We notify payroll teams of missing or inconsistent entries instead of manual tracking and reconciliation of timesheets.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-05",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 contracts/month tool",
+  "description": "For Amazon sellers processing 10\u201320 contracts/month, missed renegotiation opportunities cause increased costs. We provide a contract management system instead of manual tracking through spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201320 contracts/month",
+  "problem_solved": "Difficulty in tracking contract terms and identifying renegotiation opportunities.",
+  "features": [
+    "Store agreements securely",
+    "Monitor contract terms",
+    "Notify contract manager of renegotiation opportunities"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 contracts/month",
+    "primary_problem": "Difficulty in tracking contract terms and identifying renegotiation opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 contracts/month, missed renegotiation opportunities cause increased costs. We provide a contract management system instead of manual tracking through spreadsheets.",
+    "current_alternative": "Manual tracking through spreadsheets",
+    "must_have_features": [
+      "Store agreements securely",
+      "Monitor contract terms",
+      "Notify contract manager of renegotiation opportunities"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 contracts/month, missed renegotiation opportunities cause increased costs. We provide a contract management system instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

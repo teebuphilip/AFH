@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics managers at freight brokers inefficient tool",
+    "logistics managers at freight brokers inefficient automation",
+    "logistics workflow",
+    "shipment tracking",
+    "logistics managers at freight brokers processing 10-50 shipments month inefficient tool",
+    "logistics managers at freight brokers processing 10-50 shipments month inefficient automation",
+    "logistics managers at freight brokers processing 10-50 shipments month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "logistics workflow software",
+    "logistics workflow platform",
+    "logistics workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to logistics workflow",
+    "best logistics workflow tool",
+    "logistics workflow vs spreadsheets",
+    "logistics workflow checklist",
+    "logistics workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics managers at freight brokers processing 10-50 shipments/month, inefficient route planning causes increased shipping costs. We provide route planning recommendations instead of manual route planning and cost analysis.",
+    "inefficient route planning leading to increased shipping costs",
+    "logistics managers at freight brokers processing 10-50 shipments/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Logistics Workflow",
+      "target_keyword": "how to logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Logistics Workflow Tool",
+      "target_keyword": "best logistics workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Vs Spreadsheets",
+      "target_keyword": "logistics workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Checklist",
+      "target_keyword": "logistics workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Pricing",
+      "target_keyword": "logistics workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Software",
+      "target_keyword": "logistics workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Platform",
+      "target_keyword": "logistics workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Solution",
+      "target_keyword": "logistics workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow",
+      "target_keyword": "logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Shipment Tracking",
+      "target_keyword": "shipment tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Managers At Freight Brokers Processing 10-50 Shipments Month Inefficient Tool",
+      "target_keyword": "logistics managers at freight brokers processing 10-50 shipments month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers At Freight Brokers Processing 10-50 Shipments Month Inefficient Automation",
+      "target_keyword": "logistics managers at freight brokers processing 10-50 shipments month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics managers at freight brokers inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics managers at freight brokers inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics managers at freight brokers inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics managers at freight brokers inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics managers at freight brokers inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics managers at freight brokers tool",
+      "logistics managers at freight brokers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics managers at freight brokers tool helps with inefficient route planning leading to increased shipping costs."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

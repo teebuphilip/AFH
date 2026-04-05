@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Fleet managers in logistics companies managing 10-50 vehicles tool",
+  "description": "For fleet managers in logistics companies processing 10-50 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide automated alerts instead of manual tracking through spreadsheets or paper logs.",
+  "target_audience": "Fleet managers in logistics companies managing 10-50 vehicles",
+  "problem_solved": "Inconsistent vehicle maintenance schedules leading to unexpected breakdowns",
+  "features": [
+    "Maintenance schedule tracking",
+    "User-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Fleet managers in logistics companies managing 10-50 vehicles",
+    "primary_problem": "Inconsistent vehicle maintenance schedules leading to unexpected breakdowns",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet managers in logistics companies processing 10-50 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide automated alerts instead of manual tracking through spreadsheets or paper logs.",
+    "current_alternative": "Manual tracking through spreadsheets or paper logs",
+    "must_have_features": [
+      "Maintenance schedule tracking",
+      "User-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet managers in logistics companies processing 10-50 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide automated alerts instead of manual tracking through spreadsheets or paper logs.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-05",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

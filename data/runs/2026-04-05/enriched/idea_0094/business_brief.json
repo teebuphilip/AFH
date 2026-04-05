@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201310 projects/month tool",
+  "description": "For construction contractors processing 5\u201310 projects/month, inefficient blueprint conversion causes project delays. We automate project management plan creation instead of manual project planning and management tools.",
+  "target_audience": "construction contractors managing 5\u201310 projects/month",
+  "problem_solved": "Inefficient conversion of blueprints into actionable project plans.",
+  "features": [
+    "basic project timeline generation",
+    "task assignment capabilities",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201310 projects/month",
+    "primary_problem": "Inefficient conversion of blueprints into actionable project plans.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201310 projects/month, inefficient blueprint conversion causes project delays. We automate project management plan creation instead of manual project planning and management tools.",
+    "current_alternative": "manual project planning and management tools",
+    "must_have_features": [
+      "basic project timeline generation",
+      "task assignment capabilities",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201310 projects/month, inefficient blueprint conversion causes project delays. We automate project management plan creation instead of manual project planning and management tools.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-05",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

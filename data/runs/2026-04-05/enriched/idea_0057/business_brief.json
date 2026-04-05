@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms managing 5\u201315 clients tool",
+  "description": "For law firms managing 5\u201315 clients, regulatory changes cause compliance risks. We provide a compliance management system instead of manual tracking of regulatory changes.",
+  "target_audience": "law firms managing 5\u201315 clients",
+  "problem_solved": "Inability to keep up with regulatory changes leads to compliance risks.",
+  "features": [
+    "regulatory change monitoring",
+    "policy update alerts",
+    "legal team notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms managing 5\u201315 clients",
+    "primary_problem": "Inability to keep up with regulatory changes leads to compliance risks.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms managing 5\u201315 clients, regulatory changes cause compliance risks. We provide a compliance management system instead of manual tracking of regulatory changes.",
+    "current_alternative": "manual tracking of regulatory changes",
+    "must_have_features": [
+      "regulatory change monitoring",
+      "policy update alerts",
+      "legal team notifications"
+    ]
+  },
+  "one_liner": "For law firms managing 5\u201315 clients, regulatory changes cause compliance risks. We provide a compliance management system instead of manual tracking of regulatory changes.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

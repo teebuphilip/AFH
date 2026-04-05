@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers overseeing 5\u201315 staff members tool",
+  "description": "For restaurant managers overseeing 5\u201315 staff members, inefficient onboarding causes high turnover rates. We simplify training processes instead of manual training sessions and outdated onboarding materials.",
+  "target_audience": "restaurant managers overseeing 5\u201315 staff members",
+  "problem_solved": "Inefficient onboarding and training processes for new restaurant staff.",
+  "features": [
+    "step-by-step training guides",
+    "checklist for onboarding tasks",
+    "feedback collection tool for new hires"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers overseeing 5\u201315 staff members",
+    "primary_problem": "Inefficient onboarding and training processes for new restaurant staff.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers overseeing 5\u201315 staff members, inefficient onboarding causes high turnover rates. We simplify training processes instead of manual training sessions and outdated onboarding materials.",
+    "current_alternative": "manual training sessions and outdated onboarding materials",
+    "must_have_features": [
+      "step-by-step training guides",
+      "checklist for onboarding tasks",
+      "feedback collection tool for new hires"
+    ]
+  },
+  "one_liner": "For restaurant managers overseeing 5\u201315 staff members, inefficient onboarding causes high turnover rates. We simplify training processes instead of manual training sessions and outdated onboarding materials.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-05",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

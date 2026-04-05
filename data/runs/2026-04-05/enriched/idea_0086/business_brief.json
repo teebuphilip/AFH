@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201310 projects/month tool",
+  "description": "For construction contractors managing 5\u201310 projects/month, manual documentation processes cause compliance issues and project delays. We automate documentation instead of manual documentation and compliance tracking.",
+  "target_audience": "construction contractors managing 5\u201310 projects/month",
+  "problem_solved": "Manual documentation processes lead to compliance issues and project delays.",
+  "features": [
+    "template-based document generation",
+    "project status tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201310 projects/month",
+    "primary_problem": "Manual documentation processes lead to compliance issues and project delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201310 projects/month, manual documentation processes cause compliance issues and project delays. We automate documentation instead of manual documentation and compliance tracking.",
+    "current_alternative": "manual documentation and compliance tracking",
+    "must_have_features": [
+      "template-based document generation",
+      "project status tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201310 projects/month, manual documentation processes cause compliance issues and project delays. We automate documentation instead of manual documentation and compliance tracking.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

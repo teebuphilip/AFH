@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance claims coordinators processing 10\u201320 claims/month tool",
+  "description": "For insurance claims coordinators processing 10\u201320 claims/month, manual tracking causes delays in updates, leading to frustrated clients. We automate status updates instead of manual tracking through spreadsheets and emails.",
+  "target_audience": "insurance claims coordinators processing 10\u201320 claims/month",
+  "problem_solved": "Manual tracking of claim statuses leads to delays in updates and communication.",
+  "features": [
+    "dashboard for claim tracking",
+    "manual entry option for claims not in the system",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance claims coordinators processing 10\u201320 claims/month",
+    "primary_problem": "Manual tracking of claim statuses leads to delays in updates and communication.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance claims coordinators processing 10\u201320 claims/month, manual tracking causes delays in updates, leading to frustrated clients. We automate status updates instead of manual tracking through spreadsheets and emails.",
+    "current_alternative": "manual tracking through spreadsheets and emails",
+    "must_have_features": [
+      "dashboard for claim tracking",
+      "manual entry option for claims not in the system",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance claims coordinators processing 10\u201320 claims/month, manual tracking causes delays in updates, leading to frustrated clients. We automate status updates instead of manual tracking through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

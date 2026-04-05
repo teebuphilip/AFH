@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "etsy sellers inaccurate tool",
+    "etsy sellers inaccurate automation",
+    "etsy sellers processing 10 20 invoices month inaccurate tool",
+    "etsy sellers processing 10 20 invoices month inaccurate automation",
+    "etsy sellers processing 10 20 invoices month inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "etsy sellers processing 10 20 invoices month inaccurate tool software",
+    "etsy sellers processing 10 20 invoices month inaccurate tool platform",
+    "etsy sellers processing 10 20 invoices month inaccurate tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Etsy sellers processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate weekly reconciliation reports instead of manual reconciliation using spreadsheets.",
+    "Inaccurate financial reporting due to manual reconciliation processes.",
+    "Etsy sellers processing 10\u201320 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Etsy Sellers Processing 10 20 Invoices Month Inaccurate Tool Software",
+      "target_keyword": "etsy sellers processing 10 20 invoices month inaccurate tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 10 20 Invoices Month Inaccurate Tool Platform",
+      "target_keyword": "etsy sellers processing 10 20 invoices month inaccurate tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 10 20 Invoices Month Inaccurate Tool Solution",
+      "target_keyword": "etsy sellers processing 10 20 invoices month inaccurate tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 10 20 Invoices Month Inaccurate Tool",
+      "target_keyword": "etsy sellers processing 10 20 invoices month inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 10 20 Invoices Month Inaccurate Automation",
+      "target_keyword": "etsy sellers processing 10 20 invoices month inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 10 20 Invoices Month Inaccurate Workflow",
+      "target_keyword": "etsy sellers processing 10 20 invoices month inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "etsy sellers inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "etsy sellers inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "etsy sellers inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "etsy sellers inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "etsy sellers inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | etsy sellers tool",
+      "etsy sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "etsy sellers tool helps with inaccurate financial reporting due to manual reconciliation processes."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant kitchen managers processing 10-20 inventory reports/month",
+  "offer": "For restaurant kitchen managers processing 10-20 inventory reports/month, inaccurate inventory reports cause overstocking and waste. We automate inventory usage reports instead of manual inventory tracking spreadsheets.",
+  "problem": "Inaccurate inventory reports lead to overstocking and waste.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant kitchen managers",
+    "Engage in Indie Hackers discussions on inventory tools",
+    "DM 20-50 kitchen managers with demo video",
+    "Participate in community forums for kitchen managers"
+  ],
+  "try_it": "Let users try manual entry of inventory data on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

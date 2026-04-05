@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small to medium-sized marketing agencies processing 5\u201315 vendor contracts biweekly tool",
+  "description": "For procurement managers in small to medium-sized marketing agencies processing 5\u201315 vendor contracts biweekly, missed contract renewals cause service disruptions. We provide timely reminders instead of manual tracking using spreadsheets.",
+  "target_audience": "procurement managers in small to medium-sized marketing agencies processing 5\u201315 vendor contracts biweekly",
+  "problem_solved": "Missed contract renewals leading to service disruptions",
+  "features": [
+    "biweekly reminder notifications",
+    "contract expiration date tracking",
+    "user-friendly dashboard for contract management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small to medium-sized marketing agencies processing 5\u201315 vendor contracts biweekly",
+    "primary_problem": "Missed contract renewals leading to service disruptions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small to medium-sized marketing agencies processing 5\u201315 vendor contracts biweekly, missed contract renewals cause service disruptions. We provide timely reminders instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking of contract dates using spreadsheets",
+    "must_have_features": [
+      "biweekly reminder notifications",
+      "contract expiration date tracking",
+      "user-friendly dashboard for contract management"
+    ]
+  },
+  "one_liner": "For procurement managers in small to medium-sized marketing agencies processing 5\u201315 vendor contracts biweekly, missed contract renewals cause service disruptions. We provide timely reminders instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

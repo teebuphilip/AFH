@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5-15 vehicles tool",
+  "description": "For logistics carriers managing 5-15 vehicles, inefficient vehicle usage causes increased operational costs. We provide a fleet management tool instead of manual tracking and scheduling.",
+  "target_audience": "logistics carriers managing 5-15 vehicles",
+  "problem_solved": "Inefficient vehicle usage and maintenance scheduling",
+  "features": [
+    "vehicle usage monitoring",
+    "maintenance scheduling",
+    "fuel efficiency reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5-15 vehicles",
+    "primary_problem": "Inefficient vehicle usage and maintenance scheduling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5-15 vehicles, inefficient vehicle usage causes increased operational costs. We provide a fleet management tool instead of manual tracking and scheduling.",
+    "current_alternative": "manual tracking and scheduling",
+    "must_have_features": [
+      "vehicle usage monitoring",
+      "maintenance scheduling",
+      "fuel efficiency reporting"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5-15 vehicles, inefficient vehicle usage causes increased operational costs. We provide a fleet management tool instead of manual tracking and scheduling.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-05",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

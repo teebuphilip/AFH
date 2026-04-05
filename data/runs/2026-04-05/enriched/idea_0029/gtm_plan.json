@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant kitchen managers in fast-casual dining establishments",
+  "offer": "For restaurant kitchen managers in fast-casual dining establishments processing 5\u201315 shifts/day, inconsistent compliance logging causes potential food safety violations. We generate automated daily shift compliance logs instead of manual logging on paper or spreadsheets.",
+  "problem": "Inconsistent compliance logging leads to potential food safety violations.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant kitchen managers",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to restaurant kitchen managers with demo video",
+    "Community forums where restaurant kitchen managers share tools"
+  ],
+  "try_it": "Let users try user-friendly interface for quick data entry and reminders",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual logging process",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for initial users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing compliance data",
+    "One-click export of compliance reports",
+    "Simplify onboarding steps for new users"
+  ]
+}

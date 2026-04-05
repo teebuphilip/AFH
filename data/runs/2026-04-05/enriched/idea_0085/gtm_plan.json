@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance brokers managing 5\u201315 claims/month",
+  "offer": "For insurance brokers processing 5\u201315 claims/month, inefficient claim filing causes delayed resolutions. We simplify the claim process instead of manual tracking and filing through email and spreadsheets.",
+  "problem": "Inefficient claim filing and tracking processes lead to delayed resolutions for clients.",
+  "channels_free": [
+    "Post in Reddit communities for insurance brokers",
+    "Engage in Indie Hackers discussions on similar tools",
+    "DM outreach to insurance brokers with demo video",
+    "Share insights in community forums for insurance brokers"
+  ],
+  "try_it": "Let users try a simple claim submission form",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminders for submissions",
+    "Enable CSV import for existing claims",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process for new users"
+  ]
+}

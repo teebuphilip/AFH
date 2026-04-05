@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 rental units/month tool",
+  "description": "For property managers processing 5\u201315 rental units/month, manual rent collection causes cash flow gaps. We automate rent collection instead of manual tracking and spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 rental units/month",
+  "problem_solved": "manual rent collection and late fee calculations",
+  "features": [
+    "late fee calculation",
+    "monthly financial statement generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 rental units/month",
+    "primary_problem": "manual rent collection and late fee calculations",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 rental units/month, manual rent collection causes cash flow gaps. We automate rent collection instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "late fee calculation",
+      "monthly financial statement generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 rental units/month, manual rent collection causes cash flow gaps. We automate rent collection instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0059",
+    "run_date": "2026-04-05",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

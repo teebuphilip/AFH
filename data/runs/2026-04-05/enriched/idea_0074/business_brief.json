@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, vendor risk causes late orders, which leads to supplier penalties. We provide automated vendor assessments instead of manual vendor assessments and monitoring.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Risk of third-party vendor issues affecting order fulfillment",
+  "features": [
+    "Vendor assessment checklist",
+    "Change monitoring alerts",
+    "Risk scoring dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Risk of third-party vendor issues affecting order fulfillment",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, vendor risk causes late orders, which leads to supplier penalties. We provide automated vendor assessments instead of manual vendor assessments and monitoring.",
+    "current_alternative": "Manual vendor assessments and monitoring",
+    "must_have_features": [
+      "Vendor assessment checklist",
+      "Change monitoring alerts",
+      "Risk scoring dashboard"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, vendor risk causes late orders, which leads to supplier penalties. We provide automated vendor assessments instead of manual vendor assessments and monitoring.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

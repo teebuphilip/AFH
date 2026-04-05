@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small restaurants processing 10-20 orders/week tool",
+  "description": "For small restaurants processing 10-20 orders/week, inefficient inventory management causes stockouts. We automate inventory management instead of manual inventory tracking and ordering.",
+  "target_audience": "small restaurants processing 10-20 orders/week",
+  "problem_solved": "Inefficient inventory management leading to stockouts and over-ordering.",
+  "features": [
+    "simple inventory tracking interface",
+    "manual order placement functionality",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small restaurants processing 10-20 orders/week",
+    "primary_problem": "Inefficient inventory management leading to stockouts and over-ordering.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small restaurants processing 10-20 orders/week, inefficient inventory management causes stockouts. We automate inventory management instead of manual inventory tracking and ordering.",
+    "current_alternative": "manual inventory tracking and ordering",
+    "must_have_features": [
+      "simple inventory tracking interface",
+      "manual order placement functionality",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small restaurants processing 10-20 orders/week, inefficient inventory management causes stockouts. We automate inventory management instead of manual inventory tracking and ordering.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

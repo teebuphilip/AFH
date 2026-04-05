@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For medical clinics processing 10\u201320 invoices/month, inefficient billing causes cash flow gaps. We automate coding and billing instead of manual coding and billing processes.",
+  "target_audience": "medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "timely billing and coding",
+  "features": [
+    "manual entry for initial data input",
+    "billing status tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "timely billing and coding",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10\u201320 invoices/month, inefficient billing causes cash flow gaps. We automate coding and billing instead of manual coding and billing processes.",
+    "current_alternative": "manual coding and billing processes",
+    "must_have_features": [
+      "manual entry for initial data input",
+      "billing status tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10\u201320 invoices/month, inefficient billing causes cash flow gaps. We automate coding and billing instead of manual coding and billing processes.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

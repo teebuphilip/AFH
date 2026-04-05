@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "IT managers in small to medium-sized marketing agencies processing 5\u201315 SaaS subscriptions/month tool",
+  "description": "For IT managers in small to medium-sized marketing agencies processing 5\u201315 subscriptions/month, manual tracking causes missed renewals. We automate notifications and payments instead of manual tracking.",
+  "target_audience": "IT managers in small to medium-sized marketing agencies processing 5\u201315 SaaS subscriptions/month",
+  "problem_solved": "Managing multiple SaaS subscription renewals and payments",
+  "features": [
+    "Subscription renewal tracking",
+    "Notification system for renewals",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "IT managers in small to medium-sized marketing agencies processing 5\u201315 SaaS subscriptions/month",
+    "primary_problem": "Managing multiple SaaS subscription renewals and payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For IT managers in small to medium-sized marketing agencies processing 5\u201315 subscriptions/month, manual tracking causes missed renewals. We automate notifications and payments instead of manual tracking.",
+    "current_alternative": "Manual tracking of subscription renewals and payments",
+    "must_have_features": [
+      "Subscription renewal tracking",
+      "Notification system for renewals",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For IT managers in small to medium-sized marketing agencies processing 5\u201315 subscriptions/month, manual tracking causes missed renewals. We automate notifications and payments instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-05",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

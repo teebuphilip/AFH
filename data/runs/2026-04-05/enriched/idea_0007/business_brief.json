@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201350 sales commissions/week tool",
+  "description": "For Shopify sellers processing 10\u201350 sales commissions/week, delayed reconciliation causes cash flow gaps. We automate commission reconciliation instead of manual reconciliation and sporadic payout summaries.",
+  "target_audience": "Shopify sellers processing 10\u201350 sales commissions/week",
+  "problem_solved": "Timely reconciliation of sales commissions",
+  "features": [
+    "Manual commission entry",
+    "Weekly payout summary generation",
+    "Basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201350 sales commissions/week",
+    "primary_problem": "Timely reconciliation of sales commissions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201350 sales commissions/week, delayed reconciliation causes cash flow gaps. We automate commission reconciliation instead of manual reconciliation and sporadic payout summaries.",
+    "current_alternative": "Manual reconciliation and sporadic payout summaries",
+    "must_have_features": [
+      "Manual commission entry",
+      "Weekly payout summary generation",
+      "Basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201350 sales commissions/week, delayed reconciliation causes cash flow gaps. We automate commission reconciliation instead of manual reconciliation and sporadic payout summaries.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-05",
+    "overlay_score": 66,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 clients/month tool",
+  "description": "For accounting firms processing 5\u201315 clients/month, manual payroll processing causes late tax filings. We automate payroll and tax filing instead of manual payroll processing and tax filing.",
+  "target_audience": "accounting firms processing 5\u201315 clients/month",
+  "problem_solved": "Timely payroll and tax filing",
+  "features": [
+    "manual payroll entry",
+    "tax filing reminders",
+    "basic reporting tools"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 clients/month",
+    "primary_problem": "Timely payroll and tax filing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 clients/month, manual payroll processing causes late tax filings. We automate payroll and tax filing instead of manual payroll processing and tax filing.",
+    "current_alternative": "manual payroll processing and tax filing",
+    "must_have_features": [
+      "manual payroll entry",
+      "tax filing reminders",
+      "basic reporting tools"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 clients/month, manual payroll processing causes late tax filings. We automate payroll and tax filing instead of manual payroll processing and tax filing.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-05",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

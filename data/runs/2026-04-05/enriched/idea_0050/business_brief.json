@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality accounting teams processing 10\u201320 invoices/month tool",
+  "description": "For hospitality accounting teams processing 10\u201320 invoices/month, inaccurate invoice matching causes supplier penalties. We automate vendor invoice matching instead of manual invoice matching and reporting.",
+  "target_audience": "hospitality accounting teams processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate invoice matching leading to discrepancies",
+  "features": [
+    "manual invoice entry",
+    "discrepancy report generation",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality accounting teams processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate invoice matching leading to discrepancies",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality accounting teams processing 10\u201320 invoices/month, inaccurate invoice matching causes supplier penalties. We automate vendor invoice matching instead of manual invoice matching and reporting.",
+    "current_alternative": "manual invoice matching and reporting",
+    "must_have_features": [
+      "manual invoice entry",
+      "discrepancy report generation",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For hospitality accounting teams processing 10\u201320 invoices/month, inaccurate invoice matching causes supplier penalties. We automate vendor invoice matching instead of manual invoice matching and reporting.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-05",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

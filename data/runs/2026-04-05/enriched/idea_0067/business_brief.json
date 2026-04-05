@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, inconsistent sales cause missed tax deadlines. We automate payroll tax compliance instead of manual calculations and filing with no reminders.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in managing payroll tax compliance due to varying sales volumes.",
+  "features": [
+    "Calculate payroll tax withholdings",
+    "File payroll tax returns",
+    "Notify payroll administrator of due dates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in managing payroll tax compliance due to varying sales volumes.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, inconsistent sales cause missed tax deadlines. We automate payroll tax compliance instead of manual calculations and filing with no reminders.",
+    "current_alternative": "Manual calculations and filing with no reminders.",
+    "must_have_features": [
+      "Calculate payroll tax withholdings",
+      "File payroll tax returns",
+      "Notify payroll administrator of due dates"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, inconsistent sales cause missed tax deadlines. We automate payroll tax compliance instead of manual calculations and filing with no reminders.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-05",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

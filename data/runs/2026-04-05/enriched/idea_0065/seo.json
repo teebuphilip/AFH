@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "property managers overseeing buildings inefficient tool",
+    "property managers overseeing buildings inefficient automation",
+    "property managers overseeing 5 15 buildings inefficient tool",
+    "property managers overseeing 5 15 buildings inefficient automation",
+    "property managers overseeing 5 15 buildings inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "property managers overseeing 5 15 buildings inefficient tool software",
+    "property managers overseeing 5 15 buildings inefficient tool platform",
+    "property managers overseeing 5 15 buildings inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For property managers overseeing 5\u201315 buildings, inefficient tracking of work orders causes delayed maintenance responses. We provide streamlined tracking instead of manual tracking via spreadsheets.",
+    "Inefficient tracking of work orders and preventive maintenance across multiple properties.",
+    "property managers overseeing 5\u201315 buildings"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Property Managers Overseeing 5 15 Buildings Inefficient Tool Software",
+      "target_keyword": "property managers overseeing 5 15 buildings inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Overseeing 5 15 Buildings Inefficient Tool Platform",
+      "target_keyword": "property managers overseeing 5 15 buildings inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Overseeing 5 15 Buildings Inefficient Tool Solution",
+      "target_keyword": "property managers overseeing 5 15 buildings inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Overseeing 5 15 Buildings Inefficient Tool",
+      "target_keyword": "property managers overseeing 5 15 buildings inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Overseeing 5 15 Buildings Inefficient Automation",
+      "target_keyword": "property managers overseeing 5 15 buildings inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Overseeing 5 15 Buildings Inefficient Workflow",
+      "target_keyword": "property managers overseeing 5 15 buildings inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "property managers overseeing buildings inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "property managers overseeing buildings inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "property managers overseeing buildings inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "property managers overseeing buildings inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "property managers overseeing buildings inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | property managers overseeing buildings tool",
+      "property managers overseeing buildings tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "property managers overseeing buildings tool helps with inefficient tracking of work orders and preventive maintenance across multiple properties."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized companies processing 10-50 contracts/month tool",
+  "description": "For procurement teams in mid-sized companies processing 10-50 contracts/month, poor compliance tracking causes supplier penalties. We provide automated compliance monitoring instead of manual tracking and reporting.",
+  "target_audience": "procurement teams in mid-sized companies processing 10-50 contracts/month",
+  "problem_solved": "Inability to track contract compliance effectively",
+  "features": [
+    "weekly compliance report generation",
+    "manual input for contract details",
+    "alert system for compliance breaches"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized companies processing 10-50 contracts/month",
+    "primary_problem": "Inability to track contract compliance effectively",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For procurement teams in mid-sized companies processing 10-50 contracts/month, poor compliance tracking causes supplier penalties. We provide automated compliance monitoring instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting",
+    "must_have_features": [
+      "weekly compliance report generation",
+      "manual input for contract details",
+      "alert system for compliance breaches"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized companies processing 10-50 contracts/month, poor compliance tracking causes supplier penalties. We provide automated compliance monitoring instead of manual tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-05",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

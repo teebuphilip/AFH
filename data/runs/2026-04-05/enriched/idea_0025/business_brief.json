@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, exceeding vendor credit limits causes cash flow gaps. We provide automated alerts instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Exceeding vendor credit limits leading to cash flow gaps.",
+  "features": [
+    "Threshold alert notifications",
+    "Vendor credit limit tracking",
+    "Dashboard for monitoring credit usage"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Exceeding vendor credit limits leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, exceeding vendor credit limits causes cash flow gaps. We provide automated alerts instead of manual tracking.",
+    "current_alternative": "Manual tracking of vendor credit limits.",
+    "must_have_features": [
+      "Threshold alert notifications",
+      "Vendor credit limit tracking",
+      "Dashboard for monitoring credit usage"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, exceeding vendor credit limits causes cash flow gaps. We provide automated alerts instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-05",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

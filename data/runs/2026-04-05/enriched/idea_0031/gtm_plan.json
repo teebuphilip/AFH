@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Fleet managers in logistics companies managing 10-50 vehicles",
+  "offer": "For fleet managers in logistics companies processing 10-50 vehicles, inconsistent maintenance schedules cause unexpected breakdowns. We provide alerts instead of manual tracking through spreadsheets or paper logs.",
+  "problem": "Inconsistent vehicle maintenance schedules leading to unexpected breakdowns",
+  "channels_free": [
+    "Post in Reddit communities for fleet managers",
+    "Indie Hackers discussions on similar challenges",
+    "DM outreach to fleet managers with demo video",
+    "Engage in community forums for fleet management tools"
+  ],
+  "try_it": "Let users try maintenance tracking on 1-3 vehicles",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing maintenance data",
+    "One-click report generation",
+    "Streamline onboarding process"
+  ]
+}

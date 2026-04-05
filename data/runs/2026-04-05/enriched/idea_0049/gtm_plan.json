@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "fleet safety managers in logistics carriers managing 10-20 vehicles",
+  "offer": "For fleet safety managers in logistics carriers processing 10-20 vehicles/month, manual tracking causes compliance penalties. We automate compliance reporting instead of manual tracking and reporting of vehicle inspections.",
+  "problem": "Ensuring timely compliance with vehicle inspection regulations.",
+  "channels_free": [
+    "Post in Reddit communities for fleet safety managers",
+    "Indie Hackers discussions on compliance tools",
+    "DM outreach to fleet safety managers with demo video",
+    "Engage in community forums for fleet safety managers"
+  ],
+  "try_it": "Let users try manual report generation and templates on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video showing manual workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Reduce steps in onboarding process"
+  ]
+}

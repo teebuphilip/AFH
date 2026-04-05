@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 rental units/month tool",
+  "description": "For property managers handling 10-20 rental units/month, inconsistent reporting causes cash flow gaps. We automate rent roll reporting instead of manual spreadsheet calculations.",
+  "target_audience": "property managers handling 10-20 rental units/month",
+  "problem_solved": "Inconsistent and delayed rent roll reports lead to cash flow gaps.",
+  "features": [
+    "customizable report templates",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 rental units/month",
+    "primary_problem": "Inconsistent and delayed rent roll reports lead to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 rental units/month, inconsistent reporting causes cash flow gaps. We automate rent roll reporting instead of manual spreadsheet calculations.",
+    "current_alternative": "manual spreadsheet calculations",
+    "must_have_features": [
+      "customizable report templates",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 rental units/month, inconsistent reporting causes cash flow gaps. We automate rent roll reporting instead of manual spreadsheet calculations.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-05",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

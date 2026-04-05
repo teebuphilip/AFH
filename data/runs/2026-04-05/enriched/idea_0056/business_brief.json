@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "CFOs of accounting firms processing 10-20 invoices/month tool",
+  "description": "For CFOs of accounting firms processing 10-20 invoices/month, inconsistent financial reporting causes delayed decision-making. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "CFOs of accounting firms processing 10-20 invoices/month",
+  "problem_solved": "Inconsistent financial reporting leads to delayed decision-making.",
+  "features": [
+    "Customizable report templates",
+    "Scheduled report delivery",
+    "Data aggregation from multiple sources"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "CFOs of accounting firms processing 10-20 invoices/month",
+    "primary_problem": "Inconsistent financial reporting leads to delayed decision-making.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For CFOs of accounting firms processing 10-20 invoices/month, inconsistent financial reporting causes delayed decision-making. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "Manual report generation using spreadsheets",
+    "must_have_features": [
+      "Customizable report templates",
+      "Scheduled report delivery",
+      "Data aggregation from multiple sources"
+    ]
+  },
+  "one_liner": "For CFOs of accounting firms processing 10-20 invoices/month, inconsistent financial reporting causes delayed decision-making. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-05",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

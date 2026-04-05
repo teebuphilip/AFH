@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 20\u201350 invoices/month tool",
+  "description": "For medical clinics processing 20\u201350 invoices/month, delayed follow-ups cause cash flow gaps. We automate billing follow-ups instead of manual follow-up processes.",
+  "target_audience": "medical clinics processing 20\u201350 invoices/month",
+  "problem_solved": "timely follow-ups on patient billing",
+  "features": [
+    "customizable overdue notice templates",
+    "manual override for urgent cases",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 20\u201350 invoices/month",
+    "primary_problem": "timely follow-ups on patient billing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 20\u201350 invoices/month, delayed follow-ups cause cash flow gaps. We automate billing follow-ups instead of manual follow-up processes.",
+    "current_alternative": "manual follow-up processes",
+    "must_have_features": [
+      "customizable overdue notice templates",
+      "manual override for urgent cases",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 20\u201350 invoices/month, delayed follow-ups cause cash flow gaps. We automate billing follow-ups instead of manual follow-up processes.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-05",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

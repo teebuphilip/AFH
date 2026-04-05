@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "fleet safety managers in logistics carriers managing - vehicles ensuring tool",
+    "fleet safety managers in logistics carriers managing - vehicles ensuring automation",
+    "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring tool",
+    "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring automation",
+    "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring workflow"
+  ],
+  "secondary_keywords": [
+    "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring tool software",
+    "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring tool platform",
+    "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For fleet safety managers in logistics carriers processing 10-20 vehicles/month, manual tracking causes compliance penalties. We automate compliance reporting instead of manual tracking and reporting of vehicle inspections.",
+    "Ensuring timely compliance with vehicle inspection regulations.",
+    "fleet safety managers in logistics carriers managing 10-20 vehicles"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Fleet Safety Managers In Logistics Carriers Managing 10-20 Vehicles Ensuring Tool Software",
+      "target_keyword": "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Safety Managers In Logistics Carriers Managing 10-20 Vehicles Ensuring Tool Platform",
+      "target_keyword": "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Safety Managers In Logistics Carriers Managing 10-20 Vehicles Ensuring Tool Solution",
+      "target_keyword": "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Safety Managers In Logistics Carriers Managing 10-20 Vehicles Ensuring Tool",
+      "target_keyword": "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Safety Managers In Logistics Carriers Managing 10-20 Vehicles Ensuring Automation",
+      "target_keyword": "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Safety Managers In Logistics Carriers Managing 10-20 Vehicles Ensuring Workflow",
+      "target_keyword": "fleet safety managers in logistics carriers managing 10-20 vehicles ensuring workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "fleet safety managers in logistics carriers managing - vehicles ensuring tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "fleet safety managers in logistics carriers managing - vehicles ensuring tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "fleet safety managers in logistics carriers managing - vehicles ensuring tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "fleet safety managers in logistics carriers managing - vehicles ensuring tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "fleet safety managers in logistics carriers managing - vehicles ensuring tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | fleet safety managers in logistics carriers managing - vehicles tool",
+      "fleet safety managers in logistics carriers managing - vehicles tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "fleet safety managers in logistics carriers managing - vehicles tool helps with ensuring timely compliance with vehicle inspection regulations."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

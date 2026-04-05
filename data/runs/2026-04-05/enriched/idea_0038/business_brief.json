@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant accountants processing 10\u201320 tip reports/month tool",
+  "description": "For restaurant accountants processing 10\u201320 tip reports/month, inefficient manual compilation causes compliance issues. We automate tip reporting instead of manual compilation using spreadsheets.",
+  "target_audience": "restaurant accountants processing 10\u201320 tip reports/month",
+  "problem_solved": "Inefficient manual compilation of tip reports leading to errors and compliance issues.",
+  "features": [
+    "manual entry for tip data",
+    "summary generation for reports",
+    "export functionality to common formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant accountants processing 10\u201320 tip reports/month",
+    "primary_problem": "Inefficient manual compilation of tip reports leading to errors and compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant accountants processing 10\u201320 tip reports/month, inefficient manual compilation causes compliance issues. We automate tip reporting instead of manual compilation using spreadsheets.",
+    "current_alternative": "manual compilation of tip reports using spreadsheets",
+    "must_have_features": [
+      "manual entry for tip data",
+      "summary generation for reports",
+      "export functionality to common formats"
+    ]
+  },
+  "one_liner": "For restaurant accountants processing 10\u201320 tip reports/month, inefficient manual compilation causes compliance issues. We automate tip reporting instead of manual compilation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-05",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

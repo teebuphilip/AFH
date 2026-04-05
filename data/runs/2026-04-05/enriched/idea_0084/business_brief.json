@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "real estate agents managing 5\u201315 property listings/month tool",
+  "description": "For real estate agents processing 5\u201315 property listings/month, inefficient management causes missed opportunities. We streamline property listing management instead of manual tracking through spreadsheets and emails.",
+  "target_audience": "real estate agents managing 5\u201315 property listings/month",
+  "problem_solved": "Inefficient management of property listings leads to missed opportunities and late updates.",
+  "features": [
+    "simple property listing input form",
+    "basic reporting on listing performance",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "real estate agents managing 5\u201315 property listings/month",
+    "primary_problem": "Inefficient management of property listings leads to missed opportunities and late updates.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For real estate agents processing 5\u201315 property listings/month, inefficient management causes missed opportunities. We streamline property listing management instead of manual tracking through spreadsheets and emails.",
+    "current_alternative": "manual tracking through spreadsheets and emails",
+    "must_have_features": [
+      "simple property listing input form",
+      "basic reporting on listing performance",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For real estate agents processing 5\u201315 property listings/month, inefficient management causes missed opportunities. We streamline property listing management instead of manual tracking through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0084",
+    "run_date": "2026-04-05",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}
