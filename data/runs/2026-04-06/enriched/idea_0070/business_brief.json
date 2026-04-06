@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month tool",
+  "description": "For procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month, manual tracking causes missed renewals and supplier penalties. We automate contract management instead of manual tracking via spreadsheets.",
+  "target_audience": "procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month",
+  "problem_solved": "Difficulty in tracking contract renewals and vendor performance metrics.",
+  "features": [
+    "Contract renewal reminders",
+    "Performance metric tracking",
+    "Vendor contact management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month",
+    "primary_problem": "Difficulty in tracking contract renewals and vendor performance metrics.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month, manual tracking causes missed renewals and supplier penalties. We automate contract management instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "Contract renewal reminders",
+      "Performance metric tracking",
+      "Vendor contact management"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month, manual tracking causes missed renewals and supplier penalties. We automate contract management instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-06",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

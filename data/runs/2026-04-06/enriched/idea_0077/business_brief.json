@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 projects/month tool",
+  "description": "For construction contractors processing 5\u201315 projects/month, missed regulatory submissions cause project delays. We automate submissions instead of manual submission processes and tracking.",
+  "target_audience": "construction contractors processing 5\u201315 projects/month",
+  "problem_solved": "Timely regulatory submissions are often missed, leading to project delays.",
+  "features": [
+    "submission scheduling",
+    "status tracking for submissions",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 projects/month",
+    "primary_problem": "Timely regulatory submissions are often missed, leading to project delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 projects/month, missed regulatory submissions cause project delays. We automate submissions instead of manual submission processes and tracking.",
+    "current_alternative": "manual submission processes and tracking",
+    "must_have_features": [
+      "submission scheduling",
+      "status tracking for submissions",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 projects/month, missed regulatory submissions cause project delays. We automate submissions instead of manual submission processes and tracking.",
+  "source": {
+    "idea_id": "idea_0077",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized construction firms processing 10-20 vendor insurance certificates/month tool",
+  "description": "For procurement teams in mid-sized construction firms processing 10-20 vendor insurance certificates/month, manual tracking causes missed compliance deadlines. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "procurement teams in mid-sized construction firms processing 10-20 vendor insurance certificates/month",
+  "problem_solved": "Managing vendor insurance certificate expirations",
+  "features": [
+    "monthly expiration alerts",
+    "dashboard for tracking certificates",
+    "manual entry for new vendors"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized construction firms processing 10-20 vendor insurance certificates/month",
+    "primary_problem": "Managing vendor insurance certificate expirations",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For procurement teams in mid-sized construction firms processing 10-20 vendor insurance certificates/month, manual tracking causes missed compliance deadlines. We provide automated alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "monthly expiration alerts",
+      "dashboard for tracking certificates",
+      "manual entry for new vendors"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized construction firms processing 10-20 vendor insurance certificates/month, manual tracking causes missed compliance deadlines. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-06",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

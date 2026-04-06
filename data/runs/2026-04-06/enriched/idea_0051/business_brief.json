@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual expense reporting causes compliance issues. We automate report generation instead of using manual spreadsheets and templates.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "manual expense reporting leads to compliance issues",
+  "features": [
+    "template-based report generation",
+    "data import from CSV files",
+    "basic compliance checks"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "manual expense reporting leads to compliance issues",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual expense reporting causes compliance issues. We automate report generation instead of using manual spreadsheets and templates.",
+    "current_alternative": "manual spreadsheets and templates",
+    "must_have_features": [
+      "template-based report generation",
+      "data import from CSV files",
+      "basic compliance checks"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual expense reporting causes compliance issues. We automate report generation instead of using manual spreadsheets and templates.",
+  "source": {
+    "idea_id": "idea_0051",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

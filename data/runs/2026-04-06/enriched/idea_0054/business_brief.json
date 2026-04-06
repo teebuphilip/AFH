@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201350 orders/month tool",
+  "description": "For Shopify sellers processing 10\u201350 orders/month, fragmented customer data causes missed sales opportunities. We provide a unified view instead of manual data aggregation from multiple sources.",
+  "target_audience": "Shopify sellers processing 10\u201350 orders/month",
+  "problem_solved": "Fragmented customer data leading to inefficient sales operations.",
+  "features": [
+    "Data aggregation from multiple sources",
+    "Custom reporting capabilities",
+    "User-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201350 orders/month",
+    "primary_problem": "Fragmented customer data leading to inefficient sales operations.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201350 orders/month, fragmented customer data causes missed sales opportunities. We provide a unified view instead of manual data aggregation from multiple sources.",
+    "current_alternative": "Manual data aggregation from multiple sources",
+    "must_have_features": [
+      "Data aggregation from multiple sources",
+      "Custom reporting capabilities",
+      "User-friendly dashboard"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201350 orders/month, fragmented customer data causes missed sales opportunities. We provide a unified view instead of manual data aggregation from multiple sources.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 66
+  }
+}

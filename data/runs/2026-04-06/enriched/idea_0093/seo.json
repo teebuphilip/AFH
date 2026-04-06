@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "construction contractors managing maintenance visits month inefficient tool",
+    "construction contractors managing maintenance visits month inefficient automation",
+    "based work orders",
+    "construction contractors managing 5 15 maintenance visits month inefficient tool",
+    "construction contractors managing 5 15 maintenance visits month inefficient automation",
+    "construction contractors managing 5 15 maintenance visits month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "based work orders software",
+    "based work orders platform",
+    "based work orders solution"
+  ],
+  "long_tail_keywords": [
+    "how to based work orders",
+    "best based work orders tool",
+    "based work orders vs spreadsheets",
+    "based work orders checklist",
+    "based work orders pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For construction contractors processing 5\u201315 maintenance visits/month, inefficient scheduling causes late orders. We automate scheduling instead of manual scheduling and paper-based work orders.",
+    "inefficient scheduling and work order generation",
+    "construction contractors managing 5\u201315 maintenance visits/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Based Work Orders",
+      "target_keyword": "how to based work orders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Based Work Orders Tool",
+      "target_keyword": "best based work orders tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Based Work Orders Vs Spreadsheets",
+      "target_keyword": "based work orders vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Based Work Orders Checklist",
+      "target_keyword": "based work orders checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Based Work Orders Pricing",
+      "target_keyword": "based work orders pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Based Work Orders Software",
+      "target_keyword": "based work orders software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Based Work Orders Platform",
+      "target_keyword": "based work orders platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Based Work Orders Solution",
+      "target_keyword": "based work orders solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Based Work Orders",
+      "target_keyword": "based work orders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Construction Contractors Managing 5 15 Maintenance Visits Month Inefficient Tool",
+      "target_keyword": "construction contractors managing 5 15 maintenance visits month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5 15 Maintenance Visits Month Inefficient Automation",
+      "target_keyword": "construction contractors managing 5 15 maintenance visits month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5 15 Maintenance Visits Month Inefficient Workflow",
+      "target_keyword": "construction contractors managing 5 15 maintenance visits month inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "construction contractors managing maintenance visits month inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "construction contractors managing maintenance visits month inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "construction contractors managing maintenance visits month inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "construction contractors managing maintenance visits month inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "construction contractors managing maintenance visits month inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | construction contractors managing maintenance visits month tool",
+      "construction contractors managing maintenance visits month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "construction contractors managing maintenance visits month tool helps with inefficient scheduling and work order generation."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

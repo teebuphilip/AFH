@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers overseeing 5\u201315 commercial buildings",
+  "offer": "For property managers overseeing 5\u201315 commercial buildings, high energy costs cause budget overruns. We provide actionable insights and cost-saving recommendations instead of manual energy audits and utility bills analysis.",
+  "problem": "High energy costs and inefficient usage across multiple properties.",
+  "channels_free": [
+    "Post in Reddit communities for property management help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to property managers with demo video",
+    "Community forums for sharing property management tools"
+  ],
+  "try_it": "Let users try energy tracking on 1-3 properties",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

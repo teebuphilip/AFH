@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators processing 10-20 delivery logs/month tool",
+  "description": "For logistics coordinators processing 10-20 delivery logs/month, inefficient reimbursement claims cause cash flow gaps. We automate mileage claims instead of manual calculation and submission of mileage claims.",
+  "target_audience": "logistics coordinators processing 10-20 delivery logs/month",
+  "problem_solved": "Inefficient reimbursement claims for fleet mileage",
+  "features": [
+    "manual entry of delivery logs",
+    "exportable claim reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators processing 10-20 delivery logs/month",
+    "primary_problem": "Inefficient reimbursement claims for fleet mileage",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators processing 10-20 delivery logs/month, inefficient reimbursement claims cause cash flow gaps. We automate mileage claims instead of manual calculation and submission of mileage claims.",
+    "current_alternative": "manual calculation and submission of mileage claims",
+    "must_have_features": [
+      "manual entry of delivery logs",
+      "exportable claim reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics coordinators processing 10-20 delivery logs/month, inefficient reimbursement claims cause cash flow gaps. We automate mileage claims instead of manual calculation and submission of mileage claims.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

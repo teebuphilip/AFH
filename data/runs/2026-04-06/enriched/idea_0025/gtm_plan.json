@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 rental units",
+  "offer": "For property managers processing 5\u201315 rental units, late payments cause cash flow gaps. We automate rent collection tracking and delinquency reporting instead of manual tracking via spreadsheets.",
+  "problem": "Difficulty in tracking rent payments and managing delinquency reports.",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to property managers with demo video",
+    "Community forums for property managers sharing tools"
+  ],
+  "try_it": "Let users try monthly delinquency report and email notifications",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

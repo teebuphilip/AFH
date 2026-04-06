@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small marketing agencies processing 5\u201315 vendor contracts/month tool",
+  "description": "For procurement managers in small marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewals cause supplier penalties. We send monthly renewal reminders instead of manual tracking of contract dates in spreadsheets.",
+  "target_audience": "procurement managers in small marketing agencies processing 5\u201315 vendor contracts/month",
+  "problem_solved": "missed contract renewals due to lack of reminders",
+  "features": [
+    "manual entry of contract expiration dates",
+    "monthly reminder notifications",
+    "dashboard for tracking upcoming renewals"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small marketing agencies processing 5\u201315 vendor contracts/month",
+    "primary_problem": "missed contract renewals due to lack of reminders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewals cause supplier penalties. We send monthly renewal reminders instead of manual tracking of contract dates in spreadsheets.",
+    "current_alternative": "manual tracking of contract dates in spreadsheets",
+    "must_have_features": [
+      "manual entry of contract expiration dates",
+      "monthly reminder notifications",
+      "dashboard for tracking upcoming renewals"
+    ]
+  },
+  "one_liner": "For procurement managers in small marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewals cause supplier penalties. We send monthly renewal reminders instead of manual tracking of contract dates in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-06",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

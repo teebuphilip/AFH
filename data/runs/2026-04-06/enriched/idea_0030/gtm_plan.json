@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics coordinators processing 10-20 delivery logs/month",
+  "offer": "For logistics coordinators processing 10-20 delivery logs/month, inefficient reimbursement claims cause cash flow gaps. We automate mileage claims instead of manual calculation and submission of mileage claims.",
+  "problem": "Inefficient reimbursement claims for fleet mileage",
+  "channels_free": [
+    "Post in Reddit communities for logistics coordinators",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to logistics coordinators with demo video",
+    "Community forums where logistics coordinators share tools"
+  ],
+  "try_it": "Let users try manual entry of delivery logs and reports",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

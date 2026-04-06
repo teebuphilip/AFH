@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "sales operations managers in marketing agencies inability tool",
+    "sales operations managers in marketing agencies inability automation",
+    "sales operations managers in marketing agencies processing 10 20 sales quotas week inability tool",
+    "sales operations managers in marketing agencies processing 10 20 sales quotas week inability automation",
+    "sales operations managers in marketing agencies processing 10 20 sales quotas week inability workflow"
+  ],
+  "secondary_keywords": [
+    "sales operations managers in marketing agencies processing 10 20 sales quotas week inability tool software",
+    "sales operations managers in marketing agencies processing 10 20 sales quotas week inability tool platform",
+    "sales operations managers in marketing agencies processing 10 20 sales quotas week inability tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For sales operations managers in marketing agencies processing 10\u201320 sales quotas/week, manual tracking causes missed performance alerts. We provide automated weekly performance alerts instead of manual tracking through spreadsheets.",
+    "Inability to track sales quota attainment in real-time",
+    "sales operations managers in marketing agencies processing 10\u201320 sales quotas/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Quotas Week Inability Tool Software",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales quotas week inability tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Quotas Week Inability Tool Platform",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales quotas week inability tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Quotas Week Inability Tool Solution",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales quotas week inability tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Quotas Week Inability Tool",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales quotas week inability tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Quotas Week Inability Automation",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales quotas week inability automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Quotas Week Inability Workflow",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales quotas week inability workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "sales operations managers in marketing agencies inability tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "sales operations managers in marketing agencies inability tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "sales operations managers in marketing agencies inability tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "sales operations managers in marketing agencies inability tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "sales operations managers in marketing agencies inability tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | sales operations managers in marketing agencies tool",
+      "sales operations managers in marketing agencies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "sales operations managers in marketing agencies tool helps with inability to track sales quota attainment in real-time."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

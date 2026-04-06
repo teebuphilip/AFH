@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "procurement teams in mid-sized accounting firms difficulty tool",
+    "procurement teams in mid-sized accounting firms difficulty automation",
+    "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty tool",
+    "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty automation",
+    "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty workflow"
+  ],
+  "secondary_keywords": [
+    "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty tool software",
+    "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty tool platform",
+    "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month, manual tracking causes missed renewals and supplier penalties. We automate contract management instead of manual tracking via spreadsheets.",
+    "Difficulty in tracking contract renewals and vendor performance metrics.",
+    "procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Accounting Firms Processing 10 20 Vendor Contracts Month Difficulty Tool Software",
+      "target_keyword": "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Accounting Firms Processing 10 20 Vendor Contracts Month Difficulty Tool Platform",
+      "target_keyword": "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Accounting Firms Processing 10 20 Vendor Contracts Month Difficulty Tool Solution",
+      "target_keyword": "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Accounting Firms Processing 10 20 Vendor Contracts Month Difficulty Tool",
+      "target_keyword": "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Accounting Firms Processing 10 20 Vendor Contracts Month Difficulty Automation",
+      "target_keyword": "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Accounting Firms Processing 10 20 Vendor Contracts Month Difficulty Workflow",
+      "target_keyword": "procurement teams in mid-sized accounting firms processing 10 20 vendor contracts month difficulty workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "procurement teams in mid-sized accounting firms difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "procurement teams in mid-sized accounting firms difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "procurement teams in mid-sized accounting firms difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "procurement teams in mid-sized accounting firms difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "procurement teams in mid-sized accounting firms difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | procurement teams in mid-sized accounting firms tool",
+      "procurement teams in mid-sized accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "procurement teams in mid-sized accounting firms tool helps with difficulty in tracking contract renewals and vendor performance metrics."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality managers in small hotels managing 5\u201315 rooms tool",
+  "description": "For hospitality managers in small hotels managing 5\u201315 rooms, inefficient inventory and payroll management causes operational delays. We streamline these processes instead of manual spreadsheets and disparate systems.",
+  "target_audience": "hospitality managers in small hotels managing 5\u201315 rooms",
+  "problem_solved": "inefficient management of inventory and payroll leading to operational delays",
+  "features": [
+    "simple inventory tracking",
+    "basic payroll management",
+    "scheduling tool for staff"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality managers in small hotels managing 5\u201315 rooms",
+    "primary_problem": "inefficient management of inventory and payroll leading to operational delays",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality managers in small hotels managing 5\u201315 rooms, inefficient inventory and payroll management causes operational delays. We streamline these processes instead of manual spreadsheets and disparate systems.",
+    "current_alternative": "manual spreadsheets and disparate systems",
+    "must_have_features": [
+      "simple inventory tracking",
+      "basic payroll management",
+      "scheduling tool for staff"
+    ]
+  },
+  "one_liner": "For hospitality managers in small hotels managing 5\u201315 rooms, inefficient inventory and payroll management causes operational delays. We streamline these processes instead of manual spreadsheets and disparate systems.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

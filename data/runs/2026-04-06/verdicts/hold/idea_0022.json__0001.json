@@ -1,0 +1,16 @@
+{
+  "idea_text": "Service that tracks freight invoices and sends weekly payment status summaries to logistics managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-06T10:32:15.213458",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

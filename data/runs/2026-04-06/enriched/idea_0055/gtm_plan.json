@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 10\u201320 invoices/month",
+  "offer": "For Etsy sellers processing 10\u201320 invoices/month, manual invoice processing causes cash flow gaps. We automate invoice collection and categorization instead of manual invoice processing and payment scheduling.",
+  "problem": "Matching invoices to purchase orders",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Share insights on Indie Hackers",
+    "DM outreach to Etsy sellers with demo video",
+    "Engage in community forums for Etsy sellers"
+  ],
+  "try_it": "Let users try invoice categorization on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

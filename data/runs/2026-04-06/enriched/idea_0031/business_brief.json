@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant inventory managers processing 10\u201320 invoices/month tool",
+  "description": "For restaurant inventory managers processing 10\u201320 invoices/month, food cost variances cause budget overruns. We monitor food cost variances and flag anomalies instead of manual tracking and spreadsheets.",
+  "target_audience": "restaurant inventory managers processing 10\u201320 invoices/month",
+  "problem_solved": "Food cost variances leading to budget overruns.",
+  "features": [
+    "Anomaly detection alerts",
+    "Variance reporting",
+    "User-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant inventory managers processing 10\u201320 invoices/month",
+    "primary_problem": "Food cost variances leading to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant inventory managers processing 10\u201320 invoices/month, food cost variances cause budget overruns. We monitor food cost variances and flag anomalies instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "Anomaly detection alerts",
+      "Variance reporting",
+      "User-friendly dashboard"
+    ]
+  },
+  "one_liner": "For restaurant inventory managers processing 10\u201320 invoices/month, food cost variances cause budget overruns. We monitor food cost variances and flag anomalies instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

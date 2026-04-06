@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "fleet maintenance supervisors managing 5\u201315 vehicles",
+  "offer": "For fleet maintenance supervisors managing 5\u201315 vehicles, inconsistent scheduling causes unexpected vehicle downtime. We provide a scheduling tool instead of manual tracking via spreadsheets or paper logs.",
+  "problem": "Inconsistent scheduling of preventative maintenance tasks leads to unexpected vehicle downtime.",
+  "channels_free": [
+    "Post in Reddit communities for fleet maintenance supervisors",
+    "Indie Hackers discussions on scheduling tools",
+    "DM outreach to fleet maintenance supervisors with demo video",
+    "Community forums for fleet maintenance supervisors sharing solutions"
+  ],
+  "try_it": "Let users test scheduling tool on 1-3 vehicles",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with clear CTA",
+    "Produce a demo video of the scheduling tool",
+    "Conduct 10 interviews with target users",
+    "Offer early access to first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing maintenance data",
+    "Enable one-click report exports",
+    "Simplify onboarding process for new users"
+  ]
+}

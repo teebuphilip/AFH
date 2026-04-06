@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small law firms processing 5\u201315 regulatory filings/month",
+  "offer": "For small law firms processing 5\u201315 regulatory filings/month, missed deadlines cause penalties. We provide compliance software instead of manual tracking and filing processes.",
+  "problem": "Difficulty in managing compliance deadlines and preparing regulatory filings accurately.",
+  "channels_free": [
+    "Post in Reddit communities for small law firms",
+    "Engage in Indie Hackers discussions about compliance tools",
+    "DM outreach to small law firms with demo video",
+    "Share insights in community forums for law firms"
+  ],
+  "try_it": "Let users try Deadline tracking and Regulatory filing templates on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the software",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

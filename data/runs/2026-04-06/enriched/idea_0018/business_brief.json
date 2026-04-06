@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics ops teams in e-commerce businesses processing 50\u2013100 orders/week tool",
+  "description": "For logistics ops teams in e-commerce businesses processing 50\u2013100 orders/week, ineffective inventory monitoring causes stockouts. We provide automated alerts for replenishment instead of manual tracking of inventory levels.",
+  "target_audience": "logistics ops teams in e-commerce businesses processing 50\u2013100 orders/week",
+  "problem_solved": "Inability to monitor inventory levels effectively leads to stockouts.",
+  "features": [
+    "Weekly inventory level alerts",
+    "Manual input for reorder points",
+    "Basic reporting on inventory status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics ops teams in e-commerce businesses processing 50\u2013100 orders/week",
+    "primary_problem": "Inability to monitor inventory levels effectively leads to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics ops teams in e-commerce businesses processing 50\u2013100 orders/week, ineffective inventory monitoring causes stockouts. We provide automated alerts for replenishment instead of manual tracking of inventory levels.",
+    "current_alternative": "manual tracking of inventory levels",
+    "must_have_features": [
+      "Weekly inventory level alerts",
+      "Manual input for reorder points",
+      "Basic reporting on inventory status"
+    ]
+  },
+  "one_liner": "For logistics ops teams in e-commerce businesses processing 50\u2013100 orders/week, ineffective inventory monitoring causes stockouts. We provide automated alerts for replenishment instead of manual tracking of inventory levels.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

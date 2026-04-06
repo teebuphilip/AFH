@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Shopify store owners processing 10\u201350 invoices/month",
+  "offer": "For Shopify store owners processing 10\u201350 invoices/month, failed subscription payments cause cash flow gaps. We monitor recurring payments instead of manual tracking of subscription payments.",
+  "problem": "Failed subscription payments leading to cash flow gaps.",
+  "channels_free": [
+    "Post in Reddit communities for Shopify store owners",
+    "Engage in Indie Hackers discussions on similar issues",
+    "DM outreach to Shopify store owners with demo video",
+    "Participate in community forums for Shopify tools"
+  ],
+  "try_it": "Let users try Email alerts and Dashboard for payment status",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

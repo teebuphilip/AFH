@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 invoices/month tool",
+  "description": "For law firms processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+  "target_audience": "law firms processing 5\u201315 invoices/month",
+  "problem_solved": "manual invoice reconciliation is time-consuming and error-prone.",
+  "features": [
+    "user-friendly interface for invoice entry",
+    "detailed reporting of reconciliation status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 invoices/month",
+    "primary_problem": "manual invoice reconciliation is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "user-friendly interface for invoice entry",
+      "detailed reporting of reconciliation status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-06",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

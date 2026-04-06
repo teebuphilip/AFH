@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 maintenance visits/month tool",
+  "description": "For construction contractors processing 5\u201315 maintenance visits/month, inefficient scheduling causes late orders. We automate scheduling instead of manual scheduling and paper-based work orders.",
+  "target_audience": "construction contractors managing 5\u201315 maintenance visits/month",
+  "problem_solved": "inefficient scheduling and work order generation",
+  "features": [
+    "manual work order creation",
+    "calendar-based scheduling",
+    "basic reporting on completed visits"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 maintenance visits/month",
+    "primary_problem": "inefficient scheduling and work order generation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 maintenance visits/month, inefficient scheduling causes late orders. We automate scheduling instead of manual scheduling and paper-based work orders.",
+    "current_alternative": "manual scheduling and paper-based work orders",
+    "must_have_features": [
+      "manual work order creation",
+      "calendar-based scheduling",
+      "basic reporting on completed visits"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 maintenance visits/month, inefficient scheduling causes late orders. We automate scheduling instead of manual scheduling and paper-based work orders.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-06",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "shopify sellers fragmented tool",
+    "shopify sellers fragmented automation",
+    "shopify sellers processing 10 50 orders month fragmented tool",
+    "shopify sellers processing 10 50 orders month fragmented automation",
+    "shopify sellers processing 10 50 orders month fragmented workflow"
+  ],
+  "secondary_keywords": [
+    "shopify sellers processing 10 50 orders month fragmented tool software",
+    "shopify sellers processing 10 50 orders month fragmented tool platform",
+    "shopify sellers processing 10 50 orders month fragmented tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Shopify sellers processing 10\u201350 orders/month, fragmented customer data causes missed sales opportunities. We provide a unified view instead of manual data aggregation from multiple sources.",
+    "Fragmented customer data leading to inefficient sales operations.",
+    "Shopify sellers processing 10\u201350 orders/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Shopify Sellers Processing 10 50 Orders Month Fragmented Tool Software",
+      "target_keyword": "shopify sellers processing 10 50 orders month fragmented tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Sellers Processing 10 50 Orders Month Fragmented Tool Platform",
+      "target_keyword": "shopify sellers processing 10 50 orders month fragmented tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Sellers Processing 10 50 Orders Month Fragmented Tool Solution",
+      "target_keyword": "shopify sellers processing 10 50 orders month fragmented tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Sellers Processing 10 50 Orders Month Fragmented Tool",
+      "target_keyword": "shopify sellers processing 10 50 orders month fragmented tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Sellers Processing 10 50 Orders Month Fragmented Automation",
+      "target_keyword": "shopify sellers processing 10 50 orders month fragmented automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Sellers Processing 10 50 Orders Month Fragmented Workflow",
+      "target_keyword": "shopify sellers processing 10 50 orders month fragmented workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "shopify sellers fragmented tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "shopify sellers fragmented tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "shopify sellers fragmented tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "shopify sellers fragmented tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "shopify sellers fragmented tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | shopify sellers tool",
+      "shopify sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "shopify sellers tool helps with fragmented customer data leading to inefficient sales operations."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

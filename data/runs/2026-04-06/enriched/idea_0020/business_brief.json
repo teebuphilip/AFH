@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 intercompany transactions/month tool",
+  "description": "For accounting firms processing 10\u201320 intercompany transactions/month, manual reconciliation causes delayed financial reports. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 intercompany transactions/month",
+  "problem_solved": "Inaccurate financial reporting due to untracked intercompany transactions.",
+  "features": [
+    "manual entry for transaction details",
+    "monthly exception report generation",
+    "user-friendly dashboard for tracking transactions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 intercompany transactions/month",
+    "primary_problem": "Inaccurate financial reporting due to untracked intercompany transactions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 intercompany transactions/month, manual reconciliation causes delayed financial reports. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets.",
+    "must_have_features": [
+      "manual entry for transaction details",
+      "monthly exception report generation",
+      "user-friendly dashboard for tracking transactions"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 intercompany transactions/month, manual reconciliation causes delayed financial reports. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-06",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

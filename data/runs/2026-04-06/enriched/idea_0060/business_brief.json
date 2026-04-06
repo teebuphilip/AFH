@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, tax compliance issues cause late filings. We automate tax preparation instead of manual tax preparation.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in managing tax compliance and filing accurately.",
+  "features": [
+    "Data compilation from sales",
+    "Tax return generation",
+    "Compliance tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in managing tax compliance and filing accurately.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, tax compliance issues cause late filings. We automate tax preparation instead of manual tax preparation.",
+    "current_alternative": "Manual tax preparation or using generic accounting software.",
+    "must_have_features": [
+      "Data compilation from sales",
+      "Tax return generation",
+      "Compliance tracking"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, tax compliance issues cause late filings. We automate tax preparation instead of manual tax preparation.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 10\u201350 clients using QuickBooks tool",
+  "description": "For bookkeepers managing 10\u201350 clients using QuickBooks, manual reconciliation causes late financial reporting. We automate transaction matching instead of manual reconciliation processes.",
+  "target_audience": "bookkeepers managing 10\u201350 clients using QuickBooks",
+  "problem_solved": "Discrepancies between bank transactions and accounting records",
+  "features": [
+    "manual transaction entry",
+    "discrepancy flagging",
+    "monthly reconciliation reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 10\u201350 clients using QuickBooks",
+    "primary_problem": "Discrepancies between bank transactions and accounting records",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 10\u201350 clients using QuickBooks, manual reconciliation causes late financial reporting. We automate transaction matching instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual transaction entry",
+      "discrepancy flagging",
+      "monthly reconciliation reports"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 10\u201350 clients using QuickBooks, manual reconciliation causes late financial reporting. We automate transaction matching instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0059",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

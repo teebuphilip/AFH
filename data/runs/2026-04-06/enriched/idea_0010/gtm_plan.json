@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics managers at freight brokers processing 50\u2013100 shipments/month",
+  "offer": "For logistics managers at freight brokers processing 50\u2013100 shipments/month, delivery delays cause supplier penalties. We provide real-time alerts instead of manual tracking and sporadic updates from carriers.",
+  "problem": "delays in logistics delivery times",
+  "channels_free": [
+    "Post in Reddit communities for logistics managers",
+    "Indie Hackers discussions about logistics solutions",
+    "DM outreach to logistics managers with demo video",
+    "Engage in community forums for logistics tools"
+  ],
+  "try_it": "Let users try real-time delivery monitoring on 1-3 shipments",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Store common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

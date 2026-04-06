@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet maintenance supervisors managing 5\u201315 vehicles tool",
+  "description": "For fleet maintenance supervisors managing 5\u201315 vehicles, inconsistent scheduling causes unexpected vehicle downtime. We provide a scheduling tool instead of manual tracking via spreadsheets or paper logs.",
+  "target_audience": "fleet maintenance supervisors managing 5\u201315 vehicles",
+  "problem_solved": "Inconsistent scheduling of preventative maintenance tasks leads to unexpected vehicle downtime.",
+  "features": [
+    "task scheduling interface",
+    "maintenance tracking dashboard",
+    "reminder notifications for upcoming tasks"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet maintenance supervisors managing 5\u201315 vehicles",
+    "primary_problem": "Inconsistent scheduling of preventative maintenance tasks leads to unexpected vehicle downtime.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet maintenance supervisors managing 5\u201315 vehicles, inconsistent scheduling causes unexpected vehicle downtime. We provide a scheduling tool instead of manual tracking via spreadsheets or paper logs.",
+    "current_alternative": "manual tracking via spreadsheets or paper logs",
+    "must_have_features": [
+      "task scheduling interface",
+      "maintenance tracking dashboard",
+      "reminder notifications for upcoming tasks"
+    ]
+  },
+  "one_liner": "For fleet maintenance supervisors managing 5\u201315 vehicles, inconsistent scheduling causes unexpected vehicle downtime. We provide a scheduling tool instead of manual tracking via spreadsheets or paper logs.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-06",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, cash flow gaps cause late orders. We provide cash flow monitoring and forecasting instead of manual tracking with spreadsheets.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Cash flow gaps due to fluctuating sales and expenses.",
+  "features": [
+    "Cash flow monitoring",
+    "Forecasting alerts",
+    "Optimization strategy suggestions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Cash flow gaps due to fluctuating sales and expenses.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, cash flow gaps cause late orders. We provide cash flow monitoring and forecasting instead of manual tracking with spreadsheets.",
+    "current_alternative": "Manual tracking of cash flow using spreadsheets",
+    "must_have_features": [
+      "Cash flow monitoring",
+      "Forecasting alerts",
+      "Optimization strategy suggestions"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, cash flow gaps cause late orders. We provide cash flow monitoring and forecasting instead of manual tracking with spreadsheets.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-06",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

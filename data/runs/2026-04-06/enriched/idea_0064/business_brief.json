@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payroll statements/month tool",
+  "description": "For accounting firms processing 5\u201315 payroll statements/month, manual payroll processing causes late payroll distribution. We automate payroll generation and distribution instead of manual payroll processing and distribution.",
+  "target_audience": "accounting firms processing 5\u201315 payroll statements/month",
+  "problem_solved": "Timely distribution of payroll statements and tax compliance.",
+  "features": [
+    "tax withholding calculations",
+    "issue alert notifications for HR teams",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payroll statements/month",
+    "primary_problem": "Timely distribution of payroll statements and tax compliance.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payroll statements/month, manual payroll processing causes late payroll distribution. We automate payroll generation and distribution instead of manual payroll processing and distribution.",
+    "current_alternative": "manual payroll processing and distribution",
+    "must_have_features": [
+      "tax withholding calculations",
+      "issue alert notifications for HR teams",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payroll statements/month, manual payroll processing causes late payroll distribution. We automate payroll generation and distribution instead of manual payroll processing and distribution.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

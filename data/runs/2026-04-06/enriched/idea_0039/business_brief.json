@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "legal billing clerks processing 10\u201320 invoices/month tool",
+  "description": "For legal billing clerks processing 10\u201320 invoices/month, overdue invoices cause cash flow gaps. We monitor client billing deadlines and flag overdue invoices instead of manual tracking of billing deadlines.",
+  "target_audience": "legal billing clerks processing 10\u201320 invoices/month",
+  "problem_solved": "Overdue invoices lead to cash flow gaps.",
+  "features": [
+    "manual invoice tracking",
+    "deadline reminders",
+    "overdue invoice alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "legal billing clerks processing 10\u201320 invoices/month",
+    "primary_problem": "Overdue invoices lead to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For legal billing clerks processing 10\u201320 invoices/month, overdue invoices cause cash flow gaps. We monitor client billing deadlines and flag overdue invoices instead of manual tracking of billing deadlines.",
+    "current_alternative": "manual tracking of billing deadlines",
+    "must_have_features": [
+      "manual invoice tracking",
+      "deadline reminders",
+      "overdue invoice alerts"
+    ]
+  },
+  "one_liner": "For legal billing clerks processing 10\u201320 invoices/month, overdue invoices cause cash flow gaps. We monitor client billing deadlines and flag overdue invoices instead of manual tracking of billing deadlines.",
+  "source": {
+    "idea_id": "idea_0039",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

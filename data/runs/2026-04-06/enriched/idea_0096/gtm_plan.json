@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant managers processing 10-20 payrolls/month",
+  "offer": "For restaurant managers processing 10-20 payrolls/month, inefficient payroll processing causes late payments. We streamline payroll management instead of manual payroll calculations using spreadsheets.",
+  "problem": "Inefficient payroll processing leads to late payments.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant payroll help",
+    "Indie Hackers discussions on payroll workflows",
+    "DM outreach to restaurant managers with demo video",
+    "Community forums for restaurant management tools"
+  ],
+  "try_it": "Let users try manual payroll entry and basic inventory tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

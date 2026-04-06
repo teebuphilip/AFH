@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing coordinators in small clinics processing 5\u201315 invoices/month tool",
+  "description": "For medical billing coordinators in small clinics processing 5\u201315 invoices/month, inefficient reporting causes billing delays. We automate daily appointment scheduling reports instead of manual report generation using spreadsheets.",
+  "target_audience": "medical billing coordinators in small clinics processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient reporting of daily appointment schedules leading to delays in billing.",
+  "features": [
+    "Daily report generation",
+    "User-friendly interface",
+    "Email notifications for report availability"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing coordinators in small clinics processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient reporting of daily appointment schedules leading to delays in billing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing coordinators in small clinics processing 5\u201315 invoices/month, inefficient reporting causes billing delays. We automate daily appointment scheduling reports instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "Daily report generation",
+      "User-friendly interface",
+      "Email notifications for report availability"
+    ]
+  },
+  "one_liner": "For medical billing coordinators in small clinics processing 5\u201315 invoices/month, inefficient reporting causes billing delays. We automate daily appointment scheduling reports instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

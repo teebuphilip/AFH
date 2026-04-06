@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant finance teams processing 10-20 invoices/month tool",
+  "description": "For restaurant finance teams processing 10-20 invoices/month, inaccurate sales tax reporting causes compliance penalties. We provide automated daily sales tax reports instead of manual spreadsheet calculations.",
+  "target_audience": "restaurant finance teams processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate sales tax reporting leads to compliance penalties.",
+  "features": [
+    "daily sales tax report generation",
+    "manual entry for invoice details",
+    "error-checking for tax calculations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant finance teams processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate sales tax reporting leads to compliance penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For restaurant finance teams processing 10-20 invoices/month, inaccurate sales tax reporting causes compliance penalties. We provide automated daily sales tax reports instead of manual spreadsheet calculations.",
+    "current_alternative": "manual spreadsheet calculations",
+    "must_have_features": [
+      "daily sales tax report generation",
+      "manual entry for invoice details",
+      "error-checking for tax calculations"
+    ]
+  },
+  "one_liner": "For restaurant finance teams processing 10-20 invoices/month, inaccurate sales tax reporting causes compliance penalties. We provide automated daily sales tax reports instead of manual spreadsheet calculations.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

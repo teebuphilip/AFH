@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 5\u201315 compliance reports/month tool",
+  "description": "For medical clinics processing 5\u201315 compliance reports/month, delays in report generation cause regulatory penalties. We automate report creation and distribution instead of manual report generation and distribution.",
+  "target_audience": "medical clinics processing 5\u201315 compliance reports/month",
+  "problem_solved": "Timely creation and distribution of regulatory compliance reports",
+  "features": [
+    "template-based report generation",
+    "user-friendly dashboard for tracking compliance status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 5\u201315 compliance reports/month",
+    "primary_problem": "Timely creation and distribution of regulatory compliance reports",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For medical clinics processing 5\u201315 compliance reports/month, delays in report generation cause regulatory penalties. We automate report creation and distribution instead of manual report generation and distribution.",
+    "current_alternative": "manual report generation and distribution",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly dashboard for tracking compliance status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 5\u201315 compliance reports/month, delays in report generation cause regulatory penalties. We automate report creation and distribution instead of manual report generation and distribution.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

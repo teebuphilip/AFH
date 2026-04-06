@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized tech startups using BambooHR tool",
+  "description": "For HR managers in small to medium-sized tech startups using BambooHR processing 5\u201315 new hires/month, inefficient onboarding processes cause delays in employee productivity. We automate the generation and distribution of customized onboarding materials instead of manual creation.",
+  "target_audience": "HR managers in small to medium-sized tech startups using BambooHR",
+  "problem_solved": "Difficulty in creating customized onboarding materials for new employees.",
+  "features": [
+    "Template customization for onboarding materials",
+    "Tracking of onboarding completion status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized tech startups using BambooHR",
+    "primary_problem": "Difficulty in creating customized onboarding materials for new employees.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized tech startups using BambooHR processing 5\u201315 new hires/month, inefficient onboarding processes cause delays in employee productivity. We automate the generation and distribution of customized onboarding materials instead of manual creation.",
+    "current_alternative": "Manual creation of onboarding documents and materials.",
+    "must_have_features": [
+      "Template customization for onboarding materials",
+      "Tracking of onboarding completion status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized tech startups using BambooHR processing 5\u201315 new hires/month, inefficient onboarding processes cause delays in employee productivity. We automate the generation and distribution of customized onboarding materials instead of manual creation.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized retail companies using Shopify tool",
+  "description": "For procurement managers in mid-sized retail companies using Shopify processing 10\u201320 invoices/month, inconsistent vendor compliance reporting causes potential supplier penalties. We automate compliance report generation instead of manual tracking.",
+  "target_audience": "procurement managers in mid-sized retail companies using Shopify",
+  "problem_solved": "Inconsistent vendor compliance reporting leads to potential supplier penalties.",
+  "features": [
+    "email notifications to procurement managers",
+    "user-friendly dashboard for compliance tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized retail companies using Shopify",
+    "primary_problem": "Inconsistent vendor compliance reporting leads to potential supplier penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For procurement managers in mid-sized retail companies using Shopify processing 10\u201320 invoices/month, inconsistent vendor compliance reporting causes potential supplier penalties. We automate compliance report generation instead of manual tracking.",
+    "current_alternative": "manual tracking and reporting of vendor compliance",
+    "must_have_features": [
+      "email notifications to procurement managers",
+      "user-friendly dashboard for compliance tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized retail companies using Shopify processing 10\u201320 invoices/month, inconsistent vendor compliance reporting causes potential supplier penalties. We automate compliance report generation instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-06",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

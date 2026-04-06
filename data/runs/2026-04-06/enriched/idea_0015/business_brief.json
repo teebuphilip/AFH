@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility bills/month tool",
+  "description": "For property managers processing 5\u201315 invoices/month, manual tracking causes cash flow gaps. We automate utility bill summaries instead of manual tracking.",
+  "target_audience": "property managers processing 5\u201315 utility bills/month",
+  "problem_solved": "Difficulty in compiling and summarizing utility bill data for multiple properties.",
+  "features": [
+    "Email notifications for monthly summaries",
+    "Data entry for utility bill details",
+    "Basic reporting of utility costs"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility bills/month",
+    "primary_problem": "Difficulty in compiling and summarizing utility bill data for multiple properties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 invoices/month, manual tracking causes cash flow gaps. We automate utility bill summaries instead of manual tracking.",
+    "current_alternative": "Manual tracking and summarization of utility bills.",
+    "must_have_features": [
+      "Email notifications for monthly summaries",
+      "Data entry for utility bill details",
+      "Basic reporting of utility costs"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 invoices/month, manual tracking causes cash flow gaps. We automate utility bill summaries instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-06",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

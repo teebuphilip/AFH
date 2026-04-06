@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality HR managers in restaurants managing 5-15 shifts/week tool",
+  "description": "For hospitality HR managers in restaurants processing 5-15 shifts/week, inefficient scheduling causes staff confusion and dissatisfaction. We generate shift scheduling summaries instead of manual scheduling spreadsheets.",
+  "target_audience": "hospitality HR managers in restaurants managing 5-15 shifts/week",
+  "problem_solved": "Inefficient shift scheduling leading to confusion and staff dissatisfaction.",
+  "features": [
+    "shift summary generation",
+    "exception reporting",
+    "manual input for shifts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality HR managers in restaurants managing 5-15 shifts/week",
+    "primary_problem": "Inefficient shift scheduling leading to confusion and staff dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality HR managers in restaurants processing 5-15 shifts/week, inefficient scheduling causes staff confusion and dissatisfaction. We generate shift scheduling summaries instead of manual scheduling spreadsheets.",
+    "current_alternative": "manual scheduling spreadsheets",
+    "must_have_features": [
+      "shift summary generation",
+      "exception reporting",
+      "manual input for shifts"
+    ]
+  },
+  "one_liner": "For hospitality HR managers in restaurants processing 5-15 shifts/week, inefficient scheduling causes staff confusion and dissatisfaction. We generate shift scheduling summaries instead of manual scheduling spreadsheets.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

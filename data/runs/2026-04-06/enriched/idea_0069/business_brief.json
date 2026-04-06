@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "marketing agencies managing 5\u201315 campaigns/month tool",
+  "description": "For marketing agencies managing 5\u201315 campaigns/month, inefficient campaign performance analysis causes missed opportunities for optimization. We provide insights instead of manual tracking and reporting.",
+  "target_audience": "marketing agencies managing 5\u201315 campaigns/month",
+  "problem_solved": "inefficient campaign performance analysis",
+  "features": [
+    "dashboard for performance metrics",
+    "real-time data monitoring",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "marketing agencies managing 5\u201315 campaigns/month",
+    "primary_problem": "inefficient campaign performance analysis",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For marketing agencies managing 5\u201315 campaigns/month, inefficient campaign performance analysis causes missed opportunities for optimization. We provide insights instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting",
+    "must_have_features": [
+      "dashboard for performance metrics",
+      "real-time data monitoring",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For marketing agencies managing 5\u201315 campaigns/month, inefficient campaign performance analysis causes missed opportunities for optimization. We provide insights instead of manual tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-06",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

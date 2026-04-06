@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "CFOs of accounting firms processing 10-50 financial reports/month tool",
+  "description": "For CFOs of accounting firms processing 10-50 financial reports/month, manual report generation causes delays in client deliverables. We automate report creation instead of spreadsheets and manual reporting tools.",
+  "target_audience": "CFOs of accounting firms processing 10-50 financial reports/month",
+  "problem_solved": "Manual report generation is time-consuming and prone to errors.",
+  "features": [
+    "Customizable report templates",
+    "User-friendly dashboard for report visualization",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "CFOs of accounting firms processing 10-50 financial reports/month",
+    "primary_problem": "Manual report generation is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For CFOs of accounting firms processing 10-50 financial reports/month, manual report generation causes delays in client deliverables. We automate report creation instead of spreadsheets and manual reporting tools.",
+    "current_alternative": "spreadsheets and manual reporting tools",
+    "must_have_features": [
+      "Customizable report templates",
+      "User-friendly dashboard for report visualization",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For CFOs of accounting firms processing 10-50 financial reports/month, manual report generation causes delays in client deliverables. We automate report creation instead of spreadsheets and manual reporting tools.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-06",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firms processing 5\u201315 audit reports/month tool",
+  "description": "For small law firms processing 5\u201315 audit reports/month, compliance issues cause delays in client reporting. We automate report generation instead of manual report preparation using spreadsheets.",
+  "target_audience": "small law firms processing 5\u201315 audit reports/month",
+  "problem_solved": "Difficulty in preparing timely and accurate audit reports.",
+  "features": [
+    "template-based report generation",
+    "audit checklist management",
+    "user-friendly interface for report customization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firms processing 5\u201315 audit reports/month",
+    "primary_problem": "Difficulty in preparing timely and accurate audit reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For small law firms processing 5\u201315 audit reports/month, compliance issues cause delays in client reporting. We automate report generation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "audit checklist management",
+      "user-friendly interface for report customization"
+    ]
+  },
+  "one_liner": "For small law firms processing 5\u201315 audit reports/month, compliance issues cause delays in client reporting. We automate report generation instead of manual report preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

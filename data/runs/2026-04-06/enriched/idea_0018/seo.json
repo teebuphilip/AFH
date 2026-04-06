@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics ops teams in e-commerce businesses inability tool",
+    "logistics ops teams in e-commerce businesses inability automation",
+    "inventory tracking",
+    "inventory workflow",
+    "logistics ops teams in e-commerce businesses processing 50 100 orders week inability tool",
+    "logistics ops teams in e-commerce businesses processing 50 100 orders week inability automation",
+    "logistics ops teams in e-commerce businesses processing 50 100 orders week inability workflow"
+  ],
+  "secondary_keywords": [
+    "inventory tracking software",
+    "inventory tracking platform",
+    "inventory tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to inventory tracking",
+    "best inventory tracking tool",
+    "inventory tracking vs spreadsheets",
+    "inventory tracking checklist",
+    "inventory tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics ops teams in e-commerce businesses processing 50\u2013100 orders/week, ineffective inventory monitoring causes stockouts. We provide automated alerts for replenishment instead of manual tracking of inventory levels.",
+    "Inability to monitor inventory levels effectively leads to stockouts.",
+    "logistics ops teams in e-commerce businesses processing 50\u2013100 orders/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Inventory Tracking",
+      "target_keyword": "how to inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Inventory Tracking Tool",
+      "target_keyword": "best inventory tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Vs Spreadsheets",
+      "target_keyword": "inventory tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Checklist",
+      "target_keyword": "inventory tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Pricing",
+      "target_keyword": "inventory tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Software",
+      "target_keyword": "inventory tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Platform",
+      "target_keyword": "inventory tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Solution",
+      "target_keyword": "inventory tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking",
+      "target_keyword": "inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Workflow",
+      "target_keyword": "inventory workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Ops Teams In E-Commerce Businesses Processing 50 100 Orders Week Inability Tool",
+      "target_keyword": "logistics ops teams in e-commerce businesses processing 50 100 orders week inability tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Ops Teams In E-Commerce Businesses Processing 50 100 Orders Week Inability Automation",
+      "target_keyword": "logistics ops teams in e-commerce businesses processing 50 100 orders week inability automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics ops teams in e-commerce businesses inability tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics ops teams in e-commerce businesses inability tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics ops teams in e-commerce businesses inability tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics ops teams in e-commerce businesses inability tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics ops teams in e-commerce businesses inability tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics ops teams in e-commerce businesses tool",
+      "logistics ops teams in e-commerce businesses tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics ops teams in e-commerce businesses tool helps with inability to monitor inventory levels effectively leads to stockouts."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

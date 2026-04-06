@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 10-20 policies/month tool",
+  "description": "For insurance brokers processing 10-20 policies/month, manual review causes missed coverage gaps. We automate monitoring instead of manual review of policy documents.",
+  "target_audience": "insurance brokers managing 10-20 policies/month",
+  "problem_solved": "Identifying coverage gaps in insurance policies",
+  "features": [
+    "coverage gap alerts",
+    "user-friendly dashboard for policy overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 10-20 policies/month",
+    "primary_problem": "Identifying coverage gaps in insurance policies",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 10-20 policies/month, manual review causes missed coverage gaps. We automate monitoring instead of manual review of policy documents.",
+    "current_alternative": "manual review of policy documents",
+    "must_have_features": [
+      "coverage gap alerts",
+      "user-friendly dashboard for policy overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10-20 policies/month, manual review causes missed coverage gaps. We automate monitoring instead of manual review of policy documents.",
+  "source": {
+    "idea_id": "idea_0076",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

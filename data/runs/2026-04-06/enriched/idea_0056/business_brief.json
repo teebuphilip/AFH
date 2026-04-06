@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers managing 10-50 rental units tool",
+  "description": "For property managers managing 10-50 rental units, inefficient tracking of equipment maintenance causes missed maintenance schedules. We automate asset management instead of manual tracking using spreadsheets.",
+  "target_audience": "property managers managing 10-50 rental units",
+  "problem_solved": "inefficient tracking of equipment maintenance and depreciation",
+  "features": [
+    "manual entry of equipment details",
+    "maintenance schedule reminders",
+    "depreciation tracking reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers managing 10-50 rental units",
+    "primary_problem": "inefficient tracking of equipment maintenance and depreciation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers managing 10-50 rental units, inefficient tracking of equipment maintenance causes missed maintenance schedules. We automate asset management instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking using spreadsheets",
+    "must_have_features": [
+      "manual entry of equipment details",
+      "maintenance schedule reminders",
+      "depreciation tracking reports"
+    ]
+  },
+  "one_liner": "For property managers managing 10-50 rental units, inefficient tracking of equipment maintenance causes missed maintenance schedules. We automate asset management instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-06",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

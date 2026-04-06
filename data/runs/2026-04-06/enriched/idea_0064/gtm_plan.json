@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 5\u201315 payroll statements/month",
+  "offer": "For accounting firms processing 5\u201315 payroll statements/month, manual payroll processing causes late payroll distribution. We automate payroll generation and distribution instead of manual payroll processing and distribution.",
+  "problem": "Timely distribution of payroll statements and tax compliance.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers discussions on payroll processing",
+    "DM outreach to accounting firms with demo video",
+    "Community forums sharing payroll processing tools"
+  ],
+  "try_it": "Let users try tax withholding calculations and alerts for HR",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of the manual workflow",
+    "Collect 10 user interviews for feedback",
+    "Offer early-access onboarding for first users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing payroll data",
+    "One-click report exports",
+    "Simplified onboarding process"
+  ]
+}

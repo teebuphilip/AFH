@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, inefficient procurement causes late orders and supplier penalties. We automate the procurement process instead of manual tracking and order management.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient procurement process leading to late orders and supplier penalties.",
+  "features": [
+    "Generate purchase orders automatically",
+    "Track deliveries in real-time",
+    "Provide visibility into procurement status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient procurement process leading to late orders and supplier penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, inefficient procurement causes late orders and supplier penalties. We automate the procurement process instead of manual tracking and order management.",
+    "current_alternative": "manual tracking and order management",
+    "must_have_features": [
+      "Generate purchase orders automatically",
+      "Track deliveries in real-time",
+      "Provide visibility into procurement status"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, inefficient procurement causes late orders and supplier penalties. We automate the procurement process instead of manual tracking and order management.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

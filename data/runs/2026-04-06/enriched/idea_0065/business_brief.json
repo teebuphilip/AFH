@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201350 orders/month tool",
+  "description": "For Shopify store owners processing 10\u201350 orders/month, high churn rates cause lost revenue. We provide predictive insights and retention strategies instead of manual tracking of customer interactions and feedback.",
+  "target_audience": "Shopify store owners processing 10\u201350 orders/month",
+  "problem_solved": "High customer churn rates leading to lost revenue.",
+  "features": [
+    "Churn data tracking",
+    "Customer feedback analysis",
+    "Retention strategy recommendations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201350 orders/month",
+    "primary_problem": "High customer churn rates leading to lost revenue.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201350 orders/month, high churn rates cause lost revenue. We provide predictive insights and retention strategies instead of manual tracking of customer interactions and feedback.",
+    "current_alternative": "Manual tracking of customer interactions and feedback.",
+    "must_have_features": [
+      "Churn data tracking",
+      "Customer feedback analysis",
+      "Retention strategy recommendations"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201350 orders/month, high churn rates cause lost revenue. We provide predictive insights and retention strategies instead of manual tracking of customer interactions and feedback.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-06",
+    "overlay_score": 63,
+    "arr_score": 65
+  }
+}

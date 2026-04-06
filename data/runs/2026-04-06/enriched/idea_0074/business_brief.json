@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, delays in invoice approvals cause missed supplier discounts. We automate the approval workflows instead of manual invoice processing.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Delays in invoice approvals",
+  "features": [
+    "Invoice validation",
+    "Approval workflow management",
+    "Payment scheduling"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Delays in invoice approvals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, delays in invoice approvals cause missed supplier discounts. We automate the approval workflows instead of manual invoice processing.",
+    "current_alternative": "manual invoice processing",
+    "must_have_features": [
+      "Invoice validation",
+      "Approval workflow management",
+      "Payment scheduling"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, delays in invoice approvals cause missed supplier discounts. We automate the approval workflows instead of manual invoice processing.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

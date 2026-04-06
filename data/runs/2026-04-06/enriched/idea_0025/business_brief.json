@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 rental units tool",
+  "description": "For property managers processing 5\u201315 rental units, late payments cause cash flow gaps. We automate rent collection tracking and delinquency reporting instead of manual tracking via spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 rental units",
+  "problem_solved": "Difficulty in tracking rent payments and managing delinquency reports.",
+  "features": [
+    "Monthly delinquency report generation",
+    "Email notifications for overdue payments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 rental units",
+    "primary_problem": "Difficulty in tracking rent payments and managing delinquency reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 rental units, late payments cause cash flow gaps. We automate rent collection tracking and delinquency reporting instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking of rent payments and delinquency reports via spreadsheets",
+    "must_have_features": [
+      "Monthly delinquency report generation",
+      "Email notifications for overdue payments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 rental units, late payments cause cash flow gaps. We automate rent collection tracking and delinquency reporting instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-06",
+    "overlay_score": 69,
+    "arr_score": 72
+  }
+}

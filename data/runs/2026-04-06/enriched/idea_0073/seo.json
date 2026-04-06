@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics managers in small to medium-sized e-commerce businesses inefficient tool",
+    "logistics managers in small to medium-sized e-commerce businesses inefficient automation",
+    "sized e",
+    "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments month inefficient tool",
+    "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments month inefficient automation",
+    "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "sized e software",
+    "sized e platform",
+    "sized e solution"
+  ],
+  "long_tail_keywords": [
+    "how to sized e",
+    "best sized e tool",
+    "sized e vs spreadsheets",
+    "sized e checklist",
+    "sized e pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments/month, inefficient supply chain management causes delayed shipments. We provide predictive insights and optimization recommendations instead of manual tracking and analysis of supply chain data.",
+    "inefficient supply chain management leading to delayed shipments",
+    "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Sized E",
+      "target_keyword": "how to sized e",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Sized E Tool",
+      "target_keyword": "best sized e tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Sized E Vs Spreadsheets",
+      "target_keyword": "sized e vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Sized E Checklist",
+      "target_keyword": "sized e checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E Pricing",
+      "target_keyword": "sized e pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E Software",
+      "target_keyword": "sized e software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E Platform",
+      "target_keyword": "sized e platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E Solution",
+      "target_keyword": "sized e solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E",
+      "target_keyword": "sized e",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Managers In Small To Medium-Sized E-Commerce Businesses Processing 10-50 Shipments Month Inefficient Tool",
+      "target_keyword": "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers In Small To Medium-Sized E-Commerce Businesses Processing 10-50 Shipments Month Inefficient Automation",
+      "target_keyword": "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers In Small To Medium-Sized E-Commerce Businesses Processing 10-50 Shipments Month Inefficient Workflow",
+      "target_keyword": "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments month inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics managers in small to medium-sized e-commerce businesses inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics managers in small to medium-sized e-commerce businesses inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics managers in small to medium-sized e-commerce businesses inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics managers in small to medium-sized e-commerce businesses inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics managers in small to medium-sized e-commerce businesses inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics managers in small to medium-sized e-commerce businesses tool",
+      "logistics managers in small to medium-sized e-commerce businesses tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics managers in small to medium-sized e-commerce businesses tool helps with inefficient supply chain management leading to delayed shipments."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

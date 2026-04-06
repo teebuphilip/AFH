@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "fleet operations supervisors managing - vehicles missed tool",
+    "fleet operations supervisors managing - vehicles missed automation",
+    "fleet operations supervisors managing 10-50 vehicles missed tool",
+    "fleet operations supervisors managing 10-50 vehicles missed automation",
+    "fleet operations supervisors managing 10-50 vehicles missed workflow"
+  ],
+  "secondary_keywords": [
+    "fleet operations supervisors managing 10-50 vehicles missed tool software",
+    "fleet operations supervisors managing 10-50 vehicles missed tool platform",
+    "fleet operations supervisors managing 10-50 vehicles missed tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For fleet operations supervisors managing 10-50 vehicles, missed vehicle inspections cause compliance issues. We provide automated reminders instead of manual tracking of inspection schedules.",
+    "missed vehicle inspections leading to compliance issues",
+    "fleet operations supervisors managing 10-50 vehicles"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Fleet Operations Supervisors Managing 10-50 Vehicles Missed Tool Software",
+      "target_keyword": "fleet operations supervisors managing 10-50 vehicles missed tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Operations Supervisors Managing 10-50 Vehicles Missed Tool Platform",
+      "target_keyword": "fleet operations supervisors managing 10-50 vehicles missed tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Operations Supervisors Managing 10-50 Vehicles Missed Tool Solution",
+      "target_keyword": "fleet operations supervisors managing 10-50 vehicles missed tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Operations Supervisors Managing 10-50 Vehicles Missed Tool",
+      "target_keyword": "fleet operations supervisors managing 10-50 vehicles missed tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Operations Supervisors Managing 10-50 Vehicles Missed Automation",
+      "target_keyword": "fleet operations supervisors managing 10-50 vehicles missed automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Operations Supervisors Managing 10-50 Vehicles Missed Workflow",
+      "target_keyword": "fleet operations supervisors managing 10-50 vehicles missed workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "fleet operations supervisors managing - vehicles missed tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "fleet operations supervisors managing - vehicles missed tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "fleet operations supervisors managing - vehicles missed tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "fleet operations supervisors managing - vehicles missed tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "fleet operations supervisors managing - vehicles missed tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | fleet operations supervisors managing - vehicles tool",
+      "fleet operations supervisors managing - vehicles tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "fleet operations supervisors managing - vehicles tool helps with missed vehicle inspections leading to compliance issues."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

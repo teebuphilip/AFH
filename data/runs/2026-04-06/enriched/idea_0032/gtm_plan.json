@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firms processing 5\u201315 invoices/month",
+  "offer": "For law firms processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We simplify the reconciliation process instead of manual reconciliation using spreadsheets.",
+  "problem": "manual invoice reconciliation is time-consuming and error-prone.",
+  "channels_free": [
+    "Post in Reddit communities for law firms seeking help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to law firms with a demo video",
+    "Community forums where law firms share tools"
+  ],
+  "try_it": "Let users explore the user-friendly interface for invoice entry.",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with clear CTA",
+    "Short demo video of the manual workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "One-click export for simple reports",
+    "Reduce steps in onboarding process"
+  ]
+}

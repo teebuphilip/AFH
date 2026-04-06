@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 clients/month tool",
+  "description": "For accounting firms processing 5\u201315 clients/month, inefficient onboarding causes delays in contract generation. We automate the onboarding process instead of manual onboarding and contract generation.",
+  "target_audience": "accounting firms processing 5\u201315 clients/month",
+  "problem_solved": "Inefficient client onboarding process leading to delays in contract generation.",
+  "features": [
+    "client information gathering form",
+    "custom contract template generation",
+    "email notifications for onboarding status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 clients/month",
+    "primary_problem": "Inefficient client onboarding process leading to delays in contract generation.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 clients/month, inefficient onboarding causes delays in contract generation. We automate the onboarding process instead of manual onboarding and contract generation.",
+    "current_alternative": "manual onboarding and contract generation",
+    "must_have_features": [
+      "client information gathering form",
+      "custom contract template generation",
+      "email notifications for onboarding status"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 clients/month, inefficient onboarding causes delays in contract generation. We automate the onboarding process instead of manual onboarding and contract generation.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

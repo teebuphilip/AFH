@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic billing managers processing 10\u201320 invoices/month tool",
+  "description": "For medical clinic billing managers processing 10\u201320 invoices/month, high denial rates cause cash flow gaps. We automate the consolidation of denials and generation of appeal reports instead of manual tracking and reporting of denials.",
+  "target_audience": "medical clinic billing managers processing 10\u201320 invoices/month",
+  "problem_solved": "High rate of medical billing denials",
+  "features": [
+    "manual entry for denial details",
+    "template generation for appeal reports",
+    "dashboard for tracking denial trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic billing managers processing 10\u201320 invoices/month",
+    "primary_problem": "High rate of medical billing denials",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic billing managers processing 10\u201320 invoices/month, high denial rates cause cash flow gaps. We automate the consolidation of denials and generation of appeal reports instead of manual tracking and reporting of denials.",
+    "current_alternative": "manual tracking and reporting of denials",
+    "must_have_features": [
+      "manual entry for denial details",
+      "template generation for appeal reports",
+      "dashboard for tracking denial trends"
+    ]
+  },
+  "one_liner": "For medical clinic billing managers processing 10\u201320 invoices/month, high denial rates cause cash flow gaps. We automate the consolidation of denials and generation of appeal reports instead of manual tracking and reporting of denials.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

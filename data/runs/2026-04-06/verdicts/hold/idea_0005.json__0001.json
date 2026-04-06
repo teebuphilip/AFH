@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that tracks employee expense submissions and sends weekly approval reminders to finance ops.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-06T10:32:15.211242",
+  "verdict_source": "overlay_score"
+}

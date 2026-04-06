@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers processing 5\u201315 utility bills/month",
+  "offer": "For property managers processing 5\u201315 invoices/month, manual tracking causes cash flow gaps. We automate utility bill summaries instead of manual tracking.",
+  "problem": "Difficulty in compiling and summarizing utility bill data for multiple properties.",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to property managers with demo video",
+    "Community forums for sharing property management tools"
+  ],
+  "try_it": "Let users try Email notifications for summaries and Data entry for 1-3 bills",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing utility data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

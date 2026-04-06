@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We automate the workflow instead of manual invoicing and follow-ups.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Delayed payments due to inefficient invoicing and reminder processes.",
+  "features": [
+    "reminder notifications",
+    "collection tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Delayed payments due to inefficient invoicing and reminder processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We automate the workflow instead of manual invoicing and follow-ups.",
+    "current_alternative": "manual invoicing and follow-ups",
+    "must_have_features": [
+      "reminder notifications",
+      "collection tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We automate the workflow instead of manual invoicing and follow-ups.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

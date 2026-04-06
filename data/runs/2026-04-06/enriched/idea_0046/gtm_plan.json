@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics operations managers processing 10\u201320 delivery manifests/month",
+  "offer": "For logistics operations managers processing 10\u201320 delivery manifests/month, manual compliance reporting causes late orders and supplier penalties. We convert delivery manifests into digital compliance reports instead of manual reporting processes using spreadsheets.",
+  "problem": "Manual compliance reporting leads to errors and inefficiencies.",
+  "channels_free": [
+    "Post in Reddit communities for logistics operations managers",
+    "Indie Hackers discussions on compliance reporting",
+    "DM outreach to logistics managers with demo video",
+    "Engage in community forums for logistics tools"
+  ],
+  "try_it": "Let users try manual data entry for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click report exports",
+    "Simplify onboarding steps"
+  ]
+}

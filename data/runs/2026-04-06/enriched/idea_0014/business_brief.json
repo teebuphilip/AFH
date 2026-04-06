@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201350 invoices/month tool",
+  "description": "For Shopify store owners processing 10\u201350 invoices/month, failed subscription payments cause cash flow gaps. We monitor recurring payments instead of manual tracking of subscription payments.",
+  "target_audience": "Shopify store owners processing 10\u201350 invoices/month",
+  "problem_solved": "Failed subscription payments leading to cash flow gaps.",
+  "features": [
+    "Email alerts for failed charges",
+    "Dashboard for payment status overview",
+    "Manual entry option for tracking missed payments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201350 invoices/month",
+    "primary_problem": "Failed subscription payments leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201350 invoices/month, failed subscription payments cause cash flow gaps. We monitor recurring payments instead of manual tracking of subscription payments.",
+    "current_alternative": "Manual tracking of subscription payments",
+    "must_have_features": [
+      "Email alerts for failed charges",
+      "Dashboard for payment status overview",
+      "Manual entry option for tracking missed payments"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201350 invoices/month, failed subscription payments cause cash flow gaps. We monitor recurring payments instead of manual tracking of subscription payments.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-06",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "procurement teams in accounting firms processing 10\u201320 invoices/week",
+  "offer": "For procurement teams in accounting firms processing 10\u201320 invoices/week, delayed alerts cause late orders. We automate overdue alerts instead of manual tracking of payment statuses.",
+  "problem": "Overdue vendor payments due to lack of timely alerts.",
+  "channels_free": [
+    "Post in Reddit communities for procurement teams",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to procurement teams with demo video",
+    "Community forums for procurement tools sharing"
+  ],
+  "try_it": "Let users try weekly email alerts for overdue payments and dashboard for tracking payment statuses on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

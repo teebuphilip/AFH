@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 20\u201350 claims/month tool",
+  "description": "For medical clinics processing 20\u201350 claims/month, inaccurate patient eligibility tracking causes claim denials. We automate eligibility tracking and claim filing instead of manual tracking and filing of claims.",
+  "target_audience": "medical clinics processing 20\u201350 claims/month",
+  "problem_solved": "Inaccurate patient eligibility tracking leads to claim denials.",
+  "features": [
+    "manual claim entry",
+    "patient eligibility tracking",
+    "claim status monitoring"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 20\u201350 claims/month",
+    "primary_problem": "Inaccurate patient eligibility tracking leads to claim denials.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 20\u201350 claims/month, inaccurate patient eligibility tracking causes claim denials. We automate eligibility tracking and claim filing instead of manual tracking and filing of claims.",
+    "current_alternative": "manual tracking and filing of claims",
+    "must_have_features": [
+      "manual claim entry",
+      "patient eligibility tracking",
+      "claim status monitoring"
+    ]
+  },
+  "one_liner": "For medical clinics processing 20\u201350 claims/month, inaccurate patient eligibility tracking causes claim denials. We automate eligibility tracking and claim filing instead of manual tracking and filing of claims.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr operations teams in small accounting firms timely tool",
+    "hr operations teams in small accounting firms timely automation",
+    "hr operations teams in small accounting firms processing 5 15 payrolls month timely tool",
+    "hr operations teams in small accounting firms processing 5 15 payrolls month timely automation",
+    "hr operations teams in small accounting firms processing 5 15 payrolls month timely workflow"
+  ],
+  "secondary_keywords": [
+    "hr operations teams in small accounting firms processing 5 15 payrolls month timely tool software",
+    "hr operations teams in small accounting firms processing 5 15 payrolls month timely tool platform",
+    "hr operations teams in small accounting firms processing 5 15 payrolls month timely tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR operations teams in small accounting firms processing 5\u201315 payrolls/month, manual preparation causes late filings, leading to compliance penalties. We automate payroll tax filing summaries instead of manual preparation.",
+    "Timely payroll tax filing summaries are often missed, leading to compliance issues.",
+    "HR operations teams in small accounting firms processing 5\u201315 payrolls/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Operations Teams In Small Accounting Firms Processing 5 15 Payrolls Month Timely Tool Software",
+      "target_keyword": "hr operations teams in small accounting firms processing 5 15 payrolls month timely tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations Teams In Small Accounting Firms Processing 5 15 Payrolls Month Timely Tool Platform",
+      "target_keyword": "hr operations teams in small accounting firms processing 5 15 payrolls month timely tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations Teams In Small Accounting Firms Processing 5 15 Payrolls Month Timely Tool Solution",
+      "target_keyword": "hr operations teams in small accounting firms processing 5 15 payrolls month timely tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations Teams In Small Accounting Firms Processing 5 15 Payrolls Month Timely Tool",
+      "target_keyword": "hr operations teams in small accounting firms processing 5 15 payrolls month timely tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations Teams In Small Accounting Firms Processing 5 15 Payrolls Month Timely Automation",
+      "target_keyword": "hr operations teams in small accounting firms processing 5 15 payrolls month timely automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations Teams In Small Accounting Firms Processing 5 15 Payrolls Month Timely Workflow",
+      "target_keyword": "hr operations teams in small accounting firms processing 5 15 payrolls month timely workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr operations teams in small accounting firms timely tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr operations teams in small accounting firms timely tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr operations teams in small accounting firms timely tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr operations teams in small accounting firms timely tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr operations teams in small accounting firms timely tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr operations teams in small accounting firms tool",
+      "hr operations teams in small accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr operations teams in small accounting firms tool helps with timely payroll tax filing summaries are often missed leading to compliance issues."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

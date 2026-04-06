@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "property managers timely tool",
+    "property managers timely automation",
+    "invoice payments",
+    "invoice tracking",
+    "vendor invoices",
+    "leading to penalties"
+  ],
+  "secondary_keywords": [
+    "invoice payments software",
+    "invoice payments platform",
+    "invoice payments solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice payments",
+    "best invoice payments tool",
+    "invoice payments vs spreadsheets",
+    "invoice payments checklist",
+    "invoice payments pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For property managers processing 5\u201315 properties/month, manual tracking causes late filings, leading to penalties. We automate compliance filings instead of manual tracking and filing of property taxes.",
+    "Timely property tax compliance filings",
+    "property managers processing 5\u201315 properties/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Payments",
+      "target_keyword": "how to invoice payments",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Payments Tool",
+      "target_keyword": "best invoice payments tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Payments Vs Spreadsheets",
+      "target_keyword": "invoice payments vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Payments Checklist",
+      "target_keyword": "invoice payments checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Pricing",
+      "target_keyword": "invoice payments pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Software",
+      "target_keyword": "invoice payments software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Platform",
+      "target_keyword": "invoice payments platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Solution",
+      "target_keyword": "invoice payments solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments",
+      "target_keyword": "invoice payments",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking",
+      "target_keyword": "invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Vendor Invoices",
+      "target_keyword": "vendor invoices",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Leading To Penalties",
+      "target_keyword": "leading to penalties",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "property managers timely tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "property managers timely tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "property managers timely tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "property managers timely tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "property managers timely tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | property managers tool",
+      "property managers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "property managers tool helps with timely property tax compliance filings."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

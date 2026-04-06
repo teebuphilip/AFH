@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, time tracking discrepancies cause payroll errors. We automate payroll reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Inaccurate payroll processing due to time tracking discrepancies.",
+  "features": [
+    "Time tracking monitoring",
+    "Discrepancy alert notifications",
+    "Payroll reconciliation reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Inaccurate payroll processing due to time tracking discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, time tracking discrepancies cause payroll errors. We automate payroll reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "Manual reconciliation of payroll data using spreadsheets.",
+    "must_have_features": [
+      "Time tracking monitoring",
+      "Discrepancy alert notifications",
+      "Payroll reconciliation reports"
+    ]
+  },
+  "one_liner": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, time tracking discrepancies cause payroll errors. We automate payroll reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

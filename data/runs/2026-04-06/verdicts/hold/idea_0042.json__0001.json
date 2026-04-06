@@ -1,0 +1,16 @@
+{
+  "idea_text": "Tool that schedules and tracks preventative maintenance tasks for fleet maintenance supervisors.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 65,
+  "arr_score": 64,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-06T10:32:15.216043",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

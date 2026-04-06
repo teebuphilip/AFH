@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant finance teams processing 10-20 invoices/month",
+  "offer": "For restaurant finance teams processing 10-20 invoices/month, inaccurate sales tax reporting causes compliance penalties. We provide automated daily sales tax reports instead of manual spreadsheet calculations.",
+  "problem": "Inaccurate sales tax reporting leads to compliance penalties.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant finance teams",
+    "Indie Hackers posts discussing similar workflows",
+    "DM outreach to restaurant finance teams with demo video",
+    "Community forums where finance teams share tools"
+  ],
+  "try_it": "Let users try daily sales tax report generation with 1-3 invoices",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing invoice data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

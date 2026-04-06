@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201350 clients tool",
+  "description": "For accounting firms managing 10\u201350 clients, manual reconciliation of bank statements causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "accounting firms managing 10\u201350 clients",
+  "problem_solved": "manual reconciliation of bank statements leading to discrepancies",
+  "features": [
+    "monthly discrepancy report generation",
+    "user-friendly dashboard for tracking reconciliations",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201350 clients",
+    "primary_problem": "manual reconciliation of bank statements leading to discrepancies",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201350 clients, manual reconciliation of bank statements causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "monthly discrepancy report generation",
+      "user-friendly dashboard for tracking reconciliations",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201350 clients, manual reconciliation of bank statements causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0001",
+    "run_date": "2026-04-06",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

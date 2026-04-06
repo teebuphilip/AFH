@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction HR managers processing 5\u201315 labor compliance reports/week",
+  "offer": "For construction HR managers processing 5\u201315 labor compliance reports/week, inconsistent reporting causes potential legal issues and penalties. We provide compliance summaries instead of manual tracking.",
+  "problem": "Inconsistent labor compliance reporting leads to potential legal issues and penalties.",
+  "channels_free": [
+    "Post in Reddit communities for construction HR managers",
+    "Indie Hackers discussions on labor compliance workflows",
+    "DM outreach to construction HR managers with demo video",
+    "Engage in community forums for HR tool sharing"
+  ],
+  "try_it": "Let users try customizable compliance templates and email notifications",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

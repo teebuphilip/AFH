@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations managers in marketing agencies processing 10\u201320 sales quotas/week tool",
+  "description": "For sales operations managers in marketing agencies processing 10\u201320 sales quotas/week, manual tracking causes missed performance alerts. We provide automated weekly performance alerts instead of manual tracking through spreadsheets.",
+  "target_audience": "sales operations managers in marketing agencies processing 10\u201320 sales quotas/week",
+  "problem_solved": "Inability to track sales quota attainment in real-time",
+  "features": [
+    "real-time sales quota tracking",
+    "weekly performance alert generation",
+    "user-friendly dashboard for performance overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations managers in marketing agencies processing 10\u201320 sales quotas/week",
+    "primary_problem": "Inability to track sales quota attainment in real-time",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations managers in marketing agencies processing 10\u201320 sales quotas/week, manual tracking causes missed performance alerts. We provide automated weekly performance alerts instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "real-time sales quota tracking",
+      "weekly performance alert generation",
+      "user-friendly dashboard for performance overview"
+    ]
+  },
+  "one_liner": "For sales operations managers in marketing agencies processing 10\u201320 sales quotas/week, manual tracking causes missed performance alerts. We provide automated weekly performance alerts instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

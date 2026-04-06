@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations supervisors managing 10-50 vehicles tool",
+  "description": "For fleet operations supervisors managing 10-50 vehicles, missed vehicle inspections cause compliance issues. We provide automated reminders instead of manual tracking of inspection schedules.",
+  "target_audience": "fleet operations supervisors managing 10-50 vehicles",
+  "problem_solved": "missed vehicle inspections leading to compliance issues",
+  "features": [
+    "manual entry of vehicle details",
+    "customizable reminder settings",
+    "simple dashboard for tracking inspection dates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations supervisors managing 10-50 vehicles",
+    "primary_problem": "missed vehicle inspections leading to compliance issues",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operations supervisors managing 10-50 vehicles, missed vehicle inspections cause compliance issues. We provide automated reminders instead of manual tracking of inspection schedules.",
+    "current_alternative": "manual tracking of inspection schedules",
+    "must_have_features": [
+      "manual entry of vehicle details",
+      "customizable reminder settings",
+      "simple dashboard for tracking inspection dates"
+    ]
+  },
+  "one_liner": "For fleet operations supervisors managing 10-50 vehicles, missed vehicle inspections cause compliance issues. We provide automated reminders instead of manual tracking of inspection schedules.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

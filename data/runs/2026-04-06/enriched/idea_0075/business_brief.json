@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10-20 properties/month tool",
+  "description": "For property managers processing 10-20 properties/month, delayed financial reporting causes cash flow gaps. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "property managers processing 10-20 properties/month",
+  "problem_solved": "timely financial reporting",
+  "features": [
+    "template-based report generation",
+    "monthly report scheduling",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10-20 properties/month",
+    "primary_problem": "timely financial reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 properties/month, delayed financial reporting causes cash flow gaps. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "monthly report scheduling",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 properties/month, delayed financial reporting causes cash flow gaps. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-06",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

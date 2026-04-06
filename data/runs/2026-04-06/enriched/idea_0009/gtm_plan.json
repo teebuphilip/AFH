@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201320 invoices/month",
+  "offer": "For accounting firms processing 10\u201320 invoices/month, delayed payment confirmations cause cash flow gaps. We aggregate invoice payment confirmations and send weekly summaries instead of manual tracking through spreadsheets.",
+  "problem": "Tracking payment confirmations for invoices",
+  "channels_free": [
+    "Post in Reddit communities for accounting help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to 20-50 accounting firms with demo",
+    "Community forums for accounting tools and tips"
+  ],
+  "try_it": "Let users try weekly summary reports and manual entry for missing confirmations",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of reports",
+    "Streamline onboarding steps"
+  ]
+}

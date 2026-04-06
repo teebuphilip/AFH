@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers processing 10\u201320 freight invoices/month tool",
+  "description": "For logistics managers processing 10\u201320 freight invoices/month, inconsistent payment tracking causes cash flow gaps. We provide weekly payment status summaries instead of manual tracking through spreadsheets.",
+  "target_audience": "logistics managers processing 10\u201320 freight invoices/month",
+  "problem_solved": "Inconsistent payment tracking leads to cash flow gaps.",
+  "features": [
+    "Invoice tracking dashboard",
+    "Weekly summary email",
+    "Payment status notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers processing 10\u201320 freight invoices/month",
+    "primary_problem": "Inconsistent payment tracking leads to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers processing 10\u201320 freight invoices/month, inconsistent payment tracking causes cash flow gaps. We provide weekly payment status summaries instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "Invoice tracking dashboard",
+      "Weekly summary email",
+      "Payment status notifications"
+    ]
+  },
+  "one_liner": "For logistics managers processing 10\u201320 freight invoices/month, inconsistent payment tracking causes cash flow gaps. We provide weekly payment status summaries instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

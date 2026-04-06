@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm accountants processing 5\u201315 trust account reconciliations/month tool",
+  "description": "For law firm accountants processing 5\u201315 trust account reconciliations/month, manual reconciliation causes significant time loss and potential errors. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+  "target_audience": "law firm accountants processing 5\u201315 trust account reconciliations/month",
+  "problem_solved": "Manual reconciliation processes are time-consuming and prone to errors.",
+  "features": [
+    "error reporting",
+    "monthly summary generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm accountants processing 5\u201315 trust account reconciliations/month",
+    "primary_problem": "Manual reconciliation processes are time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm accountants processing 5\u201315 trust account reconciliations/month, manual reconciliation causes significant time loss and potential errors. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "error reporting",
+      "monthly summary generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm accountants processing 5\u201315 trust account reconciliations/month, manual reconciliation causes significant time loss and potential errors. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-06",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

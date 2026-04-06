@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms managing 10\u201350 clients",
+  "offer": "For accounting firms managing 10\u201350 clients, manual reconciliation of bank statements causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "problem": "manual reconciliation of bank statements leading to discrepancies",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms seeking solutions",
+    "Indie Hackers discussions on similar accounting workflows",
+    "Direct message outreach to accounting firms with demo video",
+    "Participate in community forums for accounting tools sharing"
+  ],
+  "try_it": "Let users try monthly discrepancy report generation on a few items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Store common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing client data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, delayed payment confirmations cause cash flow gaps. We aggregate invoice payment confirmations and send weekly summaries instead of manual tracking through spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Tracking payment confirmations for invoices",
+  "features": [
+    "Weekly summary reports of payment confirmations",
+    "Manual entry option for missing confirmations",
+    "Email notifications for new payment confirmations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Tracking payment confirmations for invoices",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, delayed payment confirmations cause cash flow gaps. We aggregate invoice payment confirmations and send weekly summaries instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "Weekly summary reports of payment confirmations",
+      "Manual entry option for missing confirmations",
+      "Email notifications for new payment confirmations"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, delayed payment confirmations cause cash flow gaps. We aggregate invoice payment confirmations and send weekly summaries instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

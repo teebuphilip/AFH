@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201350 invoices/month tool",
+  "description": "For accounting firms processing 10\u201350 invoices/month, manual report generation causes late client reports. We automate report creation instead of manual report creation using spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201350 invoices/month",
+  "problem_solved": "Manual report generation leads to inefficiencies and delays.",
+  "features": [
+    "custom report templates",
+    "dashboard visualization tools",
+    "data export options"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201350 invoices/month",
+    "primary_problem": "Manual report generation leads to inefficiencies and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201350 invoices/month, manual report generation causes late client reports. We automate report creation instead of manual report creation using spreadsheets.",
+    "current_alternative": "manual report creation using spreadsheets",
+    "must_have_features": [
+      "custom report templates",
+      "dashboard visualization tools",
+      "data export options"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201350 invoices/month, manual report generation causes late client reports. We automate report creation instead of manual report creation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0062",
+    "run_date": "2026-04-06",
+    "overlay_score": 63,
+    "arr_score": 62
+  }
+}

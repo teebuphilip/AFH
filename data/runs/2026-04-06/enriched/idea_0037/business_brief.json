@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project accountants processing 5\u201315 subcontractor payrolls/month tool",
+  "description": "For construction project accountants processing 5\u201315 subcontractor payrolls/month, inaccurate reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "construction project accountants processing 5\u201315 subcontractor payrolls/month",
+  "problem_solved": "Inaccurate reconciliation of subcontractor hours and payroll.",
+  "features": [
+    "manual entry of subcontractor hours",
+    "detailed reporting of discrepancies",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project accountants processing 5\u201315 subcontractor payrolls/month",
+    "primary_problem": "Inaccurate reconciliation of subcontractor hours and payroll.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project accountants processing 5\u201315 subcontractor payrolls/month, inaccurate reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "manual entry of subcontractor hours",
+      "detailed reporting of discrepancies",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project accountants processing 5\u201315 subcontractor payrolls/month, inaccurate reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-06",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, manual invoice processing causes cash flow gaps. We automate invoice collection and categorization instead of manual invoice processing and payment scheduling.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Matching invoices to purchase orders",
+  "features": [
+    "Invoice categorization",
+    "Purchase order matching",
+    "Payment schedule generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Matching invoices to purchase orders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, manual invoice processing causes cash flow gaps. We automate invoice collection and categorization instead of manual invoice processing and payment scheduling.",
+    "current_alternative": "Manual invoice processing and payment scheduling",
+    "must_have_features": [
+      "Invoice categorization",
+      "Purchase order matching",
+      "Payment schedule generation"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, manual invoice processing causes cash flow gaps. We automate invoice collection and categorization instead of manual invoice processing and payment scheduling.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

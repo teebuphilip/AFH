@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations teams in small accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR operations teams in small accounting firms processing 5\u201315 payrolls/month, manual preparation causes late filings, leading to compliance penalties. We automate payroll tax filing summaries instead of manual preparation.",
+  "target_audience": "HR operations teams in small accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Timely payroll tax filing summaries are often missed, leading to compliance issues.",
+  "features": [
+    "Generate payroll tax summaries automatically",
+    "Email summaries to HR ops teams",
+    "Provide reminders for filing deadlines"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations teams in small accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Timely payroll tax filing summaries are often missed, leading to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR operations teams in small accounting firms processing 5\u201315 payrolls/month, manual preparation causes late filings, leading to compliance penalties. We automate payroll tax filing summaries instead of manual preparation.",
+    "current_alternative": "Manual preparation of payroll tax summaries and email notifications.",
+    "must_have_features": [
+      "Generate payroll tax summaries automatically",
+      "Email summaries to HR ops teams",
+      "Provide reminders for filing deadlines"
+    ]
+  },
+  "one_liner": "For HR operations teams in small accounting firms processing 5\u201315 payrolls/month, manual preparation causes late filings, leading to compliance penalties. We automate payroll tax filing summaries instead of manual preparation.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-06",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

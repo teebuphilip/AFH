@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers at freight brokers processing 50\u2013100 shipments/month tool",
+  "description": "For logistics managers at freight brokers processing 50\u2013100 shipments/month, delivery delays cause supplier penalties. We provide real-time alerts instead of manual tracking and sporadic updates from carriers.",
+  "target_audience": "logistics managers at freight brokers processing 50\u2013100 shipments/month",
+  "problem_solved": "delays in logistics delivery times",
+  "features": [
+    "real-time delivery time monitoring",
+    "threshold alert system",
+    "manual input for shipment details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers at freight brokers processing 50\u2013100 shipments/month",
+    "primary_problem": "delays in logistics delivery times",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers at freight brokers processing 50\u2013100 shipments/month, delivery delays cause supplier penalties. We provide real-time alerts instead of manual tracking and sporadic updates from carriers.",
+    "current_alternative": "manual tracking and sporadic updates from carriers",
+    "must_have_features": [
+      "real-time delivery time monitoring",
+      "threshold alert system",
+      "manual input for shipment details"
+    ]
+  },
+  "one_liner": "For logistics managers at freight brokers processing 50\u2013100 shipments/month, delivery delays cause supplier penalties. We provide real-time alerts instead of manual tracking and sporadic updates from carriers.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-06",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "property managers manual tool",
+    "property managers manual automation",
+    "payment reminders",
+    "property managers processing 10 20 rental properties month manual tool",
+    "property managers processing 10 20 rental properties month manual automation",
+    "property managers processing 10 20 rental properties month manual workflow"
+  ],
+  "secondary_keywords": [
+    "payment reminders software",
+    "payment reminders platform",
+    "payment reminders solution"
+  ],
+  "long_tail_keywords": [
+    "how to payment reminders",
+    "best payment reminders tool",
+    "payment reminders vs spreadsheets",
+    "payment reminders checklist",
+    "payment reminders pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For property managers processing 10\u201320 rental properties/month, manual reconciliation causes cash flow gaps. We automate rent reconciliation reports instead of manual spreadsheets and accounting software.",
+    "Manual reconciliation of rent payments leads to errors and delays.",
+    "property managers processing 10\u201320 rental properties/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Payment Reminders",
+      "target_keyword": "how to payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Payment Reminders Tool",
+      "target_keyword": "best payment reminders tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Payment Reminders Vs Spreadsheets",
+      "target_keyword": "payment reminders vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Payment Reminders Checklist",
+      "target_keyword": "payment reminders checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Pricing",
+      "target_keyword": "payment reminders pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Software",
+      "target_keyword": "payment reminders software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Platform",
+      "target_keyword": "payment reminders platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Solution",
+      "target_keyword": "payment reminders solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders",
+      "target_keyword": "payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Property Managers Processing 10 20 Rental Properties Month Manual Tool",
+      "target_keyword": "property managers processing 10 20 rental properties month manual tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Processing 10 20 Rental Properties Month Manual Automation",
+      "target_keyword": "property managers processing 10 20 rental properties month manual automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Processing 10 20 Rental Properties Month Manual Workflow",
+      "target_keyword": "property managers processing 10 20 rental properties month manual workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "property managers manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "property managers manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "property managers manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "property managers manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "property managers manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | property managers tool",
+      "property managers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "property managers tool helps with manual reconciliation of rent payments leads to errors and delays."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists at clinics processing 10-20 invoices/month tool",
+  "description": "For medical billing specialists at clinics processing 10-20 invoices/month, compliance reporting delays cause cash flow gaps. We automate report generation instead of manual report preparation using spreadsheets.",
+  "target_audience": "medical billing specialists at clinics processing 10-20 invoices/month",
+  "problem_solved": "Difficulty in preparing timely and accurate billing compliance reports.",
+  "features": [
+    "template-based report generation",
+    "user-friendly interface for data input",
+    "export options for compliance documentation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists at clinics processing 10-20 invoices/month",
+    "primary_problem": "Difficulty in preparing timely and accurate billing compliance reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists at clinics processing 10-20 invoices/month, compliance reporting delays cause cash flow gaps. We automate report generation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly interface for data input",
+      "export options for compliance documentation"
+    ]
+  },
+  "one_liner": "For medical billing specialists at clinics processing 10-20 invoices/month, compliance reporting delays cause cash flow gaps. We automate report generation instead of manual report preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

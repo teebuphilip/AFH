@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small marketing agencies processing 5\u201315 invoices/month tool",
+  "description": "For procurement managers in small marketing agencies processing 5\u201315 invoices/month, missed invoice deadlines cause late payments. We provide timely alerts instead of manual tracking of invoice due dates.",
+  "target_audience": "procurement managers in small marketing agencies processing 5\u201315 invoices/month",
+  "problem_solved": "missed invoice deadlines leading to late payments",
+  "features": [
+    "weekly email alerts for upcoming invoice due dates",
+    "manual entry for vendor and invoice details",
+    "dashboard for tracking due dates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small marketing agencies processing 5\u201315 invoices/month",
+    "primary_problem": "missed invoice deadlines leading to late payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small marketing agencies processing 5\u201315 invoices/month, missed invoice deadlines cause late payments. We provide timely alerts instead of manual tracking of invoice due dates.",
+    "current_alternative": "manual tracking of invoice due dates",
+    "must_have_features": [
+      "weekly email alerts for upcoming invoice due dates",
+      "manual entry for vendor and invoice details",
+      "dashboard for tracking due dates"
+    ]
+  },
+  "one_liner": "For procurement managers in small marketing agencies processing 5\u201315 invoices/month, missed invoice deadlines cause late payments. We provide timely alerts instead of manual tracking of invoice due dates.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

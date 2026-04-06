@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized marketing agencies processing 10\u201320 vendor contracts/month tool",
+  "description": "For procurement teams in mid-sized marketing agencies processing 10\u201320 vendor contracts/month, missed compliance alerts cause supplier penalties. We provide automated scorecards instead of manual tracking and spreadsheets.",
+  "target_audience": "procurement teams in mid-sized marketing agencies processing 10\u201320 vendor contracts/month",
+  "problem_solved": "Ensuring vendor compliance with service-level agreements",
+  "features": [
+    "vendor performance scorecard generation",
+    "manual entry for vendor data",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized marketing agencies processing 10\u201320 vendor contracts/month",
+    "primary_problem": "Ensuring vendor compliance with service-level agreements",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For procurement teams in mid-sized marketing agencies processing 10\u201320 vendor contracts/month, missed compliance alerts cause supplier penalties. We provide automated scorecards instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "vendor performance scorecard generation",
+      "manual entry for vendor data",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized marketing agencies processing 10\u201320 vendor contracts/month, missed compliance alerts cause supplier penalties. We provide automated scorecards instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-06",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

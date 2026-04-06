@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "hospitality HR managers in restaurants managing 5-15 shifts/week",
+  "offer": "For hospitality HR managers in restaurants processing 5-15 shifts/week, inefficient scheduling causes staff confusion and dissatisfaction. We generate shift scheduling summaries instead of manual scheduling spreadsheets.",
+  "problem": "Inefficient shift scheduling leading to confusion and staff dissatisfaction.",
+  "channels_free": [
+    "Post in Reddit communities for hospitality HR managers",
+    "Indie Hackers discussions on scheduling tools",
+    "DM outreach to hospitality HR managers with demo video",
+    "Engage in community forums for hospitality HR managers"
+  ],
+  "try_it": "Let users try shift summary generation and exception reporting on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 rental listings/month",
+  "offer": "For property managers handling 5\u201315 rental listings/month, inefficient management causes late tenant responses. We streamline tenant applications instead of manual tracking and spreadsheets.",
+  "problem": "inefficient management of tenant applications and property listings",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Share insights on Indie Hackers about workflows",
+    "DM outreach to property managers with demo video",
+    "Engage in community forums for property management tools"
+  ],
+  "try_it": "Let users try tenant application management on 1-3 listings",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for tasks",
+    "Enable CSV import for existing tenant data",
+    "Allow one-click export of simple reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

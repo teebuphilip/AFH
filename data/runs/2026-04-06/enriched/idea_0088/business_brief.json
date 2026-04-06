@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers processing 10-20 payrolls/month tool",
+  "description": "For restaurant managers processing 10-20 payrolls/month, inefficient payroll management causes late payments. We streamline payroll processing instead of manual payroll processing using spreadsheets.",
+  "target_audience": "restaurant managers processing 10-20 payrolls/month",
+  "problem_solved": "Inefficient payroll management leading to late payments.",
+  "features": [
+    "manual payroll entry",
+    "basic inventory tracking",
+    "scheduling tool for staff"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers processing 10-20 payrolls/month",
+    "primary_problem": "Inefficient payroll management leading to late payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers processing 10-20 payrolls/month, inefficient payroll management causes late payments. We streamline payroll processing instead of manual payroll processing using spreadsheets.",
+    "current_alternative": "manual payroll processing using spreadsheets",
+    "must_have_features": [
+      "manual payroll entry",
+      "basic inventory tracking",
+      "scheduling tool for staff"
+    ]
+  },
+  "one_liner": "For restaurant managers processing 10-20 payrolls/month, inefficient payroll management causes late payments. We streamline payroll processing instead of manual payroll processing using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-06",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

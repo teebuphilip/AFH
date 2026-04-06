@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments/month tool",
+  "description": "For logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments/month, inefficient supply chain management causes delayed shipments. We provide predictive insights and optimization recommendations instead of manual tracking and analysis of supply chain data.",
+  "target_audience": "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments/month",
+  "problem_solved": "inefficient supply chain management leading to delayed shipments",
+  "features": [
+    "real-time data monitoring",
+    "basic predictive analytics",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments/month",
+    "primary_problem": "inefficient supply chain management leading to delayed shipments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments/month, inefficient supply chain management causes delayed shipments. We provide predictive insights and optimization recommendations instead of manual tracking and analysis of supply chain data.",
+    "current_alternative": "manual tracking and analysis of supply chain data",
+    "must_have_features": [
+      "real-time data monitoring",
+      "basic predictive analytics",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For logistics managers in small to medium-sized e-commerce businesses processing 10-50 shipments/month, inefficient supply chain management causes delayed shipments. We provide predictive insights and optimization recommendations instead of manual tracking and analysis of supply chain data.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-06",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

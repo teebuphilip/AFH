@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics operations managers processing 10\u201320 delivery manifests/month tool",
+  "description": "For logistics operations managers processing 10\u201320 delivery manifests/month, manual compliance reporting causes late orders and supplier penalties. We convert delivery manifests into digital compliance reports instead of manual reporting processes using spreadsheets.",
+  "target_audience": "logistics operations managers processing 10\u201320 delivery manifests/month",
+  "problem_solved": "Manual compliance reporting leads to errors and inefficiencies.",
+  "features": [
+    "manual data entry for delivery manifests",
+    "template generation for compliance reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics operations managers processing 10\u201320 delivery manifests/month",
+    "primary_problem": "Manual compliance reporting leads to errors and inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics operations managers processing 10\u201320 delivery manifests/month, manual compliance reporting causes late orders and supplier penalties. We convert delivery manifests into digital compliance reports instead of manual reporting processes using spreadsheets.",
+    "current_alternative": "manual reporting processes using spreadsheets",
+    "must_have_features": [
+      "manual data entry for delivery manifests",
+      "template generation for compliance reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics operations managers processing 10\u201320 delivery manifests/month, manual compliance reporting causes late orders and supplier penalties. We convert delivery manifests into digital compliance reports instead of manual reporting processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-06",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

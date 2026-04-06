@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firms processing 5\u201315 regulatory filings/month tool",
+  "description": "For small law firms processing 5\u201315 regulatory filings/month, missed deadlines cause penalties. We provide compliance software instead of manual tracking and filing processes.",
+  "target_audience": "small law firms processing 5\u201315 regulatory filings/month",
+  "problem_solved": "Difficulty in managing compliance deadlines and preparing regulatory filings accurately.",
+  "features": [
+    "Deadline tracking",
+    "Regulatory filing templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firms processing 5\u201315 regulatory filings/month",
+    "primary_problem": "Difficulty in managing compliance deadlines and preparing regulatory filings accurately.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For small law firms processing 5\u201315 regulatory filings/month, missed deadlines cause penalties. We provide compliance software instead of manual tracking and filing processes.",
+    "current_alternative": "manual tracking and filing processes",
+    "must_have_features": [
+      "Deadline tracking",
+      "Regulatory filing templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small law firms processing 5\u201315 regulatory filings/month, missed deadlines cause penalties. We provide compliance software instead of manual tracking and filing processes.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-06",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

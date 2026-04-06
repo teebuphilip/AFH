@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Operations Manager for Shopify stores processing 10\u201320 sales commissions/month tool",
+  "description": "For Sales Operations Managers for Shopify stores processing 10\u201320 sales commissions/month, manual reconciliation causes payout delays. We automate the reconciliation process instead of using manual spreadsheets and calculations.",
+  "target_audience": "Sales Operations Manager for Shopify stores processing 10\u201320 sales commissions/month",
+  "problem_solved": "Manual reconciliation of sales commissions leads to errors and delays in payouts.",
+  "features": [
+    "Monthly commission report generation",
+    "Error-checking for commission calculations",
+    "User-friendly dashboard for tracking commissions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Operations Manager for Shopify stores processing 10\u201320 sales commissions/month",
+    "primary_problem": "Manual reconciliation of sales commissions leads to errors and delays in payouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Managers for Shopify stores processing 10\u201320 sales commissions/month, manual reconciliation causes payout delays. We automate the reconciliation process instead of using manual spreadsheets and calculations.",
+    "current_alternative": "Manual spreadsheets and calculations",
+    "must_have_features": [
+      "Monthly commission report generation",
+      "Error-checking for commission calculations",
+      "User-friendly dashboard for tracking commissions"
+    ]
+  },
+  "one_liner": "For Sales Operations Managers for Shopify stores processing 10\u201320 sales commissions/month, manual reconciliation causes payout delays. We automate the reconciliation process instead of using manual spreadsheets and calculations.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-06",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant managers processing 5\u201315 cash transactions/day",
+  "offer": "For restaurant managers processing 5\u201315 cash transactions/day, inaccurate cash reconciliation causes cash flow gaps. We provide end-of-day cash reconciliation reports instead of manual reconciliation using spreadsheets.",
+  "problem": "Inaccurate cash reconciliation leading to cash flow gaps.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant managers",
+    "Engage in Indie Hackers discussions on cash flow",
+    "DM outreach to restaurant managers with demo video",
+    "Participate in community forums for restaurant tools"
+  ],
+  "try_it": "Let users try manual entry for cash transactions",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

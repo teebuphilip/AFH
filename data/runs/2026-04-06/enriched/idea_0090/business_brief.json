@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual bookkeeping causes cash flow gaps. We automate bookkeeping instead of manual bookkeeping and spreadsheet management.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Manual bookkeeping processes lead to errors and inefficiencies.",
+  "features": [
+    "transaction categorization",
+    "financial statement generation",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Manual bookkeeping processes lead to errors and inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual bookkeeping causes cash flow gaps. We automate bookkeeping instead of manual bookkeeping and spreadsheet management.",
+    "current_alternative": "manual bookkeeping and spreadsheet management",
+    "must_have_features": [
+      "transaction categorization",
+      "financial statement generation",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual bookkeeping causes cash flow gaps. We automate bookkeeping instead of manual bookkeeping and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-06",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

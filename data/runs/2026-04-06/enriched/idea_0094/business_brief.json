@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 20\u201350 invoices/month tool",
+  "description": "For medical clinics processing 20\u201350 invoices/month, inefficient claims processing causes cash flow gaps. We automate eligibility verification and claims filing instead of manual claims filing and eligibility checks.",
+  "target_audience": "medical clinics processing 20\u201350 invoices/month",
+  "problem_solved": "Inefficient claims processing and eligibility verification.",
+  "features": [
+    "manual eligibility verification",
+    "dashboard for tracking claims status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 20\u201350 invoices/month",
+    "primary_problem": "Inefficient claims processing and eligibility verification.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 20\u201350 invoices/month, inefficient claims processing causes cash flow gaps. We automate eligibility verification and claims filing instead of manual claims filing and eligibility checks.",
+    "current_alternative": "manual claims filing and eligibility checks",
+    "must_have_features": [
+      "manual eligibility verification",
+      "dashboard for tracking claims status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 20\u201350 invoices/month, inefficient claims processing causes cash flow gaps. We automate eligibility verification and claims filing instead of manual claims filing and eligibility checks.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-06",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

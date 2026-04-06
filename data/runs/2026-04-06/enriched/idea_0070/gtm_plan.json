@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month",
+  "offer": "For procurement teams in mid-sized accounting firms processing 10\u201320 vendor contracts/month, manual tracking causes missed renewals and supplier penalties. We streamline contract management instead of manual tracking via spreadsheets.",
+  "problem": "Difficulty in tracking contract renewals and vendor performance metrics.",
+  "channels_free": [
+    "Post in Reddit communities for procurement teams seeking solutions",
+    "Indie Hackers posts discussing similar contract management challenges",
+    "DM outreach to procurement teams with a demo video",
+    "Community forums where procurement teams share best practices"
+  ],
+  "try_it": "Let users try contract renewal reminders and performance tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Allow CSV imports for existing vendor data",
+    "Enable one-click export of simple reports",
+    "Reduce onboarding steps for new users"
+  ]
+}

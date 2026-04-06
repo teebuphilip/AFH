@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "restaurant inventory managers food tool",
+    "restaurant inventory managers food automation",
+    "restaurant inventory managers processing 10 20 invoices month food tool",
+    "restaurant inventory managers processing 10 20 invoices month food automation",
+    "restaurant inventory managers processing 10 20 invoices month food workflow"
+  ],
+  "secondary_keywords": [
+    "restaurant inventory managers processing 10 20 invoices month food tool software",
+    "restaurant inventory managers processing 10 20 invoices month food tool platform",
+    "restaurant inventory managers processing 10 20 invoices month food tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For restaurant inventory managers processing 10\u201320 invoices/month, food cost variances cause budget overruns. We monitor food cost variances and flag anomalies instead of manual tracking and spreadsheets.",
+    "Food cost variances leading to budget overruns.",
+    "restaurant inventory managers processing 10\u201320 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Restaurant Inventory Managers Processing 10 20 Invoices Month Food Tool Software",
+      "target_keyword": "restaurant inventory managers processing 10 20 invoices month food tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Inventory Managers Processing 10 20 Invoices Month Food Tool Platform",
+      "target_keyword": "restaurant inventory managers processing 10 20 invoices month food tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Inventory Managers Processing 10 20 Invoices Month Food Tool Solution",
+      "target_keyword": "restaurant inventory managers processing 10 20 invoices month food tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Inventory Managers Processing 10 20 Invoices Month Food Tool",
+      "target_keyword": "restaurant inventory managers processing 10 20 invoices month food tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Inventory Managers Processing 10 20 Invoices Month Food Automation",
+      "target_keyword": "restaurant inventory managers processing 10 20 invoices month food automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Inventory Managers Processing 10 20 Invoices Month Food Workflow",
+      "target_keyword": "restaurant inventory managers processing 10 20 invoices month food workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "restaurant inventory managers food tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "restaurant inventory managers food tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "restaurant inventory managers food tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "restaurant inventory managers food tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "restaurant inventory managers food tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | restaurant inventory managers tool",
+      "restaurant inventory managers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "restaurant inventory managers tool helps with food cost variances leading to budget overruns."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

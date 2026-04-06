@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "hospitality managers in small hotels managing 5\u201315 rooms",
+  "offer": "For hospitality managers in small hotels managing 5\u201315 rooms, inefficient inventory and payroll management causes operational delays. We streamline these processes instead of manual spreadsheets and disparate systems.",
+  "problem": "inefficient management of inventory and payroll leading to operational delays",
+  "channels_free": [
+    "Post in Reddit communities for hospitality managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to hospitality managers with demo video",
+    "Community forums for sharing tools and tips"
+  ],
+  "try_it": "Let users try simple inventory tracking and payroll management features",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Develop a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Set default reminder schedules for tasks",
+    "Enable CSV import for existing data",
+    "Provide one-click export for reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

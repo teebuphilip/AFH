@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in accounting firms processing 10\u201320 invoices/week tool",
+  "description": "For procurement teams in accounting firms processing 10\u201320 invoices/week, delayed alerts cause late orders. We automate overdue alerts instead of manual tracking of payment statuses.",
+  "target_audience": "procurement teams in accounting firms processing 10\u201320 invoices/week",
+  "problem_solved": "Overdue vendor payments due to lack of timely alerts.",
+  "features": [
+    "weekly email alerts for overdue payments",
+    "dashboard for tracking payment statuses",
+    "manual entry option for invoice updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in accounting firms processing 10\u201320 invoices/week",
+    "primary_problem": "Overdue vendor payments due to lack of timely alerts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement teams in accounting firms processing 10\u201320 invoices/week, delayed alerts cause late orders. We automate overdue alerts instead of manual tracking of payment statuses.",
+    "current_alternative": "manual tracking of payment statuses",
+    "must_have_features": [
+      "weekly email alerts for overdue payments",
+      "dashboard for tracking payment statuses",
+      "manual entry option for invoice updates"
+    ]
+  },
+  "one_liner": "For procurement teams in accounting firms processing 10\u201320 invoices/week, delayed alerts cause late orders. We automate overdue alerts instead of manual tracking of payment statuses.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-06",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

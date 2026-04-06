@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators for freight brokers processing 10-20 deliveries/week tool",
+  "description": "For logistics coordinators for freight brokers processing 10-20 deliveries/week, inefficient routing causes delayed deliveries. We provide optimized routing software instead of manual route planning and Excel spreadsheets.",
+  "target_audience": "logistics coordinators for freight brokers processing 10-20 deliveries/week",
+  "problem_solved": "Inefficient routing of delivery vehicles leading to increased fuel costs and delayed deliveries.",
+  "features": [
+    "route optimization algorithm",
+    "trip report generation",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators for freight brokers processing 10-20 deliveries/week",
+    "primary_problem": "Inefficient routing of delivery vehicles leading to increased fuel costs and delayed deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators for freight brokers processing 10-20 deliveries/week, inefficient routing causes delayed deliveries. We provide optimized routing software instead of manual route planning and Excel spreadsheets.",
+    "current_alternative": "manual route planning and Excel spreadsheets",
+    "must_have_features": [
+      "route optimization algorithm",
+      "trip report generation",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For logistics coordinators for freight brokers processing 10-20 deliveries/week, inefficient routing causes delayed deliveries. We provide optimized routing software instead of manual route planning and Excel spreadsheets.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-06",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

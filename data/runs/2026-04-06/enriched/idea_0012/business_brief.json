@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks for payroll processing 5\u201315 timesheets/month tool",
+  "description": "For freelancers using QuickBooks for payroll processing 5\u201315 timesheets/month, manual data entry causes late payments. We automate timesheet conversion instead of manual data entry into QuickBooks.",
+  "target_audience": "freelancers using QuickBooks for payroll processing 5\u201315 timesheets/month",
+  "problem_solved": "Difficulty in converting timesheet data into payroll-ready formats",
+  "features": [
+    "manual data entry interface",
+    "export to CSV format",
+    "basic timesheet validation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks for payroll processing 5\u201315 timesheets/month",
+    "primary_problem": "Difficulty in converting timesheet data into payroll-ready formats",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks for payroll processing 5\u201315 timesheets/month, manual data entry causes late payments. We automate timesheet conversion instead of manual data entry into QuickBooks.",
+    "current_alternative": "manual data entry into QuickBooks",
+    "must_have_features": [
+      "manual data entry interface",
+      "export to CSV format",
+      "basic timesheet validation"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks for payroll processing 5\u201315 timesheets/month, manual data entry causes late payments. We automate timesheet conversion instead of manual data entry into QuickBooks.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-06",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}
