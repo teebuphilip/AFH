@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant finance managers processing 5\u201315 invoices/day tool",
+  "description": "For restaurant finance managers processing 5\u201315 invoices/day, inaccurate cash flow reporting causes financial discrepancies. We provide daily cash reconciliation reports instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "restaurant finance managers processing 5\u201315 invoices/day",
+  "problem_solved": "Inaccurate cash flow reporting leads to financial discrepancies.",
+  "features": [
+    "Daily cash report generation",
+    "Error-checking for discrepancies",
+    "User-friendly dashboard for insights"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant finance managers processing 5\u201315 invoices/day",
+    "primary_problem": "Inaccurate cash flow reporting leads to financial discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant finance managers processing 5\u201315 invoices/day, inaccurate cash flow reporting causes financial discrepancies. We provide daily cash reconciliation reports instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "Daily cash report generation",
+      "Error-checking for discrepancies",
+      "User-friendly dashboard for insights"
+    ]
+  },
+  "one_liner": "For restaurant finance managers processing 5\u201315 invoices/day, inaccurate cash flow reporting causes financial discrepancies. We provide daily cash reconciliation reports instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-07",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

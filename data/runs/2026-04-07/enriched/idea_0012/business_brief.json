@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR finance teams in small marketing agencies processing 5\u201315 expense reports/month tool",
+  "description": "For HR finance teams in small marketing agencies processing 5\u201315 expense reports/month, discrepancies cause cash flow gaps. We reconcile expense reports with credit card statements instead of manual reconciliation processes.",
+  "target_audience": "HR finance teams in small marketing agencies processing 5\u201315 expense reports/month",
+  "problem_solved": "Discrepancies between employee expense reports and credit card statements",
+  "features": [
+    "manual entry for expense reports",
+    "discrepancy flagging",
+    "exportable reports for review"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR finance teams in small marketing agencies processing 5\u201315 expense reports/month",
+    "primary_problem": "Discrepancies between employee expense reports and credit card statements",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR finance teams in small marketing agencies processing 5\u201315 expense reports/month, discrepancies cause cash flow gaps. We reconcile expense reports with credit card statements instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry for expense reports",
+      "discrepancy flagging",
+      "exportable reports for review"
+    ]
+  },
+  "one_liner": "For HR finance teams in small marketing agencies processing 5\u201315 expense reports/month, discrepancies cause cash flow gaps. We reconcile expense reports with credit card statements instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

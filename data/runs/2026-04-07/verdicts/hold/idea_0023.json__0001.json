@@ -1,0 +1,16 @@
+{
+  "idea_text": "Automation that reconciles supplier credit notes against outstanding invoices and reports to accounts payable leads.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 66,
+  "arr_score": 64,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-07T10:31:30.271988",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

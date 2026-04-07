@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 10-20 compliance audits/month tool",
+  "description": "For insurance brokers processing 10-20 compliance audits/month, manual report generation causes delays in compliance checks. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "insurance brokers processing 10-20 compliance audits/month",
+  "problem_solved": "Difficulty in generating timely compliance audit reports for underwriting teams.",
+  "features": [
+    "template-based report generation",
+    "user-friendly interface for data input",
+    "monthly report scheduling"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 10-20 compliance audits/month",
+    "primary_problem": "Difficulty in generating timely compliance audit reports for underwriting teams.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 10-20 compliance audits/month, manual report generation causes delays in compliance checks. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly interface for data input",
+      "monthly report scheduling"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10-20 compliance audits/month, manual report generation causes delays in compliance checks. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-07",
+    "overlay_score": 78,
+    "arr_score": 81
+  }
+}

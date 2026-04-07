@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 leases/month tool",
+  "description": "For property managers processing 10-20 leases/month, missed inspections cause tenant dissatisfaction. We automate reminders instead of manual tracking through spreadsheets.",
+  "target_audience": "property managers handling 10-20 leases/month",
+  "problem_solved": "Missed inspections and lease renewals",
+  "features": [
+    "dashboard for tracking lease statuses",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 leases/month",
+    "primary_problem": "Missed inspections and lease renewals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 leases/month, missed inspections cause tenant dissatisfaction. We automate reminders instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "dashboard for tracking lease statuses",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 leases/month, missed inspections cause tenant dissatisfaction. We automate reminders instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-07",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

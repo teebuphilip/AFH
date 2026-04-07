@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 10\u201320 claims/week tool",
+  "description": "For insurance adjusters processing 10\u201320 claims/week, lack of timely updates causes workflow inefficiencies. We generate weekly claims status reports instead of manual tracking through emails and spreadsheets.",
+  "target_audience": "insurance adjusters processing 10\u201320 claims/week",
+  "problem_solved": "Lack of timely updates on claims status leads to inefficient workflow.",
+  "features": [
+    "email notifications for report availability",
+    "user-friendly dashboard for report access",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 10\u201320 claims/week",
+    "primary_problem": "Lack of timely updates on claims status leads to inefficient workflow.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 10\u201320 claims/week, lack of timely updates causes workflow inefficiencies. We generate weekly claims status reports instead of manual tracking through emails and spreadsheets.",
+    "current_alternative": "manual tracking of claims status through emails and spreadsheets",
+    "must_have_features": [
+      "email notifications for report availability",
+      "user-friendly dashboard for report access",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 10\u201320 claims/week, lack of timely updates causes workflow inefficiencies. We generate weekly claims status reports instead of manual tracking through emails and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0027",
+    "run_date": "2026-04-07",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

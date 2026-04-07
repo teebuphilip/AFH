@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators processing 10\u201320 invoices/month tool",
+  "description": "For logistics coordinators processing 10\u201320 invoices/month, billing errors cause cash flow gaps. We validate carrier invoices instead of manual invoice verification.",
+  "target_audience": "logistics coordinators processing 10\u201320 invoices/month",
+  "problem_solved": "Frequent billing errors in carrier invoices.",
+  "features": [
+    "manual invoice entry",
+    "error flagging system",
+    "report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators processing 10\u201320 invoices/month",
+    "primary_problem": "Frequent billing errors in carrier invoices.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators processing 10\u201320 invoices/month, billing errors cause cash flow gaps. We validate carrier invoices instead of manual invoice verification.",
+    "current_alternative": "manual invoice verification",
+    "must_have_features": [
+      "manual invoice entry",
+      "error flagging system",
+      "report generation"
+    ]
+  },
+  "one_liner": "For logistics coordinators processing 10\u201320 invoices/month, billing errors cause cash flow gaps. We validate carrier invoices instead of manual invoice verification.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-07",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

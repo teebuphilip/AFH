@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, payment delays cause cash flow gaps. We provide a vendor portal instead of manual tracking of invoices and payments.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Delays in payment processing",
+  "features": [
+    "Invoice submission form",
+    "Payment status tracking dashboard",
+    "Email notifications for payment updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Delays in payment processing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, payment delays cause cash flow gaps. We provide a vendor portal instead of manual tracking of invoices and payments.",
+    "current_alternative": "Manual tracking of invoices and payments",
+    "must_have_features": [
+      "Invoice submission form",
+      "Payment status tracking dashboard",
+      "Email notifications for payment updates"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, payment delays cause cash flow gaps. We provide a vendor portal instead of manual tracking of invoices and payments.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-07",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

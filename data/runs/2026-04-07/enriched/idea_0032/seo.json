@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "law firm bookkeepers inaccurate tool",
+    "law firm bookkeepers inaccurate automation",
+    "law firm bookkeepers processing 5 15 trust account transactions month inaccurate tool",
+    "law firm bookkeepers processing 5 15 trust account transactions month inaccurate automation",
+    "law firm bookkeepers processing 5 15 trust account transactions month inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "law firm bookkeepers processing 5 15 trust account transactions month inaccurate tool software",
+    "law firm bookkeepers processing 5 15 trust account transactions month inaccurate tool platform",
+    "law firm bookkeepers processing 5 15 trust account transactions month inaccurate tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For law firm bookkeepers processing 5\u201315 trust account transactions/month, inaccurate reconciliation causes compliance issues. We automate reconciliation instead of manual reconciliation processes.",
+    "Inaccurate reconciliation of trust account transactions",
+    "law firm bookkeepers processing 5\u201315 trust account transactions/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Law Firm Bookkeepers Processing 5 15 Trust Account Transactions Month Inaccurate Tool Software",
+      "target_keyword": "law firm bookkeepers processing 5 15 trust account transactions month inaccurate tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Law Firm Bookkeepers Processing 5 15 Trust Account Transactions Month Inaccurate Tool Platform",
+      "target_keyword": "law firm bookkeepers processing 5 15 trust account transactions month inaccurate tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Law Firm Bookkeepers Processing 5 15 Trust Account Transactions Month Inaccurate Tool Solution",
+      "target_keyword": "law firm bookkeepers processing 5 15 trust account transactions month inaccurate tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Law Firm Bookkeepers Processing 5 15 Trust Account Transactions Month Inaccurate Tool",
+      "target_keyword": "law firm bookkeepers processing 5 15 trust account transactions month inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Law Firm Bookkeepers Processing 5 15 Trust Account Transactions Month Inaccurate Automation",
+      "target_keyword": "law firm bookkeepers processing 5 15 trust account transactions month inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Law Firm Bookkeepers Processing 5 15 Trust Account Transactions Month Inaccurate Workflow",
+      "target_keyword": "law firm bookkeepers processing 5 15 trust account transactions month inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "law firm bookkeepers inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "law firm bookkeepers inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "law firm bookkeepers inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "law firm bookkeepers inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "law firm bookkeepers inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | law firm bookkeepers tool",
+      "law firm bookkeepers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "law firm bookkeepers tool helps with inaccurate reconciliation of trust account transactions."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

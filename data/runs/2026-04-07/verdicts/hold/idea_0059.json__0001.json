@@ -1,0 +1,15 @@
+{
+  "idea_text": "Accounts receivable dashboard that visualizes outstanding payments and aging for finance departments.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 55,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-07T10:31:30.277618",
+  "verdict_source": "overlay_score"
+}

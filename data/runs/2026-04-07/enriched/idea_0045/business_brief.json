@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet managers overseeing 10-50 vehicles tool",
+  "description": "For fleet managers overseeing 10-50 vehicles, inconsistent maintenance scheduling causes unexpected breakdowns. We automate follow-up maintenance scheduling instead of manual tracking of maintenance schedules and inspection reports.",
+  "target_audience": "fleet managers overseeing 10-50 vehicles",
+  "problem_solved": "Inconsistent vehicle maintenance scheduling leads to unexpected breakdowns.",
+  "features": [
+    "manual entry of inspection reports",
+    "simple dashboard for tracking vehicle status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet managers overseeing 10-50 vehicles",
+    "primary_problem": "Inconsistent vehicle maintenance scheduling leads to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet managers overseeing 10-50 vehicles, inconsistent maintenance scheduling causes unexpected breakdowns. We automate follow-up maintenance scheduling instead of manual tracking of maintenance schedules and inspection reports.",
+    "current_alternative": "manual tracking of maintenance schedules and inspection reports",
+    "must_have_features": [
+      "manual entry of inspection reports",
+      "simple dashboard for tracking vehicle status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet managers overseeing 10-50 vehicles, inconsistent maintenance scheduling causes unexpected breakdowns. We automate follow-up maintenance scheduling instead of manual tracking of maintenance schedules and inspection reports.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-07",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

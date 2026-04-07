@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, manual report generation causes late orders and missed discounts. We automate the conversion of delivery receipts into formatted reports instead of manual entry into spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Manual processing of vendor delivery receipts leads to time-consuming report generation.",
+  "features": [
+    "Receipt scanning for data extraction",
+    "Template-based report formatting",
+    "Email notifications for report availability"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Manual processing of vendor delivery receipts leads to time-consuming report generation.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, manual report generation causes late orders and missed discounts. We automate the conversion of delivery receipts into formatted reports instead of manual entry into spreadsheets.",
+    "current_alternative": "Manual entry into spreadsheets",
+    "must_have_features": [
+      "Receipt scanning for data extraction",
+      "Template-based report formatting",
+      "Email notifications for report availability"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, manual report generation causes late orders and missed discounts. We automate the conversion of delivery receipts into formatted reports instead of manual entry into spreadsheets.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-07",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

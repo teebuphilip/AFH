@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility bills/month tool",
+  "description": "For property managers processing 5\u201315 utility bills/month, unexpected high costs cause budget overruns. We provide automated anomaly detection instead of manual tracking of utility bills and energy usage.",
+  "target_audience": "property managers processing 5\u201315 utility bills/month",
+  "problem_solved": "Inability to track energy usage anomalies leads to unexpected high utility costs.",
+  "features": [
+    "manual entry of utility bills",
+    "anomaly notification system",
+    "monthly usage summary reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility bills/month",
+    "primary_problem": "Inability to track energy usage anomalies leads to unexpected high utility costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 utility bills/month, unexpected high costs cause budget overruns. We provide automated anomaly detection instead of manual tracking of utility bills and energy usage.",
+    "current_alternative": "manual tracking of utility bills and energy usage",
+    "must_have_features": [
+      "manual entry of utility bills",
+      "anomaly notification system",
+      "monthly usage summary reports"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 utility bills/month, unexpected high costs cause budget overruns. We provide automated anomaly detection instead of manual tracking of utility bills and energy usage.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm partners processing 5\u201315 invoices/month tool",
+  "description": "For law firm partners processing 5\u201315 invoices/month, inefficient client engagement tracking causes missed billing opportunities. We provide automated reporting instead of manual tracking and reporting through spreadsheets.",
+  "target_audience": "law firm partners processing 5\u201315 invoices/month",
+  "problem_solved": "Inability to track client engagement effectively leads to missed billing opportunities.",
+  "features": [
+    "client engagement tracking",
+    "customizable billing templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm partners processing 5\u201315 invoices/month",
+    "primary_problem": "Inability to track client engagement effectively leads to missed billing opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm partners processing 5\u201315 invoices/month, inefficient client engagement tracking causes missed billing opportunities. We provide automated reporting instead of manual tracking and reporting through spreadsheets.",
+    "current_alternative": "manual tracking and reporting through spreadsheets",
+    "must_have_features": [
+      "client engagement tracking",
+      "customizable billing templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm partners processing 5\u201315 invoices/month, inefficient client engagement tracking causes missed billing opportunities. We provide automated reporting instead of manual tracking and reporting through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-07",
+    "overlay_score": 52,
+    "arr_score": 52
+  }
+}

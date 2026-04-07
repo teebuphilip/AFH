@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical office managers processing 10\u201320 appointments/week tool",
+  "description": "For medical office managers processing 10\u201320 appointments/week, high no-show rates cause wasted resources. We generate automated weekly no-show reports instead of manual tracking through spreadsheets.",
+  "target_audience": "medical office managers processing 10\u201320 appointments/week",
+  "problem_solved": "High rate of appointment no-shows leading to wasted resources and scheduling inefficiencies.",
+  "features": [
+    "customizable report frequency",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical office managers processing 10\u201320 appointments/week",
+    "primary_problem": "High rate of appointment no-shows leading to wasted resources and scheduling inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical office managers processing 10\u201320 appointments/week, high no-show rates cause wasted resources. We generate automated weekly no-show reports instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking of no-shows through spreadsheets",
+    "must_have_features": [
+      "customizable report frequency",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical office managers processing 10\u201320 appointments/week, high no-show rates cause wasted resources. We generate automated weekly no-show reports instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-07",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause supplier penalties. We provide timely alerts instead of manual tracking of payment due dates.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Missed payment deadlines leading to late orders and supplier penalties.",
+  "features": [
+    "Due date reminders via email",
+    "Dashboard for tracking upcoming payments",
+    "Simple setup for invoice entry"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Missed payment deadlines leading to late orders and supplier penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause supplier penalties. We provide timely alerts instead of manual tracking of payment due dates.",
+    "current_alternative": "manual tracking of payment due dates",
+    "must_have_features": [
+      "Due date reminders via email",
+      "Dashboard for tracking upcoming payments",
+      "Simple setup for invoice entry"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause supplier penalties. We provide timely alerts instead of manual tracking of payment due dates.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-07",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

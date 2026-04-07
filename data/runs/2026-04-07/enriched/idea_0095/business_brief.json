@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hotel managers managing 20-50 employees tool",
+  "description": "For hotel managers processing 20-50 employee shifts, inefficient scheduling causes staffing shortages. We streamline shift management instead of manual scheduling via spreadsheets.",
+  "target_audience": "hotel managers managing 20-50 employees",
+  "problem_solved": "inefficient shift scheduling and time-off management",
+  "features": [
+    "shift scheduling interface",
+    "time-off request management",
+    "employee availability tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hotel managers managing 20-50 employees",
+    "primary_problem": "inefficient shift scheduling and time-off management",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hotel managers processing 20-50 employee shifts, inefficient scheduling causes staffing shortages. We streamline shift management instead of manual scheduling via spreadsheets.",
+    "current_alternative": "manual scheduling via spreadsheets",
+    "must_have_features": [
+      "shift scheduling interface",
+      "time-off request management",
+      "employee availability tracking"
+    ]
+  },
+  "one_liner": "For hotel managers processing 20-50 employee shifts, inefficient scheduling causes staffing shortages. We streamline shift management instead of manual scheduling via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

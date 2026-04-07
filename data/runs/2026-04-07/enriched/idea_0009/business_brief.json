@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For small accounting firms processing 5\u201315 invoices/month, manual categorization causes cash flow gaps. We convert raw bank transaction data into categorized cash flow reports instead of manual categorization using spreadsheets.",
+  "target_audience": "small accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in categorizing cash flow from raw bank transactions.",
+  "features": [
+    "manual data entry for transactions",
+    "customizable categorization options",
+    "exportable cash flow reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in categorizing cash flow from raw bank transactions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small accounting firms processing 5\u201315 invoices/month, manual categorization causes cash flow gaps. We convert raw bank transaction data into categorized cash flow reports instead of manual categorization using spreadsheets.",
+    "current_alternative": "manual categorization using spreadsheets",
+    "must_have_features": [
+      "manual data entry for transactions",
+      "customizable categorization options",
+      "exportable cash flow reports"
+    ]
+  },
+  "one_liner": "For small accounting firms processing 5\u201315 invoices/month, manual categorization causes cash flow gaps. We convert raw bank transaction data into categorized cash flow reports instead of manual categorization using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-07",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

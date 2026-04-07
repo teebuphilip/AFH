@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers overseeing 5\u201315 properties tool",
+  "description": "For property managers overseeing 5\u201315 properties, inefficient tracking of maintenance schedules causes late work orders. We automate work order generation instead of manual tracking via spreadsheets.",
+  "target_audience": "property managers overseeing 5\u201315 properties",
+  "problem_solved": "inefficient tracking of maintenance schedules",
+  "features": [
+    "schedule monitoring",
+    "work order generation",
+    "notification system for upcoming maintenance"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers overseeing 5\u201315 properties",
+    "primary_problem": "inefficient tracking of maintenance schedules",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers overseeing 5\u201315 properties, inefficient tracking of maintenance schedules causes late work orders. We automate work order generation instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "schedule monitoring",
+      "work order generation",
+      "notification system for upcoming maintenance"
+    ]
+  },
+  "one_liner": "For property managers overseeing 5\u201315 properties, inefficient tracking of maintenance schedules causes late work orders. We automate work order generation instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-07",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations managers in marketing agencies processing 10-20 leads/week tool",
+  "description": "For sales operations managers in marketing agencies processing 10-20 leads/week, inefficient lead identification causes missed sales opportunities. We automate lead scoring instead of manual lead scoring and tracking.",
+  "target_audience": "sales operations managers in marketing agencies processing 10-20 leads/week",
+  "problem_solved": "Inefficient lead identification in sales pipeline",
+  "features": [
+    "Lead activity tracking",
+    "Dashboard for high-potential leads",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations managers in marketing agencies processing 10-20 leads/week",
+    "primary_problem": "Inefficient lead identification in sales pipeline",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations managers in marketing agencies processing 10-20 leads/week, inefficient lead identification causes missed sales opportunities. We automate lead scoring instead of manual lead scoring and tracking.",
+    "current_alternative": "manual lead scoring and tracking",
+    "must_have_features": [
+      "Lead activity tracking",
+      "Dashboard for high-potential leads",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For sales operations managers in marketing agencies processing 10-20 leads/week, inefficient lead identification causes missed sales opportunities. We automate lead scoring instead of manual lead scoring and tracking.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-07",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

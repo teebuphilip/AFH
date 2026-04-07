@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 quarterly tax filings tool",
+  "description": "For accounting firms processing 5\u201315 quarterly tax filings, manual preparation causes late submissions and penalties. We automate the preparation instead of manual tax preparation processes.",
+  "target_audience": "accounting firms processing 5\u201315 quarterly tax filings",
+  "problem_solved": "Manual preparation of quarterly tax filings is time-consuming and error-prone.",
+  "features": [
+    "user-friendly interface for data entry",
+    "export functionality for filing submissions",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 quarterly tax filings",
+    "primary_problem": "Manual preparation of quarterly tax filings is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 quarterly tax filings, manual preparation causes late submissions and penalties. We automate the preparation instead of manual tax preparation processes.",
+    "current_alternative": "manual tax preparation processes",
+    "must_have_features": [
+      "user-friendly interface for data entry",
+      "export functionality for filing submissions",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 quarterly tax filings, manual preparation causes late submissions and penalties. We automate the preparation instead of manual tax preparation processes.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

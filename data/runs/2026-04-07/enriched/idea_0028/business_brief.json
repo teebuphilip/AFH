@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "field service technicians in home services managing 5\u201315 maintenance checks/month tool",
+  "description": "For field service technicians in home services processing 5\u201315 maintenance checks/month, missed maintenance checks cause equipment failures. We automate scheduling and reminders instead of manual scheduling and reminders via phone or paper.",
+  "target_audience": "field service technicians in home services managing 5\u201315 maintenance checks/month",
+  "problem_solved": "missed maintenance checks leading to equipment failures",
+  "features": [
+    "reminder notifications for upcoming checks",
+    "manual entry option for additional tasks",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "field service technicians in home services managing 5\u201315 maintenance checks/month",
+    "primary_problem": "missed maintenance checks leading to equipment failures",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For field service technicians in home services processing 5\u201315 maintenance checks/month, missed maintenance checks cause equipment failures. We automate scheduling and reminders instead of manual scheduling and reminders via phone or paper.",
+    "current_alternative": "manual scheduling and reminders via phone or paper",
+    "must_have_features": [
+      "reminder notifications for upcoming checks",
+      "manual entry option for additional tasks",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For field service technicians in home services processing 5\u201315 maintenance checks/month, missed maintenance checks cause equipment failures. We automate scheduling and reminders instead of manual scheduling and reminders via phone or paper.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-07",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

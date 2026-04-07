@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "fleet operations managers processing 5\u201315 fuel reports/month",
+  "offer": "For fleet operations managers processing 5\u201315 fuel reports/month, inaccurate fuel consumption reporting causes budget overruns. We automate report generation instead of manual compilation of reports using spreadsheets.",
+  "problem": "Inaccurate fuel consumption reporting leads to budget overruns.",
+  "channels_free": [
+    "Post in Reddit communities for fleet operations managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to fleet managers with demo video",
+    "Community forums for sharing fleet management tools"
+  ],
+  "try_it": "Let users try manual data entry for fuel reports",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding to first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Default reminder schedule for reports",
+    "CSV import option for existing data",
+    "One-click export feature for reports",
+    "Streamline onboarding process for new users"
+  ]
+}

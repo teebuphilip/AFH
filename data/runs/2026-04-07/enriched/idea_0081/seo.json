@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "restaurant owners complexity tool",
+    "restaurant owners complexity automation",
+    "restaurant owners processing 5 15 liquor license applications month complexity tool",
+    "restaurant owners processing 5 15 liquor license applications month complexity automation",
+    "restaurant owners processing 5 15 liquor license applications month complexity workflow"
+  ],
+  "secondary_keywords": [
+    "restaurant owners processing 5 15 liquor license applications month complexity tool software",
+    "restaurant owners processing 5 15 liquor license applications month complexity tool platform",
+    "restaurant owners processing 5 15 liquor license applications month complexity tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For restaurant owners processing 5\u201315 liquor license applications/month, the complexity of paperwork causes delays in opening. We automate the application generation instead of manual application processes and paperwork.",
+    "Complexity and time consumption in generating liquor license applications.",
+    "restaurant owners processing 5\u201315 liquor license applications/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Restaurant Owners Processing 5 15 Liquor License Applications Month Complexity Tool Software",
+      "target_keyword": "restaurant owners processing 5 15 liquor license applications month complexity tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Owners Processing 5 15 Liquor License Applications Month Complexity Tool Platform",
+      "target_keyword": "restaurant owners processing 5 15 liquor license applications month complexity tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Owners Processing 5 15 Liquor License Applications Month Complexity Tool Solution",
+      "target_keyword": "restaurant owners processing 5 15 liquor license applications month complexity tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Owners Processing 5 15 Liquor License Applications Month Complexity Tool",
+      "target_keyword": "restaurant owners processing 5 15 liquor license applications month complexity tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Owners Processing 5 15 Liquor License Applications Month Complexity Automation",
+      "target_keyword": "restaurant owners processing 5 15 liquor license applications month complexity automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Owners Processing 5 15 Liquor License Applications Month Complexity Workflow",
+      "target_keyword": "restaurant owners processing 5 15 liquor license applications month complexity workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "restaurant owners complexity tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "restaurant owners complexity tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "restaurant owners complexity tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "restaurant owners complexity tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "restaurant owners complexity tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | restaurant owners tool",
+      "restaurant owners tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "restaurant owners tool helps with complexity and time consumption in generating liquor license applications."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

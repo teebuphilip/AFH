@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, missing or late payroll tax submissions cause compliance penalties. We provide automated alerts instead of manual tracking of payroll tax deadlines.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "missing or late payroll tax submissions",
+  "features": [
+    "alert system for upcoming deadlines",
+    "dashboard for tracking submissions",
+    "manual entry option for late submissions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "missing or late payroll tax submissions",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, missing or late payroll tax submissions cause compliance penalties. We provide automated alerts instead of manual tracking of payroll tax deadlines.",
+    "current_alternative": "manual tracking of payroll tax deadlines",
+    "must_have_features": [
+      "alert system for upcoming deadlines",
+      "dashboard for tracking submissions",
+      "manual entry option for late submissions"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, missing or late payroll tax submissions cause compliance penalties. We provide automated alerts instead of manual tracking of payroll tax deadlines.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-07",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

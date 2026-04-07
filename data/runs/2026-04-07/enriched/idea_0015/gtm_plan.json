@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounts payable supervisors in small accounting firms processing 5\u201315 invoices/month",
+  "offer": "For accounts payable supervisors in small accounting firms processing 5\u201315 invoices/month, manual tracking causes delays in resolving disputes. We provide weekly summaries instead of manual tracking through spreadsheets and emails.",
+  "problem": "Difficulty in tracking and resolving vendor disputes in a timely manner.",
+  "channels_free": [
+    "Post in Reddit communities for accounts payable supervisors",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to accounts payable supervisors with demo video",
+    "Community forums where supervisors share tools"
+  ],
+  "try_it": "Let users try Email notifications and User-friendly dashboard for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

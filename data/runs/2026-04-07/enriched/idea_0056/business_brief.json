@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement officers in mid-sized companies processing 10-20 invoices/month tool",
+  "description": "For procurement officers in mid-sized companies processing 10-20 invoices/month, inconsistent delivery times cause supplier penalties. We provide a vendor performance tracker instead of manual tracking via spreadsheets.",
+  "target_audience": "procurement officers in mid-sized companies processing 10-20 invoices/month",
+  "problem_solved": "Inconsistent delivery times and quality from vendors",
+  "features": [
+    "manual entry of delivery times",
+    "quality rating system for vendors",
+    "report generation for performance metrics"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement officers in mid-sized companies processing 10-20 invoices/month",
+    "primary_problem": "Inconsistent delivery times and quality from vendors",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement officers in mid-sized companies processing 10-20 invoices/month, inconsistent delivery times cause supplier penalties. We provide a vendor performance tracker instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry of delivery times",
+      "quality rating system for vendors",
+      "report generation for performance metrics"
+    ]
+  },
+  "one_liner": "For procurement officers in mid-sized companies processing 10-20 invoices/month, inconsistent delivery times cause supplier penalties. We provide a vendor performance tracker instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-07",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

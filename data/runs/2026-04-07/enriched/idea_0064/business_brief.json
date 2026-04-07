@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using Upwork processing 5\u201315 timesheets/week tool",
+  "description": "For freelancers using Upwork processing 5\u201315 timesheets/week, inconsistent tracking causes payment delays. We provide a timesheet consolidation app instead of manual tracking via spreadsheets.",
+  "target_audience": "freelancers using Upwork processing 5\u201315 timesheets/week",
+  "problem_solved": "Inconsistent tracking of hours worked across multiple clients",
+  "features": [
+    "manual entry of hours worked",
+    "simple dashboard for viewing hours",
+    "export functionality for payroll"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using Upwork processing 5\u201315 timesheets/week",
+    "primary_problem": "Inconsistent tracking of hours worked across multiple clients",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using Upwork processing 5\u201315 timesheets/week, inconsistent tracking causes payment delays. We provide a timesheet consolidation app instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry of hours worked",
+      "simple dashboard for viewing hours",
+      "export functionality for payroll"
+    ]
+  },
+  "one_liner": "For freelancers using Upwork processing 5\u201315 timesheets/week, inconsistent tracking causes payment delays. We provide a timesheet consolidation app instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

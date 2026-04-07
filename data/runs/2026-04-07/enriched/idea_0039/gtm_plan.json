@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small law firms processing 5\u201315 invoices/month",
+  "offer": "For small law firms processing 5\u201315 invoices/month, inefficient billing reconciliation causes cash flow gaps. We automate client billing reconciliation instead of manual reconciliation using spreadsheets.",
+  "problem": "inefficient billing reconciliation leading to cash flow gaps",
+  "channels_free": [
+    "Post in Reddit communities for small law firms",
+    "Indie Hackers discussions on billing tools",
+    "DM outreach to small law firms with demo video",
+    "Engage in community forums for legal tools"
+  ],
+  "try_it": "Let users try manual entry for invoice details and summaries",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing invoice data",
+    "Enable one-click export of summary reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

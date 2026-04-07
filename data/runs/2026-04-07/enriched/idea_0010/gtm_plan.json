@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201320 purchase orders/month",
+  "offer": "For Amazon sellers processing 10\u201320 invoices/month, delays in purchase order approvals cause late shipments. We provide real-time alerts instead of manual tracking.",
+  "problem": "Delays in purchase order approvals causing late shipments.",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Indie Hackers discussions on workflow improvements",
+    "DM outreach to Amazon sellers with demo video",
+    "Community forums for Amazon sellers sharing tools"
+  ],
+  "try_it": "Let users try real-time alert notifications for purchase orders.",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with one-liner",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click report exports",
+    "Simplify onboarding steps"
+  ]
+}

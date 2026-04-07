@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant owners processing 5\u201315 liquor license applications/month tool",
+  "description": "For restaurant owners processing 5\u201315 liquor license applications/month, the complexity of paperwork causes delays in opening. We automate the application generation instead of manual application processes and paperwork.",
+  "target_audience": "restaurant owners processing 5\u201315 liquor license applications/month",
+  "problem_solved": "Complexity and time consumption in generating liquor license applications.",
+  "features": [
+    "template-based application generation",
+    "status tracking for applications",
+    "user-friendly interface for data entry"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant owners processing 5\u201315 liquor license applications/month",
+    "primary_problem": "Complexity and time consumption in generating liquor license applications.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant owners processing 5\u201315 liquor license applications/month, the complexity of paperwork causes delays in opening. We automate the application generation instead of manual application processes and paperwork.",
+    "current_alternative": "manual application processes and paperwork",
+    "must_have_features": [
+      "template-based application generation",
+      "status tracking for applications",
+      "user-friendly interface for data entry"
+    ]
+  },
+  "one_liner": "For restaurant owners processing 5\u201315 liquor license applications/month, the complexity of paperwork causes delays in opening. We automate the application generation instead of manual application processes and paperwork.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-07",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

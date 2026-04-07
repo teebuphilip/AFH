@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR teams in tech startups using Greenhouse for hiring tool",
+  "description": "For HR teams in tech startups processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire productivity. We provide an onboarding checklist generator instead of manual onboarding checklists and spreadsheets.",
+  "target_audience": "HR teams in tech startups using Greenhouse for hiring",
+  "problem_solved": "Inefficient onboarding processes leading to delays in new hire productivity.",
+  "features": [
+    "customizable onboarding templates",
+    "progress tracking for new hires",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR teams in tech startups using Greenhouse for hiring",
+    "primary_problem": "Inefficient onboarding processes leading to delays in new hire productivity.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR teams in tech startups processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire productivity. We provide an onboarding checklist generator instead of manual onboarding checklists and spreadsheets.",
+    "current_alternative": "manual onboarding checklists and spreadsheets",
+    "must_have_features": [
+      "customizable onboarding templates",
+      "progress tracking for new hires",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR teams in tech startups processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire productivity. We provide an onboarding checklist generator instead of manual onboarding checklists and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 66
+  }
+}

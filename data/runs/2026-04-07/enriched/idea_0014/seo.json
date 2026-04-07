@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "amazon sellers manual tool",
+    "amazon sellers manual automation",
+    "amazon sellers processing 10 20 invoices month manual tool",
+    "amazon sellers processing 10 20 invoices month manual automation",
+    "amazon sellers processing 10 20 invoices month manual workflow"
+  ],
+  "secondary_keywords": [
+    "amazon sellers processing 10 20 invoices month manual tool software",
+    "amazon sellers processing 10 20 invoices month manual tool platform",
+    "amazon sellers processing 10 20 invoices month manual tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Amazon sellers processing 10\u201320 invoices/month, manual report generation causes late orders and missed discounts. We automate the conversion of delivery receipts into formatted reports instead of manual entry into spreadsheets.",
+    "Manual processing of vendor delivery receipts leads to time-consuming report generation.",
+    "Amazon sellers processing 10\u201320 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Manual Tool Software",
+      "target_keyword": "amazon sellers processing 10 20 invoices month manual tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Manual Tool Platform",
+      "target_keyword": "amazon sellers processing 10 20 invoices month manual tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Manual Tool Solution",
+      "target_keyword": "amazon sellers processing 10 20 invoices month manual tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Manual Tool",
+      "target_keyword": "amazon sellers processing 10 20 invoices month manual tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Manual Automation",
+      "target_keyword": "amazon sellers processing 10 20 invoices month manual automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Manual Workflow",
+      "target_keyword": "amazon sellers processing 10 20 invoices month manual workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "amazon sellers manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "amazon sellers manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "amazon sellers manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "amazon sellers manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "amazon sellers manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | amazon sellers tool",
+      "amazon sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "amazon sellers tool helps with manual processing of vendor delivery receipts leads to time-consuming report generation."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

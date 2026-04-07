@@ -1,0 +1,15 @@
+{
+  "idea_text": "Vendor contract manager that stores terms, expiration dates, and renewal reminders for procurement.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 55,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-07T10:31:30.278392",
+  "verdict_source": "overlay_score"
+}

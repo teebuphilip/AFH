@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firms frequent tool",
+    "accounting firms frequent automation",
+    "accounting firms processing 10 50 payrolls month frequent tool",
+    "accounting firms processing 10 50 payrolls month frequent automation",
+    "accounting firms processing 10 50 payrolls month frequent workflow"
+  ],
+  "secondary_keywords": [
+    "accounting firms processing 10 50 payrolls month frequent tool software",
+    "accounting firms processing 10 50 payrolls month frequent tool platform",
+    "accounting firms processing 10 50 payrolls month frequent tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firms processing 10\u201350 payrolls/month, payroll errors cause client dissatisfaction and potential penalties. We monitor payroll anomalies instead of manual payroll checks and reconciliations.",
+    "frequent payroll errors leading to client dissatisfaction and potential penalties",
+    "accounting firms processing 10\u201350 payrolls/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accounting Firms Processing 10 50 Payrolls Month Frequent Tool Software",
+      "target_keyword": "accounting firms processing 10 50 payrolls month frequent tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 50 Payrolls Month Frequent Tool Platform",
+      "target_keyword": "accounting firms processing 10 50 payrolls month frequent tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 50 Payrolls Month Frequent Tool Solution",
+      "target_keyword": "accounting firms processing 10 50 payrolls month frequent tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 50 Payrolls Month Frequent Tool",
+      "target_keyword": "accounting firms processing 10 50 payrolls month frequent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 50 Payrolls Month Frequent Automation",
+      "target_keyword": "accounting firms processing 10 50 payrolls month frequent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 50 Payrolls Month Frequent Workflow",
+      "target_keyword": "accounting firms processing 10 50 payrolls month frequent workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firms frequent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firms frequent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firms frequent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firms frequent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firms frequent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firms tool",
+      "accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firms tool helps with frequent payroll errors leading to client dissatisfaction and potential penalties."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

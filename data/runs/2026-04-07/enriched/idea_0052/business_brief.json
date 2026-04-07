@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small accounting firms processing 5\u201315 payroll reports/month tool",
+  "description": "For HR managers in small accounting firms processing 5\u201315 payroll reports/month, inefficient conversion of timesheets causes late payroll submissions. We automate the transformation instead of manual data entry and spreadsheet calculations.",
+  "target_audience": "HR managers in small accounting firms processing 5\u201315 payroll reports/month",
+  "problem_solved": "Inefficient conversion of timesheets to payroll reports",
+  "features": [
+    "manual data entry interface",
+    "basic report generation",
+    "error-checking functionality"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small accounting firms processing 5\u201315 payroll reports/month",
+    "primary_problem": "Inefficient conversion of timesheets to payroll reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small accounting firms processing 5\u201315 payroll reports/month, inefficient conversion of timesheets causes late payroll submissions. We automate the transformation instead of manual data entry and spreadsheet calculations.",
+    "current_alternative": "manual data entry and spreadsheet calculations",
+    "must_have_features": [
+      "manual data entry interface",
+      "basic report generation",
+      "error-checking functionality"
+    ]
+  },
+  "one_liner": "For HR managers in small accounting firms processing 5\u201315 payroll reports/month, inefficient conversion of timesheets causes late payroll submissions. We automate the transformation instead of manual data entry and spreadsheet calculations.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-07",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

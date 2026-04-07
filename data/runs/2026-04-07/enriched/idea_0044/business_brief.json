@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction site supervisors processing 10-20 timesheets/month tool",
+  "description": "For construction site supervisors processing 10-20 timesheets/month, manual reconciliation causes payroll errors. We automate the reconciliation instead of manual reconciliation of timesheets and payroll.",
+  "target_audience": "construction site supervisors processing 10-20 timesheets/month",
+  "problem_solved": "Inaccurate payroll due to manual reconciliation of timesheets.",
+  "features": [
+    "manual entry of timesheet data",
+    "simple reporting of payroll discrepancies",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction site supervisors processing 10-20 timesheets/month",
+    "primary_problem": "Inaccurate payroll due to manual reconciliation of timesheets.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction site supervisors processing 10-20 timesheets/month, manual reconciliation causes payroll errors. We automate the reconciliation instead of manual reconciliation of timesheets and payroll.",
+    "current_alternative": "manual reconciliation of timesheets and payroll",
+    "must_have_features": [
+      "manual entry of timesheet data",
+      "simple reporting of payroll discrepancies",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction site supervisors processing 10-20 timesheets/month, manual reconciliation causes payroll errors. We automate the reconciliation instead of manual reconciliation of timesheets and payroll.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

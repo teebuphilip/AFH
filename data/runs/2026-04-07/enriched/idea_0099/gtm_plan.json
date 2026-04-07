@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction project managers processing 5\u201315 projects/month",
+  "offer": "For construction project managers processing 5\u201315 projects/month, inefficient reporting causes project delays. We streamline report generation instead of manual report generation using spreadsheets.",
+  "problem": "Inefficient generation of project status reports",
+  "channels_free": [
+    "Post in Reddit communities for construction project managers",
+    "Share insights on Indie Hackers about reporting issues",
+    "DM outreach to construction project managers with demo video",
+    "Engage in community forums for construction project management tools"
+  ],
+  "try_it": "Let users try template-based report generation on 1-3 projects",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with clear one-liner and CTA",
+    "Produce a short demo video of the reporting process",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving of common report templates",
+    "Set default reminders for report submissions",
+    "Enable CSV import for existing project data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding steps for new users"
+  ]
+}

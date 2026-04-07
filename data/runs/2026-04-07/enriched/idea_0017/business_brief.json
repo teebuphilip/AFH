@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, inconsistent cash position reporting causes cash flow gaps. We automate daily cash position reports instead of manual cash position reports.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Inconsistent cash position reporting leads to cash flow gaps.",
+  "features": [
+    "Daily cash position report generation",
+    "User-friendly dashboard for cash tracking",
+    "Email notifications for report availability"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Inconsistent cash position reporting leads to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, inconsistent cash position reporting causes cash flow gaps. We automate daily cash position reports instead of manual cash position reports.",
+    "current_alternative": "manual cash position reports",
+    "must_have_features": [
+      "Daily cash position report generation",
+      "User-friendly dashboard for cash tracking",
+      "Email notifications for report availability"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, inconsistent cash position reporting causes cash flow gaps. We automate daily cash position reports instead of manual cash position reports.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

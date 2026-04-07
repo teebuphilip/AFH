@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr teams in small to medium-sized accounting firms unusual tool",
+    "hr teams in small to medium-sized accounting firms unusual automation",
+    "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual tool",
+    "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual automation",
+    "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual workflow"
+  ],
+  "secondary_keywords": [
+    "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual tool software",
+    "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual tool platform",
+    "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month, unusual employee hours cause payroll errors. We provide a payroll exception reporter instead of manual tracking in spreadsheets.",
+    "Unusual employee hours or compensation leading to payroll errors",
+    "HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Teams In Small To Medium-Sized Accounting Firms Processing 5 15 Payrolls Month Unusual Tool Software",
+      "target_keyword": "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Teams In Small To Medium-Sized Accounting Firms Processing 5 15 Payrolls Month Unusual Tool Platform",
+      "target_keyword": "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Teams In Small To Medium-Sized Accounting Firms Processing 5 15 Payrolls Month Unusual Tool Solution",
+      "target_keyword": "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Teams In Small To Medium-Sized Accounting Firms Processing 5 15 Payrolls Month Unusual Tool",
+      "target_keyword": "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Teams In Small To Medium-Sized Accounting Firms Processing 5 15 Payrolls Month Unusual Automation",
+      "target_keyword": "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Teams In Small To Medium-Sized Accounting Firms Processing 5 15 Payrolls Month Unusual Workflow",
+      "target_keyword": "hr teams in small to medium-sized accounting firms processing 5 15 payrolls month unusual workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr teams in small to medium-sized accounting firms unusual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr teams in small to medium-sized accounting firms unusual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr teams in small to medium-sized accounting firms unusual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr teams in small to medium-sized accounting firms unusual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr teams in small to medium-sized accounting firms unusual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr teams in small to medium-sized accounting firms tool",
+      "hr teams in small to medium-sized accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr teams in small to medium-sized accounting firms tool helps with unusual employee hours or compensation leading to payroll errors."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

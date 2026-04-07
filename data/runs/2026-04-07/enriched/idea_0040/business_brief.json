@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-10 projects/week tool",
+  "description": "For construction contractors managing 5-10 projects/week, inefficient reporting causes delays in project updates. We automate daily job completion summaries instead of manual reporting via email or spreadsheets.",
+  "target_audience": "construction contractors managing 5-10 projects/week",
+  "problem_solved": "Inefficient reporting of job completion summaries to project managers.",
+  "features": [
+    "template-based summary generation",
+    "manual entry for job completion details",
+    "daily summary email notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-10 projects/week",
+    "primary_problem": "Inefficient reporting of job completion summaries to project managers.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5-10 projects/week, inefficient reporting causes delays in project updates. We automate daily job completion summaries instead of manual reporting via email or spreadsheets.",
+    "current_alternative": "manual reporting via email or spreadsheets",
+    "must_have_features": [
+      "template-based summary generation",
+      "manual entry for job completion details",
+      "daily summary email notifications"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-10 projects/week, inefficient reporting causes delays in project updates. We automate daily job completion summaries instead of manual reporting via email or spreadsheets.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

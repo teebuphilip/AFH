@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction project managers overseeing 5\u201310 projects simultaneously",
+  "offer": "For construction project managers overseeing 5\u201310 projects simultaneously, inconsistent reporting causes delays in project timelines. We streamline data aggregation and reporting instead of manual data collection.",
+  "problem": "Inconsistent and delayed progress reporting from construction sites.",
+  "channels_free": [
+    "Post in Reddit communities for construction project managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to construction project managers with demo video",
+    "Community forums where project managers share tools"
+  ],
+  "try_it": "Let users try simple data input forms and dashboards for tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video showing the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Reduce steps in the onboarding process"
+  ]
+}

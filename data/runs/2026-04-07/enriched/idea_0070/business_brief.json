@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, inconsistent supplier performance causes late orders and penalties. We provide a benchmarking tool instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Inconsistent supplier performance leading to late orders and penalties.",
+  "features": [
+    "Supplier performance scoring based on delivery metrics",
+    "Quality assessment tools for supplier evaluation",
+    "Cost comparison features for supplier selection"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Inconsistent supplier performance leading to late orders and penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, inconsistent supplier performance causes late orders and penalties. We provide a benchmarking tool instead of manual tracking.",
+    "current_alternative": "Manual tracking of supplier performance metrics.",
+    "must_have_features": [
+      "Supplier performance scoring based on delivery metrics",
+      "Quality assessment tools for supplier evaluation",
+      "Cost comparison features for supplier selection"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, inconsistent supplier performance causes late orders and penalties. We provide a benchmarking tool instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-07",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201350 payrolls/month",
+  "offer": "For accounting firms processing 10\u201350 payrolls/month, payroll errors cause client dissatisfaction and potential penalties. We monitor payroll anomalies instead of manual payroll checks and reconciliations.",
+  "problem": "frequent payroll errors leading to client dissatisfaction and potential penalties",
+  "channels_free": [
+    "Post in Reddit communities for accounting help",
+    "Engage in Indie Hackers discussions on payroll issues",
+    "DM outreach to accounting firms with demo video",
+    "Participate in community forums for accounting tools"
+  ],
+  "try_it": "Let users try error detection alerts and monthly summaries",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

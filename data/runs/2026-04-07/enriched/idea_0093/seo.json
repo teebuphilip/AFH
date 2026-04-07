@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "medical office managers in dental clinics missed tool",
+    "medical office managers in dental clinics missed automation",
+    "appointment scheduling",
+    "appointment tracking",
+    "invoice payments",
+    "invoice tracking",
+    "vendor invoices"
+  ],
+  "secondary_keywords": [
+    "appointment scheduling software",
+    "appointment scheduling platform",
+    "appointment scheduling solution"
+  ],
+  "long_tail_keywords": [
+    "how to appointment scheduling",
+    "best appointment scheduling tool",
+    "appointment scheduling vs spreadsheets",
+    "appointment scheduling checklist",
+    "appointment scheduling pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For medical office managers in dental clinics processing 20-50 appointments/week, missed appointments cause lost revenue. We automate reminders instead of manual appointment tracking and reminder calls.",
+    "missed appointments leading to lost revenue",
+    "medical office managers in dental clinics processing 20-50 appointments/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Appointment Scheduling",
+      "target_keyword": "how to appointment scheduling",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Appointment Scheduling Tool",
+      "target_keyword": "best appointment scheduling tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Appointment Scheduling Vs Spreadsheets",
+      "target_keyword": "appointment scheduling vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Appointment Scheduling Checklist",
+      "target_keyword": "appointment scheduling checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling Pricing",
+      "target_keyword": "appointment scheduling pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling Software",
+      "target_keyword": "appointment scheduling software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling Platform",
+      "target_keyword": "appointment scheduling platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling Solution",
+      "target_keyword": "appointment scheduling solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling",
+      "target_keyword": "appointment scheduling",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Tracking",
+      "target_keyword": "appointment tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments",
+      "target_keyword": "invoice payments",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking",
+      "target_keyword": "invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "medical office managers in dental clinics missed tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "medical office managers in dental clinics missed tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "medical office managers in dental clinics missed tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "medical office managers in dental clinics missed tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "medical office managers in dental clinics missed tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | medical office managers in dental clinics tool",
+      "medical office managers in dental clinics tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "medical office managers in dental clinics tool helps with missed appointments leading to lost revenue."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201350 payrolls/month tool",
+  "description": "For accounting firms processing 10\u201350 payrolls/month, payroll errors cause client dissatisfaction and potential penalties. We monitor payroll anomalies instead of manual payroll checks and reconciliations.",
+  "target_audience": "accounting firms processing 10\u201350 payrolls/month",
+  "problem_solved": "frequent payroll errors leading to client dissatisfaction and potential penalties",
+  "features": [
+    "error detection alerts",
+    "monthly payroll summary reports",
+    "manual override for corrections"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201350 payrolls/month",
+    "primary_problem": "frequent payroll errors leading to client dissatisfaction and potential penalties",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201350 payrolls/month, payroll errors cause client dissatisfaction and potential penalties. We monitor payroll anomalies instead of manual payroll checks and reconciliations.",
+    "current_alternative": "manual payroll checks and reconciliations",
+    "must_have_features": [
+      "error detection alerts",
+      "monthly payroll summary reports",
+      "manual override for corrections"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201350 payrolls/month, payroll errors cause client dissatisfaction and potential penalties. We monitor payroll anomalies instead of manual payroll checks and reconciliations.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-07",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

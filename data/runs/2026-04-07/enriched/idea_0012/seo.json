@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr finance teams in small marketing agencies discrepancies tool",
+    "hr finance teams in small marketing agencies discrepancies automation",
+    "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies tool",
+    "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies automation",
+    "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies workflow"
+  ],
+  "secondary_keywords": [
+    "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies tool software",
+    "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies tool platform",
+    "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR finance teams in small marketing agencies processing 5\u201315 expense reports/month, discrepancies cause cash flow gaps. We reconcile expense reports with credit card statements instead of manual reconciliation processes.",
+    "Discrepancies between employee expense reports and credit card statements",
+    "HR finance teams in small marketing agencies processing 5\u201315 expense reports/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Finance Teams In Small Marketing Agencies Processing 5 15 Expense Reports Month Discrepancies Tool Software",
+      "target_keyword": "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Finance Teams In Small Marketing Agencies Processing 5 15 Expense Reports Month Discrepancies Tool Platform",
+      "target_keyword": "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Finance Teams In Small Marketing Agencies Processing 5 15 Expense Reports Month Discrepancies Tool Solution",
+      "target_keyword": "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Finance Teams In Small Marketing Agencies Processing 5 15 Expense Reports Month Discrepancies Tool",
+      "target_keyword": "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Finance Teams In Small Marketing Agencies Processing 5 15 Expense Reports Month Discrepancies Automation",
+      "target_keyword": "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Finance Teams In Small Marketing Agencies Processing 5 15 Expense Reports Month Discrepancies Workflow",
+      "target_keyword": "hr finance teams in small marketing agencies processing 5 15 expense reports month discrepancies workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr finance teams in small marketing agencies discrepancies tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr finance teams in small marketing agencies discrepancies tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr finance teams in small marketing agencies discrepancies tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr finance teams in small marketing agencies discrepancies tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr finance teams in small marketing agencies discrepancies tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr finance teams in small marketing agencies tool",
+      "hr finance teams in small marketing agencies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr finance teams in small marketing agencies tool helps with discrepancies between employee expense reports and credit card statements."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

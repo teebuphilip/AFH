@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers overseeing 5\u201310 projects simultaneously tool",
+  "description": "For construction project managers overseeing 5\u201310 projects simultaneously, inconsistent reporting causes delays in project timelines. We automate data aggregation and reporting instead of manual data collection and reporting.",
+  "target_audience": "construction project managers overseeing 5\u201310 projects simultaneously",
+  "problem_solved": "Inconsistent and delayed progress reporting from construction sites.",
+  "features": [
+    "simple data input forms for site managers",
+    "dashboard for real-time project tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers overseeing 5\u201310 projects simultaneously",
+    "primary_problem": "Inconsistent and delayed progress reporting from construction sites.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers overseeing 5\u201310 projects simultaneously, inconsistent reporting causes delays in project timelines. We automate data aggregation and reporting instead of manual data collection and reporting.",
+    "current_alternative": "manual data collection and reporting",
+    "must_have_features": [
+      "simple data input forms for site managers",
+      "dashboard for real-time project tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project managers overseeing 5\u201310 projects simultaneously, inconsistent reporting causes delays in project timelines. We automate data aggregation and reporting instead of manual data collection and reporting.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

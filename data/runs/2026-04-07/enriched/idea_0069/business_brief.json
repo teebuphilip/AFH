@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month, unusual employee hours cause payroll errors. We provide a payroll exception reporter instead of manual tracking in spreadsheets.",
+  "target_audience": "HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Unusual employee hours or compensation leading to payroll errors",
+  "features": [
+    "Flagging unusual hours",
+    "Reporting on compensation discrepancies",
+    "User-friendly dashboard for HR teams"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Unusual employee hours or compensation leading to payroll errors",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month, unusual employee hours cause payroll errors. We provide a payroll exception reporter instead of manual tracking in spreadsheets.",
+    "current_alternative": "Manual tracking and error checking in spreadsheets",
+    "must_have_features": [
+      "Flagging unusual hours",
+      "Reporting on compensation discrepancies",
+      "User-friendly dashboard for HR teams"
+    ]
+  },
+  "one_liner": "For HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month, unusual employee hours cause payroll errors. We provide a payroll exception reporter instead of manual tracking in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

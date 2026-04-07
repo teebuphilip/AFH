@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firms processing 5\u201315 invoices/month tool",
+  "description": "For small law firms processing 5\u201315 invoices/month, inefficient billing reconciliation causes cash flow gaps. We automate client billing reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "small law firms processing 5\u201315 invoices/month",
+  "problem_solved": "inefficient billing reconciliation leading to cash flow gaps",
+  "features": [
+    "manual entry for invoice details",
+    "report generation for reconciliation summaries",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firms processing 5\u201315 invoices/month",
+    "primary_problem": "inefficient billing reconciliation leading to cash flow gaps",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law firms processing 5\u201315 invoices/month, inefficient billing reconciliation causes cash flow gaps. We automate client billing reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "manual entry for invoice details",
+      "report generation for reconciliation summaries",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small law firms processing 5\u201315 invoices/month, inefficient billing reconciliation causes cash flow gaps. We automate client billing reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0039",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics fleet managers processing 5\u201315 vehicles tool",
+  "description": "For logistics fleet managers processing 5\u201315 vehicles, inefficient maintenance scheduling causes unexpected breakdowns. We provide automated tracking instead of manual tracking and scheduling via spreadsheets.",
+  "target_audience": "logistics fleet managers processing 5\u201315 vehicles",
+  "problem_solved": "Inefficient vehicle maintenance scheduling leading to unexpected breakdowns.",
+  "features": [
+    "Vehicle maintenance tracking",
+    "Route optimization suggestions",
+    "Notification system for maintenance due dates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics fleet managers processing 5\u201315 vehicles",
+    "primary_problem": "Inefficient vehicle maintenance scheduling leading to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics fleet managers processing 5\u201315 vehicles, inefficient maintenance scheduling causes unexpected breakdowns. We provide automated tracking instead of manual tracking and scheduling via spreadsheets.",
+    "current_alternative": "manual tracking and scheduling via spreadsheets",
+    "must_have_features": [
+      "Vehicle maintenance tracking",
+      "Route optimization suggestions",
+      "Notification system for maintenance due dates"
+    ]
+  },
+  "one_liner": "For logistics fleet managers processing 5\u201315 vehicles, inefficient maintenance scheduling causes unexpected breakdowns. We provide automated tracking instead of manual tracking and scheduling via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-07",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

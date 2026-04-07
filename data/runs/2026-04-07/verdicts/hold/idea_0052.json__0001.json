@@ -1,0 +1,15 @@
+{
+  "idea_text": "Payroll data conversion service that transforms employee timesheets into payroll reports for HR managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-07T10:31:30.276566",
+  "verdict_source": "overlay_score"
+}

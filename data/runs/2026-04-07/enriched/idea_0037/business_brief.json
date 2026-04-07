@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant accounting staff processing 10\u201320 invoices/month tool",
+  "description": "For restaurant accounting staff processing 10\u201320 invoices/month, inefficient manual processing causes delayed payments. We automate invoice batching instead of manual entry and scheduling of payments.",
+  "target_audience": "restaurant accounting staff processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient manual processing of vendor invoices leads to delayed payments.",
+  "features": [
+    "manual invoice entry",
+    "payment scheduling",
+    "batch processing"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant accounting staff processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient manual processing of vendor invoices leads to delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant accounting staff processing 10\u201320 invoices/month, inefficient manual processing causes delayed payments. We automate invoice batching instead of manual entry and scheduling of payments.",
+    "current_alternative": "manual entry and scheduling of payments",
+    "must_have_features": [
+      "manual invoice entry",
+      "payment scheduling",
+      "batch processing"
+    ]
+  },
+  "one_liner": "For restaurant accounting staff processing 10\u201320 invoices/month, inefficient manual processing causes delayed payments. We automate invoice batching instead of manual entry and scheduling of payments.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

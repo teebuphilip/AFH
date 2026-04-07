@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "small accounting firms difficulty tool",
+    "small accounting firms difficulty automation",
+    "cash flow tracking",
+    "small accounting firms processing 5 15 invoices month difficulty tool",
+    "small accounting firms processing 5 15 invoices month difficulty automation",
+    "small accounting firms processing 5 15 invoices month difficulty workflow"
+  ],
+  "secondary_keywords": [
+    "cash flow tracking software",
+    "cash flow tracking platform",
+    "cash flow tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to cash flow tracking",
+    "best cash flow tracking tool",
+    "cash flow tracking vs spreadsheets",
+    "cash flow tracking checklist",
+    "cash flow tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For small accounting firms processing 5\u201315 invoices/month, manual categorization causes cash flow gaps. We convert raw bank transaction data into categorized cash flow reports instead of manual categorization using spreadsheets.",
+    "Difficulty in categorizing cash flow from raw bank transactions.",
+    "small accounting firms processing 5\u201315 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Cash Flow Tracking",
+      "target_keyword": "how to cash flow tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Cash Flow Tracking Tool",
+      "target_keyword": "best cash flow tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Cash Flow Tracking Vs Spreadsheets",
+      "target_keyword": "cash flow tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Cash Flow Tracking Checklist",
+      "target_keyword": "cash flow tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Pricing",
+      "target_keyword": "cash flow tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Software",
+      "target_keyword": "cash flow tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Platform",
+      "target_keyword": "cash flow tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Solution",
+      "target_keyword": "cash flow tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking",
+      "target_keyword": "cash flow tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Small Accounting Firms Processing 5 15 Invoices Month Difficulty Tool",
+      "target_keyword": "small accounting firms processing 5 15 invoices month difficulty tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Accounting Firms Processing 5 15 Invoices Month Difficulty Automation",
+      "target_keyword": "small accounting firms processing 5 15 invoices month difficulty automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Accounting Firms Processing 5 15 Invoices Month Difficulty Workflow",
+      "target_keyword": "small accounting firms processing 5 15 invoices month difficulty workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "small accounting firms difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "small accounting firms difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "small accounting firms difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "small accounting firms difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "small accounting firms difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | small accounting firms tool",
+      "small accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "small accounting firms tool helps with difficulty in categorizing cash flow from raw bank transactions."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

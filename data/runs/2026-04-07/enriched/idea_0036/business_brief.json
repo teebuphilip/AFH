@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations managers processing 5\u201315 fuel reports/month tool",
+  "description": "For fleet operations managers processing 5\u201315 fuel reports/month, inaccurate fuel consumption reporting causes budget overruns. We automate report generation instead of manual compilation of reports using spreadsheets.",
+  "target_audience": "fleet operations managers processing 5\u201315 fuel reports/month",
+  "problem_solved": "Inaccurate fuel consumption reporting leads to budget overruns.",
+  "features": [
+    "manual data entry for fuel consumption",
+    "customizable report templates",
+    "export options to CSV"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations managers processing 5\u201315 fuel reports/month",
+    "primary_problem": "Inaccurate fuel consumption reporting leads to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operations managers processing 5\u201315 fuel reports/month, inaccurate fuel consumption reporting causes budget overruns. We automate report generation instead of manual compilation of reports using spreadsheets.",
+    "current_alternative": "manual compilation of reports using spreadsheets",
+    "must_have_features": [
+      "manual data entry for fuel consumption",
+      "customizable report templates",
+      "export options to CSV"
+    ]
+  },
+  "one_liner": "For fleet operations managers processing 5\u201315 fuel reports/month, inaccurate fuel consumption reporting causes budget overruns. We automate report generation instead of manual compilation of reports using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-07",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

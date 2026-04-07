@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical office managers in dental clinics processing 20-50 appointments/week",
+  "offer": "For medical office managers in dental clinics processing 20-50 appointments/week, missed appointments cause lost revenue. We automate reminders instead of manual appointment tracking and reminder calls.",
+  "problem": "missed appointments leading to lost revenue",
+  "channels_free": [
+    "Post in Reddit communities for dental office managers",
+    "Indie Hackers posts on appointment management",
+    "DM outreach to dental office managers with demo video",
+    "Community forums for sharing clinic management tools"
+  ],
+  "try_it": "Let users try dashboard for tracking appointment status and manual invoice entry",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing appointment data",
+    "One-click export of simple reports",
+    "Reduce steps in the onboarding process"
+  ]
+}

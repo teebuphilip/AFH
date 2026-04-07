@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 lease agreements/month tool",
+  "description": "For property managers processing 5\u201315 lease agreements/month, missed renewal reminders cause revenue loss. We automate reminders instead of manual tracking of lease agreements.",
+  "target_audience": "property managers handling 5\u201315 lease agreements/month",
+  "problem_solved": "Timely reminders for lease renewals are often missed, causing potential revenue loss.",
+  "features": [
+    "customizable reminder settings",
+    "dashboard for tracking lease statuses",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 lease agreements/month",
+    "primary_problem": "Timely reminders for lease renewals are often missed, causing potential revenue loss.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 lease agreements/month, missed renewal reminders cause revenue loss. We automate reminders instead of manual tracking of lease agreements.",
+    "current_alternative": "manual tracking of lease agreements",
+    "must_have_features": [
+      "customizable reminder settings",
+      "dashboard for tracking lease statuses",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 lease agreements/month, missed renewal reminders cause revenue loss. We automate reminders instead of manual tracking of lease agreements.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-07",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

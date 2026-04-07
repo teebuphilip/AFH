@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using Upwork processing 5\u201315 timesheets/month tool",
+  "description": "For freelancers using Upwork processing 5\u201315 timesheets/month, manual tracking causes payment delays. We convert raw hours into formatted reports instead of manual tracking and formatting of hours.",
+  "target_audience": "freelancers using Upwork processing 5\u201315 timesheets/month",
+  "problem_solved": "Converting raw employee hours into formatted timesheet reports for payroll processing.",
+  "features": [
+    "manual entry of raw hours",
+    "simple formatting options for reports",
+    "export to common file formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using Upwork processing 5\u201315 timesheets/month",
+    "primary_problem": "Converting raw employee hours into formatted timesheet reports for payroll processing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using Upwork processing 5\u201315 timesheets/month, manual tracking causes payment delays. We convert raw hours into formatted reports instead of manual tracking and formatting of hours.",
+    "current_alternative": "manual tracking and formatting of hours",
+    "must_have_features": [
+      "manual entry of raw hours",
+      "simple formatting options for reports",
+      "export to common file formats"
+    ]
+  },
+  "one_liner": "For freelancers using Upwork processing 5\u201315 timesheets/month, manual tracking causes payment delays. We convert raw hours into formatted reports instead of manual tracking and formatting of hours.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

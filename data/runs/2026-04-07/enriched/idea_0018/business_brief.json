@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers at freight companies processing 10\u201320 invoices/month tool",
+  "description": "For logistics managers at freight companies processing 10\u201320 invoices/month, invoice discrepancies cause delayed payments. We automate reconciliation instead of manual reconciliation of invoices and shipping manifests.",
+  "target_audience": "logistics managers at freight companies processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate freight invoices lead to discrepancies and delayed payments.",
+  "features": [
+    "manual entry for invoice data",
+    "discrepancy report generation",
+    "email notifications for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers at freight companies processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate freight invoices lead to discrepancies and delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers at freight companies processing 10\u201320 invoices/month, invoice discrepancies cause delayed payments. We automate reconciliation instead of manual reconciliation of invoices and shipping manifests.",
+    "current_alternative": "manual reconciliation of invoices and shipping manifests",
+    "must_have_features": [
+      "manual entry for invoice data",
+      "discrepancy report generation",
+      "email notifications for discrepancies"
+    ]
+  },
+  "one_liner": "For logistics managers at freight companies processing 10\u201320 invoices/month, invoice discrepancies cause delayed payments. We automate reconciliation instead of manual reconciliation of invoices and shipping manifests.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-07",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

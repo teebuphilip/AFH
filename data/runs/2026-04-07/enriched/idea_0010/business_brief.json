@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 purchase orders/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, delays in purchase order approvals cause late shipments. We provide real-time alerts instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201320 purchase orders/month",
+  "problem_solved": "Delays in purchase order approvals causing late shipments.",
+  "features": [
+    "Real-time alert notifications for purchase order exceptions",
+    "Dashboard for monitoring purchase order status",
+    "Manual entry option for purchase order details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 purchase orders/month",
+    "primary_problem": "Delays in purchase order approvals causing late shipments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, delays in purchase order approvals cause late shipments. We provide real-time alerts instead of manual tracking.",
+    "current_alternative": "Manual tracking of purchase orders and approvals.",
+    "must_have_features": [
+      "Real-time alert notifications for purchase order exceptions",
+      "Dashboard for monitoring purchase order status",
+      "Manual entry option for purchase order details"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, delays in purchase order approvals cause late shipments. We provide real-time alerts instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

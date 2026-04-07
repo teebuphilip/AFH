@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations teams using Salesforce for contract management tool",
+  "description": "For sales operations teams processing 10\u201320 contracts/month, missed deadlines cause cash flow gaps. We send automated reminders instead of manual tracking in spreadsheets.",
+  "target_audience": "sales operations teams using Salesforce for contract management",
+  "problem_solved": "Missed contract renewal deadlines due to lack of timely reminders.",
+  "features": [
+    "Customizable reminder settings",
+    "Dashboard for tracking upcoming renewals",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations teams using Salesforce for contract management",
+    "primary_problem": "Missed contract renewal deadlines due to lack of timely reminders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations teams processing 10\u201320 contracts/month, missed deadlines cause cash flow gaps. We send automated reminders instead of manual tracking in spreadsheets.",
+    "current_alternative": "Manual tracking of contract renewals in spreadsheets.",
+    "must_have_features": [
+      "Customizable reminder settings",
+      "Dashboard for tracking upcoming renewals",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For sales operations teams processing 10\u201320 contracts/month, missed deadlines cause cash flow gaps. We send automated reminders instead of manual tracking in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-07",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

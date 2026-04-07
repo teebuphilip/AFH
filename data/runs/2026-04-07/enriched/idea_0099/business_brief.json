@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers processing 5\u201315 projects/month tool",
+  "description": "For construction project managers processing 5\u201315 projects/month, inefficient reporting causes project delays. We streamline report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "construction project managers processing 5\u201315 projects/month",
+  "problem_solved": "Inefficient generation of project status reports",
+  "features": [
+    "template-based report generation",
+    "status update tracking",
+    "collaborative editing"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers processing 5\u201315 projects/month",
+    "primary_problem": "Inefficient generation of project status reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers processing 5\u201315 projects/month, inefficient reporting causes project delays. We streamline report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "status update tracking",
+      "collaborative editing"
+    ]
+  },
+  "one_liner": "For construction project managers processing 5\u201315 projects/month, inefficient reporting causes project delays. We streamline report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

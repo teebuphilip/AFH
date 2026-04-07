@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 rental properties tool",
+  "description": "For property managers processing 5\u201315 rental properties, inconsistent compliance reporting causes missed inspections. We automate compliance reporting instead of manual tracking and reporting.",
+  "target_audience": "property managers handling 5\u201315 rental properties",
+  "problem_solved": "Inconsistent compliance reporting for property inspections",
+  "features": [
+    "inspection scheduling tool",
+    "compliance report generation",
+    "manual data entry for inspections"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 rental properties",
+    "primary_problem": "Inconsistent compliance reporting for property inspections",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For property managers processing 5\u201315 rental properties, inconsistent compliance reporting causes missed inspections. We automate compliance reporting instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting",
+    "must_have_features": [
+      "inspection scheduling tool",
+      "compliance report generation",
+      "manual data entry for inspections"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 rental properties, inconsistent compliance reporting causes missed inspections. We automate compliance reporting instead of manual tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-07",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

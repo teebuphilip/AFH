@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR payroll specialists in small accounting firms processing 5\u201315 payroll summaries/month tool",
+  "description": "For HR payroll specialists in small accounting firms processing 5\u201315 payroll summaries/month, inefficient data handling causes late payroll submissions. We automate the formatting of time-tracking data instead of manual data entry and formatting.",
+  "target_audience": "HR payroll specialists in small accounting firms processing 5\u201315 payroll summaries/month",
+  "problem_solved": "Inefficient conversion of time-tracking data into payroll summaries",
+  "features": [
+    "manual data entry interface",
+    "customizable payroll summary templates",
+    "export options for common formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR payroll specialists in small accounting firms processing 5\u201315 payroll summaries/month",
+    "primary_problem": "Inefficient conversion of time-tracking data into payroll summaries",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR payroll specialists in small accounting firms processing 5\u201315 payroll summaries/month, inefficient data handling causes late payroll submissions. We automate the formatting of time-tracking data instead of manual data entry and formatting.",
+    "current_alternative": "manual data entry and formatting",
+    "must_have_features": [
+      "manual data entry interface",
+      "customizable payroll summary templates",
+      "export options for common formats"
+    ]
+  },
+  "one_liner": "For HR payroll specialists in small accounting firms processing 5\u201315 payroll summaries/month, inefficient data handling causes late payroll submissions. We automate the formatting of time-tracking data instead of manual data entry and formatting.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

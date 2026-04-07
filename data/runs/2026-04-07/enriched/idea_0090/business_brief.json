@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 rental units/month tool",
+  "description": "For property managers handling 5\u201315 rental units/month, inefficient tracking of maintenance requests causes delayed responses. We automate work order generation instead of manual tracking via spreadsheets or emails.",
+  "target_audience": "property managers handling 5\u201315 rental units/month",
+  "problem_solved": "Inefficient tracking of maintenance requests leads to delayed responses.",
+  "features": [
+    "work order generation",
+    "notification system for property managers",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 rental units/month",
+    "primary_problem": "Inefficient tracking of maintenance requests leads to delayed responses.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 rental units/month, inefficient tracking of maintenance requests causes delayed responses. We automate work order generation instead of manual tracking via spreadsheets or emails.",
+    "current_alternative": "manual tracking via spreadsheets or emails",
+    "must_have_features": [
+      "work order generation",
+      "notification system for property managers",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 rental units/month, inefficient tracking of maintenance requests causes delayed responses. We automate work order generation instead of manual tracking via spreadsheets or emails.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-07",
+    "overlay_score": 69,
+    "arr_score": 68
+  }
+}

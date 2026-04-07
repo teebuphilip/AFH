@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201320 client retainers/month tool",
+  "description": "For accounting firms managing 10\u201320 client retainers/month, overspending causes cash flow gaps. We provide real-time budget monitoring instead of manual tracking spreadsheets.",
+  "target_audience": "accounting firms managing 10\u201320 client retainers/month",
+  "problem_solved": "Overspending on client projects without timely alerts.",
+  "features": [
+    "budget tracking dashboard",
+    "manual entry for project budgets",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201320 client retainers/month",
+    "primary_problem": "Overspending on client projects without timely alerts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201320 client retainers/month, overspending causes cash flow gaps. We provide real-time budget monitoring instead of manual tracking spreadsheets.",
+    "current_alternative": "manual tracking spreadsheets",
+    "must_have_features": [
+      "budget tracking dashboard",
+      "manual entry for project budgets",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201320 client retainers/month, overspending causes cash flow gaps. We provide real-time budget monitoring instead of manual tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-07",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

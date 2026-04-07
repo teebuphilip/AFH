@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 5\u201315 premium payments/month tool",
+  "description": "For insurance brokers processing 5\u201315 premium payments/month, manual tracking causes missed payments and client dissatisfaction. We automate payment tracking and reminders instead of manual tracking through spreadsheets or calendar reminders.",
+  "target_audience": "insurance brokers processing 5\u201315 premium payments/month",
+  "problem_solved": "Difficulty in tracking and reminding clients about monthly premium payments.",
+  "features": [
+    "Monthly payment tracking dashboard",
+    "Client notification system",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 5\u201315 premium payments/month",
+    "primary_problem": "Difficulty in tracking and reminding clients about monthly premium payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 5\u201315 premium payments/month, manual tracking causes missed payments and client dissatisfaction. We automate payment tracking and reminders instead of manual tracking through spreadsheets or calendar reminders.",
+    "current_alternative": "Manual tracking through spreadsheets or calendar reminders.",
+    "must_have_features": [
+      "Monthly payment tracking dashboard",
+      "Client notification system",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 5\u201315 premium payments/month, manual tracking causes missed payments and client dissatisfaction. We automate payment tracking and reminders instead of manual tracking through spreadsheets or calendar reminders.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-07",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR teams in tech startups using Greenhouse for hiring",
+  "offer": "For HR teams in tech startups processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire productivity. We provide an onboarding checklist generator instead of manual onboarding checklists and spreadsheets.",
+  "problem": "Inefficient onboarding processes leading to delays in new hire productivity.",
+  "channels_free": [
+    "Post in Reddit communities for HR teams seeking solutions",
+    "Indie Hackers discussions on onboarding workflows",
+    "DM outreach to HR teams with demo video links",
+    "Engage in community forums for HR tools sharing"
+  ],
+  "try_it": "Let users try customizable onboarding templates and progress tracking for new hires on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a clear CTA",
+    "Produce a demo video highlighting the onboarding process",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set up default reminder schedules",
+    "Enable CSV import for existing onboarding data",
+    "Allow one-click export of onboarding reports",
+    "Reduce steps required in the onboarding process"
+  ]
+}

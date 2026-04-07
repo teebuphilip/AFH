@@ -1,0 +1,15 @@
+{
+  "idea_text": "Vendor portal that allows suppliers to submit invoices and check payment status for accounts payable.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-07T10:31:30.279625",
+  "verdict_source": "overlay_score"
+}

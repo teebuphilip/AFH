@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties/month tool",
+  "description": "For property managers handling 10-20 properties/month, missed lease renewals cause cash flow gaps. We automate alerts instead of manual tracking of lease dates and rent increases.",
+  "target_audience": "property managers handling 10-20 properties/month",
+  "problem_solved": "Missed lease renewals and escalations leading to cash flow gaps.",
+  "features": [
+    "Monthly alert system for lease renewals",
+    "Monthly alert system for rent escalations",
+    "User-friendly dashboard for tracking alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties/month",
+    "primary_problem": "Missed lease renewals and escalations leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 properties/month, missed lease renewals cause cash flow gaps. We automate alerts instead of manual tracking of lease dates and rent increases.",
+    "current_alternative": "manual tracking of lease dates and rent increases",
+    "must_have_features": [
+      "Monthly alert system for lease renewals",
+      "Monthly alert system for rent escalations",
+      "User-friendly dashboard for tracking alerts"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties/month, missed lease renewals cause cash flow gaps. We automate alerts instead of manual tracking of lease dates and rent increases.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-07",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

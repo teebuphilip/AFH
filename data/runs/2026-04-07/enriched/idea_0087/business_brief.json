@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201350 shipments/week tool",
+  "description": "For logistics carriers processing 10\u201350 shipments/week, inefficient route planning causes late deliveries. We optimize transportation routes instead of manual route planning and scheduling.",
+  "target_audience": "logistics carriers processing 10\u201350 shipments/week",
+  "problem_solved": "Inefficient transportation routes and schedules",
+  "features": [
+    "manual route input",
+    "basic scheduling tool",
+    "performance tracking dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201350 shipments/week",
+    "primary_problem": "Inefficient transportation routes and schedules",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201350 shipments/week, inefficient route planning causes late deliveries. We optimize transportation routes instead of manual route planning and scheduling.",
+    "current_alternative": "manual route planning and scheduling",
+    "must_have_features": [
+      "manual route input",
+      "basic scheduling tool",
+      "performance tracking dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201350 shipments/week, inefficient route planning causes late deliveries. We optimize transportation routes instead of manual route planning and scheduling.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-07",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

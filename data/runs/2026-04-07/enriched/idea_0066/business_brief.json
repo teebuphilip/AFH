@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "shopify store owners processing 10\u201350 orders/month tool",
+  "description": "For shopify store owners processing 10\u201350 orders/month, inaccurate sales forecasting causes inventory mismanagement. We provide an automated sales forecasting model instead of manual spreadsheets and guesswork.",
+  "target_audience": "shopify store owners processing 10\u201350 orders/month",
+  "problem_solved": "Inaccurate sales forecasting leading to inventory mismanagement.",
+  "features": [
+    "simple dashboard for sales data input",
+    "basic forecasting algorithm",
+    "exportable reports for sales trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "shopify store owners processing 10\u201350 orders/month",
+    "primary_problem": "Inaccurate sales forecasting leading to inventory mismanagement.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For shopify store owners processing 10\u201350 orders/month, inaccurate sales forecasting causes inventory mismanagement. We provide an automated sales forecasting model instead of manual spreadsheets and guesswork.",
+    "current_alternative": "manual spreadsheets and guesswork",
+    "must_have_features": [
+      "simple dashboard for sales data input",
+      "basic forecasting algorithm",
+      "exportable reports for sales trends"
+    ]
+  },
+  "one_liner": "For shopify store owners processing 10\u201350 orders/month, inaccurate sales forecasting causes inventory mismanagement. We provide an automated sales forecasting model instead of manual spreadsheets and guesswork.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-07",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

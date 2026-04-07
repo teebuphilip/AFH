@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 10\u201320 policy documents/month tool",
+  "description": "For insurance brokers processing 10\u201320 policy documents/month, manual processing causes delays in underwriting. We automate document conversion instead of manual document processing and review.",
+  "target_audience": "insurance brokers processing 10\u201320 policy documents/month",
+  "problem_solved": "Manual processing of insurance policy documents leads to inconsistencies and delays in underwriting.",
+  "features": [
+    "basic document formatting options",
+    "user-friendly interface for document review",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 10\u201320 policy documents/month",
+    "primary_problem": "Manual processing of insurance policy documents leads to inconsistencies and delays in underwriting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 10\u201320 policy documents/month, manual processing causes delays in underwriting. We automate document conversion instead of manual document processing and review.",
+    "current_alternative": "manual document processing and review",
+    "must_have_features": [
+      "basic document formatting options",
+      "user-friendly interface for document review",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10\u201320 policy documents/month, manual processing causes delays in underwriting. We automate document conversion instead of manual document processing and review.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

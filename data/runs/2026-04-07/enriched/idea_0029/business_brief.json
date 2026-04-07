@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic billing managers processing 20\u201350 invoices/month tool",
+  "description": "For medical clinic billing managers processing 20\u201350 invoices/month, inefficient conversion causes cash flow gaps. We automate the submission process instead of manual entry of billing submissions.",
+  "target_audience": "medical clinic billing managers processing 20\u201350 invoices/month",
+  "problem_solved": "Inefficient conversion of patient visit logs into insurance billing submissions.",
+  "features": [
+    "manual entry support",
+    "log tracking",
+    "basic reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic billing managers processing 20\u201350 invoices/month",
+    "primary_problem": "Inefficient conversion of patient visit logs into insurance billing submissions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic billing managers processing 20\u201350 invoices/month, inefficient conversion causes cash flow gaps. We automate the submission process instead of manual entry of billing submissions.",
+    "current_alternative": "manual entry of billing submissions",
+    "must_have_features": [
+      "manual entry support",
+      "log tracking",
+      "basic reporting"
+    ]
+  },
+  "one_liner": "For medical clinic billing managers processing 20\u201350 invoices/month, inefficient conversion causes cash flow gaps. We automate the submission process instead of manual entry of billing submissions.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

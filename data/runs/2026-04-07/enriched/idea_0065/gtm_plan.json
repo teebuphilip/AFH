@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "amazon sellers processing 10\u201320 contracts/month",
+  "offer": "For amazon sellers processing 10\u201320 contracts/month, missed renewal reminders cause supplier penalties. We provide reminders instead of manual tracking via spreadsheets.",
+  "problem": "Difficulty in tracking contract expiration dates and renewal reminders leads to missed opportunities and potential penalties.",
+  "channels_free": [
+    "Post in Reddit communities where amazon sellers seek help",
+    "Indie Hackers posts and comments on similar workflows",
+    "DM outreach to 20-50 amazon sellers with a demo video",
+    "Community forums/groups where amazon sellers share tools"
+  ],
+  "try_it": "Let users try storing contract terms and setting alerts on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

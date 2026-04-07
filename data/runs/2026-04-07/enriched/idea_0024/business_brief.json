@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 properties/month tool",
+  "description": "For property managers processing 5\u201315 properties/month, inconsistent utility data reporting causes unexpected costs. We automate utility data collection and reporting instead of manual tracking of utility bills and usage.",
+  "target_audience": "property managers handling 5\u201315 properties/month",
+  "problem_solved": "Inconsistent utility data reporting leads to unexpected costs.",
+  "features": [
+    "Monthly utility usage data collection",
+    "User-friendly dashboard for data visualization",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 properties/month",
+    "primary_problem": "Inconsistent utility data reporting leads to unexpected costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 properties/month, inconsistent utility data reporting causes unexpected costs. We automate utility data collection and reporting instead of manual tracking of utility bills and usage.",
+    "current_alternative": "manual tracking of utility bills and usage",
+    "must_have_features": [
+      "Monthly utility usage data collection",
+      "User-friendly dashboard for data visualization",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 properties/month, inconsistent utility data reporting causes unexpected costs. We automate utility data collection and reporting instead of manual tracking of utility bills and usage.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-07",
+    "overlay_score": 69,
+    "arr_score": 72
+  }
+}

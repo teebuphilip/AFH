@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers overseeing 5\u201315 rental units tool",
+  "description": "For property managers overseeing 5\u201315 rental units, inefficient scheduling causes tenant complaints and potential loss of rental income. We automate maintenance scheduling instead of manual scheduling and tracking of maintenance tasks.",
+  "target_audience": "property managers overseeing 5\u201315 rental units",
+  "problem_solved": "inefficient scheduling of maintenance tasks",
+  "features": [
+    "generate work orders for maintenance tasks",
+    "create preventive maintenance checklists",
+    "send reminders for upcoming maintenance tasks"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers overseeing 5\u201315 rental units",
+    "primary_problem": "inefficient scheduling of maintenance tasks",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers overseeing 5\u201315 rental units, inefficient scheduling causes tenant complaints and potential loss of rental income. We automate maintenance scheduling instead of manual scheduling and tracking of maintenance tasks.",
+    "current_alternative": "manual scheduling and tracking of maintenance tasks",
+    "must_have_features": [
+      "generate work orders for maintenance tasks",
+      "create preventive maintenance checklists",
+      "send reminders for upcoming maintenance tasks"
+    ]
+  },
+  "one_liner": "For property managers overseeing 5\u201315 rental units, inefficient scheduling causes tenant complaints and potential loss of rental income. We automate maintenance scheduling instead of manual scheduling and tracking of maintenance tasks.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-07",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

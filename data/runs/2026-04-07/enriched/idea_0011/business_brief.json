@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual log generation causes late compliance reports. We automate compliance audit logs instead of manual log generation and tracking.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in generating timely compliance audit logs.",
+  "features": [
+    "manual log entry option",
+    "monthly report generation",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in generating timely compliance audit logs.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual log generation causes late compliance reports. We automate compliance audit logs instead of manual log generation and tracking.",
+    "current_alternative": "manual log generation and tracking",
+    "must_have_features": [
+      "manual log entry option",
+      "monthly report generation",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual log generation causes late compliance reports. We automate compliance audit logs instead of manual log generation and tracking.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-07",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

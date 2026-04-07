@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "clinic administrators in medical clinics processing 5\u201315 orders/month tool",
+  "description": "For clinic administrators in medical clinics processing 5\u201315 orders/month, inadequate tracking of medical supply inventory causes stockouts. We automate inventory tracking instead of manual inventory checks and reorder processes.",
+  "target_audience": "clinic administrators in medical clinics processing 5\u201315 orders/month",
+  "problem_solved": "Inadequate tracking of medical supply inventory leading to stockouts.",
+  "features": [
+    "manual entry of inventory levels",
+    "threshold setting for reorder alerts",
+    "simple dashboard for inventory overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "clinic administrators in medical clinics processing 5\u201315 orders/month",
+    "primary_problem": "Inadequate tracking of medical supply inventory leading to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For clinic administrators in medical clinics processing 5\u201315 orders/month, inadequate tracking of medical supply inventory causes stockouts. We automate inventory tracking instead of manual inventory checks and reorder processes.",
+    "current_alternative": "manual inventory checks and reorder processes",
+    "must_have_features": [
+      "manual entry of inventory levels",
+      "threshold setting for reorder alerts",
+      "simple dashboard for inventory overview"
+    ]
+  },
+  "one_liner": "For clinic administrators in medical clinics processing 5\u201315 orders/month, inadequate tracking of medical supply inventory causes stockouts. We automate inventory tracking instead of manual inventory checks and reorder processes.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-07",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR payroll specialists in small accounting firms processing 5\u201315 payroll summaries/month",
+  "offer": "For HR payroll specialists in small accounting firms processing 5\u201315 payroll summaries/month, inefficient data handling causes late payroll submissions. We streamline the formatting of time-tracking data instead of manual data entry and formatting.",
+  "problem": "Inefficient conversion of time-tracking data into payroll summaries",
+  "channels_free": [
+    "Post in Reddit communities for HR payroll specialists",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to HR payroll specialists with demo video",
+    "Community forums for HR payroll specialists sharing tools"
+  ],
+  "try_it": "Let users try manual data entry interface and templates on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Simplify onboarding steps"
+  ]
+}

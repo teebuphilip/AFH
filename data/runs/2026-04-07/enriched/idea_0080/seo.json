@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics fleet managers inefficient tool",
+    "logistics fleet managers inefficient automation",
+    "logistics fleet managers processing 5 15 vehicles inefficient tool",
+    "logistics fleet managers processing 5 15 vehicles inefficient automation",
+    "logistics fleet managers processing 5 15 vehicles inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "logistics fleet managers processing 5 15 vehicles inefficient tool software",
+    "logistics fleet managers processing 5 15 vehicles inefficient tool platform",
+    "logistics fleet managers processing 5 15 vehicles inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics fleet managers processing 5\u201315 vehicles, inefficient maintenance scheduling causes unexpected breakdowns. We provide automated tracking instead of manual tracking and scheduling via spreadsheets.",
+    "Inefficient vehicle maintenance scheduling leading to unexpected breakdowns.",
+    "logistics fleet managers processing 5\u201315 vehicles"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Fleet Managers Processing 5 15 Vehicles Inefficient Tool Software",
+      "target_keyword": "logistics fleet managers processing 5 15 vehicles inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Fleet Managers Processing 5 15 Vehicles Inefficient Tool Platform",
+      "target_keyword": "logistics fleet managers processing 5 15 vehicles inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Fleet Managers Processing 5 15 Vehicles Inefficient Tool Solution",
+      "target_keyword": "logistics fleet managers processing 5 15 vehicles inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Fleet Managers Processing 5 15 Vehicles Inefficient Tool",
+      "target_keyword": "logistics fleet managers processing 5 15 vehicles inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Fleet Managers Processing 5 15 Vehicles Inefficient Automation",
+      "target_keyword": "logistics fleet managers processing 5 15 vehicles inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Fleet Managers Processing 5 15 Vehicles Inefficient Workflow",
+      "target_keyword": "logistics fleet managers processing 5 15 vehicles inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics fleet managers inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics fleet managers inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics fleet managers inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics fleet managers inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics fleet managers inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics fleet managers tool",
+      "logistics fleet managers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics fleet managers tool helps with inefficient vehicle maintenance scheduling leading to unexpected breakdowns."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

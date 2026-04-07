@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "event organizers managing 5\u201315 hotel room blocks/month tool",
+  "description": "For event organizers processing 5\u201315 hotel room blocks/month, inefficient booking processes cause late confirmations and potential overbooking. We automate the booking process instead of manual booking through hotel websites or phone calls.",
+  "target_audience": "event organizers managing 5\u201315 hotel room blocks/month",
+  "problem_solved": "Inefficient booking processes for hotel room blocks",
+  "features": [
+    "simple room block management interface",
+    "email notifications for booking confirmations",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "event organizers managing 5\u201315 hotel room blocks/month",
+    "primary_problem": "Inefficient booking processes for hotel room blocks",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For event organizers processing 5\u201315 hotel room blocks/month, inefficient booking processes cause late confirmations and potential overbooking. We automate the booking process instead of manual booking through hotel websites or phone calls.",
+    "current_alternative": "manual booking through hotel websites or phone calls",
+    "must_have_features": [
+      "simple room block management interface",
+      "email notifications for booking confirmations",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For event organizers processing 5\u201315 hotel room blocks/month, inefficient booking processes cause late confirmations and potential overbooking. We automate the booking process instead of manual booking through hotel websites or phone calls.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

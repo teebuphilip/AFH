@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, missed contract renewals cause cash flow gaps. We provide automated notifications instead of manual tracking of renewals and payments.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Missed contract renewals and payment notifications",
+  "features": [
+    "Manual entry of contract details",
+    "Email notifications for upcoming payments",
+    "Dashboard for tracking renewal dates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Missed contract renewals and payment notifications",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, missed contract renewals cause cash flow gaps. We provide automated notifications instead of manual tracking of renewals and payments.",
+    "current_alternative": "Manual tracking of renewals and payments",
+    "must_have_features": [
+      "Manual entry of contract details",
+      "Email notifications for upcoming payments",
+      "Dashboard for tracking renewal dates"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, missed contract renewals cause cash flow gaps. We provide automated notifications instead of manual tracking of renewals and payments.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-07",
+    "overlay_score": 74,
+    "arr_score": 78
+  }
+}

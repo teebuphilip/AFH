@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual expense report generation causes delays in financial reporting. We automate expense categorization instead of manual spreadsheets and email submissions.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Manual expense report generation is time-consuming and error-prone.",
+  "features": [
+    "user-friendly interface for manual entry",
+    "export functionality for reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Manual expense report generation is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual expense report generation causes delays in financial reporting. We automate expense categorization instead of manual spreadsheets and email submissions.",
+    "current_alternative": "manual spreadsheets and email submissions",
+    "must_have_features": [
+      "user-friendly interface for manual entry",
+      "export functionality for reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual expense report generation causes delays in financial reporting. We automate expense categorization instead of manual spreadsheets and email submissions.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-07",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

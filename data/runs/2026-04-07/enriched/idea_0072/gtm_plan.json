@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms managing 10\u201320 client retainers/month",
+  "offer": "For accounting firms managing 10\u201320 client retainers/month, overspending causes cash flow gaps. We provide real-time budget monitoring instead of manual tracking spreadsheets.",
+  "problem": "Overspending on client projects without timely alerts.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers discussions on budgeting tools",
+    "DM outreach to accounting firms with demo video",
+    "Engage in community forums for accounting software"
+  ],
+  "try_it": "Let users try budget tracking dashboard and manual entry for 1-3 projects",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the tool",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for projects",
+    "Allow CSV import for existing budget data",
+    "Enable one-click export of budget reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

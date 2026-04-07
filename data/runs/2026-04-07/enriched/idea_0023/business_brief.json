@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes that are time-consuming and error-prone.",
+  "target_audience": "Accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate reconciliation of supplier credit notes against outstanding invoices.",
+  "features": [
+    "Manual entry for credit notes",
+    "Basic reporting for accounts payable leads",
+    "Email notifications for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate reconciliation of supplier credit notes against outstanding invoices.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes that are time-consuming and error-prone.",
+    "current_alternative": "Manual reconciliation processes that are time-consuming and error-prone.",
+    "must_have_features": [
+      "Manual entry for credit notes",
+      "Basic reporting for accounts payable leads",
+      "Email notifications for discrepancies"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes that are time-consuming and error-prone.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-07",
+    "overlay_score": 66,
+    "arr_score": 64
+  }
+}

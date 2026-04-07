@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, inconsistent cash flow projections cause late orders and supplier penalties. We provide automated cash flow forecasting instead of manual cash flow tracking using spreadsheets.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Inconsistent cash flow projections leading to late orders and supplier penalties.",
+  "features": [
+    "simple cash flow projection interface",
+    "manual input for expenses",
+    "monthly reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Inconsistent cash flow projections leading to late orders and supplier penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, inconsistent cash flow projections cause late orders and supplier penalties. We provide automated cash flow forecasting instead of manual cash flow tracking using spreadsheets.",
+    "current_alternative": "manual cash flow tracking using spreadsheets",
+    "must_have_features": [
+      "simple cash flow projection interface",
+      "manual input for expenses",
+      "monthly reporting"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, inconsistent cash flow projections cause late orders and supplier penalties. We provide automated cash flow forecasting instead of manual cash flow tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-07",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

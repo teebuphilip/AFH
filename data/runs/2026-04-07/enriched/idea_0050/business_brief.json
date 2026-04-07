@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic operations staff managing calibration tasks for 5\u201315 pieces of equipment tool",
+  "description": "For medical clinic operations staff processing 5\u201315 calibration tasks/month, inconsistent scheduling causes compliance issues. We provide a scheduling tool instead of manual tracking via spreadsheets or paper logs.",
+  "target_audience": "medical clinic operations staff managing calibration tasks for 5\u201315 pieces of equipment",
+  "problem_solved": "Inconsistent scheduling and tracking of calibration tasks leading to potential compliance issues.",
+  "features": [
+    "task scheduling interface",
+    "calibration tracking log",
+    "reminder notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic operations staff managing calibration tasks for 5\u201315 pieces of equipment",
+    "primary_problem": "Inconsistent scheduling and tracking of calibration tasks leading to potential compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For medical clinic operations staff processing 5\u201315 calibration tasks/month, inconsistent scheduling causes compliance issues. We provide a scheduling tool instead of manual tracking via spreadsheets or paper logs.",
+    "current_alternative": "manual tracking via spreadsheets or paper logs",
+    "must_have_features": [
+      "task scheduling interface",
+      "calibration tracking log",
+      "reminder notifications"
+    ]
+  },
+  "one_liner": "For medical clinic operations staff processing 5\u201315 calibration tasks/month, inconsistent scheduling causes compliance issues. We provide a scheduling tool instead of manual tracking via spreadsheets or paper logs.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

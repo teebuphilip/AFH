@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "amazon sellers processing 10\u201320 contracts/month tool",
+  "description": "For amazon sellers processing 10\u201320 contracts/month, missed renewal reminders cause supplier penalties. We provide automated reminders instead of manual tracking via spreadsheets.",
+  "target_audience": "amazon sellers processing 10\u201320 contracts/month",
+  "problem_solved": "Difficulty in tracking contract expiration dates and renewal reminders leads to missed opportunities and potential penalties.",
+  "features": [
+    "Store contract terms",
+    "Set expiration date alerts",
+    "Manage renewal reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "amazon sellers processing 10\u201320 contracts/month",
+    "primary_problem": "Difficulty in tracking contract expiration dates and renewal reminders leads to missed opportunities and potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For amazon sellers processing 10\u201320 contracts/month, missed renewal reminders cause supplier penalties. We provide automated reminders instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "Store contract terms",
+      "Set expiration date alerts",
+      "Manage renewal reminders"
+    ]
+  },
+  "one_liner": "For amazon sellers processing 10\u201320 contracts/month, missed renewal reminders cause supplier penalties. We provide automated reminders instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-07",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

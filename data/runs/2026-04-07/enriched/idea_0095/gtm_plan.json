@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "hotel managers managing 20-50 employees",
+  "offer": "For hotel managers processing 20-50 employee shifts, inefficient scheduling causes staffing shortages. We streamline shift management instead of manual scheduling via spreadsheets.",
+  "problem": "inefficient shift scheduling and time-off management",
+  "channels_free": [
+    "Post in Reddit communities for hotel managers",
+    "Engage in Indie Hackers discussions about scheduling",
+    "DM 20-50 hotel managers with demo video",
+    "Join forums for hotel management tools"
+  ],
+  "try_it": "Let users try shift scheduling interface and time-off requests",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Create templates for common scheduling tasks",
+    "Set default reminders for shifts",
+    "Allow CSV import for existing schedules",
+    "Enable one-click report exports",
+    "Simplify onboarding steps for new users"
+  ]
+}

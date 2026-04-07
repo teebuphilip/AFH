@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, manual conversion causes late orders and missed discounts. We automate the conversion instead of manual conversion of quotes to POs.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in converting vendor quotes into formatted purchase orders",
+  "features": [
+    "Basic PO formatting options",
+    "Email export of formatted POs",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in converting vendor quotes into formatted purchase orders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, manual conversion causes late orders and missed discounts. We automate the conversion instead of manual conversion of quotes to POs.",
+    "current_alternative": "Manual conversion of quotes to POs",
+    "must_have_features": [
+      "Basic PO formatting options",
+      "Email export of formatted POs",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, manual conversion causes late orders and missed discounts. We automate the conversion instead of manual conversion of quotes to POs.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

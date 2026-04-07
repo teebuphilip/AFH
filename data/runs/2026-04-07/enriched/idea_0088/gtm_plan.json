@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "event organizers managing 5\u201315 hotel room blocks/month",
+  "offer": "For event organizers processing 5\u201315 hotel room blocks/month, inefficient booking processes cause late confirmations and potential overbooking. We streamline the booking process instead of manual booking through hotel websites or phone calls.",
+  "problem": "Inefficient booking processes for hotel room blocks",
+  "channels_free": [
+    "Post in Reddit communities for event organizers",
+    "Indie Hackers posts about booking challenges",
+    "DM outreach to event organizers with demo video",
+    "Community forums for event planning tools"
+  ],
+  "try_it": "Let users try room block management and email notifications for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a demo video showing the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Reduce steps in onboarding process"
+  ]
+}

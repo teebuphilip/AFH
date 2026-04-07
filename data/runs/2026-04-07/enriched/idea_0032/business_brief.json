@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm bookkeepers processing 5\u201315 trust account transactions/month tool",
+  "description": "For law firm bookkeepers processing 5\u201315 trust account transactions/month, inaccurate reconciliation causes compliance issues. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "law firm bookkeepers processing 5\u201315 trust account transactions/month",
+  "problem_solved": "Inaccurate reconciliation of trust account transactions",
+  "features": [
+    "manual transaction entry",
+    "transaction categorization",
+    "reconciliation reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm bookkeepers processing 5\u201315 trust account transactions/month",
+    "primary_problem": "Inaccurate reconciliation of trust account transactions",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firm bookkeepers processing 5\u201315 trust account transactions/month, inaccurate reconciliation causes compliance issues. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual transaction entry",
+      "transaction categorization",
+      "reconciliation reporting"
+    ]
+  },
+  "one_liner": "For law firm bookkeepers processing 5\u201315 trust account transactions/month, inaccurate reconciliation causes compliance issues. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

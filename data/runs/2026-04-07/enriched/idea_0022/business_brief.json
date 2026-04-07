@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Operations Administrators for Shopify stores processing 10\u201320 sales commissions/week tool",
+  "description": "For Sales Operations Administrators for Shopify stores processing 10\u201320 sales commissions/week, manual tracking causes late payouts. We generate automated weekly sales commission summaries instead of manual tracking and calculations using spreadsheets.",
+  "target_audience": "Sales Operations Administrators for Shopify stores processing 10\u201320 sales commissions/week",
+  "problem_solved": "Inaccurate or delayed commission payout summaries",
+  "features": [
+    "Customizable commission structures",
+    "Exportable reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Operations Administrators for Shopify stores processing 10\u201320 sales commissions/week",
+    "primary_problem": "Inaccurate or delayed commission payout summaries",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Administrators for Shopify stores processing 10\u201320 sales commissions/week, manual tracking causes late payouts. We generate automated weekly sales commission summaries instead of manual tracking and calculations using spreadsheets.",
+    "current_alternative": "Manual tracking and calculations using spreadsheets",
+    "must_have_features": [
+      "Customizable commission structures",
+      "Exportable reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Sales Operations Administrators for Shopify stores processing 10\u201320 sales commissions/week, manual tracking causes late payouts. We generate automated weekly sales commission summaries instead of manual tracking and calculations using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-07",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

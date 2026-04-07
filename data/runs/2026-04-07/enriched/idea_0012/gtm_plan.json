@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR finance teams in small marketing agencies processing 5\u201315 expense reports/month",
+  "offer": "For HR finance teams in small marketing agencies processing 5\u201315 expense reports/month, discrepancies cause cash flow gaps. We reconcile expense reports with credit card statements instead of manual reconciliation processes.",
+  "problem": "Discrepancies between employee expense reports and credit card statements",
+  "channels_free": [
+    "Post in Reddit communities for HR finance teams",
+    "Engage in Indie Hackers discussions on expense workflows",
+    "DM outreach to HR finance teams with demo video",
+    "Share insights in community forums for HR finance teams"
+  ],
+  "try_it": "Let users try manual entry for expense reports and flagging",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Update community weekly on progress"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

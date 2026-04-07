@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, manual conversion causes late orders and missed discounts. We automate the conversion instead of manual conversion of quotes to POs.",
+  "problem": "Difficulty in converting vendor quotes into formatted purchase orders",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to Etsy sellers with demo video",
+    "Community forums for Etsy seller tools"
+  ],
+  "try_it": "Let users try Basic PO formatting and Email export on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing vendor data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

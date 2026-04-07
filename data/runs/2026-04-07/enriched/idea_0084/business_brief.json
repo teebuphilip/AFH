@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "home services contractors processing 5\u201315 insurance claims/month tool",
+  "description": "For home services contractors processing 5\u201315 insurance claims/month, inefficient filing causes delayed payments. We streamline the claim filing process instead of manual claim filing processes.",
+  "target_audience": "home services contractors processing 5\u201315 insurance claims/month",
+  "problem_solved": "Inefficient filing of insurance claims leads to delayed payments.",
+  "features": [
+    "simple claim submission form",
+    "status tracking for claims",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "home services contractors processing 5\u201315 insurance claims/month",
+    "primary_problem": "Inefficient filing of insurance claims leads to delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For home services contractors processing 5\u201315 insurance claims/month, inefficient filing causes delayed payments. We streamline the claim filing process instead of manual claim filing processes.",
+    "current_alternative": "manual claim filing processes",
+    "must_have_features": [
+      "simple claim submission form",
+      "status tracking for claims",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For home services contractors processing 5\u201315 insurance claims/month, inefficient filing causes delayed payments. We streamline the claim filing process instead of manual claim filing processes.",
+  "source": {
+    "idea_id": "idea_0084",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

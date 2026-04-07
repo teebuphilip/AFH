@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical practice administrators managing 50\u2013100 patient appointments/week tool",
+  "description": "For medical practice administrators processing 50\u2013100 patient appointments/week, scheduling conflicts cause missed follow-ups. We automate appointment scheduling instead of manual scheduling and reminder calls.",
+  "target_audience": "medical practice administrators managing 50\u2013100 patient appointments/week",
+  "problem_solved": "Scheduling conflicts and missed follow-ups",
+  "features": [
+    "Appointment scheduling interface",
+    "User-friendly dashboard for managing appointments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical practice administrators managing 50\u2013100 patient appointments/week",
+    "primary_problem": "Scheduling conflicts and missed follow-ups",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical practice administrators processing 50\u2013100 patient appointments/week, scheduling conflicts cause missed follow-ups. We automate appointment scheduling instead of manual scheduling and reminder calls.",
+    "current_alternative": "manual scheduling and reminder calls",
+    "must_have_features": [
+      "Appointment scheduling interface",
+      "User-friendly dashboard for managing appointments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical practice administrators processing 50\u2013100 patient appointments/week, scheduling conflicts cause missed follow-ups. We automate appointment scheduling instead of manual scheduling and reminder calls.",
+  "source": {
+    "idea_id": "idea_0100",
+    "run_date": "2026-04-07",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

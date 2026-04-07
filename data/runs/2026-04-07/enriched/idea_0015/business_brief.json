@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounts payable supervisors in small accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For accounts payable supervisors in small accounting firms processing 5\u201315 invoices/month, manual tracking causes delays in resolving disputes. We provide automated weekly summaries instead of manual tracking through spreadsheets and emails.",
+  "target_audience": "accounts payable supervisors in small accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in tracking and resolving vendor disputes in a timely manner.",
+  "features": [
+    "Email notifications for new disputes",
+    "User-friendly dashboard for dispute tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounts payable supervisors in small accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in tracking and resolving vendor disputes in a timely manner.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounts payable supervisors in small accounting firms processing 5\u201315 invoices/month, manual tracking causes delays in resolving disputes. We provide automated weekly summaries instead of manual tracking through spreadsheets and emails.",
+    "current_alternative": "Manual tracking of vendor disputes through spreadsheets and emails.",
+    "must_have_features": [
+      "Email notifications for new disputes",
+      "User-friendly dashboard for dispute tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounts payable supervisors in small accounting firms processing 5\u201315 invoices/month, manual tracking causes delays in resolving disputes. We provide automated weekly summaries instead of manual tracking through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

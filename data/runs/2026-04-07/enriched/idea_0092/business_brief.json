@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 bids/month tool",
+  "description": "For construction contractors processing 5\u201315 bids/month, inefficient bid submission causes missed project opportunities. We streamline the bid submission process instead of manual bid submission via email and spreadsheets.",
+  "target_audience": "construction contractors processing 5\u201315 bids/month",
+  "problem_solved": "Inefficient bid submission process",
+  "features": [
+    "simple bid template creation",
+    "status tracking for submitted bids",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 bids/month",
+    "primary_problem": "Inefficient bid submission process",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 bids/month, inefficient bid submission causes missed project opportunities. We streamline the bid submission process instead of manual bid submission via email and spreadsheets.",
+    "current_alternative": "manual bid submission via email and spreadsheets",
+    "must_have_features": [
+      "simple bid template creation",
+      "status tracking for submitted bids",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 bids/month, inefficient bid submission causes missed project opportunities. We streamline the bid submission process instead of manual bid submission via email and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

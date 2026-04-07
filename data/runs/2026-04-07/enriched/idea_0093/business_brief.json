@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical office managers in dental clinics processing 20-50 appointments/week tool",
+  "description": "For medical office managers in dental clinics processing 20-50 appointments/week, missed appointments cause lost revenue. We automate reminders instead of manual appointment tracking and reminder calls.",
+  "target_audience": "medical office managers in dental clinics processing 20-50 appointments/week",
+  "problem_solved": "missed appointments leading to lost revenue",
+  "features": [
+    "dashboard for tracking appointment status",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical office managers in dental clinics processing 20-50 appointments/week",
+    "primary_problem": "missed appointments leading to lost revenue",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical office managers in dental clinics processing 20-50 appointments/week, missed appointments cause lost revenue. We automate reminders instead of manual appointment tracking and reminder calls.",
+    "current_alternative": "manual appointment tracking and reminder calls",
+    "must_have_features": [
+      "dashboard for tracking appointment status",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For medical office managers in dental clinics processing 20-50 appointments/week, missed appointments cause lost revenue. We automate reminders instead of manual appointment tracking and reminder calls.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

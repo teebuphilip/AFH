@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201320 invoices/month",
+  "offer": "For accounting firms processing 10\u201320 invoices/month, manual log generation causes late compliance reports. We automate compliance audit logs instead of manual log generation and tracking.",
+  "problem": "Difficulty in generating timely compliance audit logs.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Engage in Indie Hackers discussions on compliance",
+    "DM outreach to 20-50 accounting firms with demo",
+    "Share insights in accounting forums and groups"
+  ],
+  "try_it": "Let users try manual log entry for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant accounting staff processing 10\u201320 invoices/month",
+  "offer": "For restaurant accounting staff processing 10\u201320 invoices/month, inefficient manual processing causes delayed payments. We automate invoice batching instead of manual entry and scheduling of payments.",
+  "problem": "Inefficient manual processing of vendor invoices leads to delayed payments.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant accounting help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to restaurant accounting staff with demo video",
+    "Community forums where accounting staff share tools"
+  ],
+  "try_it": "Let users try manual invoice entry and payment scheduling on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

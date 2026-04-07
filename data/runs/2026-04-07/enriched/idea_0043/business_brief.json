@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality procurement officers managing 10-20 suppliers tool",
+  "description": "For hospitality procurement officers processing 10-20 suppliers, inconsistent inventory levels cause stockouts. We automate weekly inventory restock alerts instead of manual tracking of inventory levels.",
+  "target_audience": "hospitality procurement officers managing 10-20 suppliers",
+  "problem_solved": "Inconsistent inventory levels leading to stockouts",
+  "features": [
+    "manual input for current inventory levels",
+    "weekly alert notifications",
+    "simple dashboard for inventory overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality procurement officers managing 10-20 suppliers",
+    "primary_problem": "Inconsistent inventory levels leading to stockouts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality procurement officers processing 10-20 suppliers, inconsistent inventory levels cause stockouts. We automate weekly inventory restock alerts instead of manual tracking of inventory levels.",
+    "current_alternative": "manual tracking of inventory levels",
+    "must_have_features": [
+      "manual input for current inventory levels",
+      "weekly alert notifications",
+      "simple dashboard for inventory overview"
+    ]
+  },
+  "one_liner": "For hospitality procurement officers processing 10-20 suppliers, inconsistent inventory levels cause stockouts. We automate weekly inventory restock alerts instead of manual tracking of inventory levels.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-07",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

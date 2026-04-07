@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics operations supervisors managing 5\u201315 fleet vehicles tool",
+  "description": "For logistics operations supervisors managing 5\u201315 fleet vehicles, discrepancies in vehicle mileage tracking cause late deliveries. We provide automated mileage monitoring instead of manual mileage logs and spreadsheets.",
+  "target_audience": "logistics operations supervisors managing 5\u201315 fleet vehicles",
+  "problem_solved": "discrepancies in vehicle mileage tracking",
+  "features": [
+    "manual entry for mileage discrepancies",
+    "real-time alerts for flagged discrepancies",
+    "simple dashboard for tracking vehicle performance"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics operations supervisors managing 5\u201315 fleet vehicles",
+    "primary_problem": "discrepancies in vehicle mileage tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics operations supervisors managing 5\u201315 fleet vehicles, discrepancies in vehicle mileage tracking cause late deliveries. We provide automated mileage monitoring instead of manual mileage logs and spreadsheets.",
+    "current_alternative": "manual mileage logs and spreadsheets",
+    "must_have_features": [
+      "manual entry for mileage discrepancies",
+      "real-time alerts for flagged discrepancies",
+      "simple dashboard for tracking vehicle performance"
+    ]
+  },
+  "one_liner": "For logistics operations supervisors managing 5\u201315 fleet vehicles, discrepancies in vehicle mileage tracking cause late deliveries. We provide automated mileage monitoring instead of manual mileage logs and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

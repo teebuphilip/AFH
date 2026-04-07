@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+  "offer": "For HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month, unusual employee hours cause payroll errors. We provide a payroll exception reporter instead of manual tracking in spreadsheets.",
+  "problem": "Unusual employee hours or compensation leading to payroll errors",
+  "channels_free": [
+    "Post in Reddit communities for HR teams seeking solutions",
+    "Engage in Indie Hackers discussions on payroll workflows",
+    "DM 20-50 HR teams with demo video links",
+    "Share insights in community forums for HR tools"
+  ],
+  "try_it": "Let users flag unusual hours and report discrepancies on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Implement preset reminder schedules",
+    "Enable CSV import for existing payroll data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

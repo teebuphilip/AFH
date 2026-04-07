@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firms processing 5\u201315 invoices/month tool",
+  "description": "For small law firms processing 5\u201315 invoices/month, inaccurate billing causes cash flow gaps. We convert legal case activity logs into client billing summaries instead of manual billing processes using spreadsheets.",
+  "target_audience": "small law firms processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate billing summaries due to manual tracking of case activities.",
+  "features": [
+    "manual entry of case activity logs",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firms processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate billing summaries due to manual tracking of case activities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law firms processing 5\u201315 invoices/month, inaccurate billing causes cash flow gaps. We convert legal case activity logs into client billing summaries instead of manual billing processes using spreadsheets.",
+    "current_alternative": "manual billing processes using spreadsheets",
+    "must_have_features": [
+      "manual entry of case activity logs",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For small law firms processing 5\u201315 invoices/month, inaccurate billing causes cash flow gaps. We convert legal case activity logs into client billing summaries instead of manual billing processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-07",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

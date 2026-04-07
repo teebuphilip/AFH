@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause supplier penalties. We provide timely alerts instead of manual tracking of payment due dates.",
+  "problem": "Missed payment deadlines leading to late orders and supplier penalties.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to Etsy sellers with demo video",
+    "Participate in forums where Etsy sellers share tools"
+  ],
+  "try_it": "Let users try due date reminders via email and dashboard.",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Offer default reminder schedule presets",
+    "Enable CSV import for existing data",
+    "Allow one-click export of simple reports",
+    "Streamline onboarding to reduce steps"
+  ]
+}

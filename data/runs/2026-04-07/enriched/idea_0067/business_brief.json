@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "warehouse managers in e-commerce processing 50\u2013100 orders/week tool",
+  "description": "For warehouse managers in e-commerce processing 50\u2013100 orders/week, inefficient inventory turnover causes excess stock and missed sales opportunities. We provide an inventory turnover analyzer instead of manual inventory tracking spreadsheets.",
+  "target_audience": "warehouse managers in e-commerce processing 50\u2013100 orders/week",
+  "problem_solved": "inefficient inventory turnover leading to excess stock and missed sales opportunities",
+  "features": [
+    "real-time stock movement tracking",
+    "slow-moving item identification",
+    "user-friendly dashboard for inventory insights"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "warehouse managers in e-commerce processing 50\u2013100 orders/week",
+    "primary_problem": "inefficient inventory turnover leading to excess stock and missed sales opportunities",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For warehouse managers in e-commerce processing 50\u2013100 orders/week, inefficient inventory turnover causes excess stock and missed sales opportunities. We provide an inventory turnover analyzer instead of manual inventory tracking spreadsheets.",
+    "current_alternative": "manual inventory tracking spreadsheets",
+    "must_have_features": [
+      "real-time stock movement tracking",
+      "slow-moving item identification",
+      "user-friendly dashboard for inventory insights"
+    ]
+  },
+  "one_liner": "For warehouse managers in e-commerce processing 50\u2013100 orders/week, inefficient inventory turnover causes excess stock and missed sales opportunities. We provide an inventory turnover analyzer instead of manual inventory tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-07",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

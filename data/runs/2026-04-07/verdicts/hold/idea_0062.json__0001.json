@@ -1,0 +1,16 @@
+{
+  "idea_text": "Compliance reporting tool that aggregates and formats regulatory data for risk and audit teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 69,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-07T10:31:30.277996",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}
