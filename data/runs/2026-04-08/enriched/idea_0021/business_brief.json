@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, missed payroll tax filing deadlines cause penalties and client dissatisfaction. We provide timely reminders instead of manual tracking of deadlines.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Missed payroll tax filing deadlines",
+  "features": [
+    "Deadline tracking",
+    "Client management dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Missed payroll tax filing deadlines",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, missed payroll tax filing deadlines cause penalties and client dissatisfaction. We provide timely reminders instead of manual tracking of deadlines.",
+    "current_alternative": "manual tracking of deadlines",
+    "must_have_features": [
+      "Deadline tracking",
+      "Client management dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, missed payroll tax filing deadlines cause penalties and client dissatisfaction. We provide timely reminders instead of manual tracking of deadlines.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-08",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

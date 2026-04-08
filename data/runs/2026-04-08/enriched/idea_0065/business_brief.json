@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "compliance officers in accounting firms processing 5\u201315 regulatory reports/month tool",
+  "description": "For compliance officers in accounting firms processing 5\u201315 regulatory reports/month, manual report generation causes late filings. We automate the report generation and filing instead of manual report generation and filing.",
+  "target_audience": "compliance officers in accounting firms processing 5\u201315 regulatory reports/month",
+  "problem_solved": "Manual generation and filing of regulatory reports is time-consuming and error-prone.",
+  "features": [
+    "template-based report generation",
+    "user-friendly dashboard for tracking submissions",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "compliance officers in accounting firms processing 5\u201315 regulatory reports/month",
+    "primary_problem": "Manual generation and filing of regulatory reports is time-consuming and error-prone.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For compliance officers in accounting firms processing 5\u201315 regulatory reports/month, manual report generation causes late filings. We automate the report generation and filing instead of manual report generation and filing.",
+    "current_alternative": "manual report generation and filing",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly dashboard for tracking submissions",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For compliance officers in accounting firms processing 5\u201315 regulatory reports/month, manual report generation causes late filings. We automate the report generation and filing instead of manual report generation and filing.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

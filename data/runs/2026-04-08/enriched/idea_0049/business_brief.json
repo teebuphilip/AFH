@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers at medical clinics processing 5\u201315 payroll reports/week tool",
+  "description": "For HR managers at medical clinics processing 5\u201315 payroll reports/week, manual compliance checks cause late reports. We automate compliance reporting instead of manual payroll processing and compliance checks.",
+  "target_audience": "HR managers at medical clinics processing 5\u201315 payroll reports/week",
+  "problem_solved": "Ensuring compliance with payroll regulations and timely reporting.",
+  "features": [
+    "User-friendly dashboard for report access",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers at medical clinics processing 5\u201315 payroll reports/week",
+    "primary_problem": "Ensuring compliance with payroll regulations and timely reporting.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR managers at medical clinics processing 5\u201315 payroll reports/week, manual compliance checks cause late reports. We automate compliance reporting instead of manual payroll processing and compliance checks.",
+    "current_alternative": "Manual payroll processing and compliance checks.",
+    "must_have_features": [
+      "User-friendly dashboard for report access",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For HR managers at medical clinics processing 5\u201315 payroll reports/week, manual compliance checks cause late reports. We automate compliance reporting instead of manual payroll processing and compliance checks.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-08",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

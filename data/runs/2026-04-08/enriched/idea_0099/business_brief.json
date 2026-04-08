@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10\u201320 patients/day tool",
+  "description": "For medical clinics processing 10\u201320 patients/day, inefficient data analysis causes delayed decision-making. We provide streamlined analytics instead of manual data entry and analysis using spreadsheets.",
+  "target_audience": "medical clinics processing 10\u201320 patients/day",
+  "problem_solved": "Inefficient patient data analysis leading to delayed decision-making.",
+  "features": [
+    "dashboard for patient metrics",
+    "data visualization tools",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10\u201320 patients/day",
+    "primary_problem": "Inefficient patient data analysis leading to delayed decision-making.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10\u201320 patients/day, inefficient data analysis causes delayed decision-making. We provide streamlined analytics instead of manual data entry and analysis using spreadsheets.",
+    "current_alternative": "manual data entry and analysis using spreadsheets",
+    "must_have_features": [
+      "dashboard for patient metrics",
+      "data visualization tools",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10\u201320 patients/day, inefficient data analysis causes delayed decision-making. We provide streamlined analytics instead of manual data entry and analysis using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-08",
+    "overlay_score": 54,
+    "arr_score": 54
+  }
+}

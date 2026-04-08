@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical clinic intake coordinators processing 10\u201320 patient eligibility verifications/month",
+  "offer": "For medical clinic intake coordinators processing 10\u201320 invoices/month, time-consuming manual verification causes delays in patient intake. We streamline eligibility reporting instead of manual verification processes using spreadsheets and phone calls.",
+  "problem": "Time-consuming manual verification of patient insurance eligibility",
+  "channels_free": [
+    "Post in Reddit communities for medical intake coordinators",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to medical intake coordinators with demo video",
+    "Community forums for sharing tools among intake coordinators"
+  ],
+  "try_it": "Let users manually enter patient info and generate reports for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

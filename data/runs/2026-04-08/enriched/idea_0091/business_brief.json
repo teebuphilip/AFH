@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 bids/month tool",
+  "description": "For construction contractors processing 5\u201315 bids/month, inefficient bid proposal generation causes missed deadlines. We automate bid proposal generation instead of manual bid proposal creation using templates.",
+  "target_audience": "construction contractors processing 5\u201315 bids/month",
+  "problem_solved": "Inefficient bid proposal generation leads to missed deadlines and lost contracts.",
+  "features": [
+    "template customization",
+    "status tracking for proposals",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 bids/month",
+    "primary_problem": "Inefficient bid proposal generation leads to missed deadlines and lost contracts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 bids/month, inefficient bid proposal generation causes missed deadlines. We automate bid proposal generation instead of manual bid proposal creation using templates.",
+    "current_alternative": "manual bid proposal creation using templates",
+    "must_have_features": [
+      "template customization",
+      "status tracking for proposals",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 bids/month, inefficient bid proposal generation causes missed deadlines. We automate bid proposal generation instead of manual bid proposal creation using templates.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility invoices/month tool",
+  "description": "For property managers processing 5\u201315 invoices/month, inaccurate utility bill payments cause cash flow gaps. We track and reconcile utility bill payments instead of manual tracking of utility bills and contracts.",
+  "target_audience": "property managers processing 5\u201315 utility invoices/month",
+  "problem_solved": "Inaccurate utility bill payments leading to financial discrepancies.",
+  "features": [
+    "monthly discrepancy notifications",
+    "manual entry of utility contracts",
+    "simple reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility invoices/month",
+    "primary_problem": "Inaccurate utility bill payments leading to financial discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 invoices/month, inaccurate utility bill payments cause cash flow gaps. We track and reconcile utility bill payments instead of manual tracking of utility bills and contracts.",
+    "current_alternative": "manual tracking of utility bills and contracts",
+    "must_have_features": [
+      "monthly discrepancy notifications",
+      "manual entry of utility contracts",
+      "simple reporting dashboard"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 invoices/month, inaccurate utility bill payments cause cash flow gaps. We track and reconcile utility bill payments instead of manual tracking of utility bills and contracts.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-08",
+    "overlay_score": 73,
+    "arr_score": 75
+  }
+}

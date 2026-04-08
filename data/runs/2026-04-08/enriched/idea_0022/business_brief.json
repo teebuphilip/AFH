@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201350 invoices/month tool",
+  "description": "For logistics carriers processing 10\u201350 invoices/month, overcharges on freight bills cause cash flow gaps. We reconcile freight bills against carrier contracts instead of manual reconciliation processes or spreadsheets.",
+  "target_audience": "logistics carriers processing 10\u201350 invoices/month",
+  "problem_solved": "Overcharges on freight bills due to lack of reconciliation with carrier contracts.",
+  "features": [
+    "manual bill entry",
+    "monthly report generation",
+    "overcharge flagging"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201350 invoices/month",
+    "primary_problem": "Overcharges on freight bills due to lack of reconciliation with carrier contracts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201350 invoices/month, overcharges on freight bills cause cash flow gaps. We reconcile freight bills against carrier contracts instead of manual reconciliation processes or spreadsheets.",
+    "current_alternative": "manual reconciliation processes or spreadsheets",
+    "must_have_features": [
+      "manual bill entry",
+      "monthly report generation",
+      "overcharge flagging"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201350 invoices/month, overcharges on freight bills cause cash flow gaps. We reconcile freight bills against carrier contracts instead of manual reconciliation processes or spreadsheets.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-08",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

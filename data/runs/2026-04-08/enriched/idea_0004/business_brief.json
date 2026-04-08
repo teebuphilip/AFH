@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 transactions/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 transactions/month, manual categorization causes delays in financial reporting. We automate expense categorization instead of manual expense tracking and reporting.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 transactions/month",
+  "problem_solved": "Manual categorization of expenses is time-consuming and prone to errors.",
+  "features": [
+    "monthly summary reports",
+    "user-friendly interface for manual adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 transactions/month",
+    "primary_problem": "Manual categorization of expenses is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 transactions/month, manual categorization causes delays in financial reporting. We automate expense categorization instead of manual expense tracking and reporting.",
+    "current_alternative": "manual expense tracking and reporting",
+    "must_have_features": [
+      "monthly summary reports",
+      "user-friendly interface for manual adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 transactions/month, manual categorization causes delays in financial reporting. We automate expense categorization instead of manual expense tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-08",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics dispatch managers processing 50\u2013100 deliveries/day tool",
+  "description": "For logistics dispatch managers processing 50\u2013100 deliveries/day, delivery exceptions cause late orders. We compile daily exception reports instead of manual tracking through spreadsheets.",
+  "target_audience": "logistics dispatch managers processing 50\u2013100 deliveries/day",
+  "problem_solved": "Inability to quickly identify and resolve delivery exceptions, leading to late orders.",
+  "features": [
+    "daily report generation",
+    "exception categorization",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics dispatch managers processing 50\u2013100 deliveries/day",
+    "primary_problem": "Inability to quickly identify and resolve delivery exceptions, leading to late orders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics dispatch managers processing 50\u2013100 deliveries/day, delivery exceptions cause late orders. We compile daily exception reports instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking of delivery exceptions through spreadsheets",
+    "must_have_features": [
+      "daily report generation",
+      "exception categorization",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For logistics dispatch managers processing 50\u2013100 deliveries/day, delivery exceptions cause late orders. We compile daily exception reports instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0033",
+    "run_date": "2026-04-08",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

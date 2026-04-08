@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/month tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/month, inefficient route planning causes increased fuel costs. We provide optimized routing instead of manual route planning and basic telematics analysis.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/month",
+  "problem_solved": "Inefficient route planning and fuel usage",
+  "features": [
+    "real-time telematics data visualization",
+    "basic route optimization algorithms",
+    "fuel consumption tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/month",
+    "primary_problem": "Inefficient route planning and fuel usage",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/month, inefficient route planning causes increased fuel costs. We provide optimized routing instead of manual route planning and basic telematics analysis.",
+    "current_alternative": "manual route planning and basic telematics analysis",
+    "must_have_features": [
+      "real-time telematics data visualization",
+      "basic route optimization algorithms",
+      "fuel consumption tracking"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/month, inefficient route planning causes increased fuel costs. We provide optimized routing instead of manual route planning and basic telematics analysis.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-08",
+    "overlay_score": 65,
+    "arr_score": 67
+  }
+}

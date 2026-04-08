@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, manual tracking causes late filings. We automate report generation instead of manual tracking and reporting using spreadsheets.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in generating accurate tax compliance reports from sales data.",
+  "features": [
+    "Generate monthly tax compliance reports",
+    "Submit formatted filings automatically",
+    "Provide a user-friendly dashboard for sales data overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in generating accurate tax compliance reports from sales data.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, manual tracking causes late filings. We automate report generation instead of manual tracking and reporting using spreadsheets.",
+    "current_alternative": "Manual tracking and reporting using spreadsheets.",
+    "must_have_features": [
+      "Generate monthly tax compliance reports",
+      "Submit formatted filings automatically",
+      "Provide a user-friendly dashboard for sales data overview"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, manual tracking causes late filings. We automate report generation instead of manual tracking and reporting using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-08",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "idea_text": "Service that monitors sales commission data and alerts sales ops of calculation anomalies weekly before payouts.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 62,
+  "arr_score": 60
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "home services technicians processing 10\u201320 jobs/week tool",
+  "description": "For home services technicians processing 10\u201320 jobs/week, inefficient routing causes missed appointments. We optimize technician routes instead of manual scheduling and route planning.",
+  "target_audience": "home services technicians processing 10\u201320 jobs/week",
+  "problem_solved": "Inefficient routing leads to increased travel time and missed appointments.",
+  "features": [
+    "manual route input",
+    "job prioritization",
+    "real-time updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "home services technicians processing 10\u201320 jobs/week",
+    "primary_problem": "Inefficient routing leads to increased travel time and missed appointments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For home services technicians processing 10\u201320 jobs/week, inefficient routing causes missed appointments. We optimize technician routes instead of manual scheduling and route planning.",
+    "current_alternative": "manual scheduling and route planning",
+    "must_have_features": [
+      "manual route input",
+      "job prioritization",
+      "real-time updates"
+    ]
+  },
+  "one_liner": "For home services technicians processing 10\u201320 jobs/week, inefficient routing causes missed appointments. We optimize technician routes instead of manual scheduling and route planning.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

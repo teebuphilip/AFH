@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "office managers in small accounting firms processing 5\u201315 petty cash transactions/week tool",
+  "description": "For office managers in small accounting firms processing 5\u201315 petty cash transactions/week, manual reconciliation causes late reports and potential cash flow gaps. We automate reconciliation and reporting instead of manual tracking and reconciliation using spreadsheets.",
+  "target_audience": "office managers in small accounting firms processing 5\u201315 petty cash transactions/week",
+  "problem_solved": "manual reconciliation of petty cash accounts",
+  "features": [
+    "weekly email reports to office managers",
+    "user-friendly dashboard for transaction overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "office managers in small accounting firms processing 5\u201315 petty cash transactions/week",
+    "primary_problem": "manual reconciliation of petty cash accounts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For office managers in small accounting firms processing 5\u201315 petty cash transactions/week, manual reconciliation causes late reports and potential cash flow gaps. We automate reconciliation and reporting instead of manual tracking and reconciliation using spreadsheets.",
+    "current_alternative": "manual tracking and reconciliation using spreadsheets",
+    "must_have_features": [
+      "weekly email reports to office managers",
+      "user-friendly dashboard for transaction overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For office managers in small accounting firms processing 5\u201315 petty cash transactions/week, manual reconciliation causes late reports and potential cash flow gaps. We automate reconciliation and reporting instead of manual tracking and reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0051",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

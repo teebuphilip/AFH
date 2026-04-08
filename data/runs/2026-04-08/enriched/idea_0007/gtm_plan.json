@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "vendor managers in small to medium-sized e-commerce businesses using Shopify, processing 10-20 invoices/month",
+  "offer": "For vendor managers in small to medium-sized e-commerce businesses using Shopify processing 10-20 invoices/month, inefficient tracking causes cash flow gaps. We automate weekly procurement spend summaries instead of manual tracking and reporting through spreadsheets.",
+  "problem": "Inefficient tracking of procurement spend across multiple systems.",
+  "channels_free": [
+    "Post in Reddit communities for vendor managers seeking solutions",
+    "Engage in Indie Hackers discussions about similar workflows",
+    "DM outreach to vendor managers with demo video links",
+    "Participate in community forums for sharing tools and advice"
+  ],
+  "try_it": "Let users try Email notifications and Customizable report templates",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with clear CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of reports",
+    "Streamline onboarding process"
+  ]
+}

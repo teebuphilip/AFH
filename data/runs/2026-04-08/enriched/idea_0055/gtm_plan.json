@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We provide timely alerts instead of manual tracking of payment due dates.",
+  "problem": "Late payments to vendors",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Engage on Indie Hackers about similar issues",
+    "DM 20-50 Etsy sellers with demo links",
+    "Share in community forums for Etsy sellers"
+  ],
+  "try_it": "Let users try payment reminders on 1-3 invoices",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with clear CTA",
+    "Produce a short demo video of the tool",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Pre-set reminder schedules for users",
+    "Allow CSV imports for existing invoices",
+    "Enable one-click report exports",
+    "Streamline onboarding process for new users"
+  ]
+}

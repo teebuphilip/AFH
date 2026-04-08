@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic intake coordinators processing 10\u201320 patient eligibility verifications/month tool",
+  "description": "For medical clinic intake coordinators processing 10\u201320 invoices/month, time-consuming manual verification causes delays in patient intake. We automate eligibility reporting instead of manual verification processes using spreadsheets and phone calls.",
+  "target_audience": "medical clinic intake coordinators processing 10\u201320 patient eligibility verifications/month",
+  "problem_solved": "Time-consuming manual verification of patient insurance eligibility",
+  "features": [
+    "manual entry of patient information",
+    "generation of eligibility reports",
+    "export functionality for reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic intake coordinators processing 10\u201320 patient eligibility verifications/month",
+    "primary_problem": "Time-consuming manual verification of patient insurance eligibility",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic intake coordinators processing 10\u201320 invoices/month, time-consuming manual verification causes delays in patient intake. We automate eligibility reporting instead of manual verification processes using spreadsheets and phone calls.",
+    "current_alternative": "manual verification processes using spreadsheets and phone calls",
+    "must_have_features": [
+      "manual entry of patient information",
+      "generation of eligibility reports",
+      "export functionality for reports"
+    ]
+  },
+  "one_liner": "For medical clinic intake coordinators processing 10\u201320 invoices/month, time-consuming manual verification causes delays in patient intake. We automate eligibility reporting instead of manual verification processes using spreadsheets and phone calls.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-08",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

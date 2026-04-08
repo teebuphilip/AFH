@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Fleet compliance officers managing 5-15 vehicles",
+  "offer": "For fleet compliance officers managing 5-15 vehicles, inaccurate mileage reporting causes compliance issues. We provide automated mileage tracking instead of manual mileage tracking spreadsheets.",
+  "problem": "Inaccurate mileage reporting leading to compliance issues",
+  "channels_free": [
+    "Post in Reddit communities for fleet compliance officers",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to fleet compliance officers with demo video",
+    "Community forums where fleet compliance officers share tools"
+  ],
+  "try_it": "Let users try manual entry and basic reporting dashboard",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with clear one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

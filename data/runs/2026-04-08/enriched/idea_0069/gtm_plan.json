@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201320 invoices/month",
+  "offer": "For accounting firms processing 10\u201320 invoices/month, delayed financial reporting causes missed client insights. We automate report generation and distribution instead of manual report generation and email distribution.",
+  "problem": "Delayed financial reporting to clients",
+  "channels_free": [
+    "Post in Reddit communities for accounting help",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to accounting firms with demo video",
+    "Participate in community forums for accounting tools"
+  ],
+  "try_it": "Let users try report generation and email scheduling on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as report templates",
+    "Provide preset reminder schedules",
+    "Allow CSV import for existing client data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps for new users"
+  ]
+}

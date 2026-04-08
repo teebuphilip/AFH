@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 10\u201320 clients/month tool",
+  "description": "For insurance brokers processing 10\u201320 clients/month, regulatory changes cause compliance penalties. We provide automated compliance monitoring instead of manual tracking of compliance requirements.",
+  "target_audience": "insurance brokers processing 10\u201320 clients/month",
+  "problem_solved": "Difficulty in ensuring compliance with ever-changing regulations.",
+  "features": [
+    "compliance checklist for client interactions",
+    "monthly compliance reporting",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 10\u201320 clients/month",
+    "primary_problem": "Difficulty in ensuring compliance with ever-changing regulations.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For insurance brokers processing 10\u201320 clients/month, regulatory changes cause compliance penalties. We provide automated compliance monitoring instead of manual tracking of compliance requirements.",
+    "current_alternative": "manual tracking of compliance requirements",
+    "must_have_features": [
+      "compliance checklist for client interactions",
+      "monthly compliance reporting",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10\u201320 clients/month, regulatory changes cause compliance penalties. We provide automated compliance monitoring instead of manual tracking of compliance requirements.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

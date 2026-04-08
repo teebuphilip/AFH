@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 apartment buildings tool",
+  "description": "For property managers handling 5\u201315 apartment buildings, processing monthly reports causes significant time loss. We automate report generation instead of manual report creation using spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 apartment buildings",
+  "problem_solved": "Time-consuming report generation",
+  "features": [
+    "template-based report generation",
+    "data input forms for property details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 apartment buildings",
+    "primary_problem": "Time-consuming report generation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 apartment buildings, processing monthly reports causes significant time loss. We automate report generation instead of manual report creation using spreadsheets.",
+    "current_alternative": "manual report creation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "data input forms for property details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 apartment buildings, processing monthly reports causes significant time loss. We automate report generation instead of manual report creation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-08",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

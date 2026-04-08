@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics coordinators for amazon sellers manual tool",
+    "logistics coordinators for amazon sellers manual automation",
+    "logistics workflow",
+    "shipment tracking",
+    "logistics coordinators for amazon sellers processing 50 100 shipments month manual tool",
+    "logistics coordinators for amazon sellers processing 50 100 shipments month manual automation",
+    "logistics coordinators for amazon sellers processing 50 100 shipments month manual workflow"
+  ],
+  "secondary_keywords": [
+    "logistics workflow software",
+    "logistics workflow platform",
+    "logistics workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to logistics workflow",
+    "best logistics workflow tool",
+    "logistics workflow vs spreadsheets",
+    "logistics workflow checklist",
+    "logistics workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics coordinators for Amazon sellers processing 50\u2013100 shipments/month, manual label generation causes late orders. We automate shipping label creation and tracking updates instead of manual label creation and tracking updates through Amazon Seller Central.",
+    "Manual generation of shipping labels and tracking updates is time-consuming.",
+    "logistics coordinators for Amazon sellers processing 50\u2013100 shipments/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Logistics Workflow",
+      "target_keyword": "how to logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Logistics Workflow Tool",
+      "target_keyword": "best logistics workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Vs Spreadsheets",
+      "target_keyword": "logistics workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Checklist",
+      "target_keyword": "logistics workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Pricing",
+      "target_keyword": "logistics workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Software",
+      "target_keyword": "logistics workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Platform",
+      "target_keyword": "logistics workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Solution",
+      "target_keyword": "logistics workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow",
+      "target_keyword": "logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Shipment Tracking",
+      "target_keyword": "shipment tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Coordinators For Amazon Sellers Processing 50 100 Shipments Month Manual Tool",
+      "target_keyword": "logistics coordinators for amazon sellers processing 50 100 shipments month manual tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Coordinators For Amazon Sellers Processing 50 100 Shipments Month Manual Automation",
+      "target_keyword": "logistics coordinators for amazon sellers processing 50 100 shipments month manual automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics coordinators for amazon sellers manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics coordinators for amazon sellers manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics coordinators for amazon sellers manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics coordinators for amazon sellers manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics coordinators for amazon sellers manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics coordinators for amazon sellers tool",
+      "logistics coordinators for amazon sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics coordinators for amazon sellers tool helps with manual generation of shipping labels and tracking updates is time-consuming."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers managing 5\u201315 properties/month tool",
+  "description": "For property managers managing 5\u201315 properties/month, missed lease renewals cause cash flow gaps. We automate renewal reminders instead of manual tracking of lease dates using spreadsheets or calendars.",
+  "target_audience": "property managers managing 5\u201315 properties/month",
+  "problem_solved": "Difficulty in tracking lease expiry dates and scheduling renewals.",
+  "features": [
+    "Extract lease expiry dates from documents",
+    "Send monthly renewal reminders",
+    "Provide a dashboard for tracking lease statuses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers managing 5\u201315 properties/month",
+    "primary_problem": "Difficulty in tracking lease expiry dates and scheduling renewals.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers managing 5\u201315 properties/month, missed lease renewals cause cash flow gaps. We automate renewal reminders instead of manual tracking of lease dates using spreadsheets or calendars.",
+    "current_alternative": "manual tracking of lease dates using spreadsheets or calendars",
+    "must_have_features": [
+      "Extract lease expiry dates from documents",
+      "Send monthly renewal reminders",
+      "Provide a dashboard for tracking lease statuses"
+    ]
+  },
+  "one_liner": "For property managers managing 5\u201315 properties/month, missed lease renewals cause cash flow gaps. We automate renewal reminders instead of manual tracking of lease dates using spreadsheets or calendars.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-08",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

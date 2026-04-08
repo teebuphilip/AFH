@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality accountants managing 10-20 restaurant clients tool",
+  "description": "For hospitality accountants managing 10-20 restaurant clients, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "hospitality accountants managing 10-20 restaurant clients",
+  "problem_solved": "Inaccurate reconciliation of daily sales reports with POS transactions",
+  "features": [
+    "manual data entry for sales reports",
+    "basic reporting dashboard",
+    "error notification system"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality accountants managing 10-20 restaurant clients",
+    "primary_problem": "Inaccurate reconciliation of daily sales reports with POS transactions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality accountants managing 10-20 restaurant clients, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual data entry for sales reports",
+      "basic reporting dashboard",
+      "error notification system"
+    ]
+  },
+  "one_liner": "For hospitality accountants managing 10-20 restaurant clients, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-08",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

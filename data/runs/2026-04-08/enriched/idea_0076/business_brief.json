@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 10\u201320 claims/month tool",
+  "description": "For insurance adjusters processing 10\u201320 claims/month, delayed fraud detection causes financial losses. We provide automated fraud flagging instead of manual review of claims data.",
+  "target_audience": "insurance adjusters processing 10\u201320 claims/month",
+  "problem_solved": "Identifying potential fraud in insurance claims",
+  "features": [
+    "claim data monitoring",
+    "fraud flagging alerts",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 10\u201320 claims/month",
+    "primary_problem": "Identifying potential fraud in insurance claims",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 10\u201320 claims/month, delayed fraud detection causes financial losses. We provide automated fraud flagging instead of manual review of claims data.",
+    "current_alternative": "manual review of claims data",
+    "must_have_features": [
+      "claim data monitoring",
+      "fraud flagging alerts",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 10\u201320 claims/month, delayed fraud detection causes financial losses. We provide automated fraud flagging instead of manual review of claims data.",
+  "source": {
+    "idea_id": "idea_0076",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

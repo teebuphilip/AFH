@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers overseeing 5-15 staff members tool",
+  "description": "For restaurant managers overseeing 5-15 staff members, inconsistent scheduling causes operational disruptions. We provide a monitoring tool instead of manual scheduling and oversight.",
+  "target_audience": "restaurant managers overseeing 5-15 staff members",
+  "problem_solved": "inconsistent staff scheduling leading to operational disruptions",
+  "features": [
+    "real-time scheduling alerts",
+    "exception reporting",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers overseeing 5-15 staff members",
+    "primary_problem": "inconsistent staff scheduling leading to operational disruptions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers overseeing 5-15 staff members, inconsistent scheduling causes operational disruptions. We provide a monitoring tool instead of manual scheduling and oversight.",
+    "current_alternative": "manual scheduling and oversight",
+    "must_have_features": [
+      "real-time scheduling alerts",
+      "exception reporting",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For restaurant managers overseeing 5-15 staff members, inconsistent scheduling causes operational disruptions. We provide a monitoring tool instead of manual scheduling and oversight.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

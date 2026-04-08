@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr operations for small accounting firms discrepancies tool",
+    "hr operations for small accounting firms discrepancies automation",
+    "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies tool",
+    "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies automation",
+    "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies workflow"
+  ],
+  "secondary_keywords": [
+    "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies tool software",
+    "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies tool platform",
+    "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR operations for small accounting firms processing 5\u201315 payroll submissions/month, discrepancies cause payroll delays. We monitor submissions instead of manual checks and reconciliations.",
+    "Discrepancies or missing entries in payroll submissions",
+    "HR operations for small accounting firms processing 5\u201315 payroll submissions/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Operations For Small Accounting Firms Processing 5 15 Payroll Submissions Month Discrepancies Tool Software",
+      "target_keyword": "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations For Small Accounting Firms Processing 5 15 Payroll Submissions Month Discrepancies Tool Platform",
+      "target_keyword": "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations For Small Accounting Firms Processing 5 15 Payroll Submissions Month Discrepancies Tool Solution",
+      "target_keyword": "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations For Small Accounting Firms Processing 5 15 Payroll Submissions Month Discrepancies Tool",
+      "target_keyword": "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations For Small Accounting Firms Processing 5 15 Payroll Submissions Month Discrepancies Automation",
+      "target_keyword": "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations For Small Accounting Firms Processing 5 15 Payroll Submissions Month Discrepancies Workflow",
+      "target_keyword": "hr operations for small accounting firms processing 5 15 payroll submissions month discrepancies workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr operations for small accounting firms discrepancies tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr operations for small accounting firms discrepancies tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr operations for small accounting firms discrepancies tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr operations for small accounting firms discrepancies tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr operations for small accounting firms discrepancies tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr operations for small accounting firms tool",
+      "hr operations for small accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr operations for small accounting firms tool helps with discrepancies or missing entries in payroll submissions."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

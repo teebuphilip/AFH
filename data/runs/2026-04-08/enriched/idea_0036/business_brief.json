@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility invoices/month tool",
+  "description": "For property managers processing 5\u201315 utility invoices/month, inefficient manual report generation causes cash flow gaps. We automate report generation instead of manual spreadsheet tracking.",
+  "target_audience": "property managers processing 5\u201315 utility invoices/month",
+  "problem_solved": "Inefficient manual report generation for utility expenses",
+  "features": [
+    "template-based report generation",
+    "manual data entry for utility invoices",
+    "monthly expense summary"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility invoices/month",
+    "primary_problem": "Inefficient manual report generation for utility expenses",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 utility invoices/month, inefficient manual report generation causes cash flow gaps. We automate report generation instead of manual spreadsheet tracking.",
+    "current_alternative": "manual spreadsheet tracking",
+    "must_have_features": [
+      "template-based report generation",
+      "manual data entry for utility invoices",
+      "monthly expense summary"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 utility invoices/month, inefficient manual report generation causes cash flow gaps. We automate report generation instead of manual spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-08",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

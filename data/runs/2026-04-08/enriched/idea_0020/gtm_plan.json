@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201350 invoices/month",
+  "offer": "For accounting firms processing 10\u201350 invoices/month, inconsistent accounting entries cause cash flow gaps. We convert vendor payment remittance data into accounting entries instead of manual entry and reconciliation of accounting data.",
+  "problem": "inconsistent accounting entries from vendor payment remittance data",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to accounting firms with demo video",
+    "Community forums for accounting tools sharing"
+  ],
+  "try_it": "Let users try manual data entry for vendor payments",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "A tool that monitors customer churn and provides insights to the customer success team.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 50,
+    "competition_inverse": 55
+  },
+  "overlay_score": 63,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-08T10:30:04.130514",
+  "verdict_source": "overlay_score"
+}

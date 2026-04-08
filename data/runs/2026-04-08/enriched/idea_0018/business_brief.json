@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 orders/week tool",
+  "description": "For Amazon sellers processing 10\u201350 orders/week, manual tracking causes stockouts. We automate inventory monitoring instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201350 orders/week",
+  "problem_solved": "Inability to maintain optimal inventory levels leads to stockouts and lost sales.",
+  "features": [
+    "Weekly inventory level reports",
+    "Purchase suggestion generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 orders/week",
+    "primary_problem": "Inability to maintain optimal inventory levels leads to stockouts and lost sales.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 orders/week, manual tracking causes stockouts. We automate inventory monitoring instead of manual tracking.",
+    "current_alternative": "Manual tracking of inventory levels and reorder points.",
+    "must_have_features": [
+      "Weekly inventory level reports",
+      "Purchase suggestion generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 orders/week, manual tracking causes stockouts. We automate inventory monitoring instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

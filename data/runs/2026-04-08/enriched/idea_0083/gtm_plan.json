@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance underwriting teams processing 10-20 policy changes/month",
+  "offer": "For insurance underwriting teams processing 10-20 policy changes/month, missed compliance updates cause regulatory penalties. We provide compliance monitoring instead of manual tracking of policy changes.",
+  "problem": "Inability to keep up with frequent policy changes",
+  "channels_free": [
+    "Post in Reddit communities for insurance underwriters",
+    "Indie Hackers discussions on compliance challenges",
+    "DM outreach to insurance teams with demo video",
+    "Engage in community forums for insurance tools"
+  ],
+  "try_it": "Let users try real-time alerts for policy changes",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for data",
+    "Provide one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

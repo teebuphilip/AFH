@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 10\u201350 clients monthly tool",
+  "description": "For bookkeepers managing 10\u201350 clients monthly, frequent mismatches cause cash flow gaps. We automate the matching process instead of manual reconciliation of bank statements and ledgers.",
+  "target_audience": "bookkeepers managing 10\u201350 clients monthly",
+  "problem_solved": "frequent mismatches between bank statements and accounting entries",
+  "features": [
+    "daily mismatch flagging",
+    "manual entry override",
+    "simple reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 10\u201350 clients monthly",
+    "primary_problem": "frequent mismatches between bank statements and accounting entries",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 10\u201350 clients monthly, frequent mismatches cause cash flow gaps. We automate the matching process instead of manual reconciliation of bank statements and ledgers.",
+    "current_alternative": "manual reconciliation of bank statements and ledgers",
+    "must_have_features": [
+      "daily mismatch flagging",
+      "manual entry override",
+      "simple reporting dashboard"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 10\u201350 clients monthly, frequent mismatches cause cash flow gaps. We automate the matching process instead of manual reconciliation of bank statements and ledgers.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

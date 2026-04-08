@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality purchasing managers in restaurants processing 10-20 purchase orders/month tool",
+  "description": "For hospitality purchasing managers in restaurants processing 10-20 purchase orders/month, inefficient inventory management causes stockouts. We monitor inventory usage and flag reorder points instead of manual tracking of inventory levels.",
+  "target_audience": "hospitality purchasing managers in restaurants processing 10-20 purchase orders/month",
+  "problem_solved": "Inefficient inventory management leading to stockouts.",
+  "features": [
+    "manual entry of inventory data",
+    "simple dashboard for inventory overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality purchasing managers in restaurants processing 10-20 purchase orders/month",
+    "primary_problem": "Inefficient inventory management leading to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality purchasing managers in restaurants processing 10-20 purchase orders/month, inefficient inventory management causes stockouts. We monitor inventory usage and flag reorder points instead of manual tracking of inventory levels.",
+    "current_alternative": "manual tracking of inventory levels",
+    "must_have_features": [
+      "manual entry of inventory data",
+      "simple dashboard for inventory overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For hospitality purchasing managers in restaurants processing 10-20 purchase orders/month, inefficient inventory management causes stockouts. We monitor inventory usage and flag reorder points instead of manual tracking of inventory levels.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

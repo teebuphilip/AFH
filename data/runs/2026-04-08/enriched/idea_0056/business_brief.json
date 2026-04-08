@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized accounting firms processing 5\u201315 payroll adjustments/month tool",
+  "description": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payroll adjustments/month, manual payroll adjustments cause errors and delays. We automate payroll adjustments instead of manual tracking.",
+  "target_audience": "HR managers in small to medium-sized accounting firms processing 5\u201315 payroll adjustments/month",
+  "problem_solved": "Manual payroll adjustments lead to errors and delays.",
+  "features": [
+    "Time-off request monitoring",
+    "User-friendly dashboard for HR managers",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized accounting firms processing 5\u201315 payroll adjustments/month",
+    "primary_problem": "Manual payroll adjustments lead to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payroll adjustments/month, manual payroll adjustments cause errors and delays. We automate payroll adjustments instead of manual tracking.",
+    "current_alternative": "Manual tracking and adjustment of payroll based on time-off requests.",
+    "must_have_features": [
+      "Time-off request monitoring",
+      "User-friendly dashboard for HR managers",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payroll adjustments/month, manual payroll adjustments cause errors and delays. We automate payroll adjustments instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

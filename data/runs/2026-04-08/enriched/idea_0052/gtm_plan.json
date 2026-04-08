@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 50\u2013100 orders/month",
+  "offer": "For Amazon sellers processing 50\u2013100 orders/month, unmonitored inventory levels cause stockouts. We provide alerts instead of manual inventory tracking spreadsheets.",
+  "problem": "Stockouts due to unmonitored inventory levels",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Engage in Indie Hackers discussions",
+    "DM outreach to Amazon sellers with demo video",
+    "Share in community forums for Amazon sellers"
+  ],
+  "try_it": "Let users try alert notifications and inventory dashboard on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with clear CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing inventory data",
+    "One-click export of simple reports",
+    "Streamline onboarding process"
+  ]
+}

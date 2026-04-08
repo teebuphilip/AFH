@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing coordinators in small clinics processing 10\u201320 claims/month tool",
+  "description": "For medical billing coordinators in small clinics processing 10\u201320 claims/month, frequent errors in insurance claim submissions cause cash flow gaps. We automate the conversion of medical billing codes into insurance claim submissions instead of manual submission of claims using spreadsheets.",
+  "target_audience": "medical billing coordinators in small clinics processing 10\u201320 claims/month",
+  "problem_solved": "Frequent errors in insurance claim submissions due to manual coding.",
+  "features": [
+    "manual entry of billing codes",
+    "error-checking for common coding mistakes",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing coordinators in small clinics processing 10\u201320 claims/month",
+    "primary_problem": "Frequent errors in insurance claim submissions due to manual coding.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing coordinators in small clinics processing 10\u201320 claims/month, frequent errors in insurance claim submissions cause cash flow gaps. We automate the conversion of medical billing codes into insurance claim submissions instead of manual submission of claims using spreadsheets.",
+    "current_alternative": "manual submission of claims using spreadsheets",
+    "must_have_features": [
+      "manual entry of billing codes",
+      "error-checking for common coding mistakes",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical billing coordinators in small clinics processing 10\u201320 claims/month, frequent errors in insurance claim submissions cause cash flow gaps. We automate the conversion of medical billing codes into insurance claim submissions instead of manual submission of claims using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

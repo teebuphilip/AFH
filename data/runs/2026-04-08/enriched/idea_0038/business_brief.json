@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant operations managers overseeing 5-15 locations tool",
+  "description": "For restaurant operations managers overseeing 5-15 locations, manual tracking of food safety compliance causes missed inspections. We automate daily compliance checklists instead of paper checklists and manual audits.",
+  "target_audience": "restaurant operations managers overseeing 5-15 locations",
+  "problem_solved": "manual tracking of food safety compliance",
+  "features": [
+    "digital checklist creation",
+    "report generation for audits",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant operations managers overseeing 5-15 locations",
+    "primary_problem": "manual tracking of food safety compliance",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant operations managers overseeing 5-15 locations, manual tracking of food safety compliance causes missed inspections. We automate daily compliance checklists instead of paper checklists and manual audits.",
+    "current_alternative": "paper checklists and manual audits",
+    "must_have_features": [
+      "digital checklist creation",
+      "report generation for audits",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant operations managers overseeing 5-15 locations, manual tracking of food safety compliance causes missed inspections. We automate daily compliance checklists instead of paper checklists and manual audits.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-08",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

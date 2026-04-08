@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 50\u2013100 orders/month tool",
+  "description": "For Amazon sellers processing 50\u2013100 orders/month, unmonitored inventory levels cause stockouts. We provide automated alerts instead of manual inventory tracking spreadsheets.",
+  "target_audience": "Amazon sellers processing 50\u2013100 orders/month",
+  "problem_solved": "Stockouts due to unmonitored inventory levels",
+  "features": [
+    "Threshold alert notifications",
+    "Inventory level dashboard",
+    "Manual inventory adjustment options"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 50\u2013100 orders/month",
+    "primary_problem": "Stockouts due to unmonitored inventory levels",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 50\u2013100 orders/month, unmonitored inventory levels cause stockouts. We provide automated alerts instead of manual inventory tracking spreadsheets.",
+    "current_alternative": "Manual inventory tracking spreadsheets",
+    "must_have_features": [
+      "Threshold alert notifications",
+      "Inventory level dashboard",
+      "Manual inventory adjustment options"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 50\u2013100 orders/month, unmonitored inventory levels cause stockouts. We provide automated alerts instead of manual inventory tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

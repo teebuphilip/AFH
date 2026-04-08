@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "vendor managers in small to medium-sized e-commerce businesses using Shopify, processing 10-20 invoices/month tool",
+  "description": "For vendor managers in small to medium-sized e-commerce businesses using Shopify processing 10-20 invoices/month, inefficient tracking causes cash flow gaps. We automate weekly procurement spend summaries instead of manual tracking and reporting through spreadsheets.",
+  "target_audience": "vendor managers in small to medium-sized e-commerce businesses using Shopify, processing 10-20 invoices/month",
+  "problem_solved": "Inefficient tracking of procurement spend across multiple systems.",
+  "features": [
+    "Email notifications for weekly summaries",
+    "Customizable report templates",
+    "User-friendly dashboard for insights"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "vendor managers in small to medium-sized e-commerce businesses using Shopify, processing 10-20 invoices/month",
+    "primary_problem": "Inefficient tracking of procurement spend across multiple systems.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For vendor managers in small to medium-sized e-commerce businesses using Shopify processing 10-20 invoices/month, inefficient tracking causes cash flow gaps. We automate weekly procurement spend summaries instead of manual tracking and reporting through spreadsheets.",
+    "current_alternative": "manual tracking and reporting through spreadsheets",
+    "must_have_features": [
+      "Email notifications for weekly summaries",
+      "Customizable report templates",
+      "User-friendly dashboard for insights"
+    ]
+  },
+  "one_liner": "For vendor managers in small to medium-sized e-commerce businesses using Shopify processing 10-20 invoices/month, inefficient tracking causes cash flow gaps. We automate weekly procurement spend summaries instead of manual tracking and reporting through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-08",
+    "overlay_score": 63,
+    "arr_score": 62
+  }
+}

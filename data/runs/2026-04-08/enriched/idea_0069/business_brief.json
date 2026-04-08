@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, delayed financial reporting causes missed client insights. We automate report generation and distribution instead of manual report generation and email distribution.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Delayed financial reporting to clients",
+  "features": [
+    "Template-based report generation",
+    "Email scheduling for report distribution",
+    "User-friendly dashboard for report access"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Delayed financial reporting to clients",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, delayed financial reporting causes missed client insights. We automate report generation and distribution instead of manual report generation and email distribution.",
+    "current_alternative": "manual report generation and email distribution",
+    "must_have_features": [
+      "Template-based report generation",
+      "Email scheduling for report distribution",
+      "User-friendly dashboard for report access"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, delayed financial reporting causes missed client insights. We automate report generation and distribution instead of manual report generation and email distribution.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

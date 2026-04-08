@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant general managers processing 10-20 invoices/month tool",
+  "description": "For restaurant general managers processing 10-20 invoices/month, inaccurate food cost tracking causes overspending. We provide automated food cost analysis instead of manual spreadsheets and calculations.",
+  "target_audience": "restaurant general managers processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate food cost tracking leads to overspending.",
+  "features": [
+    "manual entry of food costs",
+    "basic reporting on food expenses",
+    "alert system for cost overruns"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant general managers processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate food cost tracking leads to overspending.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant general managers processing 10-20 invoices/month, inaccurate food cost tracking causes overspending. We provide automated food cost analysis instead of manual spreadsheets and calculations.",
+    "current_alternative": "manual spreadsheets and calculations",
+    "must_have_features": [
+      "manual entry of food costs",
+      "basic reporting on food expenses",
+      "alert system for cost overruns"
+    ]
+  },
+  "one_liner": "For restaurant general managers processing 10-20 invoices/month, inaccurate food cost tracking causes overspending. We provide automated food cost analysis instead of manual spreadsheets and calculations.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

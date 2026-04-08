@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction purchasing agents processing 5\u201315 invoices/month tool",
+  "description": "For construction purchasing agents processing 5\u201315 invoices/month, delays in approvals cause late orders. We automate invoice approvals instead of manual approval processes via email.",
+  "target_audience": "construction purchasing agents processing 5\u201315 invoices/month",
+  "problem_solved": "Delays in supplier invoice approvals",
+  "features": [
+    "manual invoice entry",
+    "status tracking for approvals",
+    "notification system for pending approvals"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction purchasing agents processing 5\u201315 invoices/month",
+    "primary_problem": "Delays in supplier invoice approvals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction purchasing agents processing 5\u201315 invoices/month, delays in approvals cause late orders. We automate invoice approvals instead of manual approval processes via email.",
+    "current_alternative": "manual approval processes via email",
+    "must_have_features": [
+      "manual invoice entry",
+      "status tracking for approvals",
+      "notification system for pending approvals"
+    ]
+  },
+  "one_liner": "For construction purchasing agents processing 5\u201315 invoices/month, delays in approvals cause late orders. We automate invoice approvals instead of manual approval processes via email.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

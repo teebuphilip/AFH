@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 50\u2013100 shipments/day tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/day, delays in shipment statuses cause operational inefficiencies. We provide real-time alerts instead of manual tracking and sporadic updates from carriers.",
+  "target_audience": "logistics carriers managing 50\u2013100 shipments/day",
+  "problem_solved": "delays in shipment statuses leading to operational inefficiencies",
+  "features": [
+    "real-time shipment status monitoring",
+    "SLA threshold alert system",
+    "daily summary reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 50\u2013100 shipments/day",
+    "primary_problem": "delays in shipment statuses leading to operational inefficiencies",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/day, delays in shipment statuses cause operational inefficiencies. We provide real-time alerts instead of manual tracking and sporadic updates from carriers.",
+    "current_alternative": "manual tracking and sporadic updates from carriers",
+    "must_have_features": [
+      "real-time shipment status monitoring",
+      "SLA threshold alert system",
+      "daily summary reports"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/day, delays in shipment statuses cause operational inefficiencies. We provide real-time alerts instead of manual tracking and sporadic updates from carriers.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-08",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

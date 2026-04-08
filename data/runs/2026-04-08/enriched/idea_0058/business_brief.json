@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "account managers in marketing agencies onboarding 5\u201315 clients/month tool",
+  "description": "For account managers in marketing agencies processing 5\u201315 clients/month, inefficient onboarding causes missed deadlines. We streamline the onboarding process instead of manual tracking and email updates.",
+  "target_audience": "account managers in marketing agencies onboarding 5\u201315 clients/month",
+  "problem_solved": "Inefficient onboarding process for new clients",
+  "features": [
+    "client onboarding checklist",
+    "manual entry for client details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "account managers in marketing agencies onboarding 5\u201315 clients/month",
+    "primary_problem": "Inefficient onboarding process for new clients",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For account managers in marketing agencies processing 5\u201315 clients/month, inefficient onboarding causes missed deadlines. We streamline the onboarding process instead of manual tracking and email updates.",
+    "current_alternative": "manual tracking and email updates",
+    "must_have_features": [
+      "client onboarding checklist",
+      "manual entry for client details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For account managers in marketing agencies processing 5\u201315 clients/month, inefficient onboarding causes missed deadlines. We streamline the onboarding process instead of manual tracking and email updates.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

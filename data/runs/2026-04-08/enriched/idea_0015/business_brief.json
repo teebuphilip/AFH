@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-50 rental units tool",
+  "description": "For property managers handling 10-50 rental units, manual tracking of rent payments causes late notifications of delinquencies. We automate monthly rent roll reports instead of manual spreadsheets and email reminders.",
+  "target_audience": "property managers handling 10-50 rental units",
+  "problem_solved": "manual tracking of rent payments and reporting",
+  "features": [
+    "email notifications for payment delinquencies",
+    "manual entry option for adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-50 rental units",
+    "primary_problem": "manual tracking of rent payments and reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-50 rental units, manual tracking of rent payments causes late notifications of delinquencies. We automate monthly rent roll reports instead of manual spreadsheets and email reminders.",
+    "current_alternative": "manual spreadsheets and email reminders",
+    "must_have_features": [
+      "email notifications for payment delinquencies",
+      "manual entry option for adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-50 rental units, manual tracking of rent payments causes late notifications of delinquencies. We automate monthly rent roll reports instead of manual spreadsheets and email reminders.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-08",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

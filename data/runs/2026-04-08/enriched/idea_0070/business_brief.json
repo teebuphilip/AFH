@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized marketing agencies managing 5\u201315 vendor contracts/month tool",
+  "description": "For procurement teams in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, inefficient management causes missed deadlines and supplier penalties. We simplify contract management instead of manual tracking through spreadsheets and email reminders.",
+  "target_audience": "procurement teams in mid-sized marketing agencies managing 5\u201315 vendor contracts/month",
+  "problem_solved": "Inefficient management of vendor contracts leading to missed deadlines and penalties.",
+  "features": [
+    "contract alert notifications",
+    "contract status tracking",
+    "manual entry for vendor details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized marketing agencies managing 5\u201315 vendor contracts/month",
+    "primary_problem": "Inefficient management of vendor contracts leading to missed deadlines and penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement teams in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, inefficient management causes missed deadlines and supplier penalties. We simplify contract management instead of manual tracking through spreadsheets and email reminders.",
+    "current_alternative": "manual tracking through spreadsheets and email reminders",
+    "must_have_features": [
+      "contract alert notifications",
+      "contract status tracking",
+      "manual entry for vendor details"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, inefficient management causes missed deadlines and supplier penalties. We simplify contract management instead of manual tracking through spreadsheets and email reminders.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

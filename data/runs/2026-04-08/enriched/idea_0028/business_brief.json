@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations supervisors managing 5\u201315 vehicles tool",
+  "description": "For fleet operations supervisors managing 5\u201315 vehicles, inconsistent scheduling causes vehicle breakdowns. We automate scheduling and tracking instead of manual tracking through spreadsheets or paper logs.",
+  "target_audience": "fleet operations supervisors managing 5\u201315 vehicles",
+  "problem_solved": "Inconsistent scheduling of preventative maintenance leads to vehicle breakdowns.",
+  "features": [
+    "manual entry for maintenance logs",
+    "simple dashboard for tracking maintenance history",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations supervisors managing 5\u201315 vehicles",
+    "primary_problem": "Inconsistent scheduling of preventative maintenance leads to vehicle breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operations supervisors managing 5\u201315 vehicles, inconsistent scheduling causes vehicle breakdowns. We automate scheduling and tracking instead of manual tracking through spreadsheets or paper logs.",
+    "current_alternative": "manual tracking through spreadsheets or paper logs",
+    "must_have_features": [
+      "manual entry for maintenance logs",
+      "simple dashboard for tracking maintenance history",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet operations supervisors managing 5\u201315 vehicles, inconsistent scheduling causes vehicle breakdowns. We automate scheduling and tracking instead of manual tracking through spreadsheets or paper logs.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-08",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

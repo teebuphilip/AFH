@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics carriers inefficient tool",
+    "logistics carriers inefficient automation",
+    "logistics carriers processing 50 100 shipments month inefficient tool",
+    "logistics carriers processing 50 100 shipments month inefficient automation",
+    "logistics carriers processing 50 100 shipments month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "logistics carriers processing 50 100 shipments month inefficient tool software",
+    "logistics carriers processing 50 100 shipments month inefficient tool platform",
+    "logistics carriers processing 50 100 shipments month inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics carriers processing 50\u2013100 shipments/month, inefficient route planning causes increased fuel costs. We provide optimized routing instead of manual route planning and basic telematics analysis.",
+    "Inefficient route planning and fuel usage",
+    "logistics carriers processing 50\u2013100 shipments/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Shipments Month Inefficient Tool Software",
+      "target_keyword": "logistics carriers processing 50 100 shipments month inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Shipments Month Inefficient Tool Platform",
+      "target_keyword": "logistics carriers processing 50 100 shipments month inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Shipments Month Inefficient Tool Solution",
+      "target_keyword": "logistics carriers processing 50 100 shipments month inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Shipments Month Inefficient Tool",
+      "target_keyword": "logistics carriers processing 50 100 shipments month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Shipments Month Inefficient Automation",
+      "target_keyword": "logistics carriers processing 50 100 shipments month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Shipments Month Inefficient Workflow",
+      "target_keyword": "logistics carriers processing 50 100 shipments month inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics carriers inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics carriers inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics carriers inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics carriers inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics carriers inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics carriers tool",
+      "logistics carriers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics carriers tool helps with inefficient route planning and fuel usage."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

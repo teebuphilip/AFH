@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet safety managers in logistics carriers managing 5-15 vehicles tool",
+  "description": "For fleet safety managers in logistics carriers processing 5\u201315 vehicles, compliance issues cause potential fines and safety risks. We automate compliance monitoring instead of manual log reviews and spreadsheets.",
+  "target_audience": "fleet safety managers in logistics carriers managing 5-15 vehicles",
+  "problem_solved": "Ensuring driver log compliance and identifying violations.",
+  "features": [
+    "real-time log monitoring",
+    "violation flagging",
+    "compliance reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet safety managers in logistics carriers managing 5-15 vehicles",
+    "primary_problem": "Ensuring driver log compliance and identifying violations.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For fleet safety managers in logistics carriers processing 5\u201315 vehicles, compliance issues cause potential fines and safety risks. We automate compliance monitoring instead of manual log reviews and spreadsheets.",
+    "current_alternative": "manual log reviews and spreadsheets",
+    "must_have_features": [
+      "real-time log monitoring",
+      "violation flagging",
+      "compliance reporting"
+    ]
+  },
+  "one_liner": "For fleet safety managers in logistics carriers processing 5\u201315 vehicles, compliance issues cause potential fines and safety risks. We automate compliance monitoring instead of manual log reviews and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small to medium-sized e-commerce businesses using Shopify, processing 5\u201315 purchase orders/week tool",
+  "description": "For procurement managers in small to medium-sized e-commerce businesses using Shopify processing 5\u201315 purchase orders/week, overdue approvals cause delayed shipments. We provide automated tracking and escalation alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "procurement managers in small to medium-sized e-commerce businesses using Shopify, processing 5\u201315 purchase orders/week",
+  "problem_solved": "Overdue purchase order approvals leading to delayed shipments.",
+  "features": [
+    "manual entry of purchase orders",
+    "weekly email alerts for overdue approvals",
+    "dashboard for tracking approval status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small to medium-sized e-commerce businesses using Shopify, processing 5\u201315 purchase orders/week",
+    "primary_problem": "Overdue purchase order approvals leading to delayed shipments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small to medium-sized e-commerce businesses using Shopify processing 5\u201315 purchase orders/week, overdue approvals cause delayed shipments. We provide automated tracking and escalation alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking of purchase orders via spreadsheets",
+    "must_have_features": [
+      "manual entry of purchase orders",
+      "weekly email alerts for overdue approvals",
+      "dashboard for tracking approval status"
+    ]
+  },
+  "one_liner": "For procurement managers in small to medium-sized e-commerce businesses using Shopify processing 5\u201315 purchase orders/week, overdue approvals cause delayed shipments. We provide automated tracking and escalation alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

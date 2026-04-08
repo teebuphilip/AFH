@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Fleet compliance officers managing 5-15 vehicles tool",
+  "description": "For fleet compliance officers managing 5-15 vehicles, inaccurate mileage reporting causes compliance issues. We provide automated mileage tracking instead of manual mileage tracking spreadsheets.",
+  "target_audience": "Fleet compliance officers managing 5-15 vehicles",
+  "problem_solved": "Inaccurate mileage reporting leading to compliance issues",
+  "features": [
+    "Manual entry for mileage tracking",
+    "Basic reporting dashboard",
+    "Email notifications for compliance reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Fleet compliance officers managing 5-15 vehicles",
+    "primary_problem": "Inaccurate mileage reporting leading to compliance issues",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet compliance officers managing 5-15 vehicles, inaccurate mileage reporting causes compliance issues. We provide automated mileage tracking instead of manual mileage tracking spreadsheets.",
+    "current_alternative": "Manual mileage tracking spreadsheets",
+    "must_have_features": [
+      "Manual entry for mileage tracking",
+      "Basic reporting dashboard",
+      "Email notifications for compliance reminders"
+    ]
+  },
+  "one_liner": "For fleet compliance officers managing 5-15 vehicles, inaccurate mileage reporting causes compliance issues. We provide automated mileage tracking instead of manual mileage tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-08",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

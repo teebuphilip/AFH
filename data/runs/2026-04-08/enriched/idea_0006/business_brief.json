@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201350 sales per week tool",
+  "description": "For Shopify store owners processing 10\u201350 sales per week, inaccurate commission calculations cause financial discrepancies. We provide automated monitoring instead of manual tracking of commission calculations.",
+  "target_audience": "Shopify store owners processing 10\u201350 sales per week",
+  "problem_solved": "Inaccurate commission calculations leading to financial discrepancies",
+  "features": [
+    "Weekly anomaly alerts",
+    "Manual data entry for commission rates",
+    "Dashboard for commission overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201350 sales per week",
+    "primary_problem": "Inaccurate commission calculations leading to financial discrepancies",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201350 sales per week, inaccurate commission calculations cause financial discrepancies. We provide automated monitoring instead of manual tracking of commission calculations.",
+    "current_alternative": "Manual tracking of commission calculations",
+    "must_have_features": [
+      "Weekly anomaly alerts",
+      "Manual data entry for commission rates",
+      "Dashboard for commission overview"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201350 sales per week, inaccurate commission calculations cause financial discrepancies. We provide automated monitoring instead of manual tracking of commission calculations.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-08",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

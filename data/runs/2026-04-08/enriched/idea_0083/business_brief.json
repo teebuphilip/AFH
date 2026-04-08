@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance underwriting teams processing 10-20 policy changes/month tool",
+  "description": "For insurance underwriting teams processing 10-20 policy changes/month, missed compliance updates cause regulatory penalties. We provide automated compliance monitoring instead of manual tracking of policy changes.",
+  "target_audience": "insurance underwriting teams processing 10-20 policy changes/month",
+  "problem_solved": "Inability to keep up with frequent policy changes",
+  "features": [
+    "real-time policy change alerts",
+    "manual entry for policy updates",
+    "dashboard for compliance status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance underwriting teams processing 10-20 policy changes/month",
+    "primary_problem": "Inability to keep up with frequent policy changes",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For insurance underwriting teams processing 10-20 policy changes/month, missed compliance updates cause regulatory penalties. We provide automated compliance monitoring instead of manual tracking of policy changes.",
+    "current_alternative": "manual tracking of policy changes",
+    "must_have_features": [
+      "real-time policy change alerts",
+      "manual entry for policy updates",
+      "dashboard for compliance status"
+    ]
+  },
+  "one_liner": "For insurance underwriting teams processing 10-20 policy changes/month, missed compliance updates cause regulatory penalties. We provide automated compliance monitoring instead of manual tracking of policy changes.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-08",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "transportation logistics managers processing 10\u201320 fleet vehicles tool",
+  "description": "For transportation logistics managers processing 10\u201320 fleet vehicles, inaccurate maintenance forecasting causes unexpected vehicle downtime. We provide predictive maintenance alerts instead of manual tracking of maintenance schedules and vehicle conditions.",
+  "target_audience": "transportation logistics managers processing 10\u201320 fleet vehicles",
+  "problem_solved": "Inaccurate maintenance forecasting leads to unexpected vehicle downtime.",
+  "features": [
+    "manual entry of vehicle maintenance records",
+    "basic reporting on maintenance history",
+    "alert system for upcoming maintenance needs"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "transportation logistics managers processing 10\u201320 fleet vehicles",
+    "primary_problem": "Inaccurate maintenance forecasting leads to unexpected vehicle downtime.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For transportation logistics managers processing 10\u201320 fleet vehicles, inaccurate maintenance forecasting causes unexpected vehicle downtime. We provide predictive maintenance alerts instead of manual tracking of maintenance schedules and vehicle conditions.",
+    "current_alternative": "manual tracking of maintenance schedules and vehicle conditions",
+    "must_have_features": [
+      "manual entry of vehicle maintenance records",
+      "basic reporting on maintenance history",
+      "alert system for upcoming maintenance needs"
+    ]
+  },
+  "one_liner": "For transportation logistics managers processing 10\u201320 fleet vehicles, inaccurate maintenance forecasting causes unexpected vehicle downtime. We provide predictive maintenance alerts instead of manual tracking of maintenance schedules and vehicle conditions.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-08",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

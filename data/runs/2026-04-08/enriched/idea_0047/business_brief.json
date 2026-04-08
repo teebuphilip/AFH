@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Fleet maintenance supervisors managing 10-50 vehicles tool",
+  "description": "For fleet maintenance supervisors managing 10-50 vehicles, missed vehicle inspection deadlines cause compliance issues. We provide automated inspection reminders instead of manual tracking.",
+  "target_audience": "Fleet maintenance supervisors managing 10-50 vehicles",
+  "problem_solved": "Missed vehicle inspection deadlines leading to compliance issues.",
+  "features": [
+    "Simple dashboard for tracking inspection dates",
+    "Reporting feature for inspection history",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Fleet maintenance supervisors managing 10-50 vehicles",
+    "primary_problem": "Missed vehicle inspection deadlines leading to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For fleet maintenance supervisors managing 10-50 vehicles, missed vehicle inspection deadlines cause compliance issues. We provide automated inspection reminders instead of manual tracking.",
+    "current_alternative": "Manual tracking of inspection schedules via spreadsheets or calendars.",
+    "must_have_features": [
+      "Simple dashboard for tracking inspection dates",
+      "Reporting feature for inspection history",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet maintenance supervisors managing 10-50 vehicles, missed vehicle inspection deadlines cause compliance issues. We provide automated inspection reminders instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-08",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

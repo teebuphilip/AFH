@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, delays in expense reimbursements cause cash flow gaps. We simplify the reimbursement process instead of manual expense tracking and reimbursement processes.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "delays in expense reimbursements",
+  "features": [
+    "manual expense entry",
+    "basic analytics dashboard",
+    "email notifications for approvals"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "delays in expense reimbursements",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, delays in expense reimbursements cause cash flow gaps. We simplify the reimbursement process instead of manual expense tracking and reimbursement processes.",
+    "current_alternative": "manual expense tracking and reimbursement processes",
+    "must_have_features": [
+      "manual expense entry",
+      "basic analytics dashboard",
+      "email notifications for approvals"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, delays in expense reimbursements cause cash flow gaps. We simplify the reimbursement process instead of manual expense tracking and reimbursement processes.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

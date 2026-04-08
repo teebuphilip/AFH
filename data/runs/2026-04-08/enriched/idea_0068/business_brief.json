@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "marketing agencies managing 5\u201315 clients tool",
+  "description": "For marketing agencies processing 5\u201315 clients, inefficient data collection causes missed insights. We automate data collection and analysis instead of manual data collection and analysis using spreadsheets.",
+  "target_audience": "marketing agencies managing 5\u201315 clients",
+  "problem_solved": "Inefficient data collection and analysis processes for multiple clients.",
+  "features": [
+    "basic data visualization tools",
+    "client reporting templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "marketing agencies managing 5\u201315 clients",
+    "primary_problem": "Inefficient data collection and analysis processes for multiple clients.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For marketing agencies processing 5\u201315 clients, inefficient data collection causes missed insights. We automate data collection and analysis instead of manual data collection and analysis using spreadsheets.",
+    "current_alternative": "manual data collection and analysis using spreadsheets",
+    "must_have_features": [
+      "basic data visualization tools",
+      "client reporting templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For marketing agencies processing 5\u201315 clients, inefficient data collection causes missed insights. We automate data collection and analysis instead of manual data collection and analysis using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-08",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

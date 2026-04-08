@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists processing 20\u201350 invoices/month tool",
+  "description": "For medical billing specialists processing 20\u201350 invoices/month, missed billing reminders cause cash flow gaps. We consolidate patient billing reminders instead of manual tracking of billing reminders.",
+  "target_audience": "medical billing specialists processing 20\u201350 invoices/month",
+  "problem_solved": "missed billing reminders",
+  "features": [
+    "manual reminder scheduling",
+    "consolidated reminder view",
+    "basic reporting on reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists processing 20\u201350 invoices/month",
+    "primary_problem": "missed billing reminders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists processing 20\u201350 invoices/month, missed billing reminders cause cash flow gaps. We consolidate patient billing reminders instead of manual tracking of billing reminders.",
+    "current_alternative": "manual tracking of billing reminders",
+    "must_have_features": [
+      "manual reminder scheduling",
+      "consolidated reminder view",
+      "basic reporting on reminders"
+    ]
+  },
+  "one_liner": "For medical billing specialists processing 20\u201350 invoices/month, missed billing reminders cause cash flow gaps. We consolidate patient billing reminders instead of manual tracking of billing reminders.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

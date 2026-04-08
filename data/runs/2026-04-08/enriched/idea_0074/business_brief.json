@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized companies using Gusto for employee benefits management tool",
+  "description": "For HR managers in small to medium-sized companies using Gusto processing 5\u201315 employee benefits updates/month, manual tracking causes delays in communication. We automate the process instead of manual spreadsheets and email notifications.",
+  "target_audience": "HR managers in small to medium-sized companies using Gusto for employee benefits management",
+  "problem_solved": "Manual tracking of employee benefits updates",
+  "features": [
+    "Centralized dashboard for tracking benefits",
+    "User-friendly interface for HR teams",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized companies using Gusto for employee benefits management",
+    "primary_problem": "Manual tracking of employee benefits updates",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized companies using Gusto processing 5\u201315 employee benefits updates/month, manual tracking causes delays in communication. We automate the process instead of manual spreadsheets and email notifications.",
+    "current_alternative": "manual spreadsheets and email notifications",
+    "must_have_features": [
+      "Centralized dashboard for tracking benefits",
+      "User-friendly interface for HR teams",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized companies using Gusto processing 5\u201315 employee benefits updates/month, manual tracking causes delays in communication. We automate the process instead of manual spreadsheets and email notifications.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

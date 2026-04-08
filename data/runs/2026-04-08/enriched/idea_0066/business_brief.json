@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized tech startups using Greenhouse for hiring tool",
+  "description": "For HR managers in small to medium-sized tech startups processing 5\u201315 new hires/month, inefficient onboarding causes delays in productivity. We automate the onboarding process instead of manual onboarding processes and email updates.",
+  "target_audience": "HR managers in small to medium-sized tech startups using Greenhouse for hiring",
+  "problem_solved": "Inefficient onboarding process for new hires",
+  "features": [
+    "Email notifications for HR updates",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized tech startups using Greenhouse for hiring",
+    "primary_problem": "Inefficient onboarding process for new hires",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized tech startups processing 5\u201315 new hires/month, inefficient onboarding causes delays in productivity. We automate the onboarding process instead of manual onboarding processes and email updates.",
+    "current_alternative": "manual onboarding processes and email updates",
+    "must_have_features": [
+      "Email notifications for HR updates",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized tech startups processing 5\u201315 new hires/month, inefficient onboarding causes delays in productivity. We automate the onboarding process instead of manual onboarding processes and email updates.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

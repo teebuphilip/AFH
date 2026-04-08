@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "operations managers in small marketing agencies processing 5\u201315 client projects/month tool",
+  "description": "For operations managers in small marketing agencies processing 5\u201315 client projects/month, inefficient KPI tracking causes missed deadlines and client dissatisfaction. We provide a streamlined reporting tool instead of manual spreadsheets and inconsistent reporting tools.",
+  "target_audience": "operations managers in small marketing agencies processing 5\u201315 client projects/month",
+  "problem_solved": "Difficulty in tracking and reporting on key performance indicators effectively.",
+  "features": [
+    "KPI dashboard for real-time tracking",
+    "Customizable reporting templates",
+    "Email notifications for KPI thresholds"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "operations managers in small marketing agencies processing 5\u201315 client projects/month",
+    "primary_problem": "Difficulty in tracking and reporting on key performance indicators effectively.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For operations managers in small marketing agencies processing 5\u201315 client projects/month, inefficient KPI tracking causes missed deadlines and client dissatisfaction. We provide a streamlined reporting tool instead of manual spreadsheets and inconsistent reporting tools.",
+    "current_alternative": "manual spreadsheets and inconsistent reporting tools",
+    "must_have_features": [
+      "KPI dashboard for real-time tracking",
+      "Customizable reporting templates",
+      "Email notifications for KPI thresholds"
+    ]
+  },
+  "one_liner": "For operations managers in small marketing agencies processing 5\u201315 client projects/month, inefficient KPI tracking causes missed deadlines and client dissatisfaction. We provide a streamlined reporting tool instead of manual spreadsheets and inconsistent reporting tools.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-08",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

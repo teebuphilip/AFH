@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, manual preparation causes cash flow gaps. We automate the generation of monthly financial statements instead of manual preparation.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Timely generation of financial statements for accounting purposes",
+  "features": [
+    "Monthly financial statement generation",
+    "Email delivery to accounting firms",
+    "User-friendly interface for manual adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Timely generation of financial statements for accounting purposes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, manual preparation causes cash flow gaps. We automate the generation of monthly financial statements instead of manual preparation.",
+    "current_alternative": "Manual preparation of financial statements",
+    "must_have_features": [
+      "Monthly financial statement generation",
+      "Email delivery to accounting firms",
+      "User-friendly interface for manual adjustments"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, manual preparation causes cash flow gaps. We automate the generation of monthly financial statements instead of manual preparation.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-08",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

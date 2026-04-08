@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201320 orders/week tool",
+  "description": "For Shopify sellers processing 10\u201320 orders/week, unfulfilled orders cause customer dissatisfaction. We provide automated alerts instead of manual tracking of orders and shipments.",
+  "target_audience": "Shopify sellers processing 10\u201320 orders/week",
+  "problem_solved": "Unfulfilled orders leading to customer dissatisfaction",
+  "features": [
+    "Weekly order and shipment matching alerts",
+    "Manual entry for unfulfilled orders",
+    "Dashboard for tracking order status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201320 orders/week",
+    "primary_problem": "Unfulfilled orders leading to customer dissatisfaction",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201320 orders/week, unfulfilled orders cause customer dissatisfaction. We provide automated alerts instead of manual tracking of orders and shipments.",
+    "current_alternative": "Manual tracking of orders and shipments",
+    "must_have_features": [
+      "Weekly order and shipment matching alerts",
+      "Manual entry for unfulfilled orders",
+      "Dashboard for tracking order status"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201320 orders/week, unfulfilled orders cause customer dissatisfaction. We provide automated alerts instead of manual tracking of orders and shipments.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

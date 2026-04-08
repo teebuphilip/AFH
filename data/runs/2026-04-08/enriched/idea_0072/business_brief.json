@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual invoicing causes cash flow gaps. We automate invoice generation and sending instead of manual invoicing through QuickBooks.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "timely invoicing",
+  "features": [
+    "template-based invoice generation",
+    "invoice tracking dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "timely invoicing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual invoicing causes cash flow gaps. We automate invoice generation and sending instead of manual invoicing through QuickBooks.",
+    "current_alternative": "manual invoicing through QuickBooks",
+    "must_have_features": [
+      "template-based invoice generation",
+      "invoice tracking dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual invoicing causes cash flow gaps. We automate invoice generation and sending instead of manual invoicing through QuickBooks.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-08",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

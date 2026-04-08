@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients/month tool",
+  "description": "For accounting firms managing 5\u201315 clients/month, manual calculations cause delays in report generation. We automate depreciation schedules instead of manual spreadsheets and calculations.",
+  "target_audience": "accounting firms managing 5\u201315 clients/month",
+  "problem_solved": "Manual calculations of fixed asset depreciation lead to errors and inefficiencies.",
+  "features": [
+    "manual entry for asset details",
+    "monthly schedule generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients/month",
+    "primary_problem": "Manual calculations of fixed asset depreciation lead to errors and inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients/month, manual calculations cause delays in report generation. We automate depreciation schedules instead of manual spreadsheets and calculations.",
+    "current_alternative": "manual spreadsheets and calculations",
+    "must_have_features": [
+      "manual entry for asset details",
+      "monthly schedule generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients/month, manual calculations cause delays in report generation. We automate depreciation schedules instead of manual spreadsheets and calculations.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-08",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

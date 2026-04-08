@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Reconciling vendor credit notes against open invoices",
+  "features": [
+    "Weekly exception email notifications",
+    "Manual entry for vendor credit notes",
+    "Dashboard for tracking open invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Reconciling vendor credit notes against open invoices",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "Weekly exception email notifications",
+      "Manual entry for vendor credit notes",
+      "Dashboard for tracking open invoices"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-08",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

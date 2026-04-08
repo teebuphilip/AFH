@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers processing 5\u201315 projects/month tool",
+  "description": "For construction project managers processing 5\u201315 projects/month, inconsistent reporting causes project delays. We automate reporting instead of manual reporting through spreadsheets.",
+  "target_audience": "construction project managers processing 5\u201315 projects/month",
+  "problem_solved": "Inconsistent reporting leads to project delays and miscommunication.",
+  "features": [
+    "template-based report generation",
+    "data visualization tools",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers processing 5\u201315 projects/month",
+    "primary_problem": "Inconsistent reporting leads to project delays and miscommunication.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers processing 5\u201315 projects/month, inconsistent reporting causes project delays. We automate reporting instead of manual reporting through spreadsheets.",
+    "current_alternative": "manual reporting through spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "data visualization tools",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project managers processing 5\u201315 projects/month, inconsistent reporting causes project delays. We automate reporting instead of manual reporting through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0084",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

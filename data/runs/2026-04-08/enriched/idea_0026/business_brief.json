@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10\u201350 rental properties/month tool",
+  "description": "For property managers processing 10\u201350 rental properties/month, manual reconciliation causes cash flow gaps. We automate rent reconciliation reports instead of manual spreadsheets and accounting software.",
+  "target_audience": "property managers processing 10\u201350 rental properties/month",
+  "problem_solved": "Manual reconciliation of rent payments leads to errors and delays.",
+  "features": [
+    "manual entry for rent data",
+    "monthly report generation",
+    "error-checking for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10\u201350 rental properties/month",
+    "primary_problem": "Manual reconciliation of rent payments leads to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201350 rental properties/month, manual reconciliation causes cash flow gaps. We automate rent reconciliation reports instead of manual spreadsheets and accounting software.",
+    "current_alternative": "manual spreadsheets and accounting software",
+    "must_have_features": [
+      "manual entry for rent data",
+      "monthly report generation",
+      "error-checking for discrepancies"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201350 rental properties/month, manual reconciliation causes cash flow gaps. We automate rent reconciliation reports instead of manual spreadsheets and accounting software.",
+  "source": {
+    "idea_id": "idea_0026",
+    "run_date": "2026-04-08",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "medical clinic intake coordinators time tool",
+    "medical clinic intake coordinators time automation",
+    "medical records workflow",
+    "patient records",
+    "medical clinic intake coordinators processing 10 20 patient eligibility verifications month time tool",
+    "medical clinic intake coordinators processing 10 20 patient eligibility verifications month time automation",
+    "medical clinic intake coordinators processing 10 20 patient eligibility verifications month time workflow"
+  ],
+  "secondary_keywords": [
+    "medical records workflow software",
+    "medical records workflow platform",
+    "medical records workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to medical records workflow",
+    "best medical records workflow tool",
+    "medical records workflow vs spreadsheets",
+    "medical records workflow checklist",
+    "medical records workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For medical clinic intake coordinators processing 10\u201320 invoices/month, time-consuming manual verification causes delays in patient intake. We automate eligibility reporting instead of manual verification processes using spreadsheets and phone calls.",
+    "Time-consuming manual verification of patient insurance eligibility",
+    "medical clinic intake coordinators processing 10\u201320 patient eligibility verifications/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Medical Records Workflow",
+      "target_keyword": "how to medical records workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Medical Records Workflow Tool",
+      "target_keyword": "best medical records workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Medical Records Workflow Vs Spreadsheets",
+      "target_keyword": "medical records workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Medical Records Workflow Checklist",
+      "target_keyword": "medical records workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Pricing",
+      "target_keyword": "medical records workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Software",
+      "target_keyword": "medical records workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Platform",
+      "target_keyword": "medical records workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Solution",
+      "target_keyword": "medical records workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow",
+      "target_keyword": "medical records workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Patient Records",
+      "target_keyword": "patient records",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Clinic Intake Coordinators Processing 10 20 Patient Eligibility Verifications Month Time Tool",
+      "target_keyword": "medical clinic intake coordinators processing 10 20 patient eligibility verifications month time tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Medical Clinic Intake Coordinators Processing 10 20 Patient Eligibility Verifications Month Time Automation",
+      "target_keyword": "medical clinic intake coordinators processing 10 20 patient eligibility verifications month time automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "medical clinic intake coordinators time tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "medical clinic intake coordinators time tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "medical clinic intake coordinators time tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "medical clinic intake coordinators time tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "medical clinic intake coordinators time tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | medical clinic intake coordinators tool",
+      "medical clinic intake coordinators tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "medical clinic intake coordinators tool helps with time-consuming manual verification of patient insurance eligibility."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

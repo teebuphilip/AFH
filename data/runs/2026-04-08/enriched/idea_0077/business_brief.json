@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 projects/month tool",
+  "description": "For construction contractors processing 5\u201315 projects/month, delays in obtaining regulatory permits cause project delays. We automate permit submissions instead of manual submission of permit documents.",
+  "target_audience": "construction contractors processing 5\u201315 projects/month",
+  "problem_solved": "Delays in obtaining regulatory permits for construction projects.",
+  "features": [
+    "status tracking for permit applications",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 projects/month",
+    "primary_problem": "Delays in obtaining regulatory permits for construction projects.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 projects/month, delays in obtaining regulatory permits cause project delays. We automate permit submissions instead of manual submission of permit documents.",
+    "current_alternative": "manual submission of permit documents",
+    "must_have_features": [
+      "status tracking for permit applications",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 projects/month, delays in obtaining regulatory permits cause project delays. We automate permit submissions instead of manual submission of permit documents.",
+  "source": {
+    "idea_id": "idea_0077",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

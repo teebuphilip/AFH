@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "procurement managers in small to medium-sized e-commerce businesses using shopify overdue tool",
+    "procurement managers in small to medium-sized e-commerce businesses using shopify overdue automation",
+    "sized e",
+    "procurement managers in small to medium-sized e-commerce businesses using shopify processing 5 15 purchase orders week overdue tool",
+    "procurement managers in small to medium-sized e-commerce businesses using shopify processing 5 15 purchase orders week overdue automation",
+    "procurement managers in small to medium-sized e-commerce businesses using shopify processing 5 15 purchase orders week overdue workflow"
+  ],
+  "secondary_keywords": [
+    "sized e software",
+    "sized e platform",
+    "sized e solution"
+  ],
+  "long_tail_keywords": [
+    "how to sized e",
+    "best sized e tool",
+    "sized e vs spreadsheets",
+    "sized e checklist",
+    "sized e pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For procurement managers in small to medium-sized e-commerce businesses using Shopify processing 5\u201315 purchase orders/week, overdue approvals cause delayed shipments. We provide automated tracking and escalation alerts instead of manual tracking via spreadsheets.",
+    "Overdue purchase order approvals leading to delayed shipments.",
+    "procurement managers in small to medium-sized e-commerce businesses using Shopify, processing 5\u201315 purchase orders/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Sized E",
+      "target_keyword": "how to sized e",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Sized E Tool",
+      "target_keyword": "best sized e tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Sized E Vs Spreadsheets",
+      "target_keyword": "sized e vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Sized E Checklist",
+      "target_keyword": "sized e checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E Pricing",
+      "target_keyword": "sized e pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E Software",
+      "target_keyword": "sized e software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E Platform",
+      "target_keyword": "sized e platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E Solution",
+      "target_keyword": "sized e solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sized E",
+      "target_keyword": "sized e",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Procurement Managers In Small To Medium-Sized E-Commerce Businesses Using Shopify Processing 5 15 Purchase Orders Week Overdue Tool",
+      "target_keyword": "procurement managers in small to medium-sized e-commerce businesses using shopify processing 5 15 purchase orders week overdue tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Managers In Small To Medium-Sized E-Commerce Businesses Using Shopify Processing 5 15 Purchase Orders Week Overdue Automation",
+      "target_keyword": "procurement managers in small to medium-sized e-commerce businesses using shopify processing 5 15 purchase orders week overdue automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Managers In Small To Medium-Sized E-Commerce Businesses Using Shopify Processing 5 15 Purchase Orders Week Overdue Workflow",
+      "target_keyword": "procurement managers in small to medium-sized e-commerce businesses using shopify processing 5 15 purchase orders week overdue workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "procurement managers in small to medium-sized e-commerce businesses using shopify overdue tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "procurement managers in small to medium-sized e-commerce businesses using shopify overdue tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "procurement managers in small to medium-sized e-commerce businesses using shopify overdue tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "procurement managers in small to medium-sized e-commerce businesses using shopify overdue tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "procurement managers in small to medium-sized e-commerce businesses using shopify overdue tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | procurement managers in small to medium-sized e-commerce businesses using shopify tool",
+      "procurement managers in small to medium-sized e-commerce businesses using shopify tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "procurement managers in small to medium-sized e-commerce businesses using shopify tool helps with overdue purchase order approvals leading to delayed shipments."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

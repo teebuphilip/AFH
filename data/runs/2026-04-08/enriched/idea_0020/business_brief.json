@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201350 invoices/month tool",
+  "description": "For accounting firms processing 10\u201350 invoices/month, inconsistent accounting entries cause cash flow gaps. We convert vendor payment remittance data into accounting entries instead of manual entry and reconciliation of accounting data.",
+  "target_audience": "accounting firms processing 10\u201350 invoices/month",
+  "problem_solved": "inconsistent accounting entries from vendor payment remittance data",
+  "features": [
+    "manual data entry for vendor payments",
+    "monthly alerts for inconsistencies",
+    "basic reporting on accounting entries"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201350 invoices/month",
+    "primary_problem": "inconsistent accounting entries from vendor payment remittance data",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201350 invoices/month, inconsistent accounting entries cause cash flow gaps. We convert vendor payment remittance data into accounting entries instead of manual entry and reconciliation of accounting data.",
+    "current_alternative": "manual entry and reconciliation of accounting data",
+    "must_have_features": [
+      "manual data entry for vendor payments",
+      "monthly alerts for inconsistencies",
+      "basic reporting on accounting entries"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201350 invoices/month, inconsistent accounting entries cause cash flow gaps. We convert vendor payment remittance data into accounting entries instead of manual entry and reconciliation of accounting data.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-08",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

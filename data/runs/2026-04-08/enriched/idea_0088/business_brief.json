@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firms processing 5\u201315 legal files/month tool",
+  "description": "For small law firms processing 5\u201315 legal files/month, inefficient management causes compliance risks. We digitize and organize legal files instead of manual filing systems or basic digital storage solutions.",
+  "target_audience": "small law firms processing 5\u201315 legal files/month",
+  "problem_solved": "inefficient management of legal documents",
+  "features": [
+    "document scanning",
+    "file organization system",
+    "search functionality"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firms processing 5\u201315 legal files/month",
+    "primary_problem": "inefficient management of legal documents",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law firms processing 5\u201315 legal files/month, inefficient management causes compliance risks. We digitize and organize legal files instead of manual filing systems or basic digital storage solutions.",
+    "current_alternative": "manual filing systems or basic digital storage solutions",
+    "must_have_features": [
+      "document scanning",
+      "file organization system",
+      "search functionality"
+    ]
+  },
+  "one_liner": "For small law firms processing 5\u201315 legal files/month, inefficient management causes compliance risks. We digitize and organize legal files instead of manual filing systems or basic digital storage solutions.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-08",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

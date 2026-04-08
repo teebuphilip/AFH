@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small to medium-sized accounting firms processing 5\u201315 payroll adjustments/month",
+  "offer": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payroll adjustments/month, manual payroll adjustments cause errors and delays. We automate payroll adjustments instead of manual tracking.",
+  "problem": "Manual payroll adjustments lead to errors and delays.",
+  "channels_free": [
+    "Post in Reddit communities for HR managers seeking solutions",
+    "Engage in Indie Hackers discussions on payroll workflows",
+    "Direct message 20-50 HR managers with a demo video",
+    "Share insights in community forums for HR managers"
+  ],
+  "try_it": "Let users try time-off request monitoring and dashboard features",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding to first 10 users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for tasks",
+    "Enable CSV import for existing payroll data",
+    "Allow one-click export of simple reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

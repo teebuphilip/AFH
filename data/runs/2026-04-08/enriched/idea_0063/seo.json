@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "etsy sellers timely tool",
+    "etsy sellers timely automation",
+    "etsy sellers processing 5 15 invoices month timely tool",
+    "etsy sellers processing 5 15 invoices month timely automation",
+    "etsy sellers processing 5 15 invoices month timely workflow"
+  ],
+  "secondary_keywords": [
+    "etsy sellers processing 5 15 invoices month timely tool software",
+    "etsy sellers processing 5 15 invoices month timely tool platform",
+    "etsy sellers processing 5 15 invoices month timely tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Etsy sellers processing 5\u201315 invoices/month, manual preparation causes cash flow gaps. We automate the generation of monthly financial statements instead of manual preparation.",
+    "Timely generation of financial statements for accounting purposes",
+    "Etsy sellers processing 5\u201315 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Etsy Sellers Processing 5 15 Invoices Month Timely Tool Software",
+      "target_keyword": "etsy sellers processing 5 15 invoices month timely tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 5 15 Invoices Month Timely Tool Platform",
+      "target_keyword": "etsy sellers processing 5 15 invoices month timely tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 5 15 Invoices Month Timely Tool Solution",
+      "target_keyword": "etsy sellers processing 5 15 invoices month timely tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 5 15 Invoices Month Timely Tool",
+      "target_keyword": "etsy sellers processing 5 15 invoices month timely tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 5 15 Invoices Month Timely Automation",
+      "target_keyword": "etsy sellers processing 5 15 invoices month timely automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 5 15 Invoices Month Timely Workflow",
+      "target_keyword": "etsy sellers processing 5 15 invoices month timely workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "etsy sellers timely tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "etsy sellers timely tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "etsy sellers timely tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "etsy sellers timely tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "etsy sellers timely tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | etsy sellers tool",
+      "etsy sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "etsy sellers tool helps with timely generation of financial statements for accounting purposes."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

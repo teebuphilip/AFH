@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small to medium-sized tech startups using Greenhouse for hiring",
+  "offer": "For HR managers in small to medium-sized tech startups processing 5\u201315 new hires/month, inefficient onboarding causes delays in productivity. We streamline the onboarding process instead of manual onboarding processes and email updates.",
+  "problem": "Inefficient onboarding process for new hires",
+  "channels_free": [
+    "Post in Reddit communities for HR managers seeking solutions",
+    "Indie Hackers discussions on similar onboarding challenges",
+    "DM outreach to HR managers with demo video",
+    "Engage in community forums for HR tools sharing"
+  ],
+  "try_it": "Let users try Email notifications for HR updates and Manual invoice entry form on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with the one-liner",
+    "Produce a short demo video of the onboarding process",
+    "Conduct 10 interviews with target users for feedback",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant HR communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for tasks",
+    "Enable CSV import for existing employee data",
+    "Allow one-click export of onboarding reports",
+    "Reduce steps required in the onboarding process"
+  ]
+}

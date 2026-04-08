@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "home service providers processing 10-20 invoices/month tool",
+  "description": "For home service providers processing 10-20 invoices/month, scheduling conflicts cause missed appointments. We provide a scheduling platform instead of manual scheduling via phone or email.",
+  "target_audience": "home service providers processing 10-20 invoices/month",
+  "problem_solved": "scheduling conflicts leading to missed appointments",
+  "features": [
+    "manual appointment booking interface",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "home service providers processing 10-20 invoices/month",
+    "primary_problem": "scheduling conflicts leading to missed appointments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For home service providers processing 10-20 invoices/month, scheduling conflicts cause missed appointments. We provide a scheduling platform instead of manual scheduling via phone or email.",
+    "current_alternative": "manual scheduling via phone or email",
+    "must_have_features": [
+      "manual appointment booking interface",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For home service providers processing 10-20 invoices/month, scheduling conflicts cause missed appointments. We provide a scheduling platform instead of manual scheduling via phone or email.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

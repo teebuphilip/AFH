@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "operations manager in a logistics company managing 10-20 employees tool",
+  "description": "For operations managers in logistics processing 10-20 employee productivity metrics, inaccurate tracking causes inefficiencies. We provide real-time reporting instead of manual tracking through spreadsheets.",
+  "target_audience": "operations manager in a logistics company managing 10-20 employees",
+  "problem_solved": "Inability to accurately measure employee productivity leads to inefficiencies.",
+  "features": [
+    "manual data entry for productivity metrics",
+    "basic reporting dashboard",
+    "email notifications for productivity thresholds"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "operations manager in a logistics company managing 10-20 employees",
+    "primary_problem": "Inability to accurately measure employee productivity leads to inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For operations managers in logistics processing 10-20 employee productivity metrics, inaccurate tracking causes inefficiencies. We provide real-time reporting instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "manual data entry for productivity metrics",
+      "basic reporting dashboard",
+      "email notifications for productivity thresholds"
+    ]
+  },
+  "one_liner": "For operations managers in logistics processing 10-20 employee productivity metrics, inaccurate tracking causes inefficiencies. We provide real-time reporting instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-08",
+    "overlay_score": 60,
+    "arr_score": 61
+  }
+}

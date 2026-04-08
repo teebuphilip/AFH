@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We provide timely alerts instead of manual tracking of payment due dates.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Late payments to vendors",
+  "features": [
+    "Payment due date reminders",
+    "Vendor payment tracking",
+    "Simple dashboard for invoice overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Late payments to vendors",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We provide timely alerts instead of manual tracking of payment due dates.",
+    "current_alternative": "Manual tracking of payment due dates",
+    "must_have_features": [
+      "Payment due date reminders",
+      "Vendor payment tracking",
+      "Simple dashboard for invoice overview"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We provide timely alerts instead of manual tracking of payment due dates.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

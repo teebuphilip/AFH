@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators for Amazon sellers processing 50\u2013100 shipments/month tool",
+  "description": "For logistics coordinators for Amazon sellers processing 50\u2013100 shipments/month, manual label generation causes late orders. We automate shipping label creation and tracking updates instead of manual label creation and tracking updates through Amazon Seller Central.",
+  "target_audience": "logistics coordinators for Amazon sellers processing 50\u2013100 shipments/month",
+  "problem_solved": "Manual generation of shipping labels and tracking updates is time-consuming.",
+  "features": [
+    "User-friendly interface for label generation",
+    "Bulk label creation capability",
+    "Real-time tracking update notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators for Amazon sellers processing 50\u2013100 shipments/month",
+    "primary_problem": "Manual generation of shipping labels and tracking updates is time-consuming.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators for Amazon sellers processing 50\u2013100 shipments/month, manual label generation causes late orders. We automate shipping label creation and tracking updates instead of manual label creation and tracking updates through Amazon Seller Central.",
+    "current_alternative": "Manual label creation and tracking updates through Amazon Seller Central.",
+    "must_have_features": [
+      "User-friendly interface for label generation",
+      "Bulk label creation capability",
+      "Real-time tracking update notifications"
+    ]
+  },
+  "one_liner": "For logistics coordinators for Amazon sellers processing 50\u2013100 shipments/month, manual label generation causes late orders. We automate shipping label creation and tracking updates instead of manual label creation and tracking updates through Amazon Seller Central.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

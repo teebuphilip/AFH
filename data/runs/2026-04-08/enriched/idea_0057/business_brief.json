@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201320 invoices/month tool",
+  "description": "For Shopify sellers processing 10\u201320 invoices/month, manual data aggregation causes late reports. We automate report generation instead of manual data entry and spreadsheet management.",
+  "target_audience": "Shopify sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Manual aggregation of sales data leads to time-consuming report generation.",
+  "features": [
+    "Customizable report templates",
+    "Data import from CSV files",
+    "Basic analytics dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Manual aggregation of sales data leads to time-consuming report generation.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201320 invoices/month, manual data aggregation causes late reports. We automate report generation instead of manual data entry and spreadsheet management.",
+    "current_alternative": "Manual data entry and spreadsheet management",
+    "must_have_features": [
+      "Customizable report templates",
+      "Data import from CSV files",
+      "Basic analytics dashboard"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201320 invoices/month, manual data aggregation causes late reports. We automate report generation instead of manual data entry and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-08",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

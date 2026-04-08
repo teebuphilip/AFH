@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical practice managers processing 10\u201320 invoices/month tool",
+  "description": "For medical practice managers processing 10\u201320 invoices/month, billing irregularities cause revenue loss. We provide an exception detection system instead of manual review of invoices.",
+  "target_audience": "medical practice managers processing 10\u201320 invoices/month",
+  "problem_solved": "billing irregularities leading to revenue loss",
+  "features": [
+    "user-friendly dashboard for monitoring",
+    "manual override for flagged items",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical practice managers processing 10\u201320 invoices/month",
+    "primary_problem": "billing irregularities leading to revenue loss",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical practice managers processing 10\u201320 invoices/month, billing irregularities cause revenue loss. We provide an exception detection system instead of manual review of invoices.",
+    "current_alternative": "manual review of invoices",
+    "must_have_features": [
+      "user-friendly dashboard for monitoring",
+      "manual override for flagged items",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical practice managers processing 10\u201320 invoices/month, billing irregularities cause revenue loss. We provide an exception detection system instead of manual review of invoices.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-08",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

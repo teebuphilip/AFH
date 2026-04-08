@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accountants at law firms processing 5\u201315 trust account reconciliations/month tool",
+  "description": "For accountants at law firms processing 5\u201315 trust account reconciliations/month, manual reconciliation causes compliance risks and potential penalties. We automate report generation instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "accountants at law firms processing 5\u201315 trust account reconciliations/month",
+  "problem_solved": "Inaccurate or delayed trust account reconciliation reports",
+  "features": [
+    "manual entry for initial data input",
+    "monthly report generation",
+    "error-checking for reconciliation discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accountants at law firms processing 5\u201315 trust account reconciliations/month",
+    "primary_problem": "Inaccurate or delayed trust account reconciliation reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accountants at law firms processing 5\u201315 trust account reconciliations/month, manual reconciliation causes compliance risks and potential penalties. We automate report generation instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "manual entry for initial data input",
+      "monthly report generation",
+      "error-checking for reconciliation discrepancies"
+    ]
+  },
+  "one_liner": "For accountants at law firms processing 5\u201315 trust account reconciliations/month, manual reconciliation causes compliance risks and potential penalties. We automate report generation instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-08",
+    "overlay_score": 69,
+    "arr_score": 72
+  }
+}

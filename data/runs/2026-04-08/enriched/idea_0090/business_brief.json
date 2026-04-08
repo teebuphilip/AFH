@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 5\u201315 policy updates/month tool",
+  "description": "For insurance brokers processing 5\u201315 policy updates/month, missing timely alerts causes compliance issues. We provide a regulatory change tracker instead of manual tracking of regulatory changes.",
+  "target_audience": "insurance brokers processing 5\u201315 policy updates/month",
+  "problem_solved": "Lack of timely alerts on regulatory changes",
+  "features": [
+    "real-time alerts for policy updates",
+    "user-friendly dashboard for tracking changes",
+    "customizable notification settings"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 5\u201315 policy updates/month",
+    "primary_problem": "Lack of timely alerts on regulatory changes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 5\u201315 policy updates/month, missing timely alerts causes compliance issues. We provide a regulatory change tracker instead of manual tracking of regulatory changes.",
+    "current_alternative": "manual tracking of regulatory changes",
+    "must_have_features": [
+      "real-time alerts for policy updates",
+      "user-friendly dashboard for tracking changes",
+      "customizable notification settings"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 5\u201315 policy updates/month, missing timely alerts causes compliance issues. We provide a regulatory change tracker instead of manual tracking of regulatory changes.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

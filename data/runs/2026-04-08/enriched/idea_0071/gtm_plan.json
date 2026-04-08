@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201320 paystubs/month",
+  "offer": "For accounting firms processing 10\u201320 paystubs/month, manual creation causes delays in employee payments. We streamline paystub generation instead of manual paystub creation and email distribution.",
+  "problem": "Manual creation and distribution of paystubs leads to delays and errors.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to accounting firms with demo video",
+    "Community forums for accounting tools and resources"
+  ],
+  "try_it": "Let users try template-based paystub generation for free",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Store common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing paystub data",
+    "Enable one-click export of reports",
+    "Simplify onboarding process for new users"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations for small accounting firms processing 5\u201315 payroll submissions/month tool",
+  "description": "For HR operations for small accounting firms processing 5\u201315 payroll submissions/month, discrepancies cause payroll delays. We monitor submissions instead of manual checks and reconciliations.",
+  "target_audience": "HR operations for small accounting firms processing 5\u201315 payroll submissions/month",
+  "problem_solved": "Discrepancies or missing entries in payroll submissions",
+  "features": [
+    "Real-time discrepancy alerts",
+    "Submission tracking dashboard",
+    "Manual entry verification tool"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations for small accounting firms processing 5\u201315 payroll submissions/month",
+    "primary_problem": "Discrepancies or missing entries in payroll submissions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations for small accounting firms processing 5\u201315 payroll submissions/month, discrepancies cause payroll delays. We monitor submissions instead of manual checks and reconciliations.",
+    "current_alternative": "Manual checks and reconciliations",
+    "must_have_features": [
+      "Real-time discrepancy alerts",
+      "Submission tracking dashboard",
+      "Manual entry verification tool"
+    ]
+  },
+  "one_liner": "For HR operations for small accounting firms processing 5\u201315 payroll submissions/month, discrepancies cause payroll delays. We monitor submissions instead of manual checks and reconciliations.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-08",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

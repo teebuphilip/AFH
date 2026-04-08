@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "insurance brokers lack tool",
+    "insurance brokers lack automation",
+    "insurance brokers processing 5 15 policy updates month lack tool",
+    "insurance brokers processing 5 15 policy updates month lack automation",
+    "insurance brokers processing 5 15 policy updates month lack workflow"
+  ],
+  "secondary_keywords": [
+    "insurance brokers processing 5 15 policy updates month lack tool software",
+    "insurance brokers processing 5 15 policy updates month lack tool platform",
+    "insurance brokers processing 5 15 policy updates month lack tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For insurance brokers processing 5\u201315 policy updates/month, missing timely alerts causes compliance issues. We provide a regulatory change tracker instead of manual tracking of regulatory changes.",
+    "Lack of timely alerts on regulatory changes",
+    "insurance brokers processing 5\u201315 policy updates/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Policy Updates Month Lack Tool Software",
+      "target_keyword": "insurance brokers processing 5 15 policy updates month lack tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Policy Updates Month Lack Tool Platform",
+      "target_keyword": "insurance brokers processing 5 15 policy updates month lack tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Policy Updates Month Lack Tool Solution",
+      "target_keyword": "insurance brokers processing 5 15 policy updates month lack tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Policy Updates Month Lack Tool",
+      "target_keyword": "insurance brokers processing 5 15 policy updates month lack tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Policy Updates Month Lack Automation",
+      "target_keyword": "insurance brokers processing 5 15 policy updates month lack automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Brokers Processing 5 15 Policy Updates Month Lack Workflow",
+      "target_keyword": "insurance brokers processing 5 15 policy updates month lack workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "insurance brokers lack tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "insurance brokers lack tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "insurance brokers lack tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "insurance brokers lack tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "insurance brokers lack tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | insurance brokers tool",
+      "insurance brokers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "insurance brokers tool helps with lack of timely alerts on regulatory changes."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

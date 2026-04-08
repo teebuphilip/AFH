@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For small accounting firms processing 5\u201315 invoices/month, inefficient document retrieval causes late payments and client dissatisfaction. We provide a digitization and search tool instead of manual filing and searching through physical documents.",
+  "target_audience": "small accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "inefficient document retrieval and management",
+  "features": [
+    "keyword search functionality",
+    "basic categorization of documents",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "inefficient document retrieval and management",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small accounting firms processing 5\u201315 invoices/month, inefficient document retrieval causes late payments and client dissatisfaction. We provide a digitization and search tool instead of manual filing and searching through physical documents.",
+    "current_alternative": "manual filing and searching through physical documents",
+    "must_have_features": [
+      "keyword search functionality",
+      "basic categorization of documents",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small accounting firms processing 5\u201315 invoices/month, inefficient document retrieval causes late payments and client dissatisfaction. We provide a digitization and search tool instead of manual filing and searching through physical documents.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-08",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

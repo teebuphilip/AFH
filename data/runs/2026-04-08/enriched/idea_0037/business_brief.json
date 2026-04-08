@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "billing administrators at small law firms processing 5\u201315 invoices/month tool",
+  "description": "For billing administrators at small law firms processing 5\u201315 invoices/month, inefficient compilation of billing time-sheets causes cash flow gaps. We automate time-sheet preparation instead of manual compilation using spreadsheets.",
+  "target_audience": "billing administrators at small law firms processing 5\u201315 invoices/month",
+  "problem_solved": "inefficient compilation of billing time-sheets",
+  "features": [
+    "manual entry of time data",
+    "export to common formats like CSV",
+    "user-friendly interface for easy navigation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "billing administrators at small law firms processing 5\u201315 invoices/month",
+    "primary_problem": "inefficient compilation of billing time-sheets",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For billing administrators at small law firms processing 5\u201315 invoices/month, inefficient compilation of billing time-sheets causes cash flow gaps. We automate time-sheet preparation instead of manual compilation using spreadsheets.",
+    "current_alternative": "manual compilation using spreadsheets",
+    "must_have_features": [
+      "manual entry of time data",
+      "export to common formats like CSV",
+      "user-friendly interface for easy navigation"
+    ]
+  },
+  "one_liner": "For billing administrators at small law firms processing 5\u201315 invoices/month, inefficient compilation of billing time-sheets causes cash flow gaps. We automate time-sheet preparation instead of manual compilation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-08",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

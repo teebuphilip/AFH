@@ -1,0 +1,18 @@
+{
+  "idea_text": "Tool that tracks and reconciles utility bill payments against contracts for property managers and notifies of discrepancies monthly.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 73,
+  "arr_score": 75.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-08T10:30:04.121620",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-08T10:30:04.176752",
+  "hold_reason": "arr_70_89"
+}

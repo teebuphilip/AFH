@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 10\u201320 invoices/week for small businesses using QuickBooks tool",
+  "description": "For bookkeepers managing 10\u201320 invoices/week, manual data entry causes cash flow gaps. We extract and consolidate invoice data instead of manual data entry into QuickBooks.",
+  "target_audience": "bookkeepers managing 10\u201320 invoices/week for small businesses using QuickBooks",
+  "problem_solved": "Manual data entry from PDFs is time-consuming and error-prone.",
+  "features": [
+    "data consolidation into a spreadsheet",
+    "manual review option for accuracy",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 10\u201320 invoices/week for small businesses using QuickBooks",
+    "primary_problem": "Manual data entry from PDFs is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 10\u201320 invoices/week, manual data entry causes cash flow gaps. We extract and consolidate invoice data instead of manual data entry into QuickBooks.",
+    "current_alternative": "manual data entry into QuickBooks",
+    "must_have_features": [
+      "data consolidation into a spreadsheet",
+      "manual review option for accuracy",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 10\u201320 invoices/week, manual data entry causes cash flow gaps. We extract and consolidate invoice data instead of manual data entry into QuickBooks.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-08",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

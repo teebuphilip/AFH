@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "dispatch coordinators in home services managing 10\u201320 job confirmations per week tool",
+  "description": "For dispatch coordinators in home services processing 10\u201320 job confirmations per week, inefficient scheduling causes late confirmations. We automate job confirmations instead of manual scheduling via phone and email.",
+  "target_audience": "dispatch coordinators in home services managing 10\u201320 job confirmations per week",
+  "problem_solved": "inefficient scheduling and confirmation processes",
+  "features": [
+    "manual job entry",
+    "simple dashboard for tracking confirmations",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "dispatch coordinators in home services managing 10\u201320 job confirmations per week",
+    "primary_problem": "inefficient scheduling and confirmation processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For dispatch coordinators in home services processing 10\u201320 job confirmations per week, inefficient scheduling causes late confirmations. We automate job confirmations instead of manual scheduling via phone and email.",
+    "current_alternative": "manual scheduling via phone and email",
+    "must_have_features": [
+      "manual job entry",
+      "simple dashboard for tracking confirmations",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For dispatch coordinators in home services processing 10\u201320 job confirmations per week, inefficient scheduling causes late confirmations. We automate job confirmations instead of manual scheduling via phone and email.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-08",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}
