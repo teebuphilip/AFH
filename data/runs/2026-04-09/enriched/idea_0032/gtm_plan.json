@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small law firm paralegals managing 5\u201310 cases/month",
+  "offer": "For small law firm paralegals processing 5\u201310 cases/month, missed legal filing deadlines cause potential penalties. We automate deadline tracking instead of manual tracking using spreadsheets.",
+  "problem": "missed legal filing deadlines",
+  "channels_free": [
+    "Post in Reddit communities for small law firm paralegals",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to small law firm paralegals with demo video",
+    "Community forums for sharing tools among paralegals"
+  ],
+  "try_it": "Let users try deadline reminders and case tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr managers in mid-size companies using gusto for payroll inaccurate tool",
+    "hr managers in mid-size companies using gusto for payroll inaccurate automation",
+    "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate tool",
+    "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate automation",
+    "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate tool software",
+    "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate tool platform",
+    "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR managers in mid-size companies using Gusto for payroll processing 50-100 employees, inaccurate payroll processing causes employee dissatisfaction. We provide a streamlined payroll management tool instead of manual payroll processing with Gusto.",
+    "Inaccurate payroll processing leading to employee dissatisfaction and compliance issues.",
+    "HR managers in mid-size companies using Gusto for payroll processing 50-100 employees"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Gusto For Payroll Processing 50-100 Employees Inaccurate Tool Software",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Gusto For Payroll Processing 50-100 Employees Inaccurate Tool Platform",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Gusto For Payroll Processing 50-100 Employees Inaccurate Tool Solution",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Gusto For Payroll Processing 50-100 Employees Inaccurate Tool",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Gusto For Payroll Processing 50-100 Employees Inaccurate Automation",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Gusto For Payroll Processing 50-100 Employees Inaccurate Workflow",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll processing 50-100 employees inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr managers in mid-size companies using gusto for payroll inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr managers in mid-size companies using gusto for payroll tool",
+      "hr managers in mid-size companies using gusto for payroll tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr managers in mid-size companies using gusto for payroll tool helps with inaccurate payroll processing leading to employee dissatisfaction and compliance issues."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, delayed payments cause cash flow gaps. We automate weekly cash flow forecasts instead of manual tracking of invoices and cash flow.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Inconsistent cash flow due to delayed payments from clients.",
+  "features": [
+    "manual entry of invoices",
+    "weekly cash flow report generation",
+    "notification for overdue invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Inconsistent cash flow due to delayed payments from clients.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, delayed payments cause cash flow gaps. We automate weekly cash flow forecasts instead of manual tracking of invoices and cash flow.",
+    "current_alternative": "manual tracking of invoices and cash flow",
+    "must_have_features": [
+      "manual entry of invoices",
+      "weekly cash flow report generation",
+      "notification for overdue invoices"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, delayed payments cause cash flow gaps. We automate weekly cash flow forecasts instead of manual tracking of invoices and cash flow.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-09",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

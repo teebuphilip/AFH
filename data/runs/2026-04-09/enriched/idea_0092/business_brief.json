@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small CPA firms processing 5\u201315 clients/month tool",
+  "description": "For small CPA firms processing 5\u201315 clients/month, outdated tax law knowledge causes compliance issues. We automate tax law updates instead of manual tracking of tax law changes.",
+  "target_audience": "small CPA firms processing 5\u201315 clients/month",
+  "problem_solved": "Keeping client accounting records updated with the latest tax law changes.",
+  "features": [
+    "manual entry for tax law changes",
+    "notification system for updates",
+    "client record management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small CPA firms processing 5\u201315 clients/month",
+    "primary_problem": "Keeping client accounting records updated with the latest tax law changes.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For small CPA firms processing 5\u201315 clients/month, outdated tax law knowledge causes compliance issues. We automate tax law updates instead of manual tracking of tax law changes.",
+    "current_alternative": "manual tracking of tax law changes",
+    "must_have_features": [
+      "manual entry for tax law changes",
+      "notification system for updates",
+      "client record management"
+    ]
+  },
+  "one_liner": "For small CPA firms processing 5\u201315 clients/month, outdated tax law knowledge causes compliance issues. We automate tax law updates instead of manual tracking of tax law changes.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-09",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

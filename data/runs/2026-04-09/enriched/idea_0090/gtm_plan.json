@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "transportation fleet managers overseeing 10-50 vehicles",
+  "offer": "For transportation fleet managers overseeing 10-50 vehicles, inefficient maintenance scheduling causes vehicle downtime. We automate monitoring and scheduling instead of manual tracking of vehicle diagnostics and maintenance schedules.",
+  "problem": "inefficient maintenance scheduling leading to vehicle downtime",
+  "channels_free": [
+    "Post in Reddit communities for fleet management advice",
+    "Indie Hackers discussions on similar scheduling issues",
+    "Direct message outreach to fleet managers with demo video",
+    "Join community forums for fleet management tools"
+  ],
+  "try_it": "Let users try real-time vehicle diagnostics on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a one-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant forums"
+  ],
+  "automation_simplification_ideas": [
+    "Allow users to save common inputs as templates",
+    "Set default reminder schedules for maintenance",
+    "Enable CSV import for existing vehicle data",
+    "Provide one-click export for simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

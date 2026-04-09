@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, inconsistent compliance documentation causes project delays. We automate compliance audits instead of manual tracking.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Inconsistent compliance documentation leads to project delays.",
+  "features": [
+    "exception report generation",
+    "user-friendly dashboard for tracking compliance status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Inconsistent compliance documentation leads to project delays.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, inconsistent compliance documentation causes project delays. We automate compliance audits instead of manual tracking.",
+    "current_alternative": "manual tracking of compliance documents and exception reporting.",
+    "must_have_features": [
+      "exception report generation",
+      "user-friendly dashboard for tracking compliance status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, inconsistent compliance documentation causes project delays. We automate compliance audits instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-09",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

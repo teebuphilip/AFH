@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant franchise owners processing 5\u201315 menu items/month tool",
+  "description": "For restaurant franchise owners processing 5\u201315 menu items/month, inaccurate nutritional information causes compliance issues. We generate custom menu nutritional information reports instead of manual calculations or generic nutritional databases.",
+  "target_audience": "restaurant franchise owners processing 5\u201315 menu items/month",
+  "problem_solved": "Inaccurate nutritional information leading to compliance issues.",
+  "features": [
+    "custom report generation",
+    "nutritional data input",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant franchise owners processing 5\u201315 menu items/month",
+    "primary_problem": "Inaccurate nutritional information leading to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For restaurant franchise owners processing 5\u201315 menu items/month, inaccurate nutritional information causes compliance issues. We generate custom menu nutritional information reports instead of manual calculations or generic nutritional databases.",
+    "current_alternative": "manual calculations or generic nutritional databases",
+    "must_have_features": [
+      "custom report generation",
+      "nutritional data input",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For restaurant franchise owners processing 5\u201315 menu items/month, inaccurate nutritional information causes compliance issues. We generate custom menu nutritional information reports instead of manual calculations or generic nutritional databases.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-09",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

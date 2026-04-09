@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small HR teams in accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For small HR teams in accounting firms processing 5\u201315 payrolls/month, manual tracking causes late filings. We automate payroll tax filings instead of manual tracking and filing of payroll taxes.",
+  "target_audience": "small HR teams in accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Timely payroll tax filings and reminders",
+  "features": [
+    "monthly payroll tax report generation",
+    "user-friendly dashboard for tracking submissions",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small HR teams in accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Timely payroll tax filings and reminders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small HR teams in accounting firms processing 5\u201315 payrolls/month, manual tracking causes late filings. We automate payroll tax filings instead of manual tracking and filing of payroll taxes.",
+    "current_alternative": "manual tracking and filing of payroll taxes",
+    "must_have_features": [
+      "monthly payroll tax report generation",
+      "user-friendly dashboard for tracking submissions",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small HR teams in accounting firms processing 5\u201315 payrolls/month, manual tracking causes late filings. We automate payroll tax filings instead of manual tracking and filing of payroll taxes.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-09",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

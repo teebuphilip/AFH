@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "fleet operations managers in logistics companies managing - vehicles inconsistent tool",
+    "fleet operations managers in logistics companies managing - vehicles inconsistent automation",
+    "payment reminders",
+    "fleet operations managers in logistics companies managing 10-50 vehicles inconsistent tool",
+    "fleet operations managers in logistics companies managing 10-50 vehicles inconsistent automation",
+    "fleet operations managers in logistics companies managing 10-50 vehicles inconsistent workflow"
+  ],
+  "secondary_keywords": [
+    "payment reminders software",
+    "payment reminders platform",
+    "payment reminders solution"
+  ],
+  "long_tail_keywords": [
+    "how to payment reminders",
+    "best payment reminders tool",
+    "payment reminders vs spreadsheets",
+    "payment reminders checklist",
+    "payment reminders pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For fleet operations managers in logistics companies processing 10-50 vehicles, inconsistent vehicle maintenance scheduling causes unexpected breakdowns. We provide automated maintenance reminders instead of manual tracking through spreadsheets or paper logs.",
+    "Inconsistent vehicle maintenance scheduling leads to unexpected breakdowns.",
+    "fleet operations managers in logistics companies managing 10-50 vehicles"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Payment Reminders",
+      "target_keyword": "how to payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Payment Reminders Tool",
+      "target_keyword": "best payment reminders tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Payment Reminders Vs Spreadsheets",
+      "target_keyword": "payment reminders vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Payment Reminders Checklist",
+      "target_keyword": "payment reminders checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Pricing",
+      "target_keyword": "payment reminders pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Software",
+      "target_keyword": "payment reminders software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Platform",
+      "target_keyword": "payment reminders platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Solution",
+      "target_keyword": "payment reminders solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders",
+      "target_keyword": "payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Fleet Operations Managers In Logistics Companies Managing 10-50 Vehicles Inconsistent Tool",
+      "target_keyword": "fleet operations managers in logistics companies managing 10-50 vehicles inconsistent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Operations Managers In Logistics Companies Managing 10-50 Vehicles Inconsistent Automation",
+      "target_keyword": "fleet operations managers in logistics companies managing 10-50 vehicles inconsistent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Fleet Operations Managers In Logistics Companies Managing 10-50 Vehicles Inconsistent Workflow",
+      "target_keyword": "fleet operations managers in logistics companies managing 10-50 vehicles inconsistent workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "fleet operations managers in logistics companies managing - vehicles inconsistent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "fleet operations managers in logistics companies managing - vehicles inconsistent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "fleet operations managers in logistics companies managing - vehicles inconsistent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "fleet operations managers in logistics companies managing - vehicles inconsistent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "fleet operations managers in logistics companies managing - vehicles inconsistent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | fleet operations managers in logistics companies managing - vehicles tool",
+      "fleet operations managers in logistics companies managing - vehicles tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "fleet operations managers in logistics companies managing - vehicles tool helps with inconsistent vehicle maintenance scheduling leads to unexpected breakdowns."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

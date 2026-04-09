@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "freelancers processing 5\u201315 invoices/month",
+  "offer": "For freelancers processing 5\u201315 invoices/month, delayed payments cause cash flow gaps. We automate weekly cash flow forecasts instead of manual tracking of invoices and cash flow.",
+  "problem": "Inconsistent cash flow due to delayed payments from clients.",
+  "channels_free": [
+    "Post in Reddit communities for freelancers seeking advice",
+    "Indie Hackers discussions on similar challenges",
+    "DM outreach to freelancers with a demo video",
+    "Join forums where freelancers share tools and tips"
+  ],
+  "try_it": "Let users manually enter invoices and generate cash flow reports",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with one-liner",
+    "Produce a short demo video of manual workflow",
+    "Gather 10 brief interviews from target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for invoices",
+    "Enable CSV import for existing invoice data",
+    "Provide one-click export for simple reports",
+    "Streamline the onboarding process with fewer steps"
+  ]
+}

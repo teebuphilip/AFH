@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small marketing agencies processing 5\u201315 purchase orders/month tool",
+  "description": "For procurement managers in small marketing agencies processing 5\u201315 purchase orders/month, delayed approvals cause missed deadlines. We send timely reminders instead of manual tracking via spreadsheets.",
+  "target_audience": "procurement managers in small marketing agencies processing 5\u201315 purchase orders/month",
+  "problem_solved": "delayed purchase order approvals",
+  "features": [
+    "status tracking for purchase orders",
+    "simple dashboard for overdue actions",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small marketing agencies processing 5\u201315 purchase orders/month",
+    "primary_problem": "delayed purchase order approvals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small marketing agencies processing 5\u201315 purchase orders/month, delayed approvals cause missed deadlines. We send timely reminders instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "status tracking for purchase orders",
+      "simple dashboard for overdue actions",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in small marketing agencies processing 5\u201315 purchase orders/month, delayed approvals cause missed deadlines. We send timely reminders instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-09",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

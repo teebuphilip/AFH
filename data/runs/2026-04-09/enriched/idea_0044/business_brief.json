@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists processing 10\u201320 claims/month tool",
+  "description": "For medical billing specialists processing 10\u201320 claims/month, inaccurate matching causes claim denials. We automate the matching process instead of manual matching of claims data and billing codes.",
+  "target_audience": "medical billing specialists processing 10\u201320 claims/month",
+  "problem_solved": "Inaccurate matching of claims data with billing codes leads to claim denials.",
+  "features": [
+    "manual data entry interface",
+    "error reporting for mismatches",
+    "basic analytics dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists processing 10\u201320 claims/month",
+    "primary_problem": "Inaccurate matching of claims data with billing codes leads to claim denials.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists processing 10\u201320 claims/month, inaccurate matching causes claim denials. We automate the matching process instead of manual matching of claims data and billing codes.",
+    "current_alternative": "manual matching of claims data and billing codes",
+    "must_have_features": [
+      "manual data entry interface",
+      "error reporting for mismatches",
+      "basic analytics dashboard"
+    ]
+  },
+  "one_liner": "For medical billing specialists processing 10\u201320 claims/month, inaccurate matching causes claim denials. We automate the matching process instead of manual matching of claims data and billing codes.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

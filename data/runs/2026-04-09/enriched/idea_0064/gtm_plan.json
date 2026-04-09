@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR leaders in small to medium-sized marketing agencies processing 5\u201315 employee productivity reports/month",
+  "offer": "For HR leaders in small to medium-sized marketing agencies processing 5\u201315 employee productivity reports/month, unclear performance metrics cause inefficient resource allocation. We provide actionable insights instead of manual analysis of productivity reports.",
+  "problem": "Lack of actionable insights from employee productivity data",
+  "channels_free": [
+    "Post in Reddit communities for HR leaders seeking help",
+    "Engage in Indie Hackers discussions about similar workflows",
+    "DM outreach to HR leaders with a demo video",
+    "Share insights in community forums for HR leaders"
+  ],
+  "try_it": "Let users try data visualization of productivity metrics",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy access",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing productivity data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

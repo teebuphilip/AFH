@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, manual tracking causes compliance issues. We automate sales tax report generation instead of manual tracking.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in generating accurate sales tax reports for multiple jurisdictions.",
+  "features": [
+    "Email notifications for compliance teams",
+    "User-friendly dashboard for report access",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in generating accurate sales tax reports for multiple jurisdictions.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, manual tracking causes compliance issues. We automate sales tax report generation instead of manual tracking.",
+    "current_alternative": "Manual tracking and reporting of sales tax obligations.",
+    "must_have_features": [
+      "Email notifications for compliance teams",
+      "User-friendly dashboard for report access",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, manual tracking causes compliance issues. We automate sales tax report generation instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-09",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics carriers inaccurate tool",
+    "logistics carriers inaccurate automation",
+    "inventory tracking",
+    "inventory workflow",
+    "logistics carriers processing 10 20 inventory receipts month inaccurate tool",
+    "logistics carriers processing 10 20 inventory receipts month inaccurate automation",
+    "logistics carriers processing 10 20 inventory receipts month inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "inventory tracking software",
+    "inventory tracking platform",
+    "inventory tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to inventory tracking",
+    "best inventory tracking tool",
+    "inventory tracking vs spreadsheets",
+    "inventory tracking checklist",
+    "inventory tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics carriers processing 10\u201320 invoices/month, inaccurate inventory tracking causes operational inefficiencies. We automatically track inventory receipts and generate discrepancy reports instead of manual tracking and reconciliation of inventory receipts.",
+    "Inaccurate inventory tracking leading to discrepancies.",
+    "logistics carriers processing 10\u201320 inventory receipts/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Inventory Tracking",
+      "target_keyword": "how to inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Inventory Tracking Tool",
+      "target_keyword": "best inventory tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Vs Spreadsheets",
+      "target_keyword": "inventory tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Checklist",
+      "target_keyword": "inventory tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Pricing",
+      "target_keyword": "inventory tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Software",
+      "target_keyword": "inventory tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Platform",
+      "target_keyword": "inventory tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Solution",
+      "target_keyword": "inventory tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking",
+      "target_keyword": "inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Workflow",
+      "target_keyword": "inventory workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Carriers Processing 10 20 Inventory Receipts Month Inaccurate Tool",
+      "target_keyword": "logistics carriers processing 10 20 inventory receipts month inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 10 20 Inventory Receipts Month Inaccurate Automation",
+      "target_keyword": "logistics carriers processing 10 20 inventory receipts month inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics carriers inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics carriers inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics carriers inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics carriers inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics carriers inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics carriers tool",
+      "logistics carriers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics carriers tool helps with inaccurate inventory tracking leading to discrepancies."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

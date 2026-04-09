@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "freelancers using quickbooks for expense reporting inconsistent tool",
+    "freelancers using quickbooks for expense reporting inconsistent automation",
+    "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent tool",
+    "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent automation",
+    "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent workflow"
+  ],
+  "secondary_keywords": [
+    "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent tool software",
+    "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent tool platform",
+    "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For freelancers using QuickBooks for expense reporting, processing 5\u201315 invoices/month, inconsistent expense reporting causes cash flow gaps. We consolidate expense reports and verify policy compliance instead of manual tracking and reporting in spreadsheets.",
+    "Inconsistent expense reporting and compliance verification",
+    "freelancers using QuickBooks for expense reporting, processing 5\u201315 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Freelancers Using Quickbooks For Expense Reporting Processing 5 15 Invoices Month Inconsistent Tool Software",
+      "target_keyword": "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Using Quickbooks For Expense Reporting Processing 5 15 Invoices Month Inconsistent Tool Platform",
+      "target_keyword": "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Using Quickbooks For Expense Reporting Processing 5 15 Invoices Month Inconsistent Tool Solution",
+      "target_keyword": "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Using Quickbooks For Expense Reporting Processing 5 15 Invoices Month Inconsistent Tool",
+      "target_keyword": "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Using Quickbooks For Expense Reporting Processing 5 15 Invoices Month Inconsistent Automation",
+      "target_keyword": "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Using Quickbooks For Expense Reporting Processing 5 15 Invoices Month Inconsistent Workflow",
+      "target_keyword": "freelancers using quickbooks for expense reporting processing 5 15 invoices month inconsistent workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "freelancers using quickbooks for expense reporting inconsistent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "freelancers using quickbooks for expense reporting inconsistent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "freelancers using quickbooks for expense reporting inconsistent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "freelancers using quickbooks for expense reporting inconsistent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "freelancers using quickbooks for expense reporting inconsistent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | freelancers using quickbooks for expense reporting tool",
+      "freelancers using quickbooks for expense reporting tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "freelancers using quickbooks for expense reporting tool helps with inconsistent expense reporting and compliance verification."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

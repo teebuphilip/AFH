@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers overseeing multiple locations with 5\u201315 refrigerated storage units tool",
+  "description": "For restaurant managers overseeing 5\u201315 refrigerated storage units, inconsistent temperature logs cause food spoilage. We provide automated monitoring instead of manual temperature logging and monitoring.",
+  "target_audience": "restaurant managers overseeing multiple locations with 5\u201315 refrigerated storage units",
+  "problem_solved": "Inconsistent temperature logs leading to food spoilage",
+  "features": [
+    "real-time temperature alerts",
+    "manual log entry for historical data",
+    "user-friendly dashboard for monitoring"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers overseeing multiple locations with 5\u201315 refrigerated storage units",
+    "primary_problem": "Inconsistent temperature logs leading to food spoilage",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers overseeing 5\u201315 refrigerated storage units, inconsistent temperature logs cause food spoilage. We provide automated monitoring instead of manual temperature logging and monitoring.",
+    "current_alternative": "manual temperature logging and monitoring",
+    "must_have_features": [
+      "real-time temperature alerts",
+      "manual log entry for historical data",
+      "user-friendly dashboard for monitoring"
+    ]
+  },
+  "one_liner": "For restaurant managers overseeing 5\u201315 refrigerated storage units, inconsistent temperature logs cause food spoilage. We provide automated monitoring instead of manual temperature logging and monitoring.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

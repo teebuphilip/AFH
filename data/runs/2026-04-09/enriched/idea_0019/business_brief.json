@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations for small to medium-sized businesses using BambooHR tool",
+  "description": "For HR operations processing 5\u201315 new hires/month, missing onboarding paperwork causes delays in employee start dates. We automate document validation instead of manual tracking.",
+  "target_audience": "HR operations for small to medium-sized businesses using BambooHR",
+  "problem_solved": "Missing onboarding paperwork can delay the hiring process.",
+  "features": [
+    "Validation checklist for required documents",
+    "Notification system for missing paperwork",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations for small to medium-sized businesses using BambooHR",
+    "primary_problem": "Missing onboarding paperwork can delay the hiring process.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations processing 5\u201315 new hires/month, missing onboarding paperwork causes delays in employee start dates. We automate document validation instead of manual tracking.",
+    "current_alternative": "Manual tracking of onboarding documents",
+    "must_have_features": [
+      "Validation checklist for required documents",
+      "Notification system for missing paperwork",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations processing 5\u201315 new hires/month, missing onboarding paperwork causes delays in employee start dates. We automate document validation instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

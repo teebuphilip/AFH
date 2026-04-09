@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10-50 vehicles tool",
+  "description": "For logistics carriers processing 10-50 vehicles, inefficient vehicle maintenance scheduling causes unexpected breakdowns. We automate monitoring and scheduling instead of manual tracking and scheduling of maintenance.",
+  "target_audience": "logistics carriers processing 10-50 vehicles",
+  "problem_solved": "Inefficient vehicle maintenance scheduling leads to unexpected breakdowns.",
+  "features": [
+    "Real-time vehicle diagnostic code monitoring",
+    "User-friendly dashboard for tracking vehicle status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10-50 vehicles",
+    "primary_problem": "Inefficient vehicle maintenance scheduling leads to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10-50 vehicles, inefficient vehicle maintenance scheduling causes unexpected breakdowns. We automate monitoring and scheduling instead of manual tracking and scheduling of maintenance.",
+    "current_alternative": "manual tracking and scheduling of maintenance",
+    "must_have_features": [
+      "Real-time vehicle diagnostic code monitoring",
+      "User-friendly dashboard for tracking vehicle status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10-50 vehicles, inefficient vehicle maintenance scheduling causes unexpected breakdowns. We automate monitoring and scheduling instead of manual tracking and scheduling of maintenance.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-09",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

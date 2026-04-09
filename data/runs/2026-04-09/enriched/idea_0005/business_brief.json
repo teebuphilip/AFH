@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201320 subscriptions/month tool",
+  "description": "For accounting firms managing 10\u201320 subscriptions/month, missed payment deadlines cause late fees. We automate payment reminders instead of manual tracking of subscription renewals.",
+  "target_audience": "accounting firms managing 10\u201320 subscriptions/month",
+  "problem_solved": "missed payment deadlines leading to late fees",
+  "features": [
+    "monthly payment reminder notifications",
+    "subscription renewal tracking",
+    "manual entry for subscription details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201320 subscriptions/month",
+    "primary_problem": "missed payment deadlines leading to late fees",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201320 subscriptions/month, missed payment deadlines cause late fees. We automate payment reminders instead of manual tracking of subscription renewals.",
+    "current_alternative": "manual tracking of subscription renewals",
+    "must_have_features": [
+      "monthly payment reminder notifications",
+      "subscription renewal tracking",
+      "manual entry for subscription details"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201320 subscriptions/month, missed payment deadlines cause late fees. We automate payment reminders instead of manual tracking of subscription renewals.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-09",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in mid-size companies using Gusto for payroll processing 50-100 employees tool",
+  "description": "For HR managers in mid-size companies using Gusto for payroll processing 50-100 employees, inaccurate payroll processing causes employee dissatisfaction. We provide a streamlined payroll management tool instead of manual payroll processing with Gusto.",
+  "target_audience": "HR managers in mid-size companies using Gusto for payroll processing 50-100 employees",
+  "problem_solved": "Inaccurate payroll processing leading to employee dissatisfaction and compliance issues.",
+  "features": [
+    "user-friendly dashboard for payroll overview",
+    "manual entry for payroll adjustments",
+    "basic reporting for payroll summaries"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in mid-size companies using Gusto for payroll processing 50-100 employees",
+    "primary_problem": "Inaccurate payroll processing leading to employee dissatisfaction and compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in mid-size companies using Gusto for payroll processing 50-100 employees, inaccurate payroll processing causes employee dissatisfaction. We provide a streamlined payroll management tool instead of manual payroll processing with Gusto.",
+    "current_alternative": "manual payroll processing with Gusto",
+    "must_have_features": [
+      "user-friendly dashboard for payroll overview",
+      "manual entry for payroll adjustments",
+      "basic reporting for payroll summaries"
+    ]
+  },
+  "one_liner": "For HR managers in mid-size companies using Gusto for payroll processing 50-100 employees, inaccurate payroll processing causes employee dissatisfaction. We provide a streamlined payroll management tool instead of manual payroll processing with Gusto.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-09",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "management consulting firms processing 10\u201320 invoices/month",
+  "offer": "For management consulting firms processing 10\u201320 invoices/month, inaccurate billing reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation of billing records and time tracking.",
+  "problem": "Inaccurate billing reconciliation leading to cash flow gaps.",
+  "channels_free": [
+    "Post in Reddit communities for management consultants",
+    "Indie Hackers discussions on billing workflows",
+    "DM outreach to management consulting firms with demo video",
+    "Participate in forums for management consulting tools"
+  ],
+  "try_it": "Let users try manual entry for 1-3 invoices",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminders for users",
+    "Allow CSV imports for existing records",
+    "Enable one-click report exports",
+    "Streamline onboarding process for new users"
+  ]
+}

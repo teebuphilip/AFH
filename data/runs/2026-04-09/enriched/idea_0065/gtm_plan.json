@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small accounting firms processing 5\u201315 invoices/month",
+  "offer": "For small accounting firms processing 5\u201315 invoices/month, inefficient collections causes cash flow gaps. We automate accounts receivable management instead of manual tracking of invoices and collections.",
+  "problem": "inefficient collections process leading to cash flow gaps",
+  "channels_free": [
+    "Post in Reddit communities for small accounting firms",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "DM outreach to small accounting firms with demo video",
+    "Share insights in community forums for accounting tools"
+  ],
+  "try_it": "Let users try manual invoice entry and overdue reminders",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video of manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedules for users",
+    "CSV import feature for existing data",
+    "One-click export for simple reports",
+    "Streamline onboarding process"
+  ]
+}

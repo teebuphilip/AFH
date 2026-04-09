@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "pediatric clinics processing 5\u201315 patient appointments/week",
+  "offer": "For pediatric clinics processing 5\u201315 patient appointments/week, inefficient tracking causes missed follow-ups. We automate appointment history tracking instead of manual tracking and reporting.",
+  "problem": "Inability to efficiently track patient appointment history and generate wellness reports.",
+  "channels_free": [
+    "Post in Reddit communities for pediatric clinics",
+    "Indie Hackers discussions about similar workflows",
+    "DM outreach to pediatric clinics with demo video",
+    "Engage in community forums for pediatric clinics"
+  ],
+  "try_it": "Let users try appointment tracking and wellness reports on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing appointment data",
+    "One-click export of simple wellness reports",
+    "Streamline onboarding process for new users"
+  ]
+}

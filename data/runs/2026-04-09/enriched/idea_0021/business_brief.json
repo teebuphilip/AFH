@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 software licenses/month tool",
+  "description": "For accounting firms managing 5\u201315 software licenses/month, overspending on unused licenses causes budget overruns. We provide automated monitoring instead of manual tracking of software license usage.",
+  "target_audience": "accounting firms managing 5\u201315 software licenses/month",
+  "problem_solved": "Overspending on unused software licenses",
+  "features": [
+    "usage threshold alerts",
+    "monthly usage reports",
+    "manual entry for license tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 software licenses/month",
+    "primary_problem": "Overspending on unused software licenses",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 software licenses/month, overspending on unused licenses causes budget overruns. We provide automated monitoring instead of manual tracking of software license usage.",
+    "current_alternative": "manual tracking of software license usage",
+    "must_have_features": [
+      "usage threshold alerts",
+      "monthly usage reports",
+      "manual entry for license tracking"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 software licenses/month, overspending on unused licenses causes budget overruns. We provide automated monitoring instead of manual tracking of software license usage.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-09",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

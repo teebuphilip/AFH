@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "property managers handling rental units month timely tool",
+    "property managers handling rental units month timely automation",
+    "support ticket tracking",
+    "support workflow",
+    "property managers handling 20 50 rental units month timely tool",
+    "property managers handling 20 50 rental units month timely automation",
+    "property managers handling 20 50 rental units month timely workflow"
+  ],
+  "secondary_keywords": [
+    "support ticket tracking software",
+    "support ticket tracking platform",
+    "support ticket tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to support ticket tracking",
+    "best support ticket tracking tool",
+    "support ticket tracking vs spreadsheets",
+    "support ticket tracking checklist",
+    "support ticket tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For property managers handling 20\u201350 rental units/month, delayed rent roll reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+    "timely rent roll reconciliation",
+    "property managers handling 20\u201350 rental units/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Support Ticket Tracking",
+      "target_keyword": "how to support ticket tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Support Ticket Tracking Tool",
+      "target_keyword": "best support ticket tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Support Ticket Tracking Vs Spreadsheets",
+      "target_keyword": "support ticket tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Support Ticket Tracking Checklist",
+      "target_keyword": "support ticket tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Pricing",
+      "target_keyword": "support ticket tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Software",
+      "target_keyword": "support ticket tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Platform",
+      "target_keyword": "support ticket tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Solution",
+      "target_keyword": "support ticket tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking",
+      "target_keyword": "support ticket tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Workflow",
+      "target_keyword": "support workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Property Managers Handling 20 50 Rental Units Month Timely Tool",
+      "target_keyword": "property managers handling 20 50 rental units month timely tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Handling 20 50 Rental Units Month Timely Automation",
+      "target_keyword": "property managers handling 20 50 rental units month timely automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "property managers handling rental units month timely tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "property managers handling rental units month timely tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "property managers handling rental units month timely tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "property managers handling rental units month timely tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "property managers handling rental units month timely tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | property managers handling rental units month tool",
+      "property managers handling rental units month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "property managers handling rental units month tool helps with timely rent roll reconciliation."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

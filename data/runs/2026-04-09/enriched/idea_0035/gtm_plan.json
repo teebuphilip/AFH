@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors managing 5\u201315 projects/month",
+  "offer": "For construction contractors managing 5\u201315 projects/month, inconsistent compliance documentation causes project delays. We automate compliance audits instead of manual tracking.",
+  "problem": "Inconsistent compliance documentation leads to project delays.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers posts about compliance workflows",
+    "DM outreach to construction contractors with demo video",
+    "Community forums for sharing compliance tools"
+  ],
+  "try_it": "Let users try exception report generation and dashboard for compliance tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant finance managers processing 10\u201320 invoices/month tool",
+  "description": "For restaurant finance managers processing 10\u201320 invoices/month, inefficient approvals cause late payments to vendors. We streamline the approval process instead of manual approval processes via email and spreadsheets.",
+  "target_audience": "restaurant finance managers processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient vendor invoice approval process leading to delays.",
+  "features": [
+    "manual invoice submission",
+    "status tracking for approvals",
+    "exception routing for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant finance managers processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient vendor invoice approval process leading to delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant finance managers processing 10\u201320 invoices/month, inefficient approvals cause late payments to vendors. We streamline the approval process instead of manual approval processes via email and spreadsheets.",
+    "current_alternative": "manual approval processes via email and spreadsheets",
+    "must_have_features": [
+      "manual invoice submission",
+      "status tracking for approvals",
+      "exception routing for discrepancies"
+    ]
+  },
+  "one_liner": "For restaurant finance managers processing 10\u201320 invoices/month, inefficient approvals cause late payments to vendors. We streamline the approval process instead of manual approval processes via email and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-09",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

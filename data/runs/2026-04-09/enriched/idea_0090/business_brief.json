@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "transportation fleet managers overseeing 10-50 vehicles tool",
+  "description": "For transportation fleet managers overseeing 10-50 vehicles, inefficient maintenance scheduling causes vehicle downtime. We automate monitoring and scheduling instead of manual tracking of vehicle diagnostics and maintenance schedules.",
+  "target_audience": "transportation fleet managers overseeing 10-50 vehicles",
+  "problem_solved": "inefficient maintenance scheduling leading to vehicle downtime",
+  "features": [
+    "real-time vehicle diagnostic monitoring",
+    "manual entry option for diagnostics",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "transportation fleet managers overseeing 10-50 vehicles",
+    "primary_problem": "inefficient maintenance scheduling leading to vehicle downtime",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For transportation fleet managers overseeing 10-50 vehicles, inefficient maintenance scheduling causes vehicle downtime. We automate monitoring and scheduling instead of manual tracking of vehicle diagnostics and maintenance schedules.",
+    "current_alternative": "manual tracking of vehicle diagnostics and maintenance schedules",
+    "must_have_features": [
+      "real-time vehicle diagnostic monitoring",
+      "manual entry option for diagnostics",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For transportation fleet managers overseeing 10-50 vehicles, inefficient maintenance scheduling causes vehicle downtime. We automate monitoring and scheduling instead of manual tracking of vehicle diagnostics and maintenance schedules.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-09",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

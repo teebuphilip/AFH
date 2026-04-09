@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics coordinators for freight brokers processing 10\u201320 shipments/month",
+  "offer": "For logistics coordinators for freight brokers processing 10\u201320 shipments/month, delays in cargo shipments cause late orders. We provide real-time monitoring instead of manual tracking and communication with carriers.",
+  "problem": "delays in cargo shipments",
+  "channels_free": [
+    "Post in Reddit communities for logistics coordinators",
+    "Indie Hackers posts on relevant workflows",
+    "DM outreach to logistics coordinators with demo video",
+    "Community forums for sharing logistics tools"
+  ],
+  "try_it": "Let users try real-time shipment tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing shipment data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
+  ]
+}

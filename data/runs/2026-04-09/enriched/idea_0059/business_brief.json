@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "consulting agencies processing 10\u201320 invoices/month tool",
+  "description": "For consulting agencies processing 10\u201320 invoices/month, manual timesheet tracking causes billing delays. We automate timesheet and attendance tracking instead of manual timesheet entry and tracking.",
+  "target_audience": "consulting agencies processing 10\u201320 invoices/month",
+  "problem_solved": "Manual timesheet tracking leads to billing delays and inaccurate invoicing.",
+  "features": [
+    "simple time entry interface",
+    "basic reporting on hours worked",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "consulting agencies processing 10\u201320 invoices/month",
+    "primary_problem": "Manual timesheet tracking leads to billing delays and inaccurate invoicing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For consulting agencies processing 10\u201320 invoices/month, manual timesheet tracking causes billing delays. We automate timesheet and attendance tracking instead of manual timesheet entry and tracking.",
+    "current_alternative": "manual timesheet entry and tracking",
+    "must_have_features": [
+      "simple time entry interface",
+      "basic reporting on hours worked",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For consulting agencies processing 10\u201320 invoices/month, manual timesheet tracking causes billing delays. We automate timesheet and attendance tracking instead of manual timesheet entry and tracking.",
+  "source": {
+    "idea_id": "idea_0059",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HVAC technicians processing 10\u201320 invoices/month tool",
+  "description": "For HVAC technicians processing 10\u201320 invoices/month, manual invoicing causes cash flow gaps. We automate the conversion of work orders into invoices instead of using spreadsheets.",
+  "target_audience": "HVAC technicians processing 10\u201320 invoices/month",
+  "problem_solved": "Manual invoicing leads to delayed payments and cash flow gaps.",
+  "features": [
+    "Simple work order entry",
+    "Basic invoice generation",
+    "Email invoice delivery"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HVAC technicians processing 10\u201320 invoices/month",
+    "primary_problem": "Manual invoicing leads to delayed payments and cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HVAC technicians processing 10\u201320 invoices/month, manual invoicing causes cash flow gaps. We automate the conversion of work orders into invoices instead of using spreadsheets.",
+    "current_alternative": "Manual invoicing using spreadsheets or paper forms",
+    "must_have_features": [
+      "Simple work order entry",
+      "Basic invoice generation",
+      "Email invoice delivery"
+    ]
+  },
+  "one_liner": "For HVAC technicians processing 10\u201320 invoices/month, manual invoicing causes cash flow gaps. We automate the conversion of work orders into invoices instead of using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-09",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

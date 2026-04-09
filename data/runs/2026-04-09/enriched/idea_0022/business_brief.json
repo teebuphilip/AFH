@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 5\u201315 clients using QuickBooks tool",
+  "description": "For bookkeepers managing 5\u201315 clients using QuickBooks, manual entry of daily sales data causes time delays and potential errors. We automate the conversion of sales data into journal entries instead of manual data entry into QuickBooks.",
+  "target_audience": "bookkeepers managing 5\u201315 clients using QuickBooks",
+  "problem_solved": "Manual entry of daily sales data into accounting systems is time-consuming and error-prone.",
+  "features": [
+    "daily sales data import",
+    "journal entry generation",
+    "error reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 5\u201315 clients using QuickBooks",
+    "primary_problem": "Manual entry of daily sales data into accounting systems is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 5\u201315 clients using QuickBooks, manual entry of daily sales data causes time delays and potential errors. We automate the conversion of sales data into journal entries instead of manual data entry into QuickBooks.",
+    "current_alternative": "manual data entry into QuickBooks",
+    "must_have_features": [
+      "daily sales data import",
+      "journal entry generation",
+      "error reporting"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 5\u201315 clients using QuickBooks, manual entry of daily sales data causes time delays and potential errors. We automate the conversion of sales data into journal entries instead of manual data entry into QuickBooks.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-09",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical office managers processing 10\u201320 appointments/month tool",
+  "description": "For medical office managers processing 10\u201320 appointments/month, inaccurate billing causes cash flow gaps. We automate reconciliation instead of manual reconciliation of appointment and billing records.",
+  "target_audience": "medical office managers processing 10\u201320 appointments/month",
+  "problem_solved": "Inaccurate billing due to mismatched appointment records.",
+  "features": [
+    "manual entry for appointment data",
+    "manual entry for billing data",
+    "report generation for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical office managers processing 10\u201320 appointments/month",
+    "primary_problem": "Inaccurate billing due to mismatched appointment records.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical office managers processing 10\u201320 appointments/month, inaccurate billing causes cash flow gaps. We automate reconciliation instead of manual reconciliation of appointment and billing records.",
+    "current_alternative": "manual reconciliation of appointment and billing records",
+    "must_have_features": [
+      "manual entry for appointment data",
+      "manual entry for billing data",
+      "report generation for discrepancies"
+    ]
+  },
+  "one_liner": "For medical office managers processing 10\u201320 appointments/month, inaccurate billing causes cash flow gaps. We automate reconciliation instead of manual reconciliation of appointment and billing records.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-09",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

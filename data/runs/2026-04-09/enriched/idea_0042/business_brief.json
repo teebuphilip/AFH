@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 lease renewals/month tool",
+  "description": "For property managers processing 5\u201315 lease renewals/month, inefficient tracking causes missed renewal opportunities. We automate report preparation instead of manual tracking using spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 lease renewals/month",
+  "problem_solved": "Inefficient tracking of lease expirations and renewals",
+  "features": [
+    "email reminders for upcoming expirations",
+    "user-friendly dashboard for tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 lease renewals/month",
+    "primary_problem": "Inefficient tracking of lease expirations and renewals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 lease renewals/month, inefficient tracking causes missed renewal opportunities. We automate report preparation instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking using spreadsheets",
+    "must_have_features": [
+      "email reminders for upcoming expirations",
+      "user-friendly dashboard for tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 lease renewals/month, inefficient tracking causes missed renewal opportunities. We automate report preparation instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

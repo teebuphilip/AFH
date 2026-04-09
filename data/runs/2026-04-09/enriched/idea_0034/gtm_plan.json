@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "field service dispatchers in home services processing 10\u201320 work orders/week",
+  "offer": "For field service dispatchers in home services processing 10\u201320 work orders/week, inefficient communication causes late updates to clients. We automatically generate work order completion summaries instead of manual summary creation.",
+  "problem": "Inefficient communication of work order completions",
+  "channels_free": [
+    "Post in Reddit communities for field service dispatchers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to dispatchers with demo video",
+    "Community forums for sharing tools and tips"
+  ],
+  "try_it": "Let users try template-based summary generation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Set default reminder schedules for tasks",
+    "Allow CSV import for existing data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process for new users"
+  ]
+}

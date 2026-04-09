@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 20\u201350 orders/month tool",
+  "description": "For Amazon sellers processing 20\u201350 orders/month, inefficient inventory tracking causes stockouts. We automate inventory tracking instead of manual inventory tracking spreadsheets.",
+  "target_audience": "Amazon sellers processing 20\u201350 orders/month",
+  "problem_solved": "Inefficient inventory tracking leading to stockouts",
+  "features": [
+    "Real-time inventory level updates",
+    "User-friendly dashboard for tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 20\u201350 orders/month",
+    "primary_problem": "Inefficient inventory tracking leading to stockouts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 20\u201350 orders/month, inefficient inventory tracking causes stockouts. We automate inventory tracking instead of manual inventory tracking spreadsheets.",
+    "current_alternative": "Manual inventory tracking spreadsheets",
+    "must_have_features": [
+      "Real-time inventory level updates",
+      "User-friendly dashboard for tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 20\u201350 orders/month, inefficient inventory tracking causes stockouts. We automate inventory tracking instead of manual inventory tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0051",
+    "run_date": "2026-04-09",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

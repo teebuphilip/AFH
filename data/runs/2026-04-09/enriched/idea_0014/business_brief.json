@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inefficient reconciliation causes cash flow gaps. We reconcile credit card statements instead of manual reconciliation processes.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "inefficient reconciliation of credit card statements with company expenses",
+  "features": [
+    "weekly email summaries of reconciled expenses",
+    "manual entry for expense categorization",
+    "user-friendly dashboard for tracking expenses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "inefficient reconciliation of credit card statements with company expenses",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inefficient reconciliation causes cash flow gaps. We reconcile credit card statements instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "weekly email summaries of reconciled expenses",
+      "manual entry for expense categorization",
+      "user-friendly dashboard for tracking expenses"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inefficient reconciliation causes cash flow gaps. We reconcile credit card statements instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-09",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 20\u201350 rental units/month tool",
+  "description": "For property managers handling 20\u201350 rental units/month, delayed rent roll reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "property managers handling 20\u201350 rental units/month",
+  "problem_solved": "timely rent roll reconciliation",
+  "features": [
+    "monthly report generation",
+    "manual data entry support",
+    "email notifications for completed reconciliations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 20\u201350 rental units/month",
+    "primary_problem": "timely rent roll reconciliation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 20\u201350 rental units/month, delayed rent roll reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "monthly report generation",
+      "manual data entry support",
+      "email notifications for completed reconciliations"
+    ]
+  },
+  "one_liner": "For property managers handling 20\u201350 rental units/month, delayed rent roll reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-09",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10\u201320 invoices/month tool",
+  "description": "For property managers processing 10\u201320 invoices/month, inefficient vendor management causes late orders and supplier penalties. We automate vendor management instead of manual tracking and reporting via spreadsheets.",
+  "target_audience": "property managers processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient vendor management leads to late orders and supplier penalties.",
+  "features": [
+    "invoice tracking dashboard",
+    "vendor performance reporting",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient vendor management leads to late orders and supplier penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 invoices/month, inefficient vendor management causes late orders and supplier penalties. We automate vendor management instead of manual tracking and reporting via spreadsheets.",
+    "current_alternative": "manual tracking and reporting via spreadsheets",
+    "must_have_features": [
+      "invoice tracking dashboard",
+      "vendor performance reporting",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201320 invoices/month, inefficient vendor management causes late orders and supplier penalties. We automate vendor management instead of manual tracking and reporting via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

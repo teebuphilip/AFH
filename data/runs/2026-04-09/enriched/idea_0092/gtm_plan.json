@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small CPA firms processing 5\u201315 clients/month",
+  "offer": "For small CPA firms processing 5\u201315 clients/month, outdated tax law knowledge causes compliance issues. We automate tax law updates instead of manual tracking of tax law changes.",
+  "problem": "Keeping client accounting records updated with the latest tax law changes.",
+  "channels_free": [
+    "Post in Reddit communities for small CPA firms",
+    "Indie Hackers discussions on accounting workflows",
+    "DM outreach to small CPA firms with demo video",
+    "Engage in community forums for CPA tools"
+  ],
+  "try_it": "Let users try manual entry for tax law updates",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

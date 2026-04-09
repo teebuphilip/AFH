@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators for freight brokers processing 10\u201350 shipments/month tool",
+  "description": "For logistics coordinators for freight brokers processing 10\u201350 shipments/month, delays in shipment status updates cause late orders. We provide real-time alerts instead of manual tracking and email updates.",
+  "target_audience": "logistics coordinators for freight brokers processing 10\u201350 shipments/month",
+  "problem_solved": "delays in shipment status updates",
+  "features": [
+    "real-time shipment status monitoring",
+    "user-friendly dashboard for tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators for freight brokers processing 10\u201350 shipments/month",
+    "primary_problem": "delays in shipment status updates",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators for freight brokers processing 10\u201350 shipments/month, delays in shipment status updates cause late orders. We provide real-time alerts instead of manual tracking and email updates.",
+    "current_alternative": "manual tracking and email updates",
+    "must_have_features": [
+      "real-time shipment status monitoring",
+      "user-friendly dashboard for tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics coordinators for freight brokers processing 10\u201350 shipments/month, delays in shipment status updates cause late orders. We provide real-time alerts instead of manual tracking and email updates.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

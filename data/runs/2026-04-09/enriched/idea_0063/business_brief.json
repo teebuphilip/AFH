@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small to medium-sized retail businesses using Shopify, processing 10\u201320 purchase orders/month tool",
+  "description": "For procurement managers in small to medium-sized retail businesses using Shopify processing 10\u201320 invoices/month, inefficient purchase order creation causes late orders. We streamline the process instead of manual spreadsheets and email approvals.",
+  "target_audience": "procurement managers in small to medium-sized retail businesses using Shopify, processing 10\u201320 purchase orders/month",
+  "problem_solved": "Inefficient purchase order creation and approval process",
+  "features": [
+    "template-based purchase order creation",
+    "email notifications for approvals",
+    "status tracking for purchase orders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small to medium-sized retail businesses using Shopify, processing 10\u201320 purchase orders/month",
+    "primary_problem": "Inefficient purchase order creation and approval process",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small to medium-sized retail businesses using Shopify processing 10\u201320 invoices/month, inefficient purchase order creation causes late orders. We streamline the process instead of manual spreadsheets and email approvals.",
+    "current_alternative": "manual spreadsheets and email approvals",
+    "must_have_features": [
+      "template-based purchase order creation",
+      "email notifications for approvals",
+      "status tracking for purchase orders"
+    ]
+  },
+  "one_liner": "For procurement managers in small to medium-sized retail businesses using Shopify processing 10\u201320 invoices/month, inefficient purchase order creation causes late orders. We streamline the process instead of manual spreadsheets and email approvals.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-09",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

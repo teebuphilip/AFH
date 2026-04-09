@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For small accounting firms processing 5\u201315 invoices/month, inefficient collections causes cash flow gaps. We automate accounts receivable management instead of manual tracking of invoices and collections.",
+  "target_audience": "small accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "inefficient collections process leading to cash flow gaps",
+  "features": [
+    "manual invoice entry",
+    "reminder notifications for overdue invoices",
+    "basic reporting on outstanding invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "inefficient collections process leading to cash flow gaps",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small accounting firms processing 5\u201315 invoices/month, inefficient collections causes cash flow gaps. We automate accounts receivable management instead of manual tracking of invoices and collections.",
+    "current_alternative": "manual tracking of invoices and collections",
+    "must_have_features": [
+      "manual invoice entry",
+      "reminder notifications for overdue invoices",
+      "basic reporting on outstanding invoices"
+    ]
+  },
+  "one_liner": "For small accounting firms processing 5\u201315 invoices/month, inefficient collections causes cash flow gaps. We automate accounts receivable management instead of manual tracking of invoices and collections.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

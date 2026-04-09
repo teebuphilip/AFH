@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 lease renewals/month",
+  "offer": "For property managers processing 5\u201315 lease renewals/month, inefficient tracking causes missed renewal opportunities. We automate report preparation instead of manual tracking using spreadsheets.",
+  "problem": "Inefficient tracking of lease expirations and renewals",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Indie Hackers discussions on similar challenges",
+    "DM outreach to property managers with demo video",
+    "Community forums for property management tools"
+  ],
+  "try_it": "Let users try email reminders and dashboard for tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding to first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing lease data",
+    "One-click export of simple reports",
+    "Reduce steps in onboarding process"
+  ]
+}

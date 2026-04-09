@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "small law firm paralegals managing cases month missed tool",
+    "small law firm paralegals managing cases month missed automation",
+    "small law firm paralegals managing 5 10 cases month missed tool",
+    "small law firm paralegals managing 5 10 cases month missed automation",
+    "small law firm paralegals managing 5 10 cases month missed workflow"
+  ],
+  "secondary_keywords": [
+    "small law firm paralegals managing 5 10 cases month missed tool software",
+    "small law firm paralegals managing 5 10 cases month missed tool platform",
+    "small law firm paralegals managing 5 10 cases month missed tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For small law firm paralegals processing 5\u201310 cases/month, missed legal filing deadlines cause potential penalties. We automate deadline tracking instead of manual tracking using spreadsheets.",
+    "missed legal filing deadlines",
+    "small law firm paralegals managing 5\u201310 cases/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Small Law Firm Paralegals Managing 5 10 Cases Month Missed Tool Software",
+      "target_keyword": "small law firm paralegals managing 5 10 cases month missed tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firm Paralegals Managing 5 10 Cases Month Missed Tool Platform",
+      "target_keyword": "small law firm paralegals managing 5 10 cases month missed tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firm Paralegals Managing 5 10 Cases Month Missed Tool Solution",
+      "target_keyword": "small law firm paralegals managing 5 10 cases month missed tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firm Paralegals Managing 5 10 Cases Month Missed Tool",
+      "target_keyword": "small law firm paralegals managing 5 10 cases month missed tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firm Paralegals Managing 5 10 Cases Month Missed Automation",
+      "target_keyword": "small law firm paralegals managing 5 10 cases month missed automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firm Paralegals Managing 5 10 Cases Month Missed Workflow",
+      "target_keyword": "small law firm paralegals managing 5 10 cases month missed workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "small law firm paralegals managing cases month missed tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "small law firm paralegals managing cases month missed tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "small law firm paralegals managing cases month missed tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "small law firm paralegals managing cases month missed tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "small law firm paralegals managing cases month missed tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | small law firm paralegals managing cases month tool",
+      "small law firm paralegals managing cases month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "small law firm paralegals managing cases month tool helps with missed legal filing deadlines."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 permit applications/month tool",
+  "description": "For construction contractors processing 5\u201315 permit applications/month, inefficient drawing conversion causes delays in project timelines. We automate the conversion instead of manual drawing interpretation and form filling.",
+  "target_audience": "construction contractors processing 5\u201315 permit applications/month",
+  "problem_solved": "Inefficient conversion of architectural drawings into permit application forms.",
+  "features": [
+    "template-based form generation",
+    "user-friendly interface for form review",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 permit applications/month",
+    "primary_problem": "Inefficient conversion of architectural drawings into permit application forms.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 permit applications/month, inefficient drawing conversion causes delays in project timelines. We automate the conversion instead of manual drawing interpretation and form filling.",
+    "current_alternative": "manual drawing interpretation and form filling",
+    "must_have_features": [
+      "template-based form generation",
+      "user-friendly interface for form review",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 permit applications/month, inefficient drawing conversion causes delays in project timelines. We automate the conversion instead of manual drawing interpretation and form filling.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

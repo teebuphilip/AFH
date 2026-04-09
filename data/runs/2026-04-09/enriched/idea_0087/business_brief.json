@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance agency owners processing 5\u201315 clients/month tool",
+  "description": "For insurance agency owners processing 5\u201315 clients/month, compliance reporting delays cause regulatory penalties. We generate custom compliance reports instead of manual report generation using spreadsheets.",
+  "target_audience": "insurance agency owners processing 5\u201315 clients/month",
+  "problem_solved": "Difficulty in generating compliance reports that meet state regulations.",
+  "features": [
+    "Customizable report templates",
+    "State regulation database",
+    "User-friendly report generation interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance agency owners processing 5\u201315 clients/month",
+    "primary_problem": "Difficulty in generating compliance reports that meet state regulations.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For insurance agency owners processing 5\u201315 clients/month, compliance reporting delays cause regulatory penalties. We generate custom compliance reports instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "Customizable report templates",
+      "State regulation database",
+      "User-friendly report generation interface"
+    ]
+  },
+  "one_liner": "For insurance agency owners processing 5\u201315 clients/month, compliance reporting delays cause regulatory penalties. We generate custom compliance reports instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-09",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

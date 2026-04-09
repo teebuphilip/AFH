@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics fleet managers processing 5\u201315 vehicles daily tool",
+  "description": "For logistics fleet managers processing 5\u201315 vehicles daily, manual compliance reporting causes late submissions leading to regulatory penalties. We automate daily vehicle route compliance reporting instead of manual reporting processes using spreadsheets.",
+  "target_audience": "logistics fleet managers processing 5\u201315 vehicles daily",
+  "problem_solved": "Manual compliance reporting is time-consuming and prone to errors.",
+  "features": [
+    "daily compliance report generation",
+    "route tracking dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics fleet managers processing 5\u201315 vehicles daily",
+    "primary_problem": "Manual compliance reporting is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics fleet managers processing 5\u201315 vehicles daily, manual compliance reporting causes late submissions leading to regulatory penalties. We automate daily vehicle route compliance reporting instead of manual reporting processes using spreadsheets.",
+    "current_alternative": "manual reporting processes using spreadsheets",
+    "must_have_features": [
+      "daily compliance report generation",
+      "route tracking dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics fleet managers processing 5\u201315 vehicles daily, manual compliance reporting causes late submissions leading to regulatory penalties. We automate daily vehicle route compliance reporting instead of manual reporting processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-09",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

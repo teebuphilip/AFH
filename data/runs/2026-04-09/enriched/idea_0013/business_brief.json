@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201320 inventory receipts/month tool",
+  "description": "For logistics carriers processing 10\u201320 invoices/month, inaccurate inventory tracking causes operational inefficiencies. We automatically track inventory receipts and generate discrepancy reports instead of manual tracking and reconciliation of inventory receipts.",
+  "target_audience": "logistics carriers processing 10\u201320 inventory receipts/month",
+  "problem_solved": "Inaccurate inventory tracking leading to discrepancies.",
+  "features": [
+    "manual entry for initial inventory data",
+    "discrepancy report generation",
+    "basic dashboard for tracking receipts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201320 inventory receipts/month",
+    "primary_problem": "Inaccurate inventory tracking leading to discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201320 invoices/month, inaccurate inventory tracking causes operational inefficiencies. We automatically track inventory receipts and generate discrepancy reports instead of manual tracking and reconciliation of inventory receipts.",
+    "current_alternative": "manual tracking and reconciliation of inventory receipts",
+    "must_have_features": [
+      "manual entry for initial inventory data",
+      "discrepancy report generation",
+      "basic dashboard for tracking receipts"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201320 invoices/month, inaccurate inventory tracking causes operational inefficiencies. We automatically track inventory receipts and generate discrepancy reports instead of manual tracking and reconciliation of inventory receipts.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-09",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

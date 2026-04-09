@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, inconsistent scheduling of safety inspections causes compliance issues and potential fines. We automate scheduling and logging instead of manual scheduling and tracking of inspections.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Inconsistent scheduling of safety inspections leads to compliance issues and potential fines.",
+  "features": [
+    "manual scheduling interface",
+    "inspection result logging",
+    "reminder notifications for upcoming inspections"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Inconsistent scheduling of safety inspections leads to compliance issues and potential fines.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, inconsistent scheduling of safety inspections causes compliance issues and potential fines. We automate scheduling and logging instead of manual scheduling and tracking of inspections.",
+    "current_alternative": "manual scheduling and tracking of inspections",
+    "must_have_features": [
+      "manual scheduling interface",
+      "inspection result logging",
+      "reminder notifications for upcoming inspections"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, inconsistent scheduling of safety inspections causes compliance issues and potential fines. We automate scheduling and logging instead of manual scheduling and tracking of inspections.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

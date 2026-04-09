@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "restaurant managers overseeing multiple locations with refrigerated storage units inconsistent tool",
+    "restaurant managers overseeing multiple locations with refrigerated storage units inconsistent automation",
+    "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent tool",
+    "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent automation",
+    "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent workflow"
+  ],
+  "secondary_keywords": [
+    "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent tool software",
+    "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent tool platform",
+    "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For restaurant managers overseeing 5\u201315 refrigerated storage units, inconsistent temperature logs cause food spoilage. We provide automated monitoring instead of manual temperature logging and monitoring.",
+    "Inconsistent temperature logs leading to food spoilage",
+    "restaurant managers overseeing multiple locations with 5\u201315 refrigerated storage units"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Restaurant Managers Overseeing Multiple Locations With 5 15 Refrigerated Storage Units Inconsistent Tool Software",
+      "target_keyword": "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers Overseeing Multiple Locations With 5 15 Refrigerated Storage Units Inconsistent Tool Platform",
+      "target_keyword": "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers Overseeing Multiple Locations With 5 15 Refrigerated Storage Units Inconsistent Tool Solution",
+      "target_keyword": "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers Overseeing Multiple Locations With 5 15 Refrigerated Storage Units Inconsistent Tool",
+      "target_keyword": "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers Overseeing Multiple Locations With 5 15 Refrigerated Storage Units Inconsistent Automation",
+      "target_keyword": "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers Overseeing Multiple Locations With 5 15 Refrigerated Storage Units Inconsistent Workflow",
+      "target_keyword": "restaurant managers overseeing multiple locations with 5 15 refrigerated storage units inconsistent workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "restaurant managers overseeing multiple locations with refrigerated storage units inconsistent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "restaurant managers overseeing multiple locations with refrigerated storage units inconsistent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "restaurant managers overseeing multiple locations with refrigerated storage units inconsistent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "restaurant managers overseeing multiple locations with refrigerated storage units inconsistent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "restaurant managers overseeing multiple locations with refrigerated storage units inconsistent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | restaurant managers overseeing multiple locations with refrigerated storage units tool",
+      "restaurant managers overseeing multiple locations with refrigerated storage units tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "restaurant managers overseeing multiple locations with refrigerated storage units tool helps with inconsistent temperature logs leading to food spoilage."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

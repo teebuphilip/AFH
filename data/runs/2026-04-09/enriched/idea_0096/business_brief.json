@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "management consulting firms processing 10\u201320 invoices/month tool",
+  "description": "For management consulting firms processing 10\u201320 invoices/month, inaccurate billing reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation of billing records and time tracking.",
+  "target_audience": "management consulting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate billing reconciliation leading to cash flow gaps.",
+  "features": [
+    "manual entry for billing records",
+    "time tracking input",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "management consulting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate billing reconciliation leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For management consulting firms processing 10\u201320 invoices/month, inaccurate billing reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation of billing records and time tracking.",
+    "current_alternative": "manual reconciliation of billing records and time tracking",
+    "must_have_features": [
+      "manual entry for billing records",
+      "time tracking input",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For management consulting firms processing 10\u201320 invoices/month, inaccurate billing reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation of billing records and time tracking.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-09",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

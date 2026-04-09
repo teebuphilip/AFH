@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201310 projects/month tool",
+  "description": "For construction contractors managing 5\u201310 projects/month, the complexity of converting architectural plans into permit application forms causes project delays. We automate this process instead of manual conversion.",
+  "target_audience": "construction contractors managing 5\u201310 projects/month",
+  "problem_solved": "Difficulty in converting architectural plans into permit application forms, leading to delays in project initiation.",
+  "features": [
+    "manual-first input for architectural plans",
+    "template-based permit form generation",
+    "user-friendly interface for project managers"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201310 projects/month",
+    "primary_problem": "Difficulty in converting architectural plans into permit application forms, leading to delays in project initiation.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201310 projects/month, the complexity of converting architectural plans into permit application forms causes project delays. We automate this process instead of manual conversion.",
+    "current_alternative": "manual conversion of plans to forms, which is time-consuming and error-prone.",
+    "must_have_features": [
+      "manual-first input for architectural plans",
+      "template-based permit form generation",
+      "user-friendly interface for project managers"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201310 projects/month, the complexity of converting architectural plans into permit application forms causes project delays. We automate this process instead of manual conversion.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-09",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

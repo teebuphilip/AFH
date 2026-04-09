@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 invoices/week tool",
+  "description": "For construction contractors processing 5\u201315 invoices/week, inaccurate labor cost tracking causes budget overruns. We automate weekly labor cost summaries instead of manual spreadsheets and time tracking tools.",
+  "target_audience": "construction contractors processing 5\u201315 invoices/week",
+  "problem_solved": "Inaccurate labor cost tracking leads to budget overruns.",
+  "features": [
+    "manual entry for labor hours",
+    "project code assignment",
+    "weekly summary generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 invoices/week",
+    "primary_problem": "Inaccurate labor cost tracking leads to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 invoices/week, inaccurate labor cost tracking causes budget overruns. We automate weekly labor cost summaries instead of manual spreadsheets and time tracking tools.",
+    "current_alternative": "manual spreadsheets and time tracking tools",
+    "must_have_features": [
+      "manual entry for labor hours",
+      "project code assignment",
+      "weekly summary generation"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 invoices/week, inaccurate labor cost tracking causes budget overruns. We automate weekly labor cost summaries instead of manual spreadsheets and time tracking tools.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-09",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

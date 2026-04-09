@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 5\u201315 compliance documents/month tool",
+  "description": "For medical clinics processing 5\u201315 compliance documents/month, regulatory changes cause missed deadlines. We automate document generation instead of manual document preparation and filing.",
+  "target_audience": "medical clinics processing 5\u201315 compliance documents/month",
+  "problem_solved": "Difficulty in generating and filing compliance documents accurately and on time.",
+  "features": [
+    "template library for compliance documents",
+    "user-friendly document editing interface",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 5\u201315 compliance documents/month",
+    "primary_problem": "Difficulty in generating and filing compliance documents accurately and on time.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For medical clinics processing 5\u201315 compliance documents/month, regulatory changes cause missed deadlines. We automate document generation instead of manual document preparation and filing.",
+    "current_alternative": "manual document preparation and filing",
+    "must_have_features": [
+      "template library for compliance documents",
+      "user-friendly document editing interface",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 5\u201315 compliance documents/month, regulatory changes cause missed deadlines. We automate document generation instead of manual document preparation and filing.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-09",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

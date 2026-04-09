@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, delayed invoice generation causes late orders. We automate invoice generation instead of manual invoice creation and tracking.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Timely invoice generation and accounts payable management",
+  "features": [
+    "Simple invoice template creation",
+    "Basic expense tracking",
+    "Email notifications for due invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Timely invoice generation and accounts payable management",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, delayed invoice generation causes late orders. We automate invoice generation instead of manual invoice creation and tracking.",
+    "current_alternative": "manual invoice creation and tracking",
+    "must_have_features": [
+      "Simple invoice template creation",
+      "Basic expense tracking",
+      "Email notifications for due invoices"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, delayed invoice generation causes late orders. We automate invoice generation instead of manual invoice creation and tracking.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-09",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

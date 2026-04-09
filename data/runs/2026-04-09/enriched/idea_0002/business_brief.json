@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations in small marketing agencies processing 5\u201315 timesheets/month tool",
+  "description": "For HR operations in small marketing agencies processing 5\u201315 timesheets/month, inaccurate tracking causes payroll discrepancies. We monitor timesheets and alert HR ops instead of manual tracking.",
+  "target_audience": "HR operations in small marketing agencies processing 5\u201315 timesheets/month",
+  "problem_solved": "Inaccurate tracking of employee hours leading to payroll errors.",
+  "features": [
+    "Anomaly detection for timesheet entries",
+    "User-friendly dashboard for HR oversight",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations in small marketing agencies processing 5\u201315 timesheets/month",
+    "primary_problem": "Inaccurate tracking of employee hours leading to payroll errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations in small marketing agencies processing 5\u201315 timesheets/month, inaccurate tracking causes payroll discrepancies. We monitor timesheets and alert HR ops instead of manual tracking.",
+    "current_alternative": "Manual timesheet tracking and email notifications.",
+    "must_have_features": [
+      "Anomaly detection for timesheet entries",
+      "User-friendly dashboard for HR oversight",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations in small marketing agencies processing 5\u201315 timesheets/month, inaccurate tracking causes payroll discrepancies. We monitor timesheets and alert HR ops instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

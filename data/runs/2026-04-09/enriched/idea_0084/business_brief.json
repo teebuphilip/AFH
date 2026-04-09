@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hotel general managers overseeing 50-100 rooms tool",
+  "description": "For hotel general managers overseeing 50-100 rooms, inadequate staffing forecasts cause overstaffing or understaffing. We provide automated scheduling instead of manual scheduling and forecasting methods.",
+  "target_audience": "hotel general managers overseeing 50-100 rooms",
+  "problem_solved": "Inadequate staffing forecasts lead to overstaffing or understaffing.",
+  "features": [
+    "simple user interface for inputting staffing needs",
+    "basic forecasting algorithm based on historical data",
+    "manual override option for schedule adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hotel general managers overseeing 50-100 rooms",
+    "primary_problem": "Inadequate staffing forecasts lead to overstaffing or understaffing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hotel general managers overseeing 50-100 rooms, inadequate staffing forecasts cause overstaffing or understaffing. We provide automated scheduling instead of manual scheduling and forecasting methods.",
+    "current_alternative": "manual scheduling and forecasting methods",
+    "must_have_features": [
+      "simple user interface for inputting staffing needs",
+      "basic forecasting algorithm based on historical data",
+      "manual override option for schedule adjustments"
+    ]
+  },
+  "one_liner": "For hotel general managers overseeing 50-100 rooms, inadequate staffing forecasts cause overstaffing or understaffing. We provide automated scheduling instead of manual scheduling and forecasting methods.",
+  "source": {
+    "idea_id": "idea_0084",
+    "run_date": "2026-04-09",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized accounting firms processing 10\u201320 contracts/month tool",
+  "description": "For procurement managers in mid-sized accounting firms processing 10\u201320 contracts/month, missed contract renewals cause service interruptions. We notify managers 30 days in advance instead of manual tracking using spreadsheets.",
+  "target_audience": "procurement managers in mid-sized accounting firms processing 10\u201320 contracts/month",
+  "problem_solved": "Missed contract renewals leading to service interruptions and potential penalties.",
+  "features": [
+    "dashboard for tracking upcoming expirations",
+    "manual entry for contract details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized accounting firms processing 10\u201320 contracts/month",
+    "primary_problem": "Missed contract renewals leading to service interruptions and potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized accounting firms processing 10\u201320 contracts/month, missed contract renewals cause service interruptions. We notify managers 30 days in advance instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking of contract dates using spreadsheets",
+    "must_have_features": [
+      "dashboard for tracking upcoming expirations",
+      "manual entry for contract details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized accounting firms processing 10\u201320 contracts/month, missed contract renewals cause service interruptions. We notify managers 30 days in advance instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

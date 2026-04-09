@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance claim department supervisors processing 10\u201320 claims/month tool",
+  "description": "For insurance claim department supervisors processing 10\u201320 claims/month, delayed reporting causes management inefficiencies. We automate report preparation instead of manual report preparation using spreadsheets.",
+  "target_audience": "insurance claim department supervisors processing 10\u201320 claims/month",
+  "problem_solved": "delayed reporting of claims backlog",
+  "features": [
+    "customizable report templates",
+    "email notifications for report availability",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance claim department supervisors processing 10\u201320 claims/month",
+    "primary_problem": "delayed reporting of claims backlog",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance claim department supervisors processing 10\u201320 claims/month, delayed reporting causes management inefficiencies. We automate report preparation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
+    "must_have_features": [
+      "customizable report templates",
+      "email notifications for report availability",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance claim department supervisors processing 10\u201320 claims/month, delayed reporting causes management inefficiencies. We automate report preparation instead of manual report preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-09",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

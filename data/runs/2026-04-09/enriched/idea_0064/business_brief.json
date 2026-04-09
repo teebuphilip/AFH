@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR leaders in small to medium-sized marketing agencies processing 5\u201315 employee productivity reports/month tool",
+  "description": "For HR leaders in small to medium-sized marketing agencies processing 5\u201315 employee productivity reports/month, unclear performance metrics cause inefficient resource allocation. We provide actionable insights instead of manual analysis of productivity reports.",
+  "target_audience": "HR leaders in small to medium-sized marketing agencies processing 5\u201315 employee productivity reports/month",
+  "problem_solved": "Lack of actionable insights from employee productivity data",
+  "features": [
+    "Data visualization of productivity metrics",
+    "User-friendly dashboard for insights",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR leaders in small to medium-sized marketing agencies processing 5\u201315 employee productivity reports/month",
+    "primary_problem": "Lack of actionable insights from employee productivity data",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR leaders in small to medium-sized marketing agencies processing 5\u201315 employee productivity reports/month, unclear performance metrics cause inefficient resource allocation. We provide actionable insights instead of manual analysis of productivity reports.",
+    "current_alternative": "manual analysis of productivity reports",
+    "must_have_features": [
+      "Data visualization of productivity metrics",
+      "User-friendly dashboard for insights",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR leaders in small to medium-sized marketing agencies processing 5\u201315 employee productivity reports/month, unclear performance metrics cause inefficient resource allocation. We provide actionable insights instead of manual analysis of productivity reports.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-09",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

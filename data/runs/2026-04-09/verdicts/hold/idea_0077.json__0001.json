@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that monitors insurance policy changes and alerts claims adjusters to update client records.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-09T10:25:26.416540",
+  "verdict_source": "overlay_score"
+}

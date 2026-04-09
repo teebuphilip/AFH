@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks for expense reporting, processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks for expense reporting, processing 5\u201315 invoices/month, inconsistent expense reporting causes cash flow gaps. We consolidate expense reports and verify policy compliance instead of manual tracking and reporting in spreadsheets.",
+  "target_audience": "freelancers using QuickBooks for expense reporting, processing 5\u201315 invoices/month",
+  "problem_solved": "Inconsistent expense reporting and compliance verification",
+  "features": [
+    "manual entry of expense reports",
+    "policy compliance checklist",
+    "weekly exception reporting to HR ops"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks for expense reporting, processing 5\u201315 invoices/month",
+    "primary_problem": "Inconsistent expense reporting and compliance verification",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks for expense reporting, processing 5\u201315 invoices/month, inconsistent expense reporting causes cash flow gaps. We consolidate expense reports and verify policy compliance instead of manual tracking and reporting in spreadsheets.",
+    "current_alternative": "manual tracking and reporting in spreadsheets",
+    "must_have_features": [
+      "manual entry of expense reports",
+      "policy compliance checklist",
+      "weekly exception reporting to HR ops"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks for expense reporting, processing 5\u201315 invoices/month, inconsistent expense reporting causes cash flow gaps. We consolidate expense reports and verify policy compliance instead of manual tracking and reporting in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-09",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

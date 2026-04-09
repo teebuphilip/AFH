@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in e-commerce companies processing 10-50 invoices/week tool",
+  "description": "For logistics managers in e-commerce companies processing 10-50 invoices/week, inconsistent supplier delivery confirmations cause late orders. We consolidate delivery confirmations and generate variance reports instead of manual tracking.",
+  "target_audience": "logistics managers in e-commerce companies processing 10-50 invoices/week",
+  "problem_solved": "Inconsistent supplier delivery confirmations lead to late orders.",
+  "features": [
+    "manual entry of delivery confirmations",
+    "weekly variance report generation",
+    "email notifications for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in e-commerce companies processing 10-50 invoices/week",
+    "primary_problem": "Inconsistent supplier delivery confirmations lead to late orders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in e-commerce companies processing 10-50 invoices/week, inconsistent supplier delivery confirmations cause late orders. We consolidate delivery confirmations and generate variance reports instead of manual tracking.",
+    "current_alternative": "manual tracking of delivery confirmations via email and spreadsheets",
+    "must_have_features": [
+      "manual entry of delivery confirmations",
+      "weekly variance report generation",
+      "email notifications for discrepancies"
+    ]
+  },
+  "one_liner": "For logistics managers in e-commerce companies processing 10-50 invoices/week, inconsistent supplier delivery confirmations cause late orders. We consolidate delivery confirmations and generate variance reports instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 66
+  }
+}

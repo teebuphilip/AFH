@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "consulting agencies processing 5\u201315 new hires/month",
+  "offer": "For consulting agencies processing 5\u201315 new hires/month, paperwork delays cause onboarding bottlenecks. We streamline onboarding instead of manual onboarding processes using email and paper forms.",
+  "problem": "Delays in onboarding new hires due to manual paperwork processes.",
+  "channels_free": [
+    "Post in Reddit communities for consulting agencies",
+    "Indie Hackers discussions about onboarding solutions",
+    "DM outreach to consulting agencies with demo video",
+    "Community forums where agencies share workflow tools"
+  ],
+  "try_it": "Let users try template-based onboarding forms and status tracking for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video showing the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Reduce steps in onboarding process"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firms managing software licenses month overspending tool",
+    "accounting firms managing software licenses month overspending automation",
+    "accounting firms managing 5 15 software licenses month overspending tool",
+    "accounting firms managing 5 15 software licenses month overspending automation",
+    "accounting firms managing 5 15 software licenses month overspending workflow"
+  ],
+  "secondary_keywords": [
+    "accounting firms managing 5 15 software licenses month overspending tool software",
+    "accounting firms managing 5 15 software licenses month overspending tool platform",
+    "accounting firms managing 5 15 software licenses month overspending tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firms managing 5\u201315 software licenses/month, overspending on unused licenses causes budget overruns. We provide automated monitoring instead of manual tracking of software license usage.",
+    "Overspending on unused software licenses",
+    "accounting firms managing 5\u201315 software licenses/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accounting Firms Managing 5 15 Software Licenses Month Overspending Tool Software",
+      "target_keyword": "accounting firms managing 5 15 software licenses month overspending tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Managing 5 15 Software Licenses Month Overspending Tool Platform",
+      "target_keyword": "accounting firms managing 5 15 software licenses month overspending tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Managing 5 15 Software Licenses Month Overspending Tool Solution",
+      "target_keyword": "accounting firms managing 5 15 software licenses month overspending tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Managing 5 15 Software Licenses Month Overspending Tool",
+      "target_keyword": "accounting firms managing 5 15 software licenses month overspending tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Managing 5 15 Software Licenses Month Overspending Automation",
+      "target_keyword": "accounting firms managing 5 15 software licenses month overspending automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Managing 5 15 Software Licenses Month Overspending Workflow",
+      "target_keyword": "accounting firms managing 5 15 software licenses month overspending workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firms managing software licenses month overspending tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firms managing software licenses month overspending tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firms managing software licenses month overspending tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firms managing software licenses month overspending tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firms managing software licenses month overspending tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firms managing software licenses month tool",
+      "accounting firms managing software licenses month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firms managing software licenses month tool helps with overspending on unused software licenses."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

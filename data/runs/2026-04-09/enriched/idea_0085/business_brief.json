@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators for freight brokers processing 10\u201320 shipments/month tool",
+  "description": "For logistics coordinators for freight brokers processing 10\u201320 shipments/month, delays in cargo shipments cause late orders. We provide real-time monitoring instead of manual tracking and communication with carriers.",
+  "target_audience": "logistics coordinators for freight brokers processing 10\u201320 shipments/month",
+  "problem_solved": "delays in cargo shipments",
+  "features": [
+    "real-time shipment tracking",
+    "manual entry for shipment details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators for freight brokers processing 10\u201320 shipments/month",
+    "primary_problem": "delays in cargo shipments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators for freight brokers processing 10\u201320 shipments/month, delays in cargo shipments cause late orders. We provide real-time monitoring instead of manual tracking and communication with carriers.",
+    "current_alternative": "manual tracking and communication with carriers",
+    "must_have_features": [
+      "real-time shipment tracking",
+      "manual entry for shipment details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics coordinators for freight brokers processing 10\u201320 shipments/month, delays in cargo shipments cause late orders. We provide real-time monitoring instead of manual tracking and communication with carriers.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 5\u201315 patient records/month tool",
+  "description": "For medical clinics processing 5\u201315 patient records/month, regulatory compliance challenges cause delays in reporting. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "medical clinics processing 5\u201315 patient records/month",
+  "problem_solved": "Difficulty in generating timely and accurate regulatory compliance reports.",
+  "features": [
+    "template-based report generation",
+    "user-friendly interface for data entry",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 5\u201315 patient records/month",
+    "primary_problem": "Difficulty in generating timely and accurate regulatory compliance reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For medical clinics processing 5\u201315 patient records/month, regulatory compliance challenges cause delays in reporting. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly interface for data entry",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 5\u201315 patient records/month, regulatory compliance challenges cause delays in reporting. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-09",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

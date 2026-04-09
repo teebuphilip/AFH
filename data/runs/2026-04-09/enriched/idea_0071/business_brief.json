@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "corporate event teams managing 5\u201310 events/month tool",
+  "description": "For corporate event teams processing 5\u201310 events/month, inefficient coordination causes late bookings and increased costs. We streamline event planning instead of manual spreadsheets and email communication.",
+  "target_audience": "corporate event teams managing 5\u201310 events/month",
+  "problem_solved": "Inefficient coordination of event logistics and venue bookings.",
+  "features": [
+    "event checklist management",
+    "venue comparison tool",
+    "budget tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "corporate event teams managing 5\u201310 events/month",
+    "primary_problem": "Inefficient coordination of event logistics and venue bookings.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For corporate event teams processing 5\u201310 events/month, inefficient coordination causes late bookings and increased costs. We streamline event planning instead of manual spreadsheets and email communication.",
+    "current_alternative": "manual spreadsheets and email communication",
+    "must_have_features": [
+      "event checklist management",
+      "venue comparison tool",
+      "budget tracking"
+    ]
+  },
+  "one_liner": "For corporate event teams processing 5\u201310 events/month, inefficient coordination causes late bookings and increased costs. We streamline event planning instead of manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-09",
+    "overlay_score": 68,
+    "arr_score": 71
+  }
+}

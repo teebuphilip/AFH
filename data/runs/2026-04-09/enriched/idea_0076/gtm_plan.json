@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 properties/month",
+  "offer": "For property managers processing 5\u201315 properties/month, inconsistent financial reporting causes cash flow gaps. We automatically generate quarterly financial reports instead of manual report generation using spreadsheets.",
+  "problem": "Inconsistent financial reporting leads to cash flow gaps.",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Indie Hackers discussions on financial reporting tools",
+    "DM outreach to property managers with demo video",
+    "Community forums for sharing property management tools"
+  ],
+  "try_it": "Let users try template-based report generation for free",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the tool",
+    "Conduct 10 interviews with target users",
+    "Offer onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Simplify onboarding steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant back office staff processing 10-20 invoices/month tool",
+  "description": "For restaurant back office staff processing 10-20 invoices/month, inefficient manual reporting causes delayed insights. We automate nightly sales and inventory reports instead of manual compilation of reports using spreadsheets.",
+  "target_audience": "restaurant back office staff processing 10-20 invoices/month",
+  "problem_solved": "Inefficient manual reporting processes lead to delayed insights.",
+  "features": [
+    "user-friendly dashboard for report access",
+    "export options for data sharing",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant back office staff processing 10-20 invoices/month",
+    "primary_problem": "Inefficient manual reporting processes lead to delayed insights.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back office staff processing 10-20 invoices/month, inefficient manual reporting causes delayed insights. We automate nightly sales and inventory reports instead of manual compilation of reports using spreadsheets.",
+    "current_alternative": "manual compilation of reports using spreadsheets",
+    "must_have_features": [
+      "user-friendly dashboard for report access",
+      "export options for data sharing",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant back office staff processing 10-20 invoices/month, inefficient manual reporting causes delayed insights. We automate nightly sales and inventory reports instead of manual compilation of reports using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0033",
+    "run_date": "2026-04-09",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

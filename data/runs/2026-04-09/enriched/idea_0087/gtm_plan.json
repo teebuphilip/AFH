@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance agency owners processing 5\u201315 clients/month",
+  "offer": "For insurance agency owners processing 5\u201315 clients/month, compliance reporting delays cause regulatory penalties. We generate custom compliance reports instead of manual report generation using spreadsheets.",
+  "problem": "Difficulty in generating compliance reports that meet state regulations.",
+  "channels_free": [
+    "Post in Reddit communities for insurance agency owners",
+    "Indie Hackers discussions on compliance reporting",
+    "DM outreach to insurance agency owners with demo video",
+    "Engage in community forums for insurance agency tools"
+  ],
+  "try_it": "Let users try customizable report templates and regulation database",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the reporting process",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Enable CSV import for existing client data",
+    "Allow one-click export of basic reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

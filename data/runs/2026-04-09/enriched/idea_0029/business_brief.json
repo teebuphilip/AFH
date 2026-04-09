@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, compliance gaps cause potential fines and project delays. We automate OSHA compliance checklist preparation instead of manual checklist creation and tracking.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Difficulty in ensuring OSHA compliance across multiple projects.",
+  "features": [
+    "customizable checklist templates",
+    "user-friendly interface for easy access",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Difficulty in ensuring OSHA compliance across multiple projects.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, compliance gaps cause potential fines and project delays. We automate OSHA compliance checklist preparation instead of manual checklist creation and tracking.",
+    "current_alternative": "manual checklist creation and tracking",
+    "must_have_features": [
+      "customizable checklist templates",
+      "user-friendly interface for easy access",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, compliance gaps cause potential fines and project delays. We automate OSHA compliance checklist preparation instead of manual checklist creation and tracking.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-09",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

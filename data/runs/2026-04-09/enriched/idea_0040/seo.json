@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "small accounting firms timely tool",
+    "small accounting firms timely automation",
+    "support ticket tracking",
+    "support workflow",
+    "small accounting firms processing 5 15 payrolls month timely tool",
+    "small accounting firms processing 5 15 payrolls month timely automation",
+    "small accounting firms processing 5 15 payrolls month timely workflow"
+  ],
+  "secondary_keywords": [
+    "support ticket tracking software",
+    "support ticket tracking platform",
+    "support ticket tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to support ticket tracking",
+    "best support ticket tracking tool",
+    "support ticket tracking vs spreadsheets",
+    "support ticket tracking checklist",
+    "support ticket tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For small accounting firms processing 5\u201315 payrolls/month, manual payroll tax filing causes late submissions. We automate payroll tax filing reports instead of manual payroll tax filing processes.",
+    "Timely payroll tax filing",
+    "small accounting firms processing 5\u201315 payrolls/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Support Ticket Tracking",
+      "target_keyword": "how to support ticket tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Support Ticket Tracking Tool",
+      "target_keyword": "best support ticket tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Support Ticket Tracking Vs Spreadsheets",
+      "target_keyword": "support ticket tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Support Ticket Tracking Checklist",
+      "target_keyword": "support ticket tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Pricing",
+      "target_keyword": "support ticket tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Software",
+      "target_keyword": "support ticket tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Platform",
+      "target_keyword": "support ticket tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Solution",
+      "target_keyword": "support ticket tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking",
+      "target_keyword": "support ticket tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Workflow",
+      "target_keyword": "support workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Small Accounting Firms Processing 5 15 Payrolls Month Timely Tool",
+      "target_keyword": "small accounting firms processing 5 15 payrolls month timely tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Accounting Firms Processing 5 15 Payrolls Month Timely Automation",
+      "target_keyword": "small accounting firms processing 5 15 payrolls month timely automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "small accounting firms timely tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "small accounting firms timely tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "small accounting firms timely tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "small accounting firms timely tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "small accounting firms timely tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | small accounting firms tool",
+      "small accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "small accounting firms tool helps with timely payroll tax filing."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

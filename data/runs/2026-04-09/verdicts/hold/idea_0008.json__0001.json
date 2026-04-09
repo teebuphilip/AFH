@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that reconciles bank statements with accounting records daily and flags discrepancies for accounting firms.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-09T10:25:26.407010",
+  "verdict_source": "overlay_score"
+}

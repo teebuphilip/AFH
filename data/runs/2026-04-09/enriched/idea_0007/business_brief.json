@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Operations Teams in Marketing Agencies processing 10-20 commission reports/week tool",
+  "description": "For Sales Operations Teams in Marketing Agencies processing 10-20 commission reports/week, inefficient manual compilation causes delays in performance tracking. We automate report generation and email distribution instead of manual report generation and email distribution.",
+  "target_audience": "Sales Operations Teams in Marketing Agencies processing 10-20 commission reports/week",
+  "problem_solved": "Inefficient manual compilation of sales commission reports",
+  "features": [
+    "Template-based report generation",
+    "User-friendly dashboard for report access",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Operations Teams in Marketing Agencies processing 10-20 commission reports/week",
+    "primary_problem": "Inefficient manual compilation of sales commission reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Teams in Marketing Agencies processing 10-20 commission reports/week, inefficient manual compilation causes delays in performance tracking. We automate report generation and email distribution instead of manual report generation and email distribution.",
+    "current_alternative": "Manual report generation and email distribution",
+    "must_have_features": [
+      "Template-based report generation",
+      "User-friendly dashboard for report access",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Sales Operations Teams in Marketing Agencies processing 10-20 commission reports/week, inefficient manual compilation causes delays in performance tracking. We automate report generation and email distribution instead of manual report generation and email distribution.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-09",
+    "overlay_score": 71,
+    "arr_score": 71
+  }
+}

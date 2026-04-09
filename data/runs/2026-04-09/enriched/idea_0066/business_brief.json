@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 licenses/month tool",
+  "description": "For Etsy sellers processing 5\u201315 licenses/month, managing multiple licenses causes legal penalties. We automate the generation and filing of licenses instead of manual tracking.",
+  "target_audience": "Etsy sellers processing 5\u201315 licenses/month",
+  "problem_solved": "Managing multiple business licenses and permits can lead to missed deadlines and legal issues.",
+  "features": [
+    "License generation tool",
+    "Deadline reminders",
+    "Simple filing interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 licenses/month",
+    "primary_problem": "Managing multiple business licenses and permits can lead to missed deadlines and legal issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 licenses/month, managing multiple licenses causes legal penalties. We automate the generation and filing of licenses instead of manual tracking.",
+    "current_alternative": "Manual tracking and filing of licenses and permits",
+    "must_have_features": [
+      "License generation tool",
+      "Deadline reminders",
+      "Simple filing interface"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 licenses/month, managing multiple licenses causes legal penalties. We automate the generation and filing of licenses instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-09",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "fleet operations managers in logistics companies managing 10-50 vehicles",
+  "offer": "For fleet operations managers in logistics companies processing 10-50 vehicles, inconsistent vehicle maintenance scheduling causes unexpected breakdowns. We provide automated maintenance reminders instead of manual tracking through spreadsheets or paper logs.",
+  "problem": "Inconsistent vehicle maintenance scheduling leads to unexpected breakdowns.",
+  "channels_free": [
+    "Post in Reddit communities for fleet operations managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to fleet operations managers with demo video",
+    "Community forums for sharing tools and resources"
+  ],
+  "try_it": "Let users try manual entry and customizable maintenance schedules",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing vehicle data",
+    "One-click export of simple maintenance reports",
+    "Streamline onboarding process for new users"
+  ]
+}

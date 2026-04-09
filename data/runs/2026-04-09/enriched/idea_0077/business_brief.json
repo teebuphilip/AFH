@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 10-20 client policies/month tool",
+  "description": "For insurance brokers managing 10-20 client policies/month, missed policy updates cause inaccurate client records. We provide real-time alerts instead of manual tracking of policy changes.",
+  "target_audience": "insurance brokers managing 10-20 client policies/month",
+  "problem_solved": "Inaccurate client records due to missed policy updates",
+  "features": [
+    "manual entry of policy changes",
+    "alert system for updates",
+    "dashboard for client records"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 10-20 client policies/month",
+    "primary_problem": "Inaccurate client records due to missed policy updates",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers managing 10-20 client policies/month, missed policy updates cause inaccurate client records. We provide real-time alerts instead of manual tracking of policy changes.",
+    "current_alternative": "manual tracking of policy changes",
+    "must_have_features": [
+      "manual entry of policy changes",
+      "alert system for updates",
+      "dashboard for client records"
+    ]
+  },
+  "one_liner": "For insurance brokers managing 10-20 client policies/month, missed policy updates cause inaccurate client records. We provide real-time alerts instead of manual tracking of policy changes.",
+  "source": {
+    "idea_id": "idea_0077",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

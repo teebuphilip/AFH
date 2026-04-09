@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month tool",
+  "description": "For HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month, inefficient data analysis causes missed engagement opportunities. We consolidate and analyze HR data instead of manual spreadsheets and disparate HR tools.",
+  "target_audience": "HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month",
+  "problem_solved": "Inefficient data analysis leading to poor employee engagement insights.",
+  "features": [
+    "Data consolidation from multiple sources",
+    "Basic analytics dashboard",
+    "Employee feedback collection tool"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month",
+    "primary_problem": "Inefficient data analysis leading to poor employee engagement insights.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month, inefficient data analysis causes missed engagement opportunities. We consolidate and analyze HR data instead of manual spreadsheets and disparate HR tools.",
+    "current_alternative": "Manual spreadsheets and disparate HR tools",
+    "must_have_features": [
+      "Data consolidation from multiple sources",
+      "Basic analytics dashboard",
+      "Employee feedback collection tool"
+    ]
+  },
+  "one_liner": "For HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month, inefficient data analysis causes missed engagement opportunities. We consolidate and analyze HR data instead of manual spreadsheets and disparate HR tools.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 66
+  }
+}

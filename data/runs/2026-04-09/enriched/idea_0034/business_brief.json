@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "field service dispatchers in home services processing 10\u201320 work orders/week tool",
+  "description": "For field service dispatchers in home services processing 10\u201320 work orders/week, inefficient communication causes late updates to clients. We automatically generate work order completion summaries instead of manual summary creation.",
+  "target_audience": "field service dispatchers in home services processing 10\u201320 work orders/week",
+  "problem_solved": "Inefficient communication of work order completions",
+  "features": [
+    "template-based summary generation",
+    "customizable summary fields",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "field service dispatchers in home services processing 10\u201320 work orders/week",
+    "primary_problem": "Inefficient communication of work order completions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For field service dispatchers in home services processing 10\u201320 work orders/week, inefficient communication causes late updates to clients. We automatically generate work order completion summaries instead of manual summary creation.",
+    "current_alternative": "manual summary creation",
+    "must_have_features": [
+      "template-based summary generation",
+      "customizable summary fields",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For field service dispatchers in home services processing 10\u201320 work orders/week, inefficient communication causes late updates to clients. We automatically generate work order completion summaries instead of manual summary creation.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

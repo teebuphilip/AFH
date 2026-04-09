@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, delayed financial reporting causes cash flow gaps. We generate automated monthly financial reports instead of manual spreadsheets or basic accounting software.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Etsy sellers need to generate accurate monthly financial reports to manage their cash flow effectively.",
+  "features": [
+    "Monthly financial report generation",
+    "User-friendly dashboard",
+    "Basic expense tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Etsy sellers need to generate accurate monthly financial reports to manage their cash flow effectively.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, delayed financial reporting causes cash flow gaps. We generate automated monthly financial reports instead of manual spreadsheets or basic accounting software.",
+    "current_alternative": "manual spreadsheets or basic accounting software",
+    "must_have_features": [
+      "Monthly financial report generation",
+      "User-friendly dashboard",
+      "Basic expense tracking"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, delayed financial reporting causes cash flow gaps. We generate automated monthly financial reports instead of manual spreadsheets or basic accounting software.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-09",
+    "overlay_score": 69,
+    "arr_score": 72
+  }
+}

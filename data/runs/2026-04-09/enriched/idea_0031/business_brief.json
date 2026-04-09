@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 10-20 claims per month tool",
+  "description": "For insurance brokers managing 10-20 claims per month, delays in claim processing cause client dissatisfaction. We monitor claim statuses and flag delays instead of manual tracking of claim statuses.",
+  "target_audience": "insurance brokers managing 10-20 claims per month",
+  "problem_solved": "delays in insurance claim processing",
+  "features": [
+    "real-time claim status updates",
+    "user-friendly dashboard for claim management",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 10-20 claims per month",
+    "primary_problem": "delays in insurance claim processing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers managing 10-20 claims per month, delays in claim processing cause client dissatisfaction. We monitor claim statuses and flag delays instead of manual tracking of claim statuses.",
+    "current_alternative": "manual tracking of claim statuses",
+    "must_have_features": [
+      "real-time claim status updates",
+      "user-friendly dashboard for claim management",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers managing 10-20 claims per month, delays in claim processing cause client dissatisfaction. We monitor claim statuses and flag delays instead of manual tracking of claim statuses.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

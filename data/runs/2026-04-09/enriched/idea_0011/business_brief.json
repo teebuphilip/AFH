@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10\u201320 utility bills/month tool",
+  "description": "For property managers processing 10\u201320 invoices/month, manual categorization causes delays in financial reporting. We automate the extraction and categorization of utility bills instead of manual tracking using spreadsheets.",
+  "target_audience": "property managers processing 10\u201320 utility bills/month",
+  "problem_solved": "Manual categorization of utility bills is time-consuming and error-prone.",
+  "features": [
+    "manual entry for exceptions",
+    "monthly summary generation",
+    "categorization by utility type"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10\u201320 utility bills/month",
+    "primary_problem": "Manual categorization of utility bills is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 invoices/month, manual categorization causes delays in financial reporting. We automate the extraction and categorization of utility bills instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking and categorization of bills using spreadsheets",
+    "must_have_features": [
+      "manual entry for exceptions",
+      "monthly summary generation",
+      "categorization by utility type"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201320 invoices/month, manual categorization causes delays in financial reporting. We automate the extraction and categorization of utility bills instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-09",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

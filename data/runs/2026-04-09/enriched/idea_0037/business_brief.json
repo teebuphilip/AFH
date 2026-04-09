@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics supervisors managing 5\u201310 vehicles tool",
+  "description": "For logistics supervisors managing 5\u201310 vehicles, inaccurate fuel usage reporting causes overspending. We provide automated monthly fuel reports instead of manual spreadsheets and estimates.",
+  "target_audience": "logistics supervisors managing 5\u201310 vehicles",
+  "problem_solved": "Inaccurate fuel usage reporting leads to overspending.",
+  "features": [
+    "manual data entry for fuel usage",
+    "monthly report generation",
+    "cost analysis visualization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics supervisors managing 5\u201310 vehicles",
+    "primary_problem": "Inaccurate fuel usage reporting leads to overspending.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics supervisors managing 5\u201310 vehicles, inaccurate fuel usage reporting causes overspending. We provide automated monthly fuel reports instead of manual spreadsheets and estimates.",
+    "current_alternative": "manual spreadsheets and estimates",
+    "must_have_features": [
+      "manual data entry for fuel usage",
+      "monthly report generation",
+      "cost analysis visualization"
+    ]
+  },
+  "one_liner": "For logistics supervisors managing 5\u201310 vehicles, inaccurate fuel usage reporting causes overspending. We provide automated monthly fuel reports instead of manual spreadsheets and estimates.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-09",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

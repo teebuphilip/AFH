@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "procurement managers in mid-sized accounting firms processing 10\u201320 contracts/month",
+  "offer": "For procurement managers in mid-sized accounting firms processing 10\u201320 contracts/month, missed contract renewals cause service interruptions. We notify managers 30 days in advance instead of manual tracking using spreadsheets.",
+  "problem": "Missed contract renewals leading to service interruptions and potential penalties.",
+  "channels_free": [
+    "Post in Reddit communities for procurement managers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to procurement managers with demo video",
+    "Share in community forums for procurement tools"
+  ],
+  "try_it": "Let users try dashboard for tracking expirations and manual entry",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing contract data",
+    "One-click export for simple reports",
+    "Streamline onboarding steps"
+  ]
+}

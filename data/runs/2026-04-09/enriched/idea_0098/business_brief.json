@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "pediatric clinics processing 5\u201315 patient appointments/week tool",
+  "description": "For pediatric clinics processing 5\u201315 patient appointments/week, inefficient tracking causes missed follow-ups. We automate appointment history tracking instead of manual tracking and reporting.",
+  "target_audience": "pediatric clinics processing 5\u201315 patient appointments/week",
+  "problem_solved": "Inability to efficiently track patient appointment history and generate wellness reports.",
+  "features": [
+    "Appointment history tracking",
+    "Wellness report generation",
+    "User-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "pediatric clinics processing 5\u201315 patient appointments/week",
+    "primary_problem": "Inability to efficiently track patient appointment history and generate wellness reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For pediatric clinics processing 5\u201315 patient appointments/week, inefficient tracking causes missed follow-ups. We automate appointment history tracking instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting",
+    "must_have_features": [
+      "Appointment history tracking",
+      "Wellness report generation",
+      "User-friendly interface"
+    ]
+  },
+  "one_liner": "For pediatric clinics processing 5\u201315 patient appointments/week, inefficient tracking causes missed follow-ups. We automate appointment history tracking instead of manual tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0098",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

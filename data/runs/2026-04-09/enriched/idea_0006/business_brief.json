@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in freight brokerage firms processing 50\u2013100 shipments/month tool",
+  "description": "For logistics managers in freight brokerage firms processing 50\u2013100 shipments/month, delivery delays cause supplier penalties. We automatically monitor delivery times instead of manual tracking and email alerts.",
+  "target_audience": "logistics managers in freight brokerage firms processing 50\u2013100 shipments/month",
+  "problem_solved": "delays in logistics delivery times",
+  "features": [
+    "real-time delivery time monitoring",
+    "threshold alert settings",
+    "manual override for alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in freight brokerage firms processing 50\u2013100 shipments/month",
+    "primary_problem": "delays in logistics delivery times",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in freight brokerage firms processing 50\u2013100 shipments/month, delivery delays cause supplier penalties. We automatically monitor delivery times instead of manual tracking and email alerts.",
+    "current_alternative": "manual tracking and email alerts",
+    "must_have_features": [
+      "real-time delivery time monitoring",
+      "threshold alert settings",
+      "manual override for alerts"
+    ]
+  },
+  "one_liner": "For logistics managers in freight brokerage firms processing 50\u2013100 shipments/month, delivery delays cause supplier penalties. We automatically monitor delivery times instead of manual tracking and email alerts.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-09",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

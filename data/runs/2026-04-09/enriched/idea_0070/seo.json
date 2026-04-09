@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr managers in mid-size companies using bamboohr inefficient tool",
+    "hr managers in mid-size companies using bamboohr inefficient automation",
+    "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient tool",
+    "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient automation",
+    "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient tool software",
+    "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient tool platform",
+    "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month, inefficient data analysis causes missed engagement opportunities. We consolidate and analyze HR data instead of manual spreadsheets and disparate HR tools.",
+    "Inefficient data analysis leading to poor employee engagement insights.",
+    "HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Bamboohr Processing 50-100 Employee Records Month Inefficient Tool Software",
+      "target_keyword": "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Bamboohr Processing 50-100 Employee Records Month Inefficient Tool Platform",
+      "target_keyword": "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Bamboohr Processing 50-100 Employee Records Month Inefficient Tool Solution",
+      "target_keyword": "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Bamboohr Processing 50-100 Employee Records Month Inefficient Tool",
+      "target_keyword": "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Bamboohr Processing 50-100 Employee Records Month Inefficient Automation",
+      "target_keyword": "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Size Companies Using Bamboohr Processing 50-100 Employee Records Month Inefficient Workflow",
+      "target_keyword": "hr managers in mid-size companies using bamboohr processing 50-100 employee records month inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr managers in mid-size companies using bamboohr inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr managers in mid-size companies using bamboohr inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr managers in mid-size companies using bamboohr inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr managers in mid-size companies using bamboohr inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr managers in mid-size companies using bamboohr inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr managers in mid-size companies using bamboohr tool",
+      "hr managers in mid-size companies using bamboohr tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr managers in mid-size companies using bamboohr tool helps with inefficient data analysis leading to poor employee engagement insights."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "etsy sellers cash tool",
+    "etsy sellers cash automation",
+    "cash flow tracking",
+    "etsy sellers processing 5 15 invoices month cash tool",
+    "etsy sellers processing 5 15 invoices month cash automation",
+    "etsy sellers processing 5 15 invoices month cash workflow"
+  ],
+  "secondary_keywords": [
+    "cash flow tracking software",
+    "cash flow tracking platform",
+    "cash flow tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to cash flow tracking",
+    "best cash flow tracking tool",
+    "cash flow tracking vs spreadsheets",
+    "cash flow tracking checklist",
+    "cash flow tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Etsy sellers processing 5\u201315 invoices/month, cash flow gaps cause missed discounts. We provide a cash flow forecasting system instead of manual tracking with spreadsheets.",
+    "Cash flow gaps due to fluctuating sales and expenses.",
+    "Etsy sellers processing 5\u201315 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Cash Flow Tracking",
+      "target_keyword": "how to cash flow tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Cash Flow Tracking Tool",
+      "target_keyword": "best cash flow tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Cash Flow Tracking Vs Spreadsheets",
+      "target_keyword": "cash flow tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Cash Flow Tracking Checklist",
+      "target_keyword": "cash flow tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Pricing",
+      "target_keyword": "cash flow tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Software",
+      "target_keyword": "cash flow tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Platform",
+      "target_keyword": "cash flow tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Solution",
+      "target_keyword": "cash flow tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking",
+      "target_keyword": "cash flow tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Etsy Sellers Processing 5 15 Invoices Month Cash Tool",
+      "target_keyword": "etsy sellers processing 5 15 invoices month cash tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 5 15 Invoices Month Cash Automation",
+      "target_keyword": "etsy sellers processing 5 15 invoices month cash automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Etsy Sellers Processing 5 15 Invoices Month Cash Workflow",
+      "target_keyword": "etsy sellers processing 5 15 invoices month cash workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "etsy sellers cash tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "etsy sellers cash tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "etsy sellers cash tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "etsy sellers cash tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "etsy sellers cash tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | etsy sellers tool",
+      "etsy sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "etsy sellers tool helps with cash flow gaps due to fluctuating sales and expenses."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

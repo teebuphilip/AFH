@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr operations for small to medium-sized businesses using bamboohr missing tool",
+    "hr operations for small to medium-sized businesses using bamboohr missing automation",
+    "candidate tracking",
+    "hiring pipeline",
+    "invoice payments",
+    "invoice tracking",
+    "vendor invoices"
+  ],
+  "secondary_keywords": [
+    "candidate tracking software",
+    "candidate tracking platform",
+    "candidate tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to candidate tracking",
+    "best candidate tracking tool",
+    "candidate tracking vs spreadsheets",
+    "candidate tracking checklist",
+    "candidate tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR operations processing 5\u201315 new hires/month, missing onboarding paperwork causes delays in employee start dates. We automate document validation instead of manual tracking.",
+    "Missing onboarding paperwork can delay the hiring process.",
+    "HR operations for small to medium-sized businesses using BambooHR"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Candidate Tracking",
+      "target_keyword": "how to candidate tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Candidate Tracking Tool",
+      "target_keyword": "best candidate tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Candidate Tracking Vs Spreadsheets",
+      "target_keyword": "candidate tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Candidate Tracking Checklist",
+      "target_keyword": "candidate tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Candidate Tracking Pricing",
+      "target_keyword": "candidate tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Candidate Tracking Software",
+      "target_keyword": "candidate tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Candidate Tracking Platform",
+      "target_keyword": "candidate tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Candidate Tracking Solution",
+      "target_keyword": "candidate tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Candidate Tracking",
+      "target_keyword": "candidate tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hiring Pipeline",
+      "target_keyword": "hiring pipeline",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments",
+      "target_keyword": "invoice payments",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking",
+      "target_keyword": "invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr operations for small to medium-sized businesses using bamboohr missing tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr operations for small to medium-sized businesses using bamboohr missing tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr operations for small to medium-sized businesses using bamboohr missing tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr operations for small to medium-sized businesses using bamboohr missing tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr operations for small to medium-sized businesses using bamboohr missing tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr operations for small to medium-sized businesses using bamboohr tool",
+      "hr operations for small to medium-sized businesses using bamboohr tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr operations for small to medium-sized businesses using bamboohr tool helps with missing onboarding paperwork can delay the hiring process."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

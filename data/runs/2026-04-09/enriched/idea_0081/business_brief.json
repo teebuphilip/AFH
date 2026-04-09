@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant franchise owners processing 5\u201315 compliance reports/month tool",
+  "description": "For restaurant franchise owners processing 5\u201315 compliance reports/month, delays in report preparation cause potential penalties. We automate report generation instead of manual report preparation.",
+  "target_audience": "restaurant franchise owners processing 5\u201315 compliance reports/month",
+  "problem_solved": "Difficulty in preparing timely compliance reports, leading to potential penalties.",
+  "features": [
+    "template-based report generation",
+    "user-friendly interface for data input",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant franchise owners processing 5\u201315 compliance reports/month",
+    "primary_problem": "Difficulty in preparing timely compliance reports, leading to potential penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For restaurant franchise owners processing 5\u201315 compliance reports/month, delays in report preparation cause potential penalties. We automate report generation instead of manual report preparation.",
+    "current_alternative": "manual report preparation",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly interface for data input",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant franchise owners processing 5\u201315 compliance reports/month, delays in report preparation cause potential penalties. We automate report generation instead of manual report preparation.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-09",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

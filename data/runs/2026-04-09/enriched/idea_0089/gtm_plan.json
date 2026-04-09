@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "family practice doctors managing 50\u2013100 patients/month",
+  "offer": "For family practice doctors processing 50\u2013100 patients/month, inefficient tracking causes delayed patient follow-ups. We provide wellness report summaries instead of manual tracking and report generation.",
+  "problem": "Inability to efficiently track patient appointment history and generate wellness reports.",
+  "channels_free": [
+    "Post in Reddit communities for family practice doctors",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to family practice doctors with demo video",
+    "Community forums for sharing tools among doctors"
+  ],
+  "try_it": "Let users try manual entry of patient appointment history",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing patient data",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

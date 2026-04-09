@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, manual calculations cause delayed financial reporting. We automate depreciation schedules instead of manual calculations and spreadsheets.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Inaccurate or delayed asset depreciation reporting",
+  "features": [
+    "generate monthly depreciation schedules",
+    "deliver reports to accounting teams",
+    "provide a user-friendly interface for manual adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Inaccurate or delayed asset depreciation reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, manual calculations cause delayed financial reporting. We automate depreciation schedules instead of manual calculations and spreadsheets.",
+    "current_alternative": "manual calculations and spreadsheets",
+    "must_have_features": [
+      "generate monthly depreciation schedules",
+      "deliver reports to accounting teams",
+      "provide a user-friendly interface for manual adjustments"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, manual calculations cause delayed financial reporting. We automate depreciation schedules instead of manual calculations and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-09",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

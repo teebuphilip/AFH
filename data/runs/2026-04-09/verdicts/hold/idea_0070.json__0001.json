@@ -1,0 +1,15 @@
+{
+  "idea_text": "Software that consolidates and analyzes HR data for mid-size organizations.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-09T10:25:26.415570",
+  "verdict_source": "overlay_score"
+}

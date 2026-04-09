@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "family practice doctors managing 50\u2013100 patients/month tool",
+  "description": "For family practice doctors processing 50\u2013100 patients/month, inefficient tracking causes delayed patient follow-ups. We provide automated wellness report summaries instead of manual tracking and report generation.",
+  "target_audience": "family practice doctors managing 50\u2013100 patients/month",
+  "problem_solved": "Inability to efficiently track patient appointment history and generate wellness reports.",
+  "features": [
+    "manual entry of patient appointment history",
+    "generation of basic wellness report summaries",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "family practice doctors managing 50\u2013100 patients/month",
+    "primary_problem": "Inability to efficiently track patient appointment history and generate wellness reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For family practice doctors processing 50\u2013100 patients/month, inefficient tracking causes delayed patient follow-ups. We provide automated wellness report summaries instead of manual tracking and report generation.",
+    "current_alternative": "manual tracking and report generation",
+    "must_have_features": [
+      "manual entry of patient appointment history",
+      "generation of basic wellness report summaries",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For family practice doctors processing 50\u2013100 patients/month, inefficient tracking causes delayed patient follow-ups. We provide automated wellness report summaries instead of manual tracking and report generation.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

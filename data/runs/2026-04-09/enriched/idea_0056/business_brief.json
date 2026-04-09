@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10\u201320 maintenance requests/month tool",
+  "description": "For property managers processing 10\u201320 maintenance requests/month, inefficient tracking causes delayed responses. We consolidate and analyze maintenance data instead of manual spreadsheets and email chains.",
+  "target_audience": "property managers processing 10\u201320 maintenance requests/month",
+  "problem_solved": "inefficient tracking of maintenance requests leads to delayed responses and tenant dissatisfaction.",
+  "features": [
+    "simple data entry interface",
+    "basic reporting capabilities",
+    "notification system for overdue requests"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10\u201320 maintenance requests/month",
+    "primary_problem": "inefficient tracking of maintenance requests leads to delayed responses and tenant dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 maintenance requests/month, inefficient tracking causes delayed responses. We consolidate and analyze maintenance data instead of manual spreadsheets and email chains.",
+    "current_alternative": "manual spreadsheets and email chains",
+    "must_have_features": [
+      "simple data entry interface",
+      "basic reporting capabilities",
+      "notification system for overdue requests"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201320 maintenance requests/month, inefficient tracking causes delayed responses. We consolidate and analyze maintenance data instead of manual spreadsheets and email chains.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-09",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

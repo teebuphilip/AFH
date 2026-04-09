@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "small law firms timely tool",
+    "small law firms timely automation",
+    "small law firms processing 5 15 client trust account reconciliations month timely tool",
+    "small law firms processing 5 15 client trust account reconciliations month timely automation",
+    "small law firms processing 5 15 client trust account reconciliations month timely workflow"
+  ],
+  "secondary_keywords": [
+    "small law firms processing 5 15 client trust account reconciliations month timely tool software",
+    "small law firms processing 5 15 client trust account reconciliations month timely tool platform",
+    "small law firms processing 5 15 client trust account reconciliations month timely tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For small law firms processing 5\u201315 client trust account reconciliations/month, manual reconciliation causes compliance issues. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+    "Timely reconciliation of client trust accounts",
+    "small law firms processing 5\u201315 client trust account reconciliations/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Small Law Firms Processing 5 15 Client Trust Account Reconciliations Month Timely Tool Software",
+      "target_keyword": "small law firms processing 5 15 client trust account reconciliations month timely tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firms Processing 5 15 Client Trust Account Reconciliations Month Timely Tool Platform",
+      "target_keyword": "small law firms processing 5 15 client trust account reconciliations month timely tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firms Processing 5 15 Client Trust Account Reconciliations Month Timely Tool Solution",
+      "target_keyword": "small law firms processing 5 15 client trust account reconciliations month timely tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firms Processing 5 15 Client Trust Account Reconciliations Month Timely Tool",
+      "target_keyword": "small law firms processing 5 15 client trust account reconciliations month timely tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firms Processing 5 15 Client Trust Account Reconciliations Month Timely Automation",
+      "target_keyword": "small law firms processing 5 15 client trust account reconciliations month timely automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Law Firms Processing 5 15 Client Trust Account Reconciliations Month Timely Workflow",
+      "target_keyword": "small law firms processing 5 15 client trust account reconciliations month timely workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "small law firms timely tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "small law firms timely tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "small law firms timely tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "small law firms timely tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "small law firms timely tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | small law firms tool",
+      "small law firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "small law firms tool helps with timely reconciliation of client trust accounts."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

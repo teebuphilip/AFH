@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month",
+  "offer": "For HR managers in mid-size companies using BambooHR, processing 50-100 employee records/month, inefficient data analysis causes missed engagement opportunities. We consolidate and analyze HR data instead of manual spreadsheets and disparate HR tools.",
+  "problem": "Inefficient data analysis leading to poor employee engagement insights.",
+  "channels_free": [
+    "Post in Reddit communities for HR managers seeking solutions",
+    "Engage in Indie Hackers discussions about HR workflows",
+    "DM outreach to HR managers with demo video",
+    "Participate in community forums for HR tool recommendations"
+  ],
+  "try_it": "Let users try data consolidation and basic analytics on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with a clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for tasks",
+    "Enable CSV import for existing employee data",
+    "Provide one-click export for simple reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "consulting agencies processing 5\u201315 new hires/month tool",
+  "description": "For consulting agencies processing 5\u201315 new hires/month, paperwork delays cause onboarding bottlenecks. We automate onboarding instead of manual onboarding processes using email and paper forms.",
+  "target_audience": "consulting agencies processing 5\u201315 new hires/month",
+  "problem_solved": "Delays in onboarding new hires due to manual paperwork processes.",
+  "features": [
+    "template-based onboarding forms",
+    "status tracking for onboarding progress",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "consulting agencies processing 5\u201315 new hires/month",
+    "primary_problem": "Delays in onboarding new hires due to manual paperwork processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For consulting agencies processing 5\u201315 new hires/month, paperwork delays cause onboarding bottlenecks. We automate onboarding instead of manual onboarding processes using email and paper forms.",
+    "current_alternative": "manual onboarding processes using email and paper forms",
+    "must_have_features": [
+      "template-based onboarding forms",
+      "status tracking for onboarding progress",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For consulting agencies processing 5\u201315 new hires/month, paperwork delays cause onboarding bottlenecks. We automate onboarding instead of manual onboarding processes using email and paper forms.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

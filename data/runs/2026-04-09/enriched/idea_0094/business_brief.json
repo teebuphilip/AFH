@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "boutique hotel managers processing 5\u201315 bookings/month tool",
+  "description": "For boutique hotel managers processing 5\u201315 bookings/month, unpredictable occupancy causes inefficient staff scheduling. We provide automated scheduling instead of manual scheduling based on historical data.",
+  "target_audience": "boutique hotel managers processing 5\u201315 bookings/month",
+  "problem_solved": "inefficient staff scheduling due to unpredictable occupancy",
+  "features": [
+    "occupancy forecasting tool",
+    "staff scheduling interface",
+    "reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "boutique hotel managers processing 5\u201315 bookings/month",
+    "primary_problem": "inefficient staff scheduling due to unpredictable occupancy",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For boutique hotel managers processing 5\u201315 bookings/month, unpredictable occupancy causes inefficient staff scheduling. We provide automated scheduling instead of manual scheduling based on historical data.",
+    "current_alternative": "manual scheduling based on historical data",
+    "must_have_features": [
+      "occupancy forecasting tool",
+      "staff scheduling interface",
+      "reporting dashboard"
+    ]
+  },
+  "one_liner": "For boutique hotel managers processing 5\u201315 bookings/month, unpredictable occupancy causes inefficient staff scheduling. We provide automated scheduling instead of manual scheduling based on historical data.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-09",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

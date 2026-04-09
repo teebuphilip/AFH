@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR payroll teams in accounting firms processing 10\u201320 payrolls/month tool",
+  "description": "For HR payroll teams in accounting firms processing 10\u201320 payrolls/month, manual data extraction causes compliance issues. We automate data extraction instead of manual data entry and spreadsheet management.",
+  "target_audience": "HR payroll teams in accounting firms processing 10\u201320 payrolls/month",
+  "problem_solved": "Manual extraction of payroll data leads to compliance issues.",
+  "features": [
+    "Data extraction from multiple sources",
+    "Compliance summary generation",
+    "User-friendly interface for manual adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR payroll teams in accounting firms processing 10\u201320 payrolls/month",
+    "primary_problem": "Manual extraction of payroll data leads to compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR payroll teams in accounting firms processing 10\u201320 payrolls/month, manual data extraction causes compliance issues. We automate data extraction instead of manual data entry and spreadsheet management.",
+    "current_alternative": "Manual data entry and spreadsheet management",
+    "must_have_features": [
+      "Data extraction from multiple sources",
+      "Compliance summary generation",
+      "User-friendly interface for manual adjustments"
+    ]
+  },
+  "one_liner": "For HR payroll teams in accounting firms processing 10\u201320 payrolls/month, manual data extraction causes compliance issues. We automate data extraction instead of manual data entry and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-09",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in small clinics processing 10-20 invoices/month tool",
+  "description": "For medical billing specialists in small clinics processing 10-20 invoices/month, manual coding causes cash flow gaps. We automate the conversion of billing codes into insurance claims instead of manual coding and submission processes.",
+  "target_audience": "medical billing specialists in small clinics processing 10-20 invoices/month",
+  "problem_solved": "Manual conversion of medical billing codes into insurance claims leads to errors and delays.",
+  "features": [
+    "user-friendly interface for manual entry",
+    "error-checking for billing codes",
+    "export functionality for claim submissions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in small clinics processing 10-20 invoices/month",
+    "primary_problem": "Manual conversion of medical billing codes into insurance claims leads to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in small clinics processing 10-20 invoices/month, manual coding causes cash flow gaps. We automate the conversion of billing codes into insurance claims instead of manual coding and submission processes.",
+    "current_alternative": "manual coding and submission processes",
+    "must_have_features": [
+      "user-friendly interface for manual entry",
+      "error-checking for billing codes",
+      "export functionality for claim submissions"
+    ]
+  },
+  "one_liner": "For medical billing specialists in small clinics processing 10-20 invoices/month, manual coding causes cash flow gaps. We automate the conversion of billing codes into insurance claims instead of manual coding and submission processes.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-09",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}
