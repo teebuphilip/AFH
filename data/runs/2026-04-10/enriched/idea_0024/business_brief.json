@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201320 invoices/month tool",
+  "description": "For Shopify store owners processing 10\u201320 invoices/month, inaccurate financial reporting causes cash flow gaps. We automate MRR report generation instead of manual spreadsheet tracking.",
+  "target_audience": "Shopify store owners processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate or delayed financial reporting",
+  "features": [
+    "Email notifications for reports",
+    "User-friendly dashboard for report access",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate or delayed financial reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201320 invoices/month, inaccurate financial reporting causes cash flow gaps. We automate MRR report generation instead of manual spreadsheet tracking.",
+    "current_alternative": "Manual spreadsheet tracking",
+    "must_have_features": [
+      "Email notifications for reports",
+      "User-friendly dashboard for report access",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201320 invoices/month, inaccurate financial reporting causes cash flow gaps. We automate MRR report generation instead of manual spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-10",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

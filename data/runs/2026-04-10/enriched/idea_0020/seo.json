@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "sales operations managers in marketing agencies inconsistent tool",
+    "sales operations managers in marketing agencies inconsistent automation",
+    "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent tool",
+    "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent automation",
+    "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent workflow"
+  ],
+  "secondary_keywords": [
+    "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent tool software",
+    "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent tool platform",
+    "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Sales Operations Managers in Marketing Agencies processing 10\u201320 sales reports/week, inconsistent reporting causes cash flow gaps. We automate commission report generation instead of manual report generation using spreadsheets.",
+    "Inconsistent and delayed commission reporting",
+    "Sales Operations Managers in Marketing Agencies processing 10\u201320 sales reports/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Reports Week Inconsistent Tool Software",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Reports Week Inconsistent Tool Platform",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Reports Week Inconsistent Tool Solution",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Reports Week Inconsistent Tool",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Reports Week Inconsistent Automation",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers In Marketing Agencies Processing 10 20 Sales Reports Week Inconsistent Workflow",
+      "target_keyword": "sales operations managers in marketing agencies processing 10 20 sales reports week inconsistent workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "sales operations managers in marketing agencies inconsistent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "sales operations managers in marketing agencies inconsistent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "sales operations managers in marketing agencies inconsistent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "sales operations managers in marketing agencies inconsistent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "sales operations managers in marketing agencies inconsistent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | sales operations managers in marketing agencies tool",
+      "sales operations managers in marketing agencies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "sales operations managers in marketing agencies tool helps with inconsistent and delayed commission reporting."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

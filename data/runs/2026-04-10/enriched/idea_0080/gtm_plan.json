@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant back-office teams processing 10-20 payrolls/month",
+  "offer": "For restaurant back-office teams processing 10-20 payrolls/month, manual payroll processing causes late payments to staff. We automate payroll instead of manual payroll processing using spreadsheets.",
+  "problem": "manual payroll processing leads to errors and delays",
+  "channels_free": [
+    "Post in Reddit communities for restaurant payroll help",
+    "Indie Hackers discussions on payroll challenges",
+    "DM outreach to restaurant back-office teams with demos",
+    "Community forums sharing payroll processing tools"
+  ],
+  "try_it": "Let users try HR reporting templates and dashboard features",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Make a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

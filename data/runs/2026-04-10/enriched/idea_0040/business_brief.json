@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "legal secretaries in law firms managing 10-20 client appointments per week tool",
+  "description": "For legal secretaries in law firms processing 10-20 client appointments per week, missed appointments cause client dissatisfaction. We automate appointment reminders instead of manual scheduling and reminders via email or phone.",
+  "target_audience": "legal secretaries in law firms managing 10-20 client appointments per week",
+  "problem_solved": "missed client appointments and follow-ups",
+  "features": [
+    "manual appointment entry",
+    "customizable reminder notifications",
+    "simple follow-up scheduling"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "legal secretaries in law firms managing 10-20 client appointments per week",
+    "primary_problem": "missed client appointments and follow-ups",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For legal secretaries in law firms processing 10-20 client appointments per week, missed appointments cause client dissatisfaction. We automate appointment reminders instead of manual scheduling and reminders via email or phone.",
+    "current_alternative": "manual scheduling and reminders via email or phone",
+    "must_have_features": [
+      "manual appointment entry",
+      "customizable reminder notifications",
+      "simple follow-up scheduling"
+    ]
+  },
+  "one_liner": "For legal secretaries in law firms processing 10-20 client appointments per week, missed appointments cause client dissatisfaction. We automate appointment reminders instead of manual scheduling and reminders via email or phone.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-10",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

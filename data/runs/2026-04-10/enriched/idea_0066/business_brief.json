@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers on Upwork processing 5\u201315 invoices/month tool",
+  "description": "For freelancers on Upwork processing 5\u201315 invoices/month, delayed payments cause cash flow gaps. We automate billing instead of manual invoicing and tracking via spreadsheets.",
+  "target_audience": "freelancers on Upwork processing 5\u201315 invoices/month",
+  "problem_solved": "timely invoicing and payment tracking",
+  "features": [
+    "payment tracking dashboard",
+    "overdue reminder notifications",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers on Upwork processing 5\u201315 invoices/month",
+    "primary_problem": "timely invoicing and payment tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers on Upwork processing 5\u201315 invoices/month, delayed payments cause cash flow gaps. We automate billing instead of manual invoicing and tracking via spreadsheets.",
+    "current_alternative": "manual invoicing and tracking via spreadsheets",
+    "must_have_features": [
+      "payment tracking dashboard",
+      "overdue reminder notifications",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers on Upwork processing 5\u201315 invoices/month, delayed payments cause cash flow gaps. We automate billing instead of manual invoicing and tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-10",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

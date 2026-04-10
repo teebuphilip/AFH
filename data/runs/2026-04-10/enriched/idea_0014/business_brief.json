@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics supervisors at freight brokers processing 10\u201350 shipments/week tool",
+  "description": "For logistics supervisors at freight brokers processing 10\u201350 shipments/week, delivery delays cause missed deadlines. We automatically flag delays instead of manual tracking and reporting of delivery times.",
+  "target_audience": "logistics supervisors at freight brokers processing 10\u201350 shipments/week",
+  "problem_solved": "Inability to track delivery delays in real-time, leading to missed deadlines.",
+  "features": [
+    "weekly delivery time reports",
+    "manual entry for exceptional cases",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics supervisors at freight brokers processing 10\u201350 shipments/week",
+    "primary_problem": "Inability to track delivery delays in real-time, leading to missed deadlines.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics supervisors at freight brokers processing 10\u201350 shipments/week, delivery delays cause missed deadlines. We automatically flag delays instead of manual tracking and reporting of delivery times.",
+    "current_alternative": "manual tracking and reporting of delivery times",
+    "must_have_features": [
+      "weekly delivery time reports",
+      "manual entry for exceptional cases",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics supervisors at freight brokers processing 10\u201350 shipments/week, delivery delays cause missed deadlines. We automatically flag delays instead of manual tracking and reporting of delivery times.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

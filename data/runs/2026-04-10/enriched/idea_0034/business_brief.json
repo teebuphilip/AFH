@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 10\u201320 claims/month tool",
+  "description": "For insurance brokers processing 10\u201320 claims/month, manual data entry causes reporting delays. We automate data extraction instead of manual data entry and reporting.",
+  "target_audience": "insurance brokers processing 10\u201320 claims/month",
+  "problem_solved": "Manual data entry from claim forms leads to errors and delays in reporting.",
+  "features": [
+    "data extraction from claim forms",
+    "pre-fill regulatory report templates",
+    "user-friendly interface for manual adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 10\u201320 claims/month",
+    "primary_problem": "Manual data entry from claim forms leads to errors and delays in reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 10\u201320 claims/month, manual data entry causes reporting delays. We automate data extraction instead of manual data entry and reporting.",
+    "current_alternative": "manual data entry and reporting",
+    "must_have_features": [
+      "data extraction from claim forms",
+      "pre-fill regulatory report templates",
+      "user-friendly interface for manual adjustments"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10\u201320 claims/month, manual data entry causes reporting delays. We automate data extraction instead of manual data entry and reporting.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 timesheets/month tool",
+  "description": "For construction contractors processing 5\u201315 timesheets/month, inefficient payroll processing causes late payments. We compile timesheets and prepare payroll input files instead of manual timesheet compilation and payroll input preparation.",
+  "target_audience": "construction contractors processing 5\u201315 timesheets/month",
+  "problem_solved": "Inefficient payroll processing leading to delays in payments.",
+  "features": [
+    "manual timesheet entry",
+    "payroll input file generation",
+    "basic reporting on hours worked"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 timesheets/month",
+    "primary_problem": "Inefficient payroll processing leading to delays in payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 timesheets/month, inefficient payroll processing causes late payments. We compile timesheets and prepare payroll input files instead of manual timesheet compilation and payroll input preparation.",
+    "current_alternative": "manual timesheet compilation and payroll input preparation",
+    "must_have_features": [
+      "manual timesheet entry",
+      "payroll input file generation",
+      "basic reporting on hours worked"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 timesheets/month, inefficient payroll processing causes late payments. We compile timesheets and prepare payroll input files instead of manual timesheet compilation and payroll input preparation.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-10",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

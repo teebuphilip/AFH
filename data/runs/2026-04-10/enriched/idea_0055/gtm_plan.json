@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Sales Operations Managers in Marketing Agencies processing 10\u201320 client contracts/month",
+  "offer": "For Sales Operations Managers in Marketing Agencies processing 10\u201320 client contracts/month, inaccurate revenue forecasts cause budget misallocations. We provide reporting instead of manual spreadsheets and email updates.",
+  "problem": "Inaccurate revenue forecasts lead to budget misallocations.",
+  "channels_free": [
+    "Post in Reddit communities for Sales Operations Managers",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to Sales Operations Managers with demo video",
+    "Community forums where Sales Operations Managers share tools"
+  ],
+  "try_it": "Let users try weekly email updates on revenue forecasts",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

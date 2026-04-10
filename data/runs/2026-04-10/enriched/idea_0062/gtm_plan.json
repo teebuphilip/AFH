@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms managing 5\u201315 clients",
+  "offer": "For accounting firms managing 5\u201315 clients, regulatory changes cause compliance risks. We provide alerts instead of manual tracking of regulatory updates.",
+  "problem": "Keeping up with regulatory changes for multiple clients",
+  "channels_free": [
+    "Post in Reddit communities for accounting help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to accounting firms with demo video",
+    "Community forums where firms share tools"
+  ],
+  "try_it": "Let users try real-time alerts on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

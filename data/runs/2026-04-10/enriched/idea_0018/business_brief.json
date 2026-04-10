@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 expense claims/week tool",
+  "description": "For accounting firms processing 10\u201320 expense claims/week, policy violations cause cash flow gaps. We monitor expense claims instead of manual review of expense claims.",
+  "target_audience": "accounting firms processing 10\u201320 expense claims/week",
+  "problem_solved": "Monitoring employee expense claims for policy compliance",
+  "features": [
+    "weekly policy violation alerts",
+    "manual claim submission tracking",
+    "basic reporting on claims"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 expense claims/week",
+    "primary_problem": "Monitoring employee expense claims for policy compliance",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 expense claims/week, policy violations cause cash flow gaps. We monitor expense claims instead of manual review of expense claims.",
+    "current_alternative": "manual review of expense claims",
+    "must_have_features": [
+      "weekly policy violation alerts",
+      "manual claim submission tracking",
+      "basic reporting on claims"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 expense claims/week, policy violations cause cash flow gaps. We monitor expense claims instead of manual review of expense claims.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-10",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

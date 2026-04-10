@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR payroll managers in small to medium-sized accounting firms processing 5\u201315 payrolls/week tool",
+  "description": "For HR payroll managers in small to medium-sized accounting firms processing 5\u201315 payrolls/week, inefficient reporting causes delays in payroll processing. We automate report generation instead of manual compilation using spreadsheets.",
+  "target_audience": "HR payroll managers in small to medium-sized accounting firms processing 5\u201315 payrolls/week",
+  "problem_solved": "Inefficient payroll reporting leads to delays in payroll processing.",
+  "features": [
+    "Email delivery of reports",
+    "User-friendly report templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR payroll managers in small to medium-sized accounting firms processing 5\u201315 payrolls/week",
+    "primary_problem": "Inefficient payroll reporting leads to delays in payroll processing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR payroll managers in small to medium-sized accounting firms processing 5\u201315 payrolls/week, inefficient reporting causes delays in payroll processing. We automate report generation instead of manual compilation using spreadsheets.",
+    "current_alternative": "Manual compilation of payroll reports using spreadsheets.",
+    "must_have_features": [
+      "Email delivery of reports",
+      "User-friendly report templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR payroll managers in small to medium-sized accounting firms processing 5\u201315 payrolls/week, inefficient reporting causes delays in payroll processing. We automate report generation instead of manual compilation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-10",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

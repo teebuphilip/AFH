@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, inconsistent compliance preparation causes potential fines and project delays. We automate checklist preparation instead of manual preparation of checklists and forms.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Difficulty in consistently preparing and submitting OSHA compliance checklists.",
+  "features": [
+    "template-based checklist creation",
+    "manual entry for project-specific details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Difficulty in consistently preparing and submitting OSHA compliance checklists.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, inconsistent compliance preparation causes potential fines and project delays. We automate checklist preparation instead of manual preparation of checklists and forms.",
+    "current_alternative": "manual preparation of checklists and forms",
+    "must_have_features": [
+      "template-based checklist creation",
+      "manual entry for project-specific details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, inconsistent compliance preparation causes potential fines and project delays. We automate checklist preparation instead of manual preparation of checklists and forms.",
+  "source": {
+    "idea_id": "idea_0039",
+    "run_date": "2026-04-10",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

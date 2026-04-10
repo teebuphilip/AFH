@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "marketing agencies managing 5-15 campaigns/month tool",
+  "description": "For marketing agencies managing 5-15 campaigns/month, inefficient budget allocation causes suboptimal campaign performance. We provide automated performance analysis and budget suggestions instead of manual tracking and adjustments using spreadsheets.",
+  "target_audience": "marketing agencies managing 5-15 campaigns/month",
+  "problem_solved": "inefficient budget allocation leading to suboptimal campaign performance",
+  "features": [
+    "performance data analysis",
+    "budget adjustment suggestions",
+    "weekly email reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "marketing agencies managing 5-15 campaigns/month",
+    "primary_problem": "inefficient budget allocation leading to suboptimal campaign performance",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For marketing agencies managing 5-15 campaigns/month, inefficient budget allocation causes suboptimal campaign performance. We provide automated performance analysis and budget suggestions instead of manual tracking and adjustments using spreadsheets.",
+    "current_alternative": "manual tracking and adjustments using spreadsheets",
+    "must_have_features": [
+      "performance data analysis",
+      "budget adjustment suggestions",
+      "weekly email reports"
+    ]
+  },
+  "one_liner": "For marketing agencies managing 5-15 campaigns/month, inefficient budget allocation causes suboptimal campaign performance. We provide automated performance analysis and budget suggestions instead of manual tracking and adjustments using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-10",
+    "overlay_score": 69,
+    "arr_score": 70
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "paralegals in law firms managing cases month difficulty tool",
+    "paralegals in law firms managing cases month difficulty automation",
+    "we auto",
+    "paralegals in law firms managing 5 15 cases month difficulty tool",
+    "paralegals in law firms managing 5 15 cases month difficulty automation",
+    "paralegals in law firms managing 5 15 cases month difficulty workflow"
+  ],
+  "secondary_keywords": [
+    "we auto software",
+    "we auto platform",
+    "we auto solution"
+  ],
+  "long_tail_keywords": [
+    "how to we auto",
+    "best we auto tool",
+    "we auto vs spreadsheets",
+    "we auto checklist",
+    "we auto pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For paralegals in law firms processing 5\u201315 cases/month, missed deadlines cause compliance issues. We auto-generate compliance reminder emails instead of manual tracking and reminder systems.",
+    "Difficulty in tracking legal case deadlines and ensuring compliance.",
+    "paralegals in law firms managing 5\u201315 cases/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Auto",
+      "target_keyword": "how to we auto",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Auto Tool",
+      "target_keyword": "best we auto tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Auto Vs Spreadsheets",
+      "target_keyword": "we auto vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Auto Checklist",
+      "target_keyword": "we auto checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Auto Pricing",
+      "target_keyword": "we auto pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Auto Software",
+      "target_keyword": "we auto software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Auto Platform",
+      "target_keyword": "we auto platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Auto Solution",
+      "target_keyword": "we auto solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Auto",
+      "target_keyword": "we auto",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Paralegals In Law Firms Managing 5 15 Cases Month Difficulty Tool",
+      "target_keyword": "paralegals in law firms managing 5 15 cases month difficulty tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Paralegals In Law Firms Managing 5 15 Cases Month Difficulty Automation",
+      "target_keyword": "paralegals in law firms managing 5 15 cases month difficulty automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Paralegals In Law Firms Managing 5 15 Cases Month Difficulty Workflow",
+      "target_keyword": "paralegals in law firms managing 5 15 cases month difficulty workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "paralegals in law firms managing cases month difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "paralegals in law firms managing cases month difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "paralegals in law firms managing cases month difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "paralegals in law firms managing cases month difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "paralegals in law firms managing cases month difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | paralegals in law firms managing cases month tool",
+      "paralegals in law firms managing cases month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "paralegals in law firms managing cases month tool helps with difficulty in tracking legal case deadlines and ensuring compliance."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

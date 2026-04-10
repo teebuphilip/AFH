@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Shopify sellers processing 10\u201350 orders/month",
+  "offer": "For Shopify sellers processing 10\u201350 orders/month, data fragmentation causes inconsistent customer profiles. We provide unified customer profiles instead of manual data entry and reconciliation.",
+  "problem": "Data fragmentation leading to inconsistent customer profiles",
+  "channels_free": [
+    "Post in Reddit communities where Shopify sellers seek help",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "DM outreach to Shopify sellers with demo video",
+    "Participate in community forums for Shopify sellers"
+  ],
+  "try_it": "Let users try data aggregation and cleansing on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing customer data",
+    "Offer one-click export for simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

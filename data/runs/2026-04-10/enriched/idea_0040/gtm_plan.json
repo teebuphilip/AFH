@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "legal secretaries in law firms managing 10-20 client appointments per week",
+  "offer": "For legal secretaries in law firms processing 10-20 client appointments per week, missed appointments cause client dissatisfaction. We automate appointment reminders instead of manual scheduling and reminders via email or phone.",
+  "problem": "missed client appointments and follow-ups",
+  "channels_free": [
+    "Post in Reddit communities for legal secretaries seeking solutions",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "DM outreach to legal secretaries with demo video",
+    "Participate in community forums for legal secretaries"
+  ],
+  "try_it": "Let users try manual appointment entry and reminders for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for quick access",
+    "Default reminder schedule presets for convenience",
+    "Allow CSV import for existing client data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

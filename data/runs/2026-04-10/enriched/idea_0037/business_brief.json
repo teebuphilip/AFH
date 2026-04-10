@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 10-50 daily deliveries tool",
+  "description": "For logistics carriers managing 10-50 daily deliveries, inefficient tracking causes missed delivery deadlines. We consolidate daily delivery logs instead of manual tracking through spreadsheets.",
+  "target_audience": "logistics carriers managing 10-50 daily deliveries",
+  "problem_solved": "Inefficient tracking of driver performance leading to missed delivery deadlines.",
+  "features": [
+    "Daily log consolidation",
+    "Driver performance summary generation",
+    "User-friendly dashboard for fleet supervisors"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 10-50 daily deliveries",
+    "primary_problem": "Inefficient tracking of driver performance leading to missed delivery deadlines.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 10-50 daily deliveries, inefficient tracking causes missed delivery deadlines. We consolidate daily delivery logs instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "Daily log consolidation",
+      "Driver performance summary generation",
+      "User-friendly dashboard for fleet supervisors"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 10-50 daily deliveries, inefficient tracking causes missed delivery deadlines. We consolidate daily delivery logs instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

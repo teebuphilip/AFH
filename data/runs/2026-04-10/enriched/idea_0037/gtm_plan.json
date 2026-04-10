@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics carriers managing 10-50 daily deliveries",
+  "offer": "For logistics carriers managing 10-50 daily deliveries, inefficient tracking causes missed delivery deadlines. We consolidate daily delivery logs instead of manual tracking through spreadsheets.",
+  "problem": "Inefficient tracking of driver performance leading to missed delivery deadlines.",
+  "channels_free": [
+    "Post in Reddit communities for logistics carriers",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to logistics carriers with demo video",
+    "Community forums for logistics carriers sharing tools"
+  ],
+  "try_it": "Let users try daily log consolidation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

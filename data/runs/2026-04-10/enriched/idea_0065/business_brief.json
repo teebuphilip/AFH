@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 travel expense claims/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inefficient processing of travel expense claims causes cash flow gaps. We provide a streamlined travel expense management system instead of manual spreadsheets and email submissions.",
+  "target_audience": "accounting firms processing 10\u201320 travel expense claims/month",
+  "problem_solved": "inefficient processing of travel expense claims",
+  "features": [
+    "claim submission form",
+    "expense categorization tool",
+    "report generation feature"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 travel expense claims/month",
+    "primary_problem": "inefficient processing of travel expense claims",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inefficient processing of travel expense claims causes cash flow gaps. We provide a streamlined travel expense management system instead of manual spreadsheets and email submissions.",
+    "current_alternative": "manual spreadsheets and email submissions",
+    "must_have_features": [
+      "claim submission form",
+      "expense categorization tool",
+      "report generation feature"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inefficient processing of travel expense claims causes cash flow gaps. We provide a streamlined travel expense management system instead of manual spreadsheets and email submissions.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-10",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

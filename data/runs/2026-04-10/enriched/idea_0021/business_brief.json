@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201320 invoices/month tool",
+  "description": "For logistics carriers processing 10\u201320 invoices/month, discrepancies cause cash flow gaps. We reconcile freight bills with shipment logs instead of manual reconciliation of freight bills and shipment logs.",
+  "target_audience": "logistics carriers processing 10\u201320 invoices/month",
+  "problem_solved": "discrepancies between freight bills and shipment logs",
+  "features": [
+    "monthly discrepancy report generation",
+    "manual entry for freight bill and shipment log data",
+    "user-friendly dashboard for tracking discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201320 invoices/month",
+    "primary_problem": "discrepancies between freight bills and shipment logs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201320 invoices/month, discrepancies cause cash flow gaps. We reconcile freight bills with shipment logs instead of manual reconciliation of freight bills and shipment logs.",
+    "current_alternative": "manual reconciliation of freight bills and shipment logs",
+    "must_have_features": [
+      "monthly discrepancy report generation",
+      "manual entry for freight bill and shipment log data",
+      "user-friendly dashboard for tracking discrepancies"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201320 invoices/month, discrepancies cause cash flow gaps. We reconcile freight bills with shipment logs instead of manual reconciliation of freight bills and shipment logs.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-10",
+    "overlay_score": 78,
+    "arr_score": 81
+  }
+}

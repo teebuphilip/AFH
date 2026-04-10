@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 10\u201320 claims/month tool",
+  "description": "For insurance brokers processing 10\u201320 claims/month, incomplete submissions cause delayed claim processing. We automate validation instead of manual review of claim submissions.",
+  "target_audience": "insurance brokers processing 10\u201320 claims/month",
+  "problem_solved": "Incomplete submissions lead to delayed claim processing.",
+  "features": [
+    "manual submission review interface",
+    "user-friendly dashboard for claim tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 10\u201320 claims/month",
+    "primary_problem": "Incomplete submissions lead to delayed claim processing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 10\u201320 claims/month, incomplete submissions cause delayed claim processing. We automate validation instead of manual review of claim submissions.",
+    "current_alternative": "manual review of claim submissions",
+    "must_have_features": [
+      "manual submission review interface",
+      "user-friendly dashboard for claim tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10\u201320 claims/month, incomplete submissions cause delayed claim processing. We automate validation instead of manual review of claim submissions.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

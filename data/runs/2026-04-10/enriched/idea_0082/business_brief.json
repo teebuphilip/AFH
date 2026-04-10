@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For accounting firms processing 5\u201315 invoices/month, delayed reconciliation causes cash flow gaps. We streamline the reconciliation process instead of manual reconciliation processes.",
+  "target_audience": "accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "Timely reconciliation of accounts receivable",
+  "features": [
+    "manual data entry support",
+    "basic reporting capabilities",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "Timely reconciliation of accounts receivable",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 invoices/month, delayed reconciliation causes cash flow gaps. We streamline the reconciliation process instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual data entry support",
+      "basic reporting capabilities",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 invoices/month, delayed reconciliation causes cash flow gaps. We streamline the reconciliation process instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-10",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

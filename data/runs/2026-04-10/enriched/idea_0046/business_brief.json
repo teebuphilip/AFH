@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics accountants processing 10\u201320 fuel purchase receipts/month tool",
+  "description": "For logistics accountants processing 10\u201320 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "logistics accountants processing 10\u201320 fuel purchase receipts/month",
+  "problem_solved": "Inaccurate reconciliation of fuel receipts with mileage logs.",
+  "features": [
+    "manual entry of fuel receipts",
+    "manual entry of mileage logs",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics accountants processing 10\u201320 fuel purchase receipts/month",
+    "primary_problem": "Inaccurate reconciliation of fuel receipts with mileage logs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics accountants processing 10\u201320 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "manual entry of fuel receipts",
+      "manual entry of mileage logs",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics accountants processing 10\u201320 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-10",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

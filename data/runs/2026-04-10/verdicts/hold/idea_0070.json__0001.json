@@ -1,0 +1,16 @@
+{
+  "idea_text": "A facilities management software that automates work order processing, schedules maintenance, and provides utilization reports to property managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 69,
+  "arr_score": 68,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-10T10:53:27.867364",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accountants at law firms processing 5\u201315 trust account reconciliations per quarter tool",
+  "description": "For accountants at law firms processing 5\u201315 trust account reconciliations per quarter, manual reconciliation processes cause compliance issues. We provide automated reconciliation reports instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "accountants at law firms processing 5\u201315 trust account reconciliations per quarter",
+  "problem_solved": "Inaccurate or delayed trust account reconciliations can lead to compliance issues and financial penalties.",
+  "features": [
+    "quarterly report generation",
+    "manual data entry support",
+    "error-checking functionality"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accountants at law firms processing 5\u201315 trust account reconciliations per quarter",
+    "primary_problem": "Inaccurate or delayed trust account reconciliations can lead to compliance issues and financial penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accountants at law firms processing 5\u201315 trust account reconciliations per quarter, manual reconciliation processes cause compliance issues. We provide automated reconciliation reports instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "quarterly report generation",
+      "manual data entry support",
+      "error-checking functionality"
+    ]
+  },
+  "one_liner": "For accountants at law firms processing 5\u201315 trust account reconciliations per quarter, manual reconciliation processes cause compliance issues. We provide automated reconciliation reports instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-10",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

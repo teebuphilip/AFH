@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 expense reports/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual entry causes compliance issues. We convert raw expense reports into compliant accounting entries instead of manual entry of expense reports into accounting software.",
+  "target_audience": "accounting firms processing 10\u201320 expense reports/month",
+  "problem_solved": "inaccurate accounting entries due to manual processing of raw expense reports",
+  "features": [
+    "manual data entry support",
+    "compliance checklists",
+    "export to common accounting formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 expense reports/month",
+    "primary_problem": "inaccurate accounting entries due to manual processing of raw expense reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual entry causes compliance issues. We convert raw expense reports into compliant accounting entries instead of manual entry of expense reports into accounting software.",
+    "current_alternative": "manual entry of expense reports into accounting software",
+    "must_have_features": [
+      "manual data entry support",
+      "compliance checklists",
+      "export to common accounting formats"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual entry causes compliance issues. We convert raw expense reports into compliant accounting entries instead of manual entry of expense reports into accounting software.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-10",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

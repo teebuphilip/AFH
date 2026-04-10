@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors processing 5\u201315 projects/month",
+  "offer": "For construction contractors processing 5\u201315 projects/month, missed regulatory submissions cause project delays. We automate submissions instead of manual submission of regulatory documents.",
+  "problem": "Timely regulatory submissions are often missed, leading to project delays.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to construction contractors with demo video",
+    "Community forums for sharing tools and resources"
+  ],
+  "try_it": "Let users try status tracking for submissions and manual invoice entry",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short user interviews",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Provide one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

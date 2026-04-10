@@ -1,0 +1,16 @@
+{
+  "idea_text": "Tool that automatically converts sales commission data into payroll-ready formats for sales operations.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 66,
+  "arr_score": 64,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-10T10:53:27.858252",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

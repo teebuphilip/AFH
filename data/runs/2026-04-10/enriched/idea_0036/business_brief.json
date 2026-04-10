@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "billing specialists in medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For billing specialists in medical clinics processing 10\u201320 invoices/month, coding errors cause cash flow gaps. We provide an auditing service instead of manual audits of billing codes.",
+  "target_audience": "billing specialists in medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "Frequent insurance claim rejections due to incorrect billing codes.",
+  "features": [
+    "manual code entry validation",
+    "error reporting dashboard",
+    "claim rejection tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "billing specialists in medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "Frequent insurance claim rejections due to incorrect billing codes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For billing specialists in medical clinics processing 10\u201320 invoices/month, coding errors cause cash flow gaps. We provide an auditing service instead of manual audits of billing codes.",
+    "current_alternative": "manual audits of billing codes",
+    "must_have_features": [
+      "manual code entry validation",
+      "error reporting dashboard",
+      "claim rejection tracking"
+    ]
+  },
+  "one_liner": "For billing specialists in medical clinics processing 10\u201320 invoices/month, coding errors cause cash flow gaps. We provide an auditing service instead of manual audits of billing codes.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-10",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

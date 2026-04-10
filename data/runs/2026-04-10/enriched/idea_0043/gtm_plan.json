@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "field service billing clerks processing 10\u201320 invoices/month",
+  "offer": "For field service billing clerks processing 10\u201320 invoices/month, manual data entry causes late invoicing. We automate the conversion of job sheets into invoicing data instead of manual entry into accounting software.",
+  "problem": "manual data entry from job sheets to invoices",
+  "channels_free": [
+    "Post in Reddit communities for billing clerks",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to billing clerks with demo video",
+    "Community forums for billing tools and tips"
+  ],
+  "try_it": "Let users try manual data entry interface and invoice preview",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Provide default reminder schedule options",
+    "Enable CSV import for existing data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

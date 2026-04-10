@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, inefficient supplier performance tracking causes missed discounts. We provide automated monthly reports instead of manual tracking and spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in tracking supplier performance and identifying cost-saving opportunities.",
+  "features": [
+    "Supplier performance tracking",
+    "Cost-saving opportunity identification",
+    "Monthly report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in tracking supplier performance and identifying cost-saving opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, inefficient supplier performance tracking causes missed discounts. We provide automated monthly reports instead of manual tracking and spreadsheets.",
+    "current_alternative": "Manual tracking and spreadsheets",
+    "must_have_features": [
+      "Supplier performance tracking",
+      "Cost-saving opportunity identification",
+      "Monthly report generation"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, inefficient supplier performance tracking causes missed discounts. We provide automated monthly reports instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-10",
+    "overlay_score": 65,
+    "arr_score": 67
+  }
+}

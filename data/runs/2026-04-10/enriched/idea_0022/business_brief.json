@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "legal officers in law firms processing 5\u201315 contracts/month tool",
+  "description": "For legal officers in law firms processing 5\u201315 contracts/month, manual tracking of compliance metrics causes missed compliance deadlines. We provide automated compliance monitoring instead of manual tracking of compliance metrics.",
+  "target_audience": "legal officers in law firms processing 5\u201315 contracts/month",
+  "problem_solved": "Ensuring contract compliance and avoiding penalties.",
+  "features": [
+    "monthly compliance summary reports",
+    "email notifications for compliance issues",
+    "dashboard for tracking compliance metrics"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "legal officers in law firms processing 5\u201315 contracts/month",
+    "primary_problem": "Ensuring contract compliance and avoiding penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For legal officers in law firms processing 5\u201315 contracts/month, manual tracking of compliance metrics causes missed compliance deadlines. We provide automated compliance monitoring instead of manual tracking of compliance metrics.",
+    "current_alternative": "manual tracking of compliance metrics",
+    "must_have_features": [
+      "monthly compliance summary reports",
+      "email notifications for compliance issues",
+      "dashboard for tracking compliance metrics"
+    ]
+  },
+  "one_liner": "For legal officers in law firms processing 5\u201315 contracts/month, manual tracking of compliance metrics causes missed compliance deadlines. We provide automated compliance monitoring instead of manual tracking of compliance metrics.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-10",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

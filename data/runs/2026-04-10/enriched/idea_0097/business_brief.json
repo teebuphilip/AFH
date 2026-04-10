@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm administrators processing 5\u201315 legal documents/month tool",
+  "description": "For law firm administrators processing 5\u201315 legal documents/month, inefficient manual signature collection causes delays in client onboarding. We automate the signature process instead of manual signature collection via email or physical documents.",
+  "target_audience": "law firm administrators processing 5\u201315 legal documents/month",
+  "problem_solved": "Inefficient manual signature collection process",
+  "features": [
+    "signature request tracking",
+    "email notification system",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm administrators processing 5\u201315 legal documents/month",
+    "primary_problem": "Inefficient manual signature collection process",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm administrators processing 5\u201315 legal documents/month, inefficient manual signature collection causes delays in client onboarding. We automate the signature process instead of manual signature collection via email or physical documents.",
+    "current_alternative": "manual signature collection via email or physical documents",
+    "must_have_features": [
+      "signature request tracking",
+      "email notification system",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm administrators processing 5\u201315 legal documents/month, inefficient manual signature collection causes delays in client onboarding. We automate the signature process instead of manual signature collection via email or physical documents.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

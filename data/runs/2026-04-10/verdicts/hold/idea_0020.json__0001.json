@@ -1,0 +1,16 @@
+{
+  "idea_text": "Automation that generates weekly sales pipeline commission reports for sales operations managers.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 68,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-10T10:53:27.859729",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

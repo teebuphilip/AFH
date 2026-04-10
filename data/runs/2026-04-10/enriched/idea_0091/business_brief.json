@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 maintenance requests/month tool",
+  "description": "For property managers processing 5\u201315 maintenance requests/month, inefficient management causes delayed repairs. We streamline request handling instead of manual tracking via spreadsheets or emails.",
+  "target_audience": "property managers handling 5\u201315 maintenance requests/month",
+  "problem_solved": "Inefficient management of maintenance requests and contractor scheduling.",
+  "features": [
+    "request submission form",
+    "contractor scheduling calendar",
+    "notification system for updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 maintenance requests/month",
+    "primary_problem": "Inefficient management of maintenance requests and contractor scheduling.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 maintenance requests/month, inefficient management causes delayed repairs. We streamline request handling instead of manual tracking via spreadsheets or emails.",
+    "current_alternative": "manual tracking via spreadsheets or emails",
+    "must_have_features": [
+      "request submission form",
+      "contractor scheduling calendar",
+      "notification system for updates"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 maintenance requests/month, inefficient management causes delayed repairs. We streamline request handling instead of manual tracking via spreadsheets or emails.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-10",
+    "overlay_score": 69,
+    "arr_score": 68
+  }
+}

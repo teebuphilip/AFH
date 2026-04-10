@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 20\u201350 claims/month tool",
+  "description": "For insurance adjusters processing 20\u201350 claims/month, overlooked exceptions cause delayed claim resolutions. We monitor claims and flag exceptions instead of manual review of claims.",
+  "target_audience": "insurance adjusters processing 20\u201350 claims/month",
+  "problem_solved": "delayed claim processing due to overlooked exceptions",
+  "features": [
+    "exception flagging system",
+    "dashboard for claim status overview",
+    "manual claim entry option"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 20\u201350 claims/month",
+    "primary_problem": "delayed claim processing due to overlooked exceptions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 20\u201350 claims/month, overlooked exceptions cause delayed claim resolutions. We monitor claims and flag exceptions instead of manual review of claims.",
+    "current_alternative": "manual review of claims",
+    "must_have_features": [
+      "exception flagging system",
+      "dashboard for claim status overview",
+      "manual claim entry option"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 20\u201350 claims/month, overlooked exceptions cause delayed claim resolutions. We monitor claims and flag exceptions instead of manual review of claims.",
+  "source": {
+    "idea_id": "idea_0076",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

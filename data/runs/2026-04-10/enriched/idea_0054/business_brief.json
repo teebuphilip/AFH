@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 rental units tool",
+  "description": "For property managers handling 5\u201315 rental units, inefficient rent collection causes cash flow gaps. We automate rent collection and maintenance requests instead of manual tracking via spreadsheets and emails.",
+  "target_audience": "property managers handling 5\u201315 rental units",
+  "problem_solved": "Inefficient rent collection and maintenance request management",
+  "features": [
+    "maintenance request tracking",
+    "monthly financial statement generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 rental units",
+    "primary_problem": "Inefficient rent collection and maintenance request management",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 rental units, inefficient rent collection causes cash flow gaps. We automate rent collection and maintenance requests instead of manual tracking via spreadsheets and emails.",
+    "current_alternative": "manual tracking via spreadsheets and emails",
+    "must_have_features": [
+      "maintenance request tracking",
+      "monthly financial statement generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 rental units, inefficient rent collection causes cash flow gaps. We automate rent collection and maintenance requests instead of manual tracking via spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-10",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

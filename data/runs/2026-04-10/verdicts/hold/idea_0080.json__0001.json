@@ -1,0 +1,18 @@
+{
+  "idea_text": "A software service that automates restaurant payroll and HR reporting for back-office teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-10T10:53:27.868772",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-10T10:53:27.915133",
+  "hold_reason": "arr_70_89"
+}

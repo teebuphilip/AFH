@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 10-50 deliveries per day tool",
+  "description": "For logistics carriers managing 10-50 deliveries per day, inefficient routing causes delayed deliveries. We optimize logistics routes and generate driver schedules instead of manual route planning and scheduling.",
+  "target_audience": "logistics carriers managing 10-50 deliveries per day",
+  "problem_solved": "inefficient routing and scheduling leading to delayed deliveries",
+  "features": [
+    "route optimization algorithm",
+    "driver scheduling interface",
+    "delivery tracking dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 10-50 deliveries per day",
+    "primary_problem": "inefficient routing and scheduling leading to delayed deliveries",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 10-50 deliveries per day, inefficient routing causes delayed deliveries. We optimize logistics routes and generate driver schedules instead of manual route planning and scheduling.",
+    "current_alternative": "manual route planning and scheduling",
+    "must_have_features": [
+      "route optimization algorithm",
+      "driver scheduling interface",
+      "delivery tracking dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 10-50 deliveries per day, inefficient routing causes delayed deliveries. We optimize logistics routes and generate driver schedules instead of manual route planning and scheduling.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

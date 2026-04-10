@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant kitchen managers processing 5\u201315 inventory reports/week",
+  "offer": "For restaurant kitchen managers processing 5\u201315 inventory reports/week, inaccurate inventory tracking causes stockouts and overordering. We provide weekly inventory usage reports instead of manual tracking with spreadsheets.",
+  "problem": "Inaccurate inventory tracking leads to stockouts and overordering.",
+  "channels_free": [
+    "Post in Reddit communities for kitchen managers",
+    "Engage in Indie Hackers discussions on inventory tools",
+    "DM 20-50 kitchen managers with demo video",
+    "Join community forums for restaurant inventory management"
+  ],
+  "try_it": "Let users try manual entry for 1-3 inventory items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Provide one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

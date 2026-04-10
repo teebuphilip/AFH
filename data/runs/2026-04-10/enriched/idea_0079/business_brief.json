@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5-15 vehicles tool",
+  "description": "For logistics carriers managing 5-15 vehicles, inefficient tracking of vehicle maintenance causes unexpected breakdowns. We automate maintenance tracking instead of manual tracking via spreadsheets.",
+  "target_audience": "logistics carriers managing 5-15 vehicles",
+  "problem_solved": "Inefficient tracking of vehicle maintenance leading to unexpected breakdowns.",
+  "features": [
+    "manual entry of vehicle maintenance records",
+    "basic reporting on maintenance history",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5-15 vehicles",
+    "primary_problem": "Inefficient tracking of vehicle maintenance leading to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5-15 vehicles, inefficient tracking of vehicle maintenance causes unexpected breakdowns. We automate maintenance tracking instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry of vehicle maintenance records",
+      "basic reporting on maintenance history",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5-15 vehicles, inefficient tracking of vehicle maintenance causes unexpected breakdowns. We automate maintenance tracking instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0079",
+    "run_date": "2026-04-10",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

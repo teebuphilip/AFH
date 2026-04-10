@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 10-20 claims/month tool",
+  "description": "For insurance brokers processing 10-20 claims/month, delayed updates cause client dissatisfaction. We automate claim status tracking instead of manual follow-ups via phone or email.",
+  "target_audience": "insurance brokers managing 10-20 claims/month",
+  "problem_solved": "Lack of timely updates on claim statuses for clients",
+  "features": [
+    "dashboard for tracking claim statuses",
+    "manual entry option for claims not in the system",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 10-20 claims/month",
+    "primary_problem": "Lack of timely updates on claim statuses for clients",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 10-20 claims/month, delayed updates cause client dissatisfaction. We automate claim status tracking instead of manual follow-ups via phone or email.",
+    "current_alternative": "manual follow-ups via phone or email",
+    "must_have_features": [
+      "dashboard for tracking claim statuses",
+      "manual entry option for claims not in the system",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10-20 claims/month, delayed updates cause client dissatisfaction. We automate claim status tracking instead of manual follow-ups via phone or email.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

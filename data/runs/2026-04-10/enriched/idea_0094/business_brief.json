@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical office coordinators managing 50\u2013100 patient appointments/week tool",
+  "description": "For medical office coordinators processing 50\u2013100 patient appointments/week, missed reminders cause increased no-shows. We automate appointment reminders instead of manual reminder calls or texts.",
+  "target_audience": "medical office coordinators managing 50\u2013100 patient appointments/week",
+  "problem_solved": "Missed patient appointments due to lack of reminders.",
+  "features": [
+    "attendance tracking dashboard",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical office coordinators managing 50\u2013100 patient appointments/week",
+    "primary_problem": "Missed patient appointments due to lack of reminders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical office coordinators processing 50\u2013100 patient appointments/week, missed reminders cause increased no-shows. We automate appointment reminders instead of manual reminder calls or texts.",
+    "current_alternative": "manual reminder calls or texts",
+    "must_have_features": [
+      "attendance tracking dashboard",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For medical office coordinators processing 50\u2013100 patient appointments/week, missed reminders cause increased no-shows. We automate appointment reminders instead of manual reminder calls or texts.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

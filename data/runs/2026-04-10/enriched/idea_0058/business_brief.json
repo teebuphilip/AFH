@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized marketing agencies using BambooHR for employee management tool",
+  "description": "For HR managers in small to medium-sized marketing agencies processing 5\u201315 projects/month, inadequate staffing forecasts cause project delays. We provide proactive staffing alerts instead of manual tracking through spreadsheets.",
+  "target_audience": "HR managers in small to medium-sized marketing agencies using BambooHR for employee management",
+  "problem_solved": "Inability to effectively forecast staffing needs leading to project delays.",
+  "features": [
+    "Employee availability tracking",
+    "Coverage gap alerts",
+    "Staffing needs forecasting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized marketing agencies using BambooHR for employee management",
+    "primary_problem": "Inability to effectively forecast staffing needs leading to project delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized marketing agencies processing 5\u201315 projects/month, inadequate staffing forecasts cause project delays. We provide proactive staffing alerts instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking of employee availability through spreadsheets",
+    "must_have_features": [
+      "Employee availability tracking",
+      "Coverage gap alerts",
+      "Staffing needs forecasting"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized marketing agencies processing 5\u201315 projects/month, inadequate staffing forecasts cause project delays. We provide proactive staffing alerts instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-10",
+    "overlay_score": 70,
+    "arr_score": 69
+  }
+}

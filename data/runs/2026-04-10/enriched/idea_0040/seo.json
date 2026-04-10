@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "legal secretaries in law firms managing - client appointments per week missed tool",
+    "legal secretaries in law firms managing - client appointments per week missed automation",
+    "appointment scheduling",
+    "appointment tracking",
+    "legal secretaries in law firms managing 10-20 client appointments per week missed tool",
+    "legal secretaries in law firms managing 10-20 client appointments per week missed automation",
+    "legal secretaries in law firms managing 10-20 client appointments per week missed workflow"
+  ],
+  "secondary_keywords": [
+    "appointment scheduling software",
+    "appointment scheduling platform",
+    "appointment scheduling solution"
+  ],
+  "long_tail_keywords": [
+    "how to appointment scheduling",
+    "best appointment scheduling tool",
+    "appointment scheduling vs spreadsheets",
+    "appointment scheduling checklist",
+    "appointment scheduling pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For legal secretaries in law firms processing 10-20 client appointments per week, missed appointments cause client dissatisfaction. We automate appointment reminders instead of manual scheduling and reminders via email or phone.",
+    "missed client appointments and follow-ups",
+    "legal secretaries in law firms managing 10-20 client appointments per week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Appointment Scheduling",
+      "target_keyword": "how to appointment scheduling",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Appointment Scheduling Tool",
+      "target_keyword": "best appointment scheduling tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Appointment Scheduling Vs Spreadsheets",
+      "target_keyword": "appointment scheduling vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Appointment Scheduling Checklist",
+      "target_keyword": "appointment scheduling checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling Pricing",
+      "target_keyword": "appointment scheduling pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling Software",
+      "target_keyword": "appointment scheduling software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling Platform",
+      "target_keyword": "appointment scheduling platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling Solution",
+      "target_keyword": "appointment scheduling solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Scheduling",
+      "target_keyword": "appointment scheduling",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Appointment Tracking",
+      "target_keyword": "appointment tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Legal Secretaries In Law Firms Managing 10-20 Client Appointments Per Week Missed Tool",
+      "target_keyword": "legal secretaries in law firms managing 10-20 client appointments per week missed tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Legal Secretaries In Law Firms Managing 10-20 Client Appointments Per Week Missed Automation",
+      "target_keyword": "legal secretaries in law firms managing 10-20 client appointments per week missed automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "legal secretaries in law firms managing - client appointments per week missed tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "legal secretaries in law firms managing - client appointments per week missed tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "legal secretaries in law firms managing - client appointments per week missed tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "legal secretaries in law firms managing - client appointments per week missed tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "legal secretaries in law firms managing - client appointments per week missed tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | legal secretaries in law firms managing - client appointments per week tool",
+      "legal secretaries in law firms managing - client appointments per week tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "legal secretaries in law firms managing - client appointments per week tool helps with missed client appointments and follow-ups."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

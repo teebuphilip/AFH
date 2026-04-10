@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, inefficient scheduling causes project delays. We automate scheduling and confirmations instead of manual scheduling and confirmation processes.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Inefficient scheduling leads to project delays and increased costs.",
+  "features": [
+    "simple scheduling interface",
+    "job completion confirmation tracking",
+    "notification system for technicians"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Inefficient scheduling leads to project delays and increased costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, inefficient scheduling causes project delays. We automate scheduling and confirmations instead of manual scheduling and confirmation processes.",
+    "current_alternative": "manual scheduling and confirmation processes",
+    "must_have_features": [
+      "simple scheduling interface",
+      "job completion confirmation tracking",
+      "notification system for technicians"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, inefficient scheduling causes project delays. We automate scheduling and confirmations instead of manual scheduling and confirmation processes.",
+  "source": {
+    "idea_id": "idea_0033",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

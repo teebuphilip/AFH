@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations in small marketing agencies processing 5\u201315 timesheets/month tool",
+  "description": "For HR operations in small marketing agencies processing 5\u201315 timesheets/month, unmonitored overtime causes compliance issues. We alert HR when overtime exceeds limits instead of manual tracking of timesheets and overtime calculations.",
+  "target_audience": "HR operations in small marketing agencies processing 5\u201315 timesheets/month",
+  "problem_solved": "Overtime management and compliance with labor laws",
+  "features": [
+    "manual entry of timesheets",
+    "overtime alert notifications",
+    "report generation for HR review"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations in small marketing agencies processing 5\u201315 timesheets/month",
+    "primary_problem": "Overtime management and compliance with labor laws",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations in small marketing agencies processing 5\u201315 timesheets/month, unmonitored overtime causes compliance issues. We alert HR when overtime exceeds limits instead of manual tracking of timesheets and overtime calculations.",
+    "current_alternative": "manual tracking of timesheets and overtime calculations",
+    "must_have_features": [
+      "manual entry of timesheets",
+      "overtime alert notifications",
+      "report generation for HR review"
+    ]
+  },
+  "one_liner": "For HR operations in small marketing agencies processing 5\u201315 timesheets/month, unmonitored overtime causes compliance issues. We alert HR when overtime exceeds limits instead of manual tracking of timesheets and overtime calculations.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

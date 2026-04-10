@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual document handling causes late compliance submissions. We automate tax document extraction and formatting instead of manual document handling and formatting.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in managing supplier tax documents for compliance.",
+  "features": [
+    "basic formatting options",
+    "monthly report generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in managing supplier tax documents for compliance.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual document handling causes late compliance submissions. We automate tax document extraction and formatting instead of manual document handling and formatting.",
+    "current_alternative": "manual document handling and formatting",
+    "must_have_features": [
+      "basic formatting options",
+      "monthly report generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual document handling causes late compliance submissions. We automate tax document extraction and formatting instead of manual document handling and formatting.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-10",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

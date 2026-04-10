@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics supervisors at freight brokers processing 10\u201350 shipments/week",
+  "offer": "For logistics supervisors at freight brokers processing 10\u201350 shipments/week, delivery delays cause missed deadlines. We automatically flag delays instead of manual tracking and reporting of delivery times.",
+  "problem": "Inability to track delivery delays in real-time, leading to missed deadlines.",
+  "channels_free": [
+    "Post in Reddit communities for logistics supervisors",
+    "Engage in Indie Hackers discussions on logistics tools",
+    "DM outreach with demo video to logistics supervisors",
+    "Participate in community forums for logistics discussions"
+  ],
+  "try_it": "Let users try weekly delivery time reports and manual entry for exceptional cases on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small to medium-sized marketing agencies using BambooHR for employee management",
+  "offer": "For HR managers in small to medium-sized marketing agencies processing 5\u201315 projects/month, inadequate staffing forecasts cause project delays. We provide proactive staffing alerts instead of manual tracking through spreadsheets.",
+  "problem": "Inability to effectively forecast staffing needs leading to project delays.",
+  "channels_free": [
+    "Post in Reddit communities for HR managers",
+    "Indie Hackers posts about staffing solutions",
+    "DM outreach to HR managers with demo video",
+    "Engage in community forums for HR tools"
+  ],
+  "try_it": "Let users try employee tracking and gap alerts for free",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the tool",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as user-friendly templates",
+    "Set default reminders for alerts",
+    "Allow CSV import for easy data entry",
+    "Enable one-click report exports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

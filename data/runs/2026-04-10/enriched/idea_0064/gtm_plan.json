@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 20-50 shipments/month",
+  "offer": "For Amazon sellers processing 20-50 shipments/month, stock shortages cause lost sales. We provide real-time inventory monitoring instead of manual inventory tracking and alerts via email.",
+  "problem": "Stock shortages leading to lost sales",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Engage in Indie Hackers discussions about inventory",
+    "DM outreach with demo video to Amazon sellers",
+    "Share insights in community forums for Amazon sellers"
+  ],
+  "try_it": "Let users try real-time inventory monitoring on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short user interviews",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

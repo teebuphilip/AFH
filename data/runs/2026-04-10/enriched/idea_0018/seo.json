@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firms monitoring tool",
+    "accounting firms monitoring automation",
+    "billing workflow",
+    "claims tracking",
+    "accounting firms processing 10 20 expense claims week monitoring tool",
+    "accounting firms processing 10 20 expense claims week monitoring automation",
+    "accounting firms processing 10 20 expense claims week monitoring workflow"
+  ],
+  "secondary_keywords": [
+    "billing workflow software",
+    "billing workflow platform",
+    "billing workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to billing workflow",
+    "best billing workflow tool",
+    "billing workflow vs spreadsheets",
+    "billing workflow checklist",
+    "billing workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firms processing 10\u201320 expense claims/week, policy violations cause cash flow gaps. We monitor expense claims instead of manual review of expense claims.",
+    "Monitoring employee expense claims for policy compliance",
+    "accounting firms processing 10\u201320 expense claims/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Billing Workflow",
+      "target_keyword": "how to billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Billing Workflow Tool",
+      "target_keyword": "best billing workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Vs Spreadsheets",
+      "target_keyword": "billing workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Checklist",
+      "target_keyword": "billing workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Pricing",
+      "target_keyword": "billing workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Software",
+      "target_keyword": "billing workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Platform",
+      "target_keyword": "billing workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Solution",
+      "target_keyword": "billing workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow",
+      "target_keyword": "billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Claims Tracking",
+      "target_keyword": "claims tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accounting Firms Processing 10 20 Expense Claims Week Monitoring Tool",
+      "target_keyword": "accounting firms processing 10 20 expense claims week monitoring tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 20 Expense Claims Week Monitoring Automation",
+      "target_keyword": "accounting firms processing 10 20 expense claims week monitoring automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firms monitoring tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firms monitoring tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firms monitoring tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firms monitoring tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firms monitoring tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firms tool",
+      "accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firms tool helps with monitoring employee expense claims for policy compliance."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

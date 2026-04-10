@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201350 transactions/month",
+  "offer": "For Amazon sellers processing 10\u201350 transactions/month, fraudulent transactions cause financial losses. We provide a fraud detection system instead of manual transaction monitoring.",
+  "problem": "Fraudulent transactions leading to financial losses",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to Amazon sellers with demo video",
+    "Community forums for Amazon seller tools"
+  ],
+  "try_it": "Let users try real-time alerts on a few transactions",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first users",
+    "Post weekly progress in relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of reports",
+    "Fewer steps in onboarding"
+  ]
+}

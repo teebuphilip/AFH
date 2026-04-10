@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10-20 clients tool",
+  "description": "For accounting firms managing 10-20 clients, manual depreciation calculations cause compliance risks. We automate depreciation calculations instead of spreadsheets and manual tracking.",
+  "target_audience": "accounting firms managing 10-20 clients",
+  "problem_solved": "Manual depreciation calculations lead to errors and compliance risks.",
+  "features": [
+    "compliance report generation",
+    "asset change notifications",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10-20 clients",
+    "primary_problem": "Manual depreciation calculations lead to errors and compliance risks.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10-20 clients, manual depreciation calculations cause compliance risks. We automate depreciation calculations instead of spreadsheets and manual tracking.",
+    "current_alternative": "spreadsheets and manual tracking",
+    "must_have_features": [
+      "compliance report generation",
+      "asset change notifications",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10-20 clients, manual depreciation calculations cause compliance risks. We automate depreciation calculations instead of spreadsheets and manual tracking.",
+  "source": {
+    "idea_id": "idea_0059",
+    "run_date": "2026-04-10",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

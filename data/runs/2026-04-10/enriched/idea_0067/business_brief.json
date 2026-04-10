@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201350 orders/month tool",
+  "description": "For Shopify sellers processing 10\u201350 orders/month, data fragmentation causes inconsistent customer profiles. We provide unified customer profiles instead of manual data entry and reconciliation.",
+  "target_audience": "Shopify sellers processing 10\u201350 orders/month",
+  "problem_solved": "Data fragmentation leading to inconsistent customer profiles",
+  "features": [
+    "Data aggregation from multiple sources",
+    "Data cleansing capabilities",
+    "User-friendly interface for profile management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201350 orders/month",
+    "primary_problem": "Data fragmentation leading to inconsistent customer profiles",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201350 orders/month, data fragmentation causes inconsistent customer profiles. We provide unified customer profiles instead of manual data entry and reconciliation.",
+    "current_alternative": "Manual data entry and reconciliation",
+    "must_have_features": [
+      "Data aggregation from multiple sources",
+      "Data cleansing capabilities",
+      "User-friendly interface for profile management"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201350 orders/month, data fragmentation causes inconsistent customer profiles. We provide unified customer profiles instead of manual data entry and reconciliation.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 66
+  }
+}

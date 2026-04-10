@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers overseeing 5\u201315 locations tool",
+  "description": "For restaurant managers overseeing 5\u201315 locations, compliance risks from health inspection scores cause potential fines and operational disruptions. We provide real-time alerts instead of manual tracking of health inspection scores.",
+  "target_audience": "restaurant managers overseeing 5\u201315 locations",
+  "problem_solved": "Compliance risks from health inspection scores.",
+  "features": [
+    "real-time score monitoring",
+    "compliance risk reporting",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers overseeing 5\u201315 locations",
+    "primary_problem": "Compliance risks from health inspection scores.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For restaurant managers overseeing 5\u201315 locations, compliance risks from health inspection scores cause potential fines and operational disruptions. We provide real-time alerts instead of manual tracking of health inspection scores.",
+    "current_alternative": "manual tracking of health inspection scores",
+    "must_have_features": [
+      "real-time score monitoring",
+      "compliance risk reporting",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant managers overseeing 5\u201315 locations, compliance risks from health inspection scores cause potential fines and operational disruptions. We provide real-time alerts instead of manual tracking of health inspection scores.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-10",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

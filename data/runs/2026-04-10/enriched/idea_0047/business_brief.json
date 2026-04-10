@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "paralegals in law firms managing 5\u201315 cases/month tool",
+  "description": "For paralegals in law firms processing 5\u201315 cases/month, missed deadlines cause compliance issues. We auto-generate compliance reminder emails instead of manual tracking and reminder systems.",
+  "target_audience": "paralegals in law firms managing 5\u201315 cases/month",
+  "problem_solved": "Difficulty in tracking legal case deadlines and ensuring compliance.",
+  "features": [
+    "Deadline tracking system",
+    "Email reminder generation",
+    "User-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "paralegals in law firms managing 5\u201315 cases/month",
+    "primary_problem": "Difficulty in tracking legal case deadlines and ensuring compliance.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For paralegals in law firms processing 5\u201315 cases/month, missed deadlines cause compliance issues. We auto-generate compliance reminder emails instead of manual tracking and reminder systems.",
+    "current_alternative": "manual tracking and reminder systems",
+    "must_have_features": [
+      "Deadline tracking system",
+      "Email reminder generation",
+      "User-friendly dashboard"
+    ]
+  },
+  "one_liner": "For paralegals in law firms processing 5\u201315 cases/month, missed deadlines cause compliance issues. We auto-generate compliance reminder emails instead of manual tracking and reminder systems.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-10",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201320 clients tool",
+  "description": "For accounting firms managing 10\u201320 clients, manual data entry causes cash flow gaps. We automate cash flow forecasting instead of manual spreadsheet calculations.",
+  "target_audience": "accounting firms managing 10\u201320 clients",
+  "problem_solved": "Inaccurate cash flow forecasts due to manual data entry.",
+  "features": [
+    "weekly cash flow report generation",
+    "email notifications to finance ops teams",
+    "data import from accounting software"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201320 clients",
+    "primary_problem": "Inaccurate cash flow forecasts due to manual data entry.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201320 clients, manual data entry causes cash flow gaps. We automate cash flow forecasting instead of manual spreadsheet calculations.",
+    "current_alternative": "manual spreadsheet calculations",
+    "must_have_features": [
+      "weekly cash flow report generation",
+      "email notifications to finance ops teams",
+      "data import from accounting software"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201320 clients, manual data entry causes cash flow gaps. We automate cash flow forecasting instead of manual spreadsheet calculations.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-10",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations leaders in mid-sized tech companies using BambooHR tool",
+  "description": "For HR operations leaders in mid-sized tech companies using BambooHR processing 50\u2013100 employees, inefficient data analysis causes poor retention strategies. We provide actionable insights instead of manual spreadsheets and reports.",
+  "target_audience": "HR operations leaders in mid-sized tech companies using BambooHR",
+  "problem_solved": "Inability to effectively analyze employee data for strategic decision-making.",
+  "features": [
+    "employee data aggregation",
+    "trend identification",
+    "report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations leaders in mid-sized tech companies using BambooHR",
+    "primary_problem": "Inability to effectively analyze employee data for strategic decision-making.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations leaders in mid-sized tech companies using BambooHR processing 50\u2013100 employees, inefficient data analysis causes poor retention strategies. We provide actionable insights instead of manual spreadsheets and reports.",
+    "current_alternative": "manual spreadsheets and reports",
+    "must_have_features": [
+      "employee data aggregation",
+      "trend identification",
+      "report generation"
+    ]
+  },
+  "one_liner": "For HR operations leaders in mid-sized tech companies using BambooHR processing 50\u2013100 employees, inefficient data analysis causes poor retention strategies. We provide actionable insights instead of manual spreadsheets and reports.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-10",
+    "overlay_score": 54,
+    "arr_score": 54
+  }
+}

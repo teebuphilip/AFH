@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "CFOs of small marketing agencies processing 5\u201315 invoices/month tool",
+  "description": "For CFOs of small marketing agencies processing 5\u201315 invoices/month, manual tracking causes cash flow gaps. We automate tracking instead of manual tracking through spreadsheets.",
+  "target_audience": "CFOs of small marketing agencies processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in tracking and managing recurring subscription expenses",
+  "features": [
+    "Monthly expense reporting",
+    "User-friendly dashboard for expense overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "CFOs of small marketing agencies processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in tracking and managing recurring subscription expenses",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For CFOs of small marketing agencies processing 5\u201315 invoices/month, manual tracking causes cash flow gaps. We automate tracking instead of manual tracking through spreadsheets.",
+    "current_alternative": "Manual tracking through spreadsheets",
+    "must_have_features": [
+      "Monthly expense reporting",
+      "User-friendly dashboard for expense overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For CFOs of small marketing agencies processing 5\u201315 invoices/month, manual tracking causes cash flow gaps. We automate tracking instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-10",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

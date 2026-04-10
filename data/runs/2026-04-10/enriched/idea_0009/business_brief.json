@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Operations Managers at SaaS companies processing 10-20 commission reports/month tool",
+  "description": "For Sales Operations Managers at SaaS companies processing 10-20 commission reports/month, manual data entry causes payroll delays. We automate commission data conversion instead of manual data entry and spreadsheet management.",
+  "target_audience": "Sales Operations Managers at SaaS companies processing 10-20 commission reports/month",
+  "problem_solved": "Manual conversion of commission data into payroll formats is time-consuming and error-prone.",
+  "features": [
+    "User-friendly interface for data input",
+    "Export functionality to common payroll formats",
+    "Basic error-checking for data accuracy"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Operations Managers at SaaS companies processing 10-20 commission reports/month",
+    "primary_problem": "Manual conversion of commission data into payroll formats is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Managers at SaaS companies processing 10-20 commission reports/month, manual data entry causes payroll delays. We automate commission data conversion instead of manual data entry and spreadsheet management.",
+    "current_alternative": "Manual data entry and spreadsheet management",
+    "must_have_features": [
+      "User-friendly interface for data input",
+      "Export functionality to common payroll formats",
+      "Basic error-checking for data accuracy"
+    ]
+  },
+  "one_liner": "For Sales Operations Managers at SaaS companies processing 10-20 commission reports/month, manual data entry causes payroll delays. We automate commission data conversion instead of manual data entry and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-10",
+    "overlay_score": 66,
+    "arr_score": 64
+  }
+}

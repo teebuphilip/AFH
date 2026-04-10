@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 tenant invoices/month tool",
+  "description": "For property managers processing 5\u201315 invoices/month, late rent payments cause cash flow gaps. We automate late notice reminders instead of manual tracking of rent payments and reminders.",
+  "target_audience": "property managers handling 5\u201315 tenant invoices/month",
+  "problem_solved": "Late rent payments and reminders",
+  "features": [
+    "manual entry of tenant payment data",
+    "dashboard for tracking payment status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 tenant invoices/month",
+    "primary_problem": "Late rent payments and reminders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 invoices/month, late rent payments cause cash flow gaps. We automate late notice reminders instead of manual tracking of rent payments and reminders.",
+    "current_alternative": "manual tracking of rent payments and reminders",
+    "must_have_features": [
+      "manual entry of tenant payment data",
+      "dashboard for tracking payment status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 invoices/month, late rent payments cause cash flow gaps. We automate late notice reminders instead of manual tracking of rent payments and reminders.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-10",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

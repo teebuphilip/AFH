@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 utility invoices/month tool",
+  "description": "For property managers processing 5\u201315 invoices/month, inaccurate utility bill reconciliation causes financial discrepancies. We provide automated alerts instead of manual reconciliation of utility bills with property management records.",
+  "target_audience": "property managers handling 5\u201315 utility invoices/month",
+  "problem_solved": "Inaccurate utility bill reconciliation leading to financial discrepancies.",
+  "features": [
+    "manual entry of utility bills",
+    "monthly alert system for discrepancies",
+    "basic reporting of reconciled bills"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 utility invoices/month",
+    "primary_problem": "Inaccurate utility bill reconciliation leading to financial discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 invoices/month, inaccurate utility bill reconciliation causes financial discrepancies. We provide automated alerts instead of manual reconciliation of utility bills with property management records.",
+    "current_alternative": "manual reconciliation of utility bills with property management records",
+    "must_have_features": [
+      "manual entry of utility bills",
+      "monthly alert system for discrepancies",
+      "basic reporting of reconciled bills"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 invoices/month, inaccurate utility bill reconciliation causes financial discrepancies. We provide automated alerts instead of manual reconciliation of utility bills with property management records.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-10",
+    "overlay_score": 82,
+    "arr_score": 82
+  }
+}

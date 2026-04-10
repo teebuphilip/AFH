@@ -1,0 +1,15 @@
+{
+  "idea_text": "Automation that extracts key data from insurance claim forms and pre-fills regulatory reports.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-10T10:53:27.861703",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in freight brokerage firms managing 5-10 vehicles tool",
+  "description": "For logistics managers in freight brokerage firms processing 5-10 vehicles, inefficient mileage tracking causes missed service deadlines. We provide automated mileage monitoring instead of manual tracking through spreadsheets.",
+  "target_audience": "logistics managers in freight brokerage firms managing 5-10 vehicles",
+  "problem_solved": "Inability to track vehicle mileage and service schedules effectively.",
+  "features": [
+    "Mileage tracking dashboard",
+    "Service due date alerts",
+    "Manual entry option for mileage"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in freight brokerage firms managing 5-10 vehicles",
+    "primary_problem": "Inability to track vehicle mileage and service schedules effectively.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in freight brokerage firms processing 5-10 vehicles, inefficient mileage tracking causes missed service deadlines. We provide automated mileage monitoring instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "Mileage tracking dashboard",
+      "Service due date alerts",
+      "Manual entry option for mileage"
+    ]
+  },
+  "one_liner": "For logistics managers in freight brokerage firms processing 5-10 vehicles, inefficient mileage tracking causes missed service deadlines. We provide automated mileage monitoring instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

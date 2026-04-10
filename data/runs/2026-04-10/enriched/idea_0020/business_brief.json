@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Operations Managers in Marketing Agencies processing 10\u201320 sales reports/week tool",
+  "description": "For Sales Operations Managers in Marketing Agencies processing 10\u201320 sales reports/week, inconsistent reporting causes cash flow gaps. We automate commission report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "Sales Operations Managers in Marketing Agencies processing 10\u201320 sales reports/week",
+  "problem_solved": "Inconsistent and delayed commission reporting",
+  "features": [
+    "Template for weekly commission reports",
+    "Manual entry option for adjustments",
+    "Export functionality to CSV"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Operations Managers in Marketing Agencies processing 10\u201320 sales reports/week",
+    "primary_problem": "Inconsistent and delayed commission reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Managers in Marketing Agencies processing 10\u201320 sales reports/week, inconsistent reporting causes cash flow gaps. We automate commission report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "Manual report generation using spreadsheets",
+    "must_have_features": [
+      "Template for weekly commission reports",
+      "Manual entry option for adjustments",
+      "Export functionality to CSV"
+    ]
+  },
+  "one_liner": "For Sales Operations Managers in Marketing Agencies processing 10\u201320 sales reports/week, inconsistent reporting causes cash flow gaps. We automate commission report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-10",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR operations in small marketing agencies processing 5\u201315 timesheets/month",
+  "offer": "For HR operations in small marketing agencies processing 5\u201315 timesheets/month, unmonitored overtime causes compliance issues. We alert HR when overtime exceeds limits instead of manual tracking of timesheets and overtime calculations.",
+  "problem": "Overtime management and compliance with labor laws",
+  "channels_free": [
+    "Post in Reddit communities for HR operations help",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "DM outreach to HR operations with demo video",
+    "Contribute to community forums for HR tools"
+  ],
+  "try_it": "Let users try manual entry of timesheets and alerts",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Set default reminder schedules for alerts",
+    "Allow CSV import for existing timesheet data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

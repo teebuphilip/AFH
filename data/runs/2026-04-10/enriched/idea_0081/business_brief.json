@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm paralegals processing 5\u201315 legal documents/week tool",
+  "description": "For law firm paralegals processing 5\u201315 legal documents/week, inconsistent document formatting causes filing delays. We automate formatting instead of manual formatting by paralegals.",
+  "target_audience": "law firm paralegals processing 5\u201315 legal documents/week",
+  "problem_solved": "Inconsistent document formatting leads to filing delays.",
+  "features": [
+    "formatting template selection",
+    "downloadable formatted documents",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm paralegals processing 5\u201315 legal documents/week",
+    "primary_problem": "Inconsistent document formatting leads to filing delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm paralegals processing 5\u201315 legal documents/week, inconsistent document formatting causes filing delays. We automate formatting instead of manual formatting by paralegals.",
+    "current_alternative": "manual formatting by paralegals",
+    "must_have_features": [
+      "formatting template selection",
+      "downloadable formatted documents",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm paralegals processing 5\u201315 legal documents/week, inconsistent document formatting causes filing delays. We automate formatting instead of manual formatting by paralegals.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

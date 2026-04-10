@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual expense reporting causes cash flow gaps. We automate expense reporting instead of manual expense tracking and reporting.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Manual expense reporting is time-consuming and error-prone.",
+  "features": [
+    "simple expense entry form",
+    "weekly summary email",
+    "basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Manual expense reporting is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual expense reporting causes cash flow gaps. We automate expense reporting instead of manual expense tracking and reporting.",
+    "current_alternative": "manual expense tracking and reporting",
+    "must_have_features": [
+      "simple expense entry form",
+      "weekly summary email",
+      "basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual expense reporting causes cash flow gaps. We automate expense reporting instead of manual expense tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0051",
+    "run_date": "2026-04-10",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

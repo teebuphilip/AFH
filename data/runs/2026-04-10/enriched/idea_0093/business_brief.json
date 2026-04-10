@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201310 projects simultaneously tool",
+  "description": "For construction contractors processing 5\u201310 projects simultaneously, inconsistent reporting causes client dissatisfaction. We automate progress reporting instead of manual reporting through spreadsheets and emails.",
+  "target_audience": "construction contractors managing 5\u201310 projects simultaneously",
+  "problem_solved": "Inconsistent reporting on project progress leads to client dissatisfaction and potential penalties.",
+  "features": [
+    "manual data entry for job site updates",
+    "template-based report generation",
+    "email notifications for report completion"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201310 projects simultaneously",
+    "primary_problem": "Inconsistent reporting on project progress leads to client dissatisfaction and potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201310 projects simultaneously, inconsistent reporting causes client dissatisfaction. We automate progress reporting instead of manual reporting through spreadsheets and emails.",
+    "current_alternative": "manual reporting through spreadsheets and emails",
+    "must_have_features": [
+      "manual data entry for job site updates",
+      "template-based report generation",
+      "email notifications for report completion"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201310 projects simultaneously, inconsistent reporting causes client dissatisfaction. We automate progress reporting instead of manual reporting through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

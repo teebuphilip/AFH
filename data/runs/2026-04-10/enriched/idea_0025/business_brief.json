@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/week tool",
+  "description": "For accounting firms processing 10\u201320 invoices/week, approval delays cause cash flow gaps. We automate tracking instead of manual tracking via spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/week",
+  "problem_solved": "Delays in vendor invoice approvals",
+  "features": [
+    "Weekly status reporting",
+    "Email notifications for pending approvals",
+    "Dashboard for invoice tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/week",
+    "primary_problem": "Delays in vendor invoice approvals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/week, approval delays cause cash flow gaps. We automate tracking instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "Weekly status reporting",
+      "Email notifications for pending approvals",
+      "Dashboard for invoice tracking"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/week, approval delays cause cash flow gaps. We automate tracking instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-10",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

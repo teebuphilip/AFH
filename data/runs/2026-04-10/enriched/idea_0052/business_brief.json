@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, manual timesheet errors cause payroll discrepancies. We provide automated payroll reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Discrepancies in payroll calculations due to manual timesheet errors.",
+  "features": [
+    "timesheet monitoring",
+    "discrepancy alerts",
+    "payroll calculation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Discrepancies in payroll calculations due to manual timesheet errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, manual timesheet errors cause payroll discrepancies. We provide automated payroll reconciliation instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "timesheet monitoring",
+      "discrepancy alerts",
+      "payroll calculation"
+    ]
+  },
+  "one_liner": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, manual timesheet errors cause payroll discrepancies. We provide automated payroll reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-10",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

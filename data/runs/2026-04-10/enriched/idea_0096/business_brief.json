@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in restaurants with 10-50 employees tool",
+  "description": "For HR managers in restaurants processing 10-50 employees, inefficient scheduling causes staff shortages. We automate scheduling instead of using spreadsheets and manual tracking.",
+  "target_audience": "HR managers in restaurants with 10-50 employees",
+  "problem_solved": "Inefficient manual scheduling and time-off request processes",
+  "features": [
+    "User-friendly interface for scheduling",
+    "Time-off request management",
+    "Notification system for schedule changes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in restaurants with 10-50 employees",
+    "primary_problem": "Inefficient manual scheduling and time-off request processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in restaurants processing 10-50 employees, inefficient scheduling causes staff shortages. We automate scheduling instead of using spreadsheets and manual tracking.",
+    "current_alternative": "spreadsheets and manual tracking",
+    "must_have_features": [
+      "User-friendly interface for scheduling",
+      "Time-off request management",
+      "Notification system for schedule changes"
+    ]
+  },
+  "one_liner": "For HR managers in restaurants processing 10-50 employees, inefficient scheduling causes staff shortages. We automate scheduling instead of using spreadsheets and manual tracking.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

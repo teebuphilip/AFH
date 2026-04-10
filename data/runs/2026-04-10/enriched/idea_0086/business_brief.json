@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 20\u201350 patient intake forms/month tool",
+  "description": "For medical clinics processing 20\u201350 patient intake forms/month, inefficient manual generation causes billing delays. We automate form generation and submission instead of manual form generation and submission by staff.",
+  "target_audience": "medical clinics processing 20\u201350 patient intake forms/month",
+  "problem_solved": "Inefficient manual generation and submission of patient intake forms",
+  "features": [
+    "template-based form generation",
+    "user-friendly interface for staff",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 20\u201350 patient intake forms/month",
+    "primary_problem": "Inefficient manual generation and submission of patient intake forms",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 20\u201350 patient intake forms/month, inefficient manual generation causes billing delays. We automate form generation and submission instead of manual form generation and submission by staff.",
+    "current_alternative": "manual form generation and submission by staff",
+    "must_have_features": [
+      "template-based form generation",
+      "user-friendly interface for staff",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 20\u201350 patient intake forms/month, inefficient manual generation causes billing delays. We automate form generation and submission instead of manual form generation and submission by staff.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

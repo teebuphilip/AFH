@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm billing administrators processing 10\u201320 invoices/month tool",
+  "description": "For law firm billing administrators processing 10\u201320 invoices/month, manual entry causes cash flow gaps. We automate invoice generation instead of manual invoicing processes using spreadsheets.",
+  "target_audience": "law firm billing administrators processing 10\u201320 invoices/month",
+  "problem_solved": "Manual conversion of time entries to invoices is time-consuming and error-prone.",
+  "features": [
+    "time entry import functionality",
+    "invoice template customization",
+    "manual review option before sending invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm billing administrators processing 10\u201320 invoices/month",
+    "primary_problem": "Manual conversion of time entries to invoices is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm billing administrators processing 10\u201320 invoices/month, manual entry causes cash flow gaps. We automate invoice generation instead of manual invoicing processes using spreadsheets.",
+    "current_alternative": "manual invoicing processes using spreadsheets",
+    "must_have_features": [
+      "time entry import functionality",
+      "invoice template customization",
+      "manual review option before sending invoices"
+    ]
+  },
+  "one_liner": "For law firm billing administrators processing 10\u201320 invoices/month, manual entry causes cash flow gaps. We automate invoice generation instead of manual invoicing processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-10",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized marketing agencies processing 10-20 vendor contracts/month tool",
+  "description": "For procurement managers in mid-sized marketing agencies processing 10-20 vendor contracts/month, missed contract renewals cause service disruptions. We provide timely alerts instead of manual tracking with spreadsheets.",
+  "target_audience": "procurement managers in mid-sized marketing agencies processing 10-20 vendor contracts/month",
+  "problem_solved": "Missed contract renewal dates leading to service disruptions and potential penalties.",
+  "features": [
+    "manual entry of contract details",
+    "email notifications for upcoming renewals",
+    "dashboard for tracking contract statuses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized marketing agencies processing 10-20 vendor contracts/month",
+    "primary_problem": "Missed contract renewal dates leading to service disruptions and potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized marketing agencies processing 10-20 vendor contracts/month, missed contract renewals cause service disruptions. We provide timely alerts instead of manual tracking with spreadsheets.",
+    "current_alternative": "manual tracking of contract dates using spreadsheets",
+    "must_have_features": [
+      "manual entry of contract details",
+      "email notifications for upcoming renewals",
+      "dashboard for tracking contract statuses"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized marketing agencies processing 10-20 vendor contracts/month, missed contract renewals cause service disruptions. We provide timely alerts instead of manual tracking with spreadsheets.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

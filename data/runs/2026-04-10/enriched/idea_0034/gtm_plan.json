@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance brokers processing 10\u201320 claims/month",
+  "offer": "For insurance brokers processing 10\u201320 claims/month, manual data entry causes reporting delays. We automate data extraction instead of manual data entry and reporting.",
+  "problem": "Manual data entry from claim forms leads to errors and delays in reporting.",
+  "channels_free": [
+    "Post in Reddit communities for insurance brokers",
+    "Engage on Indie Hackers about similar workflows",
+    "DM outreach to insurance brokers with demo video",
+    "Share insights in community forums for brokers"
+  ],
+  "try_it": "Let users try data extraction from claim forms on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

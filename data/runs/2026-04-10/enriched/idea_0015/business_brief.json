@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR payroll administrators in small accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR payroll administrators in small accounting firms processing 5\u201315 payrolls/month, manual payroll processing causes errors in tax filings. We automate tax filing instead of manual tax filing processes using spreadsheets.",
+  "target_audience": "HR payroll administrators in small accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Manual payroll processing leads to errors in tax filings.",
+  "features": [
+    "formatted tax filing generation",
+    "error-checking mechanism",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR payroll administrators in small accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Manual payroll processing leads to errors in tax filings.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR payroll administrators in small accounting firms processing 5\u201315 payrolls/month, manual payroll processing causes errors in tax filings. We automate tax filing instead of manual tax filing processes using spreadsheets.",
+    "current_alternative": "manual tax filing processes using spreadsheets",
+    "must_have_features": [
+      "formatted tax filing generation",
+      "error-checking mechanism",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR payroll administrators in small accounting firms processing 5\u201315 payrolls/month, manual payroll processing causes errors in tax filings. We automate tax filing instead of manual tax filing processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-10",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,39 @@
+→ Running: claude_created_1.0_generate_ideas.py
+✅ Wrote:
+  /home/runner/work/AFH/AFH/data/runs/2026-04-10/raw/chatgpt_2026-04-10.jsonl
+  /home/runner/work/AFH/AFH/data/runs/2026-04-10/raw/claude_2026-04-10.jsonl
+
+✅ claude_created_1.0_generate_ideas.py completed
+→ Running: claude_created_2.0_normalize_and_dedup.py
+✅ Normalized and deduped 99 ideas to data/runs/2026-04-10/normalized
+
+✅ claude_created_2.0_normalize_and_dedup.py completed
+→ Running: claude_created_3.0_score_overlay_and_arr.py
+✅ claude_created_3.0_score_overlay_and_arr.py completed
+→ Running: codex_created_12.0_enrich_scored_ideas.py
+Enriched 99 ideas. Failures: 0
+
+✅ codex_created_12.0_enrich_scored_ideas.py completed
+→ Running: codex_created_14.0_generate_static_idea_pages.py
+Wrote 0 static pages to static/ideas
+
+✅ codex_created_14.0_generate_static_idea_pages.py completed
+→ Running: claude_created_4.2_verdict_routing.py
+Dynamic KEEP cutoff (top 100 in 30d): 79.0
+Verdict routing complete. Processed 99 files. Wrote 99 idea files.
+Global KEEP cap enforced at 100 in 30d window
+
+✅ claude_created_4.2_verdict_routing.py completed
+→ Running: claude_created_5.0_arr_scoring.py
+ARR scoring complete. Processed 31 files.
+
+✅ claude_created_5.0_arr_scoring.py completed
+⏭️  Skipping AF gate - no FO intake files
+→ Running: claude_created_8.0_promote_to_catalog.py
+✅ claude_created_8.0_promote_to_catalog.py completed
+→ Running: claude_created_9.0_tag_holding.py
+Catalog built: data/catalog/catalog.json (3165 ideas from all runs)
+
+✅ claude_created_9.0_tag_holding.py completed
+→ Running: claude_created_10.0_daily_metrics_rollup.py
+✅ claude_created_10.0_daily_metrics_rollup.py completed

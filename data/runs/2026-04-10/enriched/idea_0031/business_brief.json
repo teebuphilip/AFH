@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant kitchen managers processing 5\u201315 inventory reports/week tool",
+  "description": "For restaurant kitchen managers processing 5\u201315 inventory reports/week, inaccurate inventory tracking causes stockouts and overordering. We provide automated weekly inventory usage reports instead of manual tracking with spreadsheets.",
+  "target_audience": "restaurant kitchen managers processing 5\u201315 inventory reports/week",
+  "problem_solved": "Inaccurate inventory tracking leads to stockouts and overordering.",
+  "features": [
+    "manual entry for inventory items",
+    "weekly report generation",
+    "usage trend visualization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant kitchen managers processing 5\u201315 inventory reports/week",
+    "primary_problem": "Inaccurate inventory tracking leads to stockouts and overordering.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant kitchen managers processing 5\u201315 inventory reports/week, inaccurate inventory tracking causes stockouts and overordering. We provide automated weekly inventory usage reports instead of manual tracking with spreadsheets.",
+    "current_alternative": "manual tracking with spreadsheets",
+    "must_have_features": [
+      "manual entry for inventory items",
+      "weekly report generation",
+      "usage trend visualization"
+    ]
+  },
+  "one_liner": "For restaurant kitchen managers processing 5\u201315 inventory reports/week, inaccurate inventory tracking causes stockouts and overordering. We provide automated weekly inventory usage reports instead of manual tracking with spreadsheets.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-10",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

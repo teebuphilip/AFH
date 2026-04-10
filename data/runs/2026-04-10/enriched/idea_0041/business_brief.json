@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 payroll reports/month tool",
+  "description": "For property managers processing 5\u201315 payroll reports/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "property managers processing 5\u201315 payroll reports/month",
+  "problem_solved": "Difficulty in generating accurate payroll compliance reports on time.",
+  "features": [
+    "template-based report generation",
+    "user-friendly dashboard for report access",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 payroll reports/month",
+    "primary_problem": "Difficulty in generating accurate payroll compliance reports on time.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 payroll reports/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly dashboard for report access",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 payroll reports/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-10",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

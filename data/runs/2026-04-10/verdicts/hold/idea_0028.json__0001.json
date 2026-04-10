@@ -1,0 +1,15 @@
+{
+  "idea_text": "System that schedules and tracks daily equipment inspections for construction site supervisors.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-10T10:53:27.860835",
+  "verdict_source": "overlay_score"
+}

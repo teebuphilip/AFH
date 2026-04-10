@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "legal ops teams in law firms processing 5\u201315 contracts/month tool",
+  "description": "For legal ops teams in law firms processing 5\u201315 contracts/month, inefficient contract management causes missed renewals. We automate renewal notifications instead of manual tracking of contract dates and compliance requirements.",
+  "target_audience": "legal ops teams in law firms processing 5\u201315 contracts/month",
+  "problem_solved": "inefficient contract management leading to missed renewals",
+  "features": [
+    "store agreement details",
+    "automate renewal notifications",
+    "generate compliance reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "legal ops teams in law firms processing 5\u201315 contracts/month",
+    "primary_problem": "inefficient contract management leading to missed renewals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For legal ops teams in law firms processing 5\u201315 contracts/month, inefficient contract management causes missed renewals. We automate renewal notifications instead of manual tracking of contract dates and compliance requirements.",
+    "current_alternative": "manual tracking of contract dates and compliance requirements",
+    "must_have_features": [
+      "store agreement details",
+      "automate renewal notifications",
+      "generate compliance reports"
+    ]
+  },
+  "one_liner": "For legal ops teams in law firms processing 5\u201315 contracts/month, inefficient contract management causes missed renewals. We automate renewal notifications instead of manual tracking of contract dates and compliance requirements.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-10",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

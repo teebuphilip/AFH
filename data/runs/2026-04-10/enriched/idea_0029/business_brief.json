@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For medical clinics processing 10\u201320 invoices/month, manual entry errors cause cash flow gaps. We automate the conversion of appointment logs into billing files instead of manual billing processes.",
+  "target_audience": "medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "manual entry errors in billing submissions",
+  "features": [
+    "manual entry of appointment logs",
+    "export to common billing formats",
+    "user-friendly interface for review"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "manual entry errors in billing submissions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10\u201320 invoices/month, manual entry errors cause cash flow gaps. We automate the conversion of appointment logs into billing files instead of manual billing processes.",
+    "current_alternative": "manual billing processes",
+    "must_have_features": [
+      "manual entry of appointment logs",
+      "export to common billing formats",
+      "user-friendly interface for review"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10\u201320 invoices/month, manual entry errors cause cash flow gaps. We automate the conversion of appointment logs into billing files instead of manual billing processes.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

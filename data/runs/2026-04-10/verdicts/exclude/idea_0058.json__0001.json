@@ -1,0 +1,17 @@
+{
+  "idea_text": "A workforce planning application that forecasts staffing needs, tracks employee availability, and alerts HR managers of coverage gaps.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 70,
+  "arr_score": 69.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-10T10:53:27.865798",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-10T10:53:27.915490"
+}

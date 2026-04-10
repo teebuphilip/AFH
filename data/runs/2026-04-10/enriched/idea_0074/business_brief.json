@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, inconsistent customer payments cause cash flow gaps. We provide credit risk monitoring instead of manual credit assessments and ad-hoc payment reminders.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Inconsistent customer payments leading to cash flow issues.",
+  "features": [
+    "Creditworthiness assessment tool",
+    "Delinquency alert system for collections teams",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Inconsistent customer payments leading to cash flow issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, inconsistent customer payments cause cash flow gaps. We provide credit risk monitoring instead of manual credit assessments and ad-hoc payment reminders.",
+    "current_alternative": "Manual credit assessments and ad-hoc payment reminders.",
+    "must_have_features": [
+      "Creditworthiness assessment tool",
+      "Delinquency alert system for collections teams",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, inconsistent customer payments cause cash flow gaps. We provide credit risk monitoring instead of manual credit assessments and ad-hoc payment reminders.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-10",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

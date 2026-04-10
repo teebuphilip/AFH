@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firm paralegals processing 5\u201315 legal documents/week",
+  "offer": "For law firm paralegals processing 5\u201315 legal documents/week, inconsistent document formatting causes filing delays. We automate formatting instead of manual formatting by paralegals.",
+  "problem": "Inconsistent document formatting leads to filing delays.",
+  "channels_free": [
+    "Post in Reddit communities for law firm paralegals",
+    "Indie Hackers discussions on document workflows",
+    "DM outreach to law paralegals with demo video",
+    "Engage in community forums for legal tools"
+  ],
+  "try_it": "Let users try formatting templates on 1-3 documents",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminders for document submissions",
+    "Allow CSV import for existing documents",
+    "Enable one-click export of formatted reports",
+    "Streamline onboarding process for new users"
+  ]
+}

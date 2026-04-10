@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancer managing 5\u201310 projects/month tool",
+  "description": "For freelancers managing 5\u201310 projects/month, budget mismanagement causes cash flow gaps. We automate budget tracking instead of manual spreadsheets and email notifications.",
+  "target_audience": "freelancer managing 5\u201310 projects/month",
+  "problem_solved": "Difficulty in tracking project budgets accurately across multiple clients.",
+  "features": [
+    "progress report generation",
+    "notification system for budget alerts",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancer managing 5\u201310 projects/month",
+    "primary_problem": "Difficulty in tracking project budgets accurately across multiple clients.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers managing 5\u201310 projects/month, budget mismanagement causes cash flow gaps. We automate budget tracking instead of manual spreadsheets and email notifications.",
+    "current_alternative": "manual spreadsheets and email notifications",
+    "must_have_features": [
+      "progress report generation",
+      "notification system for budget alerts",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers managing 5\u201310 projects/month, budget mismanagement causes cash flow gaps. We automate budget tracking instead of manual spreadsheets and email notifications.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

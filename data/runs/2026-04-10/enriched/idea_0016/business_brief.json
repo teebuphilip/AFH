@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, inconsistent reporting causes cash flow gaps. We automate depreciation schedules instead of manual calculations and spreadsheets.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Inconsistent and delayed asset depreciation reporting",
+  "features": [
+    "manual entry for asset details",
+    "monthly report generation",
+    "email notifications for reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Inconsistent and delayed asset depreciation reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, inconsistent reporting causes cash flow gaps. We automate depreciation schedules instead of manual calculations and spreadsheets.",
+    "current_alternative": "manual calculations and spreadsheets",
+    "must_have_features": [
+      "manual entry for asset details",
+      "monthly report generation",
+      "email notifications for reports"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, inconsistent reporting causes cash flow gaps. We automate depreciation schedules instead of manual calculations and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-10",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

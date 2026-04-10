@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators for freight brokers processing 10\u201320 deliveries/week tool",
+  "description": "For logistics coordinators processing 10\u201320 deliveries/week, inefficient truck loading causes late deliveries. We automate loading optimization and manifest generation instead of manual loading optimization and paper-based manifest creation.",
+  "target_audience": "logistics coordinators for freight brokers processing 10\u201320 deliveries/week",
+  "problem_solved": "Inefficient truck loading leading to delays in delivery schedules.",
+  "features": [
+    "manual entry for delivery details",
+    "loading optimization suggestions",
+    "printable delivery manifests"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators for freight brokers processing 10\u201320 deliveries/week",
+    "primary_problem": "Inefficient truck loading leading to delays in delivery schedules.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators processing 10\u201320 deliveries/week, inefficient truck loading causes late deliveries. We automate loading optimization and manifest generation instead of manual loading optimization and paper-based manifest creation.",
+    "current_alternative": "manual loading optimization and paper-based manifest creation",
+    "must_have_features": [
+      "manual entry for delivery details",
+      "loading optimization suggestions",
+      "printable delivery manifests"
+    ]
+  },
+  "one_liner": "For logistics coordinators processing 10\u201320 deliveries/week, inefficient truck loading causes late deliveries. We automate loading optimization and manifest generation instead of manual loading optimization and paper-based manifest creation.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr operations in small marketing agencies overtime tool",
+    "hr operations in small marketing agencies overtime automation",
+    "hr operations in small marketing agencies processing 5 15 timesheets month overtime tool",
+    "hr operations in small marketing agencies processing 5 15 timesheets month overtime automation",
+    "hr operations in small marketing agencies processing 5 15 timesheets month overtime workflow"
+  ],
+  "secondary_keywords": [
+    "hr operations in small marketing agencies processing 5 15 timesheets month overtime tool software",
+    "hr operations in small marketing agencies processing 5 15 timesheets month overtime tool platform",
+    "hr operations in small marketing agencies processing 5 15 timesheets month overtime tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR operations in small marketing agencies processing 5\u201315 timesheets/month, unmonitored overtime causes compliance issues. We alert HR when overtime exceeds limits instead of manual tracking of timesheets and overtime calculations.",
+    "Overtime management and compliance with labor laws",
+    "HR operations in small marketing agencies processing 5\u201315 timesheets/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Operations In Small Marketing Agencies Processing 5 15 Timesheets Month Overtime Tool Software",
+      "target_keyword": "hr operations in small marketing agencies processing 5 15 timesheets month overtime tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations In Small Marketing Agencies Processing 5 15 Timesheets Month Overtime Tool Platform",
+      "target_keyword": "hr operations in small marketing agencies processing 5 15 timesheets month overtime tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations In Small Marketing Agencies Processing 5 15 Timesheets Month Overtime Tool Solution",
+      "target_keyword": "hr operations in small marketing agencies processing 5 15 timesheets month overtime tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations In Small Marketing Agencies Processing 5 15 Timesheets Month Overtime Tool",
+      "target_keyword": "hr operations in small marketing agencies processing 5 15 timesheets month overtime tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations In Small Marketing Agencies Processing 5 15 Timesheets Month Overtime Automation",
+      "target_keyword": "hr operations in small marketing agencies processing 5 15 timesheets month overtime automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Operations In Small Marketing Agencies Processing 5 15 Timesheets Month Overtime Workflow",
+      "target_keyword": "hr operations in small marketing agencies processing 5 15 timesheets month overtime workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr operations in small marketing agencies overtime tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr operations in small marketing agencies overtime tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr operations in small marketing agencies overtime tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr operations in small marketing agencies overtime tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr operations in small marketing agencies overtime tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr operations in small marketing agencies tool",
+      "hr operations in small marketing agencies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr operations in small marketing agencies tool helps with overtime management and compliance with labor laws."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

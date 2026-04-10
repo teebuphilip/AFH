@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical clinics processing 10\u201320 invoices/month",
+  "offer": "For medical clinics processing 10\u201320 invoices/month, manual entry errors cause cash flow gaps. We automate the conversion of appointment logs into billing files instead of manual billing processes.",
+  "problem": "manual entry errors in billing submissions",
+  "channels_free": [
+    "Post in Reddit communities for medical billing solutions",
+    "Engage in Indie Hackers discussions about billing workflows",
+    "DM 20-50 clinics with a demo video",
+    "Participate in forums for medical clinic tools"
+  ],
+  "try_it": "Let users manually enter logs and export to billing formats",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of manual workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

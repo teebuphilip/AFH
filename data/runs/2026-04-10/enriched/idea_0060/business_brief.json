@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 leases/month tool",
+  "description": "For property managers processing 5\u201315 leases/month, missed renewal reminders cause cash flow gaps. We automate renewal reminders instead of manual tracking via spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 leases/month",
+  "problem_solved": "Difficulty in tracking lease renewals and occupancy rates",
+  "features": [
+    "Lease detail tracking",
+    "Occupancy reporting",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 leases/month",
+    "primary_problem": "Difficulty in tracking lease renewals and occupancy rates",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 leases/month, missed renewal reminders cause cash flow gaps. We automate renewal reminders instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "Lease detail tracking",
+      "Occupancy reporting",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 leases/month, missed renewal reminders cause cash flow gaps. We automate renewal reminders instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

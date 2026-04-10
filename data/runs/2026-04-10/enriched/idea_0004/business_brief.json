@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, manual tracking causes late orders. We automate payment schedules instead of manual tracking.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Timely vendor payments",
+  "features": [
+    "Generate monthly payment schedules",
+    "Send reminders to accounts payable teams",
+    "Provide a simple dashboard for tracking payments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Timely vendor payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, manual tracking causes late orders. We automate payment schedules instead of manual tracking.",
+    "current_alternative": "Manual tracking of payment schedules",
+    "must_have_features": [
+      "Generate monthly payment schedules",
+      "Send reminders to accounts payable teams",
+      "Provide a simple dashboard for tracking payments"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, manual tracking causes late orders. We automate payment schedules instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-10",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

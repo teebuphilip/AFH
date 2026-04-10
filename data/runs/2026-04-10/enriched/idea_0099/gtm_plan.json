@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 tenant applications/month",
+  "offer": "For property managers handling 5\u201315 tenant applications/month, inefficient management causes delays in tenant placement. We streamline the application process instead of manual tracking through spreadsheets and emails.",
+  "problem": "inefficient management of tenant applications and property listings",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Engage on Indie Hackers about similar workflows",
+    "DM outreach to property managers with demo video",
+    "Participate in community forums for property management"
+  ],
+  "try_it": "Let users try property vacancy management and application tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Reduce steps in onboarding process"
+  ]
+}

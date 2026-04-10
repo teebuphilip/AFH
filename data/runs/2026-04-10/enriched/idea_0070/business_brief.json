@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 work orders/month tool",
+  "description": "For property managers processing 10-20 work orders/month, inefficient manual processing causes delayed maintenance. We automate work order processing instead of manual tracking and processing of work orders.",
+  "target_audience": "property managers handling 10-20 work orders/month",
+  "problem_solved": "Inefficient manual processing of work orders",
+  "features": [
+    "maintenance scheduling",
+    "utilization reporting",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 work orders/month",
+    "primary_problem": "Inefficient manual processing of work orders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 work orders/month, inefficient manual processing causes delayed maintenance. We automate work order processing instead of manual tracking and processing of work orders.",
+    "current_alternative": "manual tracking and processing of work orders",
+    "must_have_features": [
+      "maintenance scheduling",
+      "utilization reporting",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 work orders/month, inefficient manual processing causes delayed maintenance. We automate work order processing instead of manual tracking and processing of work orders.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-10",
+    "overlay_score": 69,
+    "arr_score": 68
+  }
+}

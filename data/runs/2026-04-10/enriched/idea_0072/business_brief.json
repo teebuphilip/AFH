@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201350 clients/month tool",
+  "description": "For accounting firms processing 10\u201350 clients/month, manual tax preparation causes late filings. We automate tax compliance instead of manual tax preparation and filing processes.",
+  "target_audience": "accounting firms processing 10\u201350 clients/month",
+  "problem_solved": "Timely tax compliance and filing for multiple clients.",
+  "features": [
+    "data collection forms for client information",
+    "simple return filing interface",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201350 clients/month",
+    "primary_problem": "Timely tax compliance and filing for multiple clients.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 10\u201350 clients/month, manual tax preparation causes late filings. We automate tax compliance instead of manual tax preparation and filing processes.",
+    "current_alternative": "manual tax preparation and filing processes",
+    "must_have_features": [
+      "data collection forms for client information",
+      "simple return filing interface",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201350 clients/month, manual tax preparation causes late filings. We automate tax compliance instead of manual tax preparation and filing processes.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-10",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

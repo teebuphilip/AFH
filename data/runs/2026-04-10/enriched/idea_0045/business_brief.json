@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic billing managers processing 10\u201320 invoices/month tool",
+  "description": "For medical clinic billing managers processing 10\u201320 invoices/month, inefficient handling of patient billing disputes causes cash flow gaps. We aggregate disputes and generate summary reports instead of manual tracking in spreadsheets.",
+  "target_audience": "medical clinic billing managers processing 10\u201320 invoices/month",
+  "problem_solved": "inefficient handling of patient billing disputes",
+  "features": [
+    "dispute aggregation tool",
+    "summary report generation",
+    "manual entry for dispute details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic billing managers processing 10\u201320 invoices/month",
+    "primary_problem": "inefficient handling of patient billing disputes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic billing managers processing 10\u201320 invoices/month, inefficient handling of patient billing disputes causes cash flow gaps. We aggregate disputes and generate summary reports instead of manual tracking in spreadsheets.",
+    "current_alternative": "manual tracking of disputes in spreadsheets",
+    "must_have_features": [
+      "dispute aggregation tool",
+      "summary report generation",
+      "manual entry for dispute details"
+    ]
+  },
+  "one_liner": "For medical clinic billing managers processing 10\u201320 invoices/month, inefficient handling of patient billing disputes causes cash flow gaps. We aggregate disputes and generate summary reports instead of manual tracking in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-10",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}
