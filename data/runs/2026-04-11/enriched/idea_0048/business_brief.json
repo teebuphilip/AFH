@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operation analysts managing 5\u201315 vehicle logs/month tool",
+  "description": "For fleet operation analysts processing 5\u201315 vehicle logs/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "fleet operation analysts managing 5\u201315 vehicle logs/month",
+  "problem_solved": "Inaccurate reconciliation of fuel card transactions with vehicle logs",
+  "features": [
+    "manual entry for fuel card transactions",
+    "manual entry for vehicle logs",
+    "report generation for reconciled data"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operation analysts managing 5\u201315 vehicle logs/month",
+    "primary_problem": "Inaccurate reconciliation of fuel card transactions with vehicle logs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operation analysts processing 5\u201315 vehicle logs/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry for fuel card transactions",
+      "manual entry for vehicle logs",
+      "report generation for reconciled data"
+    ]
+  },
+  "one_liner": "For fleet operation analysts processing 5\u201315 vehicle logs/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-11",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

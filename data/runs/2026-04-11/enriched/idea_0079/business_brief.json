@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For medical clinics processing 10\u201320 invoices/month, inefficient reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+  "target_audience": "medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient reconciliation of patient records and medical billing.",
+  "features": [
+    "manual data entry support",
+    "basic reporting capabilities",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient reconciliation of patient records and medical billing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10\u201320 invoices/month, inefficient reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual data entry support",
+      "basic reporting capabilities",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10\u201320 invoices/month, inefficient reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0079",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-50 properties tool",
+  "description": "For property managers processing 10-50 properties, inconsistent maintenance schedules cause tenant complaints and property damage. We automate reminders instead of manual tracking.",
+  "target_audience": "property managers handling 10-50 properties",
+  "problem_solved": "Inconsistent maintenance schedules lead to tenant complaints and property damage.",
+  "features": [
+    "customizable maintenance checklists",
+    "user-friendly dashboard for tracking maintenance tasks",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-50 properties",
+    "primary_problem": "Inconsistent maintenance schedules lead to tenant complaints and property damage.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-50 properties, inconsistent maintenance schedules cause tenant complaints and property damage. We automate reminders instead of manual tracking.",
+    "current_alternative": "manual tracking of maintenance schedules via spreadsheets or calendars",
+    "must_have_features": [
+      "customizable maintenance checklists",
+      "user-friendly dashboard for tracking maintenance tasks",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10-50 properties, inconsistent maintenance schedules cause tenant complaints and property damage. We automate reminders instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-11",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

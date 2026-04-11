@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 20\u201350 invoices/month tool",
+  "description": "For medical clinics processing 20\u201350 invoices/month, billing code discrepancies cause cash flow gaps. We reconcile billing codes against reimbursements instead of manual reconciliation processes.",
+  "target_audience": "medical clinics processing 20\u201350 invoices/month",
+  "problem_solved": "Discrepancies between medical billing codes and insurance reimbursements.",
+  "features": [
+    "manual entry of billing codes",
+    "report generation for discrepancies",
+    "user-friendly dashboard for tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 20\u201350 invoices/month",
+    "primary_problem": "Discrepancies between medical billing codes and insurance reimbursements.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 20\u201350 invoices/month, billing code discrepancies cause cash flow gaps. We reconcile billing codes against reimbursements instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry of billing codes",
+      "report generation for discrepancies",
+      "user-friendly dashboard for tracking"
+    ]
+  },
+  "one_liner": "For medical clinics processing 20\u201350 invoices/month, billing code discrepancies cause cash flow gaps. We reconcile billing codes against reimbursements instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0039",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 properties/month tool",
+  "description": "For property managers processing 5\u201315 properties/month, inefficient report compilation causes compliance delays. We automate report generation instead of manual report compilation using spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 properties/month",
+  "problem_solved": "Inefficient compilation of compliance audit reports",
+  "features": [
+    "template-based report generation",
+    "manual data entry for compliance metrics",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 properties/month",
+    "primary_problem": "Inefficient compilation of compliance audit reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 properties/month, inefficient report compilation causes compliance delays. We automate report generation instead of manual report compilation using spreadsheets.",
+    "current_alternative": "manual report compilation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "manual data entry for compliance metrics",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 properties/month, inefficient report compilation causes compliance delays. We automate report generation instead of manual report compilation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-11",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

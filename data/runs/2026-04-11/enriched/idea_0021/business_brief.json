@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For accounting firms processing 5\u201315 payrolls/month, manual report generation causes compliance issues. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Timely generation of tax withholding reports for payroll compliance.",
+  "features": [
+    "template-based report generation",
+    "user-friendly interface for data input",
+    "export options for common formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Timely generation of tax withholding reports for payroll compliance.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payrolls/month, manual report generation causes compliance issues. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly interface for data input",
+      "export options for common formats"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payrolls/month, manual report generation causes compliance issues. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-11",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

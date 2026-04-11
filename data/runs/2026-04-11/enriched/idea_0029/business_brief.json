@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists processing 20\u201350 invoices/month tool",
+  "description": "For medical billing specialists processing 20\u201350 invoices/month, frequent billing errors cause delayed payments. We automate daily error report compilation instead of manual error tracking and reporting.",
+  "target_audience": "medical billing specialists processing 20\u201350 invoices/month",
+  "problem_solved": "Frequent billing errors leading to delayed payments.",
+  "features": [
+    "manual error entry for accuracy",
+    "daily report generation",
+    "user-friendly dashboard for tracking errors"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists processing 20\u201350 invoices/month",
+    "primary_problem": "Frequent billing errors leading to delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists processing 20\u201350 invoices/month, frequent billing errors cause delayed payments. We automate daily error report compilation instead of manual error tracking and reporting.",
+    "current_alternative": "manual error tracking and reporting",
+    "must_have_features": [
+      "manual error entry for accuracy",
+      "daily report generation",
+      "user-friendly dashboard for tracking errors"
+    ]
+  },
+  "one_liner": "For medical billing specialists processing 20\u201350 invoices/month, frequent billing errors cause delayed payments. We automate daily error report compilation instead of manual error tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

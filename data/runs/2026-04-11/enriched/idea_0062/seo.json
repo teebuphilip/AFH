@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firms managing - clients keeping tool",
+    "accounting firms managing - clients keeping automation",
+    "we provide real",
+    "accounting firms managing 10-20 clients keeping tool",
+    "accounting firms managing 10-20 clients keeping automation",
+    "accounting firms managing 10-20 clients keeping workflow"
+  ],
+  "secondary_keywords": [
+    "we provide real software",
+    "we provide real platform",
+    "we provide real solution"
+  ],
+  "long_tail_keywords": [
+    "how to we provide real",
+    "best we provide real tool",
+    "we provide real vs spreadsheets",
+    "we provide real checklist",
+    "we provide real pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firms managing 10-20 clients, missed compliance updates cause client penalties. We provide real-time alerts instead of manual tracking of regulatory updates through newsletters and websites.",
+    "Keeping up with regulatory changes for multiple clients.",
+    "accounting firms managing 10-20 clients"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Provide Real",
+      "target_keyword": "how to we provide real",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Provide Real Tool",
+      "target_keyword": "best we provide real tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Real Vs Spreadsheets",
+      "target_keyword": "we provide real vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Real Checklist",
+      "target_keyword": "we provide real checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Pricing",
+      "target_keyword": "we provide real pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Software",
+      "target_keyword": "we provide real software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Platform",
+      "target_keyword": "we provide real platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Solution",
+      "target_keyword": "we provide real solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real",
+      "target_keyword": "we provide real",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accounting Firms Managing 10-20 Clients Keeping Tool",
+      "target_keyword": "accounting firms managing 10-20 clients keeping tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Managing 10-20 Clients Keeping Automation",
+      "target_keyword": "accounting firms managing 10-20 clients keeping automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Managing 10-20 Clients Keeping Workflow",
+      "target_keyword": "accounting firms managing 10-20 clients keeping workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firms managing - clients keeping tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firms managing - clients keeping tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firms managing - clients keeping tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firms managing - clients keeping tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firms managing - clients keeping tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firms managing - clients tool",
+      "accounting firms managing - clients tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firms managing - clients tool helps with keeping up with regulatory changes for multiple clients."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

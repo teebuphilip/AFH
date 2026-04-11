@@ -28483,5 +28483,905 @@
       "complexity": "medium",
       "monetization_model": "unknown"
     }
+  },
+  {
+    "idea_text": "System that automates the preparation of monthly financial statements for small accounting clients.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Service that creates weekly inventory usage reports for restaurant inventory managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Supply chain visibility dashboard that aggregates shipping data and provides real-time status updates for logistics coordinators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Sales pipeline visualization tool that aggregates customer data and provides activity reports for sales operations teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that tracks and reports insurance claim status updates for claims coordinators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that compiles daily patient billing error reports for medical billing specialists.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that tracks and reports on insurance policy changes and updates for agency account managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that generates daily delivery route deviation alerts for fleet dispatchers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automated workflow that schedules and sends preventative maintenance reminders for property owners.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that automates the preparation of quarterly financial statements for accounting clients.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that monitors recurring subscription expenses and alerts finance teams when unexpected charges occur.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Service that automatically prepares shift schedules and overtime summaries for hospitality managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that schedules routine IT asset audits and reports for law firm office managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Employee onboarding assistant that streamlines paperwork, schedules training, and notifies HR administrators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that monitors fleet vehicle inspection compliance for logistics operations managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that converts vendor delivery logs into invoice-ready data for logistics finance teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Logistics optimization platform that analyzes shipping data and recommends cost-saving carrier assignments for logistics coordinators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that reconciles petty cash expenses with receipts and sends alerts to finance ops for discrepancies.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically reconciles vendor invoices with purchase orders and emails a weekly report to procurement teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that tracks vehicle maintenance and trip logs for logistics and delivery fleet managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Property management software that automates tenant screening, lease renewals, and maintenance scheduling for landlords.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automated customer billing system that generates invoices, processes payments, and provides aging analysis for accounts receivable.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Vendor management dashboard that consolidates supplier information and automates contract renewals for procurement officers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that reconciles sales commission reports with CRM data and sends weekly summaries to sales ops.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "commission"
+    }
+  },
+  {
+    "idea_text": "System that converts construction project documents into regulatory submissions on a schedule.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that monitors invoice payment statuses and alerts finance ops when payments are overdue beyond thresholds.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Data entry automation tool that extracts information from documents and populates ERP systems for administrative staff.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that converts legal case files into electronic court filing formats for solo practitioners.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that reconciles customer refund requests with payment processor data and alerts finance teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Contract management system that centralizes agreements, tracks renewals, and generates reports for legal operations teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that tracks and reports on vendor early payment discounts for procurement teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that monitors employee expense policy violations and alerts payroll ops with weekly summaries.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that generates workers' compensation claim summaries for insurance adjusters.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that automates daily cash register reconciliation for restaurant accounting staff.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Accounts payable automation tool that digitizes invoices, routes approvals, and schedules payments for finance administrators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically consolidates multi-entity payroll summaries and emails HR ops monthly reports.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Workforce analytics platform that tracks employee productivity metrics and generates insights for HR managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Regulatory compliance monitoring service that tracks industry changes and alerts risk management teams of policy updates.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that monitors vehicle utilization and generates route optimization reports for fleet managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automated software that generates end-of-shift reporting for restaurant and hotel managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Procurement spend tracking software that categorizes invoices and generates monthly reports for finance teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Automation that audits supplier invoice compliance for restaurant procurement officers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automated software that generates customer loyalty and marketing reports for restaurant and hotel operators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "marketing",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Vendor risk assessment tool that continuously monitors financial health and compliance for procurement teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "health",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Inventory forecasting application that analyzes sales data and recommends optimal stocking levels for warehouse managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that tracks purchase order approvals and sends weekly compliance summaries to procurement managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Accounts receivable collection assistant that automatically follows up on overdue invoices and provides analytics for credit managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automates monthly rent reconciliation reports for property managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Automated software that generates inventory and sales reports for restaurant and hotel owners.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that automates monthly rent roll reconciliation and sends reports to property managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "System that automates the preparation of quarterly tax filings for small accounting clients.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that reconciles fuel card transactions with vehicle logs for fleet operation analysts.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that converts bank transaction exports into categorized ledger entries for bookkeeping firms.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that generates monthly fixed asset depreciation schedules for finance ops teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Service that converts construction bid documents into standardized templates for estimators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically tracks vendor contract renewal dates and sends alerts to procurement managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that reconciles patient records and medical billing for outpatient clinics.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that reconciles subcontractor invoices and payments for construction project managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that generates weekly vendor performance scorecards from delivery data for logistics ops.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Travel expense management software that automates approvals, reimbursements, and reporting for finance departments.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that compiles monthly compliance audit reports for property management compliance officers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Service that monitors employee timesheets and alerts HR ops when submitted hours exceed policy limits.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "hr",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that monitors lease expiry dates and generates renewal alerts for property leasing agents.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Predictive maintenance solution that monitors equipment sensors and schedules proactive servicing for facility managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Payroll tax compliance service that files returns, makes deposits, and provides audit support for HR and accounting professionals.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that extracts payroll tax filings data and compiles compliance reports for payroll teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that compiles weekly service call logs and billing summaries for field service coordinators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Inventory replenishment bot that monitors stock levels, places orders, and alerts warehouse teams based on customizable thresholds.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automated payroll reconciliation tool that alerts HR managers when discrepancies are detected.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Fixed asset depreciation calculator that integrates with accounting systems and provides tax optimization recommendations.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that converts legal research into concise summaries for junior associates.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts raw expense reports into formatted reimbursement summaries for accounting departments.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that automatically generates monthly tax withholding reports for payroll departments.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Tool that reconciles monthly utility consumption data with billing invoices for property managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "System that schedules and tracks equipment maintenance for construction site supervisors.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that tracks food safety inspection scores and generates compliance reminders for restaurant managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that reconciles patient data and medical codes for small private practice billing.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Vendor performance dashboard that aggregates delivery metrics, quality scores, and feedback for procurement managers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that schedules recurring license renewal reminders for insurance agency administrators.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Automation that extracts and compiles utility bill data for property managers into monthly cost reports.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Tool that tracks and reports on insurance policy renewals and expirations for agency producers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that reconciles patient records and insurance claims for small medical billing services.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that tracks and reports employee certification renewal deadlines for insurance agencies.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "hr",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that converts legal documents into the appropriate court filings for small law firms.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "productivity",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that generates monthly sales pipeline aging reports for sales operations teams.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Service that monitors insurance claims data and flags exceptions for claims adjusters.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automated workflow that schedules and sends tenant screening reports for property management firms.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "A tool that automatically generates monthly compliance reports for property management firms.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "legal",
+      "complexity": "low",
+      "monetization_model": "subscription"
+    }
+  },
+  {
+    "idea_text": "Tool that monitors vehicle diagnostics and generates maintenance reports for fleet dispatchers.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "operations",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Tool that converts timesheet data into formatted invoices for legal billing specialists.",
+    "verdict": "HOLD",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that prepares OSHA safety compliance checklists for construction site managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "legal",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that automates submission of compliance documentation for medical billing compliance officers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automated workflow that schedules and sends rental property inspections for property managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Automation that converts timesheet data into payroll-ready formats and emails reports to HR ops.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "productivity",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Fixed asset tracking system that monitors depreciation schedules and generates tax reporting for finance departments.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that converts construction project plans into 3D visualizations for project managers.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "unknown",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that converts legal time sheets into formatted billing statements for law firm accountants.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Expense report auditing tool that flags anomalies and submits approved reports directly to accounting teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "low",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "Service that reconciles medical billing codes against insurance reimbursements for clinic billing teams.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "finance",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
+  },
+  {
+    "idea_text": "System that monitors logistics shipment delays and sends alerts to operations managers weekly.",
+    "verdict": "EXCLUDE",
+    "tags": {
+      "category": "operations",
+      "complexity": "medium",
+      "monetization_model": "unknown"
+    }
   }
 ]

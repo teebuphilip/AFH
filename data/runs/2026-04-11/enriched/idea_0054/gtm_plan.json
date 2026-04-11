@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics coordinators managing 50\u2013100 shipments/month",
+  "offer": "For logistics coordinators processing 50\u2013100 shipments/month, high shipping costs cause budget overruns. We recommend cost-saving carrier assignments instead of manual carrier selection based on past experiences.",
+  "problem": "High shipping costs due to inefficient carrier assignments.",
+  "channels_free": [
+    "Post in Reddit communities for logistics coordinators",
+    "Indie Hackers discussions on shipping workflows",
+    "DM outreach to logistics coordinators with demo video",
+    "Community forums for sharing logistics tools"
+  ],
+  "try_it": "Let users try shipping cost analysis tool on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as user-friendly templates",
+    "Set default reminder schedules for tasks",
+    "Enable CSV import for existing shipment data",
+    "One-click export for simple performance reports",
+    "Simplify onboarding with fewer required steps"
+  ]
+}

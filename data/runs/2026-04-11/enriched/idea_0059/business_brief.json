@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 50\u2013100 orders/month tool",
+  "description": "For Amazon sellers processing 50\u2013100 orders/month, inaccurate inventory levels cause stockouts. We provide data-driven forecasts instead of manual tracking and guesswork.",
+  "target_audience": "Amazon sellers processing 50\u2013100 orders/month",
+  "problem_solved": "Inaccurate inventory levels leading to stockouts",
+  "features": [
+    "Sales data analysis",
+    "Stock level recommendations",
+    "User-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 50\u2013100 orders/month",
+    "primary_problem": "Inaccurate inventory levels leading to stockouts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 50\u2013100 orders/month, inaccurate inventory levels cause stockouts. We provide data-driven forecasts instead of manual tracking and guesswork.",
+    "current_alternative": "manual tracking and guesswork",
+    "must_have_features": [
+      "Sales data analysis",
+      "Stock level recommendations",
+      "User-friendly dashboard"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 50\u2013100 orders/month, inaccurate inventory levels cause stockouts. We provide data-driven forecasts instead of manual tracking and guesswork.",
+  "source": {
+    "idea_id": "idea_0059",
+    "run_date": "2026-04-11",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

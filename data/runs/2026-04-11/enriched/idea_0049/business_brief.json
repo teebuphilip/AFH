@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers in small to medium-sized restaurants processing 5\u201315 food safety inspections/month tool",
+  "description": "For restaurant managers in small to medium-sized restaurants processing 5\u201315 food safety inspections/month, manual tracking causes missed compliance deadlines. We automate compliance reminders instead of manual tracking of inspection scores and reminders.",
+  "target_audience": "restaurant managers in small to medium-sized restaurants processing 5\u201315 food safety inspections/month",
+  "problem_solved": "Ensuring compliance with food safety regulations and avoiding penalties.",
+  "features": [
+    "customizable compliance reminder notifications",
+    "simple dashboard for monitoring inspection status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers in small to medium-sized restaurants processing 5\u201315 food safety inspections/month",
+    "primary_problem": "Ensuring compliance with food safety regulations and avoiding penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For restaurant managers in small to medium-sized restaurants processing 5\u201315 food safety inspections/month, manual tracking causes missed compliance deadlines. We automate compliance reminders instead of manual tracking of inspection scores and reminders.",
+    "current_alternative": "manual tracking of inspection scores and reminders",
+    "must_have_features": [
+      "customizable compliance reminder notifications",
+      "simple dashboard for monitoring inspection status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant managers in small to medium-sized restaurants processing 5\u201315 food safety inspections/month, manual tracking causes missed compliance deadlines. We automate compliance reminders instead of manual tracking of inspection scores and reminders.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

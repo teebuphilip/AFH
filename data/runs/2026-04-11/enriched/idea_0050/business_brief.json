@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "legal billing specialists processing 5\u201315 invoices/month tool",
+  "description": "For legal billing specialists processing 5\u201315 invoices/month, inaccurate invoice formatting causes cash flow gaps. We convert timesheet data into formatted invoices instead of manual invoice creation using spreadsheets.",
+  "target_audience": "legal billing specialists processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate invoice formatting from timesheet data",
+  "features": [
+    "manual data entry for timesheets",
+    "customizable invoice templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "legal billing specialists processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate invoice formatting from timesheet data",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For legal billing specialists processing 5\u201315 invoices/month, inaccurate invoice formatting causes cash flow gaps. We convert timesheet data into formatted invoices instead of manual invoice creation using spreadsheets.",
+    "current_alternative": "manual invoice creation using spreadsheets",
+    "must_have_features": [
+      "manual data entry for timesheets",
+      "customizable invoice templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For legal billing specialists processing 5\u201315 invoices/month, inaccurate invoice formatting causes cash flow gaps. We convert timesheet data into formatted invoices instead of manual invoice creation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

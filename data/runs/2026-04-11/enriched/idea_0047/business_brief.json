@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing compliance officers processing 10\u201320 invoices/month tool",
+  "description": "For medical billing compliance officers processing 10\u201320 invoices/month, manual submission causes delays in compliance, leading to potential fines. We automate submission instead of manual submission of compliance documents.",
+  "target_audience": "medical billing compliance officers processing 10\u201320 invoices/month",
+  "problem_solved": "Manual submission of compliance documentation is time-consuming and error-prone.",
+  "features": [
+    "status tracking for submissions",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing compliance officers processing 10\u201320 invoices/month",
+    "primary_problem": "Manual submission of compliance documentation is time-consuming and error-prone.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For medical billing compliance officers processing 10\u201320 invoices/month, manual submission causes delays in compliance, leading to potential fines. We automate submission instead of manual submission of compliance documents.",
+    "current_alternative": "manual submission of compliance documents",
+    "must_have_features": [
+      "status tracking for submissions",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For medical billing compliance officers processing 10\u201320 invoices/month, manual submission causes delays in compliance, leading to potential fines. We automate submission instead of manual submission of compliance documents.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

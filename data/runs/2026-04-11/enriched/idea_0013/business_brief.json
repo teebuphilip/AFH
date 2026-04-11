@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in accounting firms processing 5\u201315 payroll summaries/month tool",
+  "description": "For HR managers in accounting firms processing 5\u201315 payroll summaries/month, manual consolidation causes delays in reporting. We automate payroll summary consolidation instead of manual spreadsheets and email reports.",
+  "target_audience": "HR managers in accounting firms processing 5\u201315 payroll summaries/month",
+  "problem_solved": "Manual consolidation of payroll summaries is time-consuming and error-prone.",
+  "features": [
+    "Monthly report generation",
+    "Email notifications for report delivery",
+    "User-friendly dashboard for summary review"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in accounting firms processing 5\u201315 payroll summaries/month",
+    "primary_problem": "Manual consolidation of payroll summaries is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in accounting firms processing 5\u201315 payroll summaries/month, manual consolidation causes delays in reporting. We automate payroll summary consolidation instead of manual spreadsheets and email reports.",
+    "current_alternative": "Manual spreadsheets and email reports",
+    "must_have_features": [
+      "Monthly report generation",
+      "Email notifications for report delivery",
+      "User-friendly dashboard for summary review"
+    ]
+  },
+  "one_liner": "For HR managers in accounting firms processing 5\u201315 payroll summaries/month, manual consolidation causes delays in reporting. We automate payroll summary consolidation instead of manual spreadsheets and email reports.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-11",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

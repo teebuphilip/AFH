@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties/month tool",
+  "description": "For property managers handling 10-20 properties/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "property managers handling 10-20 properties/month",
+  "problem_solved": "Difficulty in generating timely compliance reports.",
+  "features": [
+    "template-based report generation",
+    "customizable compliance checklists",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties/month",
+    "primary_problem": "Difficulty in generating timely compliance reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For property managers handling 10-20 properties/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "customizable compliance checklists",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0076",
+    "run_date": "2026-04-11",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

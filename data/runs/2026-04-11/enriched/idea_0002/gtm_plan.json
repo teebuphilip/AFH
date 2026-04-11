@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small marketing agencies processing 5\u201315 timesheets/month",
+  "offer": "For HR managers in small marketing agencies processing 5\u201315 timesheets/month, exceeding policy limits causes compliance issues. We alert HR ops instead of manual tracking of timesheets and hours.",
+  "problem": "Monitoring employee hours to prevent policy violations",
+  "channels_free": [
+    "Post in Reddit communities for HR managers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM 20-50 HR managers with a demo video",
+    "Join community forums for HR tools sharing"
+  ],
+  "try_it": "Let users try Manual entry of timesheets and Dashboard for tracking submitted hours on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set up default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click export of simple reports",
+    "Streamline the onboarding process"
+  ]
+}

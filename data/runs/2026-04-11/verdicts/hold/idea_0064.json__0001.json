@@ -1,0 +1,16 @@
+{
+  "idea_text": "Predictive maintenance solution that monitors equipment sensors and schedules proactive servicing for facility managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 65,
+  "arr_score": 64,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-11T09:57:19.361710",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

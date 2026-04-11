@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement officers in mid-sized companies processing 10-20 contracts/month tool",
+  "description": "For procurement officers in mid-sized companies processing 10-20 contracts/month, inefficient contract management causes missed renewal deadlines. We automate contract renewals instead of manual tracking of contract dates and supplier information.",
+  "target_audience": "procurement officers in mid-sized companies processing 10-20 contracts/month",
+  "problem_solved": "inefficient contract management and renewal processes",
+  "features": [
+    "dashboard for supplier information",
+    "manual entry for contract details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement officers in mid-sized companies processing 10-20 contracts/month",
+    "primary_problem": "inefficient contract management and renewal processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement officers in mid-sized companies processing 10-20 contracts/month, inefficient contract management causes missed renewal deadlines. We automate contract renewals instead of manual tracking of contract dates and supplier information.",
+    "current_alternative": "manual tracking of contract dates and supplier information",
+    "must_have_features": [
+      "dashboard for supplier information",
+      "manual entry for contract details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement officers in mid-sized companies processing 10-20 contracts/month, inefficient contract management causes missed renewal deadlines. We automate contract renewals instead of manual tracking of contract dates and supplier information.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

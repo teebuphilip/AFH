@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance brokers managing 10-20 policies/month",
+  "offer": "For insurance brokers processing 10-20 policies/month, missed updates cause compliance issues. We provide tracking instead of manual tracking via spreadsheets.",
+  "problem": "Difficulty in tracking and reporting insurance policy changes.",
+  "channels_free": [
+    "Post in Reddit communities for insurance brokers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to insurance brokers with demo video",
+    "Community forums for insurance broker tools"
+  ],
+  "try_it": "Let users try manual entry for policy changes",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

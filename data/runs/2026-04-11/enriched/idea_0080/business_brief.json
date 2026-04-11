@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5-15 vehicles tool",
+  "description": "For logistics carriers managing 5-15 vehicles, inconsistent vehicle maintenance tracking causes unexpected breakdowns. We provide a dedicated tool instead of manual logs and spreadsheets.",
+  "target_audience": "logistics carriers managing 5-15 vehicles",
+  "problem_solved": "Inconsistent vehicle maintenance tracking leads to unexpected breakdowns.",
+  "features": [
+    "manual entry for maintenance records",
+    "trip log tracking",
+    "reminder notifications for maintenance schedules"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5-15 vehicles",
+    "primary_problem": "Inconsistent vehicle maintenance tracking leads to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5-15 vehicles, inconsistent vehicle maintenance tracking causes unexpected breakdowns. We provide a dedicated tool instead of manual logs and spreadsheets.",
+    "current_alternative": "manual logs and spreadsheets",
+    "must_have_features": [
+      "manual entry for maintenance records",
+      "trip log tracking",
+      "reminder notifications for maintenance schedules"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5-15 vehicles, inconsistent vehicle maintenance tracking causes unexpected breakdowns. We provide a dedicated tool instead of manual logs and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-11",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

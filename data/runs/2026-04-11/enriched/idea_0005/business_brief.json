@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month tool",
+  "description": "For procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month, missed contract renewals cause late fees and service interruptions. We automate renewal tracking instead of manual tracking through spreadsheets or calendar reminders.",
+  "target_audience": "procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month",
+  "problem_solved": "Missed contract renewal dates leading to late fees and service interruptions.",
+  "features": [
+    "email alerts for upcoming renewals",
+    "dashboard for contract overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month",
+    "primary_problem": "Missed contract renewal dates leading to late fees and service interruptions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month, missed contract renewals cause late fees and service interruptions. We automate renewal tracking instead of manual tracking through spreadsheets or calendar reminders.",
+    "current_alternative": "manual tracking through spreadsheets or calendar reminders",
+    "must_have_features": [
+      "email alerts for upcoming renewals",
+      "dashboard for contract overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month, missed contract renewals cause late fees and service interruptions. We automate renewal tracking instead of manual tracking through spreadsheets or calendar reminders.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

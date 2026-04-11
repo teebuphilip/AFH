@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 rental units/month tool",
+  "description": "For property managers processing 10-20 rental units/month, manual reconciliation causes cash flow gaps. We automate rent roll reconciliation instead of manual spreadsheets and email reports.",
+  "target_audience": "property managers handling 10-20 rental units/month",
+  "problem_solved": "manual reconciliation of rent rolls is time-consuming and error-prone.",
+  "features": [
+    "monthly report generation",
+    "error flagging for discrepancies",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 rental units/month",
+    "primary_problem": "manual reconciliation of rent rolls is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 rental units/month, manual reconciliation causes cash flow gaps. We automate rent roll reconciliation instead of manual spreadsheets and email reports.",
+    "current_alternative": "manual spreadsheets and email reports",
+    "must_have_features": [
+      "monthly report generation",
+      "error flagging for discrepancies",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 rental units/month, manual reconciliation causes cash flow gaps. We automate rent roll reconciliation instead of manual spreadsheets and email reports.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-11",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

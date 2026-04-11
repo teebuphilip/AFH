@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, inaccurate asset depreciation calculations cause tax inefficiencies. We provide a fixed asset depreciation calculator instead of manual calculations using spreadsheets.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Inaccurate asset depreciation calculations lead to tax inefficiencies.",
+  "features": [
+    "manual entry for asset details",
+    "depreciation schedule generation",
+    "tax optimization recommendations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Inaccurate asset depreciation calculations lead to tax inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, inaccurate asset depreciation calculations cause tax inefficiencies. We provide a fixed asset depreciation calculator instead of manual calculations using spreadsheets.",
+    "current_alternative": "manual calculations using spreadsheets",
+    "must_have_features": [
+      "manual entry for asset details",
+      "depreciation schedule generation",
+      "tax optimization recommendations"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, inaccurate asset depreciation calculations cause tax inefficiencies. We provide a fixed asset depreciation calculator instead of manual calculations using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-11",
+    "overlay_score": 62,
+    "arr_score": 62
+  }
+}

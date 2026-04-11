@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firms processing 5\u201315 court filings/month tool",
+  "description": "For small law firms processing 5\u201315 court filings/month, inefficient document conversion causes delays in filing deadlines. We automate the conversion process instead of manual document preparation and filing.",
+  "target_audience": "small law firms processing 5\u201315 court filings/month",
+  "problem_solved": "Inefficient conversion of legal documents into court filings",
+  "features": [
+    "template selection for court filings",
+    "status tracking for filings",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firms processing 5\u201315 court filings/month",
+    "primary_problem": "Inefficient conversion of legal documents into court filings",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law firms processing 5\u201315 court filings/month, inefficient document conversion causes delays in filing deadlines. We automate the conversion process instead of manual document preparation and filing.",
+    "current_alternative": "manual document preparation and filing",
+    "must_have_features": [
+      "template selection for court filings",
+      "status tracking for filings",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small law firms processing 5\u201315 court filings/month, inefficient document conversion causes delays in filing deadlines. We automate the conversion process instead of manual document preparation and filing.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

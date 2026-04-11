@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, compliance issues cause cash flow gaps. We provide continuous monitoring instead of manual vendor assessments and sporadic financial checks.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Ensuring vendor compliance and financial stability",
+  "features": [
+    "Manual vendor risk assessment templates",
+    "Basic financial health monitoring tools",
+    "Compliance checklist for vendors"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Ensuring vendor compliance and financial stability",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, compliance issues cause cash flow gaps. We provide continuous monitoring instead of manual vendor assessments and sporadic financial checks.",
+    "current_alternative": "Manual vendor assessments and sporadic financial checks",
+    "must_have_features": [
+      "Manual vendor risk assessment templates",
+      "Basic financial health monitoring tools",
+      "Compliance checklist for vendors"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, compliance issues cause cash flow gaps. We provide continuous monitoring instead of manual vendor assessments and sporadic financial checks.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-11",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

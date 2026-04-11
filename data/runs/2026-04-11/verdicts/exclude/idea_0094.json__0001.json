@@ -1,0 +1,17 @@
+{
+  "idea_text": "Service that converts construction project plans into 3D visualizations for project managers.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 68,
+  "arr_score": 67.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-11T09:57:19.365776",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-11T09:57:19.411140"
+}

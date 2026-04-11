@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms managing 10-20 clients",
+  "offer": "For accounting firms managing 10-20 clients, missed compliance updates cause client penalties. We provide real-time alerts instead of manual tracking of regulatory updates through newsletters and websites.",
+  "problem": "Keeping up with regulatory changes for multiple clients.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Share insights on Indie Hackers forums",
+    "DM outreach to accounting firms with demo video",
+    "Engage in community forums for accounting tools"
+  ],
+  "try_it": "Let users try real-time alert system for compliance updates.",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the alert system",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common compliance checklists as templates",
+    "Set default reminder schedules for alerts",
+    "Allow CSV import for existing client data",
+    "Enable one-click export of compliance reports",
+    "Streamline onboarding process for new users"
+  ]
+}

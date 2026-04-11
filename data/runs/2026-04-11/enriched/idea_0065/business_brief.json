@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators managing 10-20 shipments/week tool",
+  "description": "For logistics coordinators processing 10-20 shipments/week, delays in shipment status cause late orders. We provide real-time updates instead of manual tracking through emails and spreadsheets.",
+  "target_audience": "logistics coordinators managing 10-20 shipments/week",
+  "problem_solved": "Lack of real-time visibility into shipment status",
+  "features": [
+    "dashboard for real-time shipment tracking",
+    "notification system for status updates",
+    "manual entry option for missing data"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators managing 10-20 shipments/week",
+    "primary_problem": "Lack of real-time visibility into shipment status",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators processing 10-20 shipments/week, delays in shipment status cause late orders. We provide real-time updates instead of manual tracking through emails and spreadsheets.",
+    "current_alternative": "manual tracking through emails and spreadsheets",
+    "must_have_features": [
+      "dashboard for real-time shipment tracking",
+      "notification system for status updates",
+      "manual entry option for missing data"
+    ]
+  },
+  "one_liner": "For logistics coordinators processing 10-20 shipments/week, delays in shipment status cause late orders. We provide real-time updates instead of manual tracking through emails and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-11",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

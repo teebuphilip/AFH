@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, inaccurate expense reporting causes delayed payments. We automate anomaly detection and submission instead of manual expense tracking and reporting.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate expense reporting leading to delayed payments.",
+  "features": [
+    "anomaly detection for expense reports",
+    "user-friendly interface for manual adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate expense reporting leading to delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, inaccurate expense reporting causes delayed payments. We automate anomaly detection and submission instead of manual expense tracking and reporting.",
+    "current_alternative": "manual expense tracking and reporting",
+    "must_have_features": [
+      "anomaly detection for expense reports",
+      "user-friendly interface for manual adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, inaccurate expense reporting causes delayed payments. We automate anomaly detection and submission instead of manual expense tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that tracks and reports on vendor early payment discounts for procurement teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-11T09:57:19.354699",
+  "verdict_source": "overlay_score"
+}

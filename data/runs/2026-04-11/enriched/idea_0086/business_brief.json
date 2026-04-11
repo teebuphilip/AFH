@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 bids/month tool",
+  "description": "For construction contractors processing 5\u201315 bids/month, inconsistent bid formats cause confusion and errors in estimating. We convert bid documents into standardized templates instead of manual formatting of bid documents.",
+  "target_audience": "construction contractors processing 5\u201315 bids/month",
+  "problem_solved": "Inconsistent bid formats lead to confusion and errors in estimating.",
+  "features": [
+    "template selection",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 bids/month",
+    "primary_problem": "Inconsistent bid formats lead to confusion and errors in estimating.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 bids/month, inconsistent bid formats cause confusion and errors in estimating. We convert bid documents into standardized templates instead of manual formatting of bid documents.",
+    "current_alternative": "manual formatting of bid documents",
+    "must_have_features": [
+      "template selection",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 bids/month, inconsistent bid formats cause confusion and errors in estimating. We convert bid documents into standardized templates instead of manual formatting of bid documents.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

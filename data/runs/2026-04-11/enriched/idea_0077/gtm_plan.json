@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance brokers processing 10\u201320 claims/month",
+  "offer": "For insurance brokers processing 10\u201320 claims/month, inefficient identification of exceptions causes delayed claim resolutions. We monitor claims data and flag exceptions instead of manual review of claims data.",
+  "problem": "Inefficient identification of exceptions in claims data",
+  "channels_free": [
+    "Post in Reddit communities for insurance brokers",
+    "Share insights on Indie Hackers forums",
+    "DM outreach to insurance brokers with demo video",
+    "Engage in community groups for insurance tools"
+  ],
+  "try_it": "Let users try exception flagging and claims data monitoring on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing claims",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant procurement officers processing 10\u201320 invoices/month tool",
+  "description": "For restaurant procurement officers processing 10\u201320 invoices/month, supplier invoice non-compliance causes financial discrepancies. We automate compliance audits instead of manual invoice checks and audits.",
+  "target_audience": "restaurant procurement officers processing 10\u201320 invoices/month",
+  "problem_solved": "Supplier invoice non-compliance leading to financial discrepancies.",
+  "features": [
+    "compliance checklist for invoices",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant procurement officers processing 10\u201320 invoices/month",
+    "primary_problem": "Supplier invoice non-compliance leading to financial discrepancies.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For restaurant procurement officers processing 10\u201320 invoices/month, supplier invoice non-compliance causes financial discrepancies. We automate compliance audits instead of manual invoice checks and audits.",
+    "current_alternative": "manual invoice checks and audits",
+    "must_have_features": [
+      "compliance checklist for invoices",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For restaurant procurement officers processing 10\u201320 invoices/month, supplier invoice non-compliance causes financial discrepancies. We automate compliance audits instead of manual invoice checks and audits.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

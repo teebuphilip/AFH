@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance adjusters processing 10\u201320 claims/month",
+  "offer": "For insurance adjusters processing 10\u201320 claims/month, inefficient claim summary generation causes delays in processing. We generate concise summaries instead of manual summarization of claims.",
+  "problem": "Inefficient claim summary generation",
+  "channels_free": [
+    "Post in Reddit communities for insurance adjusters",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to insurance adjusters with demo video",
+    "Community forums for sharing tools among adjusters"
+  ],
+  "try_it": "Let users try manual input for claim details and summary generation",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showcasing manual-first workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing claim data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

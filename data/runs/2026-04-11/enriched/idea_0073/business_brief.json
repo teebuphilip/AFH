@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For accounting firms processing 5\u201315 payrolls/month, manual tracking causes late filings and penalties. We automate payroll tax compliance instead of manual tracking and filing of payroll taxes.",
+  "target_audience": "accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Ensuring timely and accurate payroll tax compliance.",
+  "features": [
+    "deposit scheduling",
+    "audit support documentation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Ensuring timely and accurate payroll tax compliance.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payrolls/month, manual tracking causes late filings and penalties. We automate payroll tax compliance instead of manual tracking and filing of payroll taxes.",
+    "current_alternative": "manual tracking and filing of payroll taxes",
+    "must_have_features": [
+      "deposit scheduling",
+      "audit support documentation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payrolls/month, manual tracking causes late filings and penalties. We automate payroll tax compliance instead of manual tracking and filing of payroll taxes.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-11",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

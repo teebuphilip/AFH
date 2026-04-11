@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "field service coordinators managing 10-20 service calls/week tool",
+  "description": "For field service coordinators processing 10-20 service calls/week, inefficient tracking causes billing discrepancies. We automate the compilation of service call logs and billing summaries instead of manual tracking and reporting.",
+  "target_audience": "field service coordinators managing 10-20 service calls/week",
+  "problem_solved": "Inefficient compilation of service call logs and billing summaries.",
+  "features": [
+    "manual entry of service call logs",
+    "weekly summary generation",
+    "export to CSV format"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "field service coordinators managing 10-20 service calls/week",
+    "primary_problem": "Inefficient compilation of service call logs and billing summaries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For field service coordinators processing 10-20 service calls/week, inefficient tracking causes billing discrepancies. We automate the compilation of service call logs and billing summaries instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting",
+    "must_have_features": [
+      "manual entry of service call logs",
+      "weekly summary generation",
+      "export to CSV format"
+    ]
+  },
+  "one_liner": "For field service coordinators processing 10-20 service calls/week, inefficient tracking causes billing discrepancies. We automate the compilation of service call logs and billing summaries instead of manual tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "sales operations teams in marketing agencies processing 10\u201350 client projects/month",
+  "offer": "For sales operations teams in marketing agencies processing 10\u201350 client projects/month, inefficient tracking causes missed opportunities. We provide a sales pipeline visualization tool instead of manual spreadsheets and email tracking.",
+  "problem": "inefficient tracking of sales activities and client interactions",
+  "channels_free": [
+    "Post in Reddit communities asking for sales tracking solutions",
+    "Engage in Indie Hackers discussions on workflow improvements",
+    "DM outreach to potential users with a demo video",
+    "Share insights in community forums for sales operations"
+  ],
+  "try_it": "Let users explore visual sales pipeline and reports on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with clear CTA",
+    "Produce a short demo video of the tool",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Implement default reminder schedules",
+    "Enable CSV import for existing client data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

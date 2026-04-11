@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance agency administrators managing 5\u201315 licenses/month",
+  "offer": "For insurance agency administrators processing 5\u201315 licenses/month, missed renewals cause compliance issues. We provide reminders instead of manual tracking of license renewals.",
+  "problem": "missed license renewals leading to compliance issues",
+  "channels_free": [
+    "Post in Reddit communities for insurance agency administrators",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to insurance agency administrators with demo video",
+    "Community forums where insurance agency administrators share tools"
+  ],
+  "try_it": "Let users try manual entry and reminder settings on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

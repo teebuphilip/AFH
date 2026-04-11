@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality managers in restaurants processing 5\u201315 schedules/week tool",
+  "description": "For hospitality managers in restaurants processing 5\u201315 schedules/week, inefficient manual scheduling causes overtime errors and employee dissatisfaction. We automate shift scheduling instead of manual scheduling spreadsheets.",
+  "target_audience": "hospitality managers in restaurants processing 5\u201315 schedules/week",
+  "problem_solved": "Inefficient manual scheduling leads to overtime errors and employee dissatisfaction.",
+  "features": [
+    "simple drag-and-drop scheduling interface",
+    "overtime tracking alerts",
+    "exportable schedule summaries"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality managers in restaurants processing 5\u201315 schedules/week",
+    "primary_problem": "Inefficient manual scheduling leads to overtime errors and employee dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality managers in restaurants processing 5\u201315 schedules/week, inefficient manual scheduling causes overtime errors and employee dissatisfaction. We automate shift scheduling instead of manual scheduling spreadsheets.",
+    "current_alternative": "manual scheduling spreadsheets",
+    "must_have_features": [
+      "simple drag-and-drop scheduling interface",
+      "overtime tracking alerts",
+      "exportable schedule summaries"
+    ]
+  },
+  "one_liner": "For hospitality managers in restaurants processing 5\u201315 schedules/week, inefficient manual scheduling causes overtime errors and employee dissatisfaction. We automate shift scheduling instead of manual scheduling spreadsheets.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, overdue invoices cause cash flow gaps. We automate follow-ups instead of manual reminders.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Overdue invoices causing cash flow issues.",
+  "features": [
+    "Basic analytics dashboard for overdue invoices",
+    "Manual entry for invoice tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Overdue invoices causing cash flow issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, overdue invoices cause cash flow gaps. We automate follow-ups instead of manual reminders.",
+    "current_alternative": "Manual follow-ups and reminders via email.",
+    "must_have_features": [
+      "Basic analytics dashboard for overdue invoices",
+      "Manual entry for invoice tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, overdue invoices cause cash flow gaps. We automate follow-ups instead of manual reminders.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

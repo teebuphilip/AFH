@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR administrators in small to medium-sized marketing agencies using BambooHR tool",
+  "description": "For HR administrators in small to medium-sized marketing agencies processing 5\u201315 new hires/month, inefficient onboarding causes delays in training and paperwork completion. We streamline onboarding instead of manual processes.",
+  "target_audience": "HR administrators in small to medium-sized marketing agencies using BambooHR",
+  "problem_solved": "Inefficient onboarding processes leading to delays in training and paperwork completion.",
+  "features": [
+    "Training schedule notifications",
+    "HR admin alerts for onboarding status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR administrators in small to medium-sized marketing agencies using BambooHR",
+    "primary_problem": "Inefficient onboarding processes leading to delays in training and paperwork completion.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR administrators in small to medium-sized marketing agencies processing 5\u201315 new hires/month, inefficient onboarding causes delays in training and paperwork completion. We streamline onboarding instead of manual processes.",
+    "current_alternative": "Manual onboarding processes with scattered documentation and scheduling.",
+    "must_have_features": [
+      "Training schedule notifications",
+      "HR admin alerts for onboarding status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR administrators in small to medium-sized marketing agencies processing 5\u201315 new hires/month, inefficient onboarding causes delays in training and paperwork completion. We streamline onboarding instead of manual processes.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

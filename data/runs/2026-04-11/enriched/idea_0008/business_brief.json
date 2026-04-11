@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancer using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancer using QuickBooks processing 5\u201315 invoices/month, overdue payments cause cash flow gaps. We alert finance ops instead of manual tracking of invoices and payment statuses.",
+  "target_audience": "freelancer using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Overdue payments causing cash flow gaps.",
+  "features": [
+    "Invoice status monitoring",
+    "Threshold alert notifications",
+    "Manual entry for invoice details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancer using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Overdue payments causing cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancer using QuickBooks processing 5\u201315 invoices/month, overdue payments cause cash flow gaps. We alert finance ops instead of manual tracking of invoices and payment statuses.",
+    "current_alternative": "manual tracking of invoices and payment statuses",
+    "must_have_features": [
+      "Invoice status monitoring",
+      "Threshold alert notifications",
+      "Manual entry for invoice details"
+    ]
+  },
+  "one_liner": "For freelancer using QuickBooks processing 5\u201315 invoices/month, overdue payments cause cash flow gaps. We alert finance ops instead of manual tracking of invoices and payment statuses.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

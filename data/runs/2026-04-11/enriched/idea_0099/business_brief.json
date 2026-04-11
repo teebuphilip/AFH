@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small accounting firms processing 5\u201315 clients/month tool",
+  "description": "For small accounting firms processing 5\u201315 clients/month, inefficient preparation causes late financial reporting. We automate the preparation of monthly financial statements instead of manual preparation using spreadsheets.",
+  "target_audience": "small accounting firms processing 5\u201315 clients/month",
+  "problem_solved": "inefficient preparation of monthly financial statements",
+  "features": [
+    "template-based financial statement generation",
+    "manual data entry support",
+    "monthly report scheduling"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small accounting firms processing 5\u201315 clients/month",
+    "primary_problem": "inefficient preparation of monthly financial statements",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small accounting firms processing 5\u201315 clients/month, inefficient preparation causes late financial reporting. We automate the preparation of monthly financial statements instead of manual preparation using spreadsheets.",
+    "current_alternative": "manual preparation of financial statements using spreadsheets",
+    "must_have_features": [
+      "template-based financial statement generation",
+      "manual data entry support",
+      "monthly report scheduling"
+    ]
+  },
+  "one_liner": "For small accounting firms processing 5\u201315 clients/month, inefficient preparation causes late financial reporting. We automate the preparation of monthly financial statements instead of manual preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-11",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

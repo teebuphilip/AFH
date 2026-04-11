@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, manual data entry causes late order fulfillment. We automate data extraction instead of manual entry into ERP systems.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Manual data entry from invoices is time-consuming and error-prone.",
+  "features": [
+    "Document scanning capability",
+    "Basic data extraction from invoices",
+    "User-friendly interface for manual adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Manual data entry from invoices is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, manual data entry causes late order fulfillment. We automate data extraction instead of manual entry into ERP systems.",
+    "current_alternative": "Manual entry into ERP systems",
+    "must_have_features": [
+      "Document scanning capability",
+      "Basic data extraction from invoices",
+      "User-friendly interface for manual adjustments"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, manual data entry causes late order fulfillment. We automate data extraction instead of manual entry into ERP systems.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

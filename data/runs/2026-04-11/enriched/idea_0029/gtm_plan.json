@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical billing specialists processing 20\u201350 invoices/month",
+  "offer": "For medical billing specialists processing 20\u201350 invoices/month, frequent billing errors cause delayed payments. We automate daily error report compilation instead of manual error tracking and reporting.",
+  "problem": "Frequent billing errors leading to delayed payments.",
+  "channels_free": [
+    "Post in Reddit communities for medical billing specialists",
+    "Indie Hackers posts discussing similar workflows",
+    "DM outreach to medical billing specialists with demo video",
+    "Community forums where medical billing specialists share tools"
+  ],
+  "try_it": "Let users try manual error entry for accuracy and report generation",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual error entry workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "idea_text": "Inventory replenishment bot that monitors stock levels, places orders, and alerts warehouse teams based on customizable thresholds.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76
+}

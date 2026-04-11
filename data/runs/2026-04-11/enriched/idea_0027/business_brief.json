@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 10\u201320 claims/month tool",
+  "description": "For insurance adjusters processing 10\u201320 claims/month, inefficient claim summary generation causes delays in processing. We generate concise summaries instead of manual summarization of claims.",
+  "target_audience": "insurance adjusters processing 10\u201320 claims/month",
+  "problem_solved": "Inefficient claim summary generation",
+  "features": [
+    "manual input for claim details",
+    "template-based summary generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 10\u201320 claims/month",
+    "primary_problem": "Inefficient claim summary generation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 10\u201320 claims/month, inefficient claim summary generation causes delays in processing. We generate concise summaries instead of manual summarization of claims.",
+    "current_alternative": "manual summarization of claims",
+    "must_have_features": [
+      "manual input for claim details",
+      "template-based summary generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 10\u201320 claims/month, inefficient claim summary generation causes delays in processing. We generate concise summaries instead of manual summarization of claims.",
+  "source": {
+    "idea_id": "idea_0027",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

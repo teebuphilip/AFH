@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "junior associates at law firms overwhelming tool",
+    "junior associates at law firms overwhelming automation",
+    "junior associates at law firms processing 5 15 legal cases month overwhelming tool",
+    "junior associates at law firms processing 5 15 legal cases month overwhelming automation",
+    "junior associates at law firms processing 5 15 legal cases month overwhelming workflow"
+  ],
+  "secondary_keywords": [
+    "junior associates at law firms processing 5 15 legal cases month overwhelming tool software",
+    "junior associates at law firms processing 5 15 legal cases month overwhelming tool platform",
+    "junior associates at law firms processing 5 15 legal cases month overwhelming tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For junior associates at law firms processing 5\u201315 legal cases/month, overwhelming research causes missed deadlines. We provide concise summaries instead of manual research and summarization.",
+    "Overwhelming amount of legal research leading to inefficiencies.",
+    "junior associates at law firms processing 5\u201315 legal cases/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Junior Associates At Law Firms Processing 5 15 Legal Cases Month Overwhelming Tool Software",
+      "target_keyword": "junior associates at law firms processing 5 15 legal cases month overwhelming tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Junior Associates At Law Firms Processing 5 15 Legal Cases Month Overwhelming Tool Platform",
+      "target_keyword": "junior associates at law firms processing 5 15 legal cases month overwhelming tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Junior Associates At Law Firms Processing 5 15 Legal Cases Month Overwhelming Tool Solution",
+      "target_keyword": "junior associates at law firms processing 5 15 legal cases month overwhelming tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Junior Associates At Law Firms Processing 5 15 Legal Cases Month Overwhelming Tool",
+      "target_keyword": "junior associates at law firms processing 5 15 legal cases month overwhelming tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Junior Associates At Law Firms Processing 5 15 Legal Cases Month Overwhelming Automation",
+      "target_keyword": "junior associates at law firms processing 5 15 legal cases month overwhelming automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Junior Associates At Law Firms Processing 5 15 Legal Cases Month Overwhelming Workflow",
+      "target_keyword": "junior associates at law firms processing 5 15 legal cases month overwhelming workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "junior associates at law firms overwhelming tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "junior associates at law firms overwhelming tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "junior associates at law firms overwhelming tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "junior associates at law firms overwhelming tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "junior associates at law firms overwhelming tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | junior associates at law firms tool",
+      "junior associates at law firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "junior associates at law firms tool helps with overwhelming amount of legal research leading to inefficiencies."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

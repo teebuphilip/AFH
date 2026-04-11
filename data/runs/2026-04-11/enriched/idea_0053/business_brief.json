@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers managing 10-50 rental units tool",
+  "description": "For property managers managing 10-50 rental units, inefficient tenant screening causes potential vacancies. We automate tenant screening instead of manual tenant screening and lease management.",
+  "target_audience": "property managers managing 10-50 rental units",
+  "problem_solved": "inefficient tenant screening and lease renewal processes",
+  "features": [
+    "lease renewal reminders",
+    "maintenance scheduling",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers managing 10-50 rental units",
+    "primary_problem": "inefficient tenant screening and lease renewal processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers managing 10-50 rental units, inefficient tenant screening causes potential vacancies. We automate tenant screening instead of manual tenant screening and lease management.",
+    "current_alternative": "manual tenant screening and lease management",
+    "must_have_features": [
+      "lease renewal reminders",
+      "maintenance scheduling",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers managing 10-50 rental units, inefficient tenant screening causes potential vacancies. We automate tenant screening instead of manual tenant screening and lease management.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-11",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

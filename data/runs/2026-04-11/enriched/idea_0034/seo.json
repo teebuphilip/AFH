@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "insurance agency administrators managing licenses month missed tool",
+    "insurance agency administrators managing licenses month missed automation",
+    "insurance agency administrators managing 5 15 licenses month missed tool",
+    "insurance agency administrators managing 5 15 licenses month missed automation",
+    "insurance agency administrators managing 5 15 licenses month missed workflow"
+  ],
+  "secondary_keywords": [
+    "insurance agency administrators managing 5 15 licenses month missed tool software",
+    "insurance agency administrators managing 5 15 licenses month missed tool platform",
+    "insurance agency administrators managing 5 15 licenses month missed tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For insurance agency administrators processing 5\u201315 licenses/month, missed renewals cause compliance issues. We provide automated reminders instead of manual tracking of license renewals.",
+    "missed license renewals leading to compliance issues",
+    "insurance agency administrators managing 5\u201315 licenses/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Insurance Agency Administrators Managing 5 15 Licenses Month Missed Tool Software",
+      "target_keyword": "insurance agency administrators managing 5 15 licenses month missed tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Agency Administrators Managing 5 15 Licenses Month Missed Tool Platform",
+      "target_keyword": "insurance agency administrators managing 5 15 licenses month missed tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Agency Administrators Managing 5 15 Licenses Month Missed Tool Solution",
+      "target_keyword": "insurance agency administrators managing 5 15 licenses month missed tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Agency Administrators Managing 5 15 Licenses Month Missed Tool",
+      "target_keyword": "insurance agency administrators managing 5 15 licenses month missed tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Agency Administrators Managing 5 15 Licenses Month Missed Automation",
+      "target_keyword": "insurance agency administrators managing 5 15 licenses month missed automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Agency Administrators Managing 5 15 Licenses Month Missed Workflow",
+      "target_keyword": "insurance agency administrators managing 5 15 licenses month missed workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "insurance agency administrators managing licenses month missed tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "insurance agency administrators managing licenses month missed tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "insurance agency administrators managing licenses month missed tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "insurance agency administrators managing licenses month missed tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "insurance agency administrators managing licenses month missed tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | insurance agency administrators managing licenses month tool",
+      "insurance agency administrators managing licenses month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "insurance agency administrators managing licenses month tool helps with missed license renewals leading to compliance issues."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

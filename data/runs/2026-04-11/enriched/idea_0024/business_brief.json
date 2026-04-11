@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/week tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/week, shipment delays cause operational inefficiencies. We provide timely alerts instead of manual tracking and sporadic updates.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/week",
+  "problem_solved": "shipment delays causing operational inefficiencies",
+  "features": [
+    "weekly delay alerts",
+    "shipment status dashboard",
+    "manual entry for missed updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/week",
+    "primary_problem": "shipment delays causing operational inefficiencies",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/week, shipment delays cause operational inefficiencies. We provide timely alerts instead of manual tracking and sporadic updates.",
+    "current_alternative": "manual tracking and sporadic updates",
+    "must_have_features": [
+      "weekly delay alerts",
+      "shipment status dashboard",
+      "manual entry for missed updates"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/week, shipment delays cause operational inefficiencies. We provide timely alerts instead of manual tracking and sporadic updates.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-11",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

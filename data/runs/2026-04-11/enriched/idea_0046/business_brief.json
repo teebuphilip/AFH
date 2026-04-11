@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 lease agreements/month tool",
+  "description": "For property managers processing 5\u201315 lease agreements/month, missed lease renewals cause revenue loss. We provide automated renewal alerts instead of manual tracking using spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 lease agreements/month",
+  "problem_solved": "missed lease renewals leading to potential vacancy and revenue loss",
+  "features": [
+    "manual entry of lease expiry dates",
+    "email notifications for upcoming renewals",
+    "dashboard for tracking lease statuses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 lease agreements/month",
+    "primary_problem": "missed lease renewals leading to potential vacancy and revenue loss",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 lease agreements/month, missed lease renewals cause revenue loss. We provide automated renewal alerts instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking of lease dates using spreadsheets",
+    "must_have_features": [
+      "manual entry of lease expiry dates",
+      "email notifications for upcoming renewals",
+      "dashboard for tracking lease statuses"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 lease agreements/month, missed lease renewals cause revenue loss. We provide automated renewal alerts instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

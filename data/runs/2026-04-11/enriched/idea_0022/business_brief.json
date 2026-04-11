@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized accounting firms processing 10-20 invoices/month tool",
+  "description": "For procurement teams in mid-sized accounting firms processing 10-20 invoices/month, manual tracking causes missed discounts. We provide automated tracking instead of manual tracking through spreadsheets.",
+  "target_audience": "procurement teams in mid-sized accounting firms processing 10-20 invoices/month",
+  "problem_solved": "Difficulty in tracking and reporting vendor early payment discounts.",
+  "features": [
+    "manual entry of vendor payment terms",
+    "discount tracking dashboard",
+    "report generation for early payment opportunities"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized accounting firms processing 10-20 invoices/month",
+    "primary_problem": "Difficulty in tracking and reporting vendor early payment discounts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement teams in mid-sized accounting firms processing 10-20 invoices/month, manual tracking causes missed discounts. We provide automated tracking instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "manual entry of vendor payment terms",
+      "discount tracking dashboard",
+      "report generation for early payment opportunities"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized accounting firms processing 10-20 invoices/month, manual tracking causes missed discounts. We provide automated tracking instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 66
+  }
+}

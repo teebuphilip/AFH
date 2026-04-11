@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators managing 50\u2013100 shipments/month tool",
+  "description": "For logistics coordinators processing 50\u2013100 shipments/month, high shipping costs cause budget overruns. We recommend cost-saving carrier assignments instead of manual carrier selection based on past experiences.",
+  "target_audience": "logistics coordinators managing 50\u2013100 shipments/month",
+  "problem_solved": "High shipping costs due to inefficient carrier assignments.",
+  "features": [
+    "shipping cost analysis tool",
+    "carrier performance tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators managing 50\u2013100 shipments/month",
+    "primary_problem": "High shipping costs due to inefficient carrier assignments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators processing 50\u2013100 shipments/month, high shipping costs cause budget overruns. We recommend cost-saving carrier assignments instead of manual carrier selection based on past experiences.",
+    "current_alternative": "manual carrier selection based on past experiences",
+    "must_have_features": [
+      "shipping cost analysis tool",
+      "carrier performance tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics coordinators processing 50\u2013100 shipments/month, high shipping costs cause budget overruns. We recommend cost-saving carrier assignments instead of manual carrier selection based on past experiences.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-11",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

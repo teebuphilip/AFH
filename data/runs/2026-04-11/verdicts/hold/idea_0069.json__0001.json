@@ -1,0 +1,15 @@
+{
+  "idea_text": "Fixed asset depreciation calculator that integrates with accounting systems and provides tax optimization recommendations.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 70,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 62,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-11T09:57:19.362365",
+  "verdict_source": "overlay_score"
+}

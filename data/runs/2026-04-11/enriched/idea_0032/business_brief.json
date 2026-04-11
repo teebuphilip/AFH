@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm accountants processing 5\u201315 invoices/month tool",
+  "description": "For law firm accountants processing 5\u201315 invoices/month, inaccurate billing statements cause cash flow gaps. We convert legal time sheets into formatted billing statements instead of manual formatting of billing statements.",
+  "target_audience": "law firm accountants processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate billing statements from manual time sheet entries.",
+  "features": [
+    "manual entry of time sheets",
+    "template selection for billing statements",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm accountants processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate billing statements from manual time sheet entries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm accountants processing 5\u201315 invoices/month, inaccurate billing statements cause cash flow gaps. We convert legal time sheets into formatted billing statements instead of manual formatting of billing statements.",
+    "current_alternative": "manual formatting of billing statements",
+    "must_have_features": [
+      "manual entry of time sheets",
+      "template selection for billing statements",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm accountants processing 5\u201315 invoices/month, inaccurate billing statements cause cash flow gaps. We convert legal time sheets into formatted billing statements instead of manual formatting of billing statements.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-11",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

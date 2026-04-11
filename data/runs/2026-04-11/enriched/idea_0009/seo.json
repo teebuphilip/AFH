@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "bookkeepers managing - clients inefficient tool",
+    "bookkeepers managing - clients inefficient automation",
+    "consuming manual bookkeeping",
+    "bookkeepers managing 10-30 clients inefficient tool",
+    "bookkeepers managing 10-30 clients inefficient automation",
+    "bookkeepers managing 10-30 clients inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "consuming manual bookkeeping software",
+    "consuming manual bookkeeping platform",
+    "consuming manual bookkeeping solution"
+  ],
+  "long_tail_keywords": [
+    "how to consuming manual bookkeeping",
+    "best consuming manual bookkeeping tool",
+    "consuming manual bookkeeping vs spreadsheets",
+    "consuming manual bookkeeping checklist",
+    "consuming manual bookkeeping pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For bookkeepers managing 10-30 clients, inefficient categorization of bank transactions causes time-consuming manual bookkeeping. We automate categorization instead of manual categorization of transactions in spreadsheets.",
+    "Inefficient categorization of bank transactions leads to time-consuming manual bookkeeping.",
+    "bookkeepers managing 10-30 clients"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Consuming Manual Bookkeeping",
+      "target_keyword": "how to consuming manual bookkeeping",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Consuming Manual Bookkeeping Tool",
+      "target_keyword": "best consuming manual bookkeeping tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Consuming Manual Bookkeeping Vs Spreadsheets",
+      "target_keyword": "consuming manual bookkeeping vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Consuming Manual Bookkeeping Checklist",
+      "target_keyword": "consuming manual bookkeeping checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Consuming Manual Bookkeeping Pricing",
+      "target_keyword": "consuming manual bookkeeping pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Consuming Manual Bookkeeping Software",
+      "target_keyword": "consuming manual bookkeeping software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Consuming Manual Bookkeeping Platform",
+      "target_keyword": "consuming manual bookkeeping platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Consuming Manual Bookkeeping Solution",
+      "target_keyword": "consuming manual bookkeeping solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Consuming Manual Bookkeeping",
+      "target_keyword": "consuming manual bookkeeping",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Bookkeepers Managing 10-30 Clients Inefficient Tool",
+      "target_keyword": "bookkeepers managing 10-30 clients inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Bookkeepers Managing 10-30 Clients Inefficient Automation",
+      "target_keyword": "bookkeepers managing 10-30 clients inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Bookkeepers Managing 10-30 Clients Inefficient Workflow",
+      "target_keyword": "bookkeepers managing 10-30 clients inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "bookkeepers managing - clients inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "bookkeepers managing - clients inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "bookkeepers managing - clients inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "bookkeepers managing - clients inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "bookkeepers managing - clients inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | bookkeepers managing - clients tool",
+      "bookkeepers managing - clients tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "bookkeepers managing - clients tool helps with inefficient categorization of bank transactions leads to time-consuming manual bookkeeping."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

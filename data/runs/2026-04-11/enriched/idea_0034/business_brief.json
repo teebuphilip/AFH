@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance agency administrators managing 5\u201315 licenses/month tool",
+  "description": "For insurance agency administrators processing 5\u201315 licenses/month, missed renewals cause compliance issues. We provide automated reminders instead of manual tracking of license renewals.",
+  "target_audience": "insurance agency administrators managing 5\u201315 licenses/month",
+  "problem_solved": "missed license renewals leading to compliance issues",
+  "features": [
+    "manual entry of license details",
+    "customizable reminder settings",
+    "dashboard for tracking upcoming renewals"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance agency administrators managing 5\u201315 licenses/month",
+    "primary_problem": "missed license renewals leading to compliance issues",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For insurance agency administrators processing 5\u201315 licenses/month, missed renewals cause compliance issues. We provide automated reminders instead of manual tracking of license renewals.",
+    "current_alternative": "manual tracking of license renewals",
+    "must_have_features": [
+      "manual entry of license details",
+      "customizable reminder settings",
+      "dashboard for tracking upcoming renewals"
+    ]
+  },
+  "one_liner": "For insurance agency administrators processing 5\u201315 licenses/month, missed renewals cause compliance issues. We provide automated reminders instead of manual tracking of license renewals.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-11",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

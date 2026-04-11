@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 5\u201315 payrolls/month",
+  "offer": "For accounting firms processing 5\u201315 payrolls/month, manual tracking causes late filings and penalties. We automate payroll tax compliance instead of manual tracking and filing of payroll taxes.",
+  "problem": "Ensuring timely and accurate payroll tax compliance.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers posts on payroll compliance",
+    "DM outreach to accounting firms with demo link",
+    "Community forums for accounting tools discussions"
+  ],
+  "try_it": "Let users try deposit scheduling and audit support documentation",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with clear CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

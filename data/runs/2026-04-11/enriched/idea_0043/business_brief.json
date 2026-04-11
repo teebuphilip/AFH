@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant accounting staff processing 20-50 cash register reconciliations/day tool",
+  "description": "For restaurant accounting staff processing 20-50 cash register reconciliations/day, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "restaurant accounting staff processing 20-50 cash register reconciliations/day",
+  "problem_solved": "Manual reconciliation of cash registers is time-consuming and prone to errors.",
+  "features": [
+    "daily transaction summary",
+    "error detection alerts",
+    "manual entry override"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant accounting staff processing 20-50 cash register reconciliations/day",
+    "primary_problem": "Manual reconciliation of cash registers is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant accounting staff processing 20-50 cash register reconciliations/day, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "daily transaction summary",
+      "error detection alerts",
+      "manual entry override"
+    ]
+  },
+  "one_liner": "For restaurant accounting staff processing 20-50 cash register reconciliations/day, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

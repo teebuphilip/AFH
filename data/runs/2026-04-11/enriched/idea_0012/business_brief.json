@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, unexpected subscription charges cause budget overruns. We provide automated monitoring instead of manual tracking of expenses through spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "unexpected subscription charges leading to budget overruns",
+  "features": [
+    "alert system for unexpected charges",
+    "monthly expense summary report",
+    "manual entry option for non-recurring expenses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "unexpected subscription charges leading to budget overruns",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, unexpected subscription charges cause budget overruns. We provide automated monitoring instead of manual tracking of expenses through spreadsheets.",
+    "current_alternative": "manual tracking of expenses through spreadsheets",
+    "must_have_features": [
+      "alert system for unexpected charges",
+      "monthly expense summary report",
+      "manual entry option for non-recurring expenses"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, unexpected subscription charges cause budget overruns. We provide automated monitoring instead of manual tracking of expenses through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-11",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

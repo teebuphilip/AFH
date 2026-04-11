@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201315 daily routes tool",
+  "description": "For logistics carriers managing 5\u201315 daily routes, route deviations cause late deliveries. We generate daily delivery route deviation alerts instead of manual tracking of delivery routes.",
+  "target_audience": "logistics carriers managing 5\u201315 daily routes",
+  "problem_solved": "Route deviations lead to late deliveries and increased operational costs.",
+  "features": [
+    "Daily alert notifications",
+    "Route deviation logging",
+    "User-friendly dashboard for monitoring"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201315 daily routes",
+    "primary_problem": "Route deviations lead to late deliveries and increased operational costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5\u201315 daily routes, route deviations cause late deliveries. We generate daily delivery route deviation alerts instead of manual tracking of delivery routes.",
+    "current_alternative": "manual tracking of delivery routes",
+    "must_have_features": [
+      "Daily alert notifications",
+      "Route deviation logging",
+      "User-friendly dashboard for monitoring"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5\u201315 daily routes, route deviations cause late deliveries. We generate daily delivery route deviation alerts instead of manual tracking of delivery routes.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

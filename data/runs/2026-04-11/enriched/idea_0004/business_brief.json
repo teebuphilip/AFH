@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 expense reports/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual formatting causes delays in reimbursements. We convert raw expense reports into formatted reimbursement summaries instead of manual formatting of expense reports.",
+  "target_audience": "accounting firms processing 10\u201320 expense reports/month",
+  "problem_solved": "Manual formatting of expense reports leads to delays in reimbursements.",
+  "features": [
+    "manual data entry for expense reports",
+    "template selection for reimbursement summaries",
+    "export functionality to common formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 expense reports/month",
+    "primary_problem": "Manual formatting of expense reports leads to delays in reimbursements.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual formatting causes delays in reimbursements. We convert raw expense reports into formatted reimbursement summaries instead of manual formatting of expense reports.",
+    "current_alternative": "manual formatting of expense reports",
+    "must_have_features": [
+      "manual data entry for expense reports",
+      "template selection for reimbursement summaries",
+      "export functionality to common formats"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual formatting causes delays in reimbursements. We convert raw expense reports into formatted reimbursement summaries instead of manual formatting of expense reports.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

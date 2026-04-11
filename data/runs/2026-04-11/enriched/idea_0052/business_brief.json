@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inaccurate categorization causes cash flow gaps. We provide automated categorization instead of manual tracking in spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate categorization of procurement spend leading to cash flow gaps.",
+  "features": [
+    "invoice categorization",
+    "monthly reporting",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate categorization of procurement spend leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inaccurate categorization causes cash flow gaps. We provide automated categorization instead of manual tracking in spreadsheets.",
+    "current_alternative": "manual tracking in spreadsheets",
+    "must_have_features": [
+      "invoice categorization",
+      "monthly reporting",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inaccurate categorization causes cash flow gaps. We provide automated categorization instead of manual tracking in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-11",
+    "overlay_score": 78,
+    "arr_score": 81
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant operators processing 10-20 invoices/month tool",
+  "description": "For restaurant operators processing 10-20 invoices/month, manual report generation causes missed opportunities for customer engagement. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "restaurant operators processing 10-20 invoices/month",
+  "problem_solved": "Difficulty in generating actionable insights from customer data for loyalty programs.",
+  "features": [
+    "Customer data visualization",
+    "Loyalty program tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant operators processing 10-20 invoices/month",
+    "primary_problem": "Difficulty in generating actionable insights from customer data for loyalty programs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant operators processing 10-20 invoices/month, manual report generation causes missed opportunities for customer engagement. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "Customer data visualization",
+      "Loyalty program tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant operators processing 10-20 invoices/month, manual report generation causes missed opportunities for customer engagement. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

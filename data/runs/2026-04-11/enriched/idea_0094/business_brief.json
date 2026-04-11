@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers handling 5\u201310 projects simultaneously tool",
+  "description": "For construction project managers processing 5\u201310 projects simultaneously, unclear project plans cause miscommunication among stakeholders. We provide 3D visualizations instead of 2D blueprints and manual sketches.",
+  "target_audience": "construction project managers handling 5\u201310 projects simultaneously",
+  "problem_solved": "Difficulty in visualizing project plans leads to miscommunication among stakeholders.",
+  "features": [
+    "3D visualization generation",
+    "Basic collaboration tools for team feedback",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers handling 5\u201310 projects simultaneously",
+    "primary_problem": "Difficulty in visualizing project plans leads to miscommunication among stakeholders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers processing 5\u201310 projects simultaneously, unclear project plans cause miscommunication among stakeholders. We provide 3D visualizations instead of 2D blueprints and manual sketches.",
+    "current_alternative": "2D blueprints and manual sketches",
+    "must_have_features": [
+      "3D visualization generation",
+      "Basic collaboration tools for team feedback",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project managers processing 5\u201310 projects simultaneously, unclear project plans cause miscommunication among stakeholders. We provide 3D visualizations instead of 2D blueprints and manual sketches.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-11",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

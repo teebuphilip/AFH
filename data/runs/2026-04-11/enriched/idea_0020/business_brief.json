@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201320 invoices/month tool",
+  "description": "For Shopify sellers processing 10\u201320 invoices/month, refund discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "Shopify sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in reconciling customer refunds with payment processor data",
+  "features": [
+    "Manual entry for refund requests",
+    "Notification system for finance teams",
+    "Basic reporting on refund trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in reconciling customer refunds with payment processor data",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201320 invoices/month, refund discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "Manual reconciliation processes",
+    "must_have_features": [
+      "Manual entry for refund requests",
+      "Notification system for finance teams",
+      "Basic reporting on refund trends"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201320 invoices/month, refund discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-11",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

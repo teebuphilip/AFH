@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 transactions/month tool",
+  "description": "For Etsy sellers processing 5\u201315 transactions/month, inaccurate petty cash reconciliation causes cash flow gaps. We automate reconciliation instead of manual tracking of receipts and expenses.",
+  "target_audience": "Etsy sellers processing 5\u201315 transactions/month",
+  "problem_solved": "Inaccurate petty cash reconciliation leading to financial discrepancies.",
+  "features": [
+    "Manual entry option for cash transactions",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 transactions/month",
+    "primary_problem": "Inaccurate petty cash reconciliation leading to financial discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 transactions/month, inaccurate petty cash reconciliation causes cash flow gaps. We automate reconciliation instead of manual tracking of receipts and expenses.",
+    "current_alternative": "Manual tracking of receipts and expenses",
+    "must_have_features": [
+      "Manual entry option for cash transactions",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 transactions/month, inaccurate petty cash reconciliation causes cash flow gaps. We automate reconciliation instead of manual tracking of receipts and expenses.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

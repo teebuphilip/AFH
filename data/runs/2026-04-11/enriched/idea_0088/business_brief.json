@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5-15 vehicles tool",
+  "description": "For logistics carriers managing 5-15 vehicles, inefficient route planning causes increased fuel costs and delayed deliveries. We provide automated route optimization instead of manual route planning and tracking.",
+  "target_audience": "logistics carriers managing 5-15 vehicles",
+  "problem_solved": "Inefficient route planning leading to increased fuel costs and delayed deliveries.",
+  "features": [
+    "vehicle utilization monitoring",
+    "route optimization reporting",
+    "manual input for vehicle data"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5-15 vehicles",
+    "primary_problem": "Inefficient route planning leading to increased fuel costs and delayed deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5-15 vehicles, inefficient route planning causes increased fuel costs and delayed deliveries. We provide automated route optimization instead of manual route planning and tracking.",
+    "current_alternative": "manual route planning and tracking",
+    "must_have_features": [
+      "vehicle utilization monitoring",
+      "route optimization reporting",
+      "manual input for vehicle data"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5-15 vehicles, inefficient route planning causes increased fuel costs and delayed deliveries. We provide automated route optimization instead of manual route planning and tracking.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-11",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

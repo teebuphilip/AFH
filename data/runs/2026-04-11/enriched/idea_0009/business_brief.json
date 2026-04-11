@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 10-30 clients tool",
+  "description": "For bookkeepers managing 10-30 clients, inefficient categorization of bank transactions causes time-consuming manual bookkeeping. We automate categorization instead of manual categorization of transactions in spreadsheets.",
+  "target_audience": "bookkeepers managing 10-30 clients",
+  "problem_solved": "Inefficient categorization of bank transactions leads to time-consuming manual bookkeeping.",
+  "features": [
+    "manual entry for transaction categorization",
+    "export functionality for ledger entries",
+    "user-friendly interface for transaction review"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 10-30 clients",
+    "primary_problem": "Inefficient categorization of bank transactions leads to time-consuming manual bookkeeping.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 10-30 clients, inefficient categorization of bank transactions causes time-consuming manual bookkeeping. We automate categorization instead of manual categorization of transactions in spreadsheets.",
+    "current_alternative": "manual categorization of transactions in spreadsheets",
+    "must_have_features": [
+      "manual entry for transaction categorization",
+      "export functionality for ledger entries",
+      "user-friendly interface for transaction review"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 10-30 clients, inefficient categorization of bank transactions causes time-consuming manual bookkeeping. We automate categorization instead of manual categorization of transactions in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

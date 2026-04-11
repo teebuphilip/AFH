@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm office managers managing 5-10 employees tool",
+  "description": "For law firm office managers managing 5-10 employees, inconsistent IT asset management causes compliance risks. We automate scheduling of routine IT asset audits instead of manual tracking using spreadsheets.",
+  "target_audience": "law firm office managers managing 5-10 employees",
+  "problem_solved": "Inconsistent IT asset management leading to compliance risks.",
+  "features": [
+    "report generation for compliance",
+    "user-friendly dashboard for asset tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm office managers managing 5-10 employees",
+    "primary_problem": "Inconsistent IT asset management leading to compliance risks.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firm office managers managing 5-10 employees, inconsistent IT asset management causes compliance risks. We automate scheduling of routine IT asset audits instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking of IT assets using spreadsheets",
+    "must_have_features": [
+      "report generation for compliance",
+      "user-friendly dashboard for asset tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm office managers managing 5-10 employees, inconsistent IT asset management causes compliance risks. We automate scheduling of routine IT asset audits instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "solo practitioners in law firms processing 5\u201315 case files/month tool",
+  "description": "For solo practitioners in law firms processing 5\u201315 case files/month, inefficient conversion causes delays in court submissions. We automate the conversion instead of manual conversion of case files.",
+  "target_audience": "solo practitioners in law firms processing 5\u201315 case files/month",
+  "problem_solved": "Inefficient conversion of legal case files into electronic formats.",
+  "features": [
+    "basic format conversion",
+    "user-friendly interface",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "solo practitioners in law firms processing 5\u201315 case files/month",
+    "primary_problem": "Inefficient conversion of legal case files into electronic formats.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For solo practitioners in law firms processing 5\u201315 case files/month, inefficient conversion causes delays in court submissions. We automate the conversion instead of manual conversion of case files.",
+    "current_alternative": "manual conversion of case files",
+    "must_have_features": [
+      "basic format conversion",
+      "user-friendly interface",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For solo practitioners in law firms processing 5\u201315 case files/month, inefficient conversion causes delays in court submissions. We automate the conversion instead of manual conversion of case files.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

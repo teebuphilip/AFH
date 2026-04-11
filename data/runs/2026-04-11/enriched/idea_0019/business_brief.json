@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility bills/month tool",
+  "description": "For property managers processing 5\u201315 invoices/month, inefficient data compilation causes inaccurate monthly reports. We automate the extraction and compilation of utility bill data instead of manual data entry and report generation.",
+  "target_audience": "property managers processing 5\u201315 utility bills/month",
+  "problem_solved": "Inefficient compilation of utility bill data into monthly reports.",
+  "features": [
+    "manual data entry interface",
+    "monthly report generation",
+    "data validation checks"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility bills/month",
+    "primary_problem": "Inefficient compilation of utility bill data into monthly reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 invoices/month, inefficient data compilation causes inaccurate monthly reports. We automate the extraction and compilation of utility bill data instead of manual data entry and report generation.",
+    "current_alternative": "manual data entry and report generation",
+    "must_have_features": [
+      "manual data entry interface",
+      "monthly report generation",
+      "data validation checks"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 invoices/month, inefficient data compilation causes inaccurate monthly reports. We automate the extraction and compilation of utility bill data instead of manual data entry and report generation.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-11",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

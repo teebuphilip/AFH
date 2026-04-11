@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "junior associates at law firms processing 5\u201315 legal cases/month tool",
+  "description": "For junior associates at law firms processing 5\u201315 legal cases/month, overwhelming research causes missed deadlines. We provide concise summaries instead of manual research and summarization.",
+  "target_audience": "junior associates at law firms processing 5\u201315 legal cases/month",
+  "problem_solved": "Overwhelming amount of legal research leading to inefficiencies.",
+  "features": [
+    "manual input for legal documents",
+    "simple interface for summarization",
+    "export summaries in text format"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "junior associates at law firms processing 5\u201315 legal cases/month",
+    "primary_problem": "Overwhelming amount of legal research leading to inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For junior associates at law firms processing 5\u201315 legal cases/month, overwhelming research causes missed deadlines. We provide concise summaries instead of manual research and summarization.",
+    "current_alternative": "manual research and summarization",
+    "must_have_features": [
+      "manual input for legal documents",
+      "simple interface for summarization",
+      "export summaries in text format"
+    ]
+  },
+  "one_liner": "For junior associates at law firms processing 5\u201315 legal cases/month, overwhelming research causes missed deadlines. We provide concise summaries instead of manual research and summarization.",
+  "source": {
+    "idea_id": "idea_0098",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

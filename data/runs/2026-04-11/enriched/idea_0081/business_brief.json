@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers processing 5\u201315 shifts/day tool",
+  "description": "For restaurant managers processing 5\u201315 shifts/day, inefficient reporting causes delays in operational insights. We automate end-of-shift reporting instead of manual reporting processes.",
+  "target_audience": "restaurant managers processing 5\u201315 shifts/day",
+  "problem_solved": "Inefficient end-of-shift reporting",
+  "features": [
+    "simple report generation",
+    "shift summary templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers processing 5\u201315 shifts/day",
+    "primary_problem": "Inefficient end-of-shift reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers processing 5\u201315 shifts/day, inefficient reporting causes delays in operational insights. We automate end-of-shift reporting instead of manual reporting processes.",
+    "current_alternative": "manual reporting processes",
+    "must_have_features": [
+      "simple report generation",
+      "shift summary templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant managers processing 5\u201315 shifts/day, inefficient reporting causes delays in operational insights. We automate end-of-shift reporting instead of manual reporting processes.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

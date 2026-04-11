@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms managing 5\u201315 contracts/month tool",
+  "description": "For law firms processing 5\u201315 contracts/month, inefficient tracking causes missed deadlines. We centralize agreements instead of manual tracking through spreadsheets.",
+  "target_audience": "law firms managing 5\u201315 contracts/month",
+  "problem_solved": "inefficient tracking of contract renewals leading to missed deadlines",
+  "features": [
+    "centralized document storage",
+    "renewal reminder notifications",
+    "report generation capabilities"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms managing 5\u201315 contracts/month",
+    "primary_problem": "inefficient tracking of contract renewals leading to missed deadlines",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 contracts/month, inefficient tracking causes missed deadlines. We centralize agreements instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "centralized document storage",
+      "renewal reminder notifications",
+      "report generation capabilities"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 contracts/month, inefficient tracking causes missed deadlines. We centralize agreements instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 66
+  }
+}

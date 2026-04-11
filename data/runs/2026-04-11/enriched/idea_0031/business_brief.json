@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant inventory managers processing 10-20 inventory reports/week tool",
+  "description": "For restaurant inventory managers processing 10-20 inventory reports/week, inaccurate inventory tracking causes overstocking and waste. We provide automated weekly inventory usage reports instead of manual tracking and spreadsheets.",
+  "target_audience": "restaurant inventory managers processing 10-20 inventory reports/week",
+  "problem_solved": "Inaccurate inventory tracking leads to overstocking and waste.",
+  "features": [
+    "Weekly inventory usage report generation",
+    "Manual data entry for inventory items",
+    "Basic analytics on inventory trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant inventory managers processing 10-20 inventory reports/week",
+    "primary_problem": "Inaccurate inventory tracking leads to overstocking and waste.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant inventory managers processing 10-20 inventory reports/week, inaccurate inventory tracking causes overstocking and waste. We provide automated weekly inventory usage reports instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "Weekly inventory usage report generation",
+      "Manual data entry for inventory items",
+      "Basic analytics on inventory trends"
+    ]
+  },
+  "one_liner": "For restaurant inventory managers processing 10-20 inventory reports/week, inaccurate inventory tracking causes overstocking and waste. We provide automated weekly inventory usage reports instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-11",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

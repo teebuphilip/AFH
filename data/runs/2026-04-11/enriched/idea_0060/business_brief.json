@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations teams in marketing agencies processing 10\u201350 client projects/month tool",
+  "description": "For sales operations teams in marketing agencies processing 10\u201350 client projects/month, inefficient tracking causes missed opportunities. We provide a sales pipeline visualization tool instead of manual spreadsheets and email tracking.",
+  "target_audience": "sales operations teams in marketing agencies processing 10\u201350 client projects/month",
+  "problem_solved": "inefficient tracking of sales activities and client interactions",
+  "features": [
+    "visual sales pipeline representation",
+    "activity report generation",
+    "customer data aggregation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations teams in marketing agencies processing 10\u201350 client projects/month",
+    "primary_problem": "inefficient tracking of sales activities and client interactions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations teams in marketing agencies processing 10\u201350 client projects/month, inefficient tracking causes missed opportunities. We provide a sales pipeline visualization tool instead of manual spreadsheets and email tracking.",
+    "current_alternative": "manual spreadsheets and email tracking",
+    "must_have_features": [
+      "visual sales pipeline representation",
+      "activity report generation",
+      "customer data aggregation"
+    ]
+  },
+  "one_liner": "For sales operations teams in marketing agencies processing 10\u201350 client projects/month, inefficient tracking causes missed opportunities. We provide a sales pipeline visualization tool instead of manual spreadsheets and email tracking.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-11",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

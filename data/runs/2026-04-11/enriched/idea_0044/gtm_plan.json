@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firm office managers managing 5-10 employees",
+  "offer": "For law firm office managers managing 5-10 employees, inconsistent IT asset management causes compliance risks. We automate scheduling of routine IT asset audits instead of manual tracking using spreadsheets.",
+  "problem": "Inconsistent IT asset management leading to compliance risks.",
+  "channels_free": [
+    "Post in Reddit communities for law firm office managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to law firm office managers with demo video",
+    "Community forums for sharing tools and resources"
+  ],
+  "try_it": "Let users try report generation and dashboard for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing asset data",
+    "One-click export for simple reports",
+    "Streamline onboarding process"
+  ]
+}

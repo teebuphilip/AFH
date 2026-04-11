@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 tenant screenings/month tool",
+  "description": "For property managers processing 10-20 tenant screenings/month, manual tracking causes delays in tenant approvals. We automate the scheduling and sending of reports instead of manual tracking and emailing of reports.",
+  "target_audience": "property managers handling 10-20 tenant screenings/month",
+  "problem_solved": "Inefficient scheduling and sending of tenant screening reports",
+  "features": [
+    "email notifications for completed screenings",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 tenant screenings/month",
+    "primary_problem": "Inefficient scheduling and sending of tenant screening reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 tenant screenings/month, manual tracking causes delays in tenant approvals. We automate the scheduling and sending of reports instead of manual tracking and emailing of reports.",
+    "current_alternative": "manual tracking and emailing of reports",
+    "must_have_features": [
+      "email notifications for completed screenings",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 tenant screenings/month, manual tracking causes delays in tenant approvals. We automate the scheduling and sending of reports instead of manual tracking and emailing of reports.",
+  "source": {
+    "idea_id": "idea_0100",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

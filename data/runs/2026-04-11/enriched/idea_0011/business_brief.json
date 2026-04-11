@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 deliveries/week tool",
+  "description": "For logistics carriers processing 50\u2013100 deliveries/week, inconsistent vendor performance causes late orders. We automate weekly scorecard generation instead of manual tracking through spreadsheets.",
+  "target_audience": "logistics carriers processing 50\u2013100 deliveries/week",
+  "problem_solved": "Inconsistent vendor performance tracking",
+  "features": [
+    "manual data entry for delivery metrics",
+    "weekly scorecard generation",
+    "basic performance visualization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 deliveries/week",
+    "primary_problem": "Inconsistent vendor performance tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 deliveries/week, inconsistent vendor performance causes late orders. We automate weekly scorecard generation instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "manual data entry for delivery metrics",
+      "weekly scorecard generation",
+      "basic performance visualization"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 deliveries/week, inconsistent vendor performance causes late orders. We automate weekly scorecard generation instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

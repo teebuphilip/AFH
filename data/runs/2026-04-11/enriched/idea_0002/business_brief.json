@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small marketing agencies processing 5\u201315 timesheets/month tool",
+  "description": "For HR managers in small marketing agencies processing 5\u201315 timesheets/month, exceeding policy limits causes compliance issues. We alert HR ops instead of manual tracking of timesheets and hours.",
+  "target_audience": "HR managers in small marketing agencies processing 5\u201315 timesheets/month",
+  "problem_solved": "Monitoring employee hours to prevent policy violations",
+  "features": [
+    "Manual entry of timesheets",
+    "Dashboard for tracking submitted hours",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small marketing agencies processing 5\u201315 timesheets/month",
+    "primary_problem": "Monitoring employee hours to prevent policy violations",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small marketing agencies processing 5\u201315 timesheets/month, exceeding policy limits causes compliance issues. We alert HR ops instead of manual tracking of timesheets and hours.",
+    "current_alternative": "Manual tracking of timesheets and hours",
+    "must_have_features": [
+      "Manual entry of timesheets",
+      "Dashboard for tracking submitted hours",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small marketing agencies processing 5\u201315 timesheets/month, exceeding policy limits causes compliance issues. We alert HR ops instead of manual tracking of timesheets and hours.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

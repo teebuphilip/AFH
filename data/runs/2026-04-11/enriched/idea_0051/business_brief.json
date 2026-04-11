@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payrolls/month, discrepancies cause employee dissatisfaction and compliance issues. We provide automated alerts for discrepancies instead of manual reconciliation processes.",
+  "target_audience": "HR managers in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Discrepancies in payroll processing leading to potential employee dissatisfaction and compliance issues.",
+  "features": [
+    "Manual reconciliation support",
+    "User-friendly dashboard for tracking payroll status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Discrepancies in payroll processing leading to potential employee dissatisfaction and compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payrolls/month, discrepancies cause employee dissatisfaction and compliance issues. We provide automated alerts for discrepancies instead of manual reconciliation processes.",
+    "current_alternative": "Manual reconciliation processes that are time-consuming and error-prone.",
+    "must_have_features": [
+      "Manual reconciliation support",
+      "User-friendly dashboard for tracking payroll status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payrolls/month, discrepancies cause employee dissatisfaction and compliance issues. We provide automated alerts for discrepancies instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0051",
+    "run_date": "2026-04-11",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

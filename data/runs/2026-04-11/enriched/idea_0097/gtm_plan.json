@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant operators processing 10-20 invoices/month",
+  "offer": "For restaurant operators processing 10-20 invoices/month, manual report generation causes missed opportunities for customer engagement. We automate report generation instead of manual report generation using spreadsheets.",
+  "problem": "Difficulty in generating actionable insights from customer data for loyalty programs.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant operators",
+    "Engage in Indie Hackers discussions about workflows",
+    "DM outreach to restaurant operators with demo video",
+    "Share tools in community forums for restaurant operators"
+  ],
+  "try_it": "Let users try customer data visualization on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Default reminder schedule options for users",
+    "CSV import feature for existing customer data",
+    "One-click export for simple reports",
+    "Streamline steps in user onboarding process"
+  ]
+}

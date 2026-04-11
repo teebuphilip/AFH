@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 projects/month tool",
+  "description": "For construction contractors processing 5\u201315 projects/month, inconsistent regulatory submissions cause project delays. We automate submissions instead of manual submission processes that are time-consuming and error-prone.",
+  "target_audience": "construction contractors processing 5\u201315 projects/month",
+  "problem_solved": "Inconsistent regulatory submissions lead to project delays.",
+  "features": [
+    "submission scheduling",
+    "status tracking for submissions",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 projects/month",
+    "primary_problem": "Inconsistent regulatory submissions lead to project delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 projects/month, inconsistent regulatory submissions cause project delays. We automate submissions instead of manual submission processes that are time-consuming and error-prone.",
+    "current_alternative": "manual submission processes that are time-consuming and error-prone.",
+    "must_have_features": [
+      "submission scheduling",
+      "status tracking for submissions",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 projects/month, inconsistent regulatory submissions cause project delays. We automate submissions instead of manual submission processes that are time-consuming and error-prone.",
+  "source": {
+    "idea_id": "idea_0078",
+    "run_date": "2026-04-11",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

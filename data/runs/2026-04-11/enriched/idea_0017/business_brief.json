@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics finance teams processing 10\u201320 invoices/month tool",
+  "description": "For logistics finance teams processing 10\u201320 invoices/month, manual data entry causes cash flow gaps. We convert vendor delivery logs into invoice-ready data instead of manual data entry and reconciliation.",
+  "target_audience": "logistics finance teams processing 10\u201320 invoices/month",
+  "problem_solved": "Manual data entry from vendor delivery logs is time-consuming and error-prone.",
+  "features": [
+    "data validation checks",
+    "export to CSV format",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics finance teams processing 10\u201320 invoices/month",
+    "primary_problem": "Manual data entry from vendor delivery logs is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics finance teams processing 10\u201320 invoices/month, manual data entry causes cash flow gaps. We convert vendor delivery logs into invoice-ready data instead of manual data entry and reconciliation.",
+    "current_alternative": "manual data entry and reconciliation",
+    "must_have_features": [
+      "data validation checks",
+      "export to CSV format",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics finance teams processing 10\u201320 invoices/month, manual data entry causes cash flow gaps. We convert vendor delivery logs into invoice-ready data instead of manual data entry and reconciliation.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-11",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

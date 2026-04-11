@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Sales Operations Managers at Salesforce using commission reports",
+  "offer": "For Sales Operations Managers at Salesforce processing 10\u201320 commission reports/week, manual reconciliation causes delayed insights. We automate reconciliation instead of manual reconciliation of commission reports with CRM data.",
+  "problem": "Inaccurate sales commission reporting due to manual reconciliation processes.",
+  "channels_free": [
+    "Post in Reddit communities for Sales Operations Managers",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "Direct message 20-50 Sales Operations Managers with demo video",
+    "Participate in community forums for tool recommendations"
+  ],
+  "try_it": "Let users try Weekly summary reports and Manual data entry for commission reports on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

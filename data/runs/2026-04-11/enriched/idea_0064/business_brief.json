@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "facility managers in commercial real estate managing 5-10 properties tool",
+  "description": "For facility managers in commercial real estate managing 5-10 properties, unplanned equipment failures cause costly repairs and downtime. We provide predictive maintenance instead of reactive maintenance schedules based on equipment failure history.",
+  "target_audience": "facility managers in commercial real estate managing 5-10 properties",
+  "problem_solved": "unplanned equipment failures leading to costly repairs and downtime",
+  "features": [
+    "sensor monitoring for equipment health",
+    "basic reporting on equipment performance",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "facility managers in commercial real estate managing 5-10 properties",
+    "primary_problem": "unplanned equipment failures leading to costly repairs and downtime",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For facility managers in commercial real estate managing 5-10 properties, unplanned equipment failures cause costly repairs and downtime. We provide predictive maintenance instead of reactive maintenance schedules based on equipment failure history.",
+    "current_alternative": "reactive maintenance schedules based on equipment failure history",
+    "must_have_features": [
+      "sensor monitoring for equipment health",
+      "basic reporting on equipment performance",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For facility managers in commercial real estate managing 5-10 properties, unplanned equipment failures cause costly repairs and downtime. We provide predictive maintenance instead of reactive maintenance schedules based on equipment failure history.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-11",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

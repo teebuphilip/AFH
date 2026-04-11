@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 payrolls/month tool",
+  "description": "For accounting firms processing 10\u201320 payrolls/month, inaccurate payroll tax filings cause compliance issues. We automate data extraction and reporting instead of manual data entry and spreadsheet tracking.",
+  "target_audience": "accounting firms processing 10\u201320 payrolls/month",
+  "problem_solved": "Inaccurate payroll tax filings lead to compliance issues.",
+  "features": [
+    "manual data entry support",
+    "basic reporting capabilities",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 payrolls/month",
+    "primary_problem": "Inaccurate payroll tax filings lead to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 payrolls/month, inaccurate payroll tax filings cause compliance issues. We automate data extraction and reporting instead of manual data entry and spreadsheet tracking.",
+    "current_alternative": "manual data entry and spreadsheet tracking",
+    "must_have_features": [
+      "manual data entry support",
+      "basic reporting capabilities",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 payrolls/month, inaccurate payroll tax filings cause compliance issues. We automate data extraction and reporting instead of manual data entry and spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-11",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

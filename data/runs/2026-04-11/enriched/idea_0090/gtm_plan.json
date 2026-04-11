@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "solo practitioners in law firms processing 5\u201315 case files/month",
+  "offer": "For solo practitioners in law firms processing 5\u201315 case files/month, inefficient conversion causes delays in court submissions. We automate the conversion instead of manual conversion of case files.",
+  "problem": "Inefficient conversion of legal case files into electronic formats.",
+  "channels_free": [
+    "Post in Reddit communities for legal practitioners",
+    "Indie Hackers posts about legal workflows",
+    "DM outreach to solo practitioners with demo video",
+    "Community forums for legal tech discussions"
+  ],
+  "try_it": "Let users try basic format conversion on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

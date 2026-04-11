@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10-20 clients tool",
+  "description": "For accounting firms managing 10-20 clients, missed compliance updates cause client penalties. We provide real-time alerts instead of manual tracking of regulatory updates through newsletters and websites.",
+  "target_audience": "accounting firms managing 10-20 clients",
+  "problem_solved": "Keeping up with regulatory changes for multiple clients.",
+  "features": [
+    "real-time alert system for regulatory changes",
+    "customizable compliance checklists for clients",
+    "monthly summary reports of compliance status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10-20 clients",
+    "primary_problem": "Keeping up with regulatory changes for multiple clients.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms managing 10-20 clients, missed compliance updates cause client penalties. We provide real-time alerts instead of manual tracking of regulatory updates through newsletters and websites.",
+    "current_alternative": "manual tracking of regulatory updates through newsletters and websites.",
+    "must_have_features": [
+      "real-time alert system for regulatory changes",
+      "customizable compliance checklists for clients",
+      "monthly summary reports of compliance status"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10-20 clients, missed compliance updates cause client penalties. We provide real-time alerts instead of manual tracking of regulatory updates through newsletters and websites.",
+  "source": {
+    "idea_id": "idea_0062",
+    "run_date": "2026-04-11",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}
