@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 case filings/month tool",
+  "description": "For law firms processing 5\u201315 case filings/month, delays in document submission cause missed deadlines. We automate document submission instead of manual submission of documents.",
+  "target_audience": "law firms processing 5\u201315 case filings/month",
+  "problem_solved": "delays in document submission for legal case filings",
+  "features": [
+    "recurring schedule setup for submissions",
+    "notification system for upcoming deadlines",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 case filings/month",
+    "primary_problem": "delays in document submission for legal case filings",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 case filings/month, delays in document submission cause missed deadlines. We automate document submission instead of manual submission of documents.",
+    "current_alternative": "manual submission of documents",
+    "must_have_features": [
+      "recurring schedule setup for submissions",
+      "notification system for upcoming deadlines",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 case filings/month, delays in document submission cause missed deadlines. We automate document submission instead of manual submission of documents.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

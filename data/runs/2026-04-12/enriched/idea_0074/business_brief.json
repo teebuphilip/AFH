@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms managing compliance for 5\u201315 clients tool",
+  "description": "For law firms managing compliance for 5\u201315 clients, regulatory changes cause missed filings. We automate compliance updates instead of manual tracking and filing processes.",
+  "target_audience": "law firms managing compliance for 5\u201315 clients",
+  "problem_solved": "Keeping up with changing regulations and ensuring timely filings for clients.",
+  "features": [
+    "filing reminders",
+    "client compliance dashboards",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms managing compliance for 5\u201315 clients",
+    "primary_problem": "Keeping up with changing regulations and ensuring timely filings for clients.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms managing compliance for 5\u201315 clients, regulatory changes cause missed filings. We automate compliance updates instead of manual tracking and filing processes.",
+    "current_alternative": "manual tracking and filing processes",
+    "must_have_features": [
+      "filing reminders",
+      "client compliance dashboards",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firms managing compliance for 5\u201315 clients, regulatory changes cause missed filings. We automate compliance updates instead of manual tracking and filing processes.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-12",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

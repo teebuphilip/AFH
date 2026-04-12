@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations managers in logistics carriers managing 10-50 vehicles tool",
+  "description": "For fleet operations managers in logistics carriers managing 10-50 vehicles, inefficient tracking of vehicle maintenance and fuel usage causes increased operational costs. We provide a streamlined tracking tool instead of manual spreadsheets and paper logs.",
+  "target_audience": "fleet operations managers in logistics carriers managing 10-50 vehicles",
+  "problem_solved": "inefficient tracking of vehicle maintenance and fuel usage",
+  "features": [
+    "manual entry for maintenance records",
+    "fuel usage tracking",
+    "basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations managers in logistics carriers managing 10-50 vehicles",
+    "primary_problem": "inefficient tracking of vehicle maintenance and fuel usage",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operations managers in logistics carriers managing 10-50 vehicles, inefficient tracking of vehicle maintenance and fuel usage causes increased operational costs. We provide a streamlined tracking tool instead of manual spreadsheets and paper logs.",
+    "current_alternative": "manual spreadsheets and paper logs",
+    "must_have_features": [
+      "manual entry for maintenance records",
+      "fuel usage tracking",
+      "basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For fleet operations managers in logistics carriers managing 10-50 vehicles, inefficient tracking of vehicle maintenance and fuel usage causes increased operational costs. We provide a streamlined tracking tool instead of manual spreadsheets and paper logs.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-12",
+    "overlay_score": 60,
+    "arr_score": 61
+  }
+}

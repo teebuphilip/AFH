@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, supplier delays cause late orders. We provide automated analytics instead of manual tracking and performance reviews.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Supplier performance tracking and optimization",
+  "features": [
+    "Supplier performance dashboard",
+    "Bottleneck identification alerts",
+    "Optimization recommendation reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Supplier performance tracking and optimization",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, supplier delays cause late orders. We provide automated analytics instead of manual tracking and performance reviews.",
+    "current_alternative": "Manual tracking and performance reviews",
+    "must_have_features": [
+      "Supplier performance dashboard",
+      "Bottleneck identification alerts",
+      "Optimization recommendation reports"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, supplier delays cause late orders. We provide automated analytics instead of manual tracking and performance reviews.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-12",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

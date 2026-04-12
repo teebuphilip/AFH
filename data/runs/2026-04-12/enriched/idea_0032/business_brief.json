@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties/month tool",
+  "description": "For property managers handling 10-20 properties/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual spreadsheets and calculations.",
+  "target_audience": "property managers handling 10-20 properties/month",
+  "problem_solved": "manual reconciliation of occupancy and vacancy data",
+  "features": [
+    "user-friendly interface for data input",
+    "monthly summary notifications",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties/month",
+    "primary_problem": "manual reconciliation of occupancy and vacancy data",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 properties/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual spreadsheets and calculations.",
+    "current_alternative": "manual spreadsheets and calculations",
+    "must_have_features": [
+      "user-friendly interface for data input",
+      "monthly summary notifications",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual spreadsheets and calculations.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-12",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

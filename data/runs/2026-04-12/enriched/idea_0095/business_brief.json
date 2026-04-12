@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "healthcare administrators in medical clinics processing 50-100 patient records/month tool",
+  "description": "For healthcare administrators in medical clinics processing 50-100 patient records/month, inefficient record management causes delayed compliance reporting. We automate record aggregation instead of manual compilation of patient records and reports.",
+  "target_audience": "healthcare administrators in medical clinics processing 50-100 patient records/month",
+  "problem_solved": "Difficulty in generating timely compliance reports from scattered patient records.",
+  "features": [
+    "manual data entry for patient records",
+    "basic report generation",
+    "user-friendly dashboard for compliance tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "healthcare administrators in medical clinics processing 50-100 patient records/month",
+    "primary_problem": "Difficulty in generating timely compliance reports from scattered patient records.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For healthcare administrators in medical clinics processing 50-100 patient records/month, inefficient record management causes delayed compliance reporting. We automate record aggregation instead of manual compilation of patient records and reports.",
+    "current_alternative": "manual compilation of patient records and reports",
+    "must_have_features": [
+      "manual data entry for patient records",
+      "basic report generation",
+      "user-friendly dashboard for compliance tracking"
+    ]
+  },
+  "one_liner": "For healthcare administrators in medical clinics processing 50-100 patient records/month, inefficient record management causes delayed compliance reporting. We automate record aggregation instead of manual compilation of patient records and reports.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

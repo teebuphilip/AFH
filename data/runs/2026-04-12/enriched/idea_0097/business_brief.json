@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant general managers managing 5\u201315 staff members tool",
+  "description": "For restaurant general managers managing 5\u201315 staff members, inefficient scheduling causes overstaffing or understaffing. We automate scheduling instead of using manual spreadsheets.",
+  "target_audience": "restaurant general managers managing 5\u201315 staff members",
+  "problem_solved": "inefficient staff scheduling leading to overstaffing or understaffing",
+  "features": [
+    "simple drag-and-drop scheduling interface",
+    "basic time tracking functionality",
+    "notification system for shift changes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant general managers managing 5\u201315 staff members",
+    "primary_problem": "inefficient staff scheduling leading to overstaffing or understaffing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant general managers managing 5\u201315 staff members, inefficient scheduling causes overstaffing or understaffing. We automate scheduling instead of using manual spreadsheets.",
+    "current_alternative": "manual scheduling and time tracking spreadsheets",
+    "must_have_features": [
+      "simple drag-and-drop scheduling interface",
+      "basic time tracking functionality",
+      "notification system for shift changes"
+    ]
+  },
+  "one_liner": "For restaurant general managers managing 5\u201315 staff members, inefficient scheduling causes overstaffing or understaffing. We automate scheduling instead of using manual spreadsheets.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

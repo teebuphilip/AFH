@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For medical clinics processing 10\u201320 invoices/month, unresolved patient billing disputes cause cash flow gaps. We monitor disputes and flag unresolved cases instead of manual tracking of billing disputes.",
+  "target_audience": "medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "Unresolved patient billing disputes leading to cash flow gaps.",
+  "features": [
+    "manual dispute tracking",
+    "monthly reporting of disputes",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "Unresolved patient billing disputes leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10\u201320 invoices/month, unresolved patient billing disputes cause cash flow gaps. We monitor disputes and flag unresolved cases instead of manual tracking of billing disputes.",
+    "current_alternative": "manual tracking of billing disputes",
+    "must_have_features": [
+      "manual dispute tracking",
+      "monthly reporting of disputes",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10\u201320 invoices/month, unresolved patient billing disputes cause cash flow gaps. We monitor disputes and flag unresolved cases instead of manual tracking of billing disputes.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

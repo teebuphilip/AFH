@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms managing 10-20 clients tool",
+  "description": "For law firms managing 10-20 clients, compliance reporting delays cause missed deadlines. We automate compliance reporting instead of manual tracking and reporting using spreadsheets.",
+  "target_audience": "law firms managing 10-20 clients",
+  "problem_solved": "Difficulty in tracking compliance deadlines and generating accurate regulatory filings for multiple clients.",
+  "features": [
+    "Deadline alerts for regulatory filings",
+    "Data aggregation from multiple sources",
+    "Template generation for regulatory documents"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms managing 10-20 clients",
+    "primary_problem": "Difficulty in tracking compliance deadlines and generating accurate regulatory filings for multiple clients.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms managing 10-20 clients, compliance reporting delays cause missed deadlines. We automate compliance reporting instead of manual tracking and reporting using spreadsheets.",
+    "current_alternative": "manual tracking and reporting using spreadsheets",
+    "must_have_features": [
+      "Deadline alerts for regulatory filings",
+      "Data aggregation from multiple sources",
+      "Template generation for regulatory documents"
+    ]
+  },
+  "one_liner": "For law firms managing 10-20 clients, compliance reporting delays cause missed deadlines. We automate compliance reporting instead of manual tracking and reporting using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0059",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

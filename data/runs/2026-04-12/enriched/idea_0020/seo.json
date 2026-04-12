@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "amazon sellers frequent tool",
+    "amazon sellers frequent automation",
+    "logistics workflow",
+    "shipment tracking",
+    "amazon sellers processing 10 20 invoices week frequent tool",
+    "amazon sellers processing 10 20 invoices week frequent automation",
+    "amazon sellers processing 10 20 invoices week frequent workflow"
+  ],
+  "secondary_keywords": [
+    "logistics workflow software",
+    "logistics workflow platform",
+    "logistics workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to logistics workflow",
+    "best logistics workflow tool",
+    "logistics workflow vs spreadsheets",
+    "logistics workflow checklist",
+    "logistics workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Amazon sellers processing 10\u201320 invoices/week, frequent mismatches cause late orders. We automate reconciliation instead of manual reconciliation of sales orders and shipping confirmations.",
+    "Frequent mismatches between sales orders and shipping confirmations.",
+    "Amazon sellers processing 10\u201320 invoices/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Logistics Workflow",
+      "target_keyword": "how to logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Logistics Workflow Tool",
+      "target_keyword": "best logistics workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Vs Spreadsheets",
+      "target_keyword": "logistics workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Checklist",
+      "target_keyword": "logistics workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Pricing",
+      "target_keyword": "logistics workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Software",
+      "target_keyword": "logistics workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Platform",
+      "target_keyword": "logistics workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Solution",
+      "target_keyword": "logistics workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow",
+      "target_keyword": "logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Shipment Tracking",
+      "target_keyword": "shipment tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Week Frequent Tool",
+      "target_keyword": "amazon sellers processing 10 20 invoices week frequent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Week Frequent Automation",
+      "target_keyword": "amazon sellers processing 10 20 invoices week frequent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "amazon sellers frequent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "amazon sellers frequent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "amazon sellers frequent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "amazon sellers frequent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "amazon sellers frequent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | amazon sellers tool",
+      "amazon sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "amazon sellers tool helps with frequent mismatches between sales orders and shipping confirmations."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

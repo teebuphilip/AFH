@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "hospitality managers in hotels processing 5\u201315 compliance reports/month",
+  "offer": "For hospitality managers in hotels processing 5\u201315 compliance reports/month, inconsistent cleaning and sanitation compliance causes regulatory penalties. We generate automated compliance reports instead of manual tracking and reporting.",
+  "problem": "Inconsistent cleaning and sanitation compliance reporting",
+  "channels_free": [
+    "Post in Reddit communities for hospitality managers",
+    "Indie Hackers posts about compliance workflows",
+    "DM outreach to hospitality managers with demo video",
+    "Community forums for hospitality management tools"
+  ],
+  "try_it": "Let users try daily report generation and compliance checklists",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with a clear CTA",
+    "Short demo video explaining the workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing compliance data",
+    "One-click export for simple reports",
+    "Streamline onboarding process"
+  ]
+}

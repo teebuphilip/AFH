@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 subcontractor compliance reports/month tool",
+  "description": "For construction contractors processing 5\u201315 subcontractor compliance reports/month, compliance tracking issues cause potential penalties. We automate compliance reporting instead of manual tracking and reporting via spreadsheets.",
+  "target_audience": "construction contractors processing 5\u201315 subcontractor compliance reports/month",
+  "problem_solved": "Difficulty in tracking subcontractor compliance status leading to potential penalties.",
+  "features": [
+    "manual data entry for subcontractor information",
+    "monthly report generation",
+    "email notifications for compliance deadlines"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 subcontractor compliance reports/month",
+    "primary_problem": "Difficulty in tracking subcontractor compliance status leading to potential penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 subcontractor compliance reports/month, compliance tracking issues cause potential penalties. We automate compliance reporting instead of manual tracking and reporting via spreadsheets.",
+    "current_alternative": "manual tracking and reporting via spreadsheets",
+    "must_have_features": [
+      "manual data entry for subcontractor information",
+      "monthly report generation",
+      "email notifications for compliance deadlines"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 subcontractor compliance reports/month, compliance tracking issues cause potential penalties. We automate compliance reporting instead of manual tracking and reporting via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-12",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

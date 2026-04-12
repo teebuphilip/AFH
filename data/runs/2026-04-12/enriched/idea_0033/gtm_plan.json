@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "field service supervisors in the construction industry processing 5\u201315 safety inspections/month",
+  "offer": "For field service supervisors in the construction industry processing 5\u201315 safety inspections/month, manual report compilation causes delays in compliance reporting. We simplify report generation instead of manual compilation using spreadsheets.",
+  "problem": "Difficulty in compiling safety inspection checklists into regulatory reports.",
+  "channels_free": [
+    "Post in Reddit communities for field service supervisors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to field service supervisors with demo video",
+    "Community forums for sharing tools and tips"
+  ],
+  "try_it": "Let users try template-based checklist creation and manual invoice entry",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

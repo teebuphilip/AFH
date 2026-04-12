@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-50 rental units/month tool",
+  "description": "For property managers handling 10-50 rental units/month, manual report preparation causes late compliance submissions. We automate report generation instead of manual report preparation using spreadsheets.",
+  "target_audience": "property managers handling 10-50 rental units/month",
+  "problem_solved": "Difficulty in generating timely and accurate compliance reports for rental properties.",
+  "features": [
+    "template-based report generation",
+    "data validation checks",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-50 rental units/month",
+    "primary_problem": "Difficulty in generating timely and accurate compliance reports for rental properties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-50 rental units/month, manual report preparation causes late compliance submissions. We automate report generation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "data validation checks",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-50 rental units/month, manual report preparation causes late compliance submissions. We automate report generation instead of manual report preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0026",
+    "run_date": "2026-04-12",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

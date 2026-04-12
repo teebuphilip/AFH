@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 permit applications/month tool",
+  "description": "For construction contractors processing 5\u201315 permit applications/month, manual submission causes project delays. We convert project plans into digital permit applications instead of manual submission of paper applications.",
+  "target_audience": "construction contractors processing 5\u201315 permit applications/month",
+  "problem_solved": "Manual permit application processes lead to delays in project timelines.",
+  "features": [
+    "simple form input for project details",
+    "status tracking for submitted applications",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 permit applications/month",
+    "primary_problem": "Manual permit application processes lead to delays in project timelines.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 permit applications/month, manual submission causes project delays. We convert project plans into digital permit applications instead of manual submission of paper applications.",
+    "current_alternative": "manual submission of paper applications",
+    "must_have_features": [
+      "simple form input for project details",
+      "status tracking for submitted applications",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 permit applications/month, manual submission causes project delays. We convert project plans into digital permit applications instead of manual submission of paper applications.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-12",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

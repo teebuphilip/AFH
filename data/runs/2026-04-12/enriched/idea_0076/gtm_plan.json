@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 properties/month",
+  "offer": "For property managers handling 5\u201315 properties/month, time-consuming report generation causes delayed client updates. We automate report preparation instead of manual report preparation using spreadsheets.",
+  "problem": "Time-consuming report generation",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Engage in Indie Hackers discussions about workflows",
+    "DM outreach to property managers with demo video",
+    "Participate in community forums for property management tools"
+  ],
+  "try_it": "Let users try template-based report generation for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for reports",
+    "Enable CSV import for existing property data",
+    "Allow one-click export of basic reports",
+    "Streamline steps in the onboarding process"
+  ]
+}

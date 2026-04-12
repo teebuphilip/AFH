@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients/month tool",
+  "description": "For accounting firms managing 5\u201315 clients/month, delays in financial reporting cause cash flow gaps. We automate the monthly close process instead of manual tracking and reporting processes.",
+  "target_audience": "accounting firms managing 5\u201315 clients/month",
+  "problem_solved": "delays in financial reporting and client notifications",
+  "features": [
+    "notification system for accounting team",
+    "manual entry option for adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients/month",
+    "primary_problem": "delays in financial reporting and client notifications",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients/month, delays in financial reporting cause cash flow gaps. We automate the monthly close process instead of manual tracking and reporting processes.",
+    "current_alternative": "manual tracking and reporting processes",
+    "must_have_features": [
+      "notification system for accounting team",
+      "manual entry option for adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients/month, delays in financial reporting cause cash flow gaps. We automate the monthly close process instead of manual tracking and reporting processes.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-12",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

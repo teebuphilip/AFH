@@ -1,0 +1,12 @@
+{
+  "idea_text": "Service that monitors vendor contract renewals and sends alert summaries to procurement managers monthly.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 74,
+  "arr_score": 74
+}

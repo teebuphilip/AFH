@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small HR teams in accounting firms processing 5\u201315 payroll tax filings/month tool",
+  "description": "For small HR teams in accounting firms processing 5\u201315 payroll tax filings/month, compliance issues cause penalties and late filings. We provide compliance checklists instead of manual tracking and compliance checks.",
+  "target_audience": "small HR teams in accounting firms processing 5\u201315 payroll tax filings/month",
+  "problem_solved": "Ensuring compliance with payroll tax regulations",
+  "features": [
+    "monthly compliance checklist generation",
+    "manual entry for payroll tax data",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small HR teams in accounting firms processing 5\u201315 payroll tax filings/month",
+    "primary_problem": "Ensuring compliance with payroll tax regulations",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For small HR teams in accounting firms processing 5\u201315 payroll tax filings/month, compliance issues cause penalties and late filings. We provide compliance checklists instead of manual tracking and compliance checks.",
+    "current_alternative": "manual tracking and compliance checks",
+    "must_have_features": [
+      "monthly compliance checklist generation",
+      "manual entry for payroll tax data",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small HR teams in accounting firms processing 5\u201315 payroll tax filings/month, compliance issues cause penalties and late filings. We provide compliance checklists instead of manual tracking and compliance checks.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-12",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

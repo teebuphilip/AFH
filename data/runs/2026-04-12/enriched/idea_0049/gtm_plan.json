@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Fleet safety managers in logistics carriers managing 10-50 drivers",
+  "offer": "For fleet safety managers in logistics carriers processing 10-50 drivers, compliance issues cause potential fines and safety risks. We provide alerts for violations instead of manual tracking.",
+  "problem": "Ensuring compliance with driver log regulations and managing safety violations.",
+  "channels_free": [
+    "Post in Reddit communities for fleet safety managers",
+    "Indie Hackers posts about compliance tools",
+    "DM outreach to fleet safety managers with demo video",
+    "Community forums for logistics safety discussions"
+  ],
+  "try_it": "Let users try real-time alerts and log tracking dashboard",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing driver data",
+    "One-click export for simple reports",
+    "Streamline onboarding steps"
+  ]
+}

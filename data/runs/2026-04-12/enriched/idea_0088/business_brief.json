@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 10-50 deliveries/week tool",
+  "description": "For logistics carriers managing 10-50 deliveries/week, inefficient route planning causes delayed deliveries. We optimize route planning and monitor driver logs instead of manual route planning and tracking.",
+  "target_audience": "logistics carriers managing 10-50 deliveries/week",
+  "problem_solved": "Inefficient route planning leading to delayed deliveries.",
+  "features": [
+    "manual route input",
+    "driver log tracking",
+    "basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 10-50 deliveries/week",
+    "primary_problem": "Inefficient route planning leading to delayed deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 10-50 deliveries/week, inefficient route planning causes delayed deliveries. We optimize route planning and monitor driver logs instead of manual route planning and tracking.",
+    "current_alternative": "manual route planning and tracking",
+    "must_have_features": [
+      "manual route input",
+      "driver log tracking",
+      "basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 10-50 deliveries/week, inefficient route planning causes delayed deliveries. We optimize route planning and monitor driver logs instead of manual route planning and tracking.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-12",
+    "overlay_score": 77,
+    "arr_score": 78
+  }
+}

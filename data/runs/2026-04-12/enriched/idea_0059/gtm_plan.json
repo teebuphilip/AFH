@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firms managing 10-20 clients",
+  "offer": "For law firms managing 10-20 clients, compliance reporting delays cause missed deadlines. We automate compliance reporting instead of manual tracking and reporting using spreadsheets.",
+  "problem": "Difficulty in tracking compliance deadlines and generating accurate regulatory filings for multiple clients.",
+  "channels_free": [
+    "Post in Reddit communities for law firm help",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to law firms with demo video",
+    "Community forums where law firms share tools"
+  ],
+  "try_it": "Let users try deadline alerts and data aggregation features",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
+  ]
+}

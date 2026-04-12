@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10-50 clients tool",
+  "description": "For accounting firms managing 10-50 clients processing 20-100 invoices/month, discrepancies cause inaccurate financial reporting. We provide a subscription-based data reconciliation tool instead of manual reconciliation processes.",
+  "target_audience": "accounting firms managing 10-50 clients",
+  "problem_solved": "Inaccurate financial reporting due to discrepancies across systems.",
+  "features": [
+    "discrepancy alerts",
+    "manual data entry support",
+    "monthly reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10-50 clients",
+    "primary_problem": "Inaccurate financial reporting due to discrepancies across systems.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10-50 clients processing 20-100 invoices/month, discrepancies cause inaccurate financial reporting. We provide a subscription-based data reconciliation tool instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "discrepancy alerts",
+      "manual data entry support",
+      "monthly reporting"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10-50 clients processing 20-100 invoices/month, discrepancies cause inaccurate financial reporting. We provide a subscription-based data reconciliation tool instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-12",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

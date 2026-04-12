@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firms processing 5\u201315 invoices/month tool",
+  "description": "For small law firms processing 5\u201315 invoices/month, manual payroll tax filing causes late submissions. We automate payroll tax filings instead of manual payroll tax filing processes.",
+  "target_audience": "small law firms processing 5\u201315 invoices/month",
+  "problem_solved": "Timely payroll tax filings",
+  "features": [
+    "user-friendly interface for data entry",
+    "basic reporting for tax obligations",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firms processing 5\u201315 invoices/month",
+    "primary_problem": "Timely payroll tax filings",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law firms processing 5\u201315 invoices/month, manual payroll tax filing causes late submissions. We automate payroll tax filings instead of manual payroll tax filing processes.",
+    "current_alternative": "manual payroll tax filing processes",
+    "must_have_features": [
+      "user-friendly interface for data entry",
+      "basic reporting for tax obligations",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small law firms processing 5\u201315 invoices/month, manual payroll tax filing causes late submissions. We automate payroll tax filings instead of manual payroll tax filing processes.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

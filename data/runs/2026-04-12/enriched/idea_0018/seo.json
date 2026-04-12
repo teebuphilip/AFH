@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "finance managers at small marketing agencies overspending tool",
+    "finance managers at small marketing agencies overspending automation",
+    "finance managers at small marketing agencies processing 5 15 invoices month overspending tool",
+    "finance managers at small marketing agencies processing 5 15 invoices month overspending automation",
+    "finance managers at small marketing agencies processing 5 15 invoices month overspending workflow"
+  ],
+  "secondary_keywords": [
+    "finance managers at small marketing agencies processing 5 15 invoices month overspending tool software",
+    "finance managers at small marketing agencies processing 5 15 invoices month overspending tool platform",
+    "finance managers at small marketing agencies processing 5 15 invoices month overspending tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For finance managers at small marketing agencies processing 5\u201315 invoices/month, overspending causes cash flow gaps. We automatically audit subscription expenses instead of manual tracking of subscriptions and expenses.",
+    "Overspending on recurring subscription expenses due to lack of visibility and anomaly detection.",
+    "finance managers at small marketing agencies processing 5\u201315 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Finance Managers At Small Marketing Agencies Processing 5 15 Invoices Month Overspending Tool Software",
+      "target_keyword": "finance managers at small marketing agencies processing 5 15 invoices month overspending tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Finance Managers At Small Marketing Agencies Processing 5 15 Invoices Month Overspending Tool Platform",
+      "target_keyword": "finance managers at small marketing agencies processing 5 15 invoices month overspending tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Finance Managers At Small Marketing Agencies Processing 5 15 Invoices Month Overspending Tool Solution",
+      "target_keyword": "finance managers at small marketing agencies processing 5 15 invoices month overspending tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Finance Managers At Small Marketing Agencies Processing 5 15 Invoices Month Overspending Tool",
+      "target_keyword": "finance managers at small marketing agencies processing 5 15 invoices month overspending tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Finance Managers At Small Marketing Agencies Processing 5 15 Invoices Month Overspending Automation",
+      "target_keyword": "finance managers at small marketing agencies processing 5 15 invoices month overspending automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Finance Managers At Small Marketing Agencies Processing 5 15 Invoices Month Overspending Workflow",
+      "target_keyword": "finance managers at small marketing agencies processing 5 15 invoices month overspending workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "finance managers at small marketing agencies overspending tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "finance managers at small marketing agencies overspending tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "finance managers at small marketing agencies overspending tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "finance managers at small marketing agencies overspending tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "finance managers at small marketing agencies overspending tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | finance managers at small marketing agencies tool",
+      "finance managers at small marketing agencies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "finance managers at small marketing agencies tool helps with overspending on recurring subscription expenses due to lack of visibility and anomaly detection."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

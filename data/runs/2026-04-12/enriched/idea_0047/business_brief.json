@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant back office teams processing 10-20 invoices/month tool",
+  "description": "For restaurant back office teams processing 10-20 invoices/month, inaccurate inventory reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "restaurant back office teams processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate inventory reconciliation leading to cash flow gaps.",
+  "features": [
+    "manual entry for invoices",
+    "simple reporting dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant back office teams processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate inventory reconciliation leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back office teams processing 10-20 invoices/month, inaccurate inventory reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry for invoices",
+      "simple reporting dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant back office teams processing 10-20 invoices/month, inaccurate inventory reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-12",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

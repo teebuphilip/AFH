@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, duplicate charges cause overspending. We monitor vendor invoices instead of manual invoice review.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Duplicate charges on vendor invoices",
+  "features": [
+    "Invoice monitoring",
+    "Duplicate charge identification",
+    "Alert system for procurement managers"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Duplicate charges on vendor invoices",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, duplicate charges cause overspending. We monitor vendor invoices instead of manual invoice review.",
+    "current_alternative": "Manual invoice review",
+    "must_have_features": [
+      "Invoice monitoring",
+      "Duplicate charge identification",
+      "Alert system for procurement managers"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, duplicate charges cause overspending. We monitor vendor invoices instead of manual invoice review.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-12",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

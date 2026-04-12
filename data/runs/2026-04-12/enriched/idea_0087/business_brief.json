@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical office administrators processing 10\u201320 invoices/month tool",
+  "description": "For medical office administrators processing 10\u201320 invoices/month, inefficient billing processes cause delayed payments. We automate data aggregation and report generation instead of manual data entry and report generation.",
+  "target_audience": "medical office administrators processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient billing processes lead to delayed payments.",
+  "features": [
+    "manual data entry support",
+    "customizable report templates",
+    "patient data aggregation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical office administrators processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient billing processes lead to delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical office administrators processing 10\u201320 invoices/month, inefficient billing processes cause delayed payments. We automate data aggregation and report generation instead of manual data entry and report generation.",
+    "current_alternative": "manual data entry and report generation",
+    "must_have_features": [
+      "manual data entry support",
+      "customizable report templates",
+      "patient data aggregation"
+    ]
+  },
+  "one_liner": "For medical office administrators processing 10\u201320 invoices/month, inefficient billing processes cause delayed payments. We automate data aggregation and report generation instead of manual data entry and report generation.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firms processing 5\u201315 case filings/month",
+  "offer": "For law firms processing 5\u201315 case filings/month, delays in document submission cause missed deadlines. We automate document submission instead of manual submission of documents.",
+  "problem": "delays in document submission for legal case filings",
+  "channels_free": [
+    "Post in Reddit communities for law firms seeking solutions",
+    "Engage in Indie Hackers discussions about legal workflows",
+    "Direct message outreach to law firms with demo video",
+    "Join community forums where law firms share resources"
+  ],
+  "try_it": "Let users try recurring schedule setup and notification system for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing case data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process for new users"
+  ]
+}

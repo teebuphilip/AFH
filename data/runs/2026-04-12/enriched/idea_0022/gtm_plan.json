@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201320 invoices/month",
+  "offer": "For Amazon sellers processing 10\u201320 invoices/month, missed vendor rebates cause cash flow gaps. We automate rebate tracking instead of manual tracking of vendor rebates.",
+  "problem": "Missed vendor rebates due to manual tracking processes.",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Indie Hackers discussions on similar issues",
+    "DM outreach to Amazon sellers with demo video",
+    "Community forums for sharing tools and solutions"
+  ],
+  "try_it": "Let users try Monthly rebate tracking report and Manual entry for vendor details on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

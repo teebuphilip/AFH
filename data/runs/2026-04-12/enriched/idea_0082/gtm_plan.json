@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "paralegals in law firms processing 10-20 legal documents/week",
+  "offer": "For paralegals in law firms processing 10-20 legal documents/week, inefficient formatting causes delays in court submissions. We automate formatting instead of manual formatting of legal documents using word processors.",
+  "problem": "Formatting legal documents for court filings is time-consuming and prone to errors.",
+  "channels_free": [
+    "Post in Reddit communities for paralegals seeking solutions",
+    "Indie Hackers posts discussing legal document workflows",
+    "DM outreach to paralegals with a demo video",
+    "Engage in community forums for legal professionals"
+  ],
+  "try_it": "Let users try template selection and error-checking on 1-3 documents",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

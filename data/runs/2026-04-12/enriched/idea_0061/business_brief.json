@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, manual data entry causes time inefficiencies. We automate data extraction instead of manual entry into accounting software.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Manual data entry is time-consuming and error-prone.",
+  "features": [
+    "User-friendly interface for manual adjustments",
+    "Basic data validation checks",
+    "Export functionality to common formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Manual data entry is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, manual data entry causes time inefficiencies. We automate data extraction instead of manual entry into accounting software.",
+    "current_alternative": "Manual entry into accounting software",
+    "must_have_features": [
+      "User-friendly interface for manual adjustments",
+      "Basic data validation checks",
+      "Export functionality to common formats"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, manual data entry causes time inefficiencies. We automate data extraction instead of manual entry into accounting software.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

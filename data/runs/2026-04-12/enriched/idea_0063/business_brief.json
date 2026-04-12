@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10-20 invoices/month tool",
+  "description": "For logistics carriers processing 10-20 invoices/month, billing errors cause significant overcharges. We provide a freight invoice auditing tool instead of manual invoice review.",
+  "target_audience": "logistics carriers processing 10-20 invoices/month",
+  "problem_solved": "billing errors leading to overcharges",
+  "features": [
+    "manual invoice cross-referencing",
+    "error notification system",
+    "basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10-20 invoices/month",
+    "primary_problem": "billing errors leading to overcharges",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10-20 invoices/month, billing errors cause significant overcharges. We provide a freight invoice auditing tool instead of manual invoice review.",
+    "current_alternative": "manual invoice review",
+    "must_have_features": [
+      "manual invoice cross-referencing",
+      "error notification system",
+      "basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10-20 invoices/month, billing errors cause significant overcharges. We provide a freight invoice auditing tool instead of manual invoice review.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-12",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

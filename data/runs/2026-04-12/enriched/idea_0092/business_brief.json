@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 lease renewals/month tool",
+  "description": "For property managers processing 10-20 lease renewals/month, inefficient tenant screening causes delays in securing tenants. We simplify the process instead of manual tenant screening and lease renewal processes.",
+  "target_audience": "property managers handling 10-20 lease renewals/month",
+  "problem_solved": "Inefficient tenant screening and lease renewal processes",
+  "features": [
+    "simple tenant screening checklist",
+    "basic tenant communication templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 lease renewals/month",
+    "primary_problem": "Inefficient tenant screening and lease renewal processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 lease renewals/month, inefficient tenant screening causes delays in securing tenants. We simplify the process instead of manual tenant screening and lease renewal processes.",
+    "current_alternative": "manual tenant screening and lease renewal processes",
+    "must_have_features": [
+      "simple tenant screening checklist",
+      "basic tenant communication templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 lease renewals/month, inefficient tenant screening causes delays in securing tenants. We simplify the process instead of manual tenant screening and lease renewal processes.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-12",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

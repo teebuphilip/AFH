@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201350 clients tool",
+  "description": "For accounting firms managing 10\u201350 clients, inadequate risk identification causes client financial losses. We automate risk management instead of manual risk assessments and client consultations.",
+  "target_audience": "accounting firms managing 10\u201350 clients",
+  "problem_solved": "Inability to proactively identify and mitigate financial risks for clients.",
+  "features": [
+    "risk threat identification",
+    "impact assessment tools",
+    "mitigation recommendation generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201350 clients",
+    "primary_problem": "Inability to proactively identify and mitigate financial risks for clients.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201350 clients, inadequate risk identification causes client financial losses. We automate risk management instead of manual risk assessments and client consultations.",
+    "current_alternative": "manual risk assessments and client consultations",
+    "must_have_features": [
+      "risk threat identification",
+      "impact assessment tools",
+      "mitigation recommendation generation"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201350 clients, inadequate risk identification causes client financial losses. We automate risk management instead of manual risk assessments and client consultations.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

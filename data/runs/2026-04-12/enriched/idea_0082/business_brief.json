@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "paralegals in law firms processing 10-20 legal documents/week tool",
+  "description": "For paralegals in law firms processing 10-20 legal documents/week, inefficient formatting causes delays in court submissions. We automate formatting instead of manual formatting of legal documents using word processors.",
+  "target_audience": "paralegals in law firms processing 10-20 legal documents/week",
+  "problem_solved": "Formatting legal documents for court filings is time-consuming and prone to errors.",
+  "features": [
+    "template selection for different court documents",
+    "error-checking for common formatting issues",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "paralegals in law firms processing 10-20 legal documents/week",
+    "primary_problem": "Formatting legal documents for court filings is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For paralegals in law firms processing 10-20 legal documents/week, inefficient formatting causes delays in court submissions. We automate formatting instead of manual formatting of legal documents using word processors.",
+    "current_alternative": "manual formatting of legal documents using word processors",
+    "must_have_features": [
+      "template selection for different court documents",
+      "error-checking for common formatting issues",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For paralegals in law firms processing 10-20 legal documents/week, inefficient formatting causes delays in court submissions. We automate formatting instead of manual formatting of legal documents using word processors.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

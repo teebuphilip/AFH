@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in restaurants with 50-100 employees tool",
+  "description": "For HR managers in restaurants processing 50-100 employees, labor shortages cause increased overtime costs. We provide automated shift scheduling instead of manual scheduling and spreadsheets.",
+  "target_audience": "HR managers in restaurants with 50-100 employees",
+  "problem_solved": "Labor shortages and overtime management",
+  "features": [
+    "shift scheduling",
+    "staffing forecasts",
+    "overtime alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in restaurants with 50-100 employees",
+    "primary_problem": "Labor shortages and overtime management",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in restaurants processing 50-100 employees, labor shortages cause increased overtime costs. We provide automated shift scheduling instead of manual scheduling and spreadsheets.",
+    "current_alternative": "manual scheduling and spreadsheets",
+    "must_have_features": [
+      "shift scheduling",
+      "staffing forecasts",
+      "overtime alerts"
+    ]
+  },
+  "one_liner": "For HR managers in restaurants processing 50-100 employees, labor shortages cause increased overtime costs. We provide automated shift scheduling instead of manual scheduling and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-12",
+    "overlay_score": 70,
+    "arr_score": 69
+  }
+}

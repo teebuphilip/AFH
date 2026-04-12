@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in small clinics processing 5\u201315 claims/month tool",
+  "description": "For medical billing specialists in small clinics processing 5\u201315 claims/month, inaccurate coding causes delayed payments. We automate claim submissions instead of manual coding and submission processes.",
+  "target_audience": "medical billing specialists in small clinics processing 5\u201315 claims/month",
+  "problem_solved": "Inaccurate coding leads to claim denials and delayed payments.",
+  "features": [
+    "manual entry of billing codes",
+    "error-checking for common coding mistakes",
+    "simple claim submission interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in small clinics processing 5\u201315 claims/month",
+    "primary_problem": "Inaccurate coding leads to claim denials and delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in small clinics processing 5\u201315 claims/month, inaccurate coding causes delayed payments. We automate claim submissions instead of manual coding and submission processes.",
+    "current_alternative": "manual coding and submission processes",
+    "must_have_features": [
+      "manual entry of billing codes",
+      "error-checking for common coding mistakes",
+      "simple claim submission interface"
+    ]
+  },
+  "one_liner": "For medical billing specialists in small clinics processing 5\u201315 claims/month, inaccurate coding causes delayed payments. We automate claim submissions instead of manual coding and submission processes.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

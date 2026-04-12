@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers overseeing 5\u201315 rental units tool",
+  "description": "For property managers overseeing 5\u201315 rental units, inconsistent maintenance scheduling causes tenant complaints. We provide a subscription-based equipment maintenance tracking system instead of manual tracking through spreadsheets and emails.",
+  "target_audience": "property managers overseeing 5\u201315 rental units",
+  "problem_solved": "Inconsistent maintenance scheduling leads to tenant complaints.",
+  "features": [
+    "usage monitoring",
+    "service scheduling",
+    "notification system for upcoming maintenance"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers overseeing 5\u201315 rental units",
+    "primary_problem": "Inconsistent maintenance scheduling leads to tenant complaints.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers overseeing 5\u201315 rental units, inconsistent maintenance scheduling causes tenant complaints. We provide a subscription-based equipment maintenance tracking system instead of manual tracking through spreadsheets and emails.",
+    "current_alternative": "manual tracking through spreadsheets and emails",
+    "must_have_features": [
+      "usage monitoring",
+      "service scheduling",
+      "notification system for upcoming maintenance"
+    ]
+  },
+  "one_liner": "For property managers overseeing 5\u201315 rental units, inconsistent maintenance scheduling causes tenant complaints. We provide a subscription-based equipment maintenance tracking system instead of manual tracking through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-12",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

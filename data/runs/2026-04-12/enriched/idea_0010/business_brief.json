@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in small e-commerce businesses processing 10-20 invoices/month tool",
+  "description": "For logistics managers in small e-commerce businesses processing 10-20 invoices/month, discrepancies cause late orders. We automate reconciliation instead of manual reconciliation of delivery records and invoices.",
+  "target_audience": "logistics managers in small e-commerce businesses processing 10-20 invoices/month",
+  "problem_solved": "discrepancies between delivery records and invoiced shipments",
+  "features": [
+    "weekly notification system for discrepancies",
+    "manual entry option for delivery records",
+    "simple dashboard for tracking reconciliations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in small e-commerce businesses processing 10-20 invoices/month",
+    "primary_problem": "discrepancies between delivery records and invoiced shipments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in small e-commerce businesses processing 10-20 invoices/month, discrepancies cause late orders. We automate reconciliation instead of manual reconciliation of delivery records and invoices.",
+    "current_alternative": "manual reconciliation of delivery records and invoices",
+    "must_have_features": [
+      "weekly notification system for discrepancies",
+      "manual entry option for delivery records",
+      "simple dashboard for tracking reconciliations"
+    ]
+  },
+  "one_liner": "For logistics managers in small e-commerce businesses processing 10-20 invoices/month, discrepancies cause late orders. We automate reconciliation instead of manual reconciliation of delivery records and invoices.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-12",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

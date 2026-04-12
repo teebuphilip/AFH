@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201315 vehicles tool",
+  "description": "For logistics carriers managing 5\u201315 vehicles, inefficient fuel usage causes increased operational costs. We monitor fuel consumption and flag anomalies instead of manual tracking of fuel consumption.",
+  "target_audience": "logistics carriers managing 5\u201315 vehicles",
+  "problem_solved": "inefficient fuel usage leading to increased operational costs",
+  "features": [
+    "real-time fuel consumption monitoring",
+    "anomaly detection alerts",
+    "manual data entry for historical fuel records"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201315 vehicles",
+    "primary_problem": "inefficient fuel usage leading to increased operational costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5\u201315 vehicles, inefficient fuel usage causes increased operational costs. We monitor fuel consumption and flag anomalies instead of manual tracking of fuel consumption.",
+    "current_alternative": "manual tracking of fuel consumption",
+    "must_have_features": [
+      "real-time fuel consumption monitoring",
+      "anomaly detection alerts",
+      "manual data entry for historical fuel records"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5\u201315 vehicles, inefficient fuel usage causes increased operational costs. We monitor fuel consumption and flag anomalies instead of manual tracking of fuel consumption.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

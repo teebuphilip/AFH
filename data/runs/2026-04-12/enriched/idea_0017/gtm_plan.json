@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201320 invoices/month",
+  "offer": "For Amazon sellers processing 10\u201320 invoices/month, inconsistent supplier delivery performance causes late orders. We provide monthly scorecards instead of manual tracking of supplier performance metrics.",
+  "problem": "Inconsistent supplier delivery performance leading to late orders.",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Share insights on Indie Hackers forums",
+    "DM outreach to Amazon sellers with demo video",
+    "Engage in community groups for Amazon sellers"
+  ],
+  "try_it": "Let users try Monthly performance scorecards on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Reduce steps in onboarding process"
+  ]
+}

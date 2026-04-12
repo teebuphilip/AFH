@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "field service supervisors in the construction industry processing 5\u201315 safety inspections/month tool",
+  "description": "For field service supervisors in the construction industry processing 5\u201315 safety inspections/month, manual report compilation causes delays in compliance reporting. We automate report generation instead of manual compilation using spreadsheets.",
+  "target_audience": "field service supervisors in the construction industry processing 5\u201315 safety inspections/month",
+  "problem_solved": "Difficulty in compiling safety inspection checklists into regulatory reports.",
+  "features": [
+    "template-based checklist creation",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "field service supervisors in the construction industry processing 5\u201315 safety inspections/month",
+    "primary_problem": "Difficulty in compiling safety inspection checklists into regulatory reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For field service supervisors in the construction industry processing 5\u201315 safety inspections/month, manual report compilation causes delays in compliance reporting. We automate report generation instead of manual compilation using spreadsheets.",
+    "current_alternative": "manual compilation of reports using spreadsheets",
+    "must_have_features": [
+      "template-based checklist creation",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For field service supervisors in the construction industry processing 5\u201315 safety inspections/month, manual report compilation causes delays in compliance reporting. We automate report generation instead of manual compilation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0033",
+    "run_date": "2026-04-12",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

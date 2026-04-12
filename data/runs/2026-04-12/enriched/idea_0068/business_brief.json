@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms managing 5\u201315 contracts/month tool",
+  "description": "For law firms processing 5\u201315 contracts/month, missed contract renewals cause legal penalties. We provide automated renewal alerts instead of manual tracking of contract dates in spreadsheets.",
+  "target_audience": "law firms managing 5\u201315 contracts/month",
+  "problem_solved": "missed contract renewals",
+  "features": [
+    "contract storage",
+    "renewal alerts",
+    "reporting capabilities"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms managing 5\u201315 contracts/month",
+    "primary_problem": "missed contract renewals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 contracts/month, missed contract renewals cause legal penalties. We provide automated renewal alerts instead of manual tracking of contract dates in spreadsheets.",
+    "current_alternative": "manual tracking of contract dates in spreadsheets",
+    "must_have_features": [
+      "contract storage",
+      "renewal alerts",
+      "reporting capabilities"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 contracts/month, missed contract renewals cause legal penalties. We provide automated renewal alerts instead of manual tracking of contract dates in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-12",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

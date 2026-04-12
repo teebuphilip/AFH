@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers using Google Workspace tool",
+  "description": "For construction project managers processing 5\u201315 equipment logs/month, inefficient tracking causes missed maintenance schedules. We automate the preparation of usage logs instead of manual logging and spreadsheet tracking.",
+  "target_audience": "construction project managers using Google Workspace",
+  "problem_solved": "Inefficient tracking of equipment usage and maintenance summaries.",
+  "features": [
+    "manual entry for equipment usage",
+    "summary generation for maintenance",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers using Google Workspace",
+    "primary_problem": "Inefficient tracking of equipment usage and maintenance summaries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers processing 5\u201315 equipment logs/month, inefficient tracking causes missed maintenance schedules. We automate the preparation of usage logs instead of manual logging and spreadsheet tracking.",
+    "current_alternative": "manual logging and spreadsheet tracking",
+    "must_have_features": [
+      "manual entry for equipment usage",
+      "summary generation for maintenance",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project managers processing 5\u201315 equipment logs/month, inefficient tracking causes missed maintenance schedules. We automate the preparation of usage logs instead of manual logging and spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-12",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

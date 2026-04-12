@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant general managers processing 10\u201320 payrolls/month tool",
+  "description": "For restaurant general managers processing 10\u201320 payrolls/month, manual payroll processing causes late tax filings. We automate payroll and tax filings instead of manual payroll processing and tax filing.",
+  "target_audience": "restaurant general managers processing 10\u201320 payrolls/month",
+  "problem_solved": "Timely payroll processing and tax compliance",
+  "features": [
+    "tax filing reminders",
+    "manual entry options for adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant general managers processing 10\u201320 payrolls/month",
+    "primary_problem": "Timely payroll processing and tax compliance",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant general managers processing 10\u201320 payrolls/month, manual payroll processing causes late tax filings. We automate payroll and tax filings instead of manual payroll processing and tax filing.",
+    "current_alternative": "manual payroll processing and tax filing",
+    "must_have_features": [
+      "tax filing reminders",
+      "manual entry options for adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant general managers processing 10\u201320 payrolls/month, manual payroll processing causes late tax filings. We automate payroll and tax filings instead of manual payroll processing and tax filing.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

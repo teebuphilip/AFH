@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month tool",
+  "description": "For procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month, missed contract renewals cause service interruptions. We provide timely alerts instead of manual tracking of contract dates and renewals.",
+  "target_audience": "procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month",
+  "problem_solved": "Missed contract renewals leading to service interruptions and potential penalties.",
+  "features": [
+    "monthly alert summaries of upcoming renewals",
+    "manual entry for contract details",
+    "dashboard for tracking contract statuses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month",
+    "primary_problem": "Missed contract renewals leading to service interruptions and potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month, missed contract renewals cause service interruptions. We provide timely alerts instead of manual tracking of contract dates and renewals.",
+    "current_alternative": "manual tracking of contract dates and renewals",
+    "must_have_features": [
+      "monthly alert summaries of upcoming renewals",
+      "manual entry for contract details",
+      "dashboard for tracking contract statuses"
+    ]
+  },
+  "one_liner": "For procurement managers in small to medium-sized accounting firms processing 5\u201315 vendor contracts/month, missed contract renewals cause service interruptions. We provide timely alerts instead of manual tracking of contract dates and renewals.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-12",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

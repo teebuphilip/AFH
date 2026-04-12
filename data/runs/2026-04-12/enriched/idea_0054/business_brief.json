@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, disorganized receipts cause delayed payments. We automate receipt categorization and report submission instead of manual tracking.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in categorizing and coding receipts for expense reports.",
+  "features": [
+    "Receipt scanning and categorization",
+    "Expense report generation",
+    "Email submission to finance team"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in categorizing and coding receipts for expense reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, disorganized receipts cause delayed payments. We automate receipt categorization and report submission instead of manual tracking.",
+    "current_alternative": "Manual tracking and submission of expense reports.",
+    "must_have_features": [
+      "Receipt scanning and categorization",
+      "Expense report generation",
+      "Email submission to finance team"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, disorganized receipts cause delayed payments. We automate receipt categorization and report submission instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-12",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

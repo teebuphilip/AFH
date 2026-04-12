@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality managers in hotels processing 5\u201315 compliance reports/month tool",
+  "description": "For hospitality managers in hotels processing 5\u201315 compliance reports/month, inconsistent cleaning and sanitation compliance causes regulatory penalties. We generate automated compliance reports instead of manual tracking and reporting.",
+  "target_audience": "hospitality managers in hotels processing 5\u201315 compliance reports/month",
+  "problem_solved": "Inconsistent cleaning and sanitation compliance reporting",
+  "features": [
+    "daily report generation",
+    "customizable compliance checklists",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality managers in hotels processing 5\u201315 compliance reports/month",
+    "primary_problem": "Inconsistent cleaning and sanitation compliance reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality managers in hotels processing 5\u201315 compliance reports/month, inconsistent cleaning and sanitation compliance causes regulatory penalties. We generate automated compliance reports instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting",
+    "must_have_features": [
+      "daily report generation",
+      "customizable compliance checklists",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For hospitality managers in hotels processing 5\u201315 compliance reports/month, inconsistent cleaning and sanitation compliance causes regulatory penalties. We generate automated compliance reports instead of manual tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-12",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

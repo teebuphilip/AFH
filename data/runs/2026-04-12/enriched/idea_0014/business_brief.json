@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201350 invoices/month tool",
+  "description": "For accounting firms processing 10\u201350 invoices/month, inefficient reconciliation causes late payments. We automate bank statement matching instead of manual reconciliation of bank statements and ledgers.",
+  "target_audience": "accounting firms processing 10\u201350 invoices/month",
+  "problem_solved": "inefficient reconciliation processes leading to late payments",
+  "features": [
+    "manual entry for exceptions",
+    "email notifications for reconciliation issues",
+    "dashboard for tracking reconciliation status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201350 invoices/month",
+    "primary_problem": "inefficient reconciliation processes leading to late payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201350 invoices/month, inefficient reconciliation causes late payments. We automate bank statement matching instead of manual reconciliation of bank statements and ledgers.",
+    "current_alternative": "manual reconciliation of bank statements and ledgers",
+    "must_have_features": [
+      "manual entry for exceptions",
+      "email notifications for reconciliation issues",
+      "dashboard for tracking reconciliation status"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201350 invoices/month, inefficient reconciliation causes late payments. We automate bank statement matching instead of manual reconciliation of bank statements and ledgers.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

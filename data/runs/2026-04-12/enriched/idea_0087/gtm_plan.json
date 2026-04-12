@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical office administrators processing 10\u201320 invoices/month",
+  "offer": "For medical office administrators processing 10\u201320 invoices/month, inefficient billing processes cause delayed payments. We streamline data aggregation and report generation instead of manual data entry.",
+  "problem": "Inefficient billing processes lead to delayed payments.",
+  "channels_free": [
+    "Post in Reddit communities for medical office administrators",
+    "Engage in Indie Hackers discussions on billing workflows",
+    "DM outreach to medical office administrators with demo video",
+    "Join community forums for sharing tools and tips"
+  ],
+  "try_it": "Let users try manual data entry support on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Implement default reminder schedules",
+    "Enable CSV import for existing patient data",
+    "Offer one-click report exports",
+    "Streamline onboarding steps for new users"
+  ]
+}

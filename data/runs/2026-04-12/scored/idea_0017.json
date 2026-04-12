@@ -1,0 +1,12 @@
+{
+  "idea_text": "Service that monitors supplier delivery performance metrics and sends monthly scorecards to procurement ops.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 74,
+  "arr_score": 74
+}

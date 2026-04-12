@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics managers in freight brokerage handling - shipments week inefficient tool",
+    "logistics managers in freight brokerage handling - shipments week inefficient automation",
+    "logistics managers in freight brokerage handling 10-20 shipments week inefficient tool",
+    "logistics managers in freight brokerage handling 10-20 shipments week inefficient automation",
+    "logistics managers in freight brokerage handling 10-20 shipments week inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "logistics managers in freight brokerage handling 10-20 shipments week inefficient tool software",
+    "logistics managers in freight brokerage handling 10-20 shipments week inefficient tool platform",
+    "logistics managers in freight brokerage handling 10-20 shipments week inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics managers in freight brokerage processing 10-20 shipments/week, inefficient fleet maintenance scheduling causes increased operational costs. We optimize scheduling instead of manual scheduling and performance tracking using spreadsheets.",
+    "inefficient fleet maintenance scheduling leading to increased operational costs",
+    "logistics managers in freight brokerage handling 10-20 shipments/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Managers In Freight Brokerage Handling 10-20 Shipments Week Inefficient Tool Software",
+      "target_keyword": "logistics managers in freight brokerage handling 10-20 shipments week inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers In Freight Brokerage Handling 10-20 Shipments Week Inefficient Tool Platform",
+      "target_keyword": "logistics managers in freight brokerage handling 10-20 shipments week inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers In Freight Brokerage Handling 10-20 Shipments Week Inefficient Tool Solution",
+      "target_keyword": "logistics managers in freight brokerage handling 10-20 shipments week inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers In Freight Brokerage Handling 10-20 Shipments Week Inefficient Tool",
+      "target_keyword": "logistics managers in freight brokerage handling 10-20 shipments week inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers In Freight Brokerage Handling 10-20 Shipments Week Inefficient Automation",
+      "target_keyword": "logistics managers in freight brokerage handling 10-20 shipments week inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers In Freight Brokerage Handling 10-20 Shipments Week Inefficient Workflow",
+      "target_keyword": "logistics managers in freight brokerage handling 10-20 shipments week inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics managers in freight brokerage handling - shipments week inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics managers in freight brokerage handling - shipments week inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics managers in freight brokerage handling - shipments week inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics managers in freight brokerage handling - shipments week inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics managers in freight brokerage handling - shipments week inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics managers in freight brokerage handling - shipments week tool",
+      "logistics managers in freight brokerage handling - shipments week tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics managers in freight brokerage handling - shipments week tool helps with inefficient fleet maintenance scheduling leading to increased operational costs."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, invoice discrepancies cause cash flow gaps. We automatically reconcile vendor invoices with purchase orders instead of manual reconciliation of invoices and purchase orders.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Invoice discrepancies leading to cash flow gaps",
+  "features": [
+    "manual invoice entry",
+    "exception reporting via email",
+    "basic reconciliation dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Invoice discrepancies leading to cash flow gaps",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, invoice discrepancies cause cash flow gaps. We automatically reconcile vendor invoices with purchase orders instead of manual reconciliation of invoices and purchase orders.",
+    "current_alternative": "manual reconciliation of invoices and purchase orders",
+    "must_have_features": [
+      "manual invoice entry",
+      "exception reporting via email",
+      "basic reconciliation dashboard"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, invoice discrepancies cause cash flow gaps. We automatically reconcile vendor invoices with purchase orders instead of manual reconciliation of invoices and purchase orders.",
+  "source": {
+    "idea_id": "idea_0001",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "finance managers at small marketing agencies processing 5\u201315 invoices/month tool",
+  "description": "For finance managers at small marketing agencies processing 5\u201315 invoices/month, overspending causes cash flow gaps. We automatically audit subscription expenses instead of manual tracking of subscriptions and expenses.",
+  "target_audience": "finance managers at small marketing agencies processing 5\u201315 invoices/month",
+  "problem_solved": "Overspending on recurring subscription expenses due to lack of visibility and anomaly detection.",
+  "features": [
+    "monthly expense report generation",
+    "anomaly flagging for unusual charges",
+    "user-friendly dashboard for expense overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "finance managers at small marketing agencies processing 5\u201315 invoices/month",
+    "primary_problem": "Overspending on recurring subscription expenses due to lack of visibility and anomaly detection.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For finance managers at small marketing agencies processing 5\u201315 invoices/month, overspending causes cash flow gaps. We automatically audit subscription expenses instead of manual tracking of subscriptions and expenses.",
+    "current_alternative": "manual tracking of subscriptions and expenses",
+    "must_have_features": [
+      "monthly expense report generation",
+      "anomaly flagging for unusual charges",
+      "user-friendly dashboard for expense overview"
+    ]
+  },
+  "one_liner": "For finance managers at small marketing agencies processing 5\u201315 invoices/month, overspending causes cash flow gaps. We automatically audit subscription expenses instead of manual tracking of subscriptions and expenses.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-12",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

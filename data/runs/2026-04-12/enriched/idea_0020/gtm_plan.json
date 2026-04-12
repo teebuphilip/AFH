@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201320 invoices/week",
+  "offer": "For Amazon sellers processing 10\u201320 invoices/week, frequent mismatches cause late orders. We automate reconciliation instead of manual reconciliation of sales orders and shipping confirmations.",
+  "problem": "Frequent mismatches between sales orders and shipping confirmations.",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Engage in Indie Hackers discussions about workflows",
+    "DM outreach to Amazon sellers with demo video",
+    "Participate in forums for Amazon seller tools"
+  ],
+  "try_it": "Let users try Weekly mismatch notification and Manual entry for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations in small to medium-sized companies using Gusto for employee management tool",
+  "description": "For HR operations in small to medium-sized companies using Gusto processing 5\u201315 employee enrollments per month, missed deadlines cause employee dissatisfaction. We automate reminders instead of manual tracking.",
+  "target_audience": "HR operations in small to medium-sized companies using Gusto for employee management",
+  "problem_solved": "Missed employee benefits enrollment deadlines",
+  "features": [
+    "Weekly reminder notifications",
+    "Deadline tracking dashboard",
+    "Employee enrollment status updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations in small to medium-sized companies using Gusto for employee management",
+    "primary_problem": "Missed employee benefits enrollment deadlines",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations in small to medium-sized companies using Gusto processing 5\u201315 employee enrollments per month, missed deadlines cause employee dissatisfaction. We automate reminders instead of manual tracking.",
+    "current_alternative": "Manual tracking of enrollment deadlines",
+    "must_have_features": [
+      "Weekly reminder notifications",
+      "Deadline tracking dashboard",
+      "Employee enrollment status updates"
+    ]
+  },
+  "one_liner": "For HR operations in small to medium-sized companies using Gusto processing 5\u201315 employee enrollments per month, missed deadlines cause employee dissatisfaction. We automate reminders instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-12",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 properties/month",
+  "offer": "For property managers handling 5\u201315 properties/month, inconsistent maintenance schedules cause tenant complaints. We send reminders instead of manual tracking via spreadsheets or calendars.",
+  "problem": "Inconsistent maintenance schedules lead to delayed repairs and tenant complaints.",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to property managers with demo video",
+    "Community forums for property management tools"
+  ],
+  "try_it": "Let users try maintenance tracking on 1-3 properties",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing maintenance data",
+    "One-click export of maintenance reports",
+    "Simplify onboarding steps"
+  ]
+}

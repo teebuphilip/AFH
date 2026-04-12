@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical clinics processing 10\u201320 invoices/month",
+  "offer": "For medical clinics processing 10\u201320 invoices/month, unresolved patient billing disputes cause cash flow gaps. We monitor disputes and flag unresolved cases instead of manual tracking of billing disputes.",
+  "problem": "Unresolved patient billing disputes leading to cash flow gaps.",
+  "channels_free": [
+    "Post in Reddit communities for medical billing support",
+    "Indie Hackers discussions on similar issues",
+    "DM outreach to clinics with a demo video",
+    "Engage in community forums for medical tools"
+  ],
+  "try_it": "Let users manually track disputes on 1-3 cases",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the process",
+    "Conduct 10 interviews with potential users",
+    "Provide early access for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Pre-fill common fields for efficiency",
+    "Set default reminders for follow-ups",
+    "Allow CSV import for data entry",
+    "Enable one-click report generation",
+    "Streamline the onboarding process"
+  ]
+}

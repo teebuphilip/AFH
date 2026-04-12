@@ -1,0 +1,15 @@
+{
+  "idea_text": "A tool that tracks vehicle maintenance and fuel usage for fleet operations managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 60,
+  "arr_score": 61,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-12T10:01:08.307736",
+  "verdict_source": "overlay_score"
+}

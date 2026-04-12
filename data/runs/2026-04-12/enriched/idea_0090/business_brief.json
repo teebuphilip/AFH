@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "junior associates at law firms processing 5\u201315 client briefings/month tool",
+  "description": "For junior associates at law firms processing 5\u201315 client briefings/month, inefficient formatting causes delays in client communication. We automate the briefing process instead of manual formatting and summarizing of legal research.",
+  "target_audience": "junior associates at law firms processing 5\u201315 client briefings/month",
+  "problem_solved": "inefficient conversion of legal research into client briefings",
+  "features": [
+    "manual input for legal research",
+    "template selection for briefings",
+    "export options for formatted documents"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "junior associates at law firms processing 5\u201315 client briefings/month",
+    "primary_problem": "inefficient conversion of legal research into client briefings",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For junior associates at law firms processing 5\u201315 client briefings/month, inefficient formatting causes delays in client communication. We automate the briefing process instead of manual formatting and summarizing of legal research.",
+    "current_alternative": "manual formatting and summarizing of legal research",
+    "must_have_features": [
+      "manual input for legal research",
+      "template selection for briefings",
+      "export options for formatted documents"
+    ]
+  },
+  "one_liner": "For junior associates at law firms processing 5\u201315 client briefings/month, inefficient formatting causes delays in client communication. We automate the briefing process instead of manual formatting and summarizing of legal research.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

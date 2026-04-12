@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations teams in small to medium-sized accounting firms processing 5\u201315 payroll runs/month tool",
+  "description": "For HR operations teams in small to medium-sized accounting firms processing 5\u201315 payroll runs/month, discrepancies cause late payroll disbursements. We provide real-time alerts instead of manual checks and reconciliations.",
+  "target_audience": "HR operations teams in small to medium-sized accounting firms processing 5\u201315 payroll runs/month",
+  "problem_solved": "Discrepancies in payroll processing",
+  "features": [
+    "Daily payroll monitoring",
+    "Anomaly detection alerts",
+    "User-friendly dashboard for tracking discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations teams in small to medium-sized accounting firms processing 5\u201315 payroll runs/month",
+    "primary_problem": "Discrepancies in payroll processing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations teams in small to medium-sized accounting firms processing 5\u201315 payroll runs/month, discrepancies cause late payroll disbursements. We provide real-time alerts instead of manual checks and reconciliations.",
+    "current_alternative": "manual checks and reconciliations",
+    "must_have_features": [
+      "Daily payroll monitoring",
+      "Anomaly detection alerts",
+      "User-friendly dashboard for tracking discrepancies"
+    ]
+  },
+  "one_liner": "For HR operations teams in small to medium-sized accounting firms processing 5\u201315 payroll runs/month, discrepancies cause late payroll disbursements. We provide real-time alerts instead of manual checks and reconciliations.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-12",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

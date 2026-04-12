@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients/month tool",
+  "description": "For accounting firms managing 5\u201315 clients/month, inefficient report compilation causes late submissions to clients. We automate the report generation instead of manual compilation of expense reports.",
+  "target_audience": "accounting firms managing 5\u201315 clients/month",
+  "problem_solved": "Inefficient compilation of monthly expense reports from credit card transactions.",
+  "features": [
+    "manual entry of credit card transactions",
+    "monthly summary generation",
+    "email notifications to clients"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients/month",
+    "primary_problem": "Inefficient compilation of monthly expense reports from credit card transactions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients/month, inefficient report compilation causes late submissions to clients. We automate the report generation instead of manual compilation of expense reports.",
+    "current_alternative": "manual compilation of expense reports",
+    "must_have_features": [
+      "manual entry of credit card transactions",
+      "monthly summary generation",
+      "email notifications to clients"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients/month, inefficient report compilation causes late submissions to clients. We automate the report generation instead of manual compilation of expense reports.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-12",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

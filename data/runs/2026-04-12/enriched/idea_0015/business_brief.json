@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient billing summary compilation causes cash flow gaps. We automate the summary process instead of manual compilation of billing summaries.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient billing summary compilation",
+  "features": [
+    "manual entry for time tracking",
+    "weekly summary generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient billing summary compilation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient billing summary compilation causes cash flow gaps. We automate the summary process instead of manual compilation of billing summaries.",
+    "current_alternative": "manual compilation of billing summaries",
+    "must_have_features": [
+      "manual entry for time tracking",
+      "weekly summary generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient billing summary compilation causes cash flow gaps. We automate the summary process instead of manual compilation of billing summaries.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-12",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

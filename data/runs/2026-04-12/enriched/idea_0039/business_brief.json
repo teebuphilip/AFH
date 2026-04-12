@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 10\u201320 invoices/month tool",
+  "description": "For construction contractors processing 10\u201320 invoices/month, manual entry of handwritten work orders causes late payments. We convert handwritten work orders into digital invoices instead of manual transcription.",
+  "target_audience": "construction contractors processing 10\u201320 invoices/month",
+  "problem_solved": "manual entry of handwritten work orders leads to errors and delays in invoicing",
+  "features": [
+    "manual entry of handwritten work orders",
+    "simple invoice generation",
+    "basic error checking for data entry"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 10\u201320 invoices/month",
+    "primary_problem": "manual entry of handwritten work orders leads to errors and delays in invoicing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 10\u201320 invoices/month, manual entry of handwritten work orders causes late payments. We convert handwritten work orders into digital invoices instead of manual transcription.",
+    "current_alternative": "manual transcription of handwritten work orders into invoicing software",
+    "must_have_features": [
+      "manual entry of handwritten work orders",
+      "simple invoice generation",
+      "basic error checking for data entry"
+    ]
+  },
+  "one_liner": "For construction contractors processing 10\u201320 invoices/month, manual entry of handwritten work orders causes late payments. We convert handwritten work orders into digital invoices instead of manual transcription.",
+  "source": {
+    "idea_id": "idea_0039",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, inconsistent supplier delivery performance causes late orders. We provide monthly scorecards instead of manual tracking of supplier performance metrics.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Inconsistent supplier delivery performance leading to late orders.",
+  "features": [
+    "Monthly performance scorecards",
+    "Supplier performance tracking",
+    "Email notifications for performance updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Inconsistent supplier delivery performance leading to late orders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, inconsistent supplier delivery performance causes late orders. We provide monthly scorecards instead of manual tracking of supplier performance metrics.",
+    "current_alternative": "Manual tracking of supplier performance metrics.",
+    "must_have_features": [
+      "Monthly performance scorecards",
+      "Supplier performance tracking",
+      "Email notifications for performance updates"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, inconsistent supplier delivery performance causes late orders. We provide monthly scorecards instead of manual tracking of supplier performance metrics.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-12",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

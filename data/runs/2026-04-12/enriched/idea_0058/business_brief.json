@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations team in a marketing agency processing 10-20 deals/month tool",
+  "description": "For sales operations teams in marketing agencies processing 10-20 deals/month, manual tracking causes delays in compensation reporting. We automate commission calculations instead of using manual spreadsheets and email communication.",
+  "target_audience": "sales operations team in a marketing agency processing 10-20 deals/month",
+  "problem_solved": "manual tracking of sales commissions leads to errors and delays in compensation reporting.",
+  "features": [
+    "deal tracking dashboard for visibility",
+    "compensation report generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations team in a marketing agency processing 10-20 deals/month",
+    "primary_problem": "manual tracking of sales commissions leads to errors and delays in compensation reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations teams in marketing agencies processing 10-20 deals/month, manual tracking causes delays in compensation reporting. We automate commission calculations instead of using manual spreadsheets and email communication.",
+    "current_alternative": "manual spreadsheets and email communication",
+    "must_have_features": [
+      "deal tracking dashboard for visibility",
+      "compensation report generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For sales operations teams in marketing agencies processing 10-20 deals/month, manual tracking causes delays in compensation reporting. We automate commission calculations instead of using manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-12",
+    "overlay_score": 71,
+    "arr_score": 71
+  }
+}

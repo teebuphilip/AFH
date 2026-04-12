@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm billing administrators processing 5\u201315 invoices/month tool",
+  "description": "For law firm billing administrators processing 5\u201315 invoices/month, manual invoice creation causes delays in billing and cash flow gaps. We automate invoice formatting instead of manual invoice creation using word processors and spreadsheets.",
+  "target_audience": "law firm billing administrators processing 5\u201315 invoices/month",
+  "problem_solved": "Manual invoice creation from legal documents is time-consuming and error-prone.",
+  "features": [
+    "template-based invoice generation",
+    "manual entry for client details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm billing administrators processing 5\u201315 invoices/month",
+    "primary_problem": "Manual invoice creation from legal documents is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm billing administrators processing 5\u201315 invoices/month, manual invoice creation causes delays in billing and cash flow gaps. We automate invoice formatting instead of manual invoice creation using word processors and spreadsheets.",
+    "current_alternative": "manual invoice creation using word processors and spreadsheets",
+    "must_have_features": [
+      "template-based invoice generation",
+      "manual entry for client details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm billing administrators processing 5\u201315 invoices/month, manual invoice creation causes delays in billing and cash flow gaps. We automate invoice formatting instead of manual invoice creation using word processors and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0098",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

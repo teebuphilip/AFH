@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction site supervisors managing 5-10 projects/week",
+  "offer": "For construction site supervisors processing 5-10 projects/week, inconsistent labor compliance reporting causes potential fines. We generate automated weekly compliance reports instead of manual tracking.",
+  "problem": "Inconsistent labor compliance reporting leading to potential fines.",
+  "channels_free": [
+    "Post in Reddit communities for construction site supervisors",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to construction site supervisors with demo video",
+    "Community forums for construction site supervisors sharing tools"
+  ],
+  "try_it": "Let users try manual entry of labor hours and report generation",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

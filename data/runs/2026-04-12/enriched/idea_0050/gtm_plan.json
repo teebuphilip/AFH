@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small law firms processing 5\u201315 expense reports/month",
+  "offer": "For small law firms processing 5\u201315 expense reports/month, inefficient manual processes cause delays in reimbursement approvals. We automate expense report compilation and submission instead of manual compilation and submission of expense reports.",
+  "problem": "Inefficient manual expense report compilation and approval process",
+  "channels_free": [
+    "Post in Reddit communities for small law firms",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to small law firms with demo video",
+    "Participate in community forums for law firms"
+  ],
+  "try_it": "Let users try manual entry of expenses on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of simple reports",
+    "Reduce steps in onboarding process"
+  ]
+}

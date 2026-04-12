@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in freight brokerage handling 10-20 shipments/week tool",
+  "description": "For logistics managers in freight brokerage processing 10-20 shipments/week, inefficient fleet maintenance scheduling causes increased operational costs. We optimize scheduling instead of manual scheduling and performance tracking using spreadsheets.",
+  "target_audience": "logistics managers in freight brokerage handling 10-20 shipments/week",
+  "problem_solved": "inefficient fleet maintenance scheduling leading to increased operational costs",
+  "features": [
+    "manual scheduling interface",
+    "performance report generation",
+    "notification system for maintenance reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in freight brokerage handling 10-20 shipments/week",
+    "primary_problem": "inefficient fleet maintenance scheduling leading to increased operational costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in freight brokerage processing 10-20 shipments/week, inefficient fleet maintenance scheduling causes increased operational costs. We optimize scheduling instead of manual scheduling and performance tracking using spreadsheets.",
+    "current_alternative": "manual scheduling and performance tracking using spreadsheets",
+    "must_have_features": [
+      "manual scheduling interface",
+      "performance report generation",
+      "notification system for maintenance reminders"
+    ]
+  },
+  "one_liner": "For logistics managers in freight brokerage processing 10-20 shipments/week, inefficient fleet maintenance scheduling causes increased operational costs. We optimize scheduling instead of manual scheduling and performance tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-12",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

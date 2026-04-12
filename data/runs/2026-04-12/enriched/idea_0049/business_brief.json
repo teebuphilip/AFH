@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Fleet safety managers in logistics carriers managing 10-50 drivers tool",
+  "description": "For fleet safety managers in logistics carriers processing 10-50 drivers, compliance issues cause potential fines and safety risks. We provide automated alerts for violations instead of manual tracking.",
+  "target_audience": "Fleet safety managers in logistics carriers managing 10-50 drivers",
+  "problem_solved": "Ensuring compliance with driver log regulations and managing safety violations.",
+  "features": [
+    "Real-time violation alerts",
+    "Driver log tracking dashboard",
+    "Compliance reporting tools"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Fleet safety managers in logistics carriers managing 10-50 drivers",
+    "primary_problem": "Ensuring compliance with driver log regulations and managing safety violations.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For fleet safety managers in logistics carriers processing 10-50 drivers, compliance issues cause potential fines and safety risks. We provide automated alerts for violations instead of manual tracking.",
+    "current_alternative": "Manual tracking of driver logs and compliance checks.",
+    "must_have_features": [
+      "Real-time violation alerts",
+      "Driver log tracking dashboard",
+      "Compliance reporting tools"
+    ]
+  },
+  "one_liner": "For fleet safety managers in logistics carriers processing 10-50 drivers, compliance issues cause potential fines and safety risks. We provide automated alerts for violations instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

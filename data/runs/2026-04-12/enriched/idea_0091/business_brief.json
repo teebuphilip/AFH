@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients processing 5\u201315 invoices/month, inefficient reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "inefficient reconciliation of accounts receivable and payable",
+  "features": [
+    "manual entry for invoice data",
+    "basic reporting of reconciled accounts",
+    "notification system for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "inefficient reconciliation of accounts receivable and payable",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients processing 5\u201315 invoices/month, inefficient reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry for invoice data",
+      "basic reporting of reconciled accounts",
+      "notification system for discrepancies"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients processing 5\u201315 invoices/month, inefficient reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

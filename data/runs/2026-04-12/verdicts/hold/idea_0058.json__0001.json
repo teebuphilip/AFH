@@ -1,0 +1,18 @@
+{
+  "idea_text": "Sales commission calculator that automatically tracks deals, applies commission rules, and generates compensation reports for the sales operations team.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 71,
+  "arr_score": 71.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-12T10:01:08.305397",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-12T10:01:08.353579",
+  "hold_reason": "arr_70_89"
+}

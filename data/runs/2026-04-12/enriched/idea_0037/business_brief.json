@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 invoices/month tool",
+  "description": "For construction contractors processing 5\u201315 invoices/month, compliance documentation delays cause penalties from licensing authorities. We automate document preparation instead of manual preparation using spreadsheets.",
+  "target_audience": "construction contractors processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in preparing timely compliance documentation for licensing authorities.",
+  "features": [
+    "Template-based document generation",
+    "User-friendly interface for document customization",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in preparing timely compliance documentation for licensing authorities.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 invoices/month, compliance documentation delays cause penalties from licensing authorities. We automate document preparation instead of manual preparation using spreadsheets.",
+    "current_alternative": "Manual preparation of compliance documents using spreadsheets.",
+    "must_have_features": [
+      "Template-based document generation",
+      "User-friendly interface for document customization",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 invoices/month, compliance documentation delays cause penalties from licensing authorities. We automate document preparation instead of manual preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-12",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

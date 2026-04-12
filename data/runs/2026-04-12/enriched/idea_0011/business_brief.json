@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small HR teams using Gusto for payroll processing 5\u201315 employees/month tool",
+  "description": "For small HR teams using Gusto for payroll processing 5\u201315 employees/month, manual report generation causes compliance issues. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "small HR teams using Gusto for payroll processing 5\u201315 employees/month",
+  "problem_solved": "Generating accurate monthly tax withholding reports from payroll data.",
+  "features": [
+    "User-friendly interface for report customization",
+    "Basic error-checking for payroll data",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small HR teams using Gusto for payroll processing 5\u201315 employees/month",
+    "primary_problem": "Generating accurate monthly tax withholding reports from payroll data.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For small HR teams using Gusto for payroll processing 5\u201315 employees/month, manual report generation causes compliance issues. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "User-friendly interface for report customization",
+      "Basic error-checking for payroll data",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small HR teams using Gusto for payroll processing 5\u201315 employees/month, manual report generation causes compliance issues. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-12",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

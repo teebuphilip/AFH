@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, inefficient tracking causes missed discounts. We automate weekly procurement spend analysis reports instead of manual tracking using spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Inability to track procurement spend efficiently",
+  "features": [
+    "Email notifications to vendor managers",
+    "User-friendly dashboard for spend overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Inability to track procurement spend efficiently",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, inefficient tracking causes missed discounts. We automate weekly procurement spend analysis reports instead of manual tracking using spreadsheets.",
+    "current_alternative": "Manual tracking of procurement spend using spreadsheets",
+    "must_have_features": [
+      "Email notifications to vendor managers",
+      "User-friendly dashboard for spend overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, inefficient tracking causes missed discounts. We automate weekly procurement spend analysis reports instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

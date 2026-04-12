@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 client accounts tool",
+  "description": "For accounting firms processing 5\u201315 client accounts, discrepancies cause financial inaccuracies. We automate monitoring instead of manual reconciliation processes.",
+  "target_audience": "accounting firms managing 5\u201315 client accounts",
+  "problem_solved": "discrepancies in client accounts",
+  "features": [
+    "discrepancy flagging",
+    "manual review interface",
+    "client account overview dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 client accounts",
+    "primary_problem": "discrepancies in client accounts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 client accounts, discrepancies cause financial inaccuracies. We automate monitoring instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "discrepancy flagging",
+      "manual review interface",
+      "client account overview dashboard"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 client accounts, discrepancies cause financial inaccuracies. We automate monitoring instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

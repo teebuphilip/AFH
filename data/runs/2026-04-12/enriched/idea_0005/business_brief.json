@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Ops Managers at Amazon Sellers processing 10\u201350 sales per week tool",
+  "description": "For Sales Ops Managers at Amazon Sellers processing 10\u201350 sales per week, inconsistent commission reporting causes cash flow gaps. We automate commission data extraction and reporting instead of manual tracking and reporting of commissions.",
+  "target_audience": "Sales Ops Managers at Amazon Sellers processing 10\u201350 sales per week",
+  "problem_solved": "Inconsistent and delayed commission reporting",
+  "features": [
+    "Weekly commission data extraction",
+    "User-friendly dashboard for data visualization",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Ops Managers at Amazon Sellers processing 10\u201350 sales per week",
+    "primary_problem": "Inconsistent and delayed commission reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Ops Managers at Amazon Sellers processing 10\u201350 sales per week, inconsistent commission reporting causes cash flow gaps. We automate commission data extraction and reporting instead of manual tracking and reporting of commissions.",
+    "current_alternative": "Manual tracking and reporting of commissions",
+    "must_have_features": [
+      "Weekly commission data extraction",
+      "User-friendly dashboard for data visualization",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Sales Ops Managers at Amazon Sellers processing 10\u201350 sales per week, inconsistent commission reporting causes cash flow gaps. We automate commission data extraction and reporting instead of manual tracking and reporting of commissions.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-12",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

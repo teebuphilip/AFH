@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms managing 5\u201315 clients",
+  "offer": "For accounting firms managing 5\u201315 clients processing 5\u201315 invoices/month, inefficient reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "problem": "inefficient reconciliation of accounts receivable and payable",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to 20-50 accounting firms with demo video",
+    "Community forums for accounting tools discussions"
+  ],
+  "try_it": "Let users try manual entry for invoice data and reporting",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

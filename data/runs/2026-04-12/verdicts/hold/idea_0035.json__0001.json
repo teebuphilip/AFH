@@ -1,0 +1,15 @@
+{
+  "idea_text": "Service that audits and flags discrepancies in insurance claim reimbursements for claims processors.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-12T10:01:08.302240",
+  "verdict_source": "overlay_score"
+}

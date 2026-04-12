@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 10-20 policies/month tool",
+  "description": "For insurance brokers managing 10-20 policies/month, missed policy renewals cause coverage gaps. We send timely alerts instead of manual tracking of policy dates.",
+  "target_audience": "insurance brokers managing 10-20 policies/month",
+  "problem_solved": "missed policy renewals leading to coverage gaps",
+  "features": [
+    "manual entry of policy details",
+    "customizable alert settings",
+    "dashboard for tracking renewal dates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 10-20 policies/month",
+    "primary_problem": "missed policy renewals leading to coverage gaps",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers managing 10-20 policies/month, missed policy renewals cause coverage gaps. We send timely alerts instead of manual tracking of policy dates.",
+    "current_alternative": "manual tracking of policy dates",
+    "must_have_features": [
+      "manual entry of policy details",
+      "customizable alert settings",
+      "dashboard for tracking renewal dates"
+    ]
+  },
+  "one_liner": "For insurance brokers managing 10-20 policies/month, missed policy renewals cause coverage gaps. We send timely alerts instead of manual tracking of policy dates.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

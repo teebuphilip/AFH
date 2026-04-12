@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, missed vendor rebates cause cash flow gaps. We automate rebate tracking instead of manual tracking of vendor rebates.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Missed vendor rebates due to manual tracking processes.",
+  "features": [
+    "Monthly rebate tracking report",
+    "Manual entry for vendor details",
+    "Notification system for upcoming rebates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Missed vendor rebates due to manual tracking processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, missed vendor rebates cause cash flow gaps. We automate rebate tracking instead of manual tracking of vendor rebates.",
+    "current_alternative": "Manual tracking of vendor rebates",
+    "must_have_features": [
+      "Monthly rebate tracking report",
+      "Manual entry for vendor details",
+      "Notification system for upcoming rebates"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, missed vendor rebates cause cash flow gaps. We automate rebate tracking instead of manual tracking of vendor rebates.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-12",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

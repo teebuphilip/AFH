@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "marketing agencies managing 5\u201315 clients/month tool",
+  "description": "For marketing agencies processing 5\u201315 clients/month, inefficient tracking of lead activity causes missed revenue opportunities. We automate sales pipeline management instead of manual spreadsheets and email updates.",
+  "target_audience": "marketing agencies managing 5\u201315 clients/month",
+  "problem_solved": "inefficient tracking of lead activity and revenue forecasting",
+  "features": [
+    "Lead activity tracking",
+    "Revenue forecasting",
+    "Weekly sales report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "marketing agencies managing 5\u201315 clients/month",
+    "primary_problem": "inefficient tracking of lead activity and revenue forecasting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For marketing agencies processing 5\u201315 clients/month, inefficient tracking of lead activity causes missed revenue opportunities. We automate sales pipeline management instead of manual spreadsheets and email updates.",
+    "current_alternative": "manual spreadsheets and email updates",
+    "must_have_features": [
+      "Lead activity tracking",
+      "Revenue forecasting",
+      "Weekly sales report generation"
+    ]
+  },
+  "one_liner": "For marketing agencies processing 5\u201315 clients/month, inefficient tracking of lead activity causes missed revenue opportunities. We automate sales pipeline management instead of manual spreadsheets and email updates.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-12",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

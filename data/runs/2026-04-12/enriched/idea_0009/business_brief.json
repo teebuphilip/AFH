@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 orders/week tool",
+  "description": "For Amazon sellers processing 10\u201350 orders/week, poor inventory monitoring causes stockouts. We send weekly alerts when reorder points are met instead of manual tracking with spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201350 orders/week",
+  "problem_solved": "Inability to effectively monitor inventory levels and reorder points.",
+  "features": [
+    "Weekly inventory level alerts",
+    "Customizable reorder thresholds",
+    "Simple dashboard for inventory overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 orders/week",
+    "primary_problem": "Inability to effectively monitor inventory levels and reorder points.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 orders/week, poor inventory monitoring causes stockouts. We send weekly alerts when reorder points are met instead of manual tracking with spreadsheets.",
+    "current_alternative": "Manual tracking of inventory levels using spreadsheets.",
+    "must_have_features": [
+      "Weekly inventory level alerts",
+      "Customizable reorder thresholds",
+      "Simple dashboard for inventory overview"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 orders/week, poor inventory monitoring causes stockouts. We send weekly alerts when reorder points are met instead of manual tracking with spreadsheets.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-12",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

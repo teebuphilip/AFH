@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant supply managers processing 10\u201320 orders/month tool",
+  "description": "For restaurant supply managers processing 10\u201320 orders/month, manual inventory tracking causes late orders and supplier penalties. We automate inventory management instead of manual inventory management systems.",
+  "target_audience": "restaurant supply managers processing 10\u201320 orders/month",
+  "problem_solved": "manual inventory tracking leads to late orders and supplier penalties",
+  "features": [
+    "inventory tracking dashboard",
+    "manual order entry option",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant supply managers processing 10\u201320 orders/month",
+    "primary_problem": "manual inventory tracking leads to late orders and supplier penalties",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant supply managers processing 10\u201320 orders/month, manual inventory tracking causes late orders and supplier penalties. We automate inventory management instead of manual inventory management systems.",
+    "current_alternative": "manual inventory management systems",
+    "must_have_features": [
+      "inventory tracking dashboard",
+      "manual order entry option",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant supply managers processing 10\u201320 orders/month, manual inventory tracking causes late orders and supplier penalties. We automate inventory management instead of manual inventory management systems.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

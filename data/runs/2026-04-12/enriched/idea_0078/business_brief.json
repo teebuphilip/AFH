@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 projects/month tool",
+  "description": "For construction contractors processing 5\u201315 projects/month, delays in permit submissions cause project hold-ups. We automate the submission process instead of manual submission of permits through various channels.",
+  "target_audience": "construction contractors processing 5\u201315 projects/month",
+  "problem_solved": "Delays in permit submissions lead to project hold-ups and increased costs.",
+  "features": [
+    "status tracking for permit applications",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 projects/month",
+    "primary_problem": "Delays in permit submissions lead to project hold-ups and increased costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 projects/month, delays in permit submissions cause project hold-ups. We automate the submission process instead of manual submission of permits through various channels.",
+    "current_alternative": "manual submission of permits through various channels",
+    "must_have_features": [
+      "status tracking for permit applications",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 projects/month, delays in permit submissions cause project hold-ups. We automate the submission process instead of manual submission of permits through various channels.",
+  "source": {
+    "idea_id": "idea_0078",
+    "run_date": "2026-04-12",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

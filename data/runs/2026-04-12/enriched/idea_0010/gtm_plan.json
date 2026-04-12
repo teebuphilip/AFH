@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics managers in small e-commerce businesses processing 10-20 invoices/month",
+  "offer": "For logistics managers in small e-commerce businesses processing 10-20 invoices/month, discrepancies cause late orders. We automate reconciliation instead of manual reconciliation of delivery records and invoices.",
+  "problem": "discrepancies between delivery records and invoiced shipments",
+  "channels_free": [
+    "Post in Reddit communities for logistics managers seeking solutions",
+    "Engage in Indie Hackers discussions about similar workflows",
+    "DM outreach to logistics managers with a demo video",
+    "Participate in community forums for logistics tools sharing"
+  ],
+  "try_it": "Let users try a weekly notification system for discrepancies",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with a clear CTA",
+    "Produce a short demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy access",
+    "Provide default reminder schedule options",
+    "Allow CSV import for existing delivery records",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding to reduce steps"
+  ]
+}

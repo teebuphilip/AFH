@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 clients/month tool",
+  "description": "For accounting firms processing 5\u201315 clients/month, manual calculations cause delays in reporting. We automate depreciation schedule generation instead of manual calculations and spreadsheets.",
+  "target_audience": "accounting firms processing 5\u201315 clients/month",
+  "problem_solved": "Manual generation of depreciation schedules is time-consuming and prone to errors.",
+  "features": [
+    "manual input for asset details",
+    "monthly report generation",
+    "error-checking for calculations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 clients/month",
+    "primary_problem": "Manual generation of depreciation schedules is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 clients/month, manual calculations cause delays in reporting. We automate depreciation schedule generation instead of manual calculations and spreadsheets.",
+    "current_alternative": "manual calculations and spreadsheets",
+    "must_have_features": [
+      "manual input for asset details",
+      "monthly report generation",
+      "error-checking for calculations"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 clients/month, manual calculations cause delays in reporting. We automate depreciation schedule generation instead of manual calculations and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-12",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

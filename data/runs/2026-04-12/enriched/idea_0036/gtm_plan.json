@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant operations managers processing 5\u201315 catering orders/week",
+  "offer": "For restaurant operations managers processing 5\u201315 catering orders/week, inefficient scheduling causes late orders. We automate scheduling and confirmations instead of manual scheduling via phone and email.",
+  "problem": "Inefficient scheduling and confirmation of catering deliveries",
+  "channels_free": [
+    "Post in Reddit communities for restaurant operations managers",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "DM outreach to restaurant operations managers with demo video",
+    "Participate in community forums for restaurant operations managers"
+  ],
+  "try_it": "Let users try manual scheduling interface and tracking dashboard",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video of the manual-first workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for quick access",
+    "Set default reminder schedule presets for convenience",
+    "Enable CSV import for existing customer data",
+    "Provide one-click export for simple reporting",
+    "Streamline onboarding with fewer steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 properties tool",
+  "description": "For property managers handling 5\u201315 properties, inefficient inspection processes cause delayed maintenance responses. We simplify inspections and generate reports instead of manual inspection and report writing.",
+  "target_audience": "property managers handling 5\u201315 properties",
+  "problem_solved": "Inefficient property inspection processes",
+  "features": [
+    "simple inspection checklist",
+    "user-friendly interface",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 properties",
+    "primary_problem": "Inefficient property inspection processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 properties, inefficient inspection processes cause delayed maintenance responses. We simplify inspections and generate reports instead of manual inspection and report writing.",
+    "current_alternative": "manual inspection and report writing",
+    "must_have_features": [
+      "simple inspection checklist",
+      "user-friendly interface",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 properties, inefficient inspection processes cause delayed maintenance responses. We simplify inspections and generate reports instead of manual inspection and report writing.",
+  "source": {
+    "idea_id": "idea_0100",
+    "run_date": "2026-04-12",
+    "overlay_score": 65,
+    "arr_score": 67
+  }
+}

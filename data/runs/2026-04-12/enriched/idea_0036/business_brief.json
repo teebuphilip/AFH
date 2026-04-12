@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant operations managers processing 5\u201315 catering orders/week tool",
+  "description": "For restaurant operations managers processing 5\u201315 catering orders/week, inefficient scheduling causes late orders. We automate scheduling and confirmations instead of manual scheduling via phone and email.",
+  "target_audience": "restaurant operations managers processing 5\u201315 catering orders/week",
+  "problem_solved": "Inefficient scheduling and confirmation of catering deliveries",
+  "features": [
+    "manual scheduling interface",
+    "delivery tracking dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant operations managers processing 5\u201315 catering orders/week",
+    "primary_problem": "Inefficient scheduling and confirmation of catering deliveries",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant operations managers processing 5\u201315 catering orders/week, inefficient scheduling causes late orders. We automate scheduling and confirmations instead of manual scheduling via phone and email.",
+    "current_alternative": "manual scheduling via phone and email",
+    "must_have_features": [
+      "manual scheduling interface",
+      "delivery tracking dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant operations managers processing 5\u201315 catering orders/week, inefficient scheduling causes late orders. We automate scheduling and confirmations instead of manual scheduling via phone and email.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-12",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

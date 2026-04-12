@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet managers in logistics companies managing 10-50 vehicles tool",
+  "description": "For fleet managers in logistics companies processing 10-50 vehicles, missed maintenance tasks cause vehicle breakdowns. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "fleet managers in logistics companies managing 10-50 vehicles",
+  "problem_solved": "timely vehicle maintenance scheduling",
+  "features": [
+    "manual entry of vehicle details",
+    "scheduled maintenance reminders",
+    "maintenance history tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet managers in logistics companies managing 10-50 vehicles",
+    "primary_problem": "timely vehicle maintenance scheduling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet managers in logistics companies processing 10-50 vehicles, missed maintenance tasks cause vehicle breakdowns. We provide automated alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry of vehicle details",
+      "scheduled maintenance reminders",
+      "maintenance history tracking"
+    ]
+  },
+  "one_liner": "For fleet managers in logistics companies processing 10-50 vehicles, missed maintenance tasks cause vehicle breakdowns. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-12",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

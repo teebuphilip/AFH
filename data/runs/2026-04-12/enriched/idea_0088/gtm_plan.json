@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics carriers managing 10-50 deliveries/week",
+  "offer": "For logistics carriers managing 10-50 deliveries/week, inefficient route planning causes delayed deliveries. We optimize route planning and monitor driver logs instead of manual route planning and tracking.",
+  "problem": "Inefficient route planning leading to delayed deliveries.",
+  "channels_free": [
+    "Post in Reddit communities where logistics carriers seek help",
+    "Indie Hackers posts related to logistics workflows",
+    "DM outreach to logistics carriers with demo video",
+    "Community forums discussing logistics tools and solutions"
+  ],
+  "try_it": "Let users try manual route input and driver log tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showcasing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for quick access",
+    "Default reminder schedule presets for users",
+    "CSV import feature for existing data uploads",
+    "One-click export of simple reporting format",
+    "Streamlined steps in user onboarding process"
+  ]
+}

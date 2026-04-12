@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 expense claims/month tool",
+  "description": "For accounting firms processing 10\u201320 expense claims/month, inefficient manual processing causes delays in reimbursements. We automate the claims process instead of manual spreadsheets and email approvals.",
+  "target_audience": "accounting firms processing 10\u201320 expense claims/month",
+  "problem_solved": "Inefficient manual processing of expense claims leading to errors and delays.",
+  "features": [
+    "claim submission form",
+    "policy enforcement rules",
+    "report generation tool"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 expense claims/month",
+    "primary_problem": "Inefficient manual processing of expense claims leading to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 expense claims/month, inefficient manual processing causes delays in reimbursements. We automate the claims process instead of manual spreadsheets and email approvals.",
+    "current_alternative": "manual spreadsheets and email approvals",
+    "must_have_features": [
+      "claim submission form",
+      "policy enforcement rules",
+      "report generation tool"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 expense claims/month, inefficient manual processing causes delays in reimbursements. We automate the claims process instead of manual spreadsheets and email approvals.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-12",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

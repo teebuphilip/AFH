@@ -1,0 +1,17 @@
+{
+  "idea_text": "Workforce planning software that forecasts staffing needs, schedules shifts, and alerts HR managers of potential labor shortages or overtime requirements.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 70,
+  "arr_score": 69.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-12T10:01:08.306132",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-12T10:01:08.352856"
+}

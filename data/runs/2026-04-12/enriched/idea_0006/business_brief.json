@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, overdue payments cause cash flow gaps. We automatically flag overdue vendor payments and send reminders instead of manual tracking of invoices and reminders.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Managing overdue vendor payments",
+  "features": [
+    "Customizable reminder templates",
+    "Dashboard for tracking payment statuses",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Managing overdue vendor payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, overdue payments cause cash flow gaps. We automatically flag overdue vendor payments and send reminders instead of manual tracking of invoices and reminders.",
+    "current_alternative": "manual tracking of invoices and reminders",
+    "must_have_features": [
+      "Customizable reminder templates",
+      "Dashboard for tracking payment statuses",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, overdue payments cause cash flow gaps. We automatically flag overdue vendor payments and send reminders instead of manual tracking of invoices and reminders.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-12",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}
