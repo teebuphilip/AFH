@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 legal filings/month tool",
+  "description": "For law firms processing 5\u201315 legal filings/month, late submissions cause penalties and loss of client trust. We ensure timely filings instead of manual tracking of filing deadlines.",
+  "target_audience": "law firms processing 5\u201315 legal filings/month",
+  "problem_solved": "Late submissions of legal documents can lead to penalties and loss of client trust.",
+  "features": [
+    "deadline reminders",
+    "document tracking",
+    "status updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 legal filings/month",
+    "primary_problem": "Late submissions of legal documents can lead to penalties and loss of client trust.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms processing 5\u201315 legal filings/month, late submissions cause penalties and loss of client trust. We ensure timely filings instead of manual tracking of filing deadlines.",
+    "current_alternative": "manual tracking of filing deadlines",
+    "must_have_features": [
+      "deadline reminders",
+      "document tracking",
+      "status updates"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 legal filings/month, late submissions cause penalties and loss of client trust. We ensure timely filings instead of manual tracking of filing deadlines.",
+  "source": {
+    "idea_id": "idea_0078",
+    "run_date": "2026-04-13",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

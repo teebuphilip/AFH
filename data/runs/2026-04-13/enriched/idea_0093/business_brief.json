@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers processing 10-20 purchase orders/month tool",
+  "description": "For restaurant managers processing 10-20 purchase orders/month, inefficient tracking causes stockouts. We provide a cloud-based inventory management system instead of manual inventory tracking using spreadsheets.",
+  "target_audience": "restaurant managers processing 10-20 purchase orders/month",
+  "problem_solved": "Inefficient tracking of stock levels leading to stockouts.",
+  "features": [
+    "Real-time stock level tracking",
+    "User-friendly dashboard for inventory overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers processing 10-20 purchase orders/month",
+    "primary_problem": "Inefficient tracking of stock levels leading to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers processing 10-20 purchase orders/month, inefficient tracking causes stockouts. We provide a cloud-based inventory management system instead of manual inventory tracking using spreadsheets.",
+    "current_alternative": "manual inventory tracking using spreadsheets",
+    "must_have_features": [
+      "Real-time stock level tracking",
+      "User-friendly dashboard for inventory overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant managers processing 10-20 purchase orders/month, inefficient tracking causes stockouts. We provide a cloud-based inventory management system instead of manual inventory tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-13",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

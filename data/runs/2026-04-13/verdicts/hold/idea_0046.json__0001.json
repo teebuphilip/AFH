@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that reconciles legal case expense reports with approved budgets for law firm project managers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-13T10:54:00.875822",
+  "verdict_source": "overlay_score"
+}

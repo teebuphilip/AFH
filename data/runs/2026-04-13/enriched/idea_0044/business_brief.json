@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR administrators in medical clinics managing 5-15 staff training renewals/month tool",
+  "description": "For HR administrators in medical clinics processing 5-15 training renewals/month, manual tracking causes missed deadlines. We automate scheduling and confirmations instead of manual tracking via spreadsheets or email.",
+  "target_audience": "HR administrators in medical clinics managing 5-15 staff training renewals/month",
+  "problem_solved": "Difficulty in tracking and confirming training renewals for staff",
+  "features": [
+    "Simple scheduling interface",
+    "Confirmation tracking for completed training",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR administrators in medical clinics managing 5-15 staff training renewals/month",
+    "primary_problem": "Difficulty in tracking and confirming training renewals for staff",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR administrators in medical clinics processing 5-15 training renewals/month, manual tracking causes missed deadlines. We automate scheduling and confirmations instead of manual tracking via spreadsheets or email.",
+    "current_alternative": "Manual tracking and scheduling via spreadsheets or email",
+    "must_have_features": [
+      "Simple scheduling interface",
+      "Confirmation tracking for completed training",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR administrators in medical clinics processing 5-15 training renewals/month, manual tracking causes missed deadlines. We automate scheduling and confirmations instead of manual tracking via spreadsheets or email.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

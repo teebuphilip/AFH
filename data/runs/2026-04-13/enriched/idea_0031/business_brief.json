@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant kitchen managers processing 10\u201320 invoices/month tool",
+  "description": "For restaurant kitchen managers processing 10\u201320 invoices/month, inaccurate inventory tracking causes over-ordering and waste. We automate inventory usage reconciliation instead of manual inventory tracking and reconciliation.",
+  "target_audience": "restaurant kitchen managers processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate inventory tracking leads to over-ordering and waste.",
+  "features": [
+    "manual entry of inventory usage",
+    "user-friendly dashboard for tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant kitchen managers processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate inventory tracking leads to over-ordering and waste.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant kitchen managers processing 10\u201320 invoices/month, inaccurate inventory tracking causes over-ordering and waste. We automate inventory usage reconciliation instead of manual inventory tracking and reconciliation.",
+    "current_alternative": "manual inventory tracking and reconciliation",
+    "must_have_features": [
+      "manual entry of inventory usage",
+      "user-friendly dashboard for tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant kitchen managers processing 10\u201320 invoices/month, inaccurate inventory tracking causes over-ordering and waste. We automate inventory usage reconciliation instead of manual inventory tracking and reconciliation.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

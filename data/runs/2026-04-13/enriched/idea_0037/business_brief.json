@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations accountants processing 10-20 invoices/month tool",
+  "description": "For fleet operations accountants processing 10-20 invoices/month, inaccurate reconciliation causes financial discrepancies. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "fleet operations accountants processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate reconciliation of fuel expenses leading to financial discrepancies.",
+  "features": [
+    "manual data entry for fuel expenses",
+    "report generation for expense tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations accountants processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate reconciliation of fuel expenses leading to financial discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operations accountants processing 10-20 invoices/month, inaccurate reconciliation causes financial discrepancies. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "manual data entry for fuel expenses",
+      "report generation for expense tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet operations accountants processing 10-20 invoices/month, inaccurate reconciliation causes financial discrepancies. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-13",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

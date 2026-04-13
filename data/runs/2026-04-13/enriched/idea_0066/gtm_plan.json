@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR coordinators in small to medium-sized companies using BambooHR, processing 5-15 new hires/month",
+  "offer": "For HR coordinators in small to medium-sized companies using BambooHR, processing 5-15 new hires/month, inefficient onboarding causes delays in new hire integration. We streamline the onboarding workflow instead of manual processes with multiple tools.",
+  "problem": "Inefficient onboarding process leading to delays in new hire integration.",
+  "channels_free": [
+    "Post in Reddit communities where HR coordinators seek advice",
+    "Indie Hackers discussions on onboarding tools",
+    "DM outreach to HR coordinators with demo video",
+    "Engage in community forums for HR coordinators"
+  ],
+  "try_it": "Let users try centralized paperwork collection on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the onboarding process",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of reports",
+    "Reduce steps in the onboarding process"
+  ]
+}

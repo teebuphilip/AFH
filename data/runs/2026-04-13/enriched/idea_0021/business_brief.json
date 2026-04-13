@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month tool",
+  "description": "For HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month, manual data entry causes compliance delays. We automate data extraction and formatting instead of manual data entry and spreadsheet management.",
+  "target_audience": "HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month",
+  "problem_solved": "Difficulty in compiling and formatting employee benefits enrollment data for compliance reporting.",
+  "features": [
+    "Data extraction from existing HR systems",
+    "User-friendly interface for manual adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month",
+    "primary_problem": "Difficulty in compiling and formatting employee benefits enrollment data for compliance reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month, manual data entry causes compliance delays. We automate data extraction and formatting instead of manual data entry and spreadsheet management.",
+    "current_alternative": "Manual data entry and spreadsheet management",
+    "must_have_features": [
+      "Data extraction from existing HR systems",
+      "User-friendly interface for manual adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month, manual data entry causes compliance delays. We automate data extraction and formatting instead of manual data entry and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-13",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

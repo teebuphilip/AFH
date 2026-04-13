@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, budget mismanagement causes cash flow gaps. We provide automated budget tracking instead of manual tracking through spreadsheets.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in tracking procurement budget usage effectively.",
+  "features": [
+    "Monthly budget usage alerts",
+    "Simple dashboard for budget overview",
+    "Manual entry option for budget adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in tracking procurement budget usage effectively.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, budget mismanagement causes cash flow gaps. We provide automated budget tracking instead of manual tracking through spreadsheets.",
+    "current_alternative": "Manual tracking through spreadsheets",
+    "must_have_features": [
+      "Monthly budget usage alerts",
+      "Simple dashboard for budget overview",
+      "Manual entry option for budget adjustments"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, budget mismanagement causes cash flow gaps. We provide automated budget tracking instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-13",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

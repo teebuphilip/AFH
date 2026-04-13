@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "insurance adjusters lack tool",
+    "insurance adjusters lack automation",
+    "insurance adjusters processing 10 20 claims week lack tool",
+    "insurance adjusters processing 10 20 claims week lack automation",
+    "insurance adjusters processing 10 20 claims week lack workflow"
+  ],
+  "secondary_keywords": [
+    "insurance adjusters processing 10 20 claims week lack tool software",
+    "insurance adjusters processing 10 20 claims week lack tool platform",
+    "insurance adjusters processing 10 20 claims week lack tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For insurance adjusters processing 10\u201320 claims/week, lack of timely updates causes workflow inefficiencies. We generate weekly insurance claims status summaries instead of manual tracking of claims status through emails and spreadsheets.",
+    "Lack of timely updates on claim statuses leads to inefficient workflows.",
+    "insurance adjusters processing 10\u201320 claims/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Insurance Adjusters Processing 10 20 Claims Week Lack Tool Software",
+      "target_keyword": "insurance adjusters processing 10 20 claims week lack tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Adjusters Processing 10 20 Claims Week Lack Tool Platform",
+      "target_keyword": "insurance adjusters processing 10 20 claims week lack tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Adjusters Processing 10 20 Claims Week Lack Tool Solution",
+      "target_keyword": "insurance adjusters processing 10 20 claims week lack tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Adjusters Processing 10 20 Claims Week Lack Tool",
+      "target_keyword": "insurance adjusters processing 10 20 claims week lack tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Adjusters Processing 10 20 Claims Week Lack Automation",
+      "target_keyword": "insurance adjusters processing 10 20 claims week lack automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Adjusters Processing 10 20 Claims Week Lack Workflow",
+      "target_keyword": "insurance adjusters processing 10 20 claims week lack workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "insurance adjusters lack tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "insurance adjusters lack tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "insurance adjusters lack tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "insurance adjusters lack tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "insurance adjusters lack tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | insurance adjusters tool",
+      "insurance adjusters tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "insurance adjusters tool helps with lack of timely updates on claim statuses leads to inefficient workflows."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

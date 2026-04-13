@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small medical clinics processing 10-20 invoices/month",
+  "offer": "For small medical clinics processing 10-20 invoices/month, delayed payments cause cash flow gaps. We provide automated coding and billing instead of manual billing processes.",
+  "problem": "timely billing and coding",
+  "channels_free": [
+    "Post in Reddit communities for small medical clinics",
+    "Indie Hackers discussions on similar billing workflows",
+    "DM outreach to small clinics with demo video",
+    "Community forums for medical billing tools"
+  ],
+  "try_it": "Let users try manual entry for invoices and reports",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing invoice data",
+    "Enable one-click export of basic reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

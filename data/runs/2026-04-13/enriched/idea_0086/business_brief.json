@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 cases/month tool",
+  "description": "For law firms processing 5\u201315 cases/month, outdated compliance knowledge causes legal penalties. We provide automated regulatory tracking instead of manual tracking of regulatory changes.",
+  "target_audience": "law firms processing 5\u201315 cases/month",
+  "problem_solved": "Staying compliant with constantly changing regulations",
+  "features": [
+    "regulatory change alerts",
+    "compliance reporting templates",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 cases/month",
+    "primary_problem": "Staying compliant with constantly changing regulations",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms processing 5\u201315 cases/month, outdated compliance knowledge causes legal penalties. We provide automated regulatory tracking instead of manual tracking of regulatory changes.",
+    "current_alternative": "manual tracking of regulatory changes",
+    "must_have_features": [
+      "regulatory change alerts",
+      "compliance reporting templates",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 cases/month, outdated compliance knowledge causes legal penalties. We provide automated regulatory tracking instead of manual tracking of regulatory changes.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-13",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

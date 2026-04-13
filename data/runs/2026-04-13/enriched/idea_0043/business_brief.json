@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Fleet compliance officers managing 5\u201315 vehicles tool",
+  "description": "For fleet compliance officers managing 5\u201315 vehicles, manual tracking of vehicle inspections causes compliance risks. We automate monthly vehicle inspection compliance reports instead of spreadsheets and manual reporting processes.",
+  "target_audience": "Fleet compliance officers managing 5\u201315 vehicles",
+  "problem_solved": "Manual tracking of vehicle inspections leads to compliance risks.",
+  "features": [
+    "Email notifications for upcoming inspections",
+    "Dashboard for tracking inspection status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Fleet compliance officers managing 5\u201315 vehicles",
+    "primary_problem": "Manual tracking of vehicle inspections leads to compliance risks.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet compliance officers managing 5\u201315 vehicles, manual tracking of vehicle inspections causes compliance risks. We automate monthly vehicle inspection compliance reports instead of spreadsheets and manual reporting processes.",
+    "current_alternative": "Spreadsheets and manual reporting processes",
+    "must_have_features": [
+      "Email notifications for upcoming inspections",
+      "Dashboard for tracking inspection status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet compliance officers managing 5\u201315 vehicles, manual tracking of vehicle inspections causes compliance risks. We automate monthly vehicle inspection compliance reports instead of spreadsheets and manual reporting processes.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-13",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

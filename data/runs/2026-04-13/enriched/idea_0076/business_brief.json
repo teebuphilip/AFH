@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 5\u201315 shipments/week tool",
+  "description": "For logistics carriers processing 5\u201315 shipments/week, inefficient driver behavior causes high fuel costs. We provide real-time monitoring instead of manual tracking.",
+  "target_audience": "logistics carriers processing 5\u201315 shipments/week",
+  "problem_solved": "High fuel costs due to inefficient driver behavior.",
+  "features": [
+    "Driver behavior monitoring",
+    "Fuel usage tracking",
+    "Reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 5\u201315 shipments/week",
+    "primary_problem": "High fuel costs due to inefficient driver behavior.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 5\u201315 shipments/week, inefficient driver behavior causes high fuel costs. We provide real-time monitoring instead of manual tracking.",
+    "current_alternative": "manual tracking of driver behavior and fuel usage.",
+    "must_have_features": [
+      "Driver behavior monitoring",
+      "Fuel usage tracking",
+      "Reporting dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 5\u201315 shipments/week, inefficient driver behavior causes high fuel costs. We provide real-time monitoring instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0076",
+    "run_date": "2026-04-13",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

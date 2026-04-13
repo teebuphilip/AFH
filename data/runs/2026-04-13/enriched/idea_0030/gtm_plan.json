@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics supervisors in freight brokerage managing 5-15 vehicles",
+  "offer": "For logistics supervisors in freight brokerage processing 5-15 vehicles, overlooked maintenance causes unexpected breakdowns. We provide timely alerts instead of manual tracking via spreadsheets.",
+  "problem": "Upcoming vehicle maintenance tasks are often overlooked, leading to unexpected breakdowns.",
+  "channels_free": [
+    "Post in Reddit communities for logistics supervisors",
+    "Indie Hackers discussions on workflow management",
+    "DM outreach with demo video to target supervisors",
+    "Engage in community forums for tool sharing"
+  ],
+  "try_it": "Let users try simple dashboard for tracking vehicle status and manual entry for maintenance logs on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

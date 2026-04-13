@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors processing 5\u201315 contracts/month",
+  "offer": "For construction contractors processing 5\u201315 contracts/month, inefficient bidding causes missed deadlines. We streamline the bidding and contract process instead of manual tracking and email communication.",
+  "problem": "Inefficient bidding and contract management processes",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to contractors with demo video",
+    "Community forums for sharing construction tools"
+  ],
+  "try_it": "Let users try template-based contract generation for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner",
+    "Produce a demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Simplify onboarding steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, cash flow mismanagement causes late payments and client dissatisfaction. We provide automated cash flow monitoring instead of manual tracking and spreadsheets.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Inability to effectively monitor cash flow across multiple clients.",
+  "features": [
+    "cash flow threshold alerts",
+    "variance report generation",
+    "client dashboard for monitoring"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Inability to effectively monitor cash flow across multiple clients.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, cash flow mismanagement causes late payments and client dissatisfaction. We provide automated cash flow monitoring instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "cash flow threshold alerts",
+      "variance report generation",
+      "client dashboard for monitoring"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, cash flow mismanagement causes late payments and client dissatisfaction. We provide automated cash flow monitoring instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-13",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

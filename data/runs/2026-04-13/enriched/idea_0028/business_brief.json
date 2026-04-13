@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 field service technicians tool",
+  "description": "For construction contractors managing 5\u201315 field service technicians, poor certification tracking causes compliance risks. We automate scheduling and tracking instead of manual tracking through spreadsheets.",
+  "target_audience": "construction contractors managing 5\u201315 field service technicians",
+  "problem_solved": "Difficulty in tracking and scheduling technician certifications, leading to compliance risks.",
+  "features": [
+    "manual entry for technician certifications",
+    "simple dashboard for tracking certification status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 field service technicians",
+    "primary_problem": "Difficulty in tracking and scheduling technician certifications, leading to compliance risks.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 field service technicians, poor certification tracking causes compliance risks. We automate scheduling and tracking instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "manual entry for technician certifications",
+      "simple dashboard for tracking certification status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 field service technicians, poor certification tracking causes compliance risks. We automate scheduling and tracking instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

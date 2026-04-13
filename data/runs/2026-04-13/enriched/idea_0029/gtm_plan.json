@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "billing coordinators at medical clinics processing 50\u2013100 invoices/month",
+  "offer": "For billing coordinators at medical clinics processing 50\u2013100 invoices/month, frequent billing exceptions cause cash flow gaps. We automate daily exception reporting instead of manual tracking using spreadsheets.",
+  "problem": "Frequent billing exceptions lead to delayed payments and cash flow gaps.",
+  "channels_free": [
+    "Post in Reddit communities for billing coordinators seeking solutions",
+    "Engage in Indie Hackers discussions on related workflows",
+    "DM outreach to billing coordinators with a demo video",
+    "Participate in community forums for billing coordinators sharing tools"
+  ],
+  "try_it": "Let users manually enter exceptions and generate reports on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

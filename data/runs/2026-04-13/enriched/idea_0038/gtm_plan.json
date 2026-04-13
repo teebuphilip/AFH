@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers overseeing 5\u201310 properties",
+  "offer": "For property managers overseeing 5\u201310 properties, inefficient manual reporting causes late maintenance updates. We automate weekly maintenance checklist reporting instead of manual reporting via spreadsheets.",
+  "problem": "Inefficient manual reporting of maintenance checklists",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to property managers with demo video",
+    "Share tools in community forums for property managers"
+  ],
+  "try_it": "Let users try template-based checklist creation and simple reporting dashboard on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

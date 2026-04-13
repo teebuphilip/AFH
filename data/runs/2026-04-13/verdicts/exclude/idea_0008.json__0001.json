@@ -1,0 +1,17 @@
+{
+  "idea_text": "System that monitors logistics shipment statuses and notifies operations managers if delays exceed thresholds.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 68,
+  "arr_score": 66.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-13T10:54:00.870785",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-13T10:54:00.928153"
+}

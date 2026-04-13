@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "auto insurance adjusters processing 10\u201320 claims/month tool",
+  "description": "For auto insurance adjusters processing 10\u201320 claims/month, inefficient claims submission causes delays in claim resolution. We streamline the submission process instead of manual submission via email and paper forms.",
+  "target_audience": "auto insurance adjusters processing 10\u201320 claims/month",
+  "problem_solved": "Inefficient claims submission process leading to delays.",
+  "features": [
+    "simple claim form submission",
+    "status tracking for claims",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "auto insurance adjusters processing 10\u201320 claims/month",
+    "primary_problem": "Inefficient claims submission process leading to delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For auto insurance adjusters processing 10\u201320 claims/month, inefficient claims submission causes delays in claim resolution. We streamline the submission process instead of manual submission via email and paper forms.",
+    "current_alternative": "manual submission via email and paper forms",
+    "must_have_features": [
+      "simple claim form submission",
+      "status tracking for claims",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For auto insurance adjusters processing 10\u201320 claims/month, inefficient claims submission causes delays in claim resolution. We streamline the submission process instead of manual submission via email and paper forms.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

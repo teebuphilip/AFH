@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "procurement teams in mid-sized companies lack tool",
+    "procurement teams in mid-sized companies lack automation",
+    "procurement teams in mid-sized companies processing 10 50 invoices month lack tool",
+    "procurement teams in mid-sized companies processing 10 50 invoices month lack automation",
+    "procurement teams in mid-sized companies processing 10 50 invoices month lack workflow"
+  ],
+  "secondary_keywords": [
+    "procurement teams in mid-sized companies processing 10 50 invoices month lack tool software",
+    "procurement teams in mid-sized companies processing 10 50 invoices month lack tool platform",
+    "procurement teams in mid-sized companies processing 10 50 invoices month lack tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For procurement teams in mid-sized companies processing 10\u201350 invoices/month, manual tracking causes delayed insights, leading to missed discounts. We automate vendor performance reporting instead of manual tracking and reporting of vendor performance.",
+    "Lack of timely insights into vendor performance metrics",
+    "procurement teams in mid-sized companies processing 10\u201350 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Companies Processing 10 50 Invoices Month Lack Tool Software",
+      "target_keyword": "procurement teams in mid-sized companies processing 10 50 invoices month lack tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Companies Processing 10 50 Invoices Month Lack Tool Platform",
+      "target_keyword": "procurement teams in mid-sized companies processing 10 50 invoices month lack tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Companies Processing 10 50 Invoices Month Lack Tool Solution",
+      "target_keyword": "procurement teams in mid-sized companies processing 10 50 invoices month lack tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Companies Processing 10 50 Invoices Month Lack Tool",
+      "target_keyword": "procurement teams in mid-sized companies processing 10 50 invoices month lack tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Companies Processing 10 50 Invoices Month Lack Automation",
+      "target_keyword": "procurement teams in mid-sized companies processing 10 50 invoices month lack automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Procurement Teams In Mid-Sized Companies Processing 10 50 Invoices Month Lack Workflow",
+      "target_keyword": "procurement teams in mid-sized companies processing 10 50 invoices month lack workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "procurement teams in mid-sized companies lack tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "procurement teams in mid-sized companies lack tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "procurement teams in mid-sized companies lack tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "procurement teams in mid-sized companies lack tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "procurement teams in mid-sized companies lack tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | procurement teams in mid-sized companies tool",
+      "procurement teams in mid-sized companies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "procurement teams in mid-sized companies tool helps with lack of timely insights into vendor performance metrics."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant owners processing 20\u201350 reservations/week",
+  "offer": "For restaurant owners processing 20\u201350 reservations/week, manual booking causes customer dissatisfaction. We automate the booking process instead of manual reservation management via phone and paper.",
+  "problem": "Booking errors and customer dissatisfaction due to manual reservation processes.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant owners",
+    "Share insights on Indie Hackers forums",
+    "DM outreach to restaurant owners with demo video",
+    "Engage in community forums for restaurant tools"
+  ],
+  "try_it": "Let users try simple online booking interface and Manual invoice entry form on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

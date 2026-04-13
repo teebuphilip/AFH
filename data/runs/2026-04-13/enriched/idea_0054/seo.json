@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "freelancers difficulty tool",
+    "freelancers difficulty automation",
+    "freelancers processing 5 15 invoices month difficulty tool",
+    "freelancers processing 5 15 invoices month difficulty automation",
+    "freelancers processing 5 15 invoices month difficulty workflow"
+  ],
+  "secondary_keywords": [
+    "freelancers processing 5 15 invoices month difficulty tool software",
+    "freelancers processing 5 15 invoices month difficulty tool platform",
+    "freelancers processing 5 15 invoices month difficulty tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For freelancers processing 5\u201315 invoices/month, disorganized expense tracking causes late payments. We automate expense categorization instead of manual expense tracking and reporting.",
+    "Difficulty in tracking and categorizing expenses from various sources.",
+    "freelancers processing 5\u201315 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Freelancers Processing 5 15 Invoices Month Difficulty Tool Software",
+      "target_keyword": "freelancers processing 5 15 invoices month difficulty tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Processing 5 15 Invoices Month Difficulty Tool Platform",
+      "target_keyword": "freelancers processing 5 15 invoices month difficulty tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Processing 5 15 Invoices Month Difficulty Tool Solution",
+      "target_keyword": "freelancers processing 5 15 invoices month difficulty tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Processing 5 15 Invoices Month Difficulty Tool",
+      "target_keyword": "freelancers processing 5 15 invoices month difficulty tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Processing 5 15 Invoices Month Difficulty Automation",
+      "target_keyword": "freelancers processing 5 15 invoices month difficulty automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Freelancers Processing 5 15 Invoices Month Difficulty Workflow",
+      "target_keyword": "freelancers processing 5 15 invoices month difficulty workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "freelancers difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "freelancers difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "freelancers difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "freelancers difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "freelancers difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | freelancers tool",
+      "freelancers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "freelancers tool helps with difficulty in tracking and categorizing expenses from various sources."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

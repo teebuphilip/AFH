@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, delayed payments cause cash flow gaps. We automate lead-to-cash workflows instead of manual tracking and spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Delayed payments and complex invoicing lead to cash flow gaps.",
+  "features": [
+    "Payment tracking dashboard",
+    "Basic analytics for sales performance",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Delayed payments and complex invoicing lead to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, delayed payments cause cash flow gaps. We automate lead-to-cash workflows instead of manual tracking and spreadsheets.",
+    "current_alternative": "Manual tracking and spreadsheets",
+    "must_have_features": [
+      "Payment tracking dashboard",
+      "Basic analytics for sales performance",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, delayed payments cause cash flow gaps. We automate lead-to-cash workflows instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-13",
+    "overlay_score": 63,
+    "arr_score": 62
+  }
+}

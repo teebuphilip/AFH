@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 tenant leases/month tool",
+  "description": "For property managers processing 5\u201315 tenant leases/month, inconsistent compliance tracking causes potential legal issues and penalties. We automate compliance summaries instead of manual tracking using spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 tenant leases/month",
+  "problem_solved": "Inconsistent compliance tracking leads to potential legal issues and penalties.",
+  "features": [
+    "manual entry for lease details",
+    "monthly summary generation",
+    "email notifications for compliance deadlines"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 tenant leases/month",
+    "primary_problem": "Inconsistent compliance tracking leads to potential legal issues and penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 tenant leases/month, inconsistent compliance tracking causes potential legal issues and penalties. We automate compliance summaries instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking of lease compliance using spreadsheets",
+    "must_have_features": [
+      "manual entry for lease details",
+      "monthly summary generation",
+      "email notifications for compliance deadlines"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 tenant leases/month, inconsistent compliance tracking causes potential legal issues and penalties. We automate compliance summaries instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-13",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

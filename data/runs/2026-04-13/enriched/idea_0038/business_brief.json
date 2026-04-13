@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers overseeing 5\u201310 properties tool",
+  "description": "For property managers overseeing 5\u201310 properties, inefficient manual reporting causes late maintenance updates. We automate weekly maintenance checklist reporting instead of manual reporting via spreadsheets.",
+  "target_audience": "property managers overseeing 5\u201310 properties",
+  "problem_solved": "Inefficient manual reporting of maintenance checklists",
+  "features": [
+    "template-based checklist creation",
+    "simple reporting dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers overseeing 5\u201310 properties",
+    "primary_problem": "Inefficient manual reporting of maintenance checklists",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers overseeing 5\u201310 properties, inefficient manual reporting causes late maintenance updates. We automate weekly maintenance checklist reporting instead of manual reporting via spreadsheets.",
+    "current_alternative": "manual reporting via spreadsheets",
+    "must_have_features": [
+      "template-based checklist creation",
+      "simple reporting dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers overseeing 5\u201310 properties, inefficient manual reporting causes late maintenance updates. We automate weekly maintenance checklist reporting instead of manual reporting via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-13",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

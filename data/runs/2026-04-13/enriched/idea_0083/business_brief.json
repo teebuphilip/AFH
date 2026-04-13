@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small medical clinics processing 10-20 invoices/month tool",
+  "description": "For small medical clinics processing 10-20 invoices/month, delayed payments cause cash flow gaps. We provide automated coding and billing instead of manual billing processes.",
+  "target_audience": "small medical clinics processing 10-20 invoices/month",
+  "problem_solved": "timely billing and coding",
+  "features": [
+    "manual entry for invoices",
+    "basic reporting tools",
+    "customer support via email"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small medical clinics processing 10-20 invoices/month",
+    "primary_problem": "timely billing and coding",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small medical clinics processing 10-20 invoices/month, delayed payments cause cash flow gaps. We provide automated coding and billing instead of manual billing processes.",
+    "current_alternative": "manual billing processes",
+    "must_have_features": [
+      "manual entry for invoices",
+      "basic reporting tools",
+      "customer support via email"
+    ]
+  },
+  "one_liner": "For small medical clinics processing 10-20 invoices/month, delayed payments cause cash flow gaps. We provide automated coding and billing instead of manual billing processes.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-13",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

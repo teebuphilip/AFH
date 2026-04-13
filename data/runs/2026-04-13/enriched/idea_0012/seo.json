@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "shopify store owners failed tool",
+    "shopify store owners failed automation",
+    "cash flow tracking",
+    "payment reminders",
+    "shopify store owners processing 10 20 invoices month failed tool",
+    "shopify store owners processing 10 20 invoices month failed automation",
+    "shopify store owners processing 10 20 invoices month failed workflow"
+  ],
+  "secondary_keywords": [
+    "cash flow tracking software",
+    "cash flow tracking platform",
+    "cash flow tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to cash flow tracking",
+    "best cash flow tracking tool",
+    "cash flow tracking vs spreadsheets",
+    "cash flow tracking checklist",
+    "cash flow tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Shopify store owners processing 10\u201320 invoices/month, failed subscription payment renewals cause cash flow gaps. We alert finance ops instead of manual tracking of payment renewals.",
+    "Failed subscription payment renewals leading to cash flow gaps.",
+    "Shopify store owners processing 10\u201320 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Cash Flow Tracking",
+      "target_keyword": "how to cash flow tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Cash Flow Tracking Tool",
+      "target_keyword": "best cash flow tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Cash Flow Tracking Vs Spreadsheets",
+      "target_keyword": "cash flow tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Cash Flow Tracking Checklist",
+      "target_keyword": "cash flow tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Pricing",
+      "target_keyword": "cash flow tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Software",
+      "target_keyword": "cash flow tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Platform",
+      "target_keyword": "cash flow tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking Solution",
+      "target_keyword": "cash flow tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking",
+      "target_keyword": "cash flow tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders",
+      "target_keyword": "payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Shopify Store Owners Processing 10 20 Invoices Month Failed Tool",
+      "target_keyword": "shopify store owners processing 10 20 invoices month failed tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Store Owners Processing 10 20 Invoices Month Failed Automation",
+      "target_keyword": "shopify store owners processing 10 20 invoices month failed automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "shopify store owners failed tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "shopify store owners failed tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "shopify store owners failed tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "shopify store owners failed tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "shopify store owners failed tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | shopify store owners tool",
+      "shopify store owners tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "shopify store owners tool helps with failed subscription payment renewals leading to cash flow gaps."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

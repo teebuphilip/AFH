@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201350 orders/month tool",
+  "description": "For Etsy sellers processing 10\u201350 orders/month, inaccurate demand forecasting causes stockouts. We provide automated replenishment orders instead of manual tracking.",
+  "target_audience": "Etsy sellers processing 10\u201350 orders/month",
+  "problem_solved": "Inability to accurately forecast demand leads to stockouts.",
+  "features": [
+    "Demand forecasting based on historical sales data",
+    "Simple interface for generating replenishment orders",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201350 orders/month",
+    "primary_problem": "Inability to accurately forecast demand leads to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201350 orders/month, inaccurate demand forecasting causes stockouts. We provide automated replenishment orders instead of manual tracking.",
+    "current_alternative": "Manual tracking of inventory levels and demand forecasting.",
+    "must_have_features": [
+      "Demand forecasting based on historical sales data",
+      "Simple interface for generating replenishment orders",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201350 orders/month, inaccurate demand forecasting causes stockouts. We provide automated replenishment orders instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-13",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

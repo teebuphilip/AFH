@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10\u201320 utility bills/month tool",
+  "description": "For property managers processing 10\u201320 invoices/month, inconsistent utility bill formats cause reporting errors. We convert raw utility bills into standardized reports instead of manual data entry and reconciliation of utility bills.",
+  "target_audience": "property managers processing 10\u201320 utility bills/month",
+  "problem_solved": "Inconsistent utility bill formats lead to errors and inefficiencies in reporting.",
+  "features": [
+    "manual data entry for initial setup",
+    "monthly report generation",
+    "error-checking for common discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10\u201320 utility bills/month",
+    "primary_problem": "Inconsistent utility bill formats lead to errors and inefficiencies in reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 invoices/month, inconsistent utility bill formats cause reporting errors. We convert raw utility bills into standardized reports instead of manual data entry and reconciliation of utility bills.",
+    "current_alternative": "manual data entry and reconciliation of utility bills",
+    "must_have_features": [
+      "manual data entry for initial setup",
+      "monthly report generation",
+      "error-checking for common discrepancies"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201320 invoices/month, inconsistent utility bill formats cause reporting errors. We convert raw utility bills into standardized reports instead of manual data entry and reconciliation of utility bills.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-13",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

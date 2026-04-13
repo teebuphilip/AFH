@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers managing 50\u2013100 SKUs tool",
+  "description": "For Amazon sellers processing 50\u2013100 SKUs, stockouts cause lost sales. We automate replenishment orders instead of manual inventory tracking and reordering.",
+  "target_audience": "Amazon sellers managing 50\u2013100 SKUs",
+  "problem_solved": "Stockouts leading to lost sales",
+  "features": [
+    "Barcode scanning for inventory tracking",
+    "Replenishment order generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers managing 50\u2013100 SKUs",
+    "primary_problem": "Stockouts leading to lost sales",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 50\u2013100 SKUs, stockouts cause lost sales. We automate replenishment orders instead of manual inventory tracking and reordering.",
+    "current_alternative": "Manual inventory tracking and reordering",
+    "must_have_features": [
+      "Barcode scanning for inventory tracking",
+      "Replenishment order generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 50\u2013100 SKUs, stockouts cause lost sales. We automate replenishment orders instead of manual inventory tracking and reordering.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

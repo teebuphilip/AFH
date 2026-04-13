@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, poor contract management causes missed renewal deadlines. We provide automated alerts instead of manual tracking with spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in managing supplier contracts and renewal deadlines",
+  "features": [
+    "Supplier onboarding process",
+    "Contract storage system",
+    "Renewal deadline alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in managing supplier contracts and renewal deadlines",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, poor contract management causes missed renewal deadlines. We provide automated alerts instead of manual tracking with spreadsheets.",
+    "current_alternative": "Manual tracking of contracts and deadlines using spreadsheets",
+    "must_have_features": [
+      "Supplier onboarding process",
+      "Contract storage system",
+      "Renewal deadline alerts"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, poor contract management causes missed renewal deadlines. We provide automated alerts instead of manual tracking with spreadsheets.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-13",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

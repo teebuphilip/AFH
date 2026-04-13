@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized companies processing 10\u201350 invoices/month tool",
+  "description": "For procurement teams in mid-sized companies processing 10\u201350 invoices/month, manual tracking causes delayed insights, leading to missed discounts. We automate vendor performance reporting instead of manual tracking and reporting of vendor performance.",
+  "target_audience": "procurement teams in mid-sized companies processing 10\u201350 invoices/month",
+  "problem_solved": "Lack of timely insights into vendor performance metrics",
+  "features": [
+    "monthly performance report generation",
+    "vendor performance metric compilation",
+    "user-friendly dashboard for insights"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized companies processing 10\u201350 invoices/month",
+    "primary_problem": "Lack of timely insights into vendor performance metrics",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement teams in mid-sized companies processing 10\u201350 invoices/month, manual tracking causes delayed insights, leading to missed discounts. We automate vendor performance reporting instead of manual tracking and reporting of vendor performance.",
+    "current_alternative": "manual tracking and reporting of vendor performance",
+    "must_have_features": [
+      "monthly performance report generation",
+      "vendor performance metric compilation",
+      "user-friendly dashboard for insights"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized companies processing 10\u201350 invoices/month, manual tracking causes delayed insights, leading to missed discounts. We automate vendor performance reporting instead of manual tracking and reporting of vendor performance.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-13",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201320 vendor invoices/month tool",
+  "description": "For accounting firms managing 10\u201320 vendor invoices/month, delayed reporting causes late payments. We automate report generation and emailing instead of manual compilation of reports and email reminders.",
+  "target_audience": "accounting firms managing 10\u201320 vendor invoices/month",
+  "problem_solved": "delayed vendor payments due to lack of timely aging reports",
+  "features": [
+    "email notifications to accounts payable teams",
+    "user-friendly dashboard for report access",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201320 vendor invoices/month",
+    "primary_problem": "delayed vendor payments due to lack of timely aging reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201320 vendor invoices/month, delayed reporting causes late payments. We automate report generation and emailing instead of manual compilation of reports and email reminders.",
+    "current_alternative": "manual compilation of reports and email reminders",
+    "must_have_features": [
+      "email notifications to accounts payable teams",
+      "user-friendly dashboard for report access",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201320 vendor invoices/month, delayed reporting causes late payments. We automate report generation and emailing instead of manual compilation of reports and email reminders.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-13",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

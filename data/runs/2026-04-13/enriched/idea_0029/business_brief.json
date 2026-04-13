@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "billing coordinators at medical clinics processing 50\u2013100 invoices/month tool",
+  "description": "For billing coordinators at medical clinics processing 50\u2013100 invoices/month, frequent billing exceptions cause cash flow gaps. We automate daily exception reporting instead of manual tracking using spreadsheets.",
+  "target_audience": "billing coordinators at medical clinics processing 50\u2013100 invoices/month",
+  "problem_solved": "Frequent billing exceptions lead to delayed payments and cash flow gaps.",
+  "features": [
+    "manual entry of exception details",
+    "daily report generation",
+    "email notifications for new exceptions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "billing coordinators at medical clinics processing 50\u2013100 invoices/month",
+    "primary_problem": "Frequent billing exceptions lead to delayed payments and cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For billing coordinators at medical clinics processing 50\u2013100 invoices/month, frequent billing exceptions cause cash flow gaps. We automate daily exception reporting instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking of billing exceptions using spreadsheets",
+    "must_have_features": [
+      "manual entry of exception details",
+      "daily report generation",
+      "email notifications for new exceptions"
+    ]
+  },
+  "one_liner": "For billing coordinators at medical clinics processing 50\u2013100 invoices/month, frequent billing exceptions cause cash flow gaps. We automate daily exception reporting instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-13",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

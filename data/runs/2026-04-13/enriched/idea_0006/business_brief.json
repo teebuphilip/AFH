@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, difficulty in tracking sales commission data causes cash flow gaps. We automate data extraction and consolidation instead of manual tracking through spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Difficulty in tracking and consolidating sales commission data",
+  "features": [
+    "Weekly summary reports",
+    "Data extraction from sales platforms",
+    "Consolidation of commission data"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Difficulty in tracking and consolidating sales commission data",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, difficulty in tracking sales commission data causes cash flow gaps. We automate data extraction and consolidation instead of manual tracking through spreadsheets.",
+    "current_alternative": "Manual tracking through spreadsheets",
+    "must_have_features": [
+      "Weekly summary reports",
+      "Data extraction from sales platforms",
+      "Consolidation of commission data"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, difficulty in tracking sales commission data causes cash flow gaps. We automate data extraction and consolidation instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-13",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

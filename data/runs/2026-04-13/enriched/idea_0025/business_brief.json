@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For small accounting firms processing 5\u201315 invoices/month, manual batching causes late payments and cash flow gaps. We automate the batching and delivery instead of manual batching and emailing of invoices.",
+  "target_audience": "small accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "Manual invoice batching and delivery is time-consuming and prone to errors.",
+  "features": [
+    "scheduled delivery of invoices",
+    "user-friendly dashboard for tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "Manual invoice batching and delivery is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small accounting firms processing 5\u201315 invoices/month, manual batching causes late payments and cash flow gaps. We automate the batching and delivery instead of manual batching and emailing of invoices.",
+    "current_alternative": "manual batching and emailing of invoices",
+    "must_have_features": [
+      "scheduled delivery of invoices",
+      "user-friendly dashboard for tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small accounting firms processing 5\u201315 invoices/month, manual batching causes late payments and cash flow gaps. We automate the batching and delivery instead of manual batching and emailing of invoices.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-13",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

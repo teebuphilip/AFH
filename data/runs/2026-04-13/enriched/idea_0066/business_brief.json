@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR coordinators in small to medium-sized companies using BambooHR, processing 5-15 new hires/month tool",
+  "description": "For HR coordinators in small to medium-sized companies using BambooHR, processing 5-15 new hires/month, inefficient onboarding causes delays in new hire integration. We streamline the onboarding workflow instead of manual processes with multiple tools.",
+  "target_audience": "HR coordinators in small to medium-sized companies using BambooHR, processing 5-15 new hires/month",
+  "problem_solved": "Inefficient onboarding process leading to delays in new hire integration.",
+  "features": [
+    "Centralized collection of new hire paperwork",
+    "HRIS system update reminders",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR coordinators in small to medium-sized companies using BambooHR, processing 5-15 new hires/month",
+    "primary_problem": "Inefficient onboarding process leading to delays in new hire integration.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR coordinators in small to medium-sized companies using BambooHR, processing 5-15 new hires/month, inefficient onboarding causes delays in new hire integration. We streamline the onboarding workflow instead of manual processes with multiple tools.",
+    "current_alternative": "Manual onboarding processes with multiple tools and spreadsheets.",
+    "must_have_features": [
+      "Centralized collection of new hire paperwork",
+      "HRIS system update reminders",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR coordinators in small to medium-sized companies using BambooHR, processing 5-15 new hires/month, inefficient onboarding causes delays in new hire integration. We streamline the onboarding workflow instead of manual processes with multiple tools.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-13",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

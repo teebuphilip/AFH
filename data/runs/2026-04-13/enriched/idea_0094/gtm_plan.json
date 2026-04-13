@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firms processing 5\u201315 client documents/month",
+  "offer": "For law firms processing 5\u201315 client documents/month, missed deadlines cause client dissatisfaction. We provide compliance software instead of manual tracking and reminders.",
+  "problem": "Missed deadlines for client documents and court filings.",
+  "channels_free": [
+    "Post in Reddit communities for law firms seeking solutions",
+    "Engage in Indie Hackers discussions on similar challenges",
+    "DM outreach to law firms with a demo video",
+    "Join community forums for law firms sharing tools"
+  ],
+  "try_it": "Let users try deadline tracking on 1-3 documents",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video illustrating the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Offer default reminder schedule presets",
+    "Enable CSV import for existing client data",
+    "Facilitate one-click export of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

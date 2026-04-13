@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small medical clinics processing 5\u201315 invoices/month tool",
+  "description": "For small medical clinics processing 5\u201315 invoices/month, disorganized billing records cause cash flow gaps. We organize and digitize records instead of manual record keeping and spreadsheets.",
+  "target_audience": "small medical clinics processing 5\u201315 invoices/month",
+  "problem_solved": "disorganized billing records leading to cash flow gaps",
+  "features": [
+    "manual data entry for billing records",
+    "digital storage for easy access",
+    "basic reporting on billing status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small medical clinics processing 5\u201315 invoices/month",
+    "primary_problem": "disorganized billing records leading to cash flow gaps",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small medical clinics processing 5\u201315 invoices/month, disorganized billing records cause cash flow gaps. We organize and digitize records instead of manual record keeping and spreadsheets.",
+    "current_alternative": "manual record keeping and spreadsheets",
+    "must_have_features": [
+      "manual data entry for billing records",
+      "digital storage for easy access",
+      "basic reporting on billing status"
+    ]
+  },
+  "one_liner": "For small medical clinics processing 5\u201315 invoices/month, disorganized billing records cause cash flow gaps. We organize and digitize records instead of manual record keeping and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-13",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

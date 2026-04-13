@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects simultaneously tool",
+  "description": "For construction contractors managing 5\u201315 projects simultaneously, inefficient tracking of equipment usage causes underutilization. We provide automated utilization reports instead of manual tracking through spreadsheets.",
+  "target_audience": "construction contractors managing 5\u201315 projects simultaneously",
+  "problem_solved": "inefficient tracking of equipment usage leading to underutilization",
+  "features": [
+    "manual entry of equipment usage",
+    "basic reporting dashboard",
+    "email notifications for usage thresholds"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects simultaneously",
+    "primary_problem": "inefficient tracking of equipment usage leading to underutilization",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects simultaneously, inefficient tracking of equipment usage causes underutilization. We provide automated utilization reports instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "manual entry of equipment usage",
+      "basic reporting dashboard",
+      "email notifications for usage thresholds"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects simultaneously, inefficient tracking of equipment usage causes underutilization. We provide automated utilization reports instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

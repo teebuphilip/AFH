@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized marketing agencies processing 10\u201320 invoices/month tool",
+  "description": "For procurement managers in mid-sized marketing agencies processing 10\u201320 invoices/month, maverick buying causes untracked spending. We provide a procurement analytics dashboard instead of manual tracking spreadsheets.",
+  "target_audience": "procurement managers in mid-sized marketing agencies processing 10\u201320 invoices/month",
+  "problem_solved": "maverick buying leading to untracked spending",
+  "features": [
+    "vendor spending tracking",
+    "maverick buying identification",
+    "savings opportunity alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized marketing agencies processing 10\u201320 invoices/month",
+    "primary_problem": "maverick buying leading to untracked spending",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized marketing agencies processing 10\u201320 invoices/month, maverick buying causes untracked spending. We provide a procurement analytics dashboard instead of manual tracking spreadsheets.",
+    "current_alternative": "manual tracking spreadsheets",
+    "must_have_features": [
+      "vendor spending tracking",
+      "maverick buying identification",
+      "savings opportunity alerts"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized marketing agencies processing 10\u201320 invoices/month, maverick buying causes untracked spending. We provide a procurement analytics dashboard instead of manual tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-13",
+    "overlay_score": 63,
+    "arr_score": 62
+  }
+}

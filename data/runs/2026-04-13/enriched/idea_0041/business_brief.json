@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant back office managers processing 5\u201315 cash register reconciliations/day tool",
+  "description": "For restaurant back office managers processing 5\u201315 cash register reconciliations/day, inaccurate reconciliations cause cash flow gaps. We generate automated daily reports instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "restaurant back office managers processing 5\u201315 cash register reconciliations/day",
+  "problem_solved": "Inaccurate cash register reconciliations lead to cash flow gaps.",
+  "features": [
+    "manual entry for cash register data",
+    "daily report generation",
+    "error-checking for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant back office managers processing 5\u201315 cash register reconciliations/day",
+    "primary_problem": "Inaccurate cash register reconciliations lead to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back office managers processing 5\u201315 cash register reconciliations/day, inaccurate reconciliations cause cash flow gaps. We generate automated daily reports instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "manual entry for cash register data",
+      "daily report generation",
+      "error-checking for discrepancies"
+    ]
+  },
+  "one_liner": "For restaurant back office managers processing 5\u201315 cash register reconciliations/day, inaccurate reconciliations cause cash flow gaps. We generate automated daily reports instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-13",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

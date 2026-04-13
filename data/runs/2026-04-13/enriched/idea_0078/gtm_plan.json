@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firms processing 5\u201315 legal filings/month",
+  "offer": "For law firms processing 5\u201315 legal filings/month, late submissions cause penalties and loss of client trust. We ensure timely filings instead of manual tracking of filing deadlines.",
+  "problem": "Late submissions of legal documents can lead to penalties and loss of client trust.",
+  "channels_free": [
+    "Post in Reddit communities for legal professionals",
+    "Engage in Indie Hackers discussions on legal tools",
+    "DM outreach to law firms with demo video",
+    "Participate in legal forums sharing best practices"
+  ],
+  "try_it": "Let users try deadline reminders and document tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with clear CTA",
+    "Develop a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early access to first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

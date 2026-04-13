@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 client documents/month tool",
+  "description": "For law firms processing 5\u201315 client documents/month, missed deadlines cause client dissatisfaction. We provide compliance software instead of manual tracking and reminders.",
+  "target_audience": "law firms processing 5\u201315 client documents/month",
+  "problem_solved": "Missed deadlines for client documents and court filings.",
+  "features": [
+    "Deadline tracking",
+    "Document submission logs",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 client documents/month",
+    "primary_problem": "Missed deadlines for client documents and court filings.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms processing 5\u201315 client documents/month, missed deadlines cause client dissatisfaction. We provide compliance software instead of manual tracking and reminders.",
+    "current_alternative": "manual tracking and reminders",
+    "must_have_features": [
+      "Deadline tracking",
+      "Document submission logs",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 client documents/month, missed deadlines cause client dissatisfaction. We provide compliance software instead of manual tracking and reminders.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-13",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

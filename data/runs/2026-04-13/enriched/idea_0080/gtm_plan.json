@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 inspections/month",
+  "offer": "For property managers processing 5\u201315 inspections/month, delays in reporting cause tenant dissatisfaction. We streamline the inspection process instead of manual inspection processes using paper forms.",
+  "problem": "Delays in property inspection reporting",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to 20-50 property managers with demo",
+    "Participate in forums for property management tools"
+  ],
+  "try_it": "Let users try digital checklists and manual invoice entry",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click report exports",
+    "Simplify onboarding steps"
+  ]
+}

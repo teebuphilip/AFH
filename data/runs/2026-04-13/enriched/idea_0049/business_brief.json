@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic revenue cycle managers processing 10\u201320 invoices/month tool",
+  "description": "For medical clinic revenue cycle managers processing 10\u201320 invoices/month, frequent billing denials cause cash flow gaps. We provide automated tracking of denial reasons instead of manual tracking in spreadsheets.",
+  "target_audience": "medical clinic revenue cycle managers processing 10\u201320 invoices/month",
+  "problem_solved": "Inability to efficiently track and analyze medical billing denial reasons.",
+  "features": [
+    "manual entry of denial reasons",
+    "report generation for denial analysis",
+    "dashboard for tracking denial trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic revenue cycle managers processing 10\u201320 invoices/month",
+    "primary_problem": "Inability to efficiently track and analyze medical billing denial reasons.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic revenue cycle managers processing 10\u201320 invoices/month, frequent billing denials cause cash flow gaps. We provide automated tracking of denial reasons instead of manual tracking in spreadsheets.",
+    "current_alternative": "manual tracking of denial reasons in spreadsheets",
+    "must_have_features": [
+      "manual entry of denial reasons",
+      "report generation for denial analysis",
+      "dashboard for tracking denial trends"
+    ]
+  },
+  "one_liner": "For medical clinic revenue cycle managers processing 10\u201320 invoices/month, frequent billing denials cause cash flow gaps. We provide automated tracking of denial reasons instead of manual tracking in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-13",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

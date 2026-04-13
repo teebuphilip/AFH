@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics supervisors in freight brokerage managing 5-15 vehicles tool",
+  "description": "For logistics supervisors in freight brokerage processing 5-15 vehicles, overlooked maintenance causes unexpected breakdowns. We provide timely alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "logistics supervisors in freight brokerage managing 5-15 vehicles",
+  "problem_solved": "Upcoming vehicle maintenance tasks are often overlooked, leading to unexpected breakdowns.",
+  "features": [
+    "simple dashboard for tracking vehicle status",
+    "manual entry for maintenance logs",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics supervisors in freight brokerage managing 5-15 vehicles",
+    "primary_problem": "Upcoming vehicle maintenance tasks are often overlooked, leading to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics supervisors in freight brokerage processing 5-15 vehicles, overlooked maintenance causes unexpected breakdowns. We provide timely alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking of maintenance schedules via spreadsheets",
+    "must_have_features": [
+      "simple dashboard for tracking vehicle status",
+      "manual entry for maintenance logs",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics supervisors in freight brokerage processing 5-15 vehicles, overlooked maintenance causes unexpected breakdowns. We provide timely alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-13",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 50\u2013100 orders/month tool",
+  "description": "For Amazon sellers processing 50\u2013100 orders/month, inaccurate inventory levels cause stockouts. We provide automated reorder alerts instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 50\u2013100 orders/month",
+  "problem_solved": "Inability to maintain optimal inventory levels, leading to stockouts and lost sales.",
+  "features": [
+    "Set custom reorder thresholds",
+    "Receive alerts via email",
+    "View inventory levels in a dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 50\u2013100 orders/month",
+    "primary_problem": "Inability to maintain optimal inventory levels, leading to stockouts and lost sales.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 50\u2013100 orders/month, inaccurate inventory levels cause stockouts. We provide automated reorder alerts instead of manual tracking.",
+    "current_alternative": "Manual tracking of inventory levels using spreadsheets.",
+    "must_have_features": [
+      "Set custom reorder thresholds",
+      "Receive alerts via email",
+      "View inventory levels in a dashboard"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 50\u2013100 orders/month, inaccurate inventory levels cause stockouts. We provide automated reorder alerts instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

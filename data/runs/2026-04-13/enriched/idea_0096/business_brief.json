@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers managing 5\u201315 rental units tool",
+  "description": "For property managers managing 5\u201315 rental units, inefficient tenant vetting causes delays in occupancy. We automate the tenant finding and vetting process instead of manual tenant screening processes.",
+  "target_audience": "property managers managing 5\u201315 rental units",
+  "problem_solved": "Difficulty in efficiently finding and vetting tenants",
+  "features": [
+    "Manual invoice entry form",
+    "Vendor list management",
+    "Payment schedule calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers managing 5\u201315 rental units",
+    "primary_problem": "Difficulty in efficiently finding and vetting tenants",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers managing 5\u201315 rental units, inefficient tenant vetting causes delays in occupancy. We automate the tenant finding and vetting process instead of manual tenant screening processes.",
+    "current_alternative": "manual tenant screening processes",
+    "must_have_features": [
+      "Manual invoice entry form",
+      "Vendor list management",
+      "Payment schedule calculator"
+    ]
+  },
+  "one_liner": "For property managers managing 5\u201315 rental units, inefficient tenant vetting causes delays in occupancy. We automate the tenant finding and vetting process instead of manual tenant screening processes.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

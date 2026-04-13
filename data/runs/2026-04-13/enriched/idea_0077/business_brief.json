@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers processing 5\u201315 employee shifts/week tool",
+  "description": "For restaurant managers processing 5\u201315 employee shifts/week, inefficient scheduling causes understaffing during peak hours. We optimize shift planning instead of manual scheduling via spreadsheets.",
+  "target_audience": "restaurant managers processing 5\u201315 employee shifts/week",
+  "problem_solved": "inefficient employee shift scheduling",
+  "features": [
+    "drag-and-drop shift assignment",
+    "employee availability input",
+    "shift swap request system"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers processing 5\u201315 employee shifts/week",
+    "primary_problem": "inefficient employee shift scheduling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers processing 5\u201315 employee shifts/week, inefficient scheduling causes understaffing during peak hours. We optimize shift planning instead of manual scheduling via spreadsheets.",
+    "current_alternative": "manual scheduling via spreadsheets",
+    "must_have_features": [
+      "drag-and-drop shift assignment",
+      "employee availability input",
+      "shift swap request system"
+    ]
+  },
+  "one_liner": "For restaurant managers processing 5\u201315 employee shifts/week, inefficient scheduling causes understaffing during peak hours. We optimize shift planning instead of manual scheduling via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0077",
+    "run_date": "2026-04-13",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

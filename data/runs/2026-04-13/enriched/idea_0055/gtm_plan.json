@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "procurement managers in mid-sized marketing agencies processing 10\u201320 invoices/month",
+  "offer": "For procurement managers in mid-sized marketing agencies processing 10\u201320 invoices/month, maverick buying causes untracked spending. We provide a procurement analytics dashboard instead of manual tracking spreadsheets.",
+  "problem": "maverick buying leading to untracked spending",
+  "channels_free": [
+    "Post in Reddit communities for procurement managers",
+    "Engage in Indie Hackers discussions on procurement tools",
+    "DM outreach to procurement managers with demo video",
+    "Share insights in community forums for procurement managers"
+  ],
+  "try_it": "Let users try vendor spending tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the dashboard",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

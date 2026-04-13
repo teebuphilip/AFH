@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors managing 5\u201315 field service technicians",
+  "offer": "For construction contractors managing 5\u201315 field service technicians, poor certification tracking causes compliance risks. We automate scheduling and tracking instead of manual tracking through spreadsheets.",
+  "problem": "Difficulty in tracking and scheduling technician certifications, leading to compliance risks.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on certification tracking",
+    "DM outreach to construction contractors with demo video",
+    "Community forums for sharing tools and solutions"
+  ],
+  "try_it": "Let users try manual entry for certifications and dashboard tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual entry workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing technician data",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

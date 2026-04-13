@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small business owners using Gusto for payroll processing 5\u201315 employees tool",
+  "description": "For small business owners using Gusto for payroll processing 5\u201315 employees, manual payroll entry causes late tax filings. We automate payroll inputs and tax filing instead of manual payroll processing and tax filing.",
+  "target_audience": "small business owners using Gusto for payroll processing 5\u201315 employees",
+  "problem_solved": "manual payroll entry and tax filing",
+  "features": [
+    "timesheet input",
+    "payroll calculation",
+    "tax filing preparation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small business owners using Gusto for payroll processing 5\u201315 employees",
+    "primary_problem": "manual payroll entry and tax filing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small business owners using Gusto for payroll processing 5\u201315 employees, manual payroll entry causes late tax filings. We automate payroll inputs and tax filing instead of manual payroll processing and tax filing.",
+    "current_alternative": "manual payroll processing and tax filing",
+    "must_have_features": [
+      "timesheet input",
+      "payroll calculation",
+      "tax filing preparation"
+    ]
+  },
+  "one_liner": "For small business owners using Gusto for payroll processing 5\u201315 employees, manual payroll entry causes late tax filings. We automate payroll inputs and tax filing instead of manual payroll processing and tax filing.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-13",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

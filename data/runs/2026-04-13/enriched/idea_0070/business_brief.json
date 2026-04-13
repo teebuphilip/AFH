@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, missed renewal deadlines cause supply chain disruptions. We provide a vendor management system instead of manual tracking using spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in managing supplier contracts and renewal deadlines",
+  "features": [
+    "Supplier onboarding process",
+    "Contract storage",
+    "Renewal deadline alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in managing supplier contracts and renewal deadlines",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, missed renewal deadlines cause supply chain disruptions. We provide a vendor management system instead of manual tracking using spreadsheets.",
+    "current_alternative": "Manual tracking using spreadsheets",
+    "must_have_features": [
+      "Supplier onboarding process",
+      "Contract storage",
+      "Renewal deadline alerts"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, missed renewal deadlines cause supply chain disruptions. We provide a vendor management system instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

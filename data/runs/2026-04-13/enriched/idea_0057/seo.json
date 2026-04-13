@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "property managers managing properties inability tool",
+    "property managers managing properties inability automation",
+    "property managers managing 5 15 properties inability tool",
+    "property managers managing 5 15 properties inability automation",
+    "property managers managing 5 15 properties inability workflow"
+  ],
+  "secondary_keywords": [
+    "property managers managing 5 15 properties inability tool software",
+    "property managers managing 5 15 properties inability tool platform",
+    "property managers managing 5 15 properties inability tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For property managers managing 5\u201315 properties, inefficient asset tracking causes missed maintenance alerts. We provide automated depreciation and alerting instead of manual tracking and spreadsheets.",
+    "Inability to efficiently manage asset depreciation and maintenance alerts.",
+    "property managers managing 5\u201315 properties"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Property Managers Managing 5 15 Properties Inability Tool Software",
+      "target_keyword": "property managers managing 5 15 properties inability tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Managing 5 15 Properties Inability Tool Platform",
+      "target_keyword": "property managers managing 5 15 properties inability tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Managing 5 15 Properties Inability Tool Solution",
+      "target_keyword": "property managers managing 5 15 properties inability tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Managing 5 15 Properties Inability Tool",
+      "target_keyword": "property managers managing 5 15 properties inability tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Managing 5 15 Properties Inability Automation",
+      "target_keyword": "property managers managing 5 15 properties inability automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Property Managers Managing 5 15 Properties Inability Workflow",
+      "target_keyword": "property managers managing 5 15 properties inability workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "property managers managing properties inability tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "property managers managing properties inability tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "property managers managing properties inability tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "property managers managing properties inability tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "property managers managing properties inability tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | property managers managing properties tool",
+      "property managers managing properties tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "property managers managing properties tool helps with inability to efficiently manage asset depreciation and maintenance alerts."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

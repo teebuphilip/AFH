@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/month tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/month, shipment delays cause late orders. We provide automated notifications instead of manual tracking and notifications via email.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/month",
+  "problem_solved": "delays in shipment statuses",
+  "features": [
+    "real-time shipment status updates",
+    "threshold-based alert system",
+    "manual override for notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/month",
+    "primary_problem": "delays in shipment statuses",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/month, shipment delays cause late orders. We provide automated notifications instead of manual tracking and notifications via email.",
+    "current_alternative": "manual tracking and notifications via email",
+    "must_have_features": [
+      "real-time shipment status updates",
+      "threshold-based alert system",
+      "manual override for notifications"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/month, shipment delays cause late orders. We provide automated notifications instead of manual tracking and notifications via email.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-13",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

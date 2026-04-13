@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 rental units tool",
+  "description": "For property managers handling 5\u201315 rental units, inefficient tenant screening causes late lease agreements. We streamline the process instead of manual processes and spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 rental units",
+  "problem_solved": "inefficient tenant screening and maintenance request handling",
+  "features": [
+    "tenant screening forms",
+    "lease agreement templates",
+    "maintenance request tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 rental units",
+    "primary_problem": "inefficient tenant screening and maintenance request handling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 rental units, inefficient tenant screening causes late lease agreements. We streamline the process instead of manual processes and spreadsheets.",
+    "current_alternative": "manual processes and spreadsheets",
+    "must_have_features": [
+      "tenant screening forms",
+      "lease agreement templates",
+      "maintenance request tracking"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 rental units, inefficient tenant screening causes late lease agreements. We streamline the process instead of manual processes and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-13",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

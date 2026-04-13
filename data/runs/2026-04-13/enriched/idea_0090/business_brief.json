@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 contracts/month tool",
+  "description": "For construction contractors processing 5\u201315 contracts/month, inefficient bidding causes missed deadlines. We automate the bidding and contract process instead of manual tracking and email communication.",
+  "target_audience": "construction contractors processing 5\u201315 contracts/month",
+  "problem_solved": "Inefficient bidding and contract management processes",
+  "features": [
+    "template-based contract generation",
+    "status tracking for bids",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 contracts/month",
+    "primary_problem": "Inefficient bidding and contract management processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 contracts/month, inefficient bidding causes missed deadlines. We automate the bidding and contract process instead of manual tracking and email communication.",
+    "current_alternative": "manual tracking and email communication",
+    "must_have_features": [
+      "template-based contract generation",
+      "status tracking for bids",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 contracts/month, inefficient bidding causes missed deadlines. We automate the bidding and contract process instead of manual tracking and email communication.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-13",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

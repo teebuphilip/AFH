@@ -1,0 +1,15 @@
+{
+  "idea_text": "A property management platform that automates the process of finding and vetting tenants for rental property owners.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-13T10:54:00.883196",
+  "verdict_source": "overlay_score"
+}

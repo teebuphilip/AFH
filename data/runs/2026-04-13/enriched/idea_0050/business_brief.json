@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 10-50 deliveries/week tool",
+  "description": "For logistics carriers managing 10-50 deliveries/week, inconsistent route adherence causes late deliveries. We automate weekly route adherence reports instead of manual tracking and reporting of delivery routes.",
+  "target_audience": "logistics carriers managing 10-50 deliveries/week",
+  "problem_solved": "Inconsistent route adherence leading to late deliveries.",
+  "features": [
+    "manual entry of delivery data",
+    "weekly report generation",
+    "basic analytics on route performance"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 10-50 deliveries/week",
+    "primary_problem": "Inconsistent route adherence leading to late deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 10-50 deliveries/week, inconsistent route adherence causes late deliveries. We automate weekly route adherence reports instead of manual tracking and reporting of delivery routes.",
+    "current_alternative": "manual tracking and reporting of delivery routes",
+    "must_have_features": [
+      "manual entry of delivery data",
+      "weekly report generation",
+      "basic analytics on route performance"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 10-50 deliveries/week, inconsistent route adherence causes late deliveries. We automate weekly route adherence reports instead of manual tracking and reporting of delivery routes.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

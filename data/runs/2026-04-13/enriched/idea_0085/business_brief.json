@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant owners processing 20\u201350 reservations/week tool",
+  "description": "For restaurant owners processing 20\u201350 reservations/week, manual booking causes customer dissatisfaction. We automate the booking process instead of manual reservation management via phone and paper.",
+  "target_audience": "restaurant owners processing 20\u201350 reservations/week",
+  "problem_solved": "Booking errors and customer dissatisfaction due to manual reservation processes.",
+  "features": [
+    "simple online booking interface",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant owners processing 20\u201350 reservations/week",
+    "primary_problem": "Booking errors and customer dissatisfaction due to manual reservation processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant owners processing 20\u201350 reservations/week, manual booking causes customer dissatisfaction. We automate the booking process instead of manual reservation management via phone and paper.",
+    "current_alternative": "manual reservation management via phone and paper",
+    "must_have_features": [
+      "simple online booking interface",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For restaurant owners processing 20\u201350 reservations/week, manual booking causes customer dissatisfaction. We automate the booking process instead of manual reservation management via phone and paper.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

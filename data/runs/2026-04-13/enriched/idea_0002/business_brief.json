@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations for small accounting firms processing 5\u201315 payroll entries/month tool",
+  "description": "For HR operations for small accounting firms processing 5\u201315 payroll entries/month, payroll inaccuracies cause compliance issues. We monitor payroll data for anomalies instead of manual payroll checks and spreadsheets.",
+  "target_audience": "HR operations for small accounting firms processing 5\u201315 payroll entries/month",
+  "problem_solved": "Inaccurate payroll data leading to compliance issues and employee dissatisfaction.",
+  "features": [
+    "anomaly detection alerts",
+    "manual entry verification",
+    "monthly payroll summary reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations for small accounting firms processing 5\u201315 payroll entries/month",
+    "primary_problem": "Inaccurate payroll data leading to compliance issues and employee dissatisfaction.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR operations for small accounting firms processing 5\u201315 payroll entries/month, payroll inaccuracies cause compliance issues. We monitor payroll data for anomalies instead of manual payroll checks and spreadsheets.",
+    "current_alternative": "manual payroll checks and spreadsheets",
+    "must_have_features": [
+      "anomaly detection alerts",
+      "manual entry verification",
+      "monthly payroll summary reports"
+    ]
+  },
+  "one_liner": "For HR operations for small accounting firms processing 5\u201315 payroll entries/month, payroll inaccuracies cause compliance issues. We monitor payroll data for anomalies instead of manual payroll checks and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

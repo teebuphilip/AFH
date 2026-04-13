@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "hospitality HR managers in restaurants with 50-100 employees",
+  "offer": "For hospitality HR managers in restaurants processing 50-100 employee shifts/month, compliance exceptions cause scheduling conflicts. We provide tracking instead of manual tracking via spreadsheets.",
+  "problem": "Tracking employee shift compliance exceptions",
+  "channels_free": [
+    "Post in Reddit communities for hospitality HR managers",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to hospitality HR managers with demo video",
+    "Community forums for sharing HR management tools"
+  ],
+  "try_it": "Let users try manual entry for shift exceptions and user-friendly dashboard for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

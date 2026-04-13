@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, maverick spending causes missed discounts. We provide a procurement analytics dashboard instead of manual tracking of invoices and expenses.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Maverick spending and missed savings opportunities",
+  "features": [
+    "Invoice categorization",
+    "Savings opportunity alerts",
+    "Maverick spending notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Maverick spending and missed savings opportunities",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, maverick spending causes missed discounts. We provide a procurement analytics dashboard instead of manual tracking of invoices and expenses.",
+    "current_alternative": "Manual tracking of invoices and expenses",
+    "must_have_features": [
+      "Invoice categorization",
+      "Savings opportunity alerts",
+      "Maverick spending notifications"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, maverick spending causes missed discounts. We provide a procurement analytics dashboard instead of manual tracking of invoices and expenses.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

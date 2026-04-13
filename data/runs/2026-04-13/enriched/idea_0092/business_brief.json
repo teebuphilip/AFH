@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 deliveries/week tool",
+  "description": "For logistics carriers processing 50\u2013100 deliveries/week, inefficient routes cause delayed deliveries. We optimize routes instead of manual route planning using spreadsheets.",
+  "target_audience": "logistics carriers processing 50\u2013100 deliveries/week",
+  "problem_solved": "Inefficient delivery routes leading to increased fuel costs and delayed deliveries.",
+  "features": [
+    "route visualization",
+    "delivery time estimation",
+    "manual route adjustment"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 deliveries/week",
+    "primary_problem": "Inefficient delivery routes leading to increased fuel costs and delayed deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 deliveries/week, inefficient routes cause delayed deliveries. We optimize routes instead of manual route planning using spreadsheets.",
+    "current_alternative": "manual route planning using spreadsheets",
+    "must_have_features": [
+      "route visualization",
+      "delivery time estimation",
+      "manual route adjustment"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 deliveries/week, inefficient routes cause delayed deliveries. We optimize routes instead of manual route planning using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-13",
+    "overlay_score": 65,
+    "arr_score": 67
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm project managers processing 5\u201315 expense reports/month tool",
+  "description": "For law firm project managers processing 5\u201315 expense reports/month, inaccurate reconciliation causes budget overruns. We provide automated reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "law firm project managers processing 5\u201315 expense reports/month",
+  "problem_solved": "Inaccurate reconciliation of legal case expenses with approved budgets.",
+  "features": [
+    "manual entry of expense reports",
+    "budget tracking dashboard",
+    "export to CSV for reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm project managers processing 5\u201315 expense reports/month",
+    "primary_problem": "Inaccurate reconciliation of legal case expenses with approved budgets.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm project managers processing 5\u201315 expense reports/month, inaccurate reconciliation causes budget overruns. We provide automated reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "manual entry of expense reports",
+      "budget tracking dashboard",
+      "export to CSV for reporting"
+    ]
+  },
+  "one_liner": "For law firm project managers processing 5\u201315 expense reports/month, inaccurate reconciliation causes budget overruns. We provide automated reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-13",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

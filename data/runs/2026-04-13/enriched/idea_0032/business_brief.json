@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "billing clerks at small law firms processing 5\u201315 invoices/month tool",
+  "description": "For billing clerks at small law firms processing 5\u201315 invoices/month, inefficient manual billing causes delays in payment collection. We automate the conversion of legal time logs into formatted billing submissions instead of manual entry of time logs into billing software.",
+  "target_audience": "billing clerks at small law firms processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient manual billing processes lead to errors and delays.",
+  "features": [
+    "manual entry of time logs",
+    "formatted billing templates",
+    "error-checking for time log entries"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "billing clerks at small law firms processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient manual billing processes lead to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For billing clerks at small law firms processing 5\u201315 invoices/month, inefficient manual billing causes delays in payment collection. We automate the conversion of legal time logs into formatted billing submissions instead of manual entry of time logs into billing software.",
+    "current_alternative": "manual entry of time logs into billing software",
+    "must_have_features": [
+      "manual entry of time logs",
+      "formatted billing templates",
+      "error-checking for time log entries"
+    ]
+  },
+  "one_liner": "For billing clerks at small law firms processing 5\u201315 invoices/month, inefficient manual billing causes delays in payment collection. We automate the conversion of legal time logs into formatted billing submissions instead of manual entry of time logs into billing software.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

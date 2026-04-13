@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality HR managers in restaurants with 50-100 employees tool",
+  "description": "For hospitality HR managers in restaurants processing 50-100 employee shifts/month, compliance exceptions cause scheduling conflicts. We provide automated tracking instead of manual tracking via spreadsheets.",
+  "target_audience": "hospitality HR managers in restaurants with 50-100 employees",
+  "problem_solved": "Tracking employee shift compliance exceptions",
+  "features": [
+    "manual entry for shift exceptions",
+    "user-friendly dashboard for HR managers",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality HR managers in restaurants with 50-100 employees",
+    "primary_problem": "Tracking employee shift compliance exceptions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality HR managers in restaurants processing 50-100 employee shifts/month, compliance exceptions cause scheduling conflicts. We provide automated tracking instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry for shift exceptions",
+      "user-friendly dashboard for HR managers",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For hospitality HR managers in restaurants processing 50-100 employee shifts/month, compliance exceptions cause scheduling conflicts. We provide automated tracking instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-13",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

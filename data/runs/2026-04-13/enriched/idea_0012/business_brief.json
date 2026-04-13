@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201320 invoices/month tool",
+  "description": "For Shopify store owners processing 10\u201320 invoices/month, failed subscription payment renewals cause cash flow gaps. We alert finance ops instead of manual tracking of payment renewals.",
+  "target_audience": "Shopify store owners processing 10\u201320 invoices/month",
+  "problem_solved": "Failed subscription payment renewals leading to cash flow gaps.",
+  "features": [
+    "Real-time alerts for failed transactions",
+    "Dashboard for monitoring payment statuses",
+    "Manual entry option for tracking renewals"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201320 invoices/month",
+    "primary_problem": "Failed subscription payment renewals leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201320 invoices/month, failed subscription payment renewals cause cash flow gaps. We alert finance ops instead of manual tracking of payment renewals.",
+    "current_alternative": "Manual tracking of payment renewals",
+    "must_have_features": [
+      "Real-time alerts for failed transactions",
+      "Dashboard for monitoring payment statuses",
+      "Manual entry option for tracking renewals"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201320 invoices/month, failed subscription payment renewals cause cash flow gaps. We alert finance ops instead of manual tracking of payment renewals.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-13",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "CFOs of small accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For CFOs of small accounting firms processing 5\u201315 invoices/month, inaccurate cash flow forecasts cause financial mismanagement. We generate automated cash flow forecasts instead of manual cash flow tracking using spreadsheets.",
+  "target_audience": "CFOs of small accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate cash flow forecasts lead to financial mismanagement.",
+  "features": [
+    "Weekly cash flow forecast generation",
+    "Email notifications for forecasts",
+    "User-friendly dashboard for tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "CFOs of small accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate cash flow forecasts lead to financial mismanagement.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For CFOs of small accounting firms processing 5\u201315 invoices/month, inaccurate cash flow forecasts cause financial mismanagement. We generate automated cash flow forecasts instead of manual cash flow tracking using spreadsheets.",
+    "current_alternative": "manual cash flow tracking using spreadsheets",
+    "must_have_features": [
+      "Weekly cash flow forecast generation",
+      "Email notifications for forecasts",
+      "User-friendly dashboard for tracking"
+    ]
+  },
+  "one_liner": "For CFOs of small accounting firms processing 5\u201315 invoices/month, inaccurate cash flow forecasts cause financial mismanagement. We generate automated cash flow forecasts instead of manual cash flow tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-13",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

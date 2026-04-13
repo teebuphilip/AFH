@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For small accounting firms processing 5\u201315 invoices/month, manual reconciliation causes delayed financial reporting. We automate bookkeeping instead of manual bookkeeping processes.",
+  "target_audience": "small accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "manual reconciliation of transactions leads to delayed financial reporting",
+  "features": [
+    "transaction reconciliation",
+    "financial report generation",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "manual reconciliation of transactions leads to delayed financial reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small accounting firms processing 5\u201315 invoices/month, manual reconciliation causes delayed financial reporting. We automate bookkeeping instead of manual bookkeeping processes.",
+    "current_alternative": "manual bookkeeping processes",
+    "must_have_features": [
+      "transaction reconciliation",
+      "financial report generation",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For small accounting firms processing 5\u201315 invoices/month, manual reconciliation causes delayed financial reporting. We automate bookkeeping instead of manual bookkeeping processes.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

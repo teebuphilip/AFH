@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant purchasing managers processing 10\u201320 invoices/month",
+  "offer": "For restaurant purchasing managers processing 10\u201320 invoices/month, manual matching causes late orders and supplier penalties. We automate invoice matching instead of manual matching using spreadsheets.",
+  "problem": "Inefficient invoice matching process",
+  "channels_free": [
+    "Post in Reddit communities for restaurant purchasing managers",
+    "Indie Hackers discussions on invoice workflows",
+    "DM outreach to restaurant purchasing managers with demo video",
+    "Community forums for sharing tools among purchasing managers"
+  ],
+  "try_it": "Let users try manual entry of invoice data and reports",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

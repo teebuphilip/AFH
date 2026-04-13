@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 inspections/month tool",
+  "description": "For property managers processing 5\u201315 inspections/month, delays in reporting cause tenant dissatisfaction. We streamline the inspection process instead of manual inspection processes using paper forms.",
+  "target_audience": "property managers handling 5\u201315 inspections/month",
+  "problem_solved": "Delays in property inspection reporting",
+  "features": [
+    "digital checklists for inspections",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 inspections/month",
+    "primary_problem": "Delays in property inspection reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 inspections/month, delays in reporting cause tenant dissatisfaction. We streamline the inspection process instead of manual inspection processes using paper forms.",
+    "current_alternative": "manual inspection processes using paper forms",
+    "must_have_features": [
+      "digital checklists for inspections",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 inspections/month, delays in reporting cause tenant dissatisfaction. We streamline the inspection process instead of manual inspection processes using paper forms.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 permits/month tool",
+  "description": "For construction contractors processing 5\u201315 permits/month, complex submission processes cause delays in project timelines. We simplify the permit creation and submission instead of manual submission through local government websites.",
+  "target_audience": "construction contractors processing 5\u201315 permits/month",
+  "problem_solved": "Delays in permit approval due to complex submission processes.",
+  "features": [
+    "user-friendly permit creation interface",
+    "status tracking for submitted permits",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 permits/month",
+    "primary_problem": "Delays in permit approval due to complex submission processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 permits/month, complex submission processes cause delays in project timelines. We simplify the permit creation and submission instead of manual submission through local government websites.",
+    "current_alternative": "manual submission through local government websites",
+    "must_have_features": [
+      "user-friendly permit creation interface",
+      "status tracking for submitted permits",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 permits/month, complex submission processes cause delays in project timelines. We simplify the permit creation and submission instead of manual submission through local government websites.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-13",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

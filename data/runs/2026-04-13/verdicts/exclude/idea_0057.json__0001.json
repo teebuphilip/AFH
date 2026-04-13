@@ -1,0 +1,17 @@
+{
+  "idea_text": "Fixed asset management system that depreciates equipment, generates reports for audits, and alerts property managers to maintenance needs.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 69,
+  "arr_score": 68.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-13T10:54:00.878007",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-13T10:54:00.926815"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR administrators in medical clinics managing 5-15 staff training renewals/month",
+  "offer": "For HR administrators in medical clinics processing 5-15 training renewals/month, manual tracking causes missed deadlines. We automate scheduling and confirmations instead of manual tracking via spreadsheets or email.",
+  "problem": "Difficulty in tracking and confirming training renewals for staff",
+  "channels_free": [
+    "Post in Reddit communities for HR administrators",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to HR administrators with demo video",
+    "Community forums for HR administrators sharing tools"
+  ],
+  "try_it": "Let users try scheduling and confirmation tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

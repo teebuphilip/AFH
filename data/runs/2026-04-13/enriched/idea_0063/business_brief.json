@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, inaccurate tracking of fixed assets causes tax reporting delays. We provide a fixed asset depreciation service instead of manual spreadsheets and outdated accounting software.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Inaccurate tracking of fixed assets and depreciation calculations.",
+  "features": [
+    "manual entry for asset tracking",
+    "tax report generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Inaccurate tracking of fixed assets and depreciation calculations.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, inaccurate tracking of fixed assets causes tax reporting delays. We provide a fixed asset depreciation service instead of manual spreadsheets and outdated accounting software.",
+    "current_alternative": "manual spreadsheets and outdated accounting software",
+    "must_have_features": [
+      "manual entry for asset tracking",
+      "tax report generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, inaccurate tracking of fixed assets causes tax reporting delays. We provide a fixed asset depreciation service instead of manual spreadsheets and outdated accounting software.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

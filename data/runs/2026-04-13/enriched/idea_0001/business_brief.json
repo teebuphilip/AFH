@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small marketing agencies processing 10-20 invoices/month tool",
+  "description": "For procurement managers in small marketing agencies processing 10-20 invoices/month, frequent discrepancies cause late payments. We automate reconciliation instead of manual reconciliation of invoices and purchase orders.",
+  "target_audience": "procurement managers in small marketing agencies processing 10-20 invoices/month",
+  "problem_solved": "Frequent discrepancies between vendor invoices and purchase orders.",
+  "features": [
+    "Email weekly reports to procurement managers",
+    "Provide a dashboard for invoice tracking",
+    "Allow manual entry for unmatched invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small marketing agencies processing 10-20 invoices/month",
+    "primary_problem": "Frequent discrepancies between vendor invoices and purchase orders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small marketing agencies processing 10-20 invoices/month, frequent discrepancies cause late payments. We automate reconciliation instead of manual reconciliation of invoices and purchase orders.",
+    "current_alternative": "Manual reconciliation of invoices and purchase orders.",
+    "must_have_features": [
+      "Email weekly reports to procurement managers",
+      "Provide a dashboard for invoice tracking",
+      "Allow manual entry for unmatched invoices"
+    ]
+  },
+  "one_liner": "For procurement managers in small marketing agencies processing 10-20 invoices/month, frequent discrepancies cause late payments. We automate reconciliation instead of manual reconciliation of invoices and purchase orders.",
+  "source": {
+    "idea_id": "idea_0001",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

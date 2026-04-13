@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant purchasing managers processing 10\u201320 invoices/month tool",
+  "description": "For restaurant purchasing managers processing 10\u201320 invoices/month, manual matching causes late orders and supplier penalties. We automate invoice matching instead of manual matching using spreadsheets.",
+  "target_audience": "restaurant purchasing managers processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient invoice matching process",
+  "features": [
+    "manual entry of invoice data",
+    "weekly report generation",
+    "error flagging for mismatches"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant purchasing managers processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient invoice matching process",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant purchasing managers processing 10\u201320 invoices/month, manual matching causes late orders and supplier penalties. We automate invoice matching instead of manual matching using spreadsheets.",
+    "current_alternative": "manual matching of invoices using spreadsheets",
+    "must_have_features": [
+      "manual entry of invoice data",
+      "weekly report generation",
+      "error flagging for mismatches"
+    ]
+  },
+  "one_liner": "For restaurant purchasing managers processing 10\u201320 invoices/month, manual matching causes late orders and supplier penalties. We automate invoice matching instead of manual matching using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-13",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

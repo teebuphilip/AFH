@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in small clinics processing 5\u201315 claims/month tool",
+  "description": "For medical billing specialists in small clinics processing 5\u201315 claims/month, inefficient claim correction causes delayed reimbursements. We automate the preparation and filing of claim corrections instead of manual claim correction and resubmission.",
+  "target_audience": "medical billing specialists in small clinics processing 5\u201315 claims/month",
+  "problem_solved": "inefficient claim correction processes leading to delayed reimbursements",
+  "features": [
+    "manual claim entry interface",
+    "status tracking for submitted claims",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in small clinics processing 5\u201315 claims/month",
+    "primary_problem": "inefficient claim correction processes leading to delayed reimbursements",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in small clinics processing 5\u201315 claims/month, inefficient claim correction causes delayed reimbursements. We automate the preparation and filing of claim corrections instead of manual claim correction and resubmission.",
+    "current_alternative": "manual claim correction and resubmission",
+    "must_have_features": [
+      "manual claim entry interface",
+      "status tracking for submitted claims",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical billing specialists in small clinics processing 5\u201315 claims/month, inefficient claim correction causes delayed reimbursements. We automate the preparation and filing of claim corrections instead of manual claim correction and resubmission.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-13",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

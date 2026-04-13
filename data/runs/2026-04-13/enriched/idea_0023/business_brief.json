@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201320 clients/month tool",
+  "description": "For accounting firms managing 10\u201320 clients/month, manual reconciliation causes financial discrepancies. We automate bank statement reconciliation instead of manual reconciliation processes.",
+  "target_audience": "accounting firms managing 10\u201320 clients/month",
+  "problem_solved": "Inaccurate bank reconciliations leading to financial discrepancies.",
+  "features": [
+    "manual reconciliation option",
+    "exception reporting",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201320 clients/month",
+    "primary_problem": "Inaccurate bank reconciliations leading to financial discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201320 clients/month, manual reconciliation causes financial discrepancies. We automate bank statement reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual reconciliation option",
+      "exception reporting",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201320 clients/month, manual reconciliation causes financial discrepancies. We automate bank statement reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 lease payments/month tool",
+  "description": "For property managers processing 5\u201315 lease payments/month, missed deadlines cause late fees. We provide timely alerts instead of manual tracking of payment schedules.",
+  "target_audience": "property managers handling 5\u201315 lease payments/month",
+  "problem_solved": "Missed lease payment deadlines leading to late fees.",
+  "features": [
+    "simple dashboard for payment tracking",
+    "manual entry for lease details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 lease payments/month",
+    "primary_problem": "Missed lease payment deadlines leading to late fees.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 lease payments/month, missed deadlines cause late fees. We provide timely alerts instead of manual tracking of payment schedules.",
+    "current_alternative": "manual tracking of payment schedules",
+    "must_have_features": [
+      "simple dashboard for payment tracking",
+      "manual entry for lease details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 lease payments/month, missed deadlines cause late fees. We provide timely alerts instead of manual tracking of payment schedules.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-13",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

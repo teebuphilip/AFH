@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firms processing 5\u201315 cases/month",
+  "offer": "For law firms processing 5\u201315 cases/month, outdated compliance knowledge causes legal penalties. We provide regulatory tracking instead of manual tracking of regulatory changes.",
+  "problem": "Staying compliant with constantly changing regulations",
+  "channels_free": [
+    "Post in Reddit communities for law firms seeking help",
+    "Indie Hackers posts about compliance workflows",
+    "DM outreach to law firms with demo video",
+    "Community forums where law firms share tools"
+  ],
+  "try_it": "Let users try compliance reporting templates on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

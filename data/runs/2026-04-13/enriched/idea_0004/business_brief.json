@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 vendor payments/month tool",
+  "description": "For accounting firms processing 5\u201315 invoices/month, manual formatting causes delays in report delivery. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "accounting firms processing 5\u201315 vendor payments/month",
+  "problem_solved": "Manual formatting of compliance reports from vendor payment records is time-consuming and error-prone.",
+  "features": [
+    "template-based report generation",
+    "user-friendly interface for data input",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 vendor payments/month",
+    "primary_problem": "Manual formatting of compliance reports from vendor payment records is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 invoices/month, manual formatting causes delays in report delivery. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly interface for data input",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 invoices/month, manual formatting causes delays in report delivery. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-13",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

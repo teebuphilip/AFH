@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/week tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/week, inefficient route planning causes increased operational costs. We generate weekly logistics route efficiency reports from GPS data instead of manual route planning and analysis.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/week",
+  "problem_solved": "Inefficient route planning leads to increased operational costs.",
+  "features": [
+    "Weekly report generation",
+    "User-friendly dashboard for operations managers",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/week",
+    "primary_problem": "Inefficient route planning leads to increased operational costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/week, inefficient route planning causes increased operational costs. We generate weekly logistics route efficiency reports from GPS data instead of manual route planning and analysis.",
+    "current_alternative": "manual route planning and analysis",
+    "must_have_features": [
+      "Weekly report generation",
+      "User-friendly dashboard for operations managers",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/week, inefficient route planning causes increased operational costs. We generate weekly logistics route efficiency reports from GPS data instead of manual route planning and analysis.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-13",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

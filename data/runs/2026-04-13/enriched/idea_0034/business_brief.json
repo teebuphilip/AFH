@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers processing 5\u201315 work orders/day tool",
+  "description": "For construction project managers processing 5\u201315 work orders/day, inefficient tracking causes late project updates. We generate daily summaries instead of manual reporting and spreadsheets.",
+  "target_audience": "construction project managers processing 5\u201315 work orders/day",
+  "problem_solved": "Inefficient tracking and reporting of daily work order completions.",
+  "features": [
+    "manual entry of work order details",
+    "daily summary generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers processing 5\u201315 work orders/day",
+    "primary_problem": "Inefficient tracking and reporting of daily work order completions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers processing 5\u201315 work orders/day, inefficient tracking causes late project updates. We generate daily summaries instead of manual reporting and spreadsheets.",
+    "current_alternative": "manual reporting and spreadsheets",
+    "must_have_features": [
+      "manual entry of work order details",
+      "daily summary generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project managers processing 5\u201315 work orders/day, inefficient tracking causes late project updates. We generate daily summaries instead of manual reporting and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

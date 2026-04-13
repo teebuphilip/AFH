@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "billing coordinators at medical clinics frequent tool",
+    "billing coordinators at medical clinics frequent automation",
+    "billing workflow",
+    "cash flow tracking",
+    "claims tracking",
+    "payment reminders"
+  ],
+  "secondary_keywords": [
+    "billing workflow software",
+    "billing workflow platform",
+    "billing workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to billing workflow",
+    "best billing workflow tool",
+    "billing workflow vs spreadsheets",
+    "billing workflow checklist",
+    "billing workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For billing coordinators at medical clinics processing 50\u2013100 invoices/month, frequent billing exceptions cause cash flow gaps. We automate daily exception reporting instead of manual tracking using spreadsheets.",
+    "Frequent billing exceptions lead to delayed payments and cash flow gaps.",
+    "billing coordinators at medical clinics processing 50\u2013100 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Billing Workflow",
+      "target_keyword": "how to billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Billing Workflow Tool",
+      "target_keyword": "best billing workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Vs Spreadsheets",
+      "target_keyword": "billing workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Checklist",
+      "target_keyword": "billing workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Pricing",
+      "target_keyword": "billing workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Software",
+      "target_keyword": "billing workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Platform",
+      "target_keyword": "billing workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Solution",
+      "target_keyword": "billing workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow",
+      "target_keyword": "billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Cash Flow Tracking",
+      "target_keyword": "cash flow tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Claims Tracking",
+      "target_keyword": "claims tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders",
+      "target_keyword": "payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "billing coordinators at medical clinics frequent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "billing coordinators at medical clinics frequent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "billing coordinators at medical clinics frequent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "billing coordinators at medical clinics frequent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "billing coordinators at medical clinics frequent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | billing coordinators at medical clinics tool",
+      "billing coordinators at medical clinics tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "billing coordinators at medical clinics tool helps with frequent billing exceptions lead to delayed payments and cash flow gaps."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

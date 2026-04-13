@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small medical clinics managing 50\u2013100 patient intakes/month tool",
+  "description": "For small medical clinics processing 50\u2013100 patient intakes/month, inefficient intake processes cause delays in patient care. We simplify the intake process instead of manual paperwork and spreadsheets.",
+  "target_audience": "small medical clinics managing 50\u2013100 patient intakes/month",
+  "problem_solved": "inefficient patient intake processes",
+  "features": [
+    "digital patient intake forms",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small medical clinics managing 50\u2013100 patient intakes/month",
+    "primary_problem": "inefficient patient intake processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small medical clinics processing 50\u2013100 patient intakes/month, inefficient intake processes cause delays in patient care. We simplify the intake process instead of manual paperwork and spreadsheets.",
+    "current_alternative": "manual paperwork and spreadsheets",
+    "must_have_features": [
+      "digital patient intake forms",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small medical clinics processing 50\u2013100 patient intakes/month, inefficient intake processes cause delays in patient care. We simplify the intake process instead of manual paperwork and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-13",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

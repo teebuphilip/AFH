@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "small business owners using gusto for payroll manual tool",
+    "small business owners using gusto for payroll manual automation",
+    "small business owners using gusto for payroll processing 5 15 employees manual tool",
+    "small business owners using gusto for payroll processing 5 15 employees manual automation",
+    "small business owners using gusto for payroll processing 5 15 employees manual workflow"
+  ],
+  "secondary_keywords": [
+    "small business owners using gusto for payroll processing 5 15 employees manual tool software",
+    "small business owners using gusto for payroll processing 5 15 employees manual tool platform",
+    "small business owners using gusto for payroll processing 5 15 employees manual tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For small business owners using Gusto for payroll processing 5\u201315 employees, manual payroll entry causes late tax filings. We automate payroll inputs and tax filing instead of manual payroll processing and tax filing.",
+    "manual payroll entry and tax filing",
+    "small business owners using Gusto for payroll processing 5\u201315 employees"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Payroll Processing 5 15 Employees Manual Tool Software",
+      "target_keyword": "small business owners using gusto for payroll processing 5 15 employees manual tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Payroll Processing 5 15 Employees Manual Tool Platform",
+      "target_keyword": "small business owners using gusto for payroll processing 5 15 employees manual tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Payroll Processing 5 15 Employees Manual Tool Solution",
+      "target_keyword": "small business owners using gusto for payroll processing 5 15 employees manual tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Payroll Processing 5 15 Employees Manual Tool",
+      "target_keyword": "small business owners using gusto for payroll processing 5 15 employees manual tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Payroll Processing 5 15 Employees Manual Automation",
+      "target_keyword": "small business owners using gusto for payroll processing 5 15 employees manual automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Payroll Processing 5 15 Employees Manual Workflow",
+      "target_keyword": "small business owners using gusto for payroll processing 5 15 employees manual workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "small business owners using gusto for payroll manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "small business owners using gusto for payroll manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "small business owners using gusto for payroll manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "small business owners using gusto for payroll manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "small business owners using gusto for payroll manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | small business owners using gusto for payroll tool",
+      "small business owners using gusto for payroll tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "small business owners using gusto for payroll tool helps with manual payroll entry and tax filing."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

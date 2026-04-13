@@ -1,0 +1,17 @@
+{
+  "idea_text": "An AI-powered route optimization tool for last-mile delivery teams in the logistics industry.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 65,
+  "arr_score": 67.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-13T10:54:00.881634",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-13T10:54:00.924857"
+}

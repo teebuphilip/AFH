@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR coordinators in small to medium-sized companies using BambooHR tool",
+  "description": "For HR coordinators in small to medium-sized companies using BambooHR processing 5\u201315 new hires/month, inefficient manual onboarding causes delays in employee integration. We automate new hire paperwork instead of manual paperwork processing and verification.",
+  "target_audience": "HR coordinators in small to medium-sized companies using BambooHR",
+  "problem_solved": "Inefficient manual onboarding processes",
+  "features": [
+    "I-9 verification tracking",
+    "employee record update reminders",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR coordinators in small to medium-sized companies using BambooHR",
+    "primary_problem": "Inefficient manual onboarding processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR coordinators in small to medium-sized companies using BambooHR processing 5\u201315 new hires/month, inefficient manual onboarding causes delays in employee integration. We automate new hire paperwork instead of manual paperwork processing and verification.",
+    "current_alternative": "manual paperwork processing and verification",
+    "must_have_features": [
+      "I-9 verification tracking",
+      "employee record update reminders",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR coordinators in small to medium-sized companies using BambooHR processing 5\u201315 new hires/month, inefficient manual onboarding causes delays in employee integration. We automate new hire paperwork instead of manual paperwork processing and verification.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-13",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}
