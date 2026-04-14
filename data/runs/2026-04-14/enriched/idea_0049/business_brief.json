@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "field service coordinators in the construction industry managing 5\u201315 equipment repairs/month tool",
+  "description": "For field service coordinators in the construction industry processing 5\u201315 equipment repairs/month, inefficient tracking causes delayed repairs. We provide real-time tracking instead of manual tracking via spreadsheets.",
+  "target_audience": "field service coordinators in the construction industry managing 5\u201315 equipment repairs/month",
+  "problem_solved": "Inefficient tracking of equipment downtime leading to delayed repairs.",
+  "features": [
+    "manual entry of downtime incidents",
+    "report generation for repairs",
+    "notification system for overdue repairs"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "field service coordinators in the construction industry managing 5\u201315 equipment repairs/month",
+    "primary_problem": "Inefficient tracking of equipment downtime leading to delayed repairs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For field service coordinators in the construction industry processing 5\u201315 equipment repairs/month, inefficient tracking causes delayed repairs. We provide real-time tracking instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry of downtime incidents",
+      "report generation for repairs",
+      "notification system for overdue repairs"
+    ]
+  },
+  "one_liner": "For field service coordinators in the construction industry processing 5\u201315 equipment repairs/month, inefficient tracking causes delayed repairs. We provide real-time tracking instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

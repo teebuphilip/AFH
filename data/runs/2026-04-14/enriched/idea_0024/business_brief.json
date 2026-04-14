@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations in small to medium-sized accounting firms processing 5\u201315 compliance training sessions/month tool",
+  "description": "For HR operations in small to medium-sized accounting firms processing 5\u201315 compliance training sessions/month, missed deadlines cause compliance penalties. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "HR operations in small to medium-sized accounting firms processing 5\u201315 compliance training sessions/month",
+  "problem_solved": "Missed compliance training deadlines",
+  "features": [
+    "Completion tracking dashboard",
+    "Reporting for compliance audits",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations in small to medium-sized accounting firms processing 5\u201315 compliance training sessions/month",
+    "primary_problem": "Missed compliance training deadlines",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR operations in small to medium-sized accounting firms processing 5\u201315 compliance training sessions/month, missed deadlines cause compliance penalties. We provide automated alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "Manual tracking of training completions via spreadsheets",
+    "must_have_features": [
+      "Completion tracking dashboard",
+      "Reporting for compliance audits",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations in small to medium-sized accounting firms processing 5\u201315 compliance training sessions/month, missed deadlines cause compliance penalties. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

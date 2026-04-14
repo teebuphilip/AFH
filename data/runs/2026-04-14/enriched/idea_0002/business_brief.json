@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing payroll for 5\u201315 clients/month tool",
+  "description": "For accounting firms managing payroll for 5\u201315 clients/month, missed payroll tax filing deadlines cause penalties. We provide timely alerts instead of manual tracking of deadlines and filings.",
+  "target_audience": "accounting firms managing payroll for 5\u201315 clients/month",
+  "problem_solved": "Missed payroll tax filing deadlines leading to penalties.",
+  "features": [
+    "failure alerts for filings",
+    "simple dashboard for tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing payroll for 5\u201315 clients/month",
+    "primary_problem": "Missed payroll tax filing deadlines leading to penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing payroll for 5\u201315 clients/month, missed payroll tax filing deadlines cause penalties. We provide timely alerts instead of manual tracking of deadlines and filings.",
+    "current_alternative": "manual tracking of deadlines and filings",
+    "must_have_features": [
+      "failure alerts for filings",
+      "simple dashboard for tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing payroll for 5\u201315 clients/month, missed payroll tax filing deadlines cause penalties. We provide timely alerts instead of manual tracking of deadlines and filings.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-14",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

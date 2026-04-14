@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "hospitality HR managers in restaurants managing 5-15 employee certifications/month",
+  "offer": "For hospitality HR managers in restaurants processing 5-15 employee certifications/month, missed renewals cause compliance penalties. We automate renewal tracking instead of manual tracking through spreadsheets and reminders.",
+  "problem": "Managing timely certification renewals to avoid compliance issues.",
+  "channels_free": [
+    "Post in Reddit communities for hospitality HR managers",
+    "Indie Hackers posts on certification workflows",
+    "DM outreach to hospitality HR managers with demo video",
+    "Community forums for sharing HR management tools"
+  ],
+  "try_it": "Let users try manual tracking of certification dates and dashboard",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual tracking workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

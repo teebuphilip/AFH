@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations teams in marketing agencies processing 10\u201350 invoices/month tool",
+  "description": "For sales operations teams in marketing agencies processing 10\u201350 invoices/month, missed commission targets cause decreased sales team morale. We provide automated alerts instead of manual tracking through spreadsheets.",
+  "target_audience": "sales operations teams in marketing agencies processing 10\u201350 invoices/month",
+  "problem_solved": "missed commission targets leading to decreased sales team morale",
+  "features": [
+    "real-time commission tracking",
+    "threshold alert notifications",
+    "simple dashboard for performance overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations teams in marketing agencies processing 10\u201350 invoices/month",
+    "primary_problem": "missed commission targets leading to decreased sales team morale",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations teams in marketing agencies processing 10\u201350 invoices/month, missed commission targets cause decreased sales team morale. We provide automated alerts instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking of commission data through spreadsheets",
+    "must_have_features": [
+      "real-time commission tracking",
+      "threshold alert notifications",
+      "simple dashboard for performance overview"
+    ]
+  },
+  "one_liner": "For sales operations teams in marketing agencies processing 10\u201350 invoices/month, missed commission targets cause decreased sales team morale. We provide automated alerts instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-14",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

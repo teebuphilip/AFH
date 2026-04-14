@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 payroll entries/month tool",
+  "description": "For accounting firms processing 10\u201320 payroll entries/month, manual formatting causes delayed payments. We convert raw timesheet entries into formatted payroll input files instead of manual formatting of timesheet entries.",
+  "target_audience": "accounting firms processing 10\u201320 payroll entries/month",
+  "problem_solved": "Inaccurate payroll input files lead to delayed payments.",
+  "features": [
+    "manual entry of timesheet data",
+    "export to common payroll formats",
+    "error-checking for data consistency"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 payroll entries/month",
+    "primary_problem": "Inaccurate payroll input files lead to delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 payroll entries/month, manual formatting causes delayed payments. We convert raw timesheet entries into formatted payroll input files instead of manual formatting of timesheet entries.",
+    "current_alternative": "manual formatting of timesheet entries",
+    "must_have_features": [
+      "manual entry of timesheet data",
+      "export to common payroll formats",
+      "error-checking for data consistency"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 payroll entries/month, manual formatting causes delayed payments. We convert raw timesheet entries into formatted payroll input files instead of manual formatting of timesheet entries.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

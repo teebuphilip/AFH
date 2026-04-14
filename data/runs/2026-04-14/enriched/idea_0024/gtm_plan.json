@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR operations in small to medium-sized accounting firms processing 5\u201315 compliance training sessions/month",
+  "offer": "For HR operations in small to medium-sized accounting firms processing 5\u201315 compliance training sessions/month, missed deadlines cause compliance penalties. We provide alerts instead of manual tracking via spreadsheets.",
+  "problem": "Missed compliance training deadlines",
+  "channels_free": [
+    "Post in Reddit communities for HR operations",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to HR operations with demo video",
+    "Community forums where HR share tools"
+  ],
+  "try_it": "Let users try the tracking dashboard for compliance audits",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Make a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing training data",
+    "One-click export for simple reports",
+    "Streamline onboarding steps"
+  ]
+}

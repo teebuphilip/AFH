@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "multi-location restaurant managers processing 10\u201320 orders/week tool",
+  "description": "For multi-location restaurant managers processing 10\u201320 orders/week, inefficient inventory tracking causes late orders. We automate inventory management instead of manual inventory tracking and ordering systems.",
+  "target_audience": "multi-location restaurant managers processing 10\u201320 orders/week",
+  "problem_solved": "Inefficient inventory tracking and ordering processes",
+  "features": [
+    "simple inventory tracking interface",
+    "manual order placement functionality",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "multi-location restaurant managers processing 10\u201320 orders/week",
+    "primary_problem": "Inefficient inventory tracking and ordering processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For multi-location restaurant managers processing 10\u201320 orders/week, inefficient inventory tracking causes late orders. We automate inventory management instead of manual inventory tracking and ordering systems.",
+    "current_alternative": "manual inventory tracking and ordering systems",
+    "must_have_features": [
+      "simple inventory tracking interface",
+      "manual order placement functionality",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For multi-location restaurant managers processing 10\u201320 orders/week, inefficient inventory tracking causes late orders. We automate inventory management instead of manual inventory tracking and ordering systems.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

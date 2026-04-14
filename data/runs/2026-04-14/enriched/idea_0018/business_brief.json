@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement directors in mid-sized manufacturing companies processing 10-20 purchase requisitions/week tool",
+  "description": "For procurement directors in mid-sized manufacturing companies processing 10-20 invoices/week, inefficient tracking causes late orders. We extract and consolidate purchase requisition data instead of manual tracking and reporting via spreadsheets.",
+  "target_audience": "procurement directors in mid-sized manufacturing companies processing 10-20 purchase requisitions/week",
+  "problem_solved": "Inefficient tracking and reporting of purchase requisition data.",
+  "features": [
+    "Weekly email summaries of purchase requisition data",
+    "Manual data entry for requisition details",
+    "Basic reporting dashboard for requisition status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement directors in mid-sized manufacturing companies processing 10-20 purchase requisitions/week",
+    "primary_problem": "Inefficient tracking and reporting of purchase requisition data.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement directors in mid-sized manufacturing companies processing 10-20 invoices/week, inefficient tracking causes late orders. We extract and consolidate purchase requisition data instead of manual tracking and reporting via spreadsheets.",
+    "current_alternative": "manual tracking and reporting via spreadsheets",
+    "must_have_features": [
+      "Weekly email summaries of purchase requisition data",
+      "Manual data entry for requisition details",
+      "Basic reporting dashboard for requisition status"
+    ]
+  },
+  "one_liner": "For procurement directors in mid-sized manufacturing companies processing 10-20 invoices/week, inefficient tracking causes late orders. We extract and consolidate purchase requisition data instead of manual tracking and reporting via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

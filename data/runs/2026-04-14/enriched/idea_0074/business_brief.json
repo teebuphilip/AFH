@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR generalists in small to medium-sized tech companies using Greenhouse for hiring tool",
+  "description": "For HR generalists in small to medium-sized tech companies processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire productivity. We streamline onboarding tasks instead of manual tracking and email communication.",
+  "target_audience": "HR generalists in small to medium-sized tech companies using Greenhouse for hiring",
+  "problem_solved": "Inefficient onboarding processes leading to delays in new hire productivity.",
+  "features": [
+    "New hire paperwork management",
+    "IT setup checklist",
+    "Orientation task tracker"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR generalists in small to medium-sized tech companies using Greenhouse for hiring",
+    "primary_problem": "Inefficient onboarding processes leading to delays in new hire productivity.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR generalists in small to medium-sized tech companies processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire productivity. We streamline onboarding tasks instead of manual tracking and email communication.",
+    "current_alternative": "Manual tracking and email communication for onboarding tasks.",
+    "must_have_features": [
+      "New hire paperwork management",
+      "IT setup checklist",
+      "Orientation task tracker"
+    ]
+  },
+  "one_liner": "For HR generalists in small to medium-sized tech companies processing 5\u201315 new hires/month, inefficient onboarding causes delays in new hire productivity. We streamline onboarding tasks instead of manual tracking and email communication.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

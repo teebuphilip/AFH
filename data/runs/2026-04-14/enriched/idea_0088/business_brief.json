@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small-scale logistics providers processing 5\u201315 invoices/month tool",
+  "description": "For small-scale logistics providers processing 5\u201315 invoices/month, inefficient manual processes cause late orders. We automate freight forwarding and customs brokerage instead of manual tracking and paperwork.",
+  "target_audience": "small-scale logistics providers processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient manual processing of freight forwarding and customs brokerage.",
+  "features": [
+    "invoice tracking",
+    "document management",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small-scale logistics providers processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient manual processing of freight forwarding and customs brokerage.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small-scale logistics providers processing 5\u201315 invoices/month, inefficient manual processes cause late orders. We automate freight forwarding and customs brokerage instead of manual tracking and paperwork.",
+    "current_alternative": "manual tracking and paperwork",
+    "must_have_features": [
+      "invoice tracking",
+      "document management",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small-scale logistics providers processing 5\u201315 invoices/month, inefficient manual processes cause late orders. We automate freight forwarding and customs brokerage instead of manual tracking and paperwork.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

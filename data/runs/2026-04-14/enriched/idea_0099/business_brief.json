@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancer accountants processing 5\u201315 invoices/month tool",
+  "description": "For freelancer accountants processing 5\u201315 invoices/month, time-consuming tax preparation causes late submissions. We automate tax preparation instead of manual tax preparation and filing.",
+  "target_audience": "freelancer accountants processing 5\u201315 invoices/month",
+  "problem_solved": "Time-consuming tax preparation and filing",
+  "features": [
+    "simple user interface for data entry",
+    "reminder notifications for filing deadlines",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancer accountants processing 5\u201315 invoices/month",
+    "primary_problem": "Time-consuming tax preparation and filing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancer accountants processing 5\u201315 invoices/month, time-consuming tax preparation causes late submissions. We automate tax preparation instead of manual tax preparation and filing.",
+    "current_alternative": "manual tax preparation and filing",
+    "must_have_features": [
+      "simple user interface for data entry",
+      "reminder notifications for filing deadlines",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancer accountants processing 5\u201315 invoices/month, time-consuming tax preparation causes late submissions. We automate tax preparation instead of manual tax preparation and filing.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-14",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inaccurate expense reporting causes cash flow gaps. We reconcile credit card statements with receipts instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate expense reporting due to mismatched receipts and credit card statements.",
+  "features": [
+    "manual entry of receipts",
+    "notification system for mismatches",
+    "monthly summary reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate expense reporting due to mismatched receipts and credit card statements.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inaccurate expense reporting causes cash flow gaps. We reconcile credit card statements with receipts instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets.",
+    "must_have_features": [
+      "manual entry of receipts",
+      "notification system for mismatches",
+      "monthly summary reports"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inaccurate expense reporting causes cash flow gaps. We reconcile credit card statements with receipts instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-14",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

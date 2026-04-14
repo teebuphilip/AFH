@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "billing clerks at medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For billing clerks at medical clinics processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "billing clerks at medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate reconciliation of patient billing against insurance payments.",
+  "features": [
+    "manual entry of patient billing data",
+    "report generation for discrepancies",
+    "notification system for unresolved issues"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "billing clerks at medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate reconciliation of patient billing against insurance payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For billing clerks at medical clinics processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry of patient billing data",
+      "report generation for discrepancies",
+      "notification system for unresolved issues"
+    ]
+  },
+  "one_liner": "For billing clerks at medical clinics processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

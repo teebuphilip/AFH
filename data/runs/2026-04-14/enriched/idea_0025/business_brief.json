@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility invoices/month tool",
+  "description": "For property managers processing 5\u201315 utility invoices/month, manual compilation causes reporting delays. We automate the report generation instead of manual data entry and spreadsheet management.",
+  "target_audience": "property managers processing 5\u201315 utility invoices/month",
+  "problem_solved": "Manual compilation of utility expenses leads to errors and delays in reporting.",
+  "features": [
+    "formatted report generation",
+    "email delivery to accounting teams",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility invoices/month",
+    "primary_problem": "Manual compilation of utility expenses leads to errors and delays in reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 utility invoices/month, manual compilation causes reporting delays. We automate the report generation instead of manual data entry and spreadsheet management.",
+    "current_alternative": "manual data entry and spreadsheet management",
+    "must_have_features": [
+      "formatted report generation",
+      "email delivery to accounting teams",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 utility invoices/month, manual compilation causes reporting delays. We automate the report generation instead of manual data entry and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-14",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

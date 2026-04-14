@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inaccurate cash flow forecasts cause financial mismanagement. We automate weekly cash flow forecasts instead of manual cash flow tracking spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "inaccurate cash flow forecasts leading to financial mismanagement",
+  "features": [
+    "manual data entry for accounts receivable",
+    "weekly cash flow report generation",
+    "basic visualization of cash flow trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "inaccurate cash flow forecasts leading to financial mismanagement",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inaccurate cash flow forecasts cause financial mismanagement. We automate weekly cash flow forecasts instead of manual cash flow tracking spreadsheets.",
+    "current_alternative": "manual cash flow tracking spreadsheets",
+    "must_have_features": [
+      "manual data entry for accounts receivable",
+      "weekly cash flow report generation",
+      "basic visualization of cash flow trends"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inaccurate cash flow forecasts cause financial mismanagement. We automate weekly cash flow forecasts instead of manual cash flow tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-14",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

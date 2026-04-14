@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality HR managers in restaurants managing 5-15 employee certifications/month tool",
+  "description": "For hospitality HR managers in restaurants processing 5-15 employee certifications/month, missed renewals cause compliance penalties. We automate renewal tracking instead of manual tracking through spreadsheets and reminders.",
+  "target_audience": "hospitality HR managers in restaurants managing 5-15 employee certifications/month",
+  "problem_solved": "Managing timely certification renewals to avoid compliance issues.",
+  "features": [
+    "manual tracking of certification dates",
+    "simple dashboard for overview of certifications",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality HR managers in restaurants managing 5-15 employee certifications/month",
+    "primary_problem": "Managing timely certification renewals to avoid compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For hospitality HR managers in restaurants processing 5-15 employee certifications/month, missed renewals cause compliance penalties. We automate renewal tracking instead of manual tracking through spreadsheets and reminders.",
+    "current_alternative": "manual tracking through spreadsheets and reminders",
+    "must_have_features": [
+      "manual tracking of certification dates",
+      "simple dashboard for overview of certifications",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For hospitality HR managers in restaurants processing 5-15 employee certifications/month, missed renewals cause compliance penalties. We automate renewal tracking instead of manual tracking through spreadsheets and reminders.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Operations Manager for Shopify stores processing 10\u201350 invoices/month tool",
+  "description": "For Sales Operations Managers for Shopify stores processing 10\u201350 invoices/month, lack of visibility into sales pipeline metrics causes missed opportunities. We provide automated weekly reports instead of manual tracking using spreadsheets.",
+  "target_audience": "Sales Operations Manager for Shopify stores processing 10\u201350 invoices/month",
+  "problem_solved": "Lack of visibility into sales pipeline metrics leads to missed opportunities.",
+  "features": [
+    "Dashboard for key sales metrics",
+    "Customizable metric tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Operations Manager for Shopify stores processing 10\u201350 invoices/month",
+    "primary_problem": "Lack of visibility into sales pipeline metrics leads to missed opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Managers for Shopify stores processing 10\u201350 invoices/month, lack of visibility into sales pipeline metrics causes missed opportunities. We provide automated weekly reports instead of manual tracking using spreadsheets.",
+    "current_alternative": "Manual tracking of sales metrics using spreadsheets.",
+    "must_have_features": [
+      "Dashboard for key sales metrics",
+      "Customizable metric tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Sales Operations Managers for Shopify stores processing 10\u201350 invoices/month, lack of visibility into sales pipeline metrics causes missed opportunities. We provide automated weekly reports instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-14",
+    "overlay_score": 69,
+    "arr_score": 68
+  }
+}

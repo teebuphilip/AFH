@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "boutique financial advisory practices processing 5\u201315 client invoices/month tool",
+  "description": "For boutique financial advisory practices processing 5\u201315 client invoices/month, manual reconciliation causes late financial reports. We provide automated reconciliation instead of manual spreadsheets and basic accounting software.",
+  "target_audience": "boutique financial advisory practices processing 5\u201315 client invoices/month",
+  "problem_solved": "Inaccurate financial reporting due to manual reconciliation errors.",
+  "features": [
+    "manual reconciliation tools",
+    "customizable reporting templates",
+    "user-friendly dashboard for tracking invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "boutique financial advisory practices processing 5\u201315 client invoices/month",
+    "primary_problem": "Inaccurate financial reporting due to manual reconciliation errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For boutique financial advisory practices processing 5\u201315 client invoices/month, manual reconciliation causes late financial reports. We provide automated reconciliation instead of manual spreadsheets and basic accounting software.",
+    "current_alternative": "manual spreadsheets and basic accounting software",
+    "must_have_features": [
+      "manual reconciliation tools",
+      "customizable reporting templates",
+      "user-friendly dashboard for tracking invoices"
+    ]
+  },
+  "one_liner": "For boutique financial advisory practices processing 5\u201315 client invoices/month, manual reconciliation causes late financial reports. We provide automated reconciliation instead of manual spreadsheets and basic accounting software.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

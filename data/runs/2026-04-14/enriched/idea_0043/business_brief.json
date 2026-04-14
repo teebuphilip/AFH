@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics fleet supervisors managing 5\u201315 vehicles tool",
+  "description": "For logistics fleet supervisors processing 5\u201315 vehicles/month, inconsistent tracking of vehicle maintenance costs causes budget overruns. We automate cost reporting instead of manual tracking using spreadsheets.",
+  "target_audience": "logistics fleet supervisors managing 5\u201315 vehicles",
+  "problem_solved": "Inconsistent tracking of vehicle maintenance costs leads to budget overruns.",
+  "features": [
+    "Monthly cost report generation",
+    "Manual entry for maintenance records",
+    "Cost summary visualization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics fleet supervisors managing 5\u201315 vehicles",
+    "primary_problem": "Inconsistent tracking of vehicle maintenance costs leads to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics fleet supervisors processing 5\u201315 vehicles/month, inconsistent tracking of vehicle maintenance costs causes budget overruns. We automate cost reporting instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking of maintenance costs using spreadsheets",
+    "must_have_features": [
+      "Monthly cost report generation",
+      "Manual entry for maintenance records",
+      "Cost summary visualization"
+    ]
+  },
+  "one_liner": "For logistics fleet supervisors processing 5\u201315 vehicles/month, inconsistent tracking of vehicle maintenance costs causes budget overruns. We automate cost reporting instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-14",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

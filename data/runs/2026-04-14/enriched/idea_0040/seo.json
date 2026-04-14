@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "restaurant kitchen managers inaccurate tool",
+    "restaurant kitchen managers inaccurate automation",
+    "inventory tracking",
+    "inventory workflow",
+    "restaurant kitchen managers processing 5 15 inventory reports week inaccurate tool",
+    "restaurant kitchen managers processing 5 15 inventory reports week inaccurate automation",
+    "restaurant kitchen managers processing 5 15 inventory reports week inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "inventory tracking software",
+    "inventory tracking platform",
+    "inventory tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to inventory tracking",
+    "best inventory tracking tool",
+    "inventory tracking vs spreadsheets",
+    "inventory tracking checklist",
+    "inventory tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For restaurant kitchen managers processing 5\u201315 inventory reports/week, inaccurate inventory tracking causes overstocking and waste. We provide automated weekly inventory usage reports instead of manual tracking and spreadsheets.",
+    "Inaccurate inventory tracking leads to overstocking and waste.",
+    "restaurant kitchen managers processing 5\u201315 inventory reports/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Inventory Tracking",
+      "target_keyword": "how to inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Inventory Tracking Tool",
+      "target_keyword": "best inventory tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Vs Spreadsheets",
+      "target_keyword": "inventory tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Checklist",
+      "target_keyword": "inventory tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Pricing",
+      "target_keyword": "inventory tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Software",
+      "target_keyword": "inventory tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Platform",
+      "target_keyword": "inventory tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Solution",
+      "target_keyword": "inventory tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking",
+      "target_keyword": "inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Workflow",
+      "target_keyword": "inventory workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Restaurant Kitchen Managers Processing 5 15 Inventory Reports Week Inaccurate Tool",
+      "target_keyword": "restaurant kitchen managers processing 5 15 inventory reports week inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Kitchen Managers Processing 5 15 Inventory Reports Week Inaccurate Automation",
+      "target_keyword": "restaurant kitchen managers processing 5 15 inventory reports week inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "restaurant kitchen managers inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "restaurant kitchen managers inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "restaurant kitchen managers inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "restaurant kitchen managers inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "restaurant kitchen managers inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | restaurant kitchen managers tool",
+      "restaurant kitchen managers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "restaurant kitchen managers tool helps with inaccurate inventory tracking leads to overstocking and waste."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 10-20 properties",
+  "offer": "For property managers handling 10-20 properties, inefficient scheduling causes missed inspections. We automate scheduling instead of manual scheduling via email or phone calls.",
+  "problem": "inefficient scheduling of routine property inspections",
+  "channels_free": [
+    "Post in Reddit communities for property management",
+    "Engage in Indie Hackers discussions about scheduling tools",
+    "DM outreach with demo video to property managers",
+    "Share insights in community forums for property managers"
+  ],
+  "try_it": "Let users try reminder notifications and manual scheduling for 3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for inspections",
+    "Enable CSV import for existing property data",
+    "Facilitate one-click exports of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

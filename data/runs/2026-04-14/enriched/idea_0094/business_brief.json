@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "specialty trade contractors processing 5\u201315 invoices/month tool",
+  "description": "For specialty trade contractors processing 5\u201315 invoices/month, poor project tracking causes cash flow gaps. We provide streamlined progress tracking instead of manual tracking via spreadsheets.",
+  "target_audience": "specialty trade contractors processing 5\u201315 invoices/month",
+  "problem_solved": "Inability to effectively track project progress and report accurately.",
+  "features": [
+    "manual entry of project milestones",
+    "simple reporting dashboard",
+    "email notifications for project updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "specialty trade contractors processing 5\u201315 invoices/month",
+    "primary_problem": "Inability to effectively track project progress and report accurately.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For specialty trade contractors processing 5\u201315 invoices/month, poor project tracking causes cash flow gaps. We provide streamlined progress tracking instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry of project milestones",
+      "simple reporting dashboard",
+      "email notifications for project updates"
+    ]
+  },
+  "one_liner": "For specialty trade contractors processing 5\u201315 invoices/month, poor project tracking causes cash flow gaps. We provide streamlined progress tracking instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

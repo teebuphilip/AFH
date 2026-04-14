@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "facilities coordinators in medical clinics processing 5\u201315 service requests/month tool",
+  "description": "For facilities coordinators in medical clinics processing 5\u201315 service requests/month, delayed maintenance scheduling causes equipment downtime. We automate scheduling and alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "facilities coordinators in medical clinics processing 5\u201315 service requests/month",
+  "problem_solved": "timely scheduling of equipment maintenance",
+  "features": [
+    "service scheduling",
+    "parts ordering",
+    "alert notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "facilities coordinators in medical clinics processing 5\u201315 service requests/month",
+    "primary_problem": "timely scheduling of equipment maintenance",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For facilities coordinators in medical clinics processing 5\u201315 service requests/month, delayed maintenance scheduling causes equipment downtime. We automate scheduling and alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "service scheduling",
+      "parts ordering",
+      "alert notifications"
+    ]
+  },
+  "one_liner": "For facilities coordinators in medical clinics processing 5\u201315 service requests/month, delayed maintenance scheduling causes equipment downtime. We automate scheduling and alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-14",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

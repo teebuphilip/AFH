@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inefficient vendor payment approval processes cause late payments. We automate the approval workflows instead of manual tracking and email approvals.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient vendor payment approval processes leading to delays.",
+  "features": [
+    "manual-first approval workflow setup",
+    "weekly status update notifications",
+    "basic reporting on payment statuses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient vendor payment approval processes leading to delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inefficient vendor payment approval processes cause late payments. We automate the approval workflows instead of manual tracking and email approvals.",
+    "current_alternative": "manual tracking and email approvals",
+    "must_have_features": [
+      "manual-first approval workflow setup",
+      "weekly status update notifications",
+      "basic reporting on payment statuses"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inefficient vendor payment approval processes cause late payments. We automate the approval workflows instead of manual tracking and email approvals.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-14",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

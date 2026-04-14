@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Restaurant managers in multi-unit hospitality groups processing 5\u201315 employee schedules/month tool",
+  "description": "For restaurant managers in multi-unit hospitality groups processing 5\u201315 employee schedules/month, inefficient scheduling causes understaffing and overstaffing. We provide a streamlined scheduling app instead of manual scheduling via spreadsheets or paper.",
+  "target_audience": "Restaurant managers in multi-unit hospitality groups processing 5\u201315 employee schedules/month",
+  "problem_solved": "Inefficient employee scheduling leading to understaffing and overstaffing.",
+  "features": [
+    "User-friendly interface for scheduling",
+    "Basic time tracking functionality",
+    "Notification system for schedule changes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Restaurant managers in multi-unit hospitality groups processing 5\u201315 employee schedules/month",
+    "primary_problem": "Inefficient employee scheduling leading to understaffing and overstaffing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers in multi-unit hospitality groups processing 5\u201315 employee schedules/month, inefficient scheduling causes understaffing and overstaffing. We provide a streamlined scheduling app instead of manual scheduling via spreadsheets or paper.",
+    "current_alternative": "Manual scheduling via spreadsheets or paper",
+    "must_have_features": [
+      "User-friendly interface for scheduling",
+      "Basic time tracking functionality",
+      "Notification system for schedule changes"
+    ]
+  },
+  "one_liner": "For restaurant managers in multi-unit hospitality groups processing 5\u201315 employee schedules/month, inefficient scheduling causes understaffing and overstaffing. We provide a streamlined scheduling app instead of manual scheduling via spreadsheets or paper.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

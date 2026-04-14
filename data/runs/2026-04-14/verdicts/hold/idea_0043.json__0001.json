@@ -1,0 +1,18 @@
+{
+  "idea_text": "Automation that generates monthly vehicle maintenance cost reports for logistics fleet supervisors.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-14T10:36:41.540532",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-14T10:36:41.578900",
+  "hold_reason": "arr_70_89"
+}

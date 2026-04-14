@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "freelancer accountants processing 5\u201315 invoices/month",
+  "offer": "For freelancer accountants processing 5\u201315 invoices/month, time-consuming tax preparation causes late submissions. We automate tax preparation instead of manual tax preparation and filing.",
+  "problem": "Time-consuming tax preparation and filing",
+  "channels_free": [
+    "Post in Reddit communities for freelancer accountants",
+    "Engage on Indie Hackers about similar workflows",
+    "DM 20-50 freelancer accountants with demo video",
+    "Join community forums for freelancer accountant tools"
+  ],
+  "try_it": "Let users try simple interface for data entry and reminders",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

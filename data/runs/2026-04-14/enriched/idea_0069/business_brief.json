@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement operations specialist managing 5\u201315 vendor contracts tool",
+  "description": "For procurement operations specialists processing 5\u201315 vendor contracts/month, inconsistent tracking causes missed compliance deadlines. We provide a centralized vendor management platform instead of manual spreadsheets and email communication.",
+  "target_audience": "procurement operations specialist managing 5\u201315 vendor contracts",
+  "problem_solved": "Difficulty in tracking vendor performance and compliance with contracts",
+  "features": [
+    "contract tracking",
+    "performance metrics dashboard",
+    "insurance documentation management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement operations specialist managing 5\u201315 vendor contracts",
+    "primary_problem": "Difficulty in tracking vendor performance and compliance with contracts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement operations specialists processing 5\u201315 vendor contracts/month, inconsistent tracking causes missed compliance deadlines. We provide a centralized vendor management platform instead of manual spreadsheets and email communication.",
+    "current_alternative": "manual spreadsheets and email communication",
+    "must_have_features": [
+      "contract tracking",
+      "performance metrics dashboard",
+      "insurance documentation management"
+    ]
+  },
+  "one_liner": "For procurement operations specialists processing 5\u201315 vendor contracts/month, inconsistent tracking causes missed compliance deadlines. We provide a centralized vendor management platform instead of manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "procurement operations specialist managing 5\u201315 vendor contracts",
+  "offer": "For procurement operations specialists processing 5\u201315 vendor contracts/month, inconsistent tracking causes missed compliance deadlines. We provide a centralized vendor management platform instead of manual spreadsheets and email communication.",
+  "problem": "Difficulty in tracking vendor performance and compliance with contracts",
+  "channels_free": [
+    "Post in Reddit communities for procurement operations specialists",
+    "Engage in Indie Hackers discussions on vendor management",
+    "DM outreach to procurement specialists with demo video",
+    "Join community forums for procurement tool recommendations"
+  ],
+  "try_it": "Let users try contract tracking and performance metrics dashboard on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a short demo video of the platform",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Create templates for common vendor inputs",
+    "Set default reminders for compliance checks",
+    "Allow CSV import for existing vendor data",
+    "Enable one-click export for performance reports",
+    "Streamline the onboarding process for new users"
+  ]
+}

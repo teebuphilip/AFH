@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small to medium-sized insurance agencies processing 10-50 claims/month tool",
+  "description": "For small to medium-sized insurance agencies processing 10-50 claims/month, inefficient claims processing causes delayed reimbursements. We automate claims processing instead of manual claims processing and reporting.",
+  "target_audience": "small to medium-sized insurance agencies processing 10-50 claims/month",
+  "problem_solved": "Inefficient claims processing and reporting",
+  "features": [
+    "user-friendly dashboard for claims tracking",
+    "basic claims status notifications",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small to medium-sized insurance agencies processing 10-50 claims/month",
+    "primary_problem": "Inefficient claims processing and reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small to medium-sized insurance agencies processing 10-50 claims/month, inefficient claims processing causes delayed reimbursements. We automate claims processing instead of manual claims processing and reporting.",
+    "current_alternative": "manual claims processing and reporting",
+    "must_have_features": [
+      "user-friendly dashboard for claims tracking",
+      "basic claims status notifications",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small to medium-sized insurance agencies processing 10-50 claims/month, inefficient claims processing causes delayed reimbursements. We automate claims processing instead of manual claims processing and reporting.",
+  "source": {
+    "idea_id": "idea_0077",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

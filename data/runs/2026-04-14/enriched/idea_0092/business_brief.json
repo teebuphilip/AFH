@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 rental properties tool",
+  "description": "For property managers handling 10-20 rental properties, inefficient tracking of maintenance requests causes delayed repairs. We provide a streamlined service request management tool instead of manual tracking via spreadsheets or emails.",
+  "target_audience": "property managers handling 10-20 rental properties",
+  "problem_solved": "inefficient tracking of maintenance requests",
+  "features": [
+    "simple request submission form",
+    "status tracking for maintenance requests",
+    "notification system for updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 rental properties",
+    "primary_problem": "inefficient tracking of maintenance requests",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 rental properties, inefficient tracking of maintenance requests causes delayed repairs. We provide a streamlined service request management tool instead of manual tracking via spreadsheets or emails.",
+    "current_alternative": "manual tracking via spreadsheets or emails",
+    "must_have_features": [
+      "simple request submission form",
+      "status tracking for maintenance requests",
+      "notification system for updates"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 rental properties, inefficient tracking of maintenance requests causes delayed repairs. We provide a streamlined service request management tool instead of manual tracking via spreadsheets or emails.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-14",
+    "overlay_score": 65,
+    "arr_score": 67
+  }
+}

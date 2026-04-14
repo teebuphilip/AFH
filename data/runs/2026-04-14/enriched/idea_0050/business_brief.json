@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "commercial property compliance officers managing 5\u201315 leases/month tool",
+  "description": "For commercial property compliance officers processing 5\u201315 leases/month, manual reporting causes late compliance submissions. We automate compliance reporting instead of manual reporting processes using spreadsheets.",
+  "target_audience": "commercial property compliance officers managing 5\u201315 leases/month",
+  "problem_solved": "Manual lease compliance reporting is time-consuming and prone to errors.",
+  "features": [
+    "user-friendly dashboard for compliance tracking",
+    "email notifications for compliance deadlines",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "commercial property compliance officers managing 5\u201315 leases/month",
+    "primary_problem": "Manual lease compliance reporting is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For commercial property compliance officers processing 5\u201315 leases/month, manual reporting causes late compliance submissions. We automate compliance reporting instead of manual reporting processes using spreadsheets.",
+    "current_alternative": "manual reporting processes using spreadsheets",
+    "must_have_features": [
+      "user-friendly dashboard for compliance tracking",
+      "email notifications for compliance deadlines",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For commercial property compliance officers processing 5\u201315 leases/month, manual reporting causes late compliance submissions. We automate compliance reporting instead of manual reporting processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-14",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

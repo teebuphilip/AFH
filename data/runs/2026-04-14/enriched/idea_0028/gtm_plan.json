@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors managing 5-15 projects simultaneously",
+  "offer": "For construction contractors managing 5-15 projects simultaneously, inefficient scheduling causes project delays. We automate equipment maintenance tracking instead of manual tracking via spreadsheets or paper logs.",
+  "problem": "Inefficient scheduling and tracking of equipment maintenance leading to project delays.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors seeking solutions",
+    "Indie Hackers discussions on similar workflow challenges",
+    "DM outreach to contractors with a demo video",
+    "Forums where contractors share project management tools"
+  ],
+  "try_it": "Let users try manual entry for maintenance logs and simple dashboard for tracking maintenance history on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with a clear CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 user interviews for feedback",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing maintenance data",
+    "One-click export of maintenance reports",
+    "Streamlined onboarding process"
+  ]
+}

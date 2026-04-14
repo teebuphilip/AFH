@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "facilities coordinators in medical clinics timely tool",
+    "facilities coordinators in medical clinics timely automation",
+    "facilities coordinators in medical clinics processing 5 15 service requests month timely tool",
+    "facilities coordinators in medical clinics processing 5 15 service requests month timely automation",
+    "facilities coordinators in medical clinics processing 5 15 service requests month timely workflow"
+  ],
+  "secondary_keywords": [
+    "facilities coordinators in medical clinics processing 5 15 service requests month timely tool software",
+    "facilities coordinators in medical clinics processing 5 15 service requests month timely tool platform",
+    "facilities coordinators in medical clinics processing 5 15 service requests month timely tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For facilities coordinators in medical clinics processing 5\u201315 service requests/month, delayed maintenance scheduling causes equipment downtime. We automate scheduling and alerts instead of manual tracking via spreadsheets.",
+    "timely scheduling of equipment maintenance",
+    "facilities coordinators in medical clinics processing 5\u201315 service requests/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Facilities Coordinators In Medical Clinics Processing 5 15 Service Requests Month Timely Tool Software",
+      "target_keyword": "facilities coordinators in medical clinics processing 5 15 service requests month timely tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Facilities Coordinators In Medical Clinics Processing 5 15 Service Requests Month Timely Tool Platform",
+      "target_keyword": "facilities coordinators in medical clinics processing 5 15 service requests month timely tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Facilities Coordinators In Medical Clinics Processing 5 15 Service Requests Month Timely Tool Solution",
+      "target_keyword": "facilities coordinators in medical clinics processing 5 15 service requests month timely tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Facilities Coordinators In Medical Clinics Processing 5 15 Service Requests Month Timely Tool",
+      "target_keyword": "facilities coordinators in medical clinics processing 5 15 service requests month timely tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Facilities Coordinators In Medical Clinics Processing 5 15 Service Requests Month Timely Automation",
+      "target_keyword": "facilities coordinators in medical clinics processing 5 15 service requests month timely automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Facilities Coordinators In Medical Clinics Processing 5 15 Service Requests Month Timely Workflow",
+      "target_keyword": "facilities coordinators in medical clinics processing 5 15 service requests month timely workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "facilities coordinators in medical clinics timely tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "facilities coordinators in medical clinics timely tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "facilities coordinators in medical clinics timely tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "facilities coordinators in medical clinics timely tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "facilities coordinators in medical clinics timely tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | facilities coordinators in medical clinics tool",
+      "facilities coordinators in medical clinics tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "facilities coordinators in medical clinics tool helps with timely scheduling of equipment maintenance."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

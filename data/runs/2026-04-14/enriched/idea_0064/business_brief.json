@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR payroll specialists in small to medium-sized accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR payroll specialists in small to medium-sized accounting firms processing 5\u201315 payrolls/month, inaccurate payroll tax calculations cause compliance risks and penalties. We provide a payroll tax calculator instead of manual calculations using spreadsheets.",
+  "target_audience": "HR payroll specialists in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Inaccurate payroll tax calculations leading to compliance risks and penalties.",
+  "features": [
+    "manual input for employee data",
+    "year-end filing generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR payroll specialists in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Inaccurate payroll tax calculations leading to compliance risks and penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR payroll specialists in small to medium-sized accounting firms processing 5\u201315 payrolls/month, inaccurate payroll tax calculations cause compliance risks and penalties. We provide a payroll tax calculator instead of manual calculations using spreadsheets.",
+    "current_alternative": "manual calculations using spreadsheets",
+    "must_have_features": [
+      "manual input for employee data",
+      "year-end filing generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR payroll specialists in small to medium-sized accounting firms processing 5\u201315 payrolls/month, inaccurate payroll tax calculations cause compliance risks and penalties. We provide a payroll tax calculator instead of manual calculations using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-14",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

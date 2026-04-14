@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 10\u201320 invoices/month tool",
+  "description": "For construction contractors processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+  "target_audience": "construction contractors processing 10\u201320 invoices/month",
+  "problem_solved": "Manual reconciliation of subcontractor invoices and time sheets is time-consuming and error-prone.",
+  "features": [
+    "invoice data entry",
+    "time sheet data entry",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 10\u201320 invoices/month",
+    "primary_problem": "Manual reconciliation of subcontractor invoices and time sheets is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "invoice data entry",
+      "time sheet data entry",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-14",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

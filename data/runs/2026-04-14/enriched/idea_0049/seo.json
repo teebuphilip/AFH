@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "field service coordinators in the construction industry managing equipment repairs month inefficient tool",
+    "field service coordinators in the construction industry managing equipment repairs month inefficient automation",
+    "we provide real",
+    "field service coordinators in the construction industry managing 5 15 equipment repairs month inefficient tool",
+    "field service coordinators in the construction industry managing 5 15 equipment repairs month inefficient automation",
+    "field service coordinators in the construction industry managing 5 15 equipment repairs month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "we provide real software",
+    "we provide real platform",
+    "we provide real solution"
+  ],
+  "long_tail_keywords": [
+    "how to we provide real",
+    "best we provide real tool",
+    "we provide real vs spreadsheets",
+    "we provide real checklist",
+    "we provide real pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For field service coordinators in the construction industry processing 5\u201315 equipment repairs/month, inefficient tracking causes delayed repairs. We provide real-time tracking instead of manual tracking via spreadsheets.",
+    "Inefficient tracking of equipment downtime leading to delayed repairs.",
+    "field service coordinators in the construction industry managing 5\u201315 equipment repairs/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Provide Real",
+      "target_keyword": "how to we provide real",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Provide Real Tool",
+      "target_keyword": "best we provide real tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Real Vs Spreadsheets",
+      "target_keyword": "we provide real vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Real Checklist",
+      "target_keyword": "we provide real checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Pricing",
+      "target_keyword": "we provide real pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Software",
+      "target_keyword": "we provide real software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Platform",
+      "target_keyword": "we provide real platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Solution",
+      "target_keyword": "we provide real solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real",
+      "target_keyword": "we provide real",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Field Service Coordinators In The Construction Industry Managing 5 15 Equipment Repairs Month Inefficient Tool",
+      "target_keyword": "field service coordinators in the construction industry managing 5 15 equipment repairs month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Field Service Coordinators In The Construction Industry Managing 5 15 Equipment Repairs Month Inefficient Automation",
+      "target_keyword": "field service coordinators in the construction industry managing 5 15 equipment repairs month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Field Service Coordinators In The Construction Industry Managing 5 15 Equipment Repairs Month Inefficient Workflow",
+      "target_keyword": "field service coordinators in the construction industry managing 5 15 equipment repairs month inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "field service coordinators in the construction industry managing equipment repairs month inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "field service coordinators in the construction industry managing equipment repairs month inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "field service coordinators in the construction industry managing equipment repairs month inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "field service coordinators in the construction industry managing equipment repairs month inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "field service coordinators in the construction industry managing equipment repairs month inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | field service coordinators in the construction industry managing equipment repairs month tool",
+      "field service coordinators in the construction industry managing equipment repairs month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "field service coordinators in the construction industry managing equipment repairs month tool helps with inefficient tracking of equipment downtime leading to delayed repairs."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

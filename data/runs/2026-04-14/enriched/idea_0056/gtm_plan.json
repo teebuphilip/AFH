@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "freelancers processing 5\u201315 invoices/month",
+  "offer": "For freelancers processing 5\u201315 invoices/month, inconsistent receipt management causes delayed payments. We automate receipt verification and categorization instead of manual tracking and submission of receipts.",
+  "problem": "Inconsistent receipt management and delayed invoice submissions.",
+  "channels_free": [
+    "Post in Reddit communities for freelancers seeking help",
+    "Indie Hackers discussions on similar challenges",
+    "DM outreach to 20-50 freelancers with a demo video",
+    "Community forums where freelancers share tools"
+  ],
+  "try_it": "Let users try receipt verification on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video showing the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedule presets",
+    "Enable CSV import for existing data",
+    "Provide one-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201320 loads/week tool",
+  "description": "For logistics carriers processing 10\u201320 loads/week, inefficient load optimization causes increased operational costs. We automate dispatch instead of manual load planning and dispatching.",
+  "target_audience": "logistics carriers processing 10\u201320 loads/week",
+  "problem_solved": "Inefficient load optimization leading to increased operational costs.",
+  "features": [
+    "manual load entry",
+    "basic reporting dashboard",
+    "load optimization suggestions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201320 loads/week",
+    "primary_problem": "Inefficient load optimization leading to increased operational costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201320 loads/week, inefficient load optimization causes increased operational costs. We automate dispatch instead of manual load planning and dispatching.",
+    "current_alternative": "manual load planning and dispatching",
+    "must_have_features": [
+      "manual load entry",
+      "basic reporting dashboard",
+      "load optimization suggestions"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201320 loads/week, inefficient load optimization causes increased operational costs. We automate dispatch instead of manual load planning and dispatching.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-14",
+    "overlay_score": 76,
+    "arr_score": 75
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales ops manager for a marketing agency processing 10-20 closed deals/month tool",
+  "description": "For sales ops managers in marketing agencies processing 10-20 closed deals/month, manual calculations cause delayed payouts. We automate commission calculations instead of manual spreadsheets and calculations.",
+  "target_audience": "sales ops manager for a marketing agency processing 10-20 closed deals/month",
+  "problem_solved": "Manual calculation of sales commissions leads to errors and delays in payouts.",
+  "features": [
+    "simple input form for closed deals",
+    "monthly report generation",
+    "error-checking for commission calculations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales ops manager for a marketing agency processing 10-20 closed deals/month",
+    "primary_problem": "Manual calculation of sales commissions leads to errors and delays in payouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales ops managers in marketing agencies processing 10-20 closed deals/month, manual calculations cause delayed payouts. We automate commission calculations instead of manual spreadsheets and calculations.",
+    "current_alternative": "manual spreadsheets and calculations",
+    "must_have_features": [
+      "simple input form for closed deals",
+      "monthly report generation",
+      "error-checking for commission calculations"
+    ]
+  },
+  "one_liner": "For sales ops managers in marketing agencies processing 10-20 closed deals/month, manual calculations cause delayed payouts. We automate commission calculations instead of manual spreadsheets and calculations.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-14",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

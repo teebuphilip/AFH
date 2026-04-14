@@ -1,0 +1,17 @@
+{
+  "idea_text": "Revenue forecasting tool that analyzes historical data and projects monthly/quarterly revenue for the finance planning analyst.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 69.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-14T10:36:41.542733",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-14T10:36:41.579192"
+}

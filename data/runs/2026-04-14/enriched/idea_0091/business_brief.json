@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "independent accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For independent accounting firms processing 5\u201315 invoices/month, manual invoice processing causes late payments. We automate accounts payable and receivable instead of manual tracking and processing of invoices.",
+  "target_audience": "independent accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "manual invoice processing leads to late payments",
+  "features": [
+    "manual invoice entry",
+    "basic reporting dashboard",
+    "email notifications for overdue invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "independent accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "manual invoice processing leads to late payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For independent accounting firms processing 5\u201315 invoices/month, manual invoice processing causes late payments. We automate accounts payable and receivable instead of manual tracking and processing of invoices.",
+    "current_alternative": "manual tracking and processing of invoices",
+    "must_have_features": [
+      "manual invoice entry",
+      "basic reporting dashboard",
+      "email notifications for overdue invoices"
+    ]
+  },
+  "one_liner": "For independent accounting firms processing 5\u201315 invoices/month, manual invoice processing causes late payments. We automate accounts payable and receivable instead of manual tracking and processing of invoices.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "System that prepares recurring trust account reconciliation reports for legal accounting specialists.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 55,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-14T10:36:41.540693",
+  "verdict_source": "overlay_score"
+}

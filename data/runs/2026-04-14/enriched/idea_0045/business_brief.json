@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "legal accounting specialists processing 5\u201315 trust account reconciliations/month tool",
+  "description": "For legal accounting specialists processing 5\u201315 trust account reconciliations/month, inefficient reconciliation processes cause compliance risks. We automate reporting instead of manual reconciliation using spreadsheets.",
+  "target_audience": "legal accounting specialists processing 5\u201315 trust account reconciliations/month",
+  "problem_solved": "Inefficient reconciliation processes lead to compliance risks and potential penalties.",
+  "features": [
+    "user-friendly interface for manual adjustments",
+    "export options for compliance documentation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "legal accounting specialists processing 5\u201315 trust account reconciliations/month",
+    "primary_problem": "Inefficient reconciliation processes lead to compliance risks and potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For legal accounting specialists processing 5\u201315 trust account reconciliations/month, inefficient reconciliation processes cause compliance risks. We automate reporting instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "user-friendly interface for manual adjustments",
+      "export options for compliance documentation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For legal accounting specialists processing 5\u201315 trust account reconciliations/month, inefficient reconciliation processes cause compliance risks. We automate reporting instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

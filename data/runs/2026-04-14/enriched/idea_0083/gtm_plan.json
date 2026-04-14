@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "boutique financial advisory practices processing 5\u201315 client invoices/month",
+  "offer": "For boutique financial advisory practices processing 5\u201315 client invoices/month, manual reconciliation causes late financial reports. We provide reconciliation instead of manual spreadsheets.",
+  "problem": "Inaccurate financial reporting due to manual reconciliation errors.",
+  "channels_free": [
+    "Post in Reddit communities for financial advisory help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to boutique financial advisory practices with demo video",
+    "Engage in community forums for financial advisory tools"
+  ],
+  "try_it": "Let users try manual reconciliation tools on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Reduce steps in onboarding"
+  ]
+}

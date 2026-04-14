@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR payroll teams in small to medium-sized accounting firms processing 5\u201315 employee benefit deductions/month tool",
+  "description": "For HR payroll teams in small to medium-sized accounting firms processing 5\u201315 employee benefit deductions/month, inaccurate tracking causes payroll discrepancies. We provide automated reconciliation reports instead of manual tracking through spreadsheets.",
+  "target_audience": "HR payroll teams in small to medium-sized accounting firms processing 5\u201315 employee benefit deductions/month",
+  "problem_solved": "Inaccurate tracking of employee benefit deductions leading to payroll discrepancies.",
+  "features": [
+    "Manual entry for employee benefit deductions",
+    "Monthly reconciliation report generation",
+    "User-friendly dashboard for tracking deductions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR payroll teams in small to medium-sized accounting firms processing 5\u201315 employee benefit deductions/month",
+    "primary_problem": "Inaccurate tracking of employee benefit deductions leading to payroll discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR payroll teams in small to medium-sized accounting firms processing 5\u201315 employee benefit deductions/month, inaccurate tracking causes payroll discrepancies. We provide automated reconciliation reports instead of manual tracking through spreadsheets.",
+    "current_alternative": "Manual tracking through spreadsheets",
+    "must_have_features": [
+      "Manual entry for employee benefit deductions",
+      "Monthly reconciliation report generation",
+      "User-friendly dashboard for tracking deductions"
+    ]
+  },
+  "one_liner": "For HR payroll teams in small to medium-sized accounting firms processing 5\u201315 employee benefit deductions/month, inaccurate tracking causes payroll discrepancies. We provide automated reconciliation reports instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-14",
+    "overlay_score": 78,
+    "arr_score": 81
+  }
+}

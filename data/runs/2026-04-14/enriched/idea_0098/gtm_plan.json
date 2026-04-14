@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small to medium-sized law firms processing 5\u201315 contracts/month",
+  "offer": "For small to medium-sized law firms processing 5\u201315 contracts/month, inefficient contract management causes missed deadlines. We provide a streamlined contract lifecycle management platform instead of manual tracking and spreadsheets.",
+  "problem": "Inefficient contract management leading to missed deadlines and compliance risks.",
+  "channels_free": [
+    "Post in Reddit communities for law firms seeking solutions",
+    "Engage in Indie Hackers discussions on contract management",
+    "DM outreach to law firms with demo video",
+    "Participate in forums for legal professionals sharing tools"
+  ],
+  "try_it": "Let users try contract template library and collaboration tools for team reviews on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with one-liner and CTA",
+    "Produce a short demo video of the platform",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminder schedules for tasks",
+    "Allow CSV import for existing contract data",
+    "Enable one-click export for reports",
+    "Streamline onboarding process for new users"
+  ]
+}

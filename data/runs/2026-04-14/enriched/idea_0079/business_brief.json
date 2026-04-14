@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "independent medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For independent medical clinics processing 10\u201320 invoices/month, manual billing causes delayed payments. We automate billing instead of manual billing and coding.",
+  "target_audience": "independent medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "manual billing processes lead to delayed payments",
+  "features": [
+    "manual entry for initial setup",
+    "basic reporting on billing status",
+    "user-friendly interface for tracking invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "independent medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "manual billing processes lead to delayed payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For independent medical clinics processing 10\u201320 invoices/month, manual billing causes delayed payments. We automate billing instead of manual billing and coding.",
+    "current_alternative": "manual billing and coding",
+    "must_have_features": [
+      "manual entry for initial setup",
+      "basic reporting on billing status",
+      "user-friendly interface for tracking invoices"
+    ]
+  },
+  "one_liner": "For independent medical clinics processing 10\u201320 invoices/month, manual billing causes delayed payments. We automate billing instead of manual billing and coding.",
+  "source": {
+    "idea_id": "idea_0079",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

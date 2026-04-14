@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties tool",
+  "description": "For property managers handling 10-20 properties, inefficient scheduling causes missed maintenance deadlines. We provide a cloud-based scheduling system instead of manual scheduling via spreadsheets and phone calls.",
+  "target_audience": "property managers handling 10-20 properties",
+  "problem_solved": "Inefficient scheduling of property inspections and maintenance tasks.",
+  "features": [
+    "manual scheduling interface",
+    "property inspection checklist",
+    "maintenance task reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties",
+    "primary_problem": "Inefficient scheduling of property inspections and maintenance tasks.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 properties, inefficient scheduling causes missed maintenance deadlines. We provide a cloud-based scheduling system instead of manual scheduling via spreadsheets and phone calls.",
+    "current_alternative": "manual scheduling via spreadsheets and phone calls",
+    "must_have_features": [
+      "manual scheduling interface",
+      "property inspection checklist",
+      "maintenance task reminders"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties, inefficient scheduling causes missed maintenance deadlines. We provide a cloud-based scheduling system instead of manual scheduling via spreadsheets and phone calls.",
+  "source": {
+    "idea_id": "idea_0076",
+    "run_date": "2026-04-14",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 commercial properties tool",
+  "description": "For property managers handling 5\u201315 commercial properties, late utility bill payments cause cash flow gaps. We provide automated monitoring instead of manual tracking of utility bills.",
+  "target_audience": "property managers handling 5\u201315 commercial properties",
+  "problem_solved": "Ensuring timely utility bill payments to avoid penalties.",
+  "features": [
+    "Monthly compliance report generation",
+    "Utility bill payment tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 commercial properties",
+    "primary_problem": "Ensuring timely utility bill payments to avoid penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 commercial properties, late utility bill payments cause cash flow gaps. We provide automated monitoring instead of manual tracking of utility bills.",
+    "current_alternative": "manual tracking of utility bills",
+    "must_have_features": [
+      "Monthly compliance report generation",
+      "Utility bill payment tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 commercial properties, late utility bill payments cause cash flow gaps. We provide automated monitoring instead of manual tracking of utility bills.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-14",
+    "overlay_score": 82,
+    "arr_score": 82
+  }
+}

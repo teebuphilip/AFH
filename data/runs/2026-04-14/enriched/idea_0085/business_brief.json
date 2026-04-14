@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "independent insurance adjusters processing 5\u201315 claims/month tool",
+  "description": "For independent insurance adjusters processing 5\u201315 claims/month, inefficient claims processing causes delayed settlements. We provide an analytics dashboard instead of manual tracking and spreadsheets.",
+  "target_audience": "independent insurance adjusters processing 5\u201315 claims/month",
+  "problem_solved": "Inefficient claims processing leads to delayed settlements.",
+  "features": [
+    "claims status tracking",
+    "analytics reporting",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "independent insurance adjusters processing 5\u201315 claims/month",
+    "primary_problem": "Inefficient claims processing leads to delayed settlements.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For independent insurance adjusters processing 5\u201315 claims/month, inefficient claims processing causes delayed settlements. We provide an analytics dashboard instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "claims status tracking",
+      "analytics reporting",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For independent insurance adjusters processing 5\u201315 claims/month, inefficient claims processing causes delayed settlements. We provide an analytics dashboard instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-14",
+    "overlay_score": 63,
+    "arr_score": 62
+  }
+}

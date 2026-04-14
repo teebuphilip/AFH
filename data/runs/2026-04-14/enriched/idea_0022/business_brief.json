@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Ops Admins for Shopify Plus stores processing 10\u201320 commission statements/week tool",
+  "description": "For Sales Ops Admins for Shopify Plus stores processing 10\u201320 commission statements/week, manual generation causes delays in payments. We automate the generation and emailing of statements instead of manual generation using spreadsheets.",
+  "target_audience": "Sales Ops Admins for Shopify Plus stores processing 10\u201320 commission statements/week",
+  "problem_solved": "Delays in generating and distributing sales commission statements",
+  "features": [
+    "Template-based statement generation",
+    "User-friendly dashboard for statement review",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Ops Admins for Shopify Plus stores processing 10\u201320 commission statements/week",
+    "primary_problem": "Delays in generating and distributing sales commission statements",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Ops Admins for Shopify Plus stores processing 10\u201320 commission statements/week, manual generation causes delays in payments. We automate the generation and emailing of statements instead of manual generation using spreadsheets.",
+    "current_alternative": "Manual generation of commission statements using spreadsheets",
+    "must_have_features": [
+      "Template-based statement generation",
+      "User-friendly dashboard for statement review",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Sales Ops Admins for Shopify Plus stores processing 10\u201320 commission statements/week, manual generation causes delays in payments. We automate the generation and emailing of statements instead of manual generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-14",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

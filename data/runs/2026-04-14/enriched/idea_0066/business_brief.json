@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 expense reports/month tool",
+  "description": "For freelancers processing 5\u201315 expense reports/month, inefficient tracking causes cash flow gaps. We automate expense reporting instead of manual spreadsheets or basic expense tracking apps.",
+  "target_audience": "freelancers processing 5\u201315 expense reports/month",
+  "problem_solved": "Inefficient expense tracking and reporting",
+  "features": [
+    "Receipt capture via photo",
+    "Expense categorization",
+    "Claim submission for approval"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 expense reports/month",
+    "primary_problem": "Inefficient expense tracking and reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 expense reports/month, inefficient tracking causes cash flow gaps. We automate expense reporting instead of manual spreadsheets or basic expense tracking apps.",
+    "current_alternative": "manual spreadsheets or basic expense tracking apps",
+    "must_have_features": [
+      "Receipt capture via photo",
+      "Expense categorization",
+      "Claim submission for approval"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 expense reports/month, inefficient tracking causes cash flow gaps. We automate expense reporting instead of manual spreadsheets or basic expense tracking apps.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-14",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

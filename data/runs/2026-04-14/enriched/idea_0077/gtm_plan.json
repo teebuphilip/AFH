@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small to medium-sized insurance agencies processing 10-50 claims/month",
+  "offer": "For small to medium-sized insurance agencies processing 10-50 claims/month, inefficient claims processing causes delayed reimbursements. We automate claims processing instead of manual claims processing and reporting.",
+  "problem": "Inefficient claims processing and reporting",
+  "channels_free": [
+    "Post in Reddit communities for insurance agencies",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "DM outreach to targeted insurance agencies with demo video",
+    "Participate in community forums for insurance tools"
+  ],
+  "try_it": "Let users try user-friendly dashboard for claims tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

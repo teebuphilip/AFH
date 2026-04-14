@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small medical clinics processing 10-20 invoices/month tool",
+  "description": "For small medical clinics processing 10-20 invoices/month, inefficient billing causes cash flow gaps. We provide a streamlined management system instead of manual scheduling and billing systems.",
+  "target_audience": "small medical clinics processing 10-20 invoices/month",
+  "problem_solved": "inefficient billing and scheduling processes",
+  "features": [
+    "patient scheduling interface",
+    "billing management tools",
+    "compliance tracking features"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small medical clinics processing 10-20 invoices/month",
+    "primary_problem": "inefficient billing and scheduling processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small medical clinics processing 10-20 invoices/month, inefficient billing causes cash flow gaps. We provide a streamlined management system instead of manual scheduling and billing systems.",
+    "current_alternative": "manual scheduling and billing systems",
+    "must_have_features": [
+      "patient scheduling interface",
+      "billing management tools",
+      "compliance tracking features"
+    ]
+  },
+  "one_liner": "For small medical clinics processing 10-20 invoices/month, inefficient billing causes cash flow gaps. We provide a streamlined management system instead of manual scheduling and billing systems.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

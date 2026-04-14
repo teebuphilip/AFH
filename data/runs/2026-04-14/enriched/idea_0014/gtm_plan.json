@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201320 invoices/month",
+  "offer": "For accounting firms processing 10\u201320 invoices/month, inaccurate expense reporting causes cash flow gaps. We reconcile credit card statements with receipts instead of manual reconciliation processes using spreadsheets.",
+  "problem": "Inaccurate expense reporting due to mismatched receipts and credit card statements.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers discussions on expense reporting",
+    "DM outreach to accounting firms with demo video",
+    "Engage in community forums for accounting tools"
+  ],
+  "try_it": "Let users manually enter receipts and receive mismatch alerts",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer onboarding for first 10 early-access users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for users",
+    "Enable CSV import for existing data",
+    "Provide one-click export for simple reports",
+    "Streamline onboarding process for new users"
+  ]
+}

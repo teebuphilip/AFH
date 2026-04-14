@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancer managing 5\u201315 projects/month tool",
+  "description": "For freelancer managing 5\u201315 projects/month, inaccurate hour tracking causes delayed payments. We automate timesheet submission instead of manual tracking via spreadsheets.",
+  "target_audience": "freelancer managing 5\u201315 projects/month",
+  "problem_solved": "Tracking hours accurately for multiple clients",
+  "features": [
+    "Manual entry of hours",
+    "Client-specific timesheet templates",
+    "Approval workflow for timesheets"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancer managing 5\u201315 projects/month",
+    "primary_problem": "Tracking hours accurately for multiple clients",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancer managing 5\u201315 projects/month, inaccurate hour tracking causes delayed payments. We automate timesheet submission instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "Manual entry of hours",
+      "Client-specific timesheet templates",
+      "Approval workflow for timesheets"
+    ]
+  },
+  "one_liner": "For freelancer managing 5\u201315 projects/month, inaccurate hour tracking causes delayed payments. We automate timesheet submission instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-14",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

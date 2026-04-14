@@ -1,0 +1,15 @@
+{
+  "idea_text": "Workforce analytics dashboard that tracks productivity metrics, attendance, and turnover for the operations manager.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 60,
+  "arr_score": 61,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-14T10:36:41.543855",
+  "verdict_source": "overlay_score"
+}

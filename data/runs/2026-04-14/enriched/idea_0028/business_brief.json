@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-15 projects simultaneously tool",
+  "description": "For construction contractors managing 5-15 projects simultaneously, inefficient scheduling causes project delays. We automate equipment maintenance tracking instead of manual tracking via spreadsheets or paper logs.",
+  "target_audience": "construction contractors managing 5-15 projects simultaneously",
+  "problem_solved": "Inefficient scheduling and tracking of equipment maintenance leading to project delays.",
+  "features": [
+    "manual entry for maintenance logs",
+    "simple dashboard for tracking maintenance history",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-15 projects simultaneously",
+    "primary_problem": "Inefficient scheduling and tracking of equipment maintenance leading to project delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5-15 projects simultaneously, inefficient scheduling causes project delays. We automate equipment maintenance tracking instead of manual tracking via spreadsheets or paper logs.",
+    "current_alternative": "manual tracking via spreadsheets or paper logs",
+    "must_have_features": [
+      "manual entry for maintenance logs",
+      "simple dashboard for tracking maintenance history",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-15 projects simultaneously, inefficient scheduling causes project delays. We automate equipment maintenance tracking instead of manual tracking via spreadsheets or paper logs.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-14",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

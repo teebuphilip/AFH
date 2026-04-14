@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant general managers managing 5-15 employees tool",
+  "description": "For restaurant general managers managing 5-15 employees, inaccurate labor cost reporting causes budget overruns. We automate weekly labor cost reports instead of manual labor cost calculations using spreadsheets.",
+  "target_audience": "restaurant general managers managing 5-15 employees",
+  "problem_solved": "Inaccurate labor cost reporting leading to budget overruns.",
+  "features": [
+    "manual data entry for employee hours",
+    "weekly report generation",
+    "basic cost analysis"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant general managers managing 5-15 employees",
+    "primary_problem": "Inaccurate labor cost reporting leading to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant general managers managing 5-15 employees, inaccurate labor cost reporting causes budget overruns. We automate weekly labor cost reports instead of manual labor cost calculations using spreadsheets.",
+    "current_alternative": "manual labor cost calculations using spreadsheets",
+    "must_have_features": [
+      "manual data entry for employee hours",
+      "weekly report generation",
+      "basic cost analysis"
+    ]
+  },
+  "one_liner": "For restaurant general managers managing 5-15 employees, inaccurate labor cost reporting causes budget overruns. We automate weekly labor cost reports instead of manual labor cost calculations using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

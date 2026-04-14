@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 rental properties tool",
+  "description": "For property managers handling 5\u201315 rental properties, inefficient lead management causes missed rental opportunities. We provide streamlined marketing and lead management software instead of manual tracking and spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 rental properties",
+  "problem_solved": "inefficient lead management and marketing processes",
+  "features": [
+    "lead tracking dashboard",
+    "property listing management",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 rental properties",
+    "primary_problem": "inefficient lead management and marketing processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 rental properties, inefficient lead management causes missed rental opportunities. We provide streamlined marketing and lead management software instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "lead tracking dashboard",
+      "property listing management",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 rental properties, inefficient lead management causes missed rental opportunities. We provide streamlined marketing and lead management software instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0100",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

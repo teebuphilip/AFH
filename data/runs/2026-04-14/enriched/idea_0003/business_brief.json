@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual data entry causes late financial reports. We automate expense report data extraction instead of manual data entry and spreadsheet management.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Manual data entry and report generation is time-consuming and error-prone.",
+  "features": [
+    "manual data entry interface",
+    "monthly summary generation",
+    "data export to CSV"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Manual data entry and report generation is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual data entry causes late financial reports. We automate expense report data extraction instead of manual data entry and spreadsheet management.",
+    "current_alternative": "manual data entry and spreadsheet management",
+    "must_have_features": [
+      "manual data entry interface",
+      "monthly summary generation",
+      "data export to CSV"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual data entry causes late financial reports. We automate expense report data extraction instead of manual data entry and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-14",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

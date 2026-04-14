@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201310 projects simultaneously tool",
+  "description": "For construction contractors managing 5\u201310 projects simultaneously, missed deadlines cause cash flow gaps. We provide a dedicated project management solution instead of manual spreadsheets and basic project management tools.",
+  "target_audience": "construction contractors managing 5\u201310 projects simultaneously",
+  "problem_solved": "Difficulty in tracking project deadlines and budgets effectively.",
+  "features": [
+    "deadline tracking",
+    "budget monitoring",
+    "compliance checklists"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201310 projects simultaneously",
+    "primary_problem": "Difficulty in tracking project deadlines and budgets effectively.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201310 projects simultaneously, missed deadlines cause cash flow gaps. We provide a dedicated project management solution instead of manual spreadsheets and basic project management tools.",
+    "current_alternative": "manual spreadsheets and basic project management tools",
+    "must_have_features": [
+      "deadline tracking",
+      "budget monitoring",
+      "compliance checklists"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201310 projects simultaneously, missed deadlines cause cash flow gaps. We provide a dedicated project management solution instead of manual spreadsheets and basic project management tools.",
+  "source": {
+    "idea_id": "idea_0078",
+    "run_date": "2026-04-14",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

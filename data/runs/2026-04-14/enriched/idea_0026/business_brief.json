@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 rent rolls/month tool",
+  "description": "For property managers processing 5\u201315 rent rolls/month, time-consuming manual report generation causes delays in financial reporting. We automate report generation instead of manual spreadsheet calculations.",
+  "target_audience": "property managers processing 5\u201315 rent rolls/month",
+  "problem_solved": "Time-consuming manual report generation",
+  "features": [
+    "template-based report generation",
+    "data input validation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 rent rolls/month",
+    "primary_problem": "Time-consuming manual report generation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 rent rolls/month, time-consuming manual report generation causes delays in financial reporting. We automate report generation instead of manual spreadsheet calculations.",
+    "current_alternative": "manual spreadsheet calculations",
+    "must_have_features": [
+      "template-based report generation",
+      "data input validation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 rent rolls/month, time-consuming manual report generation causes delays in financial reporting. We automate report generation instead of manual spreadsheet calculations.",
+  "source": {
+    "idea_id": "idea_0026",
+    "run_date": "2026-04-14",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

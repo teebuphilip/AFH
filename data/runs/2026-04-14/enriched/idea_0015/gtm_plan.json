@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201320 invoices/month",
+  "offer": "For accounting firms processing 10\u201320 invoices/month, inaccurate cash flow forecasts cause financial mismanagement. We automate weekly cash flow forecasts instead of manual cash flow tracking spreadsheets.",
+  "problem": "inaccurate cash flow forecasts leading to financial mismanagement",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Engage in Indie Hackers discussions on cash flow",
+    "DM outreach to accounting firms with demo video",
+    "Participate in forums for accounting tool recommendations"
+  ],
+  "try_it": "Let users try manual data entry for 1-3 invoices",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process steps"
+  ]
+}

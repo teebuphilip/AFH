@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant finance officers processing 10-20 invoices/week tool",
+  "description": "For restaurant finance officers processing 10-20 invoices/week, inaccurate sales tax submissions cause potential fines. We generate automated weekly sales tax reports instead of manual tracking and reporting using spreadsheets.",
+  "target_audience": "restaurant finance officers processing 10-20 invoices/week",
+  "problem_solved": "Inaccurate sales tax submissions leading to potential fines and cash flow issues.",
+  "features": [
+    "user-friendly dashboard",
+    "exportable report formats",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant finance officers processing 10-20 invoices/week",
+    "primary_problem": "Inaccurate sales tax submissions leading to potential fines and cash flow issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant finance officers processing 10-20 invoices/week, inaccurate sales tax submissions cause potential fines. We generate automated weekly sales tax reports instead of manual tracking and reporting using spreadsheets.",
+    "current_alternative": "manual tracking and reporting using spreadsheets",
+    "must_have_features": [
+      "user-friendly dashboard",
+      "exportable report formats",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant finance officers processing 10-20 invoices/week, inaccurate sales tax submissions cause potential fines. We generate automated weekly sales tax reports instead of manual tracking and reporting using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-14",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

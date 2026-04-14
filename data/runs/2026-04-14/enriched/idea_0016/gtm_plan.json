@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small to medium-sized accounting firms processing 5\u201315 overtime approvals/month",
+  "offer": "For HR managers in small to medium-sized accounting firms processing 5\u201315 overtime approvals/month, manual tracking causes compliance violations. We automate alerts instead of manual tracking.",
+  "problem": "Ensuring compliance with overtime policies and managing violations effectively.",
+  "channels_free": [
+    "Post in Reddit communities for HR managers seeking solutions",
+    "Engage in Indie Hackers discussions about similar workflows",
+    "DM outreach to HR managers with demo video links",
+    "Share insights in community forums for HR tools"
+  ],
+  "try_it": "Let users try Overtime approval tracking and dashboard for free",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy reuse",
+    "Set default reminder schedules for approvals",
+    "Allow CSV import for existing overtime data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

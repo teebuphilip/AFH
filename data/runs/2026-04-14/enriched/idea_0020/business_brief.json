@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients/month tool",
+  "description": "For accounting firms managing 5\u201315 clients/month, inefficient generation of depreciation schedules causes delayed reporting. We automate the generation of monthly depreciation schedules instead of manual calculations and spreadsheets.",
+  "target_audience": "accounting firms managing 5\u201315 clients/month",
+  "problem_solved": "Inefficient generation of depreciation schedules leads to delayed reporting.",
+  "features": [
+    "manual data entry for fixed assets",
+    "customizable report templates",
+    "monthly schedule generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients/month",
+    "primary_problem": "Inefficient generation of depreciation schedules leads to delayed reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients/month, inefficient generation of depreciation schedules causes delayed reporting. We automate the generation of monthly depreciation schedules instead of manual calculations and spreadsheets.",
+    "current_alternative": "manual calculations and spreadsheets",
+    "must_have_features": [
+      "manual data entry for fixed assets",
+      "customizable report templates",
+      "monthly schedule generation"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients/month, inefficient generation of depreciation schedules causes delayed reporting. We automate the generation of monthly depreciation schedules instead of manual calculations and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-14",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

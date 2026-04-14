@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-50 units tool",
+  "description": "For property managers handling 10-50 units, inefficient tenant move-in/out processes cause delays in tenant transitions. We automate checklist generation instead of manual checklists and paper work orders.",
+  "target_audience": "property managers handling 10-50 units",
+  "problem_solved": "Inefficient tenant move-in/out processes",
+  "features": [
+    "work order creation for building superintendent",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-50 units",
+    "primary_problem": "Inefficient tenant move-in/out processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-50 units, inefficient tenant move-in/out processes cause delays in tenant transitions. We automate checklist generation instead of manual checklists and paper work orders.",
+    "current_alternative": "manual checklists and paper work orders",
+    "must_have_features": [
+      "work order creation for building superintendent",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For property managers handling 10-50 units, inefficient tenant move-in/out processes cause delays in tenant transitions. We automate checklist generation instead of manual checklists and paper work orders.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

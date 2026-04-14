@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties tool",
+  "description": "For property managers handling 10-20 properties, inefficient scheduling causes missed inspections. We automate scheduling instead of manual scheduling via email or phone calls.",
+  "target_audience": "property managers handling 10-20 properties",
+  "problem_solved": "inefficient scheduling of routine property inspections",
+  "features": [
+    "reminder notifications for upcoming inspections",
+    "manual override for scheduling changes",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties",
+    "primary_problem": "inefficient scheduling of routine property inspections",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 properties, inefficient scheduling causes missed inspections. We automate scheduling instead of manual scheduling via email or phone calls.",
+    "current_alternative": "manual scheduling via email or phone calls",
+    "must_have_features": [
+      "reminder notifications for upcoming inspections",
+      "manual override for scheduling changes",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties, inefficient scheduling causes missed inspections. We automate scheduling instead of manual scheduling via email or phone calls.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

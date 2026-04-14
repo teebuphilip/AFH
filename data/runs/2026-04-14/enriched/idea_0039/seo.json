@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "insurance claims processors handling claims month manual tool",
+    "insurance claims processors handling claims month manual automation",
+    "billing workflow",
+    "claims tracking",
+    "payment reminders"
+  ],
+  "secondary_keywords": [
+    "billing workflow software",
+    "billing workflow platform",
+    "billing workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to billing workflow",
+    "best billing workflow tool",
+    "billing workflow vs spreadsheets",
+    "billing workflow checklist",
+    "billing workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For insurance claims processors handling 20\u201350 claims/month, manual reconciliation causes delayed payments and increased operational costs. We automate the reconciliation process instead of manual processing of claims adjustments and payment denials.",
+    "manual reconciliation of claims adjustments and payment denials",
+    "insurance claims processors handling 20\u201350 claims/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Billing Workflow",
+      "target_keyword": "how to billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Billing Workflow Tool",
+      "target_keyword": "best billing workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Vs Spreadsheets",
+      "target_keyword": "billing workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Checklist",
+      "target_keyword": "billing workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Pricing",
+      "target_keyword": "billing workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Software",
+      "target_keyword": "billing workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Platform",
+      "target_keyword": "billing workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Solution",
+      "target_keyword": "billing workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow",
+      "target_keyword": "billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Claims Tracking",
+      "target_keyword": "claims tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders",
+      "target_keyword": "payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "insurance claims processors handling claims month manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "insurance claims processors handling claims month manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "insurance claims processors handling claims month manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "insurance claims processors handling claims month manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "insurance claims processors handling claims month manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | insurance claims processors handling claims month tool",
+      "insurance claims processors handling claims month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "insurance claims processors handling claims month tool helps with manual reconciliation of claims adjustments and payment denials."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

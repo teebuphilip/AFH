@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 5\u201315 patient intakes/month tool",
+  "description": "For medical clinics processing 5\u201315 patient intakes/month, inefficient intake causes delayed patient care. We provide a streamlined electronic intake system instead of manual paper forms and spreadsheets.",
+  "target_audience": "medical clinics processing 5\u201315 patient intakes/month",
+  "problem_solved": "Inefficient patient intake process leading to delayed patient care.",
+  "features": [
+    "digital patient intake forms",
+    "secure data storage",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 5\u201315 patient intakes/month",
+    "primary_problem": "Inefficient patient intake process leading to delayed patient care.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 5\u201315 patient intakes/month, inefficient intake causes delayed patient care. We provide a streamlined electronic intake system instead of manual paper forms and spreadsheets.",
+    "current_alternative": "manual paper forms and spreadsheets",
+    "must_have_features": [
+      "digital patient intake forms",
+      "secure data storage",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For medical clinics processing 5\u201315 patient intakes/month, inefficient intake causes delayed patient care. We provide a streamlined electronic intake system instead of manual paper forms and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

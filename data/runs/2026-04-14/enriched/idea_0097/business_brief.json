@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "boutique hotel managers processing 5\u201315 guest check-ins/month tool",
+  "description": "For boutique hotel managers processing 5\u201315 guest check-ins/month, inefficient check-in processes cause delays and guest dissatisfaction. We automate check-in and housekeeping management instead of manual processes.",
+  "target_audience": "boutique hotel managers processing 5\u201315 guest check-ins/month",
+  "problem_solved": "Inefficient guest check-in and management processes",
+  "features": [
+    "digital housekeeping task assignments",
+    "review management dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "boutique hotel managers processing 5\u201315 guest check-ins/month",
+    "primary_problem": "Inefficient guest check-in and management processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For boutique hotel managers processing 5\u201315 guest check-ins/month, inefficient check-in processes cause delays and guest dissatisfaction. We automate check-in and housekeeping management instead of manual processes.",
+    "current_alternative": "manual check-in processes and paper-based management",
+    "must_have_features": [
+      "digital housekeeping task assignments",
+      "review management dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For boutique hotel managers processing 5\u201315 guest check-ins/month, inefficient check-in processes cause delays and guest dissatisfaction. We automate check-in and housekeeping management instead of manual processes.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-14",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate customized reminders instead of manual reminders via email.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Late payments from customers",
+  "features": [
+    "Customizable reminder templates",
+    "Scheduled reminder sending",
+    "Payment tracking dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Late payments from customers",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate customized reminders instead of manual reminders via email.",
+    "current_alternative": "Manual reminders via email",
+    "must_have_features": [
+      "Customizable reminder templates",
+      "Scheduled reminder sending",
+      "Payment tracking dashboard"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate customized reminders instead of manual reminders via email.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

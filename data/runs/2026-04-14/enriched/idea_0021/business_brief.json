@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 contracts/month tool",
+  "description": "For Amazon sellers processing 10\u201350 contracts/month, missed contract renewal deadlines cause supplier penalties. We automate reminders instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201350 contracts/month",
+  "problem_solved": "Missed contract renewal deadlines leading to penalties and disrupted supply chains.",
+  "features": [
+    "Simple contract date entry",
+    "Dashboard for upcoming renewals",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 contracts/month",
+    "primary_problem": "Missed contract renewal deadlines leading to penalties and disrupted supply chains.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 contracts/month, missed contract renewal deadlines cause supplier penalties. We automate reminders instead of manual tracking.",
+    "current_alternative": "Manual tracking of contract dates using spreadsheets or calendars.",
+    "must_have_features": [
+      "Simple contract date entry",
+      "Dashboard for upcoming renewals",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 contracts/month, missed contract renewal deadlines cause supplier penalties. We automate reminders instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

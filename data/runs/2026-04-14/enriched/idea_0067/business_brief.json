@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers managing 10\u201350 orders/month tool",
+  "description": "For Etsy sellers processing 10\u201350 orders/month, stock shortages cause late orders. We provide an inventory control dashboard instead of manual tracking and spreadsheets.",
+  "target_audience": "Etsy sellers managing 10\u201350 orders/month",
+  "problem_solved": "Inability to efficiently manage stock levels and generate timely purchase orders.",
+  "features": [
+    "Real-time stock level monitoring",
+    "Alert system for low stock",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers managing 10\u201350 orders/month",
+    "primary_problem": "Inability to efficiently manage stock levels and generate timely purchase orders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201350 orders/month, stock shortages cause late orders. We provide an inventory control dashboard instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "Real-time stock level monitoring",
+      "Alert system for low stock",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201350 orders/month, stock shortages cause late orders. We provide an inventory control dashboard instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

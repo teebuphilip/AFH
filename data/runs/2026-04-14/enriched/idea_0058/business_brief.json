@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201350 orders/month tool",
+  "description": "For Etsy sellers processing 10\u201350 orders/month, inconsistent stock levels cause late orders. We provide an inventory management system instead of manual tracking and spreadsheets.",
+  "target_audience": "Etsy sellers processing 10\u201350 orders/month",
+  "problem_solved": "Inconsistent stock levels lead to late orders and missed sales opportunities.",
+  "features": [
+    "Stock level tracking",
+    "Purchase order generation",
+    "Alert system for low stock"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201350 orders/month",
+    "primary_problem": "Inconsistent stock levels lead to late orders and missed sales opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201350 orders/month, inconsistent stock levels cause late orders. We provide an inventory management system instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "Stock level tracking",
+      "Purchase order generation",
+      "Alert system for low stock"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201350 orders/month, inconsistent stock levels cause late orders. We provide an inventory management system instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

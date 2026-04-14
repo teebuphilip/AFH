@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 5\u201315 premium audits/month tool",
+  "description": "For insurance brokers processing 5\u201315 premium audits/month, time-consuming manual preparation causes delayed client reporting. We automate report generation instead of manual report preparation using spreadsheets.",
+  "target_audience": "insurance brokers processing 5\u201315 premium audits/month",
+  "problem_solved": "Time-consuming manual preparation of audit reports",
+  "features": [
+    "template-based report generation",
+    "data import from spreadsheets",
+    "customizable report formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 5\u201315 premium audits/month",
+    "primary_problem": "Time-consuming manual preparation of audit reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 5\u201315 premium audits/month, time-consuming manual preparation causes delayed client reporting. We automate report generation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "data import from spreadsheets",
+      "customizable report formats"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 5\u201315 premium audits/month, time-consuming manual preparation causes delayed client reporting. We automate report generation instead of manual report preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-14",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "specialty subcontractors processing 5\u201315 bids/month tool",
+  "description": "For specialty subcontractors processing 5\u201315 bids/month, inaccurate estimations cause lost contracts. We provide a streamlined bidding tool instead of manual spreadsheets and email communication.",
+  "target_audience": "specialty subcontractors processing 5\u201315 bids/month",
+  "problem_solved": "Inaccurate bidding leading to lost contracts",
+  "features": [
+    "simple bid creation interface",
+    "cost estimation calculator",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "specialty subcontractors processing 5\u201315 bids/month",
+    "primary_problem": "Inaccurate bidding leading to lost contracts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For specialty subcontractors processing 5\u201315 bids/month, inaccurate estimations cause lost contracts. We provide a streamlined bidding tool instead of manual spreadsheets and email communication.",
+    "current_alternative": "manual spreadsheets and email communication",
+    "must_have_features": [
+      "simple bid creation interface",
+      "cost estimation calculator",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For specialty subcontractors processing 5\u201315 bids/month, inaccurate estimations cause lost contracts. We provide a streamlined bidding tool instead of manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

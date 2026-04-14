@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction foremen managing 5-10 job sites tool",
+  "description": "For construction foremen managing 5-10 job sites, inconsistent safety compliance causes potential legal penalties. We generate daily job site safety compliance checklists instead of manual checklist creation.",
+  "target_audience": "construction foremen managing 5-10 job sites",
+  "problem_solved": "Inconsistent safety compliance across job sites",
+  "features": [
+    "template-based checklist generation",
+    "manual entry for site-specific notes",
+    "daily reminder notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction foremen managing 5-10 job sites",
+    "primary_problem": "Inconsistent safety compliance across job sites",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction foremen managing 5-10 job sites, inconsistent safety compliance causes potential legal penalties. We generate daily job site safety compliance checklists instead of manual checklist creation.",
+    "current_alternative": "manual checklist creation",
+    "must_have_features": [
+      "template-based checklist generation",
+      "manual entry for site-specific notes",
+      "daily reminder notifications"
+    ]
+  },
+  "one_liner": "For construction foremen managing 5-10 job sites, inconsistent safety compliance causes potential legal penalties. We generate daily job site safety compliance checklists instead of manual checklist creation.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-14",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

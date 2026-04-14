@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized accounting firms processing 5\u201315 overtime approvals/month tool",
+  "description": "For HR managers in small to medium-sized accounting firms processing 5\u201315 overtime approvals/month, manual tracking causes compliance violations. We automate alerts instead of manual tracking.",
+  "target_audience": "HR managers in small to medium-sized accounting firms processing 5\u201315 overtime approvals/month",
+  "problem_solved": "Ensuring compliance with overtime policies and managing violations effectively.",
+  "features": [
+    "Overtime approval tracking",
+    "User-friendly dashboard for HR managers",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized accounting firms processing 5\u201315 overtime approvals/month",
+    "primary_problem": "Ensuring compliance with overtime policies and managing violations effectively.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR managers in small to medium-sized accounting firms processing 5\u201315 overtime approvals/month, manual tracking causes compliance violations. We automate alerts instead of manual tracking.",
+    "current_alternative": "Manual tracking of overtime approvals and policy checks.",
+    "must_have_features": [
+      "Overtime approval tracking",
+      "User-friendly dashboard for HR managers",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized accounting firms processing 5\u201315 overtime approvals/month, manual tracking causes compliance violations. We automate alerts instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics supervisors at freight carriers processing 10-20 invoices/month tool",
+  "description": "For logistics supervisors at freight carriers processing 10-20 invoices/month, discrepancies cause supplier penalties. We automate reconciliation instead of manual reconciliation of invoices and shipment records.",
+  "target_audience": "logistics supervisors at freight carriers processing 10-20 invoices/month",
+  "problem_solved": "Discrepancies between freight invoices and shipment records",
+  "features": [
+    "manual entry for invoice data",
+    "discrepancy alert notifications",
+    "report generation for reconciled invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics supervisors at freight carriers processing 10-20 invoices/month",
+    "primary_problem": "Discrepancies between freight invoices and shipment records",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics supervisors at freight carriers processing 10-20 invoices/month, discrepancies cause supplier penalties. We automate reconciliation instead of manual reconciliation of invoices and shipment records.",
+    "current_alternative": "manual reconciliation of invoices and shipment records",
+    "must_have_features": [
+      "manual entry for invoice data",
+      "discrepancy alert notifications",
+      "report generation for reconciled invoices"
+    ]
+  },
+  "one_liner": "For logistics supervisors at freight carriers processing 10-20 invoices/month, discrepancies cause supplier penalties. We automate reconciliation instead of manual reconciliation of invoices and shipment records.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

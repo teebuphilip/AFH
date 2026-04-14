@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, inconsistent receipt management causes delayed payments. We automate receipt verification and categorization instead of manual tracking and submission of receipts.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Inconsistent receipt management and delayed invoice submissions.",
+  "features": [
+    "receipt verification",
+    "charge categorization",
+    "report submission to finance team"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Inconsistent receipt management and delayed invoice submissions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, inconsistent receipt management causes delayed payments. We automate receipt verification and categorization instead of manual tracking and submission of receipts.",
+    "current_alternative": "manual tracking and submission of receipts",
+    "must_have_features": [
+      "receipt verification",
+      "charge categorization",
+      "report submission to finance team"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, inconsistent receipt management causes delayed payments. We automate receipt verification and categorization instead of manual tracking and submission of receipts.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-14",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

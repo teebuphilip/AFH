@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement supervisors in mid-sized retail companies using Shopify, processing 10-20 purchase orders/week tool",
+  "description": "For procurement supervisors in mid-sized retail companies using Shopify processing 10-20 invoices/week, frequent changes cause confusion and potential errors. We aggregate purchase order changes and email change logs instead of manual tracking via spreadsheets and emails.",
+  "target_audience": "procurement supervisors in mid-sized retail companies using Shopify, processing 10-20 purchase orders/week",
+  "problem_solved": "Frequent changes to purchase orders lead to confusion and potential errors in procurement.",
+  "features": [
+    "Weekly email summaries of purchase order changes",
+    "Manual entry option for changes not captured automatically",
+    "User-friendly dashboard for tracking changes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement supervisors in mid-sized retail companies using Shopify, processing 10-20 purchase orders/week",
+    "primary_problem": "Frequent changes to purchase orders lead to confusion and potential errors in procurement.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement supervisors in mid-sized retail companies using Shopify processing 10-20 invoices/week, frequent changes cause confusion and potential errors. We aggregate purchase order changes and email change logs instead of manual tracking via spreadsheets and emails.",
+    "current_alternative": "manual tracking of purchase order changes via spreadsheets and emails",
+    "must_have_features": [
+      "Weekly email summaries of purchase order changes",
+      "Manual entry option for changes not captured automatically",
+      "User-friendly dashboard for tracking changes"
+    ]
+  },
+  "one_liner": "For procurement supervisors in mid-sized retail companies using Shopify processing 10-20 invoices/week, frequent changes cause confusion and potential errors. We aggregate purchase order changes and email change logs instead of manual tracking via spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

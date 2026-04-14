@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 invoices/month tool",
+  "description": "For law firms processing 5\u201315 invoices/month, delayed reminders cause cash flow gaps. We automate overdue invoice reminders instead of manual tracking and reminders.",
+  "target_audience": "law firms processing 5\u201315 invoices/month",
+  "problem_solved": "Timely reminders for overdue invoices",
+  "features": [
+    "customizable reminder templates",
+    "manual reminder scheduling",
+    "invoice tracking dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 invoices/month",
+    "primary_problem": "Timely reminders for overdue invoices",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 invoices/month, delayed reminders cause cash flow gaps. We automate overdue invoice reminders instead of manual tracking and reminders.",
+    "current_alternative": "manual tracking and reminders",
+    "must_have_features": [
+      "customizable reminder templates",
+      "manual reminder scheduling",
+      "invoice tracking dashboard"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 invoices/month, delayed reminders cause cash flow gaps. We automate overdue invoice reminders instead of manual tracking and reminders.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

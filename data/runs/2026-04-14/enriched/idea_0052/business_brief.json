@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations managers in small accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR operations managers in small accounting firms processing 5\u201315 payrolls/month, payroll errors cause employee dissatisfaction and compliance issues. We provide automated error detection instead of manual payroll checks and audits.",
+  "target_audience": "HR operations managers in small accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Frequent payroll errors leading to employee dissatisfaction and compliance issues.",
+  "features": [
+    "Real-time timesheet monitoring",
+    "Tax calculation alerts",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations managers in small accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Frequent payroll errors leading to employee dissatisfaction and compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations managers in small accounting firms processing 5\u201315 payrolls/month, payroll errors cause employee dissatisfaction and compliance issues. We provide automated error detection instead of manual payroll checks and audits.",
+    "current_alternative": "Manual payroll checks and audits",
+    "must_have_features": [
+      "Real-time timesheet monitoring",
+      "Tax calculation alerts",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations managers in small accounting firms processing 5\u201315 payrolls/month, payroll errors cause employee dissatisfaction and compliance issues. We provide automated error detection instead of manual payroll checks and audits.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-14",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firm accountants processing 5\u201315 invoices/month",
+  "offer": "For law firm accountants processing 5\u201315 invoices/month, inefficient time log conversion causes delayed billing. We automate the formatting instead of manual formatting of billing statements.",
+  "problem": "Inefficient conversion of time logs into billing statements.",
+  "channels_free": [
+    "Post in Reddit communities for law firm accountants",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to law firm accountants with demo video",
+    "Community forums for law firm accountants sharing tools"
+  ],
+  "try_it": "Let users try manual entry and template selection for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Reduce steps in onboarding process"
+  ]
+}

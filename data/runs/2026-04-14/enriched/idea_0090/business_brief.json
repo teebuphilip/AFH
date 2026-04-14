@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "solo practitioners in law firms processing 5\u201315 cases/month tool",
+  "description": "For solo practitioners in law firms processing 5\u201315 cases/month, inefficient document management causes late filings. We provide a streamlined e-filing solution instead of manual filing and document storage systems.",
+  "target_audience": "solo practitioners in law firms processing 5\u201315 cases/month",
+  "problem_solved": "inefficient document management and e-filing processes",
+  "features": [
+    "searchable document repository",
+    "basic e-filing capabilities",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "solo practitioners in law firms processing 5\u201315 cases/month",
+    "primary_problem": "inefficient document management and e-filing processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For solo practitioners in law firms processing 5\u201315 cases/month, inefficient document management causes late filings. We provide a streamlined e-filing solution instead of manual filing and document storage systems.",
+    "current_alternative": "manual filing and document storage systems",
+    "must_have_features": [
+      "searchable document repository",
+      "basic e-filing capabilities",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For solo practitioners in law firms processing 5\u201315 cases/month, inefficient document management causes late filings. We provide a streamlined e-filing solution instead of manual filing and document storage systems.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firms processing 5\u201315 contracts/month tool",
+  "description": "For small law firms processing 5\u201315 contracts/month, inefficient document preparation causes compliance risks. We automate contract generation instead of manual document drafting and templates.",
+  "target_audience": "small law firms processing 5\u201315 contracts/month",
+  "problem_solved": "Inefficient contract generation and compliance management.",
+  "features": [
+    "template library for standard contracts",
+    "user-friendly document editor",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firms processing 5\u201315 contracts/month",
+    "primary_problem": "Inefficient contract generation and compliance management.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law firms processing 5\u201315 contracts/month, inefficient document preparation causes compliance risks. We automate contract generation instead of manual document drafting and templates.",
+    "current_alternative": "manual document drafting and templates",
+    "must_have_features": [
+      "template library for standard contracts",
+      "user-friendly document editor",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small law firms processing 5\u201315 contracts/month, inefficient document preparation causes compliance risks. We automate contract generation instead of manual document drafting and templates.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

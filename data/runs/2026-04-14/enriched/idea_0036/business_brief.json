@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations managers in logistics carriers managing 10-50 vehicles tool",
+  "description": "For fleet operations managers in logistics carriers processing 10-50 vehicles, inefficient fuel consumption tracking causes increased operational costs. We provide automated anomaly detection instead of manual tracking and reporting of fuel consumption.",
+  "target_audience": "fleet operations managers in logistics carriers managing 10-50 vehicles",
+  "problem_solved": "inefficient fuel consumption tracking leading to increased operational costs",
+  "features": [
+    "manual entry for fuel consumption data",
+    "basic reporting dashboard for anomalies",
+    "email alerts for significant fuel consumption changes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations managers in logistics carriers managing 10-50 vehicles",
+    "primary_problem": "inefficient fuel consumption tracking leading to increased operational costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operations managers in logistics carriers processing 10-50 vehicles, inefficient fuel consumption tracking causes increased operational costs. We provide automated anomaly detection instead of manual tracking and reporting of fuel consumption.",
+    "current_alternative": "manual tracking and reporting of fuel consumption",
+    "must_have_features": [
+      "manual entry for fuel consumption data",
+      "basic reporting dashboard for anomalies",
+      "email alerts for significant fuel consumption changes"
+    ]
+  },
+  "one_liner": "For fleet operations managers in logistics carriers processing 10-50 vehicles, inefficient fuel consumption tracking causes increased operational costs. We provide automated anomaly detection instead of manual tracking and reporting of fuel consumption.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-14",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

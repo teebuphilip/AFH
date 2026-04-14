@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics supervisors at freight carriers processing 10-20 invoices/month",
+  "offer": "For logistics supervisors at freight carriers processing 10-20 invoices/month, discrepancies cause supplier penalties. We automate reconciliation instead of manual reconciliation of invoices and shipment records.",
+  "problem": "Discrepancies between freight invoices and shipment records",
+  "channels_free": [
+    "Post in Reddit communities for logistics supervisors",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach with demo video to logistics supervisors",
+    "Community forums for sharing tools among supervisors"
+  ],
+  "try_it": "Let users try manual entry and receive alerts for 1-3 invoices",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set up reminder schedule presets",
+    "Enable CSV import for existing data",
+    "Allow one-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

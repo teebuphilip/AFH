@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "legal accounting specialists processing 5\u201315 trust account reconciliations/month",
+  "offer": "For legal accounting specialists processing 5\u201315 trust account reconciliations/month, inefficient reconciliation processes cause compliance risks. We automate reporting instead of manual reconciliation using spreadsheets.",
+  "problem": "Inefficient reconciliation processes lead to compliance risks and potential penalties.",
+  "channels_free": [
+    "Post in Reddit communities for legal accounting specialists",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to legal accounting specialists with demo video",
+    "Community forums for sharing tools among specialists"
+  ],
+  "try_it": "Let users try user-friendly interface for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

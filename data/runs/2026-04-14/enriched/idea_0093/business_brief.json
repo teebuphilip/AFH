@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "independent insurance brokers managing 5\u201315 policies/month tool",
+  "description": "For independent insurance brokers processing 5\u201315 policies/month, inefficient management causes missed renewal deadlines. We provide a streamlined policy management system instead of manual tracking through spreadsheets.",
+  "target_audience": "independent insurance brokers managing 5\u201315 policies/month",
+  "problem_solved": "Inefficient management of policy renewals leading to missed deadlines.",
+  "features": [
+    "policy tracking dashboard",
+    "manual entry for policy details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "independent insurance brokers managing 5\u201315 policies/month",
+    "primary_problem": "Inefficient management of policy renewals leading to missed deadlines.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For independent insurance brokers processing 5\u201315 policies/month, inefficient management causes missed renewal deadlines. We provide a streamlined policy management system instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "policy tracking dashboard",
+      "manual entry for policy details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For independent insurance brokers processing 5\u201315 policies/month, inefficient management causes missed renewal deadlines. We provide a streamlined policy management system instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-14",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "operations manager in a logistics company tracking productivity metrics for 50-100 employees tool",
+  "description": "For operations managers in a logistics company processing 50-100 employees, poor attendance tracking causes high turnover rates. We provide a workforce analytics dashboard instead of manual tracking through spreadsheets.",
+  "target_audience": "operations manager in a logistics company tracking productivity metrics for 50-100 employees",
+  "problem_solved": "Inability to effectively monitor employee productivity and attendance.",
+  "features": [
+    "real-time attendance tracking",
+    "productivity metrics visualization",
+    "turnover rate analysis"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "operations manager in a logistics company tracking productivity metrics for 50-100 employees",
+    "primary_problem": "Inability to effectively monitor employee productivity and attendance.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For operations managers in a logistics company processing 50-100 employees, poor attendance tracking causes high turnover rates. We provide a workforce analytics dashboard instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "real-time attendance tracking",
+      "productivity metrics visualization",
+      "turnover rate analysis"
+    ]
+  },
+  "one_liner": "For operations managers in a logistics company processing 50-100 employees, poor attendance tracking causes high turnover rates. We provide a workforce analytics dashboard instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-14",
+    "overlay_score": 60,
+    "arr_score": 61
+  }
+}

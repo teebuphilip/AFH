@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5-15 vehicles tool",
+  "description": "For logistics carriers managing 5-15 vehicles, non-compliance with inspection schedules causes operational delays. We provide automated alerts instead of manual tracking and reminders.",
+  "target_audience": "logistics carriers managing 5-15 vehicles",
+  "problem_solved": "Ensuring fleet vehicle inspection compliance",
+  "features": [
+    "Compliance status dashboard",
+    "Manual entry for inspection results",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5-15 vehicles",
+    "primary_problem": "Ensuring fleet vehicle inspection compliance",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For logistics carriers managing 5-15 vehicles, non-compliance with inspection schedules causes operational delays. We provide automated alerts instead of manual tracking and reminders.",
+    "current_alternative": "manual tracking and reminders",
+    "must_have_features": [
+      "Compliance status dashboard",
+      "Manual entry for inspection results",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5-15 vehicles, non-compliance with inspection schedules causes operational delays. We provide automated alerts instead of manual tracking and reminders.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

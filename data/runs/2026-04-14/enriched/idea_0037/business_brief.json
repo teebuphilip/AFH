@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm accountants processing 5\u201315 invoices/month tool",
+  "description": "For law firm accountants processing 5\u201315 invoices/month, inefficient time log conversion causes delayed billing. We automate the formatting instead of manual formatting of billing statements.",
+  "target_audience": "law firm accountants processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient conversion of time logs into billing statements.",
+  "features": [
+    "manual entry of time logs",
+    "template selection for billing statements",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm accountants processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient conversion of time logs into billing statements.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm accountants processing 5\u201315 invoices/month, inefficient time log conversion causes delayed billing. We automate the formatting instead of manual formatting of billing statements.",
+    "current_alternative": "manual formatting of billing statements",
+    "must_have_features": [
+      "manual entry of time logs",
+      "template selection for billing statements",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm accountants processing 5\u201315 invoices/month, inefficient time log conversion causes delayed billing. We automate the formatting instead of manual formatting of billing statements.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-14",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

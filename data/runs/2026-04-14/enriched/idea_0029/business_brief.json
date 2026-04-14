@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in small clinics processing 5\u201315 claims/month tool",
+  "description": "For medical billing specialists in small clinics processing 5\u201315 claims/month, manual coding causes delayed reimbursements. We automate the conversion of medical billing codes into insurance claim submissions instead of manual coding and submission processes.",
+  "target_audience": "medical billing specialists in small clinics processing 5\u201315 claims/month",
+  "problem_solved": "manual conversion of medical billing codes leads to errors and delays in claim submissions.",
+  "features": [
+    "user-friendly interface for code entry",
+    "error-checking for common coding mistakes",
+    "export functionality for claim submissions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in small clinics processing 5\u201315 claims/month",
+    "primary_problem": "manual conversion of medical billing codes leads to errors and delays in claim submissions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in small clinics processing 5\u201315 claims/month, manual coding causes delayed reimbursements. We automate the conversion of medical billing codes into insurance claim submissions instead of manual coding and submission processes.",
+    "current_alternative": "manual coding and submission processes",
+    "must_have_features": [
+      "user-friendly interface for code entry",
+      "error-checking for common coding mistakes",
+      "export functionality for claim submissions"
+    ]
+  },
+  "one_liner": "For medical billing specialists in small clinics processing 5\u201315 claims/month, manual coding causes delayed reimbursements. We automate the conversion of medical billing codes into insurance claim submissions instead of manual coding and submission processes.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-14",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

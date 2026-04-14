@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accountants managing 10\u201350 clients monthly tool",
+  "description": "For accountants managing 10\u201350 clients monthly, discrepancies between bank transactions and accounting entries cause cash flow gaps. We automatically match transactions instead of manual reconciliation processes.",
+  "target_audience": "accountants managing 10\u201350 clients monthly",
+  "problem_solved": "discrepancies between bank transactions and accounting entries",
+  "features": [
+    "manual transaction entry",
+    "discrepancy flagging",
+    "monthly reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accountants managing 10\u201350 clients monthly",
+    "primary_problem": "discrepancies between bank transactions and accounting entries",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accountants managing 10\u201350 clients monthly, discrepancies between bank transactions and accounting entries cause cash flow gaps. We automatically match transactions instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual transaction entry",
+      "discrepancy flagging",
+      "monthly reporting"
+    ]
+  },
+  "one_liner": "For accountants managing 10\u201350 clients monthly, discrepancies between bank transactions and accounting entries cause cash flow gaps. We automatically match transactions instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-14",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

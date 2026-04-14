@@ -1,0 +1,15 @@
+{
+  "idea_text": "System that monitors sales commissions data and alerts sales ops when target thresholds are missed or exceeded.",
+  "scores": {
+    "pricing_power": 50,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 62,
+  "arr_score": 60,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-14T10:36:41.537936",
+  "verdict_source": "overlay_score"
+}

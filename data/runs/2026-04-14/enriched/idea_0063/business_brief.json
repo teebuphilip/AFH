@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, inefficient tracking of depreciation causes late tax filings. We provide a fixed asset management system instead of manual spreadsheets and outdated accounting software.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Difficulty in tracking depreciation schedules and generating timely tax reports.",
+  "features": [
+    "manual entry of asset details",
+    "depreciation schedule tracking",
+    "tax report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Difficulty in tracking depreciation schedules and generating timely tax reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, inefficient tracking of depreciation causes late tax filings. We provide a fixed asset management system instead of manual spreadsheets and outdated accounting software.",
+    "current_alternative": "manual spreadsheets and outdated accounting software",
+    "must_have_features": [
+      "manual entry of asset details",
+      "depreciation schedule tracking",
+      "tax report generation"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, inefficient tracking of depreciation causes late tax filings. We provide a fixed asset management system instead of manual spreadsheets and outdated accounting software.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

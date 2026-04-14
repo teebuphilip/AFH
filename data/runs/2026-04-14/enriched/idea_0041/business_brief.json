@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, inadequate monitoring of compliance documentation causes project delays. We provide automated alerts instead of manual tracking of compliance documents.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Inadequate monitoring of contractor compliance documentation leads to project delays.",
+  "features": [
+    "alert system for missing documents",
+    "dashboard for compliance status overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Inadequate monitoring of contractor compliance documentation leads to project delays.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, inadequate monitoring of compliance documentation causes project delays. We provide automated alerts instead of manual tracking of compliance documents.",
+    "current_alternative": "manual tracking of compliance documents",
+    "must_have_features": [
+      "alert system for missing documents",
+      "dashboard for compliance status overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, inadequate monitoring of compliance documentation causes project delays. We provide automated alerts instead of manual tracking of compliance documents.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

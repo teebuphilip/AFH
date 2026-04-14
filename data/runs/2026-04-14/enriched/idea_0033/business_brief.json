@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality procurement officers processing 10\u201320 invoices/month tool",
+  "description": "For hospitality procurement officers processing 10\u201320 invoices/month, inaccurate reconciliation causes late payments and supplier penalties. We provide automated reconciliation instead of manual reconciliation processes.",
+  "target_audience": "hospitality procurement officers processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate reconciliation of supplier invoices and purchase orders",
+  "features": [
+    "invoice data entry",
+    "purchase order matching",
+    "error reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality procurement officers processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate reconciliation of supplier invoices and purchase orders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality procurement officers processing 10\u201320 invoices/month, inaccurate reconciliation causes late payments and supplier penalties. We provide automated reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "invoice data entry",
+      "purchase order matching",
+      "error reporting"
+    ]
+  },
+  "one_liner": "For hospitality procurement officers processing 10\u201320 invoices/month, inaccurate reconciliation causes late payments and supplier penalties. We provide automated reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0033",
+    "run_date": "2026-04-14",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

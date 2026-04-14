@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accountants managing 10\u201350 clients monthly",
+  "offer": "For accountants managing 10\u201350 clients monthly, discrepancies between bank transactions and accounting entries cause cash flow gaps. We automatically match transactions instead of manual reconciliation processes.",
+  "problem": "discrepancies between bank transactions and accounting entries",
+  "channels_free": [
+    "Post in Reddit communities for accountants seeking solutions",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "DM outreach to 20-50 accountants with demo video",
+    "Participate in forums where accountants share tools"
+  ],
+  "try_it": "Let users try manual transaction entry and flag discrepancies",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Develop a short demo video of manual workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

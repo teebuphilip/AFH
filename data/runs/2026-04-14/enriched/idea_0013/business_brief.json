@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 vendor tax forms/quarter tool",
+  "description": "For accounting firms processing 10\u201320 vendor tax forms/quarter, manual collection causes delays in tax submissions. We automate the collection and formatting instead of manual collection and formatting of tax forms.",
+  "target_audience": "accounting firms processing 10\u201320 vendor tax forms/quarter",
+  "problem_solved": "Manual collection and formatting of vendor tax forms is time-consuming and error-prone.",
+  "features": [
+    "template formatting options",
+    "quarterly reminder notifications",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 vendor tax forms/quarter",
+    "primary_problem": "Manual collection and formatting of vendor tax forms is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 vendor tax forms/quarter, manual collection causes delays in tax submissions. We automate the collection and formatting instead of manual collection and formatting of tax forms.",
+    "current_alternative": "manual collection and formatting of tax forms",
+    "must_have_features": [
+      "template formatting options",
+      "quarterly reminder notifications",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 vendor tax forms/quarter, manual collection causes delays in tax submissions. We automate the collection and formatting instead of manual collection and formatting of tax forms.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-14",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "operations manager in a logistics company tracking productivity metrics for 50-100 employees",
+  "offer": "For operations managers in a logistics company processing 50-100 employees, poor attendance tracking causes high turnover rates. We provide a workforce analytics dashboard instead of manual tracking through spreadsheets.",
+  "problem": "Inability to effectively monitor employee productivity and attendance.",
+  "channels_free": [
+    "Post in Reddit communities for operations managers seeking solutions",
+    "Indie Hackers posts discussing similar productivity challenges",
+    "DM outreach to operations managers with demo video links",
+    "Engage in community forums for sharing productivity tools"
+  ],
+  "try_it": "Let users explore real-time tracking on sample data",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a clear CTA",
+    "Produce a short demo video of the dashboard",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Create template options for frequent tasks",
+    "Set default reminders for tracking",
+    "Allow CSV imports for existing attendance data",
+    "Enable one-click report exports",
+    "Streamline onboarding process for new users"
+  ]
+}
