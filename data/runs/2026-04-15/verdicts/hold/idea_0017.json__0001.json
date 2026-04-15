@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that reconciles customer billing data with CRM records and flags inconsistencies for sales ops.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-15T10:32:12.053875",
+  "verdict_source": "overlay_score"
+}

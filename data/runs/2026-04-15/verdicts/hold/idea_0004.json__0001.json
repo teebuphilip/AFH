@@ -1,0 +1,18 @@
+{
+  "idea_text": "System that converts raw purchase order data into formatted compliance summaries for accounting teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-15T10:32:12.052032",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-15T10:32:12.111417",
+  "hold_reason": "arr_70_89"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, poor contract management causes missed discounts. We provide a vendor management platform instead of manual tracking through spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Difficulty in managing vendor contracts and performance metrics",
+  "features": [
+    "Contract tracking",
+    "Performance metrics dashboard",
+    "Insurance documentation management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Difficulty in managing vendor contracts and performance metrics",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, poor contract management causes missed discounts. We provide a vendor management platform instead of manual tracking through spreadsheets.",
+    "current_alternative": "Manual tracking through spreadsheets",
+    "must_have_features": [
+      "Contract tracking",
+      "Performance metrics dashboard",
+      "Insurance documentation management"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, poor contract management causes missed discounts. We provide a vendor management platform instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 66
+  }
+}

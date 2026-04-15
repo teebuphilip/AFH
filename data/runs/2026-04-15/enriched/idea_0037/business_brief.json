@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project accountants processing 5\u201315 invoices/month tool",
+  "description": "For construction project accountants processing 5\u201315 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+  "target_audience": "construction project accountants processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate reconciliation of vendor invoices and purchase orders.",
+  "features": [
+    "manual entry of invoices and purchase orders",
+    "basic reporting of discrepancies",
+    "user-friendly interface for data input"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project accountants processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate reconciliation of vendor invoices and purchase orders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project accountants processing 5\u201315 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry of invoices and purchase orders",
+      "basic reporting of discrepancies",
+      "user-friendly interface for data input"
+    ]
+  },
+  "one_liner": "For construction project accountants processing 5\u201315 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-15",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

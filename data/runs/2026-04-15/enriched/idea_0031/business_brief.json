@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant back office managers processing 20\u201350 invoices/month tool",
+  "description": "For restaurant back office managers processing 20\u201350 invoices/month, inefficient reporting causes inaccurate inventory management. We compile daily sales and inventory reports instead of manual spreadsheets and disparate systems.",
+  "target_audience": "restaurant back office managers processing 20\u201350 invoices/month",
+  "problem_solved": "Inefficient reporting processes lead to inaccurate inventory management.",
+  "features": [
+    "Daily sales report generation",
+    "Inventory tracking dashboard",
+    "Email notifications for low stock"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant back office managers processing 20\u201350 invoices/month",
+    "primary_problem": "Inefficient reporting processes lead to inaccurate inventory management.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back office managers processing 20\u201350 invoices/month, inefficient reporting causes inaccurate inventory management. We compile daily sales and inventory reports instead of manual spreadsheets and disparate systems.",
+    "current_alternative": "manual spreadsheets and disparate systems",
+    "must_have_features": [
+      "Daily sales report generation",
+      "Inventory tracking dashboard",
+      "Email notifications for low stock"
+    ]
+  },
+  "one_liner": "For restaurant back office managers processing 20\u201350 invoices/month, inefficient reporting causes inaccurate inventory management. We compile daily sales and inventory reports instead of manual spreadsheets and disparate systems.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-15",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firms inaccurate tool",
+    "accounting firms inaccurate automation",
+    "payment reminders",
+    "accounting firms processing 5 15 asset depreciation schedules month inaccurate tool",
+    "accounting firms processing 5 15 asset depreciation schedules month inaccurate automation",
+    "accounting firms processing 5 15 asset depreciation schedules month inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "payment reminders software",
+    "payment reminders platform",
+    "payment reminders solution"
+  ],
+  "long_tail_keywords": [
+    "how to payment reminders",
+    "best payment reminders tool",
+    "payment reminders vs spreadsheets",
+    "payment reminders checklist",
+    "payment reminders pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firms processing 5\u201315 asset depreciation schedules/month, manual calculations cause compliance issues. We generate accurate schedules instead of manual calculations using spreadsheets.",
+    "Inaccurate or delayed depreciation schedules can lead to compliance issues and client dissatisfaction.",
+    "accounting firms processing 5\u201315 asset depreciation schedules/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Payment Reminders",
+      "target_keyword": "how to payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Payment Reminders Tool",
+      "target_keyword": "best payment reminders tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Payment Reminders Vs Spreadsheets",
+      "target_keyword": "payment reminders vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Payment Reminders Checklist",
+      "target_keyword": "payment reminders checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Pricing",
+      "target_keyword": "payment reminders pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Software",
+      "target_keyword": "payment reminders software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Platform",
+      "target_keyword": "payment reminders platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Solution",
+      "target_keyword": "payment reminders solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders",
+      "target_keyword": "payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accounting Firms Processing 5 15 Asset Depreciation Schedules Month Inaccurate Tool",
+      "target_keyword": "accounting firms processing 5 15 asset depreciation schedules month inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 5 15 Asset Depreciation Schedules Month Inaccurate Automation",
+      "target_keyword": "accounting firms processing 5 15 asset depreciation schedules month inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 5 15 Asset Depreciation Schedules Month Inaccurate Workflow",
+      "target_keyword": "accounting firms processing 5 15 asset depreciation schedules month inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firms inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firms inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firms inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firms inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firms inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firms tool",
+      "accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firms tool helps with inaccurate or delayed depreciation schedules can lead to compliance issues and client dissatisfaction."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

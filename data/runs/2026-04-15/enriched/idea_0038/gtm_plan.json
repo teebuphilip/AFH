@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant finance managers processing 10-20 invoices/month",
+  "offer": "For restaurant finance managers processing 10-20 invoices/month, inaccurate cash flow tracking causes cash flow gaps. We provide daily cash flow summaries instead of manual spreadsheets and outdated accounting software.",
+  "problem": "inability to track daily cash flow accurately",
+  "channels_free": [
+    "Post in Reddit communities for restaurant finance managers",
+    "Indie Hackers posts on relevant workflows",
+    "DM outreach to restaurant finance managers with demo video",
+    "Community forums for sharing finance tools"
+  ],
+  "try_it": "Let users try manual entry for cash flow data and summaries",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing cash flow data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

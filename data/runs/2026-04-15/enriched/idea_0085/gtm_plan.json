@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firms processing 10-50 legal documents/month",
+  "offer": "For law firms processing 10-50 legal documents/month, inefficient document retrieval causes delays in case preparation. We convert legal documents into searchable digital archives instead of manual filing and searching through physical documents.",
+  "problem": "Inefficient document retrieval and management.",
+  "channels_free": [
+    "Post in Reddit communities for legal document help",
+    "Indie Hackers discussions on document management",
+    "DM outreach to law firms with demo video",
+    "Community forums for law firms sharing resources"
+  ],
+  "try_it": "Let users try document scanning on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing documents",
+    "Enable one-click report exports",
+    "Streamline onboarding process steps"
+  ]
+}

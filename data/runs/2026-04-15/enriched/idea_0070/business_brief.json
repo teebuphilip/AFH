@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201350 orders/month tool",
+  "description": "For Shopify store owners processing 10\u201350 orders/month, inaccurate sales forecasts cause overstock and stockouts. We provide actionable insights instead of manual spreadsheets and basic analytics tools.",
+  "target_audience": "Shopify store owners processing 10\u201350 orders/month",
+  "problem_solved": "Inaccurate sales forecasts leading to overstock and stockouts.",
+  "features": [
+    "Sales trend visualization",
+    "Basic forecasting model",
+    "Inventory alert system"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201350 orders/month",
+    "primary_problem": "Inaccurate sales forecasts leading to overstock and stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201350 orders/month, inaccurate sales forecasts cause overstock and stockouts. We provide actionable insights instead of manual spreadsheets and basic analytics tools.",
+    "current_alternative": "Manual spreadsheets and basic analytics tools",
+    "must_have_features": [
+      "Sales trend visualization",
+      "Basic forecasting model",
+      "Inventory alert system"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201350 orders/month, inaccurate sales forecasts cause overstock and stockouts. We provide actionable insights instead of manual spreadsheets and basic analytics tools.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-15",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

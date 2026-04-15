@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10-20 invoices/month tool",
+  "description": "For property managers processing 10-20 invoices/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "property managers processing 10-20 invoices/month",
+  "problem_solved": "Difficulty in generating compliance documents from financial data.",
+  "features": [
+    "template-based report generation",
+    "data import from spreadsheets",
+    "customizable compliance document formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10-20 invoices/month",
+    "primary_problem": "Difficulty in generating compliance documents from financial data.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 invoices/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "data import from spreadsheets",
+      "customizable compliance document formats"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 invoices/month, manual report generation causes late compliance submissions. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-15",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

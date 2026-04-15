@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "paralegals in law firms processing 5\u201315 legal briefs per month tool",
+  "description": "For paralegals in law firms processing 5\u201315 legal briefs per month, manual research causes delays in case preparation. We provide automated summaries instead of manual research and drafting.",
+  "target_audience": "paralegals in law firms processing 5\u201315 legal briefs per month",
+  "problem_solved": "Time-consuming legal research and brief generation",
+  "features": [
+    "case law summarization",
+    "brief generation templates",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "paralegals in law firms processing 5\u201315 legal briefs per month",
+    "primary_problem": "Time-consuming legal research and brief generation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For paralegals in law firms processing 5\u201315 legal briefs per month, manual research causes delays in case preparation. We provide automated summaries instead of manual research and drafting.",
+    "current_alternative": "manual research and drafting",
+    "must_have_features": [
+      "case law summarization",
+      "brief generation templates",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For paralegals in law firms processing 5\u201315 legal briefs per month, manual research causes delays in case preparation. We provide automated summaries instead of manual research and drafting.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

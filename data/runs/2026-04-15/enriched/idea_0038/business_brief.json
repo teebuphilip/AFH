@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant finance managers processing 10-20 invoices/month tool",
+  "description": "For restaurant finance managers processing 10-20 invoices/month, inaccurate cash flow tracking causes cash flow gaps. We provide daily cash flow summaries instead of manual spreadsheets and outdated accounting software.",
+  "target_audience": "restaurant finance managers processing 10-20 invoices/month",
+  "problem_solved": "inability to track daily cash flow accurately",
+  "features": [
+    "manual entry for daily cash flow data",
+    "summary generation for quick insights",
+    "export options for reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant finance managers processing 10-20 invoices/month",
+    "primary_problem": "inability to track daily cash flow accurately",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant finance managers processing 10-20 invoices/month, inaccurate cash flow tracking causes cash flow gaps. We provide daily cash flow summaries instead of manual spreadsheets and outdated accounting software.",
+    "current_alternative": "manual spreadsheets and outdated accounting software",
+    "must_have_features": [
+      "manual entry for daily cash flow data",
+      "summary generation for quick insights",
+      "export options for reporting"
+    ]
+  },
+  "one_liner": "For restaurant finance managers processing 10-20 invoices/month, inaccurate cash flow tracking causes cash flow gaps. We provide daily cash flow summaries instead of manual spreadsheets and outdated accounting software.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

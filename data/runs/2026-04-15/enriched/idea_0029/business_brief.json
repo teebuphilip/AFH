@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists processing 5\u201315 invoices/month tool",
+  "description": "For medical billing specialists processing 5\u201315 invoices/month, inefficient manual billing causes cash flow gaps. We automate billing submissions instead of manual data entry into billing systems.",
+  "target_audience": "medical billing specialists processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient manual billing processes",
+  "features": [
+    "manual data entry support",
+    "appointment data extraction",
+    "billing submission tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient manual billing processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists processing 5\u201315 invoices/month, inefficient manual billing causes cash flow gaps. We automate billing submissions instead of manual data entry into billing systems.",
+    "current_alternative": "manual data entry into billing systems",
+    "must_have_features": [
+      "manual data entry support",
+      "appointment data extraction",
+      "billing submission tracking"
+    ]
+  },
+  "one_liner": "For medical billing specialists processing 5\u201315 invoices/month, inefficient manual billing causes cash flow gaps. We automate billing submissions instead of manual data entry into billing systems.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

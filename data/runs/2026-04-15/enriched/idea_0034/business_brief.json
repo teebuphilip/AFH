@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 10\u201320 invoices/month tool",
+  "description": "For law firms processing 10\u201320 invoices/month, inaccurate billing records cause delayed payments. We provide automated extraction and formatting instead of manual entry and formatting in spreadsheets.",
+  "target_audience": "law firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate and poorly formatted legal billing records",
+  "features": [
+    "manual data entry interface",
+    "basic formatting options",
+    "invoice preview before finalization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate and poorly formatted legal billing records",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 10\u201320 invoices/month, inaccurate billing records cause delayed payments. We provide automated extraction and formatting instead of manual entry and formatting in spreadsheets.",
+    "current_alternative": "manual entry and formatting in spreadsheets",
+    "must_have_features": [
+      "manual data entry interface",
+      "basic formatting options",
+      "invoice preview before finalization"
+    ]
+  },
+  "one_liner": "For law firms processing 10\u201320 invoices/month, inaccurate billing records cause delayed payments. We provide automated extraction and formatting instead of manual entry and formatting in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

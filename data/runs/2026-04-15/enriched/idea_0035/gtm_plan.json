@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Fleet Compliance Officers managing 20-50 vehicles",
+  "offer": "For Fleet Compliance Officers managing 20-50 vehicles, inefficient tracking of inspection compliance causes potential fines and operational delays. We provide automated compliance reporting instead of manual tracking through spreadsheets and paper records.",
+  "problem": "Difficulty in tracking vehicle inspection compliance",
+  "channels_free": [
+    "Post in Reddit communities for Fleet Compliance Officers",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach with demo video to target users",
+    "Community forums for sharing compliance tools"
+  ],
+  "try_it": "Let users try Manual entry and Basic reporting dashboard",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with clear CTA",
+    "Short demo video of manual workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing records",
+    "One-click export of compliance report",
+    "Streamline onboarding process"
+  ]
+}

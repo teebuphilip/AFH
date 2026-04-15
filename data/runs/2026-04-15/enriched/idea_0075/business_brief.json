@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For medical clinics processing 10\u201320 invoices/month, billing discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate billing due to mismatched patient records.",
+  "features": [
+    "manual data entry for patient records",
+    "basic reporting of mismatched records",
+    "user-friendly interface for manual adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate billing due to mismatched patient records.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10\u201320 invoices/month, billing discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual data entry for patient records",
+      "basic reporting of mismatched records",
+      "user-friendly interface for manual adjustments"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10\u201320 invoices/month, billing discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 10-20 properties",
+  "offer": "For property managers handling 10-20 properties, inconsistent maintenance tracking causes compliance issues. We provide compliance monitoring instead of manual tracking of maintenance schedules.",
+  "problem": "Inconsistent property maintenance can lead to compliance issues and potential fines.",
+  "channels_free": [
+    "Post in Reddit communities where property managers seek advice",
+    "Indie Hackers posts discussing similar workflows",
+    "DM outreach to property managers with demo video",
+    "Community forums where property managers share tools"
+  ],
+  "try_it": "Let users try manual entry of maintenance schedules on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing maintenance data",
+    "One-click export of compliance report",
+    "Fewer steps in user onboarding"
+  ]
+}

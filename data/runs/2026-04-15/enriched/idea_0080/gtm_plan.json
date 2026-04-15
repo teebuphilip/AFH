@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance adjusters processing 10\u201320 claims/month",
+  "offer": "For insurance adjusters processing 10\u201320 claims/month, manual reviews cause delays in claims approval. We automate the review process instead of manual review of claims.",
+  "problem": "delays in claims processing",
+  "channels_free": [
+    "Post in Reddit communities for insurance adjusters",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to insurance adjusters with demo video",
+    "Community forums for sharing tools among adjusters"
+  ],
+  "try_it": "Let users try user-friendly dashboard for claim tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

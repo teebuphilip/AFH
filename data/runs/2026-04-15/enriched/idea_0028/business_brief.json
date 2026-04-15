@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-10 projects simultaneously tool",
+  "description": "For construction contractors managing 5-10 projects simultaneously, inconsistent equipment maintenance causes project delays. We provide a scheduling system instead of manual tracking via spreadsheets.",
+  "target_audience": "construction contractors managing 5-10 projects simultaneously",
+  "problem_solved": "Inconsistent equipment maintenance leads to project delays.",
+  "features": [
+    "manual entry of maintenance logs",
+    "simple dashboard for tracking equipment status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-10 projects simultaneously",
+    "primary_problem": "Inconsistent equipment maintenance leads to project delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5-10 projects simultaneously, inconsistent equipment maintenance causes project delays. We provide a scheduling system instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry of maintenance logs",
+      "simple dashboard for tracking equipment status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-10 projects simultaneously, inconsistent equipment maintenance causes project delays. We provide a scheduling system instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-15",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

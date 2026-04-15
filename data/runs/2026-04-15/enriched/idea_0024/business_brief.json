@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 asset depreciation schedules/month tool",
+  "description": "For accounting firms processing 5\u201315 asset depreciation schedules/month, manual calculations cause compliance issues. We generate accurate schedules instead of manual calculations using spreadsheets.",
+  "target_audience": "accounting firms processing 5\u201315 asset depreciation schedules/month",
+  "problem_solved": "Inaccurate or delayed depreciation schedules can lead to compliance issues and client dissatisfaction.",
+  "features": [
+    "manual entry of asset data",
+    "monthly schedule generation",
+    "export to CSV format"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 asset depreciation schedules/month",
+    "primary_problem": "Inaccurate or delayed depreciation schedules can lead to compliance issues and client dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 asset depreciation schedules/month, manual calculations cause compliance issues. We generate accurate schedules instead of manual calculations using spreadsheets.",
+    "current_alternative": "manual calculations using spreadsheets",
+    "must_have_features": [
+      "manual entry of asset data",
+      "monthly schedule generation",
+      "export to CSV format"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 asset depreciation schedules/month, manual calculations cause compliance issues. We generate accurate schedules instead of manual calculations using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-15",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

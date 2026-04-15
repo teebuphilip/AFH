@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Sales Ops Managers in Marketing Agencies processing 10\u201320 commission reports/week",
+  "offer": "For Sales Ops Managers in Marketing Agencies processing 10\u201320 commission reports/week, manual calculations cause delays in payments. We automate commission calculations instead of manual calculations using spreadsheets.",
+  "problem": "Inaccurate or delayed commission calculations lead to employee dissatisfaction and potential turnover.",
+  "channels_free": [
+    "Post in Reddit communities for Sales Ops Managers",
+    "Indie Hackers posts discussing similar workflows",
+    "DM outreach to Sales Ops Managers with demo video",
+    "Community forums where Sales Ops Managers share tools"
+  ],
+  "try_it": "Let users try Weekly report generation and User-friendly dashboard",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Reduce steps in onboarding process"
+  ]
+}

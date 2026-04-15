@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR finance managers in mid-sized accounting firms processing 10-20 labor cost reports weekly tool",
+  "description": "For HR finance managers in mid-sized accounting firms processing 10-20 labor cost reports weekly, inconsistent reporting causes cash flow gaps. We automate report generation instead of manual compilation of reports using spreadsheets.",
+  "target_audience": "HR finance managers in mid-sized accounting firms processing 10-20 labor cost reports weekly",
+  "problem_solved": "Inconsistent and delayed labor cost reporting",
+  "features": [
+    "Weekly report generation",
+    "Email notifications for report delivery",
+    "Department-specific cost breakdowns"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR finance managers in mid-sized accounting firms processing 10-20 labor cost reports weekly",
+    "primary_problem": "Inconsistent and delayed labor cost reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR finance managers in mid-sized accounting firms processing 10-20 labor cost reports weekly, inconsistent reporting causes cash flow gaps. We automate report generation instead of manual compilation of reports using spreadsheets.",
+    "current_alternative": "manual compilation of reports using spreadsheets",
+    "must_have_features": [
+      "Weekly report generation",
+      "Email notifications for report delivery",
+      "Department-specific cost breakdowns"
+    ]
+  },
+  "one_liner": "For HR finance managers in mid-sized accounting firms processing 10-20 labor cost reports weekly, inconsistent reporting causes cash flow gaps. We automate report generation instead of manual compilation of reports using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-15",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

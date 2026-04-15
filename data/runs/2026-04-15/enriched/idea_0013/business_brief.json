@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inaccurate expense claims cause compliance issues. We validate expense reimbursement claims against policy rules instead of manual review of expense claims.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate expense claims leading to compliance issues.",
+  "features": [
+    "manual claim validation",
+    "policy rule configuration",
+    "notification system for approvers"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate expense claims leading to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inaccurate expense claims cause compliance issues. We validate expense reimbursement claims against policy rules instead of manual review of expense claims.",
+    "current_alternative": "manual review of expense claims",
+    "must_have_features": [
+      "manual claim validation",
+      "policy rule configuration",
+      "notification system for approvers"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inaccurate expense claims cause compliance issues. We validate expense reimbursement claims against policy rules instead of manual review of expense claims.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-15",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

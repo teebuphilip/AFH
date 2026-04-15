@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties tool",
+  "description": "For property managers handling 10-20 properties, inconsistent maintenance tracking causes compliance issues. We provide automated compliance monitoring instead of manual tracking of maintenance schedules.",
+  "target_audience": "property managers handling 10-20 properties",
+  "problem_solved": "Inconsistent property maintenance can lead to compliance issues and potential fines.",
+  "features": [
+    "manual entry of maintenance schedules",
+    "generation of compliance audit reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties",
+    "primary_problem": "Inconsistent property maintenance can lead to compliance issues and potential fines.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For property managers handling 10-20 properties, inconsistent maintenance tracking causes compliance issues. We provide automated compliance monitoring instead of manual tracking of maintenance schedules.",
+    "current_alternative": "manual tracking of maintenance schedules",
+    "must_have_features": [
+      "manual entry of maintenance schedules",
+      "generation of compliance audit reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties, inconsistent maintenance tracking causes compliance issues. We provide automated compliance monitoring instead of manual tracking of maintenance schedules.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-15",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

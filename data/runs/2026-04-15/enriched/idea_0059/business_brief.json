@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 5\u201315 clients with QuickBooks tool",
+  "description": "For bookkeepers managing 5\u201315 clients with QuickBooks, inefficient reconciliation processes cause errors and delayed financial reporting. We automate accounts payable reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "bookkeepers managing 5\u201315 clients with QuickBooks",
+  "problem_solved": "Inefficient reconciliation processes lead to errors and delayed financial reporting.",
+  "features": [
+    "manual entry for invoice data",
+    "detailed reporting of reconciliation status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 5\u201315 clients with QuickBooks",
+    "primary_problem": "Inefficient reconciliation processes lead to errors and delayed financial reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 5\u201315 clients with QuickBooks, inefficient reconciliation processes cause errors and delayed financial reporting. We automate accounts payable reconciliation instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "manual entry for invoice data",
+      "detailed reporting of reconciliation status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 5\u201315 clients with QuickBooks, inefficient reconciliation processes cause errors and delayed financial reporting. We automate accounts payable reconciliation instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0059",
+    "run_date": "2026-04-15",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

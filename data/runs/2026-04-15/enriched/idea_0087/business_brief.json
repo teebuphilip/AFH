@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 10\u201320 applications/month tool",
+  "description": "For insurance brokers processing 10\u201320 applications/month, missing information causes processing delays. We automate claims processing instead of manual review of applications by adjusters.",
+  "target_audience": "insurance brokers processing 10\u201320 applications/month",
+  "problem_solved": "Missing information in insurance applications leads to processing delays.",
+  "features": [
+    "flagging missing information",
+    "user-friendly interface for adjusters",
+    "manual override for flagged applications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 10\u201320 applications/month",
+    "primary_problem": "Missing information in insurance applications leads to processing delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 10\u201320 applications/month, missing information causes processing delays. We automate claims processing instead of manual review of applications by adjusters.",
+    "current_alternative": "manual review of applications by adjusters",
+    "must_have_features": [
+      "flagging missing information",
+      "user-friendly interface for adjusters",
+      "manual override for flagged applications"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10\u201320 applications/month, missing information causes processing delays. We automate claims processing instead of manual review of applications by adjusters.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

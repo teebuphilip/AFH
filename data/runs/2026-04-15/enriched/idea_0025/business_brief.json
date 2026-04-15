@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 petty cash transactions/week tool",
+  "description": "For accounting firms managing 5\u201315 petty cash transactions/week, manual reconciliation causes reporting delays. We consolidate and reconcile transactions instead of manual spreadsheets and email summaries.",
+  "target_audience": "accounting firms managing 5\u201315 petty cash transactions/week",
+  "problem_solved": "manual reconciliation of petty cash transactions leads to errors and delays in reporting.",
+  "features": [
+    "manual entry of petty cash transactions",
+    "weekly summary generation",
+    "email notifications to finance leads"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 petty cash transactions/week",
+    "primary_problem": "manual reconciliation of petty cash transactions leads to errors and delays in reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 petty cash transactions/week, manual reconciliation causes reporting delays. We consolidate and reconcile transactions instead of manual spreadsheets and email summaries.",
+    "current_alternative": "manual spreadsheets and email summaries",
+    "must_have_features": [
+      "manual entry of petty cash transactions",
+      "weekly summary generation",
+      "email notifications to finance leads"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 petty cash transactions/week, manual reconciliation causes reporting delays. We consolidate and reconcile transactions instead of manual spreadsheets and email summaries.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-15",
+    "overlay_score": 66,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 contracts/month tool",
+  "description": "For law firms processing 5\u201315 contracts/month, inefficient conversion causes submission delays. We provide a document conversion service instead of manual formatting and conversion by staff.",
+  "target_audience": "law firms processing 5\u201315 contracts/month",
+  "problem_solved": "Inefficient conversion of legal contracts into court filing formats",
+  "features": [
+    "basic format selection",
+    "downloadable converted files",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 contracts/month",
+    "primary_problem": "Inefficient conversion of legal contracts into court filing formats",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 contracts/month, inefficient conversion causes submission delays. We provide a document conversion service instead of manual formatting and conversion by staff.",
+    "current_alternative": "manual formatting and conversion by staff",
+    "must_have_features": [
+      "basic format selection",
+      "downloadable converted files",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 contracts/month, inefficient conversion causes submission delays. We provide a document conversion service instead of manual formatting and conversion by staff.",
+  "source": {
+    "idea_id": "idea_0078",
+    "run_date": "2026-04-15",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

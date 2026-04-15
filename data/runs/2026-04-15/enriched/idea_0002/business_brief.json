@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR teams in small accounting firms processing 5\u201315 payroll submissions/week tool",
+  "description": "For HR teams in small accounting firms processing 5\u201315 payroll submissions/week, missing entries cause compliance issues. We alert HR teams instead of manual tracking of payroll submissions.",
+  "target_audience": "HR teams in small accounting firms processing 5\u201315 payroll submissions/week",
+  "problem_solved": "Missing or inconsistent payroll entries",
+  "features": [
+    "Weekly payroll submission monitoring",
+    "Inconsistency detection in payroll data",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR teams in small accounting firms processing 5\u201315 payroll submissions/week",
+    "primary_problem": "Missing or inconsistent payroll entries",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR teams in small accounting firms processing 5\u201315 payroll submissions/week, missing entries cause compliance issues. We alert HR teams instead of manual tracking of payroll submissions.",
+    "current_alternative": "Manual tracking of payroll submissions",
+    "must_have_features": [
+      "Weekly payroll submission monitoring",
+      "Inconsistency detection in payroll data",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR teams in small accounting firms processing 5\u201315 payroll submissions/week, missing entries cause compliance issues. We alert HR teams instead of manual tracking of payroll submissions.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-15",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics operations managers in freight brokerage processing 5\u201315 shipments/week tool",
+  "description": "For logistics operations managers in freight brokerage processing 5\u201315 shipments/week, inefficient fleet management causes missed delivery windows. We provide automated mileage monitoring and alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "logistics operations managers in freight brokerage processing 5\u201315 shipments/week",
+  "problem_solved": "inefficient fleet management leading to missed delivery windows",
+  "features": [
+    "manual entry of mileage data",
+    "alert system for mileage exceptions",
+    "dashboard for tracking fleet performance"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics operations managers in freight brokerage processing 5\u201315 shipments/week",
+    "primary_problem": "inefficient fleet management leading to missed delivery windows",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics operations managers in freight brokerage processing 5\u201315 shipments/week, inefficient fleet management causes missed delivery windows. We provide automated mileage monitoring and alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking of mileage and alerts via spreadsheets",
+    "must_have_features": [
+      "manual entry of mileage data",
+      "alert system for mileage exceptions",
+      "dashboard for tracking fleet performance"
+    ]
+  },
+  "one_liner": "For logistics operations managers in freight brokerage processing 5\u201315 shipments/week, inefficient fleet management causes missed delivery windows. We provide automated mileage monitoring and alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-15",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

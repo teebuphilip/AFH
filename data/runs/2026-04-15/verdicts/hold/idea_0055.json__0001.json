@@ -1,0 +1,15 @@
+{
+  "idea_text": "Vendor management platform that tracks contracts, insurance, and performance for procurement teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-15T10:32:12.059801",
+  "verdict_source": "overlay_score"
+}

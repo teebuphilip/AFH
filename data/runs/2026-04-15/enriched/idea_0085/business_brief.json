@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 10-50 legal documents/month tool",
+  "description": "For law firms processing 10-50 legal documents/month, inefficient document retrieval causes delays in case preparation. We convert legal documents into searchable digital archives instead of manual filing and searching through physical documents.",
+  "target_audience": "law firms processing 10-50 legal documents/month",
+  "problem_solved": "Inefficient document retrieval and management.",
+  "features": [
+    "document scanning",
+    "searchable text recognition",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 10-50 legal documents/month",
+    "primary_problem": "Inefficient document retrieval and management.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 10-50 legal documents/month, inefficient document retrieval causes delays in case preparation. We convert legal documents into searchable digital archives instead of manual filing and searching through physical documents.",
+    "current_alternative": "manual filing and searching through physical documents",
+    "must_have_features": [
+      "document scanning",
+      "searchable text recognition",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For law firms processing 10-50 legal documents/month, inefficient document retrieval causes delays in case preparation. We convert legal documents into searchable digital archives instead of manual filing and searching through physical documents.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

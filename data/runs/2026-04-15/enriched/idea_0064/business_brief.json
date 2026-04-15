@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, inaccurate payroll tax calculations cause potential penalties. We provide a payroll tax calculation service instead of manual calculations or generic accounting software.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate payroll tax calculations leading to potential penalties.",
+  "features": [
+    "manual payroll tax calculation tool",
+    "state-specific tax rate database",
+    "simple reporting for tax submissions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate payroll tax calculations leading to potential penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, inaccurate payroll tax calculations cause potential penalties. We provide a payroll tax calculation service instead of manual calculations or generic accounting software.",
+    "current_alternative": "manual calculations or generic accounting software",
+    "must_have_features": [
+      "manual payroll tax calculation tool",
+      "state-specific tax rate database",
+      "simple reporting for tax submissions"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, inaccurate payroll tax calculations cause potential penalties. We provide a payroll tax calculation service instead of manual calculations or generic accounting software.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-15",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

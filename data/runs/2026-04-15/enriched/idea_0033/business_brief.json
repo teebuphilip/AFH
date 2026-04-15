@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 5\u201315 premium audits per quarter tool",
+  "description": "For insurance brokers processing 5\u201315 premium audits per quarter, manual report preparation causes compliance risks. We automate report generation instead of manual report preparation using spreadsheets.",
+  "target_audience": "insurance brokers processing 5\u201315 premium audits per quarter",
+  "problem_solved": "Time-consuming manual preparation of quarterly audit reports.",
+  "features": [
+    "template-based report generation",
+    "data import from spreadsheets",
+    "user-friendly interface for report customization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 5\u201315 premium audits per quarter",
+    "primary_problem": "Time-consuming manual preparation of quarterly audit reports.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 5\u201315 premium audits per quarter, manual report preparation causes compliance risks. We automate report generation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "data import from spreadsheets",
+      "user-friendly interface for report customization"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 5\u201315 premium audits per quarter, manual report preparation causes compliance risks. We automate report generation instead of manual report preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0033",
+    "run_date": "2026-04-15",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

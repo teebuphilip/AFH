@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-10 projects/month tool",
+  "description": "For construction contractors managing 5-10 projects/month, inconsistent safety compliance causes potential fines and project delays. We generate automated compliance checklists instead of manual checklist creation and tracking.",
+  "target_audience": "construction contractors managing 5-10 projects/month",
+  "problem_solved": "Inconsistent safety compliance leading to potential fines and project delays.",
+  "features": [
+    "template-based checklist generation",
+    "monthly report generation",
+    "user-friendly interface for easy access"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-10 projects/month",
+    "primary_problem": "Inconsistent safety compliance leading to potential fines and project delays.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5-10 projects/month, inconsistent safety compliance causes potential fines and project delays. We generate automated compliance checklists instead of manual checklist creation and tracking.",
+    "current_alternative": "manual checklist creation and tracking",
+    "must_have_features": [
+      "template-based checklist generation",
+      "monthly report generation",
+      "user-friendly interface for easy access"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-10 projects/month, inconsistent safety compliance causes potential fines and project delays. We generate automated compliance checklists instead of manual checklist creation and tracking.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-15",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

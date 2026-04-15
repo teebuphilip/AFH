@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant finance teams processing 10\u201350 invoices/month tool",
+  "description": "For restaurant finance teams processing 10\u201350 invoices/month, manual accounting causes cash flow gaps. We automate accounting instead of manual bookkeeping and spreadsheets.",
+  "target_audience": "restaurant finance teams processing 10\u201350 invoices/month",
+  "problem_solved": "manual accounting processes lead to cash flow gaps",
+  "features": [
+    "real-time sales tracking",
+    "payroll calculation assistance",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant finance teams processing 10\u201350 invoices/month",
+    "primary_problem": "manual accounting processes lead to cash flow gaps",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant finance teams processing 10\u201350 invoices/month, manual accounting causes cash flow gaps. We automate accounting instead of manual bookkeeping and spreadsheets.",
+    "current_alternative": "manual bookkeeping and spreadsheets",
+    "must_have_features": [
+      "real-time sales tracking",
+      "payroll calculation assistance",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant finance teams processing 10\u201350 invoices/month, manual accounting causes cash flow gaps. We automate accounting instead of manual bookkeeping and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-15",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

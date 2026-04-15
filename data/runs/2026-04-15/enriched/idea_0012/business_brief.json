@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 delivery logs/month tool",
+  "description": "For logistics carriers processing 50\u2013100 delivery logs/month, inefficient data handling causes late deliveries. We provide daily performance dashboards instead of manual data analysis using spreadsheets.",
+  "target_audience": "logistics carriers processing 50\u2013100 delivery logs/month",
+  "problem_solved": "Inability to visualize performance data from raw delivery logs leads to inefficiencies.",
+  "features": [
+    "data import from CSV files",
+    "visual performance metrics",
+    "daily summary reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 delivery logs/month",
+    "primary_problem": "Inability to visualize performance data from raw delivery logs leads to inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 delivery logs/month, inefficient data handling causes late deliveries. We provide daily performance dashboards instead of manual data analysis using spreadsheets.",
+    "current_alternative": "manual data analysis using spreadsheets",
+    "must_have_features": [
+      "data import from CSV files",
+      "visual performance metrics",
+      "daily summary reports"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 delivery logs/month, inefficient data handling causes late deliveries. We provide daily performance dashboards instead of manual data analysis using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-15",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

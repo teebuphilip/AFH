@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "bookkeepers managing 5\u201315 clients using QuickBooks",
+  "offer": "For bookkeepers managing 5\u201315 clients using QuickBooks, manual reconciliation causes cash flow gaps. We automate accounts receivable reconciliation instead of manual reconciliation using spreadsheets.",
+  "problem": "Manual reconciliation processes are time-consuming and error-prone.",
+  "channels_free": [
+    "Post in Reddit communities for bookkeepers seeking solutions",
+    "Engage in Indie Hackers discussions on similar challenges",
+    "Direct message outreach to bookkeepers with demo video",
+    "Participate in community forums for bookkeeping tools"
+  ],
+  "try_it": "Let users experience user-friendly interface for manual entry and reporting",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video showcasing manual-first workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy reuse",
+    "Set default reminder schedules for tasks",
+    "Enable CSV import for existing client data",
+    "Allow one-click export of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

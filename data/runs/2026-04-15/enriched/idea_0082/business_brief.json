@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billers processing 10\u201320 claims/month tool",
+  "description": "For medical billers processing 10\u201320 claims/month, inaccurate billing codes cause claim denials. We suggest billing codes and generate claim submissions instead of manual coding and submission processes.",
+  "target_audience": "medical billers processing 10\u201320 claims/month",
+  "problem_solved": "inaccurate billing codes leading to claim denials",
+  "features": [
+    "billing code suggestion",
+    "claim submission generation",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billers processing 10\u201320 claims/month",
+    "primary_problem": "inaccurate billing codes leading to claim denials",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billers processing 10\u201320 claims/month, inaccurate billing codes cause claim denials. We suggest billing codes and generate claim submissions instead of manual coding and submission processes.",
+    "current_alternative": "manual coding and submission processes",
+    "must_have_features": [
+      "billing code suggestion",
+      "claim submission generation",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For medical billers processing 10\u201320 claims/month, inaccurate billing codes cause claim denials. We suggest billing codes and generate claim submissions instead of manual coding and submission processes.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-15",
+    "overlay_score": 59,
+    "arr_score": 58
+  }
+}

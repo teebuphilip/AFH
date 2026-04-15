@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 leases/month tool",
+  "description": "For property managers processing 10-20 leases/month, missed notifications cause tenant turnover. We automate lease expiration notifications instead of manual tracking via spreadsheets.",
+  "target_audience": "property managers handling 10-20 leases/month",
+  "problem_solved": "Missed lease expiration notifications leading to tenant turnover.",
+  "features": [
+    "dashboard for tracking upcoming lease renewals",
+    "manual entry option for lease details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 leases/month",
+    "primary_problem": "Missed lease expiration notifications leading to tenant turnover.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 leases/month, missed notifications cause tenant turnover. We automate lease expiration notifications instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking of lease dates via spreadsheets",
+    "must_have_features": [
+      "dashboard for tracking upcoming lease renewals",
+      "manual entry option for lease details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 leases/month, missed notifications cause tenant turnover. We automate lease expiration notifications instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-15",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

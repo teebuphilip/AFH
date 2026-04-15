@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized marketing agencies using BambooHR tool",
+  "description": "For HR managers in small to medium-sized marketing agencies using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delayed project starts. We automate the onboarding workflow instead of manual onboarding processes with multiple spreadsheets.",
+  "target_audience": "HR managers in small to medium-sized marketing agencies using BambooHR",
+  "problem_solved": "Inefficient onboarding processes lead to delayed project starts.",
+  "features": [
+    "checklist for onboarding tasks",
+    "template for welcome emails",
+    "manual entry forms for new hire information"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized marketing agencies using BambooHR",
+    "primary_problem": "Inefficient onboarding processes lead to delayed project starts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized marketing agencies using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delayed project starts. We automate the onboarding workflow instead of manual onboarding processes with multiple spreadsheets.",
+    "current_alternative": "manual onboarding processes with multiple spreadsheets",
+    "must_have_features": [
+      "checklist for onboarding tasks",
+      "template for welcome emails",
+      "manual entry forms for new hire information"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized marketing agencies using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delayed project starts. We automate the onboarding workflow instead of manual onboarding processes with multiple spreadsheets.",
+  "source": {
+    "idea_id": "idea_0062",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

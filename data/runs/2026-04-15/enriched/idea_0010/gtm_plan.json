@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR teams in small to medium-sized accounting firms processing 5\u201315 timesheets/month",
+  "offer": "For HR teams in small to medium-sized accounting firms processing 5\u201315 timesheets/month, manual reconciliation causes delays in payroll processing. We simplify reconciliation instead of manual reconciliation using spreadsheets.",
+  "problem": "Manual reconciliation of timesheets against payroll inputs is time-consuming and error-prone.",
+  "channels_free": [
+    "Post in Reddit communities for HR teams seeking solutions",
+    "Indie Hackers discussions on payroll reconciliation tools",
+    "DM outreach to HR teams with demo video",
+    "Community forums for HR teams sharing software tools"
+  ],
+  "try_it": "Let users try user-friendly timesheet entry and summary reports",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

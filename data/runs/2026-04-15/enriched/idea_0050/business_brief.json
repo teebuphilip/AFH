@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in small clinics processing 5\u201315 invoices/month tool",
+  "description": "For medical billing specialists in small clinics processing 5\u201315 invoices/month, billing denials cause cash flow gaps. We automate follow-up reminders instead of manual tracking and follow-up via spreadsheets or paper notes.",
+  "target_audience": "medical billing specialists in small clinics processing 5\u201315 invoices/month",
+  "problem_solved": "Tracking and managing medical billing denials effectively.",
+  "features": [
+    "manual entry of denial reasons",
+    "simple dashboard for tracking follow-ups",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in small clinics processing 5\u201315 invoices/month",
+    "primary_problem": "Tracking and managing medical billing denials effectively.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in small clinics processing 5\u201315 invoices/month, billing denials cause cash flow gaps. We automate follow-up reminders instead of manual tracking and follow-up via spreadsheets or paper notes.",
+    "current_alternative": "manual tracking and follow-up via spreadsheets or paper notes",
+    "must_have_features": [
+      "manual entry of denial reasons",
+      "simple dashboard for tracking follow-ups",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical billing specialists in small clinics processing 5\u201315 invoices/month, billing denials cause cash flow gaps. We automate follow-up reminders instead of manual tracking and follow-up via spreadsheets or paper notes.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-15",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

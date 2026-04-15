@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, inaccurate payroll tax calculations cause potential penalties. We provide a payroll tax calculation service instead of manual calculations or generic accounting software.",
+  "problem": "Inaccurate payroll tax calculations leading to potential penalties.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Engage in Indie Hackers discussions on similar issues",
+    "DM outreach to Etsy sellers with demo video",
+    "Join community forums for Etsy seller tools"
+  ],
+  "try_it": "Let users try manual payroll tax calculation tool for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Develop a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedule options",
+    "Enable CSV import for existing data",
+    "Facilitate one-click export of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

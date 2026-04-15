@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 20\u201350 orders/month tool",
+  "description": "For Amazon sellers processing 20\u201350 orders/month, inaccurate sales projections cause stockouts and lost sales opportunities. We provide data-driven forecasts instead of manual spreadsheets and guesswork.",
+  "target_audience": "Amazon sellers processing 20\u201350 orders/month",
+  "problem_solved": "Inaccurate sales projections leading to stockouts and lost sales opportunities.",
+  "features": [
+    "Historical sales data analysis",
+    "Simple user interface for inputting data",
+    "Basic reporting on sales trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 20\u201350 orders/month",
+    "primary_problem": "Inaccurate sales projections leading to stockouts and lost sales opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 20\u201350 orders/month, inaccurate sales projections cause stockouts and lost sales opportunities. We provide data-driven forecasts instead of manual spreadsheets and guesswork.",
+    "current_alternative": "manual spreadsheets and guesswork",
+    "must_have_features": [
+      "Historical sales data analysis",
+      "Simple user interface for inputting data",
+      "Basic reporting on sales trends"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 20\u201350 orders/month, inaccurate sales projections cause stockouts and lost sales opportunities. We provide data-driven forecasts instead of manual spreadsheets and guesswork.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-15",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

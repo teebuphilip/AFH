@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-10 projects simultaneously tool",
+  "description": "For construction contractors managing 5-10 projects simultaneously, inefficient task allocation causes project delays. We convert construction plans into task lists and resource allocations instead of manual scheduling and task management tools.",
+  "target_audience": "construction contractors managing 5-10 projects simultaneously",
+  "problem_solved": "inefficient task allocation and scheduling",
+  "features": [
+    "task list generation from construction plans",
+    "resource allocation tracking",
+    "project timeline visualization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-10 projects simultaneously",
+    "primary_problem": "inefficient task allocation and scheduling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5-10 projects simultaneously, inefficient task allocation causes project delays. We convert construction plans into task lists and resource allocations instead of manual scheduling and task management tools.",
+    "current_alternative": "manual scheduling and task management tools",
+    "must_have_features": [
+      "task list generation from construction plans",
+      "resource allocation tracking",
+      "project timeline visualization"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-10 projects simultaneously, inefficient task allocation causes project delays. We convert construction plans into task lists and resource allocations instead of manual scheduling and task management tools.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-15",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

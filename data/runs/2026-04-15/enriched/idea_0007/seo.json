@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "sales ops managers in marketing agencies inaccurate tool",
+    "sales ops managers in marketing agencies inaccurate automation",
+    "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate tool",
+    "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate automation",
+    "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate tool software",
+    "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate tool platform",
+    "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Sales Ops Managers in Marketing Agencies processing 10\u201320 commission reports/week, manual calculations cause delays in payments. We automate commission calculations instead of manual calculations using spreadsheets.",
+    "Inaccurate or delayed commission calculations lead to employee dissatisfaction and potential turnover.",
+    "Sales Ops Managers in Marketing Agencies processing 10\u201320 commission reports/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sales Ops Managers In Marketing Agencies Processing 10 20 Commission Reports Week Inaccurate Tool Software",
+      "target_keyword": "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Ops Managers In Marketing Agencies Processing 10 20 Commission Reports Week Inaccurate Tool Platform",
+      "target_keyword": "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Ops Managers In Marketing Agencies Processing 10 20 Commission Reports Week Inaccurate Tool Solution",
+      "target_keyword": "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Ops Managers In Marketing Agencies Processing 10 20 Commission Reports Week Inaccurate Tool",
+      "target_keyword": "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Ops Managers In Marketing Agencies Processing 10 20 Commission Reports Week Inaccurate Automation",
+      "target_keyword": "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Ops Managers In Marketing Agencies Processing 10 20 Commission Reports Week Inaccurate Workflow",
+      "target_keyword": "sales ops managers in marketing agencies processing 10 20 commission reports week inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "sales ops managers in marketing agencies inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "sales ops managers in marketing agencies inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "sales ops managers in marketing agencies inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "sales ops managers in marketing agencies inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "sales ops managers in marketing agencies inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | sales ops managers in marketing agencies tool",
+      "sales ops managers in marketing agencies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "sales ops managers in marketing agencies tool helps with inaccurate or delayed commission calculations lead to employee dissatisfaction and potential turnover."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

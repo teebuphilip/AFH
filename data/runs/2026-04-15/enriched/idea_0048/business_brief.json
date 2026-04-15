@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR administrators at small law firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR administrators at small law firms processing 5\u201315 payrolls/month, manual filing causes compliance risks and potential penalties. We automate payroll tax filings instead of manual filing through spreadsheets and paper forms.",
+  "target_audience": "HR administrators at small law firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Manual payroll tax filing processes lead to compliance risks and potential penalties.",
+  "features": [
+    "user-friendly interface for data entry",
+    "basic reporting for tax obligations",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR administrators at small law firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Manual payroll tax filing processes lead to compliance risks and potential penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR administrators at small law firms processing 5\u201315 payrolls/month, manual filing causes compliance risks and potential penalties. We automate payroll tax filings instead of manual filing through spreadsheets and paper forms.",
+    "current_alternative": "manual filing through spreadsheets and paper forms",
+    "must_have_features": [
+      "user-friendly interface for data entry",
+      "basic reporting for tax obligations",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR administrators at small law firms processing 5\u201315 payrolls/month, manual filing causes compliance risks and potential penalties. We automate payroll tax filings instead of manual filing through spreadsheets and paper forms.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-15",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

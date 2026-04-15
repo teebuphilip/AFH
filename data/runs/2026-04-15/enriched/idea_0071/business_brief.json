@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small business owners using Gusto for HR management tool",
+  "description": "For small business owners using Gusto processing 1\u20135 new hires/month, inefficient onboarding causes delays in employee productivity. We automate the onboarding workflow instead of manual onboarding processes.",
+  "target_audience": "small business owners using Gusto for HR management",
+  "problem_solved": "Inefficient onboarding processes for new hires",
+  "features": [
+    "template-based onboarding checklists",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small business owners using Gusto for HR management",
+    "primary_problem": "Inefficient onboarding processes for new hires",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small business owners using Gusto processing 1\u20135 new hires/month, inefficient onboarding causes delays in employee productivity. We automate the onboarding workflow instead of manual onboarding processes.",
+    "current_alternative": "manual onboarding processes",
+    "must_have_features": [
+      "template-based onboarding checklists",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For small business owners using Gusto processing 1\u20135 new hires/month, inefficient onboarding causes delays in employee productivity. We automate the onboarding workflow instead of manual onboarding processes.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-15",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

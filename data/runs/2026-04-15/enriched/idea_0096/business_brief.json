@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billers in small clinics processing 10\u201320 claims/month tool",
+  "description": "For medical billers in small clinics processing 10\u201320 claims/month, manual coding causes delayed claim submissions. We automate coding instead of manual coding and submission processes.",
+  "target_audience": "medical billers in small clinics processing 10\u201320 claims/month",
+  "problem_solved": "manual coding processes lead to delayed claim submissions",
+  "features": [
+    "user-friendly interface for manual entry",
+    "basic reporting on claim status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billers in small clinics processing 10\u201320 claims/month",
+    "primary_problem": "manual coding processes lead to delayed claim submissions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billers in small clinics processing 10\u201320 claims/month, manual coding causes delayed claim submissions. We automate coding instead of manual coding and submission processes.",
+    "current_alternative": "manual coding and submission processes",
+    "must_have_features": [
+      "user-friendly interface for manual entry",
+      "basic reporting on claim status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical billers in small clinics processing 10\u201320 claims/month, manual coding causes delayed claim submissions. We automate coding instead of manual coding and submission processes.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

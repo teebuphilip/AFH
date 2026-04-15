@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 20\u201350 orders/month",
+  "offer": "For Amazon sellers processing 20\u201350 orders/month, inaccurate sales projections cause stockouts and lost sales opportunities. We provide data-driven forecasts instead of manual spreadsheets and guesswork.",
+  "problem": "Inaccurate sales projections leading to stockouts and lost sales opportunities.",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Engage in Indie Hackers discussions on sales tools",
+    "DM outreach to Amazon sellers with demo video",
+    "Share insights in Amazon seller forums/groups"
+  ],
+  "try_it": "Let users try Historical sales data analysis and user-friendly input interface",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for users",
+    "Enable CSV import for existing sales data",
+    "Facilitate one-click export of reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

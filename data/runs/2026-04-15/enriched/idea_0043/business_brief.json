@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 20\u201350 invoices/month tool",
+  "description": "For medical clinics processing 20\u201350 invoices/month, inefficient data handling causes delayed reimbursements. We automate claim batching instead of manual data entry and claim submission.",
+  "target_audience": "medical clinics processing 20\u201350 invoices/month",
+  "problem_solved": "Inefficient conversion of patient visit data into insurance claims",
+  "features": [
+    "manual data entry interface",
+    "batch claim generation",
+    "error checking for patient data"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 20\u201350 invoices/month",
+    "primary_problem": "Inefficient conversion of patient visit data into insurance claims",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 20\u201350 invoices/month, inefficient data handling causes delayed reimbursements. We automate claim batching instead of manual data entry and claim submission.",
+    "current_alternative": "manual data entry and claim submission",
+    "must_have_features": [
+      "manual data entry interface",
+      "batch claim generation",
+      "error checking for patient data"
+    ]
+  },
+  "one_liner": "For medical clinics processing 20\u201350 invoices/month, inefficient data handling causes delayed reimbursements. We automate claim batching instead of manual data entry and claim submission.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

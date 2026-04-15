@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance fraud investigators processing 5\u201315 claims/month tool",
+  "description": "For insurance fraud investigators processing 5\u201315 claims/month, inefficient identification of fraudulent patterns causes delayed investigations. We provide automated flagging of suspicious claims instead of manual review of claims.",
+  "target_audience": "insurance fraud investigators processing 5\u201315 claims/month",
+  "problem_solved": "Identifying fraudulent claims in a timely manner",
+  "features": [
+    "claim pattern monitoring",
+    "suspicious activity alerts",
+    "manual review interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance fraud investigators processing 5\u201315 claims/month",
+    "primary_problem": "Identifying fraudulent claims in a timely manner",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance fraud investigators processing 5\u201315 claims/month, inefficient identification of fraudulent patterns causes delayed investigations. We provide automated flagging of suspicious claims instead of manual review of claims.",
+    "current_alternative": "manual review of claims",
+    "must_have_features": [
+      "claim pattern monitoring",
+      "suspicious activity alerts",
+      "manual review interface"
+    ]
+  },
+  "one_liner": "For insurance fraud investigators processing 5\u201315 claims/month, inefficient identification of fraudulent patterns causes delayed investigations. We provide automated flagging of suspicious claims instead of manual review of claims.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

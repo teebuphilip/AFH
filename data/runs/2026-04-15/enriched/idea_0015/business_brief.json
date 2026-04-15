@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized companies processing 10-20 invoices/month tool",
+  "description": "For procurement teams in mid-sized companies processing 10-20 invoices/month, manual tracking causes late orders and supplier penalties. We automate the extraction of payment terms and compliance reporting instead of manual tracking.",
+  "target_audience": "procurement teams in mid-sized companies processing 10-20 invoices/month",
+  "problem_solved": "Ensuring compliance with supplier payment terms",
+  "features": [
+    "manual entry of supplier payment terms",
+    "basic compliance status report generation",
+    "email notifications for compliance updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized companies processing 10-20 invoices/month",
+    "primary_problem": "Ensuring compliance with supplier payment terms",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For procurement teams in mid-sized companies processing 10-20 invoices/month, manual tracking causes late orders and supplier penalties. We automate the extraction of payment terms and compliance reporting instead of manual tracking.",
+    "current_alternative": "manual tracking of payment terms and compliance status",
+    "must_have_features": [
+      "manual entry of supplier payment terms",
+      "basic compliance status report generation",
+      "email notifications for compliance updates"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized companies processing 10-20 invoices/month, manual tracking causes late orders and supplier penalties. We automate the extraction of payment terms and compliance reporting instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-15",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

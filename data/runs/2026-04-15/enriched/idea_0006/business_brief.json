@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, missed contract renewals cause service interruptions. We provide timely alerts instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Missed contract renewals leading to service interruptions and potential penalties.",
+  "features": [
+    "User-friendly dashboard for tracking contracts",
+    "Manual entry option for contracts not in the system",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Missed contract renewals leading to service interruptions and potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, missed contract renewals cause service interruptions. We provide timely alerts instead of manual tracking.",
+    "current_alternative": "Manual tracking of contract dates using spreadsheets or calendars.",
+    "must_have_features": [
+      "User-friendly dashboard for tracking contracts",
+      "Manual entry option for contracts not in the system",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, missed contract renewals cause service interruptions. We provide timely alerts instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

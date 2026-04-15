@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual tracking causes inaccuracies in financial reporting. We automate expense report generation instead of manual expense tracking through spreadsheets.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Manual tracking of expenses leads to inaccuracies and time loss.",
+  "features": [
+    "Monthly report generation",
+    "Expense categorization",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Manual tracking of expenses leads to inaccuracies and time loss.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual tracking causes inaccuracies in financial reporting. We automate expense report generation instead of manual expense tracking through spreadsheets.",
+    "current_alternative": "manual expense tracking through spreadsheets",
+    "must_have_features": [
+      "Monthly report generation",
+      "Expense categorization",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual tracking causes inaccuracies in financial reporting. We automate expense report generation instead of manual expense tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-15",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

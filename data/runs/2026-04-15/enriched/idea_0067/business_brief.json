@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "finance operations managers in accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For finance operations managers in accounting firms processing 10\u201320 invoices/month, inefficient expense report auditing causes delays in approvals. We streamline the workflow instead of manual tracking and email approvals.",
+  "target_audience": "finance operations managers in accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient expense report auditing and approval processes lead to delays.",
+  "features": [
+    "manual expense report submission",
+    "email notifications for approvals",
+    "basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "finance operations managers in accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient expense report auditing and approval processes lead to delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For finance operations managers in accounting firms processing 10\u201320 invoices/month, inefficient expense report auditing causes delays in approvals. We streamline the workflow instead of manual tracking and email approvals.",
+    "current_alternative": "manual tracking and email approvals",
+    "must_have_features": [
+      "manual expense report submission",
+      "email notifications for approvals",
+      "basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For finance operations managers in accounting firms processing 10\u201320 invoices/month, inefficient expense report auditing causes delays in approvals. We streamline the workflow instead of manual tracking and email approvals.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-15",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

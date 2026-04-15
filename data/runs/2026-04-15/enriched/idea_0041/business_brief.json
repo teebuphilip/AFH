@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm accountants processing 5\u201315 legal case invoices/month tool",
+  "description": "For law firm accountants processing 5\u201315 invoices/month, inefficient preparation causes delays in tax filing. We automate tax deduction summaries instead of manual preparation of tax deduction summaries.",
+  "target_audience": "law firm accountants processing 5\u201315 legal case invoices/month",
+  "problem_solved": "Inefficient preparation of tax deduction summaries from legal case expenses.",
+  "features": [
+    "manual entry of legal case expenses",
+    "summary generation for tax deductions",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm accountants processing 5\u201315 legal case invoices/month",
+    "primary_problem": "Inefficient preparation of tax deduction summaries from legal case expenses.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm accountants processing 5\u201315 invoices/month, inefficient preparation causes delays in tax filing. We automate tax deduction summaries instead of manual preparation of tax deduction summaries.",
+    "current_alternative": "manual preparation of tax deduction summaries",
+    "must_have_features": [
+      "manual entry of legal case expenses",
+      "summary generation for tax deductions",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm accountants processing 5\u201315 invoices/month, inefficient preparation causes delays in tax filing. We automate tax deduction summaries instead of manual preparation of tax deduction summaries.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-15",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR teams in small accounting firms processing 5\u201315 payroll submissions/week",
+  "offer": "For HR teams in small accounting firms processing 5\u201315 payroll submissions/week, missing entries cause compliance issues. We alert HR teams instead of manual tracking of payroll submissions.",
+  "problem": "Missing or inconsistent payroll entries",
+  "channels_free": [
+    "Post in Reddit communities for HR teams",
+    "Indie Hackers discussions on payroll solutions",
+    "DM outreach to HR teams with demo video",
+    "Share in community forums for HR tools"
+  ],
+  "try_it": "Let users try payroll monitoring and inconsistency detection on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing payroll data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

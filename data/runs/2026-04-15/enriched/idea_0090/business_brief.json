@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics fleet managers overseeing 5-15 vehicles tool",
+  "description": "For logistics fleet managers overseeing 5-15 vehicles, inefficient route management causes late deliveries. We provide real-time vehicle tracking instead of manual tracking methods or basic GPS systems.",
+  "target_audience": "logistics fleet managers overseeing 5-15 vehicles",
+  "problem_solved": "inefficient route management and driver accountability",
+  "features": [
+    "real-time vehicle location tracking",
+    "driver behavior monitoring",
+    "route optimization suggestions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics fleet managers overseeing 5-15 vehicles",
+    "primary_problem": "inefficient route management and driver accountability",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics fleet managers overseeing 5-15 vehicles, inefficient route management causes late deliveries. We provide real-time vehicle tracking instead of manual tracking methods or basic GPS systems.",
+    "current_alternative": "manual tracking methods or basic GPS systems",
+    "must_have_features": [
+      "real-time vehicle location tracking",
+      "driver behavior monitoring",
+      "route optimization suggestions"
+    ]
+  },
+  "one_liner": "For logistics fleet managers overseeing 5-15 vehicles, inefficient route management causes late deliveries. We provide real-time vehicle tracking instead of manual tracking methods or basic GPS systems.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

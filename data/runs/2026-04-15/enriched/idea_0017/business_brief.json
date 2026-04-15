@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201320 invoices/month tool",
+  "description": "For Shopify sellers processing 10\u201320 invoices/month, billing discrepancies cause cash flow gaps. We reconcile customer billing data with CRM records instead of manual reconciliation processes.",
+  "target_audience": "Shopify sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Inconsistencies between billing data and CRM records",
+  "features": [
+    "Manual data entry for billing records",
+    "Flagging inconsistencies in billing data",
+    "Basic reporting on reconciliation status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Inconsistencies between billing data and CRM records",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201320 invoices/month, billing discrepancies cause cash flow gaps. We reconcile customer billing data with CRM records instead of manual reconciliation processes.",
+    "current_alternative": "Manual reconciliation processes",
+    "must_have_features": [
+      "Manual data entry for billing records",
+      "Flagging inconsistencies in billing data",
+      "Basic reporting on reconciliation status"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201320 invoices/month, billing discrepancies cause cash flow gaps. We reconcile customer billing data with CRM records instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-15",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

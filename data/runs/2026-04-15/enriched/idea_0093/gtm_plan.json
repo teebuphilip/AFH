@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 10-20 properties/month",
+  "offer": "For property managers handling 10-20 properties/month, inefficient tracking of inspections causes compliance issues. We provide automated compliance reporting instead of manual tracking and reporting through spreadsheets.",
+  "problem": "Difficulty in tracking property inspections and generating timely audit reports.",
+  "channels_free": [
+    "Post in Reddit communities where property managers seek advice",
+    "Indie Hackers posts discussing similar workflows",
+    "DM outreach to property managers with demo video",
+    "Engage in community forums for property management tools"
+  ],
+  "try_it": "Let users try manual entry for 1-3 inspection items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with the one-liner",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 brief interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for inspections",
+    "Enable CSV import for existing inspection data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201350 clients tool",
+  "description": "For accounting firms managing 10\u201350 clients, daily reconciliation pain causes cash flow gaps. We automate bank statement matching instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "accounting firms managing 10\u201350 clients",
+  "problem_solved": "Daily reconciliation of bank statements with internal ledgers is time-consuming and prone to errors.",
+  "features": [
+    "Daily bank statement import",
+    "Discrepancy email notifications",
+    "Manual override for adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201350 clients",
+    "primary_problem": "Daily reconciliation of bank statements with internal ledgers is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201350 clients, daily reconciliation pain causes cash flow gaps. We automate bank statement matching instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "Daily bank statement import",
+      "Discrepancy email notifications",
+      "Manual override for adjustments"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201350 clients, daily reconciliation pain causes cash flow gaps. We automate bank statement matching instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-15",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

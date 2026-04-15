@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 lease invoices/month tool",
+  "description": "For property managers processing 5\u201315 lease invoices/month, late or missing invoices cause cash flow gaps. We provide timely alerts instead of manual tracking of lease payments and invoices.",
+  "target_audience": "property managers processing 5\u201315 lease invoices/month",
+  "problem_solved": "Late or missing lease invoices can lead to cash flow gaps and tenant dissatisfaction.",
+  "features": [
+    "Invoice tracking dashboard",
+    "Monthly summary report of lease payments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 lease invoices/month",
+    "primary_problem": "Late or missing lease invoices can lead to cash flow gaps and tenant dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 lease invoices/month, late or missing invoices cause cash flow gaps. We provide timely alerts instead of manual tracking of lease payments and invoices.",
+    "current_alternative": "manual tracking of lease payments and invoices",
+    "must_have_features": [
+      "Invoice tracking dashboard",
+      "Monthly summary report of lease payments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 lease invoices/month, late or missing invoices cause cash flow gaps. We provide timely alerts instead of manual tracking of lease payments and invoices.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-15",
+    "overlay_score": 82,
+    "arr_score": 82
+  }
+}

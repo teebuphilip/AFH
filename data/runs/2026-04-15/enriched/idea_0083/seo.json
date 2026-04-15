@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics coordinators managing - delivery routes per day inefficient tool",
+    "logistics coordinators managing - delivery routes per day inefficient automation",
+    "payment reminders",
+    "logistics coordinators managing 10-20 delivery routes per day inefficient tool",
+    "logistics coordinators managing 10-20 delivery routes per day inefficient automation",
+    "logistics coordinators managing 10-20 delivery routes per day inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "payment reminders software",
+    "payment reminders platform",
+    "payment reminders solution"
+  ],
+  "long_tail_keywords": [
+    "how to payment reminders",
+    "best payment reminders tool",
+    "payment reminders vs spreadsheets",
+    "payment reminders checklist",
+    "payment reminders pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics coordinators processing 10-20 delivery routes per day, inefficient routing causes late deliveries. We provide optimized scheduling instead of manual scheduling and tracking methods.",
+    "Inefficient routing and tracking of delivery schedules",
+    "logistics coordinators managing 10-20 delivery routes per day"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Payment Reminders",
+      "target_keyword": "how to payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Payment Reminders Tool",
+      "target_keyword": "best payment reminders tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Payment Reminders Vs Spreadsheets",
+      "target_keyword": "payment reminders vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Payment Reminders Checklist",
+      "target_keyword": "payment reminders checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Pricing",
+      "target_keyword": "payment reminders pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Software",
+      "target_keyword": "payment reminders software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Platform",
+      "target_keyword": "payment reminders platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders Solution",
+      "target_keyword": "payment reminders solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders",
+      "target_keyword": "payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Coordinators Managing 10-20 Delivery Routes Per Day Inefficient Tool",
+      "target_keyword": "logistics coordinators managing 10-20 delivery routes per day inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Coordinators Managing 10-20 Delivery Routes Per Day Inefficient Automation",
+      "target_keyword": "logistics coordinators managing 10-20 delivery routes per day inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Coordinators Managing 10-20 Delivery Routes Per Day Inefficient Workflow",
+      "target_keyword": "logistics coordinators managing 10-20 delivery routes per day inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics coordinators managing - delivery routes per day inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics coordinators managing - delivery routes per day inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics coordinators managing - delivery routes per day inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics coordinators managing - delivery routes per day inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics coordinators managing - delivery routes per day inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics coordinators managing - delivery routes per day tool",
+      "logistics coordinators managing - delivery routes per day tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics coordinators managing - delivery routes per day tool helps with inefficient routing and tracking of delivery schedules."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

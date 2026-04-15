@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, payroll discrepancies cause employee dissatisfaction. We provide automated monitoring instead of manual payroll checks and audits.",
+  "target_audience": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Discrepancies in payroll data leading to employee dissatisfaction and potential legal issues.",
+  "features": [
+    "Real-time payroll discrepancy alerts",
+    "User-friendly dashboard for payroll overview",
+    "Manual entry option for adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Discrepancies in payroll data leading to employee dissatisfaction and potential legal issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, payroll discrepancies cause employee dissatisfaction. We provide automated monitoring instead of manual payroll checks and audits.",
+    "current_alternative": "Manual payroll checks and audits",
+    "must_have_features": [
+      "Real-time payroll discrepancy alerts",
+      "User-friendly dashboard for payroll overview",
+      "Manual entry option for adjustments"
+    ]
+  },
+  "one_liner": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, payroll discrepancies cause employee dissatisfaction. We provide automated monitoring instead of manual payroll checks and audits.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-15",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

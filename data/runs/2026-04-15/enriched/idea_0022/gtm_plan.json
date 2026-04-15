@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR finance managers in mid-sized accounting firms processing 10-20 labor cost reports weekly",
+  "offer": "For HR finance managers in mid-sized accounting firms processing 10-20 labor cost reports weekly, inconsistent reporting causes cash flow gaps. We simplify report generation instead of manual compilation of reports using spreadsheets.",
+  "problem": "Inconsistent and delayed labor cost reporting",
+  "channels_free": [
+    "Post in Reddit communities for HR finance managers",
+    "Indie Hackers posts on similar workflows",
+    "DM outreach to HR finance managers with demo video",
+    "Community forums where HR finance managers share tools"
+  ],
+  "try_it": "Let users try Weekly report generation and Email notifications for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

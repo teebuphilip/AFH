@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, manual payroll data entry causes cash flow gaps. We provide a payroll data conversion tool instead of manual entry into accounting software.",
+  "problem": "Manual payroll data entry leads to errors and delays in processing.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Indie Hackers discussions on workflow solutions",
+    "DM outreach to Etsy sellers with demo video",
+    "Community forums for Etsy seller tool sharing"
+  ],
+  "try_it": "Let users try user-friendly data input and validation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Provide one-click export for reports",
+    "Simplify onboarding steps"
+  ]
+}

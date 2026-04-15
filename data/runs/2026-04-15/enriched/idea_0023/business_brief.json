@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized marketing agencies processing 10\u201320 vendor compliance documents/month tool",
+  "description": "For procurement managers in mid-sized marketing agencies processing 10\u201320 vendor compliance documents/month, manual tracking causes missed expirations and potential supplier penalties. We automate compliance verification instead of manual tracking of compliance documents and expirations.",
+  "target_audience": "procurement managers in mid-sized marketing agencies processing 10\u201320 vendor compliance documents/month",
+  "problem_solved": "Ensuring vendor compliance and managing document expirations.",
+  "features": [
+    "expiration date notifications",
+    "manual compliance verification checklist",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized marketing agencies processing 10\u201320 vendor compliance documents/month",
+    "primary_problem": "Ensuring vendor compliance and managing document expirations.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For procurement managers in mid-sized marketing agencies processing 10\u201320 vendor compliance documents/month, manual tracking causes missed expirations and potential supplier penalties. We automate compliance verification instead of manual tracking of compliance documents and expirations.",
+    "current_alternative": "manual tracking of compliance documents and expirations",
+    "must_have_features": [
+      "expiration date notifications",
+      "manual compliance verification checklist",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized marketing agencies processing 10\u201320 vendor compliance documents/month, manual tracking causes missed expirations and potential supplier penalties. We automate compliance verification instead of manual tracking of compliance documents and expirations.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-15",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

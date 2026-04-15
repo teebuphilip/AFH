@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics supervisors at freight brokers managing 5\u201315 delivery routes/day tool",
+  "description": "For logistics supervisors at freight brokers processing 5\u201315 delivery routes/day, route deviations cause late deliveries. We provide real-time tracking instead of manual tracking via spreadsheets or phone calls.",
+  "target_audience": "logistics supervisors at freight brokers managing 5\u201315 delivery routes/day",
+  "problem_solved": "inability to monitor and respond to route deviations in real-time",
+  "features": [
+    "real-time route tracking",
+    "deviation alert notifications",
+    "manual entry for route adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics supervisors at freight brokers managing 5\u201315 delivery routes/day",
+    "primary_problem": "inability to monitor and respond to route deviations in real-time",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics supervisors at freight brokers processing 5\u201315 delivery routes/day, route deviations cause late deliveries. We provide real-time tracking instead of manual tracking via spreadsheets or phone calls.",
+    "current_alternative": "manual tracking via spreadsheets or phone calls",
+    "must_have_features": [
+      "real-time route tracking",
+      "deviation alert notifications",
+      "manual entry for route adjustments"
+    ]
+  },
+  "one_liner": "For logistics supervisors at freight brokers processing 5\u201315 delivery routes/day, route deviations cause late deliveries. We provide real-time tracking instead of manual tracking via spreadsheets or phone calls.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-15",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

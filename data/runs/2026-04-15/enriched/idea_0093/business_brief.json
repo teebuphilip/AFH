@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties/month tool",
+  "description": "For property managers handling 10-20 properties/month, inefficient tracking of inspections causes compliance issues. We provide automated compliance reporting instead of manual tracking and reporting through spreadsheets.",
+  "target_audience": "property managers handling 10-20 properties/month",
+  "problem_solved": "Difficulty in tracking property inspections and generating timely audit reports.",
+  "features": [
+    "manual entry for inspection data",
+    "template generation for audit reports",
+    "reminder notifications for upcoming inspections"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties/month",
+    "primary_problem": "Difficulty in tracking property inspections and generating timely audit reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For property managers handling 10-20 properties/month, inefficient tracking of inspections causes compliance issues. We provide automated compliance reporting instead of manual tracking and reporting through spreadsheets.",
+    "current_alternative": "manual tracking and reporting through spreadsheets",
+    "must_have_features": [
+      "manual entry for inspection data",
+      "template generation for audit reports",
+      "reminder notifications for upcoming inspections"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties/month, inefficient tracking of inspections causes compliance issues. We provide automated compliance reporting instead of manual tracking and reporting through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-15",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

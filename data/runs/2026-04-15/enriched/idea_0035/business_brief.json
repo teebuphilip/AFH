@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Fleet Compliance Officers managing 20-50 vehicles tool",
+  "description": "For Fleet Compliance Officers managing 20-50 vehicles, inefficient tracking of inspection compliance causes potential fines and operational delays. We provide automated compliance reporting instead of manual tracking through spreadsheets and paper records.",
+  "target_audience": "Fleet Compliance Officers managing 20-50 vehicles",
+  "problem_solved": "Difficulty in tracking vehicle inspection compliance",
+  "features": [
+    "Manual entry for inspection records",
+    "Basic reporting dashboard for compliance status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Fleet Compliance Officers managing 20-50 vehicles",
+    "primary_problem": "Difficulty in tracking vehicle inspection compliance",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Fleet Compliance Officers managing 20-50 vehicles, inefficient tracking of inspection compliance causes potential fines and operational delays. We provide automated compliance reporting instead of manual tracking through spreadsheets and paper records.",
+    "current_alternative": "Manual tracking through spreadsheets and paper records",
+    "must_have_features": [
+      "Manual entry for inspection records",
+      "Basic reporting dashboard for compliance status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Fleet Compliance Officers managing 20-50 vehicles, inefficient tracking of inspection compliance causes potential fines and operational delays. We provide automated compliance reporting instead of manual tracking through spreadsheets and paper records.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-15",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

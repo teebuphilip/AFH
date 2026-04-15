@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201315 vehicles tool",
+  "description": "For logistics carriers managing 5\u201315 vehicles, inconsistent vehicle maintenance causes compliance issues. We provide a fleet management system instead of manual tracking via spreadsheets.",
+  "target_audience": "logistics carriers managing 5\u201315 vehicles",
+  "problem_solved": "Inconsistent vehicle maintenance leads to compliance issues.",
+  "features": [
+    "vehicle maintenance logging",
+    "compliance tracking",
+    "manual entry for maintenance records"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201315 vehicles",
+    "primary_problem": "Inconsistent vehicle maintenance leads to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For logistics carriers managing 5\u201315 vehicles, inconsistent vehicle maintenance causes compliance issues. We provide a fleet management system instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "vehicle maintenance logging",
+      "compliance tracking",
+      "manual entry for maintenance records"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5\u201315 vehicles, inconsistent vehicle maintenance causes compliance issues. We provide a fleet management system instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0076",
+    "run_date": "2026-04-15",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

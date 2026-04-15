@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201320 invoices/month tool",
+  "description": "For logistics carriers processing 10\u201320 invoices/month, manual procurement causes late orders. We automate procurement workflows instead of manual procurement processes.",
+  "target_audience": "logistics carriers processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient procurement processes leading to delays and errors.",
+  "features": [
+    "invoice tracking",
+    "basic reporting on procurement activities",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient procurement processes leading to delays and errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201320 invoices/month, manual procurement causes late orders. We automate procurement workflows instead of manual procurement processes.",
+    "current_alternative": "manual procurement processes",
+    "must_have_features": [
+      "invoice tracking",
+      "basic reporting on procurement activities",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201320 invoices/month, manual procurement causes late orders. We automate procurement workflows instead of manual procurement processes.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-15",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

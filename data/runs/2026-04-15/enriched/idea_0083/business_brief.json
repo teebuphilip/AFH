@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators managing 10-20 delivery routes per day tool",
+  "description": "For logistics coordinators processing 10-20 delivery routes per day, inefficient routing causes late deliveries. We provide optimized scheduling instead of manual scheduling and tracking methods.",
+  "target_audience": "logistics coordinators managing 10-20 delivery routes per day",
+  "problem_solved": "Inefficient routing and tracking of delivery schedules",
+  "features": [
+    "route optimization tool",
+    "driver hour tracking",
+    "delivery schedule visualization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators managing 10-20 delivery routes per day",
+    "primary_problem": "Inefficient routing and tracking of delivery schedules",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators processing 10-20 delivery routes per day, inefficient routing causes late deliveries. We provide optimized scheduling instead of manual scheduling and tracking methods.",
+    "current_alternative": "manual scheduling and tracking methods",
+    "must_have_features": [
+      "route optimization tool",
+      "driver hour tracking",
+      "delivery schedule visualization"
+    ]
+  },
+  "one_liner": "For logistics coordinators processing 10-20 delivery routes per day, inefficient routing causes late deliveries. We provide optimized scheduling instead of manual scheduling and tracking methods.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-15",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

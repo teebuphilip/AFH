@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 20-50 invoices/month tool",
+  "description": "For medical clinics processing 20-50 invoices/month, delayed insurance claims cause cash flow gaps. We provide automated coding and submission instead of manual billing processes.",
+  "target_audience": "medical clinics processing 20-50 invoices/month",
+  "problem_solved": "timely insurance claim submissions",
+  "features": [
+    "manual entry for patient records",
+    "basic claim submission tracking",
+    "simple reporting for revenue insights"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 20-50 invoices/month",
+    "primary_problem": "timely insurance claim submissions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 20-50 invoices/month, delayed insurance claims cause cash flow gaps. We provide automated coding and submission instead of manual billing processes.",
+    "current_alternative": "manual billing processes",
+    "must_have_features": [
+      "manual entry for patient records",
+      "basic claim submission tracking",
+      "simple reporting for revenue insights"
+    ]
+  },
+  "one_liner": "For medical clinics processing 20-50 invoices/month, delayed insurance claims cause cash flow gaps. We provide automated coding and submission instead of manual billing processes.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-15",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

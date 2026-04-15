@@ -1,0 +1,15 @@
+{
+  "idea_text": "Compliance reporting that tracks property inspections and generates audit reports for property management firms.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-15T10:32:12.064871",
+  "verdict_source": "overlay_score"
+}

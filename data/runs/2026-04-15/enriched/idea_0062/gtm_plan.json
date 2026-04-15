@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small to medium-sized marketing agencies using BambooHR",
+  "offer": "For HR managers in small to medium-sized marketing agencies using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delayed project starts. We streamline the onboarding workflow instead of manual onboarding processes with multiple spreadsheets.",
+  "problem": "Inefficient onboarding processes lead to delayed project starts.",
+  "channels_free": [
+    "Post in Reddit communities for HR managers seeking solutions",
+    "Indie Hackers discussions on similar onboarding challenges",
+    "DM outreach to HR managers with onboarding demo video",
+    "Community forums for HR managers sharing onboarding tools"
+  ],
+  "try_it": "Let users try checklist for onboarding tasks on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video of the onboarding process",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Provide one-click export of reports",
+    "Reduce steps in the onboarding process"
+  ]
+}

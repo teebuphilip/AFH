@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "finance operations managers in accounting firms processing 10\u201350 invoices/month tool",
+  "description": "For finance operations managers in accounting firms processing 10\u201350 invoices/month, manual review causes missed anomalies. We flag anomalies instead of manual review of expense reports.",
+  "target_audience": "finance operations managers in accounting firms processing 10\u201350 invoices/month",
+  "problem_solved": "Identifying anomalies in expense reports",
+  "features": [
+    "anomaly detection alerts",
+    "manual report generation",
+    "user-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "finance operations managers in accounting firms processing 10\u201350 invoices/month",
+    "primary_problem": "Identifying anomalies in expense reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For finance operations managers in accounting firms processing 10\u201350 invoices/month, manual review causes missed anomalies. We flag anomalies instead of manual review of expense reports.",
+    "current_alternative": "manual review of expense reports",
+    "must_have_features": [
+      "anomaly detection alerts",
+      "manual report generation",
+      "user-friendly dashboard"
+    ]
+  },
+  "one_liner": "For finance operations managers in accounting firms processing 10\u201350 invoices/month, manual review causes missed anomalies. We flag anomalies instead of manual review of expense reports.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-15",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

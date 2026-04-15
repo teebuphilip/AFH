@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "field service payroll administrators processing 10\u201320 timecards/week",
+  "offer": "For field service payroll administrators processing 10\u201320 timecards/week, manual reconciliation causes payroll delays. We automate timecard reconciliation instead of manual reconciliation using spreadsheets.",
+  "problem": "manual reconciliation of timecards leading to errors and delays",
+  "channels_free": [
+    "Post in Reddit communities for payroll administrators",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to 20-50 payroll administrators with demo",
+    "Community forums for sharing payroll tools"
+  ],
+  "try_it": "Let users try user-friendly interface for timecard entry",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps during onboarding"
+  ]
+}

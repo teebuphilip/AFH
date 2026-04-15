@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201320 clients tool",
+  "description": "For accounting firms managing 10\u201320 clients, manual tracking of subscriptions causes missed renewals. We automate alerts for upcoming renewals instead of manual tracking through spreadsheets.",
+  "target_audience": "accounting firms managing 10\u201320 clients",
+  "problem_solved": "Difficulty in tracking multiple subscription renewals and cancellations for clients.",
+  "features": [
+    "Subscription tracking dashboard",
+    "Email alerts for upcoming renewals",
+    "Client-specific subscription management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201320 clients",
+    "primary_problem": "Difficulty in tracking multiple subscription renewals and cancellations for clients.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201320 clients, manual tracking of subscriptions causes missed renewals. We automate alerts for upcoming renewals instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "Subscription tracking dashboard",
+      "Email alerts for upcoming renewals",
+      "Client-specific subscription management"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201320 clients, manual tracking of subscriptions causes missed renewals. We automate alerts for upcoming renewals instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-15",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR teams in small to medium-sized accounting firms processing 5\u201315 timesheets/month tool",
+  "description": "For HR teams in small to medium-sized accounting firms processing 5\u201315 timesheets/month, manual reconciliation causes delays in payroll processing. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "HR teams in small to medium-sized accounting firms processing 5\u201315 timesheets/month",
+  "problem_solved": "Manual reconciliation of timesheets against payroll inputs is time-consuming and error-prone.",
+  "features": [
+    "User-friendly interface for timesheet entry",
+    "Monthly summary reports for payroll reconciliation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR teams in small to medium-sized accounting firms processing 5\u201315 timesheets/month",
+    "primary_problem": "Manual reconciliation of timesheets against payroll inputs is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR teams in small to medium-sized accounting firms processing 5\u201315 timesheets/month, manual reconciliation causes delays in payroll processing. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "Manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "User-friendly interface for timesheet entry",
+      "Monthly summary reports for payroll reconciliation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR teams in small to medium-sized accounting firms processing 5\u201315 timesheets/month, manual reconciliation causes delays in payroll processing. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-15",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

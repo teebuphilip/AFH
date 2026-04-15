@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 rent reports/month tool",
+  "description": "For property managers processing 5\u201315 rent reports/month, inconsistent reporting causes cash flow gaps. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "property managers processing 5\u201315 rent reports/month",
+  "problem_solved": "Inconsistent and delayed rent reporting leads to cash flow gaps.",
+  "features": [
+    "template-based report generation",
+    "monthly report scheduling",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 rent reports/month",
+    "primary_problem": "Inconsistent and delayed rent reporting leads to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 rent reports/month, inconsistent reporting causes cash flow gaps. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "monthly report scheduling",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 rent reports/month, inconsistent reporting causes cash flow gaps. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-15",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

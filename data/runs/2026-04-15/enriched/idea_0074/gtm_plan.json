@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors processing 5\u201315 permit applications/month",
+  "offer": "For construction contractors processing 5\u201315 permit applications/month, delays in permit application submissions cause project hold-ups. We automate submissions instead of manual submission of permit applications.",
+  "problem": "Delays in permit application submissions lead to project hold-ups.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on workflow solutions",
+    "DM outreach to contractors with demo video",
+    "Community forums for sharing tools and tips"
+  ],
+  "try_it": "Let users try status tracking and manual invoice entry",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early access to first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing data",
+    "Enable one-click export of reports",
+    "Streamline onboarding steps for new users"
+  ]
+}

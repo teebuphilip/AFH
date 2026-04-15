@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors processing 5\u201315 bids/month",
+  "offer": "For construction contractors processing 5\u201315 bids/month, inconsistent proposal formats cause delays in project approvals. We streamline proposal generation instead of manual proposal creation using word processors.",
+  "problem": "Inconsistent proposal formats lead to confusion and delays in project approvals.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to construction contractors with demo video",
+    "Community forums for sharing tools among contractors"
+  ],
+  "try_it": "Let users try template-based proposal generation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of the manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

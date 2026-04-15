@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, unformatted purchase order data causes compliance issues. We convert raw data into formatted compliance summaries instead of manual formatting of purchase orders.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Unformatted purchase order data leads to compliance issues.",
+  "features": [
+    "manual data entry for purchase orders",
+    "template for compliance summaries",
+    "export functionality for reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Unformatted purchase order data leads to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, unformatted purchase order data causes compliance issues. We convert raw data into formatted compliance summaries instead of manual formatting of purchase orders.",
+    "current_alternative": "manual formatting of purchase orders",
+    "must_have_features": [
+      "manual data entry for purchase orders",
+      "template for compliance summaries",
+      "export functionality for reports"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, unformatted purchase order data causes compliance issues. We convert raw data into formatted compliance summaries instead of manual formatting of purchase orders.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-15",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

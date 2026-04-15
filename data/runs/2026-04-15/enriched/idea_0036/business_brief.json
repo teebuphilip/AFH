@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "dental clinic receptionists managing 50-100 appointments/week tool",
+  "description": "For dental clinic receptionists processing 50-100 appointments/week, inefficient scheduling causes missed appointments. We automate scheduling and reminders instead of manual scheduling and phone reminders.",
+  "target_audience": "dental clinic receptionists managing 50-100 appointments/week",
+  "problem_solved": "Inefficient scheduling and reminder notifications",
+  "features": [
+    "Appointment scheduling interface",
+    "User-friendly dashboard for managing appointments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "dental clinic receptionists managing 50-100 appointments/week",
+    "primary_problem": "Inefficient scheduling and reminder notifications",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For dental clinic receptionists processing 50-100 appointments/week, inefficient scheduling causes missed appointments. We automate scheduling and reminders instead of manual scheduling and phone reminders.",
+    "current_alternative": "manual scheduling and phone reminders",
+    "must_have_features": [
+      "Appointment scheduling interface",
+      "User-friendly dashboard for managing appointments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For dental clinic receptionists processing 50-100 appointments/week, inefficient scheduling causes missed appointments. We automate scheduling and reminders instead of manual scheduling and phone reminders.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility bills/month tool",
+  "description": "For property managers processing 5\u201315 utility bills/month, inconsistent billing causes cash flow gaps. We provide automated bill extraction and variance alerts instead of manual tracking in spreadsheets.",
+  "target_audience": "property managers processing 5\u201315 utility bills/month",
+  "problem_solved": "Difficulty in tracking and managing utility expenses across multiple properties.",
+  "features": [
+    "manual entry for utility bill details",
+    "monthly variance alert notifications",
+    "consolidated view of utility expenses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility bills/month",
+    "primary_problem": "Difficulty in tracking and managing utility expenses across multiple properties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 utility bills/month, inconsistent billing causes cash flow gaps. We provide automated bill extraction and variance alerts instead of manual tracking in spreadsheets.",
+    "current_alternative": "manual tracking of utility bills in spreadsheets",
+    "must_have_features": [
+      "manual entry for utility bill details",
+      "monthly variance alert notifications",
+      "consolidated view of utility expenses"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 utility bills/month, inconsistent billing causes cash flow gaps. We provide automated bill extraction and variance alerts instead of manual tracking in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-15",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

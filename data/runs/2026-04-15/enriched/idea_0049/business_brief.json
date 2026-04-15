@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet managers in logistics companies managing 10-50 vehicles tool",
+  "description": "For fleet managers in logistics companies processing 10-50 vehicles, inefficient reporting causes increased operational costs. We automate weekly vehicle usage and fuel consumption reports instead of manual reporting processes using spreadsheets.",
+  "target_audience": "fleet managers in logistics companies managing 10-50 vehicles",
+  "problem_solved": "inefficient reporting on vehicle usage and fuel consumption",
+  "features": [
+    "customizable report templates",
+    "data visualization for fuel consumption trends",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet managers in logistics companies managing 10-50 vehicles",
+    "primary_problem": "inefficient reporting on vehicle usage and fuel consumption",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet managers in logistics companies processing 10-50 vehicles, inefficient reporting causes increased operational costs. We automate weekly vehicle usage and fuel consumption reports instead of manual reporting processes using spreadsheets.",
+    "current_alternative": "manual reporting processes using spreadsheets",
+    "must_have_features": [
+      "customizable report templates",
+      "data visualization for fuel consumption trends",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet managers in logistics companies processing 10-50 vehicles, inefficient reporting causes increased operational costs. We automate weekly vehicle usage and fuel consumption reports instead of manual reporting processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-15",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

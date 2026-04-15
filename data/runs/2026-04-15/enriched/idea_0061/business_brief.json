@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized e-commerce companies using Shopify, processing 10\u201350 invoices/month tool",
+  "description": "For procurement teams in mid-sized e-commerce companies using Shopify processing 10\u201350 invoices/month, delayed supplier status updates cause missed discounts and late orders. We provide real-time alerts instead of manual tracking of supplier status through emails and spreadsheets.",
+  "target_audience": "procurement teams in mid-sized e-commerce companies using Shopify, processing 10\u201350 invoices/month",
+  "problem_solved": "Inability to track supplier status changes in real-time.",
+  "features": [
+    "real-time supplier status alerts",
+    "manual entry for supplier information",
+    "dashboard for tracking supplier changes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized e-commerce companies using Shopify, processing 10\u201350 invoices/month",
+    "primary_problem": "Inability to track supplier status changes in real-time.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement teams in mid-sized e-commerce companies using Shopify processing 10\u201350 invoices/month, delayed supplier status updates cause missed discounts and late orders. We provide real-time alerts instead of manual tracking of supplier status through emails and spreadsheets.",
+    "current_alternative": "manual tracking of supplier status through emails and spreadsheets",
+    "must_have_features": [
+      "real-time supplier status alerts",
+      "manual entry for supplier information",
+      "dashboard for tracking supplier changes"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized e-commerce companies using Shopify processing 10\u201350 invoices/month, delayed supplier status updates cause missed discounts and late orders. We provide real-time alerts instead of manual tracking of supplier status through emails and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-15",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

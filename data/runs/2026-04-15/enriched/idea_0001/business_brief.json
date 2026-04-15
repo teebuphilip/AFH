@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers at small marketing agencies processing 10-20 invoices/month tool",
+  "description": "For procurement managers at small marketing agencies processing 10-20 invoices/month, manual reconciliation causes late payments, leading to service disruptions. We automate invoice reconciliation instead of manual invoice reconciliation using spreadsheets.",
+  "target_audience": "procurement managers at small marketing agencies processing 10-20 invoices/month",
+  "problem_solved": "manual reconciliation of vendor invoices leading to errors and delays",
+  "features": [
+    "exception reporting dashboard",
+    "email notifications for discrepancies",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers at small marketing agencies processing 10-20 invoices/month",
+    "primary_problem": "manual reconciliation of vendor invoices leading to errors and delays",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers at small marketing agencies processing 10-20 invoices/month, manual reconciliation causes late payments, leading to service disruptions. We automate invoice reconciliation instead of manual invoice reconciliation using spreadsheets.",
+    "current_alternative": "manual invoice reconciliation using spreadsheets",
+    "must_have_features": [
+      "exception reporting dashboard",
+      "email notifications for discrepancies",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers at small marketing agencies processing 10-20 invoices/month, manual reconciliation causes late payments, leading to service disruptions. We automate invoice reconciliation instead of manual invoice reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0001",
+    "run_date": "2026-04-15",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

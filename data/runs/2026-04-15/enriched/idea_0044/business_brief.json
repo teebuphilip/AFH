@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "operations managers in home services companies processing 5\u201315 job completion reports/day tool",
+  "description": "For operations managers in home services companies processing 5\u201315 job completion reports/day, inefficient tracking causes delayed reporting. We automate report compilation instead of manual compilation of reports from various sources.",
+  "target_audience": "operations managers in home services companies processing 5\u201315 job completion reports/day",
+  "problem_solved": "inefficient tracking of job completion leads to delayed reporting and operational inefficiencies.",
+  "features": [
+    "manual report entry",
+    "daily summary generation",
+    "performance tracking dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "operations managers in home services companies processing 5\u201315 job completion reports/day",
+    "primary_problem": "inefficient tracking of job completion leads to delayed reporting and operational inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For operations managers in home services companies processing 5\u201315 job completion reports/day, inefficient tracking causes delayed reporting. We automate report compilation instead of manual compilation of reports from various sources.",
+    "current_alternative": "manual compilation of reports from various sources",
+    "must_have_features": [
+      "manual report entry",
+      "daily summary generation",
+      "performance tracking dashboard"
+    ]
+  },
+  "one_liner": "For operations managers in home services companies processing 5\u201315 job completion reports/day, inefficient tracking causes delayed reporting. We automate report compilation instead of manual compilation of reports from various sources.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-15",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

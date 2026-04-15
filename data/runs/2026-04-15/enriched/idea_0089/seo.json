@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "medical clinics timely tool",
+    "medical clinics timely automation",
+    "medical records workflow",
+    "patient records",
+    "medical clinics processing 20-50 invoices month timely tool",
+    "medical clinics processing 20-50 invoices month timely automation",
+    "medical clinics processing 20-50 invoices month timely workflow"
+  ],
+  "secondary_keywords": [
+    "medical records workflow software",
+    "medical records workflow platform",
+    "medical records workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to medical records workflow",
+    "best medical records workflow tool",
+    "medical records workflow vs spreadsheets",
+    "medical records workflow checklist",
+    "medical records workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For medical clinics processing 20-50 invoices/month, delayed insurance claims cause cash flow gaps. We provide automated coding and submission instead of manual billing processes.",
+    "timely insurance claim submissions",
+    "medical clinics processing 20-50 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Medical Records Workflow",
+      "target_keyword": "how to medical records workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Medical Records Workflow Tool",
+      "target_keyword": "best medical records workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Medical Records Workflow Vs Spreadsheets",
+      "target_keyword": "medical records workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Medical Records Workflow Checklist",
+      "target_keyword": "medical records workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Pricing",
+      "target_keyword": "medical records workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Software",
+      "target_keyword": "medical records workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Platform",
+      "target_keyword": "medical records workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Solution",
+      "target_keyword": "medical records workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow",
+      "target_keyword": "medical records workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Patient Records",
+      "target_keyword": "patient records",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Clinics Processing 20-50 Invoices Month Timely Tool",
+      "target_keyword": "medical clinics processing 20-50 invoices month timely tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Medical Clinics Processing 20-50 Invoices Month Timely Automation",
+      "target_keyword": "medical clinics processing 20-50 invoices month timely automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "medical clinics timely tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "medical clinics timely tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "medical clinics timely tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "medical clinics timely tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "medical clinics timely tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | medical clinics tool",
+      "medical clinics tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "medical clinics tool helps with timely insurance claim submissions."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

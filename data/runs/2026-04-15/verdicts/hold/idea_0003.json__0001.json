@@ -1,0 +1,18 @@
+{
+  "idea_text": "Automation that generates monthly expense reports by aggregating employee receipts for finance ops review.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 78,
+  "arr_score": 78.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-15T10:32:12.051900",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-15T10:32:12.109429",
+  "hold_reason": "arr_70_89"
+}

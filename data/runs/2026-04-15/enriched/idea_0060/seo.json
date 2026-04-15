@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "amazon sellers inaccurate tool",
+    "amazon sellers inaccurate automation",
+    "we provide data",
+    "amazon sellers processing 20 50 orders month inaccurate tool",
+    "amazon sellers processing 20 50 orders month inaccurate automation",
+    "amazon sellers processing 20 50 orders month inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "we provide data software",
+    "we provide data platform",
+    "we provide data solution"
+  ],
+  "long_tail_keywords": [
+    "how to we provide data",
+    "best we provide data tool",
+    "we provide data vs spreadsheets",
+    "we provide data checklist",
+    "we provide data pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Amazon sellers processing 20\u201350 orders/month, inaccurate sales projections cause stockouts and lost sales opportunities. We provide data-driven forecasts instead of manual spreadsheets and guesswork.",
+    "Inaccurate sales projections leading to stockouts and lost sales opportunities.",
+    "Amazon sellers processing 20\u201350 orders/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Provide Data",
+      "target_keyword": "how to we provide data",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Provide Data Tool",
+      "target_keyword": "best we provide data tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Data Vs Spreadsheets",
+      "target_keyword": "we provide data vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Data Checklist",
+      "target_keyword": "we provide data checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Data Pricing",
+      "target_keyword": "we provide data pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Data Software",
+      "target_keyword": "we provide data software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Data Platform",
+      "target_keyword": "we provide data platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Data Solution",
+      "target_keyword": "we provide data solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Data",
+      "target_keyword": "we provide data",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Amazon Sellers Processing 20 50 Orders Month Inaccurate Tool",
+      "target_keyword": "amazon sellers processing 20 50 orders month inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 20 50 Orders Month Inaccurate Automation",
+      "target_keyword": "amazon sellers processing 20 50 orders month inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 20 50 Orders Month Inaccurate Workflow",
+      "target_keyword": "amazon sellers processing 20 50 orders month inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "amazon sellers inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "amazon sellers inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "amazon sellers inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "amazon sellers inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "amazon sellers inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | amazon sellers tool",
+      "amazon sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "amazon sellers tool helps with inaccurate sales projections leading to stockouts and lost sales opportunities."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

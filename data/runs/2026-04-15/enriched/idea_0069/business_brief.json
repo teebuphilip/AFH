@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 5\u201315 clients using QuickBooks tool",
+  "description": "For bookkeepers managing 5\u201315 clients using QuickBooks, manual reconciliation causes cash flow gaps. We automate accounts receivable reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "bookkeepers managing 5\u201315 clients using QuickBooks",
+  "problem_solved": "Manual reconciliation processes are time-consuming and error-prone.",
+  "features": [
+    "user-friendly interface for manual entry",
+    "detailed reporting for reconciliation status",
+    "notification system for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 5\u201315 clients using QuickBooks",
+    "primary_problem": "Manual reconciliation processes are time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 5\u201315 clients using QuickBooks, manual reconciliation causes cash flow gaps. We automate accounts receivable reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "user-friendly interface for manual entry",
+      "detailed reporting for reconciliation status",
+      "notification system for discrepancies"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 5\u201315 clients using QuickBooks, manual reconciliation causes cash flow gaps. We automate accounts receivable reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-15",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}
