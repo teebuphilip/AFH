@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-10 projects simultaneously tool",
+  "description": "For construction contractors managing 5-10 projects simultaneously, inefficient crew assignments cause project delays. We optimize crew scheduling instead of manual scheduling via spreadsheets.",
+  "target_audience": "construction contractors managing 5-10 projects simultaneously",
+  "problem_solved": "inefficient crew assignments leading to project delays",
+  "features": [
+    "manual crew assignment input",
+    "project demand tracking",
+    "employee availability calendar"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-10 projects simultaneously",
+    "primary_problem": "inefficient crew assignments leading to project delays",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5-10 projects simultaneously, inefficient crew assignments cause project delays. We optimize crew scheduling instead of manual scheduling via spreadsheets.",
+    "current_alternative": "manual scheduling via spreadsheets",
+    "must_have_features": [
+      "manual crew assignment input",
+      "project demand tracking",
+      "employee availability calendar"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-10 projects simultaneously, inefficient crew assignments cause project delays. We optimize crew scheduling instead of manual scheduling via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

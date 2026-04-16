@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations teams in marketing agencies processing 10\u201320 commission statements/month tool",
+  "description": "For sales operations teams in marketing agencies processing 10\u201320 commission statements/month, manual calculations cause payment delays. We automate statement generation instead of manual spreadsheet calculations and email reviews.",
+  "target_audience": "sales operations teams in marketing agencies processing 10\u201320 commission statements/month",
+  "problem_solved": "Delays in generating and reviewing sales commission statements",
+  "features": [
+    "Template-based statement generation",
+    "Email notifications for reviews",
+    "Manual entry for adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations teams in marketing agencies processing 10\u201320 commission statements/month",
+    "primary_problem": "Delays in generating and reviewing sales commission statements",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations teams in marketing agencies processing 10\u201320 commission statements/month, manual calculations cause payment delays. We automate statement generation instead of manual spreadsheet calculations and email reviews.",
+    "current_alternative": "manual spreadsheet calculations and email reviews",
+    "must_have_features": [
+      "Template-based statement generation",
+      "Email notifications for reviews",
+      "Manual entry for adjustments"
+    ]
+  },
+  "one_liner": "For sales operations teams in marketing agencies processing 10\u201320 commission statements/month, manual calculations cause payment delays. We automate statement generation instead of manual spreadsheet calculations and email reviews.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-16",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

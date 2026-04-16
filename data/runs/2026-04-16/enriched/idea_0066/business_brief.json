@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate follow-ups instead of manual follow-ups via email.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Late payments from clients",
+  "features": [
+    "Payment plan negotiation prompts",
+    "Collections reporting dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Late payments from clients",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate follow-ups instead of manual follow-ups via email.",
+    "current_alternative": "manual follow-ups via email",
+    "must_have_features": [
+      "Payment plan negotiation prompts",
+      "Collections reporting dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate follow-ups instead of manual follow-ups via email.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-16",
+    "overlay_score": 60,
+    "arr_score": 60
+  }
+}

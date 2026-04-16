@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties tool",
+  "description": "For property managers handling 10-20 properties, inefficient lead capture causes missed tenant opportunities. We automate nurturing and scheduling instead of manual follow-ups and scheduling.",
+  "target_audience": "property managers handling 10-20 properties",
+  "problem_solved": "Inefficient lead capture and tenant nurturing process",
+  "features": [
+    "email nurturing sequences",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties",
+    "primary_problem": "Inefficient lead capture and tenant nurturing process",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 properties, inefficient lead capture causes missed tenant opportunities. We automate nurturing and scheduling instead of manual follow-ups and scheduling.",
+    "current_alternative": "manual follow-ups and scheduling",
+    "must_have_features": [
+      "email nurturing sequences",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties, inefficient lead capture causes missed tenant opportunities. We automate nurturing and scheduling instead of manual follow-ups and scheduling.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 5\u201315 policies/month tool",
+  "description": "For insurance brokers managing 5\u201315 policies/month, missed policy renewal deadlines cause client dissatisfaction. We send timely reminders instead of manual tracking via spreadsheets or calendars.",
+  "target_audience": "insurance brokers managing 5\u201315 policies/month",
+  "problem_solved": "missed policy renewal deadlines",
+  "features": [
+    "reminder notifications",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 5\u201315 policies/month",
+    "primary_problem": "missed policy renewal deadlines",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers managing 5\u201315 policies/month, missed policy renewal deadlines cause client dissatisfaction. We send timely reminders instead of manual tracking via spreadsheets or calendars.",
+    "current_alternative": "manual tracking via spreadsheets or calendars",
+    "must_have_features": [
+      "reminder notifications",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers managing 5\u201315 policies/month, missed policy renewal deadlines cause client dissatisfaction. We send timely reminders instead of manual tracking via spreadsheets or calendars.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-16",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

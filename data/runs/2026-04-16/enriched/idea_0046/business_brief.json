@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "billing teams at medical clinics processing 10-20 claims/month tool",
+  "description": "For billing teams at medical clinics processing 10-20 claims/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "billing teams at medical clinics processing 10-20 claims/month",
+  "problem_solved": "Inaccurate reconciliation of insurance claims leading to delayed payments.",
+  "features": [
+    "manual entry of claims data",
+    "monthly report generation",
+    "error flagging for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "billing teams at medical clinics processing 10-20 claims/month",
+    "primary_problem": "Inaccurate reconciliation of insurance claims leading to delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For billing teams at medical clinics processing 10-20 claims/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "manual entry of claims data",
+      "monthly report generation",
+      "error flagging for discrepancies"
+    ]
+  },
+  "one_liner": "For billing teams at medical clinics processing 10-20 claims/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-16",
+    "overlay_score": 74,
+    "arr_score": 78
+  }
+}

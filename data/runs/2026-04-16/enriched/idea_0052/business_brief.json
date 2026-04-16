@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized companies processing 10-50 invoices/month tool",
+  "description": "For procurement teams in mid-sized companies processing 10-50 invoices/month, inefficient tracking of spending causes missed discounts. We provide a procurement analytics dashboard instead of manual spreadsheets and basic accounting software.",
+  "target_audience": "procurement teams in mid-sized companies processing 10-50 invoices/month",
+  "problem_solved": "Inability to effectively track spending trends and identify cost-saving opportunities.",
+  "features": [
+    "spending trend visualization",
+    "cost-saving opportunity alerts",
+    "user-friendly dashboard interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized companies processing 10-50 invoices/month",
+    "primary_problem": "Inability to effectively track spending trends and identify cost-saving opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement teams in mid-sized companies processing 10-50 invoices/month, inefficient tracking of spending causes missed discounts. We provide a procurement analytics dashboard instead of manual spreadsheets and basic accounting software.",
+    "current_alternative": "manual spreadsheets and basic accounting software",
+    "must_have_features": [
+      "spending trend visualization",
+      "cost-saving opportunity alerts",
+      "user-friendly dashboard interface"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized companies processing 10-50 invoices/month, inefficient tracking of spending causes missed discounts. We provide a procurement analytics dashboard instead of manual spreadsheets and basic accounting software.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-16",
+    "overlay_score": 63,
+    "arr_score": 65
+  }
+}

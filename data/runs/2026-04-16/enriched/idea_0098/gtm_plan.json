@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firms processing 5\u201315 invoices/month",
+  "offer": "For law firms processing 5\u201315 invoices/month, inefficient billing workflows cause cash flow gaps. We centralize client information and document storage instead of manual tracking and spreadsheets.",
+  "problem": "inefficient billing workflows",
+  "channels_free": [
+    "Post in Reddit communities for law firm billing help",
+    "Indie Hackers discussions on legal workflow solutions",
+    "DM outreach to law firms with demo video",
+    "Community forums for law firms discussing tools"
+  ],
+  "try_it": "Let users try client info storage and document management",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for tasks",
+    "Allow CSV import for existing client data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

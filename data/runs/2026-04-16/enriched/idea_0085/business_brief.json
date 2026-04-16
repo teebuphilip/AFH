@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers managing 5\u201315 clients tool",
+  "description": "For insurance brokers managing 5\u201315 clients, missed renewals cause client dissatisfaction. We provide automated monitoring instead of manual tracking through spreadsheets.",
+  "target_audience": "insurance brokers managing 5\u201315 clients",
+  "problem_solved": "Difficulty in tracking policy renewals and changes in client risk profiles.",
+  "features": [
+    "policy renewal alerts",
+    "risk profile change notifications",
+    "coverage detail summaries"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers managing 5\u201315 clients",
+    "primary_problem": "Difficulty in tracking policy renewals and changes in client risk profiles.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers managing 5\u201315 clients, missed renewals cause client dissatisfaction. We provide automated monitoring instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "policy renewal alerts",
+      "risk profile change notifications",
+      "coverage detail summaries"
+    ]
+  },
+  "one_liner": "For insurance brokers managing 5\u201315 clients, missed renewals cause client dissatisfaction. We provide automated monitoring instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

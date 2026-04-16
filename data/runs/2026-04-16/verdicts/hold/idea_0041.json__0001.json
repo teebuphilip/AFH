@@ -1,0 +1,15 @@
+{
+  "idea_text": "System that compiles and files routine OSHA compliance reports for field service supervisors.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-16T10:31:10.547930",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized tech startups using BambooHR for onboarding tool",
+  "description": "For HR managers in small to medium-sized tech startups processing 5\u201315 new hires/month, manual paperwork causes delays in new hire integration. We automate onboarding instead of manual processes.",
+  "target_audience": "HR managers in small to medium-sized tech startups using BambooHR for onboarding",
+  "problem_solved": "Inefficient onboarding process leading to delays in new hire integration.",
+  "features": [
+    "Digital new hire paperwork submission",
+    "Policy acknowledgment tracking",
+    "Benefit enrollment reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized tech startups using BambooHR for onboarding",
+    "primary_problem": "Inefficient onboarding process leading to delays in new hire integration.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized tech startups processing 5\u201315 new hires/month, manual paperwork causes delays in new hire integration. We automate onboarding instead of manual processes.",
+    "current_alternative": "Manual onboarding processes with paper forms and email communication.",
+    "must_have_features": [
+      "Digital new hire paperwork submission",
+      "Policy acknowledgment tracking",
+      "Benefit enrollment reminders"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized tech startups processing 5\u201315 new hires/month, manual paperwork causes delays in new hire integration. We automate onboarding instead of manual processes.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

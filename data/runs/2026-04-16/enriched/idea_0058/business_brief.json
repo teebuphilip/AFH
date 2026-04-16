@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 rental units tool",
+  "description": "For property managers handling 10-20 rental units, inefficient rent collection causes cash flow gaps. We automate rent collection instead of manual rent collection via checks and cash.",
+  "target_audience": "property managers handling 10-20 rental units",
+  "problem_solved": "inefficient rent collection processes",
+  "features": [
+    "maintenance request tracking",
+    "tenant communication log",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 rental units",
+    "primary_problem": "inefficient rent collection processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 rental units, inefficient rent collection causes cash flow gaps. We automate rent collection instead of manual rent collection via checks and cash.",
+    "current_alternative": "manual rent collection via checks and cash",
+    "must_have_features": [
+      "maintenance request tracking",
+      "tenant communication log",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 rental units, inefficient rent collection causes cash flow gaps. We automate rent collection instead of manual rent collection via checks and cash.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-16",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201320 invoices/month",
+  "offer": "For Amazon sellers processing 10\u201320 invoices/month, invoice discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation of invoices and purchase orders.",
+  "problem": "Discrepancies between vendor invoices and purchase orders",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to Amazon sellers with demo video",
+    "Engage in community forums for Amazon sellers"
+  ],
+  "try_it": "Let users try Email weekly reports and Provide a dashboard for invoice status",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Reduce steps in onboarding process"
+  ]
+}

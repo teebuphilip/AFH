@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in small clinics processing 5\u201315 invoices/month tool",
+  "description": "For medical billing specialists in small clinics processing 5\u201315 invoices/month, inefficient conversion of billing codes causes submission errors. We automate the conversion instead of manual entry of billing codes into insurance forms.",
+  "target_audience": "medical billing specialists in small clinics processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient conversion of medical billing codes into insurance submission files.",
+  "features": [
+    "manual code entry interface",
+    "error-checking for billing codes",
+    "export functionality for submission files"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in small clinics processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient conversion of medical billing codes into insurance submission files.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in small clinics processing 5\u201315 invoices/month, inefficient conversion of billing codes causes submission errors. We automate the conversion instead of manual entry of billing codes into insurance forms.",
+    "current_alternative": "manual entry of billing codes into insurance forms",
+    "must_have_features": [
+      "manual code entry interface",
+      "error-checking for billing codes",
+      "export functionality for submission files"
+    ]
+  },
+  "one_liner": "For medical billing specialists in small clinics processing 5\u201315 invoices/month, inefficient conversion of billing codes causes submission errors. We automate the conversion instead of manual entry of billing codes into insurance forms.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

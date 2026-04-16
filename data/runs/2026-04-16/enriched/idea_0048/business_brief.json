@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 properties annually tool",
+  "description": "For property managers processing 5\u201315 properties annually, the complexity of tax reporting causes missed deadlines. We automate the report submission instead of manual compilation and submission of tax reports.",
+  "target_audience": "property managers processing 5\u201315 properties annually",
+  "problem_solved": "Compiling and submitting annual property tax reports is time-consuming and prone to errors.",
+  "features": [
+    "manual data entry for property details",
+    "email notifications for submission confirmations",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 properties annually",
+    "primary_problem": "Compiling and submitting annual property tax reports is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 properties annually, the complexity of tax reporting causes missed deadlines. We automate the report submission instead of manual compilation and submission of tax reports.",
+    "current_alternative": "manual compilation and submission of tax reports",
+    "must_have_features": [
+      "manual data entry for property details",
+      "email notifications for submission confirmations",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 properties annually, the complexity of tax reporting causes missed deadlines. We automate the report submission instead of manual compilation and submission of tax reports.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-16",
+    "overlay_score": 73,
+    "arr_score": 75
+  }
+}

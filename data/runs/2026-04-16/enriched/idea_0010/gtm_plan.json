@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers managing 5\u201315 properties",
+  "offer": "For property managers managing 5\u201315 properties, inefficient utility tracking causes high operational costs. We provide weekly utility usage reports instead of manual tracking of utility bills.",
+  "problem": "High operational costs due to inefficient utility tracking.",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to property managers with demo video",
+    "Share insights in community forums for property managers"
+  ],
+  "try_it": "Let users try weekly utility reports for 1-3 properties",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video on manual tracking",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "restaurant procurement managers manual tool",
+    "restaurant procurement managers manual automation",
+    "invoice payments",
+    "invoice tracking",
+    "payment reminders",
+    "vendor invoices"
+  ],
+  "secondary_keywords": [
+    "invoice payments software",
+    "invoice payments platform",
+    "invoice payments solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice payments",
+    "best invoice payments tool",
+    "invoice payments vs spreadsheets",
+    "invoice payments checklist",
+    "invoice payments pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For restaurant procurement managers processing 10\u201320 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+    "Manual reconciliation of supplier invoices and payments is time-consuming and error-prone.",
+    "restaurant procurement managers processing 10\u201320 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Payments",
+      "target_keyword": "how to invoice payments",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Payments Tool",
+      "target_keyword": "best invoice payments tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Payments Vs Spreadsheets",
+      "target_keyword": "invoice payments vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Payments Checklist",
+      "target_keyword": "invoice payments checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Pricing",
+      "target_keyword": "invoice payments pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Software",
+      "target_keyword": "invoice payments software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Platform",
+      "target_keyword": "invoice payments platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Solution",
+      "target_keyword": "invoice payments solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments",
+      "target_keyword": "invoice payments",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking",
+      "target_keyword": "invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payment Reminders",
+      "target_keyword": "payment reminders",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Vendor Invoices",
+      "target_keyword": "vendor invoices",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "restaurant procurement managers manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "restaurant procurement managers manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "restaurant procurement managers manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "restaurant procurement managers manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "restaurant procurement managers manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | restaurant procurement managers tool",
+      "restaurant procurement managers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "restaurant procurement managers tool helps with manual reconciliation of supplier invoices and payments is time-consuming and error-prone."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

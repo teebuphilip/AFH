@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms managing 5\u201315 clients",
+  "offer": "For accounting firms managing 5\u201315 clients, inefficient generation of fixed asset depreciation schedules causes late financial reporting. We automate schedule generation instead of manual calculations and spreadsheets.",
+  "problem": "Inefficient generation of fixed asset depreciation schedules",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to accounting firms with demo video",
+    "Community forums for accounting tools sharing"
+  ],
+  "try_it": "Let users try email notifications and manual adjustment interface",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 user interviews for feedback",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "construction contractors managing - projects simultaneously difficulty tool",
+    "construction contractors managing - projects simultaneously difficulty automation",
+    "invoice payments",
+    "invoice tracking",
+    "vendor invoices"
+  ],
+  "secondary_keywords": [
+    "invoice payments software",
+    "invoice payments platform",
+    "invoice payments solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice payments",
+    "best invoice payments tool",
+    "invoice payments vs spreadsheets",
+    "invoice payments checklist",
+    "invoice payments pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For construction contractors managing 5-10 projects simultaneously, inefficient maintenance scheduling causes equipment downtime. We automate scheduling and tracking instead of manual tracking through spreadsheets and phone calls.",
+    "Difficulty in scheduling and tracking routine equipment maintenance across multiple job sites.",
+    "construction contractors managing 5-10 projects simultaneously"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Payments",
+      "target_keyword": "how to invoice payments",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Payments Tool",
+      "target_keyword": "best invoice payments tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Payments Vs Spreadsheets",
+      "target_keyword": "invoice payments vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Payments Checklist",
+      "target_keyword": "invoice payments checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Pricing",
+      "target_keyword": "invoice payments pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Software",
+      "target_keyword": "invoice payments software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Platform",
+      "target_keyword": "invoice payments platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments Solution",
+      "target_keyword": "invoice payments solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments",
+      "target_keyword": "invoice payments",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking",
+      "target_keyword": "invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Vendor Invoices",
+      "target_keyword": "vendor invoices",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "construction contractors managing - projects simultaneously difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "construction contractors managing - projects simultaneously difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "construction contractors managing - projects simultaneously difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "construction contractors managing - projects simultaneously difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "construction contractors managing - projects simultaneously difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | construction contractors managing - projects simultaneously tool",
+      "construction contractors managing - projects simultaneously tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "construction contractors managing - projects simultaneously tool helps with difficulty in scheduling and tracking routine equipment maintenance across multiple job sites."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

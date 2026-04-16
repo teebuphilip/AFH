@@ -1,0 +1,18 @@
+{
+  "idea_text": "Automated regulatory filing generator that converts financial data into the required forms and filings for compliance teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 76,
+  "arr_score": 76.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-16T10:31:10.550567",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-16T10:31:10.600356",
+  "hold_reason": "arr_70_89"
+}

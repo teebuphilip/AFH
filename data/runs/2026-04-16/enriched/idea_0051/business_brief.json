@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small accounting firms processing 5\u201315 invoices/month tool",
+  "description": "For small accounting firms processing 5\u201315 invoices/month, inefficient client billing causes cash flow gaps. We automate invoicing and collections instead of manual invoicing and follow-ups.",
+  "target_audience": "small accounting firms processing 5\u201315 invoices/month",
+  "problem_solved": "inefficient client billing and collections process",
+  "features": [
+    "simple invoice generation",
+    "basic reporting on receivables",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small accounting firms processing 5\u201315 invoices/month",
+    "primary_problem": "inefficient client billing and collections process",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small accounting firms processing 5\u201315 invoices/month, inefficient client billing causes cash flow gaps. We automate invoicing and collections instead of manual invoicing and follow-ups.",
+    "current_alternative": "manual invoicing and follow-ups",
+    "must_have_features": [
+      "simple invoice generation",
+      "basic reporting on receivables",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small accounting firms processing 5\u201315 invoices/month, inefficient client billing causes cash flow gaps. We automate invoicing and collections instead of manual invoicing and follow-ups.",
+  "source": {
+    "idea_id": "idea_0051",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

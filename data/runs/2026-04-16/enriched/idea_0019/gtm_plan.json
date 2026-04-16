@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 5\u201315 payroll tax filings/month",
+  "offer": "For accounting firms processing 5\u201315 payroll tax filings/month, manual data entry causes delays in audit readiness. We automate report generation instead of manual data entry and report generation.",
+  "problem": "Difficulty in generating timely and accurate payroll tax reports for audits.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms seeking solutions",
+    "Engage in Indie Hackers discussions on similar challenges",
+    "DM outreach to 20-50 firms with demo video",
+    "Share insights in community forums for accounting tools"
+  ],
+  "try_it": "Let users try data extraction and report generation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with the one-liner",
+    "Produce a short demo video of the manual-first workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Update progress weekly in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy access",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing payroll data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

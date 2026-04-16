@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 contracts/month tool",
+  "description": "For Amazon sellers processing 10\u201350 contracts/month, missed renewals cause supplier penalties. We provide a vendor contract management tool instead of manual tracking through spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201350 contracts/month",
+  "problem_solved": "Difficulty in tracking contract renewals and terms with multiple vendors.",
+  "features": [
+    "Store agreements securely",
+    "Monitor contract terms",
+    "Alert for renewals"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 contracts/month",
+    "primary_problem": "Difficulty in tracking contract renewals and terms with multiple vendors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 contracts/month, missed renewals cause supplier penalties. We provide a vendor contract management tool instead of manual tracking through spreadsheets.",
+    "current_alternative": "Manual tracking through spreadsheets or basic document storage.",
+    "must_have_features": [
+      "Store agreements securely",
+      "Monitor contract terms",
+      "Alert for renewals"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 contracts/month, missed renewals cause supplier penalties. We provide a vendor contract management tool instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

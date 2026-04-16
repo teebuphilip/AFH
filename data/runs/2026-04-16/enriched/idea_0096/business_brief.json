@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freight brokers processing 10\u201320 invoices/month tool",
+  "description": "For freight brokers processing 10\u201320 invoices/month, inaccurate billing causes cash flow gaps. We validate carrier invoices against shipment data instead of manual invoice verification.",
+  "target_audience": "freight brokers processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate billing from carriers leading to cash flow gaps.",
+  "features": [
+    "manual invoice entry",
+    "shipment data comparison",
+    "error reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freight brokers processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate billing from carriers leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freight brokers processing 10\u201320 invoices/month, inaccurate billing causes cash flow gaps. We validate carrier invoices against shipment data instead of manual invoice verification.",
+    "current_alternative": "manual invoice verification",
+    "must_have_features": [
+      "manual invoice entry",
+      "shipment data comparison",
+      "error reporting"
+    ]
+  },
+  "one_liner": "For freight brokers processing 10\u201320 invoices/month, inaccurate billing causes cash flow gaps. We validate carrier invoices against shipment data instead of manual invoice verification.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-16",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

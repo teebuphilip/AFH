@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "sales operations managers at marketing agencies lack tool",
+    "sales operations managers at marketing agencies lack automation",
+    "sales operations managers at marketing agencies processing 10-50 sales reports month lack tool",
+    "sales operations managers at marketing agencies processing 10-50 sales reports month lack automation",
+    "sales operations managers at marketing agencies processing 10-50 sales reports month lack workflow"
+  ],
+  "secondary_keywords": [
+    "sales operations managers at marketing agencies processing 10-50 sales reports month lack tool software",
+    "sales operations managers at marketing agencies processing 10-50 sales reports month lack tool platform",
+    "sales operations managers at marketing agencies processing 10-50 sales reports month lack tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For sales operations managers at marketing agencies processing 10-50 sales reports/month, manual report generation causes delayed insights into sales performance. We automate report generation instead of manual report generation using spreadsheets.",
+    "Lack of timely insights into sales pipeline health",
+    "sales operations managers at marketing agencies processing 10-50 sales reports/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sales Operations Managers At Marketing Agencies Processing 10-50 Sales Reports Month Lack Tool Software",
+      "target_keyword": "sales operations managers at marketing agencies processing 10-50 sales reports month lack tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers At Marketing Agencies Processing 10-50 Sales Reports Month Lack Tool Platform",
+      "target_keyword": "sales operations managers at marketing agencies processing 10-50 sales reports month lack tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers At Marketing Agencies Processing 10-50 Sales Reports Month Lack Tool Solution",
+      "target_keyword": "sales operations managers at marketing agencies processing 10-50 sales reports month lack tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers At Marketing Agencies Processing 10-50 Sales Reports Month Lack Tool",
+      "target_keyword": "sales operations managers at marketing agencies processing 10-50 sales reports month lack tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers At Marketing Agencies Processing 10-50 Sales Reports Month Lack Automation",
+      "target_keyword": "sales operations managers at marketing agencies processing 10-50 sales reports month lack automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Managers At Marketing Agencies Processing 10-50 Sales Reports Month Lack Workflow",
+      "target_keyword": "sales operations managers at marketing agencies processing 10-50 sales reports month lack workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "sales operations managers at marketing agencies lack tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "sales operations managers at marketing agencies lack tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "sales operations managers at marketing agencies lack tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "sales operations managers at marketing agencies lack tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "sales operations managers at marketing agencies lack tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | sales operations managers at marketing agencies tool",
+      "sales operations managers at marketing agencies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "sales operations managers at marketing agencies tool helps with lack of timely insights into sales pipeline health."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payroll tax filings/month tool",
+  "description": "For accounting firms processing 5\u201315 payroll tax filings/month, manual data entry causes delays in audit readiness. We automate report generation instead of manual data entry and report generation.",
+  "target_audience": "accounting firms processing 5\u201315 payroll tax filings/month",
+  "problem_solved": "Difficulty in generating timely and accurate payroll tax reports for audits.",
+  "features": [
+    "data extraction from payroll tax filings",
+    "audit-ready report generation",
+    "user-friendly interface for manual adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payroll tax filings/month",
+    "primary_problem": "Difficulty in generating timely and accurate payroll tax reports for audits.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payroll tax filings/month, manual data entry causes delays in audit readiness. We automate report generation instead of manual data entry and report generation.",
+    "current_alternative": "manual data entry and report generation",
+    "must_have_features": [
+      "data extraction from payroll tax filings",
+      "audit-ready report generation",
+      "user-friendly interface for manual adjustments"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payroll tax filings/month, manual data entry causes delays in audit readiness. We automate report generation instead of manual data entry and report generation.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-16",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

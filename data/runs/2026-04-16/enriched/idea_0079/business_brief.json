@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10-20 invoices/month tool",
+  "description": "For medical clinics processing 10-20 invoices/month, inaccurate account balances cause cash flow gaps. We provide automated reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "medical clinics processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate account balances due to untracked patient payments and claims.",
+  "features": [
+    "monthly payment tracking",
+    "insurance claim reconciliation",
+    "account balance reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate account balances due to untracked patient payments and claims.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10-20 invoices/month, inaccurate account balances cause cash flow gaps. We provide automated reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "monthly payment tracking",
+      "insurance claim reconciliation",
+      "account balance reporting"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10-20 invoices/month, inaccurate account balances cause cash flow gaps. We provide automated reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0079",
+    "run_date": "2026-04-16",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law offices processing 5\u201315 invoices/month tool",
+  "description": "For small law offices processing 5\u201315 invoices/month, inefficient invoice generation causes cash flow gaps. We automate invoice formatting instead of manual invoice creation using spreadsheets.",
+  "target_audience": "small law offices processing 5\u201315 invoices/month",
+  "problem_solved": "inefficient invoice generation from time entries",
+  "features": [
+    "manual entry of time entries",
+    "template selection for invoices",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law offices processing 5\u201315 invoices/month",
+    "primary_problem": "inefficient invoice generation from time entries",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law offices processing 5\u201315 invoices/month, inefficient invoice generation causes cash flow gaps. We automate invoice formatting instead of manual invoice creation using spreadsheets.",
+    "current_alternative": "manual invoice creation using spreadsheets",
+    "must_have_features": [
+      "manual entry of time entries",
+      "template selection for invoices",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small law offices processing 5\u201315 invoices/month, inefficient invoice generation causes cash flow gaps. We automate invoice formatting instead of manual invoice creation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-16",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

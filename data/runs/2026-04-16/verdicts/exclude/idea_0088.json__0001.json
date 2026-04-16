@@ -1,0 +1,15 @@
+{
+  "idea_text": "Logistics data analytics dashboard that visualizes delivery metrics and identifies opportunities to improve fleet efficiency.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 50,
+    "competition_inverse": 55
+  },
+  "overlay_score": 54,
+  "arr_score": 54,
+  "verdict": "EXCLUDE",
+  "verdict_timestamp": "2026-04-16T10:31:10.554975",
+  "verdict_source": "overlay_score"
+}

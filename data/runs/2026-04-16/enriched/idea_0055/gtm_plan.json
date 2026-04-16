@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 orders/month",
+  "offer": "For Etsy sellers processing 5\u201315 orders/month, inconsistent stock levels cause late orders. We monitor stock levels and replenishment instead of manual inventory tracking using spreadsheets.",
+  "problem": "Inconsistent stock levels leading to late orders.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to Etsy sellers with demo video",
+    "Community forums where Etsy sellers share tools"
+  ],
+  "try_it": "Let users try real-time stock updates on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing inventory data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
+  ]
+}

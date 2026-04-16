@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201315 vehicles tool",
+  "description": "For logistics carriers managing 5\u201315 vehicles, delivery delays cause missed deadlines. We provide real-time GPS monitoring instead of manual tracking and communication.",
+  "target_audience": "logistics carriers managing 5\u201315 vehicles",
+  "problem_solved": "delivery delays and diversions",
+  "features": [
+    "real-time GPS tracking",
+    "alert notifications for delays",
+    "dashboard for monitoring vehicle status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201315 vehicles",
+    "primary_problem": "delivery delays and diversions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5\u201315 vehicles, delivery delays cause missed deadlines. We provide real-time GPS monitoring instead of manual tracking and communication.",
+    "current_alternative": "manual tracking and communication",
+    "must_have_features": [
+      "real-time GPS tracking",
+      "alert notifications for delays",
+      "dashboard for monitoring vehicle status"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5\u201315 vehicles, delivery delays cause missed deadlines. We provide real-time GPS monitoring instead of manual tracking and communication.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-16",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

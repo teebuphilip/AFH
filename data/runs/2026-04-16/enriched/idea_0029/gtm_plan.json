@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical billing specialists in small clinics processing 5\u201315 invoices/month",
+  "offer": "For medical billing specialists in small clinics processing 5\u201315 invoices/month, inefficient conversion of billing codes causes submission errors. We automate the conversion instead of manual entry of billing codes into insurance forms.",
+  "problem": "Inefficient conversion of medical billing codes into insurance submission files.",
+  "channels_free": [
+    "Post in Reddit communities for medical billing specialists",
+    "Indie Hackers posts discussing similar workflows",
+    "DM outreach to medical billing specialists with demo video",
+    "Community forums for sharing tools among billing specialists"
+  ],
+  "try_it": "Let users try manual code entry interface and error-checking for billing codes on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

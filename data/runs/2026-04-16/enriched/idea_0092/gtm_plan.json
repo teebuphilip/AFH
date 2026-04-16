@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 10-20 properties",
+  "offer": "For property managers handling 10-20 properties, inefficient lead capture causes missed tenant opportunities. We automate nurturing and scheduling instead of manual follow-ups and scheduling.",
+  "problem": "Inefficient lead capture and tenant nurturing process",
+  "channels_free": [
+    "Post in Reddit communities for property management advice",
+    "Indie Hackers discussions on property management tools",
+    "DM outreach to property managers with demo video",
+    "Engage in community forums for property management solutions"
+  ],
+  "try_it": "Let users try email nurturing sequences and invoice entry form",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with clear CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules for tasks",
+    "Allow CSV import for existing tenant data",
+    "Enable one-click export of reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

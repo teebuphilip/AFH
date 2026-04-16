@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "field service supervisors in construction contractors managing 5\u201315 OSHA compliance reports/month tool",
+  "description": "For field service supervisors in construction contractors processing 5\u201315 OSHA compliance reports/month, manual filing causes late submissions and potential fines. We automate report compilation and filing instead of manual filing and tracking of compliance reports.",
+  "target_audience": "field service supervisors in construction contractors managing 5\u201315 OSHA compliance reports/month",
+  "problem_solved": "Difficulty in compiling and filing OSHA compliance reports accurately and on time.",
+  "features": [
+    "manual report entry",
+    "template generation for compliance reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "field service supervisors in construction contractors managing 5\u201315 OSHA compliance reports/month",
+    "primary_problem": "Difficulty in compiling and filing OSHA compliance reports accurately and on time.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For field service supervisors in construction contractors processing 5\u201315 OSHA compliance reports/month, manual filing causes late submissions and potential fines. We automate report compilation and filing instead of manual filing and tracking of compliance reports.",
+    "current_alternative": "manual filing and tracking of compliance reports",
+    "must_have_features": [
+      "manual report entry",
+      "template generation for compliance reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For field service supervisors in construction contractors processing 5\u201315 OSHA compliance reports/month, manual filing causes late submissions and potential fines. We automate report compilation and filing instead of manual filing and tracking of compliance reports.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-16",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

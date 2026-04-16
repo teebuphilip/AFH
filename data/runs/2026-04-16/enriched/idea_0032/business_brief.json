@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firm accountants processing 5\u201315 trust account reports/quarter tool",
+  "description": "For small law firm accountants processing 5\u201315 trust account reports/quarter, the complexity of legal compliance causes late filings. We automate report compilation and filing instead of manual compilation and filing of reports.",
+  "target_audience": "small law firm accountants processing 5\u201315 trust account reports/quarter",
+  "problem_solved": "Inaccurate or late filing of legal trust account reports",
+  "features": [
+    "manual report entry",
+    "quarterly reminder notifications",
+    "basic report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firm accountants processing 5\u201315 trust account reports/quarter",
+    "primary_problem": "Inaccurate or late filing of legal trust account reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law firm accountants processing 5\u201315 trust account reports/quarter, the complexity of legal compliance causes late filings. We automate report compilation and filing instead of manual compilation and filing of reports.",
+    "current_alternative": "manual compilation and filing of reports",
+    "must_have_features": [
+      "manual report entry",
+      "quarterly reminder notifications",
+      "basic report generation"
+    ]
+  },
+  "one_liner": "For small law firm accountants processing 5\u201315 trust account reports/quarter, the complexity of legal compliance causes late filings. We automate report compilation and filing instead of manual compilation and filing of reports.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-16",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

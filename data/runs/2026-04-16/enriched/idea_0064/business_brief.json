@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR administrators in small to medium-sized businesses using Gusto for employee benefits management tool",
+  "description": "For HR administrators in small to medium-sized businesses processing 5\u201315 employee benefits enrollments/month, manual tracking causes compliance issues. We streamline enrollment and compliance instead of manual tracking and spreadsheets.",
+  "target_audience": "HR administrators in small to medium-sized businesses using Gusto for employee benefits management",
+  "problem_solved": "Managing employee benefits enrollment and compliance efficiently",
+  "features": [
+    "User-friendly enrollment interface",
+    "Compliance tracking dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR administrators in small to medium-sized businesses using Gusto for employee benefits management",
+    "primary_problem": "Managing employee benefits enrollment and compliance efficiently",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR administrators in small to medium-sized businesses processing 5\u201315 employee benefits enrollments/month, manual tracking causes compliance issues. We streamline enrollment and compliance instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "User-friendly enrollment interface",
+      "Compliance tracking dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR administrators in small to medium-sized businesses processing 5\u201315 employee benefits enrollments/month, manual tracking causes compliance issues. We streamline enrollment and compliance instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-16",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

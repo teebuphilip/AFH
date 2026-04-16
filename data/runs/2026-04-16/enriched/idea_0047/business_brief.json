@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics fleet supervisors managing 10-20 vehicles tool",
+  "description": "For logistics fleet supervisors managing 10-20 vehicles, inefficient scheduling causes compliance risks. We automate tracking and scheduling instead of manual tracking via spreadsheets or paper logs.",
+  "target_audience": "logistics fleet supervisors managing 10-20 vehicles",
+  "problem_solved": "Inefficient scheduling and tracking of vehicle safety inspections.",
+  "features": [
+    "manual entry for inspection dates",
+    "reminder notifications for upcoming inspections",
+    "report generation for compliance documentation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics fleet supervisors managing 10-20 vehicles",
+    "primary_problem": "Inefficient scheduling and tracking of vehicle safety inspections.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics fleet supervisors managing 10-20 vehicles, inefficient scheduling causes compliance risks. We automate tracking and scheduling instead of manual tracking via spreadsheets or paper logs.",
+    "current_alternative": "manual tracking via spreadsheets or paper logs",
+    "must_have_features": [
+      "manual entry for inspection dates",
+      "reminder notifications for upcoming inspections",
+      "report generation for compliance documentation"
+    ]
+  },
+  "one_liner": "For logistics fleet supervisors managing 10-20 vehicles, inefficient scheduling causes compliance risks. We automate tracking and scheduling instead of manual tracking via spreadsheets or paper logs.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

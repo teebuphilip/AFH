@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations teams in marketing agencies processing 10\u201320 deals/month tool",
+  "description": "For sales operations teams in marketing agencies processing 10\u201320 deals/month, manual calculations cause payout inaccuracies. We automate commission calculations instead of manual spreadsheets and calculations.",
+  "target_audience": "sales operations teams in marketing agencies processing 10\u201320 deals/month",
+  "problem_solved": "Managing complex commission structures and ensuring accurate payouts.",
+  "features": [
+    "deal tracking",
+    "payout rule application",
+    "statement generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations teams in marketing agencies processing 10\u201320 deals/month",
+    "primary_problem": "Managing complex commission structures and ensuring accurate payouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations teams in marketing agencies processing 10\u201320 deals/month, manual calculations cause payout inaccuracies. We automate commission calculations instead of manual spreadsheets and calculations.",
+    "current_alternative": "manual spreadsheets and calculations",
+    "must_have_features": [
+      "deal tracking",
+      "payout rule application",
+      "statement generation"
+    ]
+  },
+  "one_liner": "For sales operations teams in marketing agencies processing 10\u201320 deals/month, manual calculations cause payout inaccuracies. We automate commission calculations instead of manual spreadsheets and calculations.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-16",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

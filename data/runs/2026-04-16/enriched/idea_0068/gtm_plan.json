@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201350 contracts/month",
+  "offer": "For Amazon sellers processing 10\u201350 contracts/month, missed renewals cause supplier penalties. We provide a vendor contract management tool instead of manual tracking through spreadsheets.",
+  "problem": "Difficulty in tracking contract renewals and terms with multiple vendors.",
+  "channels_free": [
+    "Post in Reddit communities where Amazon sellers seek advice",
+    "Indie Hackers discussions on similar challenges",
+    "DM outreach to Amazon sellers with demo video",
+    "Community forums for Amazon sellers sharing tools"
+  ],
+  "try_it": "Let users try Store agreements securely and Monitor contract terms on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

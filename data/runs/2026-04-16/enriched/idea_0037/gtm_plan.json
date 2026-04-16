@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "hospitality accountants processing 5\u201315 restaurant sales reports/month",
+  "offer": "For hospitality accountants processing 5\u201315 invoices/month, manual data entry causes late tax submissions. We automate tax format conversion instead of manual data entry into tax software.",
+  "problem": "Inaccurate tax submissions due to manual data entry errors.",
+  "channels_free": [
+    "Post in Reddit communities for hospitality accountants",
+    "Engage on Indie Hackers about similar workflows",
+    "DM outreach to hospitality accountants with demo video",
+    "Share in community forums for hospitality accountants"
+  ],
+  "try_it": "Let users try manual data entry interface and tax format preview on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

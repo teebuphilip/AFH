@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers managing 5\u201315 leases/month tool",
+  "description": "For property managers managing 5\u201315 leases/month, manual tracking of lease dates causes missed renewals. We automate lease management instead of manual tracking of lease dates and reminders.",
+  "target_audience": "property managers managing 5\u201315 leases/month",
+  "problem_solved": "Managing lease expirations and renewals efficiently.",
+  "features": [
+    "Expiration tracking",
+    "Escalation calculation",
+    "Renewal reminder generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers managing 5\u201315 leases/month",
+    "primary_problem": "Managing lease expirations and renewals efficiently.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers managing 5\u201315 leases/month, manual tracking of lease dates causes missed renewals. We automate lease management instead of manual tracking of lease dates and reminders.",
+    "current_alternative": "manual tracking of lease dates and reminders",
+    "must_have_features": [
+      "Expiration tracking",
+      "Escalation calculation",
+      "Renewal reminder generation"
+    ]
+  },
+  "one_liner": "For property managers managing 5\u201315 leases/month, manual tracking of lease dates causes missed renewals. We automate lease management instead of manual tracking of lease dates and reminders.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-16",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

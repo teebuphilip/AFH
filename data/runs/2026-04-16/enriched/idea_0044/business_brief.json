@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers in urban areas managing 5-10 locations tool",
+  "description": "For restaurant managers in urban areas managing 5-10 locations, missed health inspection deadlines cause potential fines and operational disruptions. We provide timely alerts instead of manual tracking of inspection schedules.",
+  "target_audience": "restaurant managers in urban areas managing 5-10 locations",
+  "problem_solved": "missed health inspection deadlines",
+  "features": [
+    "dashboard for tracking inspection statuses",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers in urban areas managing 5-10 locations",
+    "primary_problem": "missed health inspection deadlines",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For restaurant managers in urban areas managing 5-10 locations, missed health inspection deadlines cause potential fines and operational disruptions. We provide timely alerts instead of manual tracking of inspection schedules.",
+    "current_alternative": "manual tracking of inspection schedules",
+    "must_have_features": [
+      "dashboard for tracking inspection statuses",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For restaurant managers in urban areas managing 5-10 locations, missed health inspection deadlines cause potential fines and operational disruptions. We provide timely alerts instead of manual tracking of inspection schedules.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

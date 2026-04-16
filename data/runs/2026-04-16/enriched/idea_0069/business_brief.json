@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small business owners using QuickBooks for payroll processing 5\u201315 employees tool",
+  "description": "For small business owners using QuickBooks for payroll processing 5\u201315 employees, manual time tracking causes payroll errors. We automate time and attendance instead of manual time tracking and payroll calculations.",
+  "target_audience": "small business owners using QuickBooks for payroll processing 5\u201315 employees",
+  "problem_solved": "Manual time tracking leads to errors in payroll calculations.",
+  "features": [
+    "time clock for employee hours",
+    "overtime calculation",
+    "report generation for payroll"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small business owners using QuickBooks for payroll processing 5\u201315 employees",
+    "primary_problem": "Manual time tracking leads to errors in payroll calculations.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small business owners using QuickBooks for payroll processing 5\u201315 employees, manual time tracking causes payroll errors. We automate time and attendance instead of manual time tracking and payroll calculations.",
+    "current_alternative": "manual time tracking and payroll calculations",
+    "must_have_features": [
+      "time clock for employee hours",
+      "overtime calculation",
+      "report generation for payroll"
+    ]
+  },
+  "one_liner": "For small business owners using QuickBooks for payroll processing 5\u201315 employees, manual time tracking causes payroll errors. We automate time and attendance instead of manual time tracking and payroll calculations.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-16",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "construction contractors managing - projects simultaneously missing tool",
+    "construction contractors managing - projects simultaneously missing automation",
+    "construction contractors managing 5-10 projects simultaneously missing tool",
+    "construction contractors managing 5-10 projects simultaneously missing automation",
+    "construction contractors managing 5-10 projects simultaneously missing workflow"
+  ],
+  "secondary_keywords": [
+    "construction contractors managing 5-10 projects simultaneously missing tool software",
+    "construction contractors managing 5-10 projects simultaneously missing tool platform",
+    "construction contractors managing 5-10 projects simultaneously missing tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For construction contractors managing 5-10 projects simultaneously, missing daily field logs causes project delays. We provide automated tracking instead of manual tracking with spreadsheets.",
+    "missing daily field logs and inspection reports",
+    "construction contractors managing 5-10 projects simultaneously"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Construction Contractors Managing 5-10 Projects Simultaneously Missing Tool Software",
+      "target_keyword": "construction contractors managing 5-10 projects simultaneously missing tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-10 Projects Simultaneously Missing Tool Platform",
+      "target_keyword": "construction contractors managing 5-10 projects simultaneously missing tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-10 Projects Simultaneously Missing Tool Solution",
+      "target_keyword": "construction contractors managing 5-10 projects simultaneously missing tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-10 Projects Simultaneously Missing Tool",
+      "target_keyword": "construction contractors managing 5-10 projects simultaneously missing tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-10 Projects Simultaneously Missing Automation",
+      "target_keyword": "construction contractors managing 5-10 projects simultaneously missing automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-10 Projects Simultaneously Missing Workflow",
+      "target_keyword": "construction contractors managing 5-10 projects simultaneously missing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "construction contractors managing - projects simultaneously missing tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "construction contractors managing - projects simultaneously missing tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "construction contractors managing - projects simultaneously missing tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "construction contractors managing - projects simultaneously missing tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "construction contractors managing - projects simultaneously missing tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | construction contractors managing - projects simultaneously tool",
+      "construction contractors managing - projects simultaneously tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "construction contractors managing - projects simultaneously tool helps with missing daily field logs and inspection reports."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

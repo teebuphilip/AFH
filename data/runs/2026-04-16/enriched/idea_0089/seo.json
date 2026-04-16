@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "restaurant managers at small to medium-sized restaurants inefficient tool",
+    "restaurant managers at small to medium-sized restaurants inefficient automation",
+    "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient tool",
+    "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient automation",
+    "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient tool software",
+    "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient tool platform",
+    "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week, inefficient scheduling causes employee dissatisfaction and scheduling conflicts. We automate shift rotations instead of manual scheduling via spreadsheets or paper.",
+    "inefficient scheduling and time off management",
+    "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Restaurant Managers At Small To Medium-Sized Restaurants Processing 10-50 Employee Shifts Per Week Inefficient Tool Software",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers At Small To Medium-Sized Restaurants Processing 10-50 Employee Shifts Per Week Inefficient Tool Platform",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers At Small To Medium-Sized Restaurants Processing 10-50 Employee Shifts Per Week Inefficient Tool Solution",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers At Small To Medium-Sized Restaurants Processing 10-50 Employee Shifts Per Week Inefficient Tool",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers At Small To Medium-Sized Restaurants Processing 10-50 Employee Shifts Per Week Inefficient Automation",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Managers At Small To Medium-Sized Restaurants Processing 10-50 Employee Shifts Per Week Inefficient Workflow",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "restaurant managers at small to medium-sized restaurants inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | restaurant managers at small to medium-sized restaurants tool",
+      "restaurant managers at small to medium-sized restaurants tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "restaurant managers at small to medium-sized restaurants tool helps with inefficient scheduling and time off management."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

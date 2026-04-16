@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, poor supplier performance tracking causes late orders. We provide automated supplier management instead of manual tracking through spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in tracking supplier certifications and performance metrics.",
+  "features": [
+    "Vendor onboarding checklist",
+    "Certification tracking dashboard",
+    "Performance monitoring alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in tracking supplier certifications and performance metrics.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, poor supplier performance tracking causes late orders. We provide automated supplier management instead of manual tracking through spreadsheets.",
+    "current_alternative": "Manual tracking through spreadsheets",
+    "must_have_features": [
+      "Vendor onboarding checklist",
+      "Certification tracking dashboard",
+      "Performance monitoring alerts"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, poor supplier performance tracking causes late orders. We provide automated supplier management instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

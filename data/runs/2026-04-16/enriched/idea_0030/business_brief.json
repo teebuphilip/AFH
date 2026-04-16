@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics operations supervisors managing 10-20 fleet vehicles tool",
+  "description": "For logistics operations supervisors managing 10-20 fleet vehicles, inefficient compliance checks cause missed inspections. We generate daily fleet vehicle compliance checklists instead of manual checklist creation and tracking.",
+  "target_audience": "logistics operations supervisors managing 10-20 fleet vehicles",
+  "problem_solved": "Ensuring daily compliance checks are completed accurately and on time.",
+  "features": [
+    "Customizable checklist templates",
+    "Daily reminder notifications",
+    "Exportable compliance reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics operations supervisors managing 10-20 fleet vehicles",
+    "primary_problem": "Ensuring daily compliance checks are completed accurately and on time.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics operations supervisors managing 10-20 fleet vehicles, inefficient compliance checks cause missed inspections. We generate daily fleet vehicle compliance checklists instead of manual checklist creation and tracking.",
+    "current_alternative": "manual checklist creation and tracking",
+    "must_have_features": [
+      "Customizable checklist templates",
+      "Daily reminder notifications",
+      "Exportable compliance reports"
+    ]
+  },
+  "one_liner": "For logistics operations supervisors managing 10-20 fleet vehicles, inefficient compliance checks cause missed inspections. We generate daily fleet vehicle compliance checklists instead of manual checklist creation and tracking.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-16",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

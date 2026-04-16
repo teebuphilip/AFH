@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations in small to medium-sized accounting firms with 10-50 employees tool",
+  "description": "For HR operations in small to medium-sized accounting firms processing 10-50 employees, overdue compliance training causes regulatory penalties. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "HR operations in small to medium-sized accounting firms with 10-50 employees",
+  "problem_solved": "Tracking compliance training completion rates",
+  "features": [
+    "Dashboard for tracking completion rates",
+    "Manual entry option for training records",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations in small to medium-sized accounting firms with 10-50 employees",
+    "primary_problem": "Tracking compliance training completion rates",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR operations in small to medium-sized accounting firms processing 10-50 employees, overdue compliance training causes regulatory penalties. We provide automated alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "Dashboard for tracking completion rates",
+      "Manual entry option for training records",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations in small to medium-sized accounting firms processing 10-50 employees, overdue compliance training causes regulatory penalties. We provide automated alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-16",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

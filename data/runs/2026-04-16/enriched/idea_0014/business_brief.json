@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201320 vendor payments/month tool",
+  "description": "For accounting firms managing 10\u201320 vendor payments/month, inefficient tracking causes late payments and supplier penalties. We provide consolidated payment status reports instead of manual tracking through spreadsheets.",
+  "target_audience": "accounting firms managing 10\u201320 vendor payments/month",
+  "problem_solved": "Difficulty in tracking and reporting vendor payment statuses efficiently.",
+  "features": [
+    "manual entry of vendor payment statuses",
+    "monthly summary report generation",
+    "email notifications for payment updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201320 vendor payments/month",
+    "primary_problem": "Difficulty in tracking and reporting vendor payment statuses efficiently.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201320 vendor payments/month, inefficient tracking causes late payments and supplier penalties. We provide consolidated payment status reports instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "manual entry of vendor payment statuses",
+      "monthly summary report generation",
+      "email notifications for payment updates"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201320 vendor payments/month, inefficient tracking causes late payments and supplier penalties. We provide consolidated payment status reports instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-16",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

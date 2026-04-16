@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers at freight brokers processing 10\u201320 shipments/month tool",
+  "description": "For logistics managers at freight brokers processing 10\u201320 shipments/month, exceeding budget thresholds causes cash flow gaps. We automate cost monitoring instead of manual tracking of freight expenses.",
+  "target_audience": "logistics managers at freight brokers processing 10\u201320 shipments/month",
+  "problem_solved": "exceeding budget thresholds on freight costs",
+  "features": [
+    "real-time cost alerts",
+    "budget threshold settings",
+    "monthly expense reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers at freight brokers processing 10\u201320 shipments/month",
+    "primary_problem": "exceeding budget thresholds on freight costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers at freight brokers processing 10\u201320 shipments/month, exceeding budget thresholds causes cash flow gaps. We automate cost monitoring instead of manual tracking of freight expenses.",
+    "current_alternative": "manual tracking of freight expenses",
+    "must_have_features": [
+      "real-time cost alerts",
+      "budget threshold settings",
+      "monthly expense reports"
+    ]
+  },
+  "one_liner": "For logistics managers at freight brokers processing 10\u201320 shipments/month, exceeding budget thresholds causes cash flow gaps. We automate cost monitoring instead of manual tracking of freight expenses.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-16",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

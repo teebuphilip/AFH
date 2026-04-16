@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant owners processing 10\u201320 invoices/month tool",
+  "description": "For restaurant owners processing 10\u201320 invoices/month, inefficient inventory management causes stockouts. We automatically order supplies based on historical consumption patterns instead of manual inventory tracking and ordering.",
+  "target_audience": "restaurant owners processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient inventory management leading to stockouts.",
+  "features": [
+    "historical consumption tracking",
+    "manual order confirmation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant owners processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient inventory management leading to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant owners processing 10\u201320 invoices/month, inefficient inventory management causes stockouts. We automatically order supplies based on historical consumption patterns instead of manual inventory tracking and ordering.",
+    "current_alternative": "manual inventory tracking and ordering",
+    "must_have_features": [
+      "historical consumption tracking",
+      "manual order confirmation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant owners processing 10\u201320 invoices/month, inefficient inventory management causes stockouts. We automatically order supplies based on historical consumption patterns instead of manual inventory tracking and ordering.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-16",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

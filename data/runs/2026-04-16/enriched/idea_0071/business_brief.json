@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201350 orders/month tool",
+  "description": "For Etsy sellers processing 10\u201350 orders/month, inaccurate inventory levels cause stockouts and missed sales. We provide automated inventory forecasting instead of manual tracking and basic spreadsheets.",
+  "target_audience": "Etsy sellers processing 10\u201350 orders/month",
+  "problem_solved": "Inaccurate inventory levels leading to stockouts and overstock situations.",
+  "features": [
+    "Sales data analysis",
+    "Stock level optimization",
+    "User-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201350 orders/month",
+    "primary_problem": "Inaccurate inventory levels leading to stockouts and overstock situations.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201350 orders/month, inaccurate inventory levels cause stockouts and missed sales. We provide automated inventory forecasting instead of manual tracking and basic spreadsheets.",
+    "current_alternative": "Manual tracking and basic spreadsheets",
+    "must_have_features": [
+      "Sales data analysis",
+      "Stock level optimization",
+      "User-friendly dashboard"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201350 orders/month, inaccurate inventory levels cause stockouts and missed sales. We provide automated inventory forecasting instead of manual tracking and basic spreadsheets.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-16",
+    "overlay_score": 63,
+    "arr_score": 64
+  }
+}

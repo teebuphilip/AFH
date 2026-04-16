@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics managers at freight brokers exceeding tool",
+    "logistics managers at freight brokers exceeding automation",
+    "logistics managers at freight brokers processing 10 20 shipments month exceeding tool",
+    "logistics managers at freight brokers processing 10 20 shipments month exceeding automation",
+    "logistics managers at freight brokers processing 10 20 shipments month exceeding workflow"
+  ],
+  "secondary_keywords": [
+    "logistics managers at freight brokers processing 10 20 shipments month exceeding tool software",
+    "logistics managers at freight brokers processing 10 20 shipments month exceeding tool platform",
+    "logistics managers at freight brokers processing 10 20 shipments month exceeding tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics managers at freight brokers processing 10\u201320 shipments/month, exceeding budget thresholds causes cash flow gaps. We automate cost monitoring instead of manual tracking of freight expenses.",
+    "exceeding budget thresholds on freight costs",
+    "logistics managers at freight brokers processing 10\u201320 shipments/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Managers At Freight Brokers Processing 10 20 Shipments Month Exceeding Tool Software",
+      "target_keyword": "logistics managers at freight brokers processing 10 20 shipments month exceeding tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers At Freight Brokers Processing 10 20 Shipments Month Exceeding Tool Platform",
+      "target_keyword": "logistics managers at freight brokers processing 10 20 shipments month exceeding tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers At Freight Brokers Processing 10 20 Shipments Month Exceeding Tool Solution",
+      "target_keyword": "logistics managers at freight brokers processing 10 20 shipments month exceeding tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers At Freight Brokers Processing 10 20 Shipments Month Exceeding Tool",
+      "target_keyword": "logistics managers at freight brokers processing 10 20 shipments month exceeding tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers At Freight Brokers Processing 10 20 Shipments Month Exceeding Automation",
+      "target_keyword": "logistics managers at freight brokers processing 10 20 shipments month exceeding automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers At Freight Brokers Processing 10 20 Shipments Month Exceeding Workflow",
+      "target_keyword": "logistics managers at freight brokers processing 10 20 shipments month exceeding workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics managers at freight brokers exceeding tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics managers at freight brokers exceeding tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics managers at freight brokers exceeding tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics managers at freight brokers exceeding tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics managers at freight brokers exceeding tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics managers at freight brokers tool",
+      "logistics managers at freight brokers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics managers at freight brokers tool helps with exceeding budget thresholds on freight costs."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

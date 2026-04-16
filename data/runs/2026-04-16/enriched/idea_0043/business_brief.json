@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations directors managing 5-15 vehicles tool",
+  "description": "For fleet operations directors managing 5-15 vehicles, inefficient tracking of fuel consumption causes increased operational costs. We automate weekly fuel consumption reports instead of manual tracking and reporting of fuel consumption.",
+  "target_audience": "fleet operations directors managing 5-15 vehicles",
+  "problem_solved": "inefficient tracking of fuel consumption leading to increased operational costs",
+  "features": [
+    "manual entry of fuel data",
+    "weekly report generation",
+    "basic analytics on fuel usage"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations directors managing 5-15 vehicles",
+    "primary_problem": "inefficient tracking of fuel consumption leading to increased operational costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operations directors managing 5-15 vehicles, inefficient tracking of fuel consumption causes increased operational costs. We automate weekly fuel consumption reports instead of manual tracking and reporting of fuel consumption.",
+    "current_alternative": "manual tracking and reporting of fuel consumption",
+    "must_have_features": [
+      "manual entry of fuel data",
+      "weekly report generation",
+      "basic analytics on fuel usage"
+    ]
+  },
+  "one_liner": "For fleet operations directors managing 5-15 vehicles, inefficient tracking of fuel consumption causes increased operational costs. We automate weekly fuel consumption reports instead of manual tracking and reporting of fuel consumption.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 10-50 units",
+  "offer": "For property managers handling 10-50 units, inefficient scheduling causes missed inspections. We automate scheduling and reporting instead of manual scheduling and paper reports.",
+  "problem": "Inefficient scheduling and reporting of property inspections",
+  "channels_free": [
+    "Post in Reddit communities for property management advice",
+    "Engage in Indie Hackers discussions about scheduling tools",
+    "DM outreach to property managers with demo video",
+    "Join community forums for property management discussions"
+  ],
+  "try_it": "Let users try manual scheduling and report templates for free",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of manual scheduling",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminders for inspections",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding process for new users"
+  ]
+}

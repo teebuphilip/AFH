@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, scattered financial data causes late tax submissions. We automate data collection instead of manual data entry into tax software.",
+  "problem": "Difficulty in accurately preparing tax returns due to scattered financial data.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Engage in Indie Hackers discussions on tax tools",
+    "DM outreach to Etsy sellers with demo video",
+    "Share insights in Etsy seller forums and groups"
+  ],
+  "try_it": "Let users try data collection for 1-3 sales",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for users",
+    "Enable CSV import for existing sales data",
+    "Facilitate one-click export of reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

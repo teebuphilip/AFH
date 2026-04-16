@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10\u201320 insurance claims/month tool",
+  "description": "For medical clinics processing 10\u201320 insurance claims/month, inaccurate billing codes cause claim denials. We provide a coding assistant instead of manual coding by administrative staff.",
+  "target_audience": "medical clinics processing 10\u201320 insurance claims/month",
+  "problem_solved": "inaccurate billing codes leading to claim denials",
+  "features": [
+    "manual code entry",
+    "error checking for common coding mistakes",
+    "simple user interface for quick access"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10\u201320 insurance claims/month",
+    "primary_problem": "inaccurate billing codes leading to claim denials",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10\u201320 insurance claims/month, inaccurate billing codes cause claim denials. We provide a coding assistant instead of manual coding by administrative staff.",
+    "current_alternative": "manual coding by administrative staff",
+    "must_have_features": [
+      "manual code entry",
+      "error checking for common coding mistakes",
+      "simple user interface for quick access"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10\u201320 insurance claims/month, inaccurate billing codes cause claim denials. We provide a coding assistant instead of manual coding by administrative staff.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

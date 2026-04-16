@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR operations in small to medium-sized accounting firms with 10-50 employees",
+  "offer": "For HR operations in small to medium-sized accounting firms processing 10-50 employees, overdue compliance training causes regulatory penalties. We provide alerts instead of manual tracking via spreadsheets.",
+  "problem": "Tracking compliance training completion rates",
+  "channels_free": [
+    "Post in Reddit communities for HR operations help",
+    "Indie Hackers posts and comments on workflows",
+    "DM outreach to HR operations with demo video",
+    "Community forums where HR operations share tools"
+  ],
+  "try_it": "Let users try Dashboard for tracking completion rates and Manual entry option for training records on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

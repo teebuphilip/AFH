@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "clinic managers processing 5\u201315 timesheets/month tool",
+  "description": "For clinic managers processing 5\u201315 timesheets/month, inaccurate submissions cause payroll errors. We automate timesheet validations instead of manual timesheet review and validation.",
+  "target_audience": "clinic managers processing 5\u201315 timesheets/month",
+  "problem_solved": "Inaccurate timesheet submissions leading to payroll errors.",
+  "features": [
+    "flag discrepancies in timesheets",
+    "generate validation reports",
+    "provide user-friendly dashboard for review"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "clinic managers processing 5\u201315 timesheets/month",
+    "primary_problem": "Inaccurate timesheet submissions leading to payroll errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For clinic managers processing 5\u201315 timesheets/month, inaccurate submissions cause payroll errors. We automate timesheet validations instead of manual timesheet review and validation.",
+    "current_alternative": "manual timesheet review and validation",
+    "must_have_features": [
+      "flag discrepancies in timesheets",
+      "generate validation reports",
+      "provide user-friendly dashboard for review"
+    ]
+  },
+  "one_liner": "For clinic managers processing 5\u201315 timesheets/month, inaccurate submissions cause payroll errors. We automate timesheet validations instead of manual timesheet review and validation.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

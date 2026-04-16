@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 projects/month tool",
+  "description": "For construction contractors processing 5\u201315 projects/month, budget mismanagement causes cash flow gaps. We provide real-time cost tracking instead of manual spreadsheets and basic accounting software.",
+  "target_audience": "construction contractors processing 5\u201315 projects/month",
+  "problem_solved": "cost overruns and budget mismanagement",
+  "features": [
+    "real-time budget tracking",
+    "cost overrun alerts",
+    "project expense categorization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 projects/month",
+    "primary_problem": "cost overruns and budget mismanagement",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 projects/month, budget mismanagement causes cash flow gaps. We provide real-time cost tracking instead of manual spreadsheets and basic accounting software.",
+    "current_alternative": "manual spreadsheets and basic accounting software",
+    "must_have_features": [
+      "real-time budget tracking",
+      "cost overrun alerts",
+      "project expense categorization"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 projects/month, budget mismanagement causes cash flow gaps. We provide real-time cost tracking instead of manual spreadsheets and basic accounting software.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-16",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

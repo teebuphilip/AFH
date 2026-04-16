@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales leaders in marketing agencies processing 10\u201350 deals/month tool",
+  "description": "For sales leaders in marketing agencies processing 10\u201350 deals/month, inaccurate forecasts cause missed revenue targets. We provide actionable insights instead of manual spreadsheets and basic CRM tools.",
+  "target_audience": "sales leaders in marketing agencies processing 10\u201350 deals/month",
+  "problem_solved": "Inability to accurately forecast sales and track pipeline metrics.",
+  "features": [
+    "pipeline metric tracking",
+    "forecast generation",
+    "insight surfacing"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales leaders in marketing agencies processing 10\u201350 deals/month",
+    "primary_problem": "Inability to accurately forecast sales and track pipeline metrics.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales leaders in marketing agencies processing 10\u201350 deals/month, inaccurate forecasts cause missed revenue targets. We provide actionable insights instead of manual spreadsheets and basic CRM tools.",
+    "current_alternative": "manual spreadsheets and basic CRM tools",
+    "must_have_features": [
+      "pipeline metric tracking",
+      "forecast generation",
+      "insight surfacing"
+    ]
+  },
+  "one_liner": "For sales leaders in marketing agencies processing 10\u201350 deals/month, inaccurate forecasts cause missed revenue targets. We provide actionable insights instead of manual spreadsheets and basic CRM tools.",
+  "source": {
+    "idea_id": "idea_0059",
+    "run_date": "2026-04-16",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

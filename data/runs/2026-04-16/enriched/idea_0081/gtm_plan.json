@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant owners processing 10\u201320 invoices/month",
+  "offer": "For restaurant owners processing 10\u201320 invoices/month, inefficient inventory management causes stockouts. We automatically order supplies based on historical consumption patterns instead of manual inventory tracking and ordering.",
+  "problem": "Inefficient inventory management leading to stockouts.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant owners",
+    "Engage in Indie Hackers discussions on inventory solutions",
+    "Direct message 20-50 restaurant owners with demo link",
+    "Join forums where restaurant owners share inventory tips"
+  ],
+  "try_it": "Let users try tracking consumption and confirming orders on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of manual workflow",
+    "Conduct 10 user interviews for insights",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as reusable templates",
+    "Set default reminders for order confirmations",
+    "Allow CSV imports for existing inventory data",
+    "Enable one-click export for simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

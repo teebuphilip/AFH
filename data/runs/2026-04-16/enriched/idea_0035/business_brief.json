@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "billing coordinators in medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For billing coordinators in medical clinics processing 10\u201320 invoices/month, high denial rates cause cash flow gaps. We automate appeal template generation instead of manual appeal writing and tracking.",
+  "target_audience": "billing coordinators in medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "High rate of medical billing denials leading to delayed revenue.",
+  "features": [
+    "template library for common denial reasons",
+    "manual entry for specific case details",
+    "tracking system for appeal status"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "billing coordinators in medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "High rate of medical billing denials leading to delayed revenue.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For billing coordinators in medical clinics processing 10\u201320 invoices/month, high denial rates cause cash flow gaps. We automate appeal template generation instead of manual appeal writing and tracking.",
+    "current_alternative": "manual appeal writing and tracking",
+    "must_have_features": [
+      "template library for common denial reasons",
+      "manual entry for specific case details",
+      "tracking system for appeal status"
+    ]
+  },
+  "one_liner": "For billing coordinators in medical clinics processing 10\u201320 invoices/month, high denial rates cause cash flow gaps. We automate appeal template generation instead of manual appeal writing and tracking.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

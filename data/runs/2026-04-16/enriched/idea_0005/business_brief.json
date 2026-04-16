@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause service interruptions. We notify finance ops before payment deadlines instead of manual tracking of subscription renewals.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Etsy sellers miss payment deadlines for subscription services, leading to service interruptions.",
+  "features": [
+    "manual entry of subscription details",
+    "reminder notifications for upcoming renewals",
+    "dashboard for tracking renewal dates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Etsy sellers miss payment deadlines for subscription services, leading to service interruptions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause service interruptions. We notify finance ops before payment deadlines instead of manual tracking of subscription renewals.",
+    "current_alternative": "manual tracking of subscription renewals",
+    "must_have_features": [
+      "manual entry of subscription details",
+      "reminder notifications for upcoming renewals",
+      "dashboard for tracking renewal dates"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause service interruptions. We notify finance ops before payment deadlines instead of manual tracking of subscription renewals.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-16",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

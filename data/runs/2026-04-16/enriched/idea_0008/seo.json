@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "payroll managers using gusto ensuring tool",
+    "payroll managers using gusto ensuring automation",
+    "payroll managers using gusto processing 10 20 employees month ensuring tool",
+    "payroll managers using gusto processing 10 20 employees month ensuring automation",
+    "payroll managers using gusto processing 10 20 employees month ensuring workflow"
+  ],
+  "secondary_keywords": [
+    "payroll managers using gusto processing 10 20 employees month ensuring tool software",
+    "payroll managers using gusto processing 10 20 employees month ensuring tool platform",
+    "payroll managers using gusto processing 10 20 employees month ensuring tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For payroll managers using Gusto processing 10\u201320 employees/month, compliance errors cause late filings. We automate payroll data extraction instead of manual data entry and spreadsheet tracking.",
+    "Ensuring compliance with payroll regulations and timely reporting.",
+    "payroll managers using Gusto processing 10\u201320 employees/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Payroll Managers Using Gusto Processing 10 20 Employees Month Ensuring Tool Software",
+      "target_keyword": "payroll managers using gusto processing 10 20 employees month ensuring tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Payroll Managers Using Gusto Processing 10 20 Employees Month Ensuring Tool Platform",
+      "target_keyword": "payroll managers using gusto processing 10 20 employees month ensuring tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Payroll Managers Using Gusto Processing 10 20 Employees Month Ensuring Tool Solution",
+      "target_keyword": "payroll managers using gusto processing 10 20 employees month ensuring tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Payroll Managers Using Gusto Processing 10 20 Employees Month Ensuring Tool",
+      "target_keyword": "payroll managers using gusto processing 10 20 employees month ensuring tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Payroll Managers Using Gusto Processing 10 20 Employees Month Ensuring Automation",
+      "target_keyword": "payroll managers using gusto processing 10 20 employees month ensuring automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Payroll Managers Using Gusto Processing 10 20 Employees Month Ensuring Workflow",
+      "target_keyword": "payroll managers using gusto processing 10 20 employees month ensuring workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "payroll managers using gusto ensuring tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "payroll managers using gusto ensuring tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "payroll managers using gusto ensuring tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "payroll managers using gusto ensuring tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "payroll managers using gusto ensuring tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | payroll managers using gusto tool",
+      "payroll managers using gusto tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "payroll managers using gusto tool helps with ensuring compliance with payroll regulations and timely reporting."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

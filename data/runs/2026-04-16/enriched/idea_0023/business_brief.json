@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations managers at marketing agencies processing 10-50 sales reports/month tool",
+  "description": "For sales operations managers at marketing agencies processing 10-50 sales reports/month, manual report generation causes delayed insights into sales performance. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "sales operations managers at marketing agencies processing 10-50 sales reports/month",
+  "problem_solved": "Lack of timely insights into sales pipeline health",
+  "features": [
+    "template-based report generation",
+    "customizable report formats",
+    "email delivery of reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations managers at marketing agencies processing 10-50 sales reports/month",
+    "primary_problem": "Lack of timely insights into sales pipeline health",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations managers at marketing agencies processing 10-50 sales reports/month, manual report generation causes delayed insights into sales performance. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "customizable report formats",
+      "email delivery of reports"
+    ]
+  },
+  "one_liner": "For sales operations managers at marketing agencies processing 10-50 sales reports/month, manual report generation causes delayed insights into sales performance. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-16",
+    "overlay_score": 80,
+    "arr_score": 80
+  }
+}

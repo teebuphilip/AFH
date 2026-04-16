@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firm administrators processing 5\u201315 invoices/month tool",
+  "description": "For small law firm administrators processing 5\u201315 invoices/month, manual billing causes cash flow gaps. We automate billing summaries instead of manual billing and spreadsheet tracking.",
+  "target_audience": "small law firm administrators processing 5\u201315 invoices/month",
+  "problem_solved": "Manual billing processes lead to errors and delays.",
+  "features": [
+    "monthly summary reports",
+    "error-checking for invoice details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firm administrators processing 5\u201315 invoices/month",
+    "primary_problem": "Manual billing processes lead to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law firm administrators processing 5\u201315 invoices/month, manual billing causes cash flow gaps. We automate billing summaries instead of manual billing and spreadsheet tracking.",
+    "current_alternative": "manual billing and spreadsheet tracking",
+    "must_have_features": [
+      "monthly summary reports",
+      "error-checking for invoice details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small law firm administrators processing 5\u201315 invoices/month, manual billing causes cash flow gaps. We automate billing summaries instead of manual billing and spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-16",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "billing teams at medical clinics processing 10-20 claims/month",
+  "offer": "For billing teams at medical clinics processing 10-20 claims/month, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation using spreadsheets.",
+  "problem": "Inaccurate reconciliation of insurance claims leading to delayed payments.",
+  "channels_free": [
+    "Post in Reddit communities for billing teams seeking help",
+    "Indie Hackers posts discussing similar workflows",
+    "DM outreach to billing teams with demo video",
+    "Community forums where billing teams share tools"
+  ],
+  "try_it": "Let users try manual entry of claims data and reports",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

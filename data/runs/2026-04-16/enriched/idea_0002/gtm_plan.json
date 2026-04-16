@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month",
+  "offer": "For HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month, delayed approvals cause employee dissatisfaction. We alert HR ops when approvals are pending beyond 3 days instead of manual tracking via spreadsheets.",
+  "problem": "Delayed approvals of employee time-off requests",
+  "channels_free": [
+    "Post in Reddit communities for HR managers seeking solutions",
+    "Engage in Indie Hackers discussions on similar challenges",
+    "Direct message outreach to HR managers with demo video",
+    "Participate in community forums for HR tools and resources"
+  ],
+  "try_it": "Let users try Notification system and Dashboard for tracking requests",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with key details",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Introduce default reminder schedules for requests",
+    "Enable CSV import for existing employee data",
+    "Facilitate one-click export of simple reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

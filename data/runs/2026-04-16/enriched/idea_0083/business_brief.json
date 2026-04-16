@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, missed tax deadlines cause penalties. We provide automated compliance tracking instead of manual tracking using spreadsheets.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in tracking tax deadlines and regulatory changes",
+  "features": [
+    "Deadline reminders",
+    "Regulatory change notifications",
+    "Simple dashboard for compliance overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in tracking tax deadlines and regulatory changes",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, missed tax deadlines cause penalties. We provide automated compliance tracking instead of manual tracking using spreadsheets.",
+    "current_alternative": "Manual tracking of tax deadlines using spreadsheets",
+    "must_have_features": [
+      "Deadline reminders",
+      "Regulatory change notifications",
+      "Simple dashboard for compliance overview"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, missed tax deadlines cause penalties. We provide automated compliance tracking instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-16",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

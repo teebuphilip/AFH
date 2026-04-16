@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, inefficient generation of fixed asset depreciation schedules causes late financial reporting. We automate schedule generation instead of manual calculations and spreadsheets.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Inefficient generation of fixed asset depreciation schedules",
+  "features": [
+    "email notifications to accounting teams",
+    "user-friendly interface for manual adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Inefficient generation of fixed asset depreciation schedules",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, inefficient generation of fixed asset depreciation schedules causes late financial reporting. We automate schedule generation instead of manual calculations and spreadsheets.",
+    "current_alternative": "manual calculations and spreadsheets",
+    "must_have_features": [
+      "email notifications to accounting teams",
+      "user-friendly interface for manual adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, inefficient generation of fixed asset depreciation schedules causes late financial reporting. We automate schedule generation instead of manual calculations and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-16",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

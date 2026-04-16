@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr managers in small marketing agencies delayed tool",
+    "hr managers in small marketing agencies delayed automation",
+    "off requests month",
+    "hr managers in small marketing agencies processing 5 15 employee time-off requests month delayed tool",
+    "hr managers in small marketing agencies processing 5 15 employee time-off requests month delayed automation",
+    "hr managers in small marketing agencies processing 5 15 employee time-off requests month delayed workflow"
+  ],
+  "secondary_keywords": [
+    "off requests month software",
+    "off requests month platform",
+    "off requests month solution"
+  ],
+  "long_tail_keywords": [
+    "how to off requests month",
+    "best off requests month tool",
+    "off requests month vs spreadsheets",
+    "off requests month checklist",
+    "off requests month pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month, delayed approvals cause employee dissatisfaction. We alert HR ops when approvals are pending beyond 3 days instead of manual tracking via spreadsheets.",
+    "Delayed approvals of employee time-off requests",
+    "HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Off Requests Month",
+      "target_keyword": "how to off requests month",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Off Requests Month Tool",
+      "target_keyword": "best off requests month tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Off Requests Month Vs Spreadsheets",
+      "target_keyword": "off requests month vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Off Requests Month Checklist",
+      "target_keyword": "off requests month checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Off Requests Month Pricing",
+      "target_keyword": "off requests month pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Off Requests Month Software",
+      "target_keyword": "off requests month software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Off Requests Month Platform",
+      "target_keyword": "off requests month platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Off Requests Month Solution",
+      "target_keyword": "off requests month solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Off Requests Month",
+      "target_keyword": "off requests month",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Managers In Small Marketing Agencies Processing 5 15 Employee Time-Off Requests Month Delayed Tool",
+      "target_keyword": "hr managers in small marketing agencies processing 5 15 employee time-off requests month delayed tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Small Marketing Agencies Processing 5 15 Employee Time-Off Requests Month Delayed Automation",
+      "target_keyword": "hr managers in small marketing agencies processing 5 15 employee time-off requests month delayed automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Small Marketing Agencies Processing 5 15 Employee Time-Off Requests Month Delayed Workflow",
+      "target_keyword": "hr managers in small marketing agencies processing 5 15 employee time-off requests month delayed workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr managers in small marketing agencies delayed tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr managers in small marketing agencies delayed tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr managers in small marketing agencies delayed tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr managers in small marketing agencies delayed tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr managers in small marketing agencies delayed tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr managers in small marketing agencies tool",
+      "hr managers in small marketing agencies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr managers in small marketing agencies tool helps with delayed approvals of employee time-off requests."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

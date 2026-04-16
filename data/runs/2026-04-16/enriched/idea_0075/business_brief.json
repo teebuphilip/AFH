@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, the complexity of payroll tax filing causes late submissions. We automate payroll tax filing instead of manual tax filing processes.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Timely payroll tax filing",
+  "features": [
+    "Tax return calculation",
+    "Preparation of tax documents",
+    "Submission of tax returns"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Timely payroll tax filing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, the complexity of payroll tax filing causes late submissions. We automate payroll tax filing instead of manual tax filing processes.",
+    "current_alternative": "Manual tax filing processes",
+    "must_have_features": [
+      "Tax return calculation",
+      "Preparation of tax documents",
+      "Submission of tax returns"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, the complexity of payroll tax filing causes late submissions. We automate payroll tax filing instead of manual tax filing processes.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-16",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

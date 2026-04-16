@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers managing 5\u201315 properties tool",
+  "description": "For property managers managing 5\u201315 properties, inefficient scheduling causes missed inspections. We provide a streamlined scheduling system instead of manual tracking via spreadsheets or paper logs.",
+  "target_audience": "property managers managing 5\u201315 properties",
+  "problem_solved": "Inefficient scheduling and logging of maintenance tasks",
+  "features": [
+    "Inspection scheduling tool",
+    "Repair logging system",
+    "Work order generation feature"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers managing 5\u201315 properties",
+    "primary_problem": "Inefficient scheduling and logging of maintenance tasks",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers managing 5\u201315 properties, inefficient scheduling causes missed inspections. We provide a streamlined scheduling system instead of manual tracking via spreadsheets or paper logs.",
+    "current_alternative": "manual tracking via spreadsheets or paper logs",
+    "must_have_features": [
+      "Inspection scheduling tool",
+      "Repair logging system",
+      "Work order generation feature"
+    ]
+  },
+  "one_liner": "For property managers managing 5\u201315 properties, inefficient scheduling causes missed inspections. We provide a streamlined scheduling system instead of manual tracking via spreadsheets or paper logs.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-16",
+    "overlay_score": 69,
+    "arr_score": 68
+  }
+}

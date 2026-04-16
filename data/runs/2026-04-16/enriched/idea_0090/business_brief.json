@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 cases/month tool",
+  "description": "For law firms processing 5\u201315 cases/month, inefficient citation formatting causes delays in brief submissions. We automate citation formatting and case law lookups instead of manual citation formatting and case law searches.",
+  "target_audience": "law firms processing 5\u201315 cases/month",
+  "problem_solved": "Time-consuming citation formatting and case law lookups for brief writing.",
+  "features": [
+    "case law lookup tool",
+    "user-friendly interface",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 cases/month",
+    "primary_problem": "Time-consuming citation formatting and case law lookups for brief writing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 cases/month, inefficient citation formatting causes delays in brief submissions. We automate citation formatting and case law lookups instead of manual citation formatting and case law searches.",
+    "current_alternative": "manual citation formatting and case law searches",
+    "must_have_features": [
+      "case law lookup tool",
+      "user-friendly interface",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 cases/month, inefficient citation formatting causes delays in brief submissions. We automate citation formatting and case law lookups instead of manual citation formatting and case law searches.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

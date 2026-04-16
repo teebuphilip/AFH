@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-50 units tool",
+  "description": "For property managers handling 10-50 units, inefficient scheduling causes missed inspections. We automate scheduling and reporting instead of manual scheduling and paper reports.",
+  "target_audience": "property managers handling 10-50 units",
+  "problem_solved": "Inefficient scheduling and reporting of property inspections",
+  "features": [
+    "manual scheduling of inspections",
+    "standardized report templates",
+    "reminder notifications for upcoming inspections"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-50 units",
+    "primary_problem": "Inefficient scheduling and reporting of property inspections",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-50 units, inefficient scheduling causes missed inspections. We automate scheduling and reporting instead of manual scheduling and paper reports.",
+    "current_alternative": "manual scheduling and paper reports",
+    "must_have_features": [
+      "manual scheduling of inspections",
+      "standardized report templates",
+      "reminder notifications for upcoming inspections"
+    ]
+  },
+  "one_liner": "For property managers handling 10-50 units, inefficient scheduling causes missed inspections. We automate scheduling and reporting instead of manual scheduling and paper reports.",
+  "source": {
+    "idea_id": "idea_0084",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

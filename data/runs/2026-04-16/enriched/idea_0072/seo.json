@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "sales operations teams in marketing agencies managing tool",
+    "sales operations teams in marketing agencies managing automation",
+    "sales operations teams in marketing agencies processing 10 20 deals month managing tool",
+    "sales operations teams in marketing agencies processing 10 20 deals month managing automation",
+    "sales operations teams in marketing agencies processing 10 20 deals month managing workflow"
+  ],
+  "secondary_keywords": [
+    "sales operations teams in marketing agencies processing 10 20 deals month managing tool software",
+    "sales operations teams in marketing agencies processing 10 20 deals month managing tool platform",
+    "sales operations teams in marketing agencies processing 10 20 deals month managing tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For sales operations teams in marketing agencies processing 10\u201320 deals/month, manual calculations cause payout inaccuracies. We automate commission calculations instead of manual spreadsheets and calculations.",
+    "Managing complex commission structures and ensuring accurate payouts.",
+    "sales operations teams in marketing agencies processing 10\u201320 deals/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Sales Operations Teams In Marketing Agencies Processing 10 20 Deals Month Managing Tool Software",
+      "target_keyword": "sales operations teams in marketing agencies processing 10 20 deals month managing tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Teams In Marketing Agencies Processing 10 20 Deals Month Managing Tool Platform",
+      "target_keyword": "sales operations teams in marketing agencies processing 10 20 deals month managing tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Teams In Marketing Agencies Processing 10 20 Deals Month Managing Tool Solution",
+      "target_keyword": "sales operations teams in marketing agencies processing 10 20 deals month managing tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Teams In Marketing Agencies Processing 10 20 Deals Month Managing Tool",
+      "target_keyword": "sales operations teams in marketing agencies processing 10 20 deals month managing tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Teams In Marketing Agencies Processing 10 20 Deals Month Managing Automation",
+      "target_keyword": "sales operations teams in marketing agencies processing 10 20 deals month managing automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Sales Operations Teams In Marketing Agencies Processing 10 20 Deals Month Managing Workflow",
+      "target_keyword": "sales operations teams in marketing agencies processing 10 20 deals month managing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "sales operations teams in marketing agencies managing tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "sales operations teams in marketing agencies managing tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "sales operations teams in marketing agencies managing tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "sales operations teams in marketing agencies managing tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "sales operations teams in marketing agencies managing tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | sales operations teams in marketing agencies tool",
+      "sales operations teams in marketing agencies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "sales operations teams in marketing agencies tool helps with managing complex commission structures and ensuring accurate payouts."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

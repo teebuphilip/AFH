@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inefficient manual auditing causes late reimbursements. We automate expense report auditing instead of manual auditing processes using spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient manual auditing of expense reports",
+  "features": [
+    "receipt scanning",
+    "anomaly flagging",
+    "approval workflow generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient manual auditing of expense reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inefficient manual auditing causes late reimbursements. We automate expense report auditing instead of manual auditing processes using spreadsheets.",
+    "current_alternative": "manual auditing processes using spreadsheets",
+    "must_have_features": [
+      "receipt scanning",
+      "anomaly flagging",
+      "approval workflow generation"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inefficient manual auditing causes late reimbursements. We automate expense report auditing instead of manual auditing processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-16",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

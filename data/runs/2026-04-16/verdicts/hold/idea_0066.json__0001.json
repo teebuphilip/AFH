@@ -1,0 +1,15 @@
+{
+  "idea_text": "Accounts receivable chatbot that follows up on late payments, negotiates payment plans, and provides collections reporting for finance ops.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 60,
+  "arr_score": 60,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-16T10:31:10.552023",
+  "verdict_source": "overlay_score"
+}

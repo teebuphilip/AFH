@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-10 projects simultaneously tool",
+  "description": "For construction contractors managing 5-10 projects simultaneously, missing daily field logs causes project delays. We provide automated tracking instead of manual tracking with spreadsheets.",
+  "target_audience": "construction contractors managing 5-10 projects simultaneously",
+  "problem_solved": "missing daily field logs and inspection reports",
+  "features": [
+    "daily log entry interface",
+    "inspection report flagging",
+    "project overview dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-10 projects simultaneously",
+    "primary_problem": "missing daily field logs and inspection reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5-10 projects simultaneously, missing daily field logs causes project delays. We provide automated tracking instead of manual tracking with spreadsheets.",
+    "current_alternative": "manual tracking with spreadsheets",
+    "must_have_features": [
+      "daily log entry interface",
+      "inspection report flagging",
+      "project overview dashboard"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-10 projects simultaneously, missing daily field logs causes project delays. We provide automated tracking instead of manual tracking with spreadsheets.",
+  "source": {
+    "idea_id": "idea_0078",
+    "run_date": "2026-04-16",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

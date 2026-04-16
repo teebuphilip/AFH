@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause service interruptions. We notify finance ops before payment deadlines instead of manual tracking of subscription renewals.",
+  "problem": "Etsy sellers miss payment deadlines for subscription services, leading to service interruptions.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Share insights on Indie Hackers forums",
+    "DM outreach to Etsy sellers with demo video",
+    "Engage in community groups for Etsy sellers"
+  ],
+  "try_it": "Let users manually enter subscription details and receive reminders",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video showcasing manual workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Offer preset reminder schedules",
+    "Enable CSV import for existing subscriptions",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process steps"
+  ]
+}

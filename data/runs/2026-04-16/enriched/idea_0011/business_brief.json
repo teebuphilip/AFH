@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients/month tool",
+  "description": "For accounting firms managing 5\u201315 clients/month, frequent discrepancies cause cash flow gaps. We automate transaction matching instead of manual reconciliation processes.",
+  "target_audience": "accounting firms managing 5\u201315 clients/month",
+  "problem_solved": "frequent discrepancies between bank statements and accounting records",
+  "features": [
+    "manual transaction entry",
+    "discrepancy flagging",
+    "monthly reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients/month",
+    "primary_problem": "frequent discrepancies between bank statements and accounting records",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients/month, frequent discrepancies cause cash flow gaps. We automate transaction matching instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual transaction entry",
+      "discrepancy flagging",
+      "monthly reporting"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients/month, frequent discrepancies cause cash flow gaps. We automate transaction matching instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

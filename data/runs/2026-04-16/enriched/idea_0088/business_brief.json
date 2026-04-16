@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 deliveries/week tool",
+  "description": "For logistics carriers processing 50\u2013100 deliveries/week, inefficient fleet operations cause increased costs. We provide a data analytics dashboard instead of manual tracking and reporting of delivery metrics.",
+  "target_audience": "logistics carriers processing 50\u2013100 deliveries/week",
+  "problem_solved": "Inefficient fleet operations leading to increased costs and delayed deliveries.",
+  "features": [
+    "Delivery metrics visualization",
+    "Opportunity identification for efficiency improvements",
+    "User-friendly dashboard interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 deliveries/week",
+    "primary_problem": "Inefficient fleet operations leading to increased costs and delayed deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 deliveries/week, inefficient fleet operations cause increased costs. We provide a data analytics dashboard instead of manual tracking and reporting of delivery metrics.",
+    "current_alternative": "manual tracking and reporting of delivery metrics",
+    "must_have_features": [
+      "Delivery metrics visualization",
+      "Opportunity identification for efficiency improvements",
+      "User-friendly dashboard interface"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 deliveries/week, inefficient fleet operations cause increased costs. We provide a data analytics dashboard instead of manual tracking and reporting of delivery metrics.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-16",
+    "overlay_score": 54,
+    "arr_score": 54
+  }
+}

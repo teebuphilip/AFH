@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in freight brokerage firms processing 5\u201315 deliveries/week tool",
+  "description": "For logistics managers in freight brokerage firms processing 5\u201315 deliveries/week, inefficient tracking of delivery fleet mileage causes unaddressed exceptions. We monitor mileage logs and flag exceptions instead of manual mileage tracking and exception reporting.",
+  "target_audience": "logistics managers in freight brokerage firms processing 5\u201315 deliveries/week",
+  "problem_solved": "Inefficient tracking of delivery fleet mileage leading to unaddressed exceptions.",
+  "features": [
+    "manual entry of mileage logs",
+    "exception flagging system",
+    "basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in freight brokerage firms processing 5\u201315 deliveries/week",
+    "primary_problem": "Inefficient tracking of delivery fleet mileage leading to unaddressed exceptions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in freight brokerage firms processing 5\u201315 deliveries/week, inefficient tracking of delivery fleet mileage causes unaddressed exceptions. We monitor mileage logs and flag exceptions instead of manual mileage tracking and exception reporting.",
+    "current_alternative": "manual mileage tracking and exception reporting",
+    "must_have_features": [
+      "manual entry of mileage logs",
+      "exception flagging system",
+      "basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For logistics managers in freight brokerage firms processing 5\u201315 deliveries/week, inefficient tracking of delivery fleet mileage causes unaddressed exceptions. We monitor mileage logs and flag exceptions instead of manual mileage tracking and exception reporting.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors managing 5-10 projects simultaneously",
+  "offer": "For construction contractors managing 5-10 projects simultaneously, inefficient crew assignments cause project delays. We optimize crew scheduling instead of manual scheduling via spreadsheets.",
+  "problem": "inefficient crew assignments leading to project delays",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on crew scheduling issues",
+    "DM outreach to construction contractors with demo video",
+    "Community forums sharing construction management tools"
+  ],
+  "try_it": "Let users try manual crew assignment input and project tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a CTA",
+    "Produce a short demo video of the workflow",
+    "Gather 10 interviews from target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline the onboarding process"
+  ]
+}

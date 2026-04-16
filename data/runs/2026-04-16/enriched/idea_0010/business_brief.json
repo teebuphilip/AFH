@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers managing 5\u201315 properties tool",
+  "description": "For property managers managing 5\u201315 properties, inefficient utility tracking causes high operational costs. We provide weekly utility usage reports instead of manual tracking of utility bills.",
+  "target_audience": "property managers managing 5\u201315 properties",
+  "problem_solved": "High operational costs due to inefficient utility tracking.",
+  "features": [
+    "Weekly utility usage report generation",
+    "Cost comparison across properties",
+    "Alerts for unusual usage patterns"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers managing 5\u201315 properties",
+    "primary_problem": "High operational costs due to inefficient utility tracking.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers managing 5\u201315 properties, inefficient utility tracking causes high operational costs. We provide weekly utility usage reports instead of manual tracking of utility bills.",
+    "current_alternative": "manual tracking of utility bills",
+    "must_have_features": [
+      "Weekly utility usage report generation",
+      "Cost comparison across properties",
+      "Alerts for unusual usage patterns"
+    ]
+  },
+  "one_liner": "For property managers managing 5\u201315 properties, inefficient utility tracking causes high operational costs. We provide weekly utility usage reports instead of manual tracking of utility bills.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-16",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics operations supervisors managing 10-20 fleet vehicles",
+  "offer": "For logistics operations supervisors managing 10-20 fleet vehicles, inefficient compliance checks cause missed inspections. We generate daily fleet vehicle compliance checklists instead of manual checklist creation and tracking.",
+  "problem": "Ensuring daily compliance checks are completed accurately and on time.",
+  "channels_free": [
+    "Post in Reddit communities for logistics operations supervisors",
+    "Indie Hackers posts about compliance check workflows",
+    "DM outreach to logistics operations supervisors with demo video",
+    "Community forums for logistics operations supervisors sharing tools"
+  ],
+  "try_it": "Let users try customizable checklist templates and daily reminders",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for first users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy access",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing checklist data",
+    "Enable one-click export of compliance reports",
+    "Streamline onboarding process for new users"
+  ]
+}

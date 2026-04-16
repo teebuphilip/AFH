@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/day tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/day, delayed tracking updates cause late orders. We aggregate daily shipment tracking updates and send exception alerts instead of manual tracking and updates via email or spreadsheets.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/day",
+  "problem_solved": "Inability to track shipment exceptions in real-time, leading to delayed responses.",
+  "features": [
+    "Daily shipment tracking aggregation",
+    "Real-time exception alerts",
+    "User-friendly dashboard for tracking updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/day",
+    "primary_problem": "Inability to track shipment exceptions in real-time, leading to delayed responses.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/day, delayed tracking updates cause late orders. We aggregate daily shipment tracking updates and send exception alerts instead of manual tracking and updates via email or spreadsheets.",
+    "current_alternative": "manual tracking and updates via email or spreadsheets",
+    "must_have_features": [
+      "Daily shipment tracking aggregation",
+      "Real-time exception alerts",
+      "User-friendly dashboard for tracking updates"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/day, delayed tracking updates cause late orders. We aggregate daily shipment tracking updates and send exception alerts instead of manual tracking and updates via email or spreadsheets.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

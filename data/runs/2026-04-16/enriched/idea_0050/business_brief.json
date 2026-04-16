@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction site supervisors managing 5-10 projects/month tool",
+  "description": "For construction site supervisors processing 5-10 projects/month, compliance documentation gaps cause potential legal penalties. We generate automated compliance audit summaries instead of manual tracking and reporting via spreadsheets.",
+  "target_audience": "construction site supervisors managing 5-10 projects/month",
+  "problem_solved": "Difficulty in maintaining compliance documentation and audit trails.",
+  "features": [
+    "customizable compliance checklists",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction site supervisors managing 5-10 projects/month",
+    "primary_problem": "Difficulty in maintaining compliance documentation and audit trails.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction site supervisors processing 5-10 projects/month, compliance documentation gaps cause potential legal penalties. We generate automated compliance audit summaries instead of manual tracking and reporting via spreadsheets.",
+    "current_alternative": "manual tracking and reporting via spreadsheets",
+    "must_have_features": [
+      "customizable compliance checklists",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For construction site supervisors processing 5-10 projects/month, compliance documentation gaps cause potential legal penalties. We generate automated compliance audit summaries instead of manual tracking and reporting via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-16",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

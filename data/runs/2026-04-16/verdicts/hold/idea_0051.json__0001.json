@@ -1,0 +1,15 @@
+{
+  "idea_text": "Automated invoicing and collections tool for small accounting firms to streamline their client billing and receivables.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-16T10:31:10.549911",
+  "verdict_source": "overlay_score"
+}

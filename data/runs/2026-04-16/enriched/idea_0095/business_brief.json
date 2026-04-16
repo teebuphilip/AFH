@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10\u201320 insurance claims/month tool",
+  "description": "For medical clinics processing 10\u201320 invoices/month, delays in insurance claim submissions cause cash flow gaps. We streamline the submission process instead of manual claim submission processes.",
+  "target_audience": "medical clinics processing 10\u201320 insurance claims/month",
+  "problem_solved": "delays in insurance claim submissions",
+  "features": [
+    "simple claim submission interface",
+    "patient statement generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10\u201320 insurance claims/month",
+    "primary_problem": "delays in insurance claim submissions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10\u201320 invoices/month, delays in insurance claim submissions cause cash flow gaps. We streamline the submission process instead of manual claim submission processes.",
+    "current_alternative": "manual claim submission processes",
+    "must_have_features": [
+      "simple claim submission interface",
+      "patient statement generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10\u201320 invoices/month, delays in insurance claim submissions cause cash flow gaps. We streamline the submission process instead of manual claim submission processes.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-16",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

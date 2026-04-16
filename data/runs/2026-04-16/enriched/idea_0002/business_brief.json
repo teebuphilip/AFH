@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month tool",
+  "description": "For HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month, delayed approvals cause employee dissatisfaction. We alert HR ops when approvals are pending beyond 3 days instead of manual tracking via spreadsheets.",
+  "target_audience": "HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month",
+  "problem_solved": "Delayed approvals of employee time-off requests",
+  "features": [
+    "Notification system for pending approvals",
+    "Dashboard for tracking time-off requests",
+    "Manual entry for time-off requests"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month",
+    "primary_problem": "Delayed approvals of employee time-off requests",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month, delayed approvals cause employee dissatisfaction. We alert HR ops when approvals are pending beyond 3 days instead of manual tracking via spreadsheets.",
+    "current_alternative": "Manual tracking of time-off requests via spreadsheets",
+    "must_have_features": [
+      "Notification system for pending approvals",
+      "Dashboard for tracking time-off requests",
+      "Manual entry for time-off requests"
+    ]
+  },
+  "one_liner": "For HR managers in small marketing agencies processing 5\u201315 employee time-off requests/month, delayed approvals cause employee dissatisfaction. We alert HR ops when approvals are pending beyond 3 days instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

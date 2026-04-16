@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing petty cash for 5\u201315 clients tool",
+  "description": "For accounting firms managing petty cash for 5\u201315 clients, inefficient reconciliation causes cash flow gaps. We automate weekly reconciliation and email summary reports instead of manual reconciliation and reporting.",
+  "target_audience": "accounting firms managing petty cash for 5\u201315 clients",
+  "problem_solved": "inefficient reconciliation of petty cash transactions",
+  "features": [
+    "weekly transaction summary generation",
+    "manual entry for exceptions",
+    "email notifications for reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing petty cash for 5\u201315 clients",
+    "primary_problem": "inefficient reconciliation of petty cash transactions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing petty cash for 5\u201315 clients, inefficient reconciliation causes cash flow gaps. We automate weekly reconciliation and email summary reports instead of manual reconciliation and reporting.",
+    "current_alternative": "manual reconciliation and reporting",
+    "must_have_features": [
+      "weekly transaction summary generation",
+      "manual entry for exceptions",
+      "email notifications for reports"
+    ]
+  },
+  "one_liner": "For accounting firms managing petty cash for 5\u201315 clients, inefficient reconciliation causes cash flow gaps. We automate weekly reconciliation and email summary reports instead of manual reconciliation and reporting.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-16",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

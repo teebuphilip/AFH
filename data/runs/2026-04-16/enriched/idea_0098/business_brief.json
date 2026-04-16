@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 invoices/month tool",
+  "description": "For law firms processing 5\u201315 invoices/month, inefficient billing workflows cause cash flow gaps. We centralize client information and document storage instead of manual tracking and spreadsheets.",
+  "target_audience": "law firms processing 5\u201315 invoices/month",
+  "problem_solved": "inefficient billing workflows",
+  "features": [
+    "client information storage",
+    "document management",
+    "billing workflow tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 invoices/month",
+    "primary_problem": "inefficient billing workflows",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 invoices/month, inefficient billing workflows cause cash flow gaps. We centralize client information and document storage instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "client information storage",
+      "document management",
+      "billing workflow tracking"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 invoices/month, inefficient billing workflows cause cash flow gaps. We centralize client information and document storage instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0098",
+    "run_date": "2026-04-16",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

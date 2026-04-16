@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics carriers processing 50\u2013100 shipments/month",
+  "offer": "For logistics carriers processing 50\u2013100 shipments/month, inefficient route planning causes late deliveries. We optimize routes and track shipments instead of manual tracking and route planning.",
+  "problem": "Inefficient route planning and shipment tracking",
+  "channels_free": [
+    "Post in Reddit communities for logistics carriers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to logistics carriers with demo video",
+    "Community forums for logistics tools and solutions"
+  ],
+  "try_it": "Let users try Route planning tool and Shipment tracking dashboard on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

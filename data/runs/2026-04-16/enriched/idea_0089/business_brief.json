@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week tool",
+  "description": "For restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week, inefficient scheduling causes employee dissatisfaction and scheduling conflicts. We automate shift rotations instead of manual scheduling via spreadsheets or paper.",
+  "target_audience": "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week",
+  "problem_solved": "inefficient scheduling and time off management",
+  "features": [
+    "shift rotation generation",
+    "time off request tracking",
+    "manual override for scheduling conflicts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week",
+    "primary_problem": "inefficient scheduling and time off management",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week, inefficient scheduling causes employee dissatisfaction and scheduling conflicts. We automate shift rotations instead of manual scheduling via spreadsheets or paper.",
+    "current_alternative": "manual scheduling via spreadsheets or paper",
+    "must_have_features": [
+      "shift rotation generation",
+      "time off request tracking",
+      "manual override for scheduling conflicts"
+    ]
+  },
+  "one_liner": "For restaurant managers at small to medium-sized restaurants processing 10-50 employee shifts per week, inefficient scheduling causes employee dissatisfaction and scheduling conflicts. We automate shift rotations instead of manual scheduling via spreadsheets or paper.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-16",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

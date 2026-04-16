@@ -1,0 +1,15 @@
+{
+  "idea_text": "Logistics optimization tool that plans routes, tracks shipments, and generates performance reports for transportation managers.",
+  "scores": {
+    "pricing_power": 70,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 61,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-16T10:31:10.551626",
+  "verdict_source": "overlay_score"
+}
