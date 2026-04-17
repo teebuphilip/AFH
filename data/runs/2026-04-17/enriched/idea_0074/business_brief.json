@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "compliance officers in accounting firms processing 5\u201315 financial reports/month tool",
+  "description": "For compliance officers in accounting firms processing 5\u201315 financial reports/month, manual reporting causes delays in compliance submissions. We automate the collection, formatting, and filing of reports instead of manual reporting processes using spreadsheets.",
+  "target_audience": "compliance officers in accounting firms processing 5\u201315 financial reports/month",
+  "problem_solved": "Manual collection and formatting of financial reports is time-consuming and error-prone.",
+  "features": [
+    "user-friendly dashboard for report tracking",
+    "notification system for filing deadlines",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "compliance officers in accounting firms processing 5\u201315 financial reports/month",
+    "primary_problem": "Manual collection and formatting of financial reports is time-consuming and error-prone.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For compliance officers in accounting firms processing 5\u201315 financial reports/month, manual reporting causes delays in compliance submissions. We automate the collection, formatting, and filing of reports instead of manual reporting processes using spreadsheets.",
+    "current_alternative": "manual reporting processes using spreadsheets",
+    "must_have_features": [
+      "user-friendly dashboard for report tracking",
+      "notification system for filing deadlines",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For compliance officers in accounting firms processing 5\u201315 financial reports/month, manual reporting causes delays in compliance submissions. We automate the collection, formatting, and filing of reports instead of manual reporting processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

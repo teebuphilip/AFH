@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, unmonitored software license usage causes unnecessary expenses. We provide alerts for potential cost savings instead of manual tracking of software licenses.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "High software license costs due to unmonitored usage.",
+  "features": [
+    "usage tracking dashboard",
+    "alert system for unused licenses",
+    "monthly cost summary report"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "High software license costs due to unmonitored usage.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, unmonitored software license usage causes unnecessary expenses. We provide alerts for potential cost savings instead of manual tracking of software licenses.",
+    "current_alternative": "manual tracking of software licenses",
+    "must_have_features": [
+      "usage tracking dashboard",
+      "alert system for unused licenses",
+      "monthly cost summary report"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, unmonitored software license usage causes unnecessary expenses. We provide alerts for potential cost savings instead of manual tracking of software licenses.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-17",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

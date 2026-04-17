@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 properties/month tool",
+  "description": "For property managers processing 5\u201315 properties/month, manual tax filing causes late submissions, leading to penalties. We automate tax filings instead of manual tax filing processes.",
+  "target_audience": "property managers processing 5\u201315 properties/month",
+  "problem_solved": "Timely submission of tax filings",
+  "features": [
+    "monthly filing reminders",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 properties/month",
+    "primary_problem": "Timely submission of tax filings",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 properties/month, manual tax filing causes late submissions, leading to penalties. We automate tax filings instead of manual tax filing processes.",
+    "current_alternative": "manual tax filing processes",
+    "must_have_features": [
+      "monthly filing reminders",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 properties/month, manual tax filing causes late submissions, leading to penalties. We automate tax filings instead of manual tax filing processes.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-17",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

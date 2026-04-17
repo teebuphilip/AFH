@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 rental units/month tool",
+  "description": "For property managers handling 10-20 rental units/month, inefficient coordination causes extended vacancy periods. We streamline the turnover process instead of manual scheduling and communication via email or phone.",
+  "target_audience": "property managers handling 10-20 rental units/month",
+  "problem_solved": "Inefficient coordination of cleaning and repairs during tenant turnover",
+  "features": [
+    "task assignment for cleaning and repairs",
+    "calendar view for scheduling",
+    "notification system for updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 rental units/month",
+    "primary_problem": "Inefficient coordination of cleaning and repairs during tenant turnover",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 rental units/month, inefficient coordination causes extended vacancy periods. We streamline the turnover process instead of manual scheduling and communication via email or phone.",
+    "current_alternative": "manual scheduling and communication via email or phone",
+    "must_have_features": [
+      "task assignment for cleaning and repairs",
+      "calendar view for scheduling",
+      "notification system for updates"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 rental units/month, inefficient coordination causes extended vacancy periods. We streamline the turnover process instead of manual scheduling and communication via email or phone.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-17",
+    "overlay_score": 68,
+    "arr_score": 71
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic administrators processing 10\u201320 invoices/month tool",
+  "description": "For medical clinic administrators processing 10\u201320 invoices/month, inefficient invoicing causes cash flow gaps. We automate billing instead of manual billing processes and spreadsheets.",
+  "target_audience": "medical clinic administrators processing 10\u201320 invoices/month",
+  "problem_solved": "inefficient management of patient invoicing and insurance claims",
+  "features": [
+    "simple invoice generation",
+    "claim tracking",
+    "payment reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic administrators processing 10\u201320 invoices/month",
+    "primary_problem": "inefficient management of patient invoicing and insurance claims",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic administrators processing 10\u201320 invoices/month, inefficient invoicing causes cash flow gaps. We automate billing instead of manual billing processes and spreadsheets.",
+    "current_alternative": "manual billing processes and spreadsheets",
+    "must_have_features": [
+      "simple invoice generation",
+      "claim tracking",
+      "payment reminders"
+    ]
+  },
+  "one_liner": "For medical clinic administrators processing 10\u201320 invoices/month, inefficient invoicing causes cash flow gaps. We automate billing instead of manual billing processes and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0100",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

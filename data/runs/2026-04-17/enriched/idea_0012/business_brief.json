@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, late payments cause supplier penalties. We send alerts for upcoming deadlines instead of manual tracking of payment schedules.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Late payments leading to supplier penalties and cash flow issues.",
+  "features": [
+    "manual entry of vendor payment schedules",
+    "alert notifications for upcoming deadlines",
+    "report generation for payment history"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Late payments leading to supplier penalties and cash flow issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, late payments cause supplier penalties. We send alerts for upcoming deadlines instead of manual tracking of payment schedules.",
+    "current_alternative": "manual tracking of payment schedules",
+    "must_have_features": [
+      "manual entry of vendor payment schedules",
+      "alert notifications for upcoming deadlines",
+      "report generation for payment history"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, late payments cause supplier penalties. We send alerts for upcoming deadlines instead of manual tracking of payment schedules.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-17",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

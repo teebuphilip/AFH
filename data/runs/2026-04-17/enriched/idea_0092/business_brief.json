@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project coordinators managing 5\u201310 permit applications/month tool",
+  "description": "For construction project coordinators processing 5\u201310 permit applications/month, inefficient submission processes cause delays in project timelines. We streamline the application process instead of manual tracking and submission of permit applications.",
+  "target_audience": "construction project coordinators managing 5\u201310 permit applications/month",
+  "problem_solved": "Inefficient government submission processes for permits",
+  "features": [
+    "simple application form builder",
+    "status tracking dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project coordinators managing 5\u201310 permit applications/month",
+    "primary_problem": "Inefficient government submission processes for permits",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project coordinators processing 5\u201310 permit applications/month, inefficient submission processes cause delays in project timelines. We streamline the application process instead of manual tracking and submission of permit applications.",
+    "current_alternative": "manual tracking and submission of permit applications",
+    "must_have_features": [
+      "simple application form builder",
+      "status tracking dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project coordinators processing 5\u201310 permit applications/month, inefficient submission processes cause delays in project timelines. We streamline the application process instead of manual tracking and submission of permit applications.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

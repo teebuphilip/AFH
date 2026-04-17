@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201350 orders/week tool",
+  "description": "For Shopify store owners processing 10\u201350 orders/week, manual data extraction causes delayed insights. We automate weekly sales pipeline data extracts instead of manual data extraction and analysis using spreadsheets.",
+  "target_audience": "Shopify store owners processing 10\u201350 orders/week",
+  "problem_solved": "Inability to quickly access and analyze sales pipeline data for decision-making.",
+  "features": [
+    "User-friendly dashboard for data visualization",
+    "Export options for CSV and Excel formats",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201350 orders/week",
+    "primary_problem": "Inability to quickly access and analyze sales pipeline data for decision-making.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201350 orders/week, manual data extraction causes delayed insights. We automate weekly sales pipeline data extracts instead of manual data extraction and analysis using spreadsheets.",
+    "current_alternative": "Manual data extraction and analysis using spreadsheets.",
+    "must_have_features": [
+      "User-friendly dashboard for data visualization",
+      "Export options for CSV and Excel formats",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201350 orders/week, manual data extraction causes delayed insights. We automate weekly sales pipeline data extracts instead of manual data extraction and analysis using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-17",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

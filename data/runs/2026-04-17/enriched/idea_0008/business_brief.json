@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 clients quarterly tool",
+  "description": "For accounting firms processing 5\u201315 clients quarterly, inefficient tax summary extraction causes delays in client reporting. We automate the extraction and formatting instead of manual compilation of tax summaries.",
+  "target_audience": "accounting firms processing 5\u201315 clients quarterly",
+  "problem_solved": "Inefficient tax withholding summary extraction and formatting",
+  "features": [
+    "manual data entry support",
+    "customizable summary templates",
+    "quarterly reporting reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 clients quarterly",
+    "primary_problem": "Inefficient tax withholding summary extraction and formatting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 clients quarterly, inefficient tax summary extraction causes delays in client reporting. We automate the extraction and formatting instead of manual compilation of tax summaries.",
+    "current_alternative": "manual compilation of tax summaries",
+    "must_have_features": [
+      "manual data entry support",
+      "customizable summary templates",
+      "quarterly reporting reminders"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 clients quarterly, inefficient tax summary extraction causes delays in client reporting. We automate the extraction and formatting instead of manual compilation of tax summaries.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

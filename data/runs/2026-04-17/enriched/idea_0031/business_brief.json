@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality accountants processing 5\u201315 invoices/week tool",
+  "description": "For hospitality accountants processing 5\u201315 invoices/week, inaccurate cost tracking causes cash flow gaps. We provide automated weekly cost analysis reports instead of manual data entry into spreadsheets.",
+  "target_audience": "hospitality accountants processing 5\u201315 invoices/week",
+  "problem_solved": "Inaccurate cost tracking from manual receipt entry.",
+  "features": [
+    "weekly report generation",
+    "cost analysis summary",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality accountants processing 5\u201315 invoices/week",
+    "primary_problem": "Inaccurate cost tracking from manual receipt entry.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality accountants processing 5\u201315 invoices/week, inaccurate cost tracking causes cash flow gaps. We provide automated weekly cost analysis reports instead of manual data entry into spreadsheets.",
+    "current_alternative": "manual data entry into spreadsheets",
+    "must_have_features": [
+      "weekly report generation",
+      "cost analysis summary",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For hospitality accountants processing 5\u201315 invoices/week, inaccurate cost tracking causes cash flow gaps. We provide automated weekly cost analysis reports instead of manual data entry into spreadsheets.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-17",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

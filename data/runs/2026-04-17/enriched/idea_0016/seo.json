@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firms inconsistencies tool",
+    "accounting firms inconsistencies automation",
+    "we cross",
+    "accounting firms processing 5 15 payrolls month inconsistencies tool",
+    "accounting firms processing 5 15 payrolls month inconsistencies automation",
+    "accounting firms processing 5 15 payrolls month inconsistencies workflow"
+  ],
+  "secondary_keywords": [
+    "we cross software",
+    "we cross platform",
+    "we cross solution"
+  ],
+  "long_tail_keywords": [
+    "how to we cross",
+    "best we cross tool",
+    "we cross vs spreadsheets",
+    "we cross checklist",
+    "we cross pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firms processing 5\u201315 payrolls/month, payroll tax filing inconsistencies cause compliance penalties. We cross-validate payroll tax filings with internal records instead of manual reconciliation.",
+    "Inconsistencies between payroll tax filings and internal payroll records.",
+    "accounting firms processing 5\u201315 payrolls/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Cross",
+      "target_keyword": "how to we cross",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Cross Tool",
+      "target_keyword": "best we cross tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Cross Vs Spreadsheets",
+      "target_keyword": "we cross vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Cross Checklist",
+      "target_keyword": "we cross checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Cross Pricing",
+      "target_keyword": "we cross pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Cross Software",
+      "target_keyword": "we cross software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Cross Platform",
+      "target_keyword": "we cross platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Cross Solution",
+      "target_keyword": "we cross solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Cross",
+      "target_keyword": "we cross",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accounting Firms Processing 5 15 Payrolls Month Inconsistencies Tool",
+      "target_keyword": "accounting firms processing 5 15 payrolls month inconsistencies tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 5 15 Payrolls Month Inconsistencies Automation",
+      "target_keyword": "accounting firms processing 5 15 payrolls month inconsistencies automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 5 15 Payrolls Month Inconsistencies Workflow",
+      "target_keyword": "accounting firms processing 5 15 payrolls month inconsistencies workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firms inconsistencies tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firms inconsistencies tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firms inconsistencies tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firms inconsistencies tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firms inconsistencies tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firms tool",
+      "accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firms tool helps with inconsistencies between payroll tax filings and internal payroll records."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

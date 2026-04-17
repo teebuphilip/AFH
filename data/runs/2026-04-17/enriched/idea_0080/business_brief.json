@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201315 vehicles tool",
+  "description": "For logistics carriers processing 5\u201315 vehicles, inefficient scheduling causes late deliveries. We provide a fleet management system instead of manual tracking and scheduling via spreadsheets.",
+  "target_audience": "logistics carriers managing 5\u201315 vehicles",
+  "problem_solved": "Inefficient scheduling of vehicle maintenance and route optimization.",
+  "features": [
+    "vehicle maintenance scheduling",
+    "route optimization tools",
+    "fuel tracking capabilities"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201315 vehicles",
+    "primary_problem": "Inefficient scheduling of vehicle maintenance and route optimization.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 5\u201315 vehicles, inefficient scheduling causes late deliveries. We provide a fleet management system instead of manual tracking and scheduling via spreadsheets.",
+    "current_alternative": "manual tracking and scheduling via spreadsheets",
+    "must_have_features": [
+      "vehicle maintenance scheduling",
+      "route optimization tools",
+      "fuel tracking capabilities"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 5\u201315 vehicles, inefficient scheduling causes late deliveries. We provide a fleet management system instead of manual tracking and scheduling via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-17",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

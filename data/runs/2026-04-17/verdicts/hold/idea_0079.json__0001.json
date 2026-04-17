@@ -1,0 +1,18 @@
+{
+  "idea_text": "Reconciliation automation for medical billing teams at clinics to match insurance payments to patient records.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-17T10:32:59.535134",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-17T10:32:59.583265",
+  "hold_reason": "arr_70_89"
+}

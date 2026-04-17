@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing teams at clinics processing 20-50 invoices/month tool",
+  "description": "For medical billing teams at clinics processing 20-50 invoices/month, delayed payments cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "medical billing teams at clinics processing 20-50 invoices/month",
+  "problem_solved": "Difficulty in matching insurance payments to patient records.",
+  "features": [
+    "manual entry for unmatched records",
+    "simple reporting dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing teams at clinics processing 20-50 invoices/month",
+    "primary_problem": "Difficulty in matching insurance payments to patient records.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing teams at clinics processing 20-50 invoices/month, delayed payments cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry for unmatched records",
+      "simple reporting dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical billing teams at clinics processing 20-50 invoices/month, delayed payments cause cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0079",
+    "run_date": "2026-04-17",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

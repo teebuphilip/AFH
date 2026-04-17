@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-30 rental units tool",
+  "description": "For property managers handling 10-30 rental units, manual billing causes cash flow gaps. We automate tenant billing instead of spreadsheets and manual processes.",
+  "target_audience": "property managers handling 10-30 rental units",
+  "problem_solved": "manual billing and maintenance tracking",
+  "features": [
+    "maintenance request tracking",
+    "monthly financial statement generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-30 rental units",
+    "primary_problem": "manual billing and maintenance tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-30 rental units, manual billing causes cash flow gaps. We automate tenant billing instead of spreadsheets and manual processes.",
+    "current_alternative": "spreadsheets and manual processes",
+    "must_have_features": [
+      "maintenance request tracking",
+      "monthly financial statement generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 10-30 rental units, manual billing causes cash flow gaps. We automate tenant billing instead of spreadsheets and manual processes.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-17",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, duplicate charges cause cash flow gaps. We monitor subscription invoices instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Duplicate or unused subscription charges leading to cash flow gaps.",
+  "features": [
+    "Invoice monitoring alerts",
+    "Duplicate charge identification",
+    "Unused subscription notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Duplicate or unused subscription charges leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, duplicate charges cause cash flow gaps. We monitor subscription invoices instead of manual tracking.",
+    "current_alternative": "Manual tracking of invoices and charges.",
+    "must_have_features": [
+      "Invoice monitoring alerts",
+      "Duplicate charge identification",
+      "Unused subscription notifications"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, duplicate charges cause cash flow gaps. We monitor subscription invoices instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-17",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "real estate portfolio managers managing properties inaccurate tool",
+    "real estate portfolio managers managing properties inaccurate automation",
+    "real estate portfolio managers managing 5 15 properties inaccurate tool",
+    "real estate portfolio managers managing 5 15 properties inaccurate automation",
+    "real estate portfolio managers managing 5 15 properties inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "real estate portfolio managers managing 5 15 properties inaccurate tool software",
+    "real estate portfolio managers managing 5 15 properties inaccurate tool platform",
+    "real estate portfolio managers managing 5 15 properties inaccurate tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For real estate portfolio managers processing 5\u201315 properties, inaccurate tracking of rents causes financial discrepancies. We provide automated monthly statements instead of manual spreadsheets and email statements.",
+    "Inaccurate tracking of rents and occupancy costs leads to financial discrepancies.",
+    "real estate portfolio managers managing 5\u201315 properties"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Real Estate Portfolio Managers Managing 5 15 Properties Inaccurate Tool Software",
+      "target_keyword": "real estate portfolio managers managing 5 15 properties inaccurate tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Real Estate Portfolio Managers Managing 5 15 Properties Inaccurate Tool Platform",
+      "target_keyword": "real estate portfolio managers managing 5 15 properties inaccurate tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Real Estate Portfolio Managers Managing 5 15 Properties Inaccurate Tool Solution",
+      "target_keyword": "real estate portfolio managers managing 5 15 properties inaccurate tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Real Estate Portfolio Managers Managing 5 15 Properties Inaccurate Tool",
+      "target_keyword": "real estate portfolio managers managing 5 15 properties inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Real Estate Portfolio Managers Managing 5 15 Properties Inaccurate Automation",
+      "target_keyword": "real estate portfolio managers managing 5 15 properties inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Real Estate Portfolio Managers Managing 5 15 Properties Inaccurate Workflow",
+      "target_keyword": "real estate portfolio managers managing 5 15 properties inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "real estate portfolio managers managing properties inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "real estate portfolio managers managing properties inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "real estate portfolio managers managing properties inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "real estate portfolio managers managing properties inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "real estate portfolio managers managing properties inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | real estate portfolio managers managing properties tool",
+      "real estate portfolio managers managing properties tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "real estate portfolio managers managing properties tool helps with inaccurate tracking of rents and occupancy costs leads to financial discrepancies."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

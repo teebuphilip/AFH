@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We predict cash flow and notify teams instead of manual tracking of invoices and payments.",
+  "problem": "Late payments causing cash flow gaps",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Engage in Indie Hackers discussions about cash flow",
+    "DM 20-50 Etsy sellers with demo video",
+    "Join forums for Etsy sellers sharing tools"
+  ],
+  "try_it": "Let users try cash flow predictions on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for data",
+    "Allow one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

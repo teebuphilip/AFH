@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance claims adjusters processing 5\u201315 claims/month tool",
+  "description": "For insurance claims adjusters processing 5\u201315 claims/month, missed deadlines cause delayed claim resolutions. We provide exception monitoring instead of manual tracking through spreadsheets and emails.",
+  "target_audience": "insurance claims adjusters processing 5\u201315 claims/month",
+  "problem_solved": "Difficulty in tracking policy limits and deadlines for claims.",
+  "features": [
+    "policy limit tracking dashboard",
+    "exception reporting for outstanding items",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance claims adjusters processing 5\u201315 claims/month",
+    "primary_problem": "Difficulty in tracking policy limits and deadlines for claims.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance claims adjusters processing 5\u201315 claims/month, missed deadlines cause delayed claim resolutions. We provide exception monitoring instead of manual tracking through spreadsheets and emails.",
+    "current_alternative": "manual tracking through spreadsheets and emails",
+    "must_have_features": [
+      "policy limit tracking dashboard",
+      "exception reporting for outstanding items",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance claims adjusters processing 5\u201315 claims/month, missed deadlines cause delayed claim resolutions. We provide exception monitoring instead of manual tracking through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0077",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations teams in small accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR operations teams in small accounting firms processing 5\u201315 payrolls/month, payroll discrepancies cause incorrect employee payments. We provide real-time monitoring instead of manual payroll audits and error checks.",
+  "target_audience": "HR operations teams in small accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Payroll discrepancies leading to incorrect employee payments.",
+  "features": [
+    "Real-time anomaly detection",
+    "User-friendly dashboard for monitoring",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations teams in small accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Payroll discrepancies leading to incorrect employee payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations teams in small accounting firms processing 5\u201315 payrolls/month, payroll discrepancies cause incorrect employee payments. We provide real-time monitoring instead of manual payroll audits and error checks.",
+    "current_alternative": "Manual payroll audits and error checks.",
+    "must_have_features": [
+      "Real-time anomaly detection",
+      "User-friendly dashboard for monitoring",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations teams in small accounting firms processing 5\u201315 payrolls/month, payroll discrepancies cause incorrect employee payments. We provide real-time monitoring instead of manual payroll audits and error checks.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-17",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

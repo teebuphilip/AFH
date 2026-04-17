@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 tenant requests/month tool",
+  "description": "For property managers processing 10-20 tenant requests/month, inefficient coordination causes tenant dissatisfaction. We provide a maintenance scheduling bot instead of manual scheduling via email or phone calls.",
+  "target_audience": "property managers handling 10-20 tenant requests/month",
+  "problem_solved": "inefficient coordination of maintenance requests",
+  "features": [
+    "manual request input",
+    "simple reporting on completed tasks",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 tenant requests/month",
+    "primary_problem": "inefficient coordination of maintenance requests",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10-20 tenant requests/month, inefficient coordination causes tenant dissatisfaction. We provide a maintenance scheduling bot instead of manual scheduling via email or phone calls.",
+    "current_alternative": "manual scheduling via email or phone calls",
+    "must_have_features": [
+      "manual request input",
+      "simple reporting on completed tasks",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 10-20 tenant requests/month, inefficient coordination causes tenant dissatisfaction. We provide a maintenance scheduling bot instead of manual scheduling via email or phone calls.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-17",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

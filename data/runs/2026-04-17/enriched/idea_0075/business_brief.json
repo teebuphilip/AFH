@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We provide a forecasting model instead of manual tracking of invoices and payments.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Late payments affecting cash flow",
+  "features": [
+    "Cash flow prediction",
+    "Late payment alerts",
+    "Customer payment tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Late payments affecting cash flow",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We provide a forecasting model instead of manual tracking of invoices and payments.",
+    "current_alternative": "manual tracking of invoices and payments",
+    "must_have_features": [
+      "Cash flow prediction",
+      "Late payment alerts",
+      "Customer payment tracking"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We provide a forecasting model instead of manual tracking of invoices and payments.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-17",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

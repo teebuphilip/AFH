@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "procurement managers in mid-sized retail companies using Shopify, processing 10\u201320 vendor scorecards/month",
+  "offer": "For procurement managers in mid-sized retail companies using Shopify processing 10\u201320 vendor scorecards/month, inconsistent evaluations cause missed opportunities for improvement. We streamline scheduling and sending of scorecards instead of manual tracking.",
+  "problem": "Inconsistent vendor performance evaluations lead to missed opportunities for improvement.",
+  "channels_free": [
+    "Post in Reddit communities for procurement managers",
+    "Engage on Indie Hackers about similar workflows",
+    "DM outreach to procurement managers with demo video",
+    "Participate in community forums for procurement tools"
+  ],
+  "try_it": "Let users try customizable scorecard templates and monthly reports on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing vendor data",
+    "One-click export of simple performance reports",
+    "Streamline onboarding steps"
+  ]
+}

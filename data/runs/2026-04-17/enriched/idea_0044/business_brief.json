@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in small clinics processing 10-20 invoices/month tool",
+  "description": "For medical billing specialists in small clinics processing 10-20 invoices/month, inaccurate billing codes cause delayed insurance reimbursements. We automate the matching of billing codes instead of manual matching of billing codes to reimbursements.",
+  "target_audience": "medical billing specialists in small clinics processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate billing codes lead to delayed insurance reimbursements.",
+  "features": [
+    "manual code entry",
+    "error flagging for mismatches",
+    "report generation for tracking reimbursements"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in small clinics processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate billing codes lead to delayed insurance reimbursements.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in small clinics processing 10-20 invoices/month, inaccurate billing codes cause delayed insurance reimbursements. We automate the matching of billing codes instead of manual matching of billing codes to reimbursements.",
+    "current_alternative": "manual matching of billing codes to reimbursements",
+    "must_have_features": [
+      "manual code entry",
+      "error flagging for mismatches",
+      "report generation for tracking reimbursements"
+    ]
+  },
+  "one_liner": "For medical billing specialists in small clinics processing 10-20 invoices/month, inaccurate billing codes cause delayed insurance reimbursements. We automate the matching of billing codes instead of manual matching of billing codes to reimbursements.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

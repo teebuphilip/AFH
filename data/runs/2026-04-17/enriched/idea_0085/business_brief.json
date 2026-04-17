@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers processing 5\u201315 CAD files/month tool",
+  "description": "For construction project managers processing 5\u201315 CAD files/month, inefficient documentation conversion causes delays in permit approvals. We provide a streamlined converter instead of manual conversion of CAD files.",
+  "target_audience": "construction project managers processing 5\u201315 CAD files/month",
+  "problem_solved": "Inefficient conversion of CAD files into permit packages",
+  "features": [
+    "basic file format conversion",
+    "user-friendly interface",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers processing 5\u201315 CAD files/month",
+    "primary_problem": "Inefficient conversion of CAD files into permit packages",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers processing 5\u201315 CAD files/month, inefficient documentation conversion causes delays in permit approvals. We provide a streamlined converter instead of manual conversion of CAD files.",
+    "current_alternative": "manual conversion of CAD files",
+    "must_have_features": [
+      "basic file format conversion",
+      "user-friendly interface",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project managers processing 5\u201315 CAD files/month, inefficient documentation conversion causes delays in permit approvals. We provide a streamlined converter instead of manual conversion of CAD files.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

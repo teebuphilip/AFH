@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201350 orders/month tool",
+  "description": "For Shopify store owners processing 10\u201350 orders/month, poor retention insights cause missed renewal opportunities. We provide automated health reports instead of manual tracking.",
+  "target_audience": "Shopify store owners processing 10\u201350 orders/month",
+  "problem_solved": "Inability to accurately measure customer retention and forecast renewal rates.",
+  "features": [
+    "Retention metrics dashboard",
+    "Quarterly health report generation",
+    "Email notifications for account managers"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201350 orders/month",
+    "primary_problem": "Inability to accurately measure customer retention and forecast renewal rates.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201350 orders/month, poor retention insights cause missed renewal opportunities. We provide automated health reports instead of manual tracking.",
+    "current_alternative": "Manual tracking of customer interactions and sales data.",
+    "must_have_features": [
+      "Retention metrics dashboard",
+      "Quarterly health report generation",
+      "Email notifications for account managers"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201350 orders/month, poor retention insights cause missed renewal opportunities. We provide automated health reports instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-17",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

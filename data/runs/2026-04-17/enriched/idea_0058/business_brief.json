@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual expense report generation causes delays in reimbursement. We automate expense report generation instead of manual entry of expenses into QuickBooks.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Manual expense report generation is time-consuming and error-prone.",
+  "features": [
+    "Receipt scanning and data extraction",
+    "Expense categorization",
+    "Report submission to accounting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Manual expense report generation is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual expense report generation causes delays in reimbursement. We automate expense report generation instead of manual entry of expenses into QuickBooks.",
+    "current_alternative": "manual entry of expenses into QuickBooks",
+    "must_have_features": [
+      "Receipt scanning and data extraction",
+      "Expense categorization",
+      "Report submission to accounting"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual expense report generation causes delays in reimbursement. We automate expense report generation instead of manual entry of expenses into QuickBooks.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR payroll managers in small accounting firms processing 5\u201315 payroll files/month tool",
+  "description": "For HR payroll managers in small accounting firms processing 5\u201315 payroll files/month, manual timesheet entry causes late payroll processing. We convert timesheet entries into formatted payroll files instead of manual entry.",
+  "target_audience": "HR payroll managers in small accounting firms processing 5\u201315 payroll files/month",
+  "problem_solved": "Manual timesheet entry leads to errors and delays in payroll processing.",
+  "features": [
+    "User-friendly interface for manual data entry",
+    "Export functionality for payroll file formats",
+    "Basic error-checking for timesheet entries"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR payroll managers in small accounting firms processing 5\u201315 payroll files/month",
+    "primary_problem": "Manual timesheet entry leads to errors and delays in payroll processing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR payroll managers in small accounting firms processing 5\u201315 payroll files/month, manual timesheet entry causes late payroll processing. We convert timesheet entries into formatted payroll files instead of manual entry.",
+    "current_alternative": "Manual entry of timesheet data into payroll systems",
+    "must_have_features": [
+      "User-friendly interface for manual data entry",
+      "Export functionality for payroll file formats",
+      "Basic error-checking for timesheet entries"
+    ]
+  },
+  "one_liner": "For HR payroll managers in small accounting firms processing 5\u201315 payroll files/month, manual timesheet entry causes late payroll processing. We convert timesheet entries into formatted payroll files instead of manual entry.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

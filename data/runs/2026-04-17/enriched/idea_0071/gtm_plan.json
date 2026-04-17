@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "real estate portfolio managers managing 5\u201315 properties",
+  "offer": "For real estate portfolio managers processing 5\u201315 properties, inaccurate tracking of rents causes financial discrepancies. We provide automated monthly statements instead of manual spreadsheets and email statements.",
+  "problem": "Inaccurate tracking of rents and occupancy costs leads to financial discrepancies.",
+  "channels_free": [
+    "Post in Reddit communities for real estate managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to real estate managers with demo video",
+    "Community forums for sharing management tools"
+  ],
+  "try_it": "Let users try rent tracking on 1-3 properties",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with a clear CTA",
+    "Short demo video of the manual workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

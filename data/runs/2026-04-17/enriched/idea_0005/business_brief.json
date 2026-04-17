@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 5\u201315 contracts/month tool",
+  "description": "For Amazon sellers processing 5\u201315 contracts/month, missed contract renewals cause penalties and lost revenue. We provide timely reminders instead of manual tracking via spreadsheets.",
+  "target_audience": "Amazon sellers processing 5\u201315 contracts/month",
+  "problem_solved": "Missed contract renewals leading to penalties and lost revenue.",
+  "features": [
+    "Monthly reminder notifications",
+    "Simple dashboard for contract overview",
+    "Manual entry for contract details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 5\u201315 contracts/month",
+    "primary_problem": "Missed contract renewals leading to penalties and lost revenue.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 5\u201315 contracts/month, missed contract renewals cause penalties and lost revenue. We provide timely reminders instead of manual tracking via spreadsheets.",
+    "current_alternative": "Manual tracking via spreadsheets or calendar reminders.",
+    "must_have_features": [
+      "Monthly reminder notifications",
+      "Simple dashboard for contract overview",
+      "Manual entry for contract details"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 5\u201315 contracts/month, missed contract renewals cause penalties and lost revenue. We provide timely reminders instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-17",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201320 invoices/month",
+  "offer": "For accounting firms processing 10\u201320 invoices/month, late payments cause supplier penalties. We send alerts for upcoming deadlines instead of manual tracking of payment schedules.",
+  "problem": "Late payments leading to supplier penalties and cash flow issues.",
+  "channels_free": [
+    "Post in Reddit communities for accounting advice",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to accounting firms with demo video",
+    "Share in community forums for accounting tools"
+  ],
+  "try_it": "Let users try manual entry of payment schedules and alerts",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer onboarding for first 10 early-access users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Simplify onboarding steps"
+  ]
+}

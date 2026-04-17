@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms managing 5\u201315 contracts/month tool",
+  "description": "For law firms processing 5\u201315 contracts/month, missed renewal deadlines cause client dissatisfaction. We provide automated alerts instead of manual tracking with spreadsheets.",
+  "target_audience": "law firms managing 5\u201315 contracts/month",
+  "problem_solved": "missed renewal deadlines for client contracts",
+  "features": [
+    "document storage",
+    "renewal date monitoring",
+    "alert notifications for expiring agreements"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms managing 5\u201315 contracts/month",
+    "primary_problem": "missed renewal deadlines for client contracts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 contracts/month, missed renewal deadlines cause client dissatisfaction. We provide automated alerts instead of manual tracking with spreadsheets.",
+    "current_alternative": "manual tracking of contract dates using spreadsheets",
+    "must_have_features": [
+      "document storage",
+      "renewal date monitoring",
+      "alert notifications for expiring agreements"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 contracts/month, missed renewal deadlines cause client dissatisfaction. We provide automated alerts instead of manual tracking with spreadsheets.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-17",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

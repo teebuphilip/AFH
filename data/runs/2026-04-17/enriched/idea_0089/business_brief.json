@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firm partners overseeing 5\u201315 client engagements tool",
+  "description": "For accounting firm partners processing 5\u201315 client engagements, missed deadlines cause client dissatisfaction. We provide a compliance tracking application instead of manual tracking through spreadsheets and emails.",
+  "target_audience": "accounting firm partners overseeing 5\u201315 client engagements",
+  "problem_solved": "Difficulty in tracking compliance across multiple client engagements and deadlines.",
+  "features": [
+    "Deadline reminders for client engagements",
+    "Audit finding tracking",
+    "Client engagement overview dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firm partners overseeing 5\u201315 client engagements",
+    "primary_problem": "Difficulty in tracking compliance across multiple client engagements and deadlines.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firm partners processing 5\u201315 client engagements, missed deadlines cause client dissatisfaction. We provide a compliance tracking application instead of manual tracking through spreadsheets and emails.",
+    "current_alternative": "manual tracking through spreadsheets and emails",
+    "must_have_features": [
+      "Deadline reminders for client engagements",
+      "Audit finding tracking",
+      "Client engagement overview dashboard"
+    ]
+  },
+  "one_liner": "For accounting firm partners processing 5\u201315 client engagements, missed deadlines cause client dissatisfaction. We provide a compliance tracking application instead of manual tracking through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-17",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

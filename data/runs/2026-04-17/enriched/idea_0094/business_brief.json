@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10-50 shipments/week tool",
+  "description": "For logistics carriers processing 10-50 shipments/week, inefficient tracking of driver behavior causes increased fuel costs. We provide real-time analytics instead of manual tracking and spreadsheets.",
+  "target_audience": "logistics carriers processing 10-50 shipments/week",
+  "problem_solved": "Inefficient tracking of driver behavior and fuel consumption.",
+  "features": [
+    "Driver behavior monitoring",
+    "Fuel efficiency tracking",
+    "Vehicle utilization reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10-50 shipments/week",
+    "primary_problem": "Inefficient tracking of driver behavior and fuel consumption.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10-50 shipments/week, inefficient tracking of driver behavior causes increased fuel costs. We provide real-time analytics instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "Driver behavior monitoring",
+      "Fuel efficiency tracking",
+      "Vehicle utilization reports"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10-50 shipments/week, inefficient tracking of driver behavior causes increased fuel costs. We provide real-time analytics instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-17",
+    "overlay_score": 54,
+    "arr_score": 54
+  }
+}

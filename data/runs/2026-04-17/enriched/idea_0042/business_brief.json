@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small law firm accountants processing 5\u201315 invoices/month tool",
+  "description": "For small law firm accountants processing 5\u201315 invoices/month, inefficient billing compilation causes cash flow gaps. We automate invoice drafting instead of manual compilation in spreadsheets.",
+  "target_audience": "small law firm accountants processing 5\u201315 invoices/month",
+  "problem_solved": "inefficient compilation of billing time entries into invoices",
+  "features": [
+    "manual entry of time entries",
+    "draft invoice generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small law firm accountants processing 5\u201315 invoices/month",
+    "primary_problem": "inefficient compilation of billing time entries into invoices",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small law firm accountants processing 5\u201315 invoices/month, inefficient billing compilation causes cash flow gaps. We automate invoice drafting instead of manual compilation in spreadsheets.",
+    "current_alternative": "manual compilation of billing entries in spreadsheets",
+    "must_have_features": [
+      "manual entry of time entries",
+      "draft invoice generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small law firm accountants processing 5\u201315 invoices/month, inefficient billing compilation causes cash flow gaps. We automate invoice drafting instead of manual compilation in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-17",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

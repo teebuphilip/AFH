@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics operators managing 50\u2013100 shipments/month tool",
+  "description": "For logistics operators managing 50\u2013100 shipments/month, mismatches cause late orders. We automate cross-checking instead of manual cross-checking of logs and receipts.",
+  "target_audience": "logistics operators managing 50\u2013100 shipments/month",
+  "problem_solved": "mismatches between shipment logs and warehouse receipts",
+  "features": [
+    "manual entry for shipment logs",
+    "alert system for mismatches",
+    "report generation for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics operators managing 50\u2013100 shipments/month",
+    "primary_problem": "mismatches between shipment logs and warehouse receipts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics operators managing 50\u2013100 shipments/month, mismatches cause late orders. We automate cross-checking instead of manual cross-checking of logs and receipts.",
+    "current_alternative": "manual cross-checking of logs and receipts",
+    "must_have_features": [
+      "manual entry for shipment logs",
+      "alert system for mismatches",
+      "report generation for discrepancies"
+    ]
+  },
+  "one_liner": "For logistics operators managing 50\u2013100 shipments/month, mismatches cause late orders. We automate cross-checking instead of manual cross-checking of logs and receipts.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

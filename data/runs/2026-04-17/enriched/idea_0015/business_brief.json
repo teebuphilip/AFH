@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/week tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/week, slow inventory turnover reporting causes stockouts and delayed shipments. We automate report generation instead of manual reporting from ERP systems.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/week",
+  "problem_solved": "Inability to quickly assess inventory turnover leads to stockouts and delayed shipments.",
+  "features": [
+    "Weekly report generation",
+    "Customizable report templates",
+    "User-friendly dashboard for insights"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/week",
+    "primary_problem": "Inability to quickly assess inventory turnover leads to stockouts and delayed shipments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/week, slow inventory turnover reporting causes stockouts and delayed shipments. We automate report generation instead of manual reporting from ERP systems.",
+    "current_alternative": "manual reporting from ERP systems",
+    "must_have_features": [
+      "Weekly report generation",
+      "Customizable report templates",
+      "User-friendly dashboard for insights"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/week, slow inventory turnover reporting causes stockouts and delayed shipments. We automate report generation instead of manual reporting from ERP systems.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

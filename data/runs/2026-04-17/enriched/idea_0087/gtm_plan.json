@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics dispatchers managing 5\u201315 vehicles",
+  "offer": "For logistics dispatchers managing 5\u201315 vehicles, inefficient route planning causes increased fuel costs and delayed deliveries. We provide fleet optimization software instead of manual route planning and performance tracking.",
+  "problem": "Inefficient route planning leading to increased fuel costs and delayed deliveries.",
+  "channels_free": [
+    "Post in Reddit communities for logistics dispatchers",
+    "Engage in Indie Hackers discussions on logistics tools",
+    "DM logistics dispatchers with demo video outreach",
+    "Share insights in community forums for dispatchers"
+  ],
+  "try_it": "Let users try Route planning tool and Driver performance monitoring on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the tool",
+    "Conduct 10 user interviews for feedback",
+    "Offer onboarding for first 10 early-access users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "One-click export for reports",
+    "Streamline onboarding process"
+  ]
+}

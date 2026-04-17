@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics compliance officers in freight brokerage managing 10-20 fleet routes weekly tool",
+  "description": "For logistics compliance officers in freight brokerage processing 10-20 fleet routes weekly, inconsistent compliance reporting causes potential penalties. We automate weekly compliance reports instead of manual reporting processes using spreadsheets.",
+  "target_audience": "logistics compliance officers in freight brokerage managing 10-20 fleet routes weekly",
+  "problem_solved": "Inconsistent compliance reporting leading to potential penalties.",
+  "features": [
+    "user-friendly dashboard",
+    "email notifications for compliance deadlines",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics compliance officers in freight brokerage managing 10-20 fleet routes weekly",
+    "primary_problem": "Inconsistent compliance reporting leading to potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics compliance officers in freight brokerage processing 10-20 fleet routes weekly, inconsistent compliance reporting causes potential penalties. We automate weekly compliance reports instead of manual reporting processes using spreadsheets.",
+    "current_alternative": "manual reporting processes using spreadsheets",
+    "must_have_features": [
+      "user-friendly dashboard",
+      "email notifications for compliance deadlines",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics compliance officers in freight brokerage processing 10-20 fleet routes weekly, inconsistent compliance reporting causes potential penalties. We automate weekly compliance reports instead of manual reporting processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

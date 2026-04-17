@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "amazon sellers difficulty tool",
+    "amazon sellers difficulty automation",
+    "procurement workflow",
+    "vendor management",
+    "amazon sellers processing 10 20 invoices month difficulty tool",
+    "amazon sellers processing 10 20 invoices month difficulty automation",
+    "amazon sellers processing 10 20 invoices month difficulty workflow"
+  ],
+  "secondary_keywords": [
+    "procurement workflow software",
+    "procurement workflow platform",
+    "procurement workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to procurement workflow",
+    "best procurement workflow tool",
+    "procurement workflow vs spreadsheets",
+    "procurement workflow checklist",
+    "procurement workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Amazon sellers processing 10\u201320 invoices/month, poor tracking of procurement spend causes missed discounts. We provide a procurement spend tracker instead of manual tracking through spreadsheets.",
+    "Difficulty in tracking procurement spend and managing contract renewals.",
+    "Amazon sellers processing 10\u201320 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Procurement Workflow",
+      "target_keyword": "how to procurement workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Procurement Workflow Tool",
+      "target_keyword": "best procurement workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Procurement Workflow Vs Spreadsheets",
+      "target_keyword": "procurement workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Procurement Workflow Checklist",
+      "target_keyword": "procurement workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Procurement Workflow Pricing",
+      "target_keyword": "procurement workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Procurement Workflow Software",
+      "target_keyword": "procurement workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Procurement Workflow Platform",
+      "target_keyword": "procurement workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Procurement Workflow Solution",
+      "target_keyword": "procurement workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Procurement Workflow",
+      "target_keyword": "procurement workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Vendor Management",
+      "target_keyword": "vendor management",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Difficulty Tool",
+      "target_keyword": "amazon sellers processing 10 20 invoices month difficulty tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Difficulty Automation",
+      "target_keyword": "amazon sellers processing 10 20 invoices month difficulty automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "amazon sellers difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "amazon sellers difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "amazon sellers difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "amazon sellers difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "amazon sellers difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | amazon sellers tool",
+      "amazon sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "amazon sellers tool helps with difficulty in tracking procurement spend and managing contract renewals."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 10\u201320 claims/month tool",
+  "description": "For insurance adjusters processing 10\u201320 claims/month, manual cross-referencing of policy details causes delayed claim resolutions. We automate claim validation instead of manual claim validation processes.",
+  "target_audience": "insurance adjusters processing 10\u201320 claims/month",
+  "problem_solved": "manual cross-referencing of policy details leads to coverage issues",
+  "features": [
+    "manual entry for policy details",
+    "report generation for claim validation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 10\u201320 claims/month",
+    "primary_problem": "manual cross-referencing of policy details leads to coverage issues",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 10\u201320 claims/month, manual cross-referencing of policy details causes delayed claim resolutions. We automate claim validation instead of manual claim validation processes.",
+    "current_alternative": "manual claim validation processes",
+    "must_have_features": [
+      "manual entry for policy details",
+      "report generation for claim validation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 10\u201320 claims/month, manual cross-referencing of policy details causes delayed claim resolutions. We automate claim validation instead of manual claim validation processes.",
+  "source": {
+    "idea_id": "idea_0098",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

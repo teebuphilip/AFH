@@ -1,0 +1,15 @@
+{
+  "idea_text": "System that cross-validates payroll tax filings with internal payroll records and notifies HR ops of inconsistencies.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-17T10:32:59.525829",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "nonprofit finance teams managing 5\u201315 grants/month tool",
+  "description": "For nonprofit finance teams processing 5\u201315 grants/month, inefficient tracking causes late funder reports. We provide streamlined grant management instead of manual spreadsheets and email communication.",
+  "target_audience": "nonprofit finance teams managing 5\u201315 grants/month",
+  "problem_solved": "Inefficient tracking and reporting of grant spending",
+  "features": [
+    "Award detail tracking",
+    "Spending monitoring",
+    "Funder report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "nonprofit finance teams managing 5\u201315 grants/month",
+    "primary_problem": "Inefficient tracking and reporting of grant spending",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For nonprofit finance teams processing 5\u201315 grants/month, inefficient tracking causes late funder reports. We provide streamlined grant management instead of manual spreadsheets and email communication.",
+    "current_alternative": "manual spreadsheets and email communication",
+    "must_have_features": [
+      "Award detail tracking",
+      "Spending monitoring",
+      "Funder report generation"
+    ]
+  },
+  "one_liner": "For nonprofit finance teams processing 5\u201315 grants/month, inefficient tracking causes late funder reports. We provide streamlined grant management instead of manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-17",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

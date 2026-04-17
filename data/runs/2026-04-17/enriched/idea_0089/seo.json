@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firm partners overseeing client engagements difficulty tool",
+    "accounting firm partners overseeing client engagements difficulty automation",
+    "accounting firm partners overseeing 5 15 client engagements difficulty tool",
+    "accounting firm partners overseeing 5 15 client engagements difficulty automation",
+    "accounting firm partners overseeing 5 15 client engagements difficulty workflow"
+  ],
+  "secondary_keywords": [
+    "accounting firm partners overseeing 5 15 client engagements difficulty tool software",
+    "accounting firm partners overseeing 5 15 client engagements difficulty tool platform",
+    "accounting firm partners overseeing 5 15 client engagements difficulty tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firm partners processing 5\u201315 client engagements, missed deadlines cause client dissatisfaction. We provide a compliance tracking application instead of manual tracking through spreadsheets and emails.",
+    "Difficulty in tracking compliance across multiple client engagements and deadlines.",
+    "accounting firm partners overseeing 5\u201315 client engagements"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accounting Firm Partners Overseeing 5 15 Client Engagements Difficulty Tool Software",
+      "target_keyword": "accounting firm partners overseeing 5 15 client engagements difficulty tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firm Partners Overseeing 5 15 Client Engagements Difficulty Tool Platform",
+      "target_keyword": "accounting firm partners overseeing 5 15 client engagements difficulty tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firm Partners Overseeing 5 15 Client Engagements Difficulty Tool Solution",
+      "target_keyword": "accounting firm partners overseeing 5 15 client engagements difficulty tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firm Partners Overseeing 5 15 Client Engagements Difficulty Tool",
+      "target_keyword": "accounting firm partners overseeing 5 15 client engagements difficulty tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firm Partners Overseeing 5 15 Client Engagements Difficulty Automation",
+      "target_keyword": "accounting firm partners overseeing 5 15 client engagements difficulty automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firm Partners Overseeing 5 15 Client Engagements Difficulty Workflow",
+      "target_keyword": "accounting firm partners overseeing 5 15 client engagements difficulty workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firm partners overseeing client engagements difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firm partners overseeing client engagements difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firm partners overseeing client engagements difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firm partners overseeing client engagements difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firm partners overseeing client engagements difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firm partners overseeing client engagements tool",
+      "accounting firm partners overseeing client engagements tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firm partners overseeing client engagements tool helps with difficulty in tracking compliance across multiple client engagements and deadlines."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

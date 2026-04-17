@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Sales Ops Leaders in Marketing Agencies processing 10-50 deals/month",
+  "offer": "For Sales Ops Leaders in Marketing Agencies processing 10-50 deals/month, inefficient tracking causes missed performance insights. We provide a dashboard instead of manual tracking in spreadsheets.",
+  "problem": "Inability to visualize sales pipeline metrics effectively",
+  "channels_free": [
+    "Post in Reddit communities for Sales Ops Leaders",
+    "Engage in Indie Hackers discussions on relevant topics",
+    "DM outreach to Sales Ops Leaders with demo video",
+    "Participate in community forums sharing tools and insights"
+  ],
+  "try_it": "Let users visualize key sales metrics and identify bottlenecks",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy access",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

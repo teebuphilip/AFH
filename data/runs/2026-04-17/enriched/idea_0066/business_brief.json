@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, unclear expense categorization causes reimbursement delays. We automate categorization and compliance instead of manual tracking and spreadsheets.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in categorizing travel expenses and ensuring policy compliance.",
+  "features": [
+    "Expense categorization",
+    "Policy compliance checks",
+    "Claim submission functionality"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in categorizing travel expenses and ensuring policy compliance.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, unclear expense categorization causes reimbursement delays. We automate categorization and compliance instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "Expense categorization",
+      "Policy compliance checks",
+      "Claim submission functionality"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, unclear expense categorization causes reimbursement delays. We automate categorization and compliance instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-17",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

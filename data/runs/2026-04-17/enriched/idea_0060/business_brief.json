@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10-50 clients tool",
+  "description": "For accounting firms managing 10-50 clients, compliance document mismanagement causes missed deadlines. We digitize files and track regulatory changes instead of manual tracking and filing systems.",
+  "target_audience": "accounting firms managing 10-50 clients",
+  "problem_solved": "Difficulty in tracking regulatory changes and managing compliance documents efficiently.",
+  "features": [
+    "document digitization",
+    "regulatory change tracking",
+    "due date notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10-50 clients",
+    "primary_problem": "Difficulty in tracking regulatory changes and managing compliance documents efficiently.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms managing 10-50 clients, compliance document mismanagement causes missed deadlines. We digitize files and track regulatory changes instead of manual tracking and filing systems.",
+    "current_alternative": "manual tracking and filing systems",
+    "must_have_features": [
+      "document digitization",
+      "regulatory change tracking",
+      "due date notifications"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10-50 clients, compliance document mismanagement causes missed deadlines. We digitize files and track regulatory changes instead of manual tracking and filing systems.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet supervisors managing 10-50 vehicles tool",
+  "description": "For fleet supervisors managing 10-50 vehicles, manual scheduling causes missed maintenance deadlines. We automate scheduling and notifications instead of manual scheduling and notifications.",
+  "target_audience": "fleet supervisors managing 10-50 vehicles",
+  "problem_solved": "timely vehicle maintenance scheduling",
+  "features": [
+    "simple scheduling interface",
+    "notification system for upcoming maintenance",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet supervisors managing 10-50 vehicles",
+    "primary_problem": "timely vehicle maintenance scheduling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet supervisors managing 10-50 vehicles, manual scheduling causes missed maintenance deadlines. We automate scheduling and notifications instead of manual scheduling and notifications.",
+    "current_alternative": "manual scheduling and notifications",
+    "must_have_features": [
+      "simple scheduling interface",
+      "notification system for upcoming maintenance",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet supervisors managing 10-50 vehicles, manual scheduling causes missed maintenance deadlines. We automate scheduling and notifications instead of manual scheduling and notifications.",
+  "source": {
+    "idea_id": "idea_0039",
+    "run_date": "2026-04-17",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

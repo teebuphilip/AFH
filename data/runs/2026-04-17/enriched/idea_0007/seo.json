@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics operators managing shipments month mismatches tool",
+    "logistics operators managing shipments month mismatches automation",
+    "we automate cross",
+    "logistics operators managing 50 100 shipments month mismatches tool",
+    "logistics operators managing 50 100 shipments month mismatches automation",
+    "logistics operators managing 50 100 shipments month mismatches workflow"
+  ],
+  "secondary_keywords": [
+    "we automate cross software",
+    "we automate cross platform",
+    "we automate cross solution"
+  ],
+  "long_tail_keywords": [
+    "how to we automate cross",
+    "best we automate cross tool",
+    "we automate cross vs spreadsheets",
+    "we automate cross checklist",
+    "we automate cross pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics operators managing 50\u2013100 shipments/month, mismatches cause late orders. We automate cross-checking instead of manual cross-checking of logs and receipts.",
+    "mismatches between shipment logs and warehouse receipts",
+    "logistics operators managing 50\u2013100 shipments/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Automate Cross",
+      "target_keyword": "how to we automate cross",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Automate Cross Tool",
+      "target_keyword": "best we automate cross tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Automate Cross Vs Spreadsheets",
+      "target_keyword": "we automate cross vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Automate Cross Checklist",
+      "target_keyword": "we automate cross checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Automate Cross Pricing",
+      "target_keyword": "we automate cross pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Automate Cross Software",
+      "target_keyword": "we automate cross software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Automate Cross Platform",
+      "target_keyword": "we automate cross platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Automate Cross Solution",
+      "target_keyword": "we automate cross solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Automate Cross",
+      "target_keyword": "we automate cross",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Operators Managing 50 100 Shipments Month Mismatches Tool",
+      "target_keyword": "logistics operators managing 50 100 shipments month mismatches tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Operators Managing 50 100 Shipments Month Mismatches Automation",
+      "target_keyword": "logistics operators managing 50 100 shipments month mismatches automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Operators Managing 50 100 Shipments Month Mismatches Workflow",
+      "target_keyword": "logistics operators managing 50 100 shipments month mismatches workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics operators managing shipments month mismatches tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics operators managing shipments month mismatches tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics operators managing shipments month mismatches tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics operators managing shipments month mismatches tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics operators managing shipments month mismatches tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics operators managing shipments month tool",
+      "logistics operators managing shipments month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics operators managing shipments month tool helps with mismatches between shipment logs and warehouse receipts."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

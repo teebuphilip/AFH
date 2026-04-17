@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For accounting firms processing 5\u201315 payrolls/month, payroll tax filing inconsistencies cause compliance penalties. We cross-validate payroll tax filings with internal records instead of manual reconciliation.",
+  "target_audience": "accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Inconsistencies between payroll tax filings and internal payroll records.",
+  "features": [
+    "manual entry for payroll records",
+    "notification system for inconsistencies",
+    "report generation for compliance tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Inconsistencies between payroll tax filings and internal payroll records.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payrolls/month, payroll tax filing inconsistencies cause compliance penalties. We cross-validate payroll tax filings with internal records instead of manual reconciliation.",
+    "current_alternative": "manual reconciliation of payroll records and tax filings",
+    "must_have_features": [
+      "manual entry for payroll records",
+      "notification system for inconsistencies",
+      "report generation for compliance tracking"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payrolls/month, payroll tax filing inconsistencies cause compliance penalties. We cross-validate payroll tax filings with internal records instead of manual reconciliation.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-17",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

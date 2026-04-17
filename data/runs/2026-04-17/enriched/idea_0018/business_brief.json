@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inconsistent reporting causes cash flow gaps. We provide automated aging report extraction instead of manual tracking and reporting in spreadsheets.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Inconsistent and delayed accounts receivable aging reports",
+  "features": [
+    "Weekly report generation",
+    "Customizable report formats",
+    "Email delivery of reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Inconsistent and delayed accounts receivable aging reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inconsistent reporting causes cash flow gaps. We provide automated aging report extraction instead of manual tracking and reporting in spreadsheets.",
+    "current_alternative": "manual tracking and reporting in spreadsheets",
+    "must_have_features": [
+      "Weekly report generation",
+      "Customizable report formats",
+      "Email delivery of reports"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inconsistent reporting causes cash flow gaps. We provide automated aging report extraction instead of manual tracking and reporting in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

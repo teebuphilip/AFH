@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, frequent discrepancies cause cash flow gaps. We automate vendor invoice reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Frequent discrepancies in vendor invoices lead to cash flow gaps.",
+  "features": [
+    "Manual entry of invoice data",
+    "Weekly email reports of discrepancies",
+    "Basic dashboard for tracking reconciliations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Frequent discrepancies in vendor invoices lead to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, frequent discrepancies cause cash flow gaps. We automate vendor invoice reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "Manual reconciliation of invoices using spreadsheets.",
+    "must_have_features": [
+      "Manual entry of invoice data",
+      "Weekly email reports of discrepancies",
+      "Basic dashboard for tracking reconciliations"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, frequent discrepancies cause cash flow gaps. We automate vendor invoice reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0051",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

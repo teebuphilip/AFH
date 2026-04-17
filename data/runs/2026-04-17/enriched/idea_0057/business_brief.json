@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR admins in tech startups managing equity compensation for 10-50 employees tool",
+  "description": "For HR admins in tech startups processing 10-50 employees, manual tracking of equity compensation causes missed milestones. We provide automated vesting schedule calculations instead of manual spreadsheets.",
+  "target_audience": "HR admins in tech startups managing equity compensation for 10-50 employees",
+  "problem_solved": "Difficulty in tracking vesting schedules and capital gains for equity compensation.",
+  "features": [
+    "Vesting schedule calculator",
+    "Milestone alert system for HR admins",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR admins in tech startups managing equity compensation for 10-50 employees",
+    "primary_problem": "Difficulty in tracking vesting schedules and capital gains for equity compensation.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR admins in tech startups processing 10-50 employees, manual tracking of equity compensation causes missed milestones. We provide automated vesting schedule calculations instead of manual spreadsheets.",
+    "current_alternative": "Manual spreadsheets and outdated HR software",
+    "must_have_features": [
+      "Vesting schedule calculator",
+      "Milestone alert system for HR admins",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR admins in tech startups processing 10-50 employees, manual tracking of equity compensation causes missed milestones. We provide automated vesting schedule calculations instead of manual spreadsheets.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

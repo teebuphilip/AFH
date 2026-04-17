@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics operators managing 50\u2013100 shipments/month",
+  "offer": "For logistics operators managing 50\u2013100 shipments/month, mismatches cause late orders. We automate cross-checking instead of manual cross-checking of logs and receipts.",
+  "problem": "mismatches between shipment logs and warehouse receipts",
+  "channels_free": [
+    "Post in Reddit communities for logistics operators",
+    "Indie Hackers posts on workflow solutions",
+    "DM outreach to logistics operators with demo video",
+    "Community forums for logistics operators sharing tools"
+  ],
+  "try_it": "Let users try manual entry for shipment logs and alerts",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

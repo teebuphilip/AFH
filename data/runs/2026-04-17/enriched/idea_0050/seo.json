@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "paralegals in small law firms inefficient tool",
+    "paralegals in small law firms inefficient automation",
+    "paralegals in small law firms processing 5 15 client intake forms month inefficient tool",
+    "paralegals in small law firms processing 5 15 client intake forms month inefficient automation",
+    "paralegals in small law firms processing 5 15 client intake forms month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "paralegals in small law firms processing 5 15 client intake forms month inefficient tool software",
+    "paralegals in small law firms processing 5 15 client intake forms month inefficient tool platform",
+    "paralegals in small law firms processing 5 15 client intake forms month inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For paralegals in small law firms processing 5\u201315 client intake forms/month, inefficient summarization causes delays in case preparation. We automate the formatting of case management summaries instead of manual summarization of client intake forms.",
+    "Inefficient summarization of client intake forms",
+    "paralegals in small law firms processing 5\u201315 client intake forms/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Paralegals In Small Law Firms Processing 5 15 Client Intake Forms Month Inefficient Tool Software",
+      "target_keyword": "paralegals in small law firms processing 5 15 client intake forms month inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Paralegals In Small Law Firms Processing 5 15 Client Intake Forms Month Inefficient Tool Platform",
+      "target_keyword": "paralegals in small law firms processing 5 15 client intake forms month inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Paralegals In Small Law Firms Processing 5 15 Client Intake Forms Month Inefficient Tool Solution",
+      "target_keyword": "paralegals in small law firms processing 5 15 client intake forms month inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Paralegals In Small Law Firms Processing 5 15 Client Intake Forms Month Inefficient Tool",
+      "target_keyword": "paralegals in small law firms processing 5 15 client intake forms month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Paralegals In Small Law Firms Processing 5 15 Client Intake Forms Month Inefficient Automation",
+      "target_keyword": "paralegals in small law firms processing 5 15 client intake forms month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Paralegals In Small Law Firms Processing 5 15 Client Intake Forms Month Inefficient Workflow",
+      "target_keyword": "paralegals in small law firms processing 5 15 client intake forms month inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "paralegals in small law firms inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "paralegals in small law firms inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "paralegals in small law firms inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "paralegals in small law firms inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "paralegals in small law firms inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | paralegals in small law firms tool",
+      "paralegals in small law firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "paralegals in small law firms tool helps with inefficient summarization of client intake forms."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

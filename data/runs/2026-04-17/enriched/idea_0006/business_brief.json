@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Ops Managers at Shopify stores processing 10-20 sales commissions/month tool",
+  "description": "For Sales Ops Managers at Shopify stores processing 10-20 sales commissions/month, inaccurate commission calculations cause delayed payments. We automate commission calculations and reporting instead of manual calculations and spreadsheets.",
+  "target_audience": "Sales Ops Managers at Shopify stores processing 10-20 sales commissions/month",
+  "problem_solved": "Inaccurate commission calculations lead to delayed payments and frustrated sales teams.",
+  "features": [
+    "Email report generation",
+    "User-friendly dashboard for tracking commissions",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Ops Managers at Shopify stores processing 10-20 sales commissions/month",
+    "primary_problem": "Inaccurate commission calculations lead to delayed payments and frustrated sales teams.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Ops Managers at Shopify stores processing 10-20 sales commissions/month, inaccurate commission calculations cause delayed payments. We automate commission calculations and reporting instead of manual calculations and spreadsheets.",
+    "current_alternative": "Manual calculations and spreadsheets",
+    "must_have_features": [
+      "Email report generation",
+      "User-friendly dashboard for tracking commissions",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Sales Ops Managers at Shopify stores processing 10-20 sales commissions/month, inaccurate commission calculations cause delayed payments. We automate commission calculations and reporting instead of manual calculations and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-17",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

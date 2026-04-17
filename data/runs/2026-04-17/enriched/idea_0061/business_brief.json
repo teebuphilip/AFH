@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10-20 clients tool",
+  "description": "For accounting firms managing 10-20 clients, inefficient tracking of fixed assets causes delayed tax filings. We provide a fixed asset registry that depreciates equipment and generates tax forms instead of manual spreadsheets and outdated accounting software.",
+  "target_audience": "accounting firms managing 10-20 clients",
+  "problem_solved": "Inefficient tracking and reporting of fixed assets for multiple clients.",
+  "features": [
+    "manual entry of asset details",
+    "annual report generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10-20 clients",
+    "primary_problem": "Inefficient tracking and reporting of fixed assets for multiple clients.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10-20 clients, inefficient tracking of fixed assets causes delayed tax filings. We provide a fixed asset registry that depreciates equipment and generates tax forms instead of manual spreadsheets and outdated accounting software.",
+    "current_alternative": "manual spreadsheets and outdated accounting software",
+    "must_have_features": [
+      "manual entry of asset details",
+      "annual report generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10-20 clients, inefficient tracking of fixed assets causes delayed tax filings. We provide a fixed asset registry that depreciates equipment and generates tax forms instead of manual spreadsheets and outdated accounting software.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-17",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "idea_text": "Accounts receivable monitoring tool that predicts cash flow, identifies late payments, and notifies credit and collections teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 72,
+  "arr_score": 72.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-17T10:32:59.531981",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-17T10:32:59.583421",
+  "hold_reason": "arr_70_89"
+}

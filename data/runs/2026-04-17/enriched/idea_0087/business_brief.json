@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics dispatchers managing 5\u201315 vehicles tool",
+  "description": "For logistics dispatchers managing 5\u201315 vehicles, inefficient route planning causes increased fuel costs and delayed deliveries. We provide fleet optimization software instead of manual route planning and performance tracking.",
+  "target_audience": "logistics dispatchers managing 5\u201315 vehicles",
+  "problem_solved": "Inefficient route planning leading to increased fuel costs and delayed deliveries.",
+  "features": [
+    "Route planning tool",
+    "Driver performance monitoring",
+    "Fuel usage analysis"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics dispatchers managing 5\u201315 vehicles",
+    "primary_problem": "Inefficient route planning leading to increased fuel costs and delayed deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics dispatchers managing 5\u201315 vehicles, inefficient route planning causes increased fuel costs and delayed deliveries. We provide fleet optimization software instead of manual route planning and performance tracking.",
+    "current_alternative": "manual route planning and performance tracking",
+    "must_have_features": [
+      "Route planning tool",
+      "Driver performance monitoring",
+      "Fuel usage analysis"
+    ]
+  },
+  "one_liner": "For logistics dispatchers managing 5\u201315 vehicles, inefficient route planning causes increased fuel costs and delayed deliveries. We provide fleet optimization software instead of manual route planning and performance tracking.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-17",
+    "overlay_score": 70,
+    "arr_score": 69
+  }
+}

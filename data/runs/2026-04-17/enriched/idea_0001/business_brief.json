@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small to medium-sized e-commerce businesses processing 10-20 invoices/month tool",
+  "description": "For procurement managers in small to medium-sized e-commerce businesses processing 10-20 invoices/month, manual reconciliation causes late payments and supplier penalties. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+  "target_audience": "procurement managers in small to medium-sized e-commerce businesses processing 10-20 invoices/month",
+  "problem_solved": "manual reconciliation of vendor invoices with purchase orders",
+  "features": [
+    "weekly email reports",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small to medium-sized e-commerce businesses processing 10-20 invoices/month",
+    "primary_problem": "manual reconciliation of vendor invoices with purchase orders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small to medium-sized e-commerce businesses processing 10-20 invoices/month, manual reconciliation causes late payments and supplier penalties. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+    "current_alternative": "manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "weekly email reports",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in small to medium-sized e-commerce businesses processing 10-20 invoices/month, manual reconciliation causes late payments and supplier penalties. We automate the reconciliation process instead of manual reconciliation processes using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0001",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

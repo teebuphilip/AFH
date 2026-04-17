@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers handling 5\u201315 projects/month tool",
+  "description": "For construction project managers processing 5\u201315 projects/month, inefficient document creation causes delays in project timelines. We automate document generation instead of manual document creation using word processors and spreadsheets.",
+  "target_audience": "construction project managers handling 5\u201315 projects/month",
+  "problem_solved": "Inefficient document creation processes for proposals and contracts.",
+  "features": [
+    "template-based document creation",
+    "collaborative editing capabilities",
+    "version control for documents"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers handling 5\u201315 projects/month",
+    "primary_problem": "Inefficient document creation processes for proposals and contracts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers processing 5\u201315 projects/month, inefficient document creation causes delays in project timelines. We automate document generation instead of manual document creation using word processors and spreadsheets.",
+    "current_alternative": "manual document creation using word processors and spreadsheets",
+    "must_have_features": [
+      "template-based document creation",
+      "collaborative editing capabilities",
+      "version control for documents"
+    ]
+  },
+  "one_liner": "For construction project managers processing 5\u201315 projects/month, inefficient document creation causes delays in project timelines. We automate document generation instead of manual document creation using word processors and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

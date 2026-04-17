@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 tenant move-ins/month tool",
+  "description": "For property managers processing 5\u201315 tenant move-ins/month, scheduling conflicts cause delayed move-ins. We provide a scheduling assistant instead of manual scheduling via email and phone calls.",
+  "target_audience": "property managers processing 5\u201315 tenant move-ins/month",
+  "problem_solved": "coordinating tenant move-ins, inspections, and maintenance requests",
+  "features": [
+    "simple interface for managing requests",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 tenant move-ins/month",
+    "primary_problem": "coordinating tenant move-ins, inspections, and maintenance requests",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 tenant move-ins/month, scheduling conflicts cause delayed move-ins. We provide a scheduling assistant instead of manual scheduling via email and phone calls.",
+    "current_alternative": "manual scheduling via email and phone calls",
+    "must_have_features": [
+      "simple interface for managing requests",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 tenant move-ins/month, scheduling conflicts cause delayed move-ins. We provide a scheduling assistant instead of manual scheduling via email and phone calls.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-17",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

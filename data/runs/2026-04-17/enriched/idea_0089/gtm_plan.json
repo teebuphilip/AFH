@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firm partners overseeing 5\u201315 client engagements",
+  "offer": "For accounting firm partners processing 5\u201315 client engagements, missed deadlines cause client dissatisfaction. We provide a compliance tracking application instead of manual tracking through spreadsheets and emails.",
+  "problem": "Difficulty in tracking compliance across multiple client engagements and deadlines.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firm partners",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to accounting firm partners with demo video",
+    "Community forums for sharing tools among accounting partners"
+  ],
+  "try_it": "Let users try deadline reminders and audit tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Provide default reminder schedule presets",
+    "Allow CSV import for existing client data",
+    "Enable one-click export of simple reports",
+    "Streamline the onboarding process with fewer steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized tech startups using BambooHR for onboarding tool",
+  "description": "For HR managers in small to medium-sized tech startups using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delayed integration. We provide an onboarding checklist generator instead of manual onboarding checklists and spreadsheets.",
+  "target_audience": "HR managers in small to medium-sized tech startups using BambooHR for onboarding",
+  "problem_solved": "Inefficient onboarding processes leading to delayed integration of new hires.",
+  "features": [
+    "customizable onboarding workflows",
+    "progress tracking for new hires",
+    "notifications for HR business partners"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized tech startups using BambooHR for onboarding",
+    "primary_problem": "Inefficient onboarding processes leading to delayed integration of new hires.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized tech startups using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delayed integration. We provide an onboarding checklist generator instead of manual onboarding checklists and spreadsheets.",
+    "current_alternative": "manual onboarding checklists and spreadsheets",
+    "must_have_features": [
+      "customizable onboarding workflows",
+      "progress tracking for new hires",
+      "notifications for HR business partners"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized tech startups using BambooHR processing 5\u201315 new hires/month, inefficient onboarding causes delayed integration. We provide an onboarding checklist generator instead of manual onboarding checklists and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-17",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

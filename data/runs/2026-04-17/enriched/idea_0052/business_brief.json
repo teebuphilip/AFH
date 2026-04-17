@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, manual payroll processing causes compliance issues. We provide a payroll data aggregator instead of manual payroll processing with spreadsheets.",
+  "target_audience": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Ensuring compliance and accuracy in payroll processing",
+  "features": [
+    "Data validation from multiple sources",
+    "Compliance report generation",
+    "User-friendly interface for manual input"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Ensuring compliance and accuracy in payroll processing",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, manual payroll processing causes compliance issues. We provide a payroll data aggregator instead of manual payroll processing with spreadsheets.",
+    "current_alternative": "manual payroll processing with spreadsheets",
+    "must_have_features": [
+      "Data validation from multiple sources",
+      "Compliance report generation",
+      "User-friendly interface for manual input"
+    ]
+  },
+  "one_liner": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, manual payroll processing causes compliance issues. We provide a payroll data aggregator instead of manual payroll processing with spreadsheets.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-17",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

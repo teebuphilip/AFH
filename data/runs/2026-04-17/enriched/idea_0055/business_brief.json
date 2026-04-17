@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Ops Leaders in Marketing Agencies processing 10-50 deals/month tool",
+  "description": "For Sales Ops Leaders in Marketing Agencies processing 10-50 deals/month, inefficient tracking causes missed performance insights. We provide a dashboard instead of manual tracking in spreadsheets.",
+  "target_audience": "Sales Ops Leaders in Marketing Agencies processing 10-50 deals/month",
+  "problem_solved": "Inability to visualize sales pipeline metrics effectively",
+  "features": [
+    "Visualize key sales metrics",
+    "Identify bottlenecks in the sales pipeline",
+    "Email weekly performance summaries"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Ops Leaders in Marketing Agencies processing 10-50 deals/month",
+    "primary_problem": "Inability to visualize sales pipeline metrics effectively",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Ops Leaders in Marketing Agencies processing 10-50 deals/month, inefficient tracking causes missed performance insights. We provide a dashboard instead of manual tracking in spreadsheets.",
+    "current_alternative": "Manual tracking in spreadsheets",
+    "must_have_features": [
+      "Visualize key sales metrics",
+      "Identify bottlenecks in the sales pipeline",
+      "Email weekly performance summaries"
+    ]
+  },
+  "one_liner": "For Sales Ops Leaders in Marketing Agencies processing 10-50 deals/month, inefficient tracking causes missed performance insights. We provide a dashboard instead of manual tracking in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-17",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

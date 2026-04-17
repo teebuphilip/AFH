@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "offer": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual expense report generation causes delays in reimbursement. We streamline expense report generation instead of manual entry of expenses into QuickBooks.",
+  "problem": "Manual expense report generation is time-consuming and error-prone.",
+  "channels_free": [
+    "Post in Reddit communities for freelancers seeking help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to freelancers with demo video",
+    "Community forums where freelancers share tools"
+  ],
+  "try_it": "Let users try receipt scanning and expense categorization on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of the manual workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedules",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Streamlined onboarding process"
+  ]
+}

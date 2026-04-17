@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance claims managers processing 10\u201320 claims/month tool",
+  "description": "For insurance claims managers processing 10\u201320 claims/month, delayed reimbursements cause cash flow gaps. We monitor payment statuses and flag delays instead of manual tracking of claims statuses via spreadsheets.",
+  "target_audience": "insurance claims managers processing 10\u201320 claims/month",
+  "problem_solved": "Delayed reimbursements causing cash flow gaps.",
+  "features": [
+    "real-time status updates",
+    "simple dashboard for claims overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance claims managers processing 10\u201320 claims/month",
+    "primary_problem": "Delayed reimbursements causing cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance claims managers processing 10\u201320 claims/month, delayed reimbursements cause cash flow gaps. We monitor payment statuses and flag delays instead of manual tracking of claims statuses via spreadsheets.",
+    "current_alternative": "manual tracking of claims statuses via spreadsheets",
+    "must_have_features": [
+      "real-time status updates",
+      "simple dashboard for claims overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance claims managers processing 10\u201320 claims/month, delayed reimbursements cause cash flow gaps. We monitor payment statuses and flag delays instead of manual tracking of claims statuses via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized retail companies using Shopify, processing 10\u201320 vendor scorecards/month tool",
+  "description": "For procurement managers in mid-sized retail companies using Shopify processing 10\u201320 vendor scorecards/month, inconsistent evaluations cause missed opportunities for improvement. We automate the scheduling and sending of scorecards instead of manual tracking and email reminders.",
+  "target_audience": "procurement managers in mid-sized retail companies using Shopify, processing 10\u201320 vendor scorecards/month",
+  "problem_solved": "Inconsistent vendor performance evaluations lead to missed opportunities for improvement.",
+  "features": [
+    "customizable scorecard templates",
+    "monthly performance summary reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized retail companies using Shopify, processing 10\u201320 vendor scorecards/month",
+    "primary_problem": "Inconsistent vendor performance evaluations lead to missed opportunities for improvement.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized retail companies using Shopify processing 10\u201320 vendor scorecards/month, inconsistent evaluations cause missed opportunities for improvement. We automate the scheduling and sending of scorecards instead of manual tracking and email reminders.",
+    "current_alternative": "manual tracking and email reminders for vendor evaluations",
+    "must_have_features": [
+      "customizable scorecard templates",
+      "monthly performance summary reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized retail companies using Shopify processing 10\u201320 vendor scorecards/month, inconsistent evaluations cause missed opportunities for improvement. We automate the scheduling and sending of scorecards instead of manual tracking and email reminders.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-17",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

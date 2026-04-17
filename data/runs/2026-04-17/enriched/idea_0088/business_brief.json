@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant owners processing 10\u201320 invoices/month tool",
+  "description": "For restaurant owners processing 10\u201320 invoices/month, inaccurate inventory predictions cause excess waste. We provide an inventory forecasting system instead of manual tracking and guesswork.",
+  "target_audience": "restaurant owners processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate inventory predictions leading to over-ordering and waste.",
+  "features": [
+    "manual input for ingredient data",
+    "basic reporting on inventory levels",
+    "alerts for low stock items"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant owners processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate inventory predictions leading to over-ordering and waste.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant owners processing 10\u201320 invoices/month, inaccurate inventory predictions cause excess waste. We provide an inventory forecasting system instead of manual tracking and guesswork.",
+    "current_alternative": "manual tracking and guesswork for inventory management.",
+    "must_have_features": [
+      "manual input for ingredient data",
+      "basic reporting on inventory levels",
+      "alerts for low stock items"
+    ]
+  },
+  "one_liner": "For restaurant owners processing 10\u201320 invoices/month, inaccurate inventory predictions cause excess waste. We provide an inventory forecasting system instead of manual tracking and guesswork.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-17",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

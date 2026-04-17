@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance claims adjusters processing 5\u201315 claims/month",
+  "offer": "For insurance claims adjusters processing 5\u201315 claims/month, missed deadlines cause delayed claim resolutions. We provide exception monitoring instead of manual tracking through spreadsheets and emails.",
+  "problem": "Difficulty in tracking policy limits and deadlines for claims.",
+  "channels_free": [
+    "Post in Reddit communities for insurance claims adjusters",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to insurance claims adjusters with demo video",
+    "Community forums for sharing tools among adjusters"
+  ],
+  "try_it": "Let users try policy limit tracking dashboard for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "field service managers in the construction industry managing 5\u201315 equipment units tool",
+  "description": "For field service managers in the construction industry processing 5\u201315 equipment units, inconsistent tracking causes unexpected maintenance costs. We generate automated weekly reports instead of manual tracking through spreadsheets.",
+  "target_audience": "field service managers in the construction industry managing 5\u201315 equipment units",
+  "problem_solved": "Inconsistent tracking of equipment usage leads to unexpected maintenance costs.",
+  "features": [
+    "Weekly usage report generation",
+    "Maintenance scheduling reminders",
+    "User-friendly dashboard for equipment overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "field service managers in the construction industry managing 5\u201315 equipment units",
+    "primary_problem": "Inconsistent tracking of equipment usage leads to unexpected maintenance costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For field service managers in the construction industry processing 5\u201315 equipment units, inconsistent tracking causes unexpected maintenance costs. We generate automated weekly reports instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "Weekly usage report generation",
+      "Maintenance scheduling reminders",
+      "User-friendly dashboard for equipment overview"
+    ]
+  },
+  "one_liner": "For field service managers in the construction industry processing 5\u201315 equipment units, inconsistent tracking causes unexpected maintenance costs. We generate automated weekly reports instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-17",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "construction contractors managing - sites month inefficient tool",
+    "construction contractors managing - sites month inefficient automation",
+    "construction contractors managing 5-15 sites month inefficient tool",
+    "construction contractors managing 5-15 sites month inefficient automation",
+    "construction contractors managing 5-15 sites month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "construction contractors managing 5-15 sites month inefficient tool software",
+    "construction contractors managing 5-15 sites month inefficient tool platform",
+    "construction contractors managing 5-15 sites month inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For construction contractors managing 5-15 sites/month, inefficient log consolidation causes compliance risks. We automate the consolidation of safety logs instead of manual log consolidation and reporting.",
+    "Inefficient consolidation of safety logs leading to compliance risks.",
+    "construction contractors managing 5-15 sites/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Construction Contractors Managing 5-15 Sites Month Inefficient Tool Software",
+      "target_keyword": "construction contractors managing 5-15 sites month inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-15 Sites Month Inefficient Tool Platform",
+      "target_keyword": "construction contractors managing 5-15 sites month inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-15 Sites Month Inefficient Tool Solution",
+      "target_keyword": "construction contractors managing 5-15 sites month inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-15 Sites Month Inefficient Tool",
+      "target_keyword": "construction contractors managing 5-15 sites month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-15 Sites Month Inefficient Automation",
+      "target_keyword": "construction contractors managing 5-15 sites month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Managing 5-15 Sites Month Inefficient Workflow",
+      "target_keyword": "construction contractors managing 5-15 sites month inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "construction contractors managing - sites month inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "construction contractors managing - sites month inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "construction contractors managing - sites month inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "construction contractors managing - sites month inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "construction contractors managing - sites month inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | construction contractors managing - sites month tool",
+      "construction contractors managing - sites month tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "construction contractors managing - sites month tool helps with inefficient consolidation of safety logs leading to compliance risks."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

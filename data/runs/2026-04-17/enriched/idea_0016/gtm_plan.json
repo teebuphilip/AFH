@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 5\u201315 payrolls/month",
+  "offer": "For accounting firms processing 5\u201315 payrolls/month, payroll tax filing inconsistencies cause compliance penalties. We cross-validate payroll tax filings with internal records instead of manual reconciliation.",
+  "problem": "Inconsistencies between payroll tax filings and internal payroll records.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers discussions on payroll workflows",
+    "DM outreach to accounting firms with demo video",
+    "Engage in community forums for accounting tools"
+  ],
+  "try_it": "Let users try manual entry for payroll records and notifications",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy access",
+    "Set default reminder schedules for users",
+    "Allow CSV import for existing payroll data",
+    "Enable one-click export of compliance reports",
+    "Reduce steps in the onboarding process"
+  ]
+}

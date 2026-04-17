@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Accounting Managers in Construction Companies processing 5\u201315 invoices/month tool",
+  "description": "For Accounting Managers in Construction Companies processing 5\u201315 invoices/month, missed vendor invoice submission deadlines cause late payments. We provide timely alerts instead of manual tracking via spreadsheets.",
+  "target_audience": "Accounting Managers in Construction Companies processing 5\u201315 invoices/month",
+  "problem_solved": "Missed vendor invoice submission deadlines leading to late payments.",
+  "features": [
+    "Deadline alert notifications",
+    "Simple dashboard for tracking invoices",
+    "Manual entry for invoice details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Accounting Managers in Construction Companies processing 5\u201315 invoices/month",
+    "primary_problem": "Missed vendor invoice submission deadlines leading to late payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Accounting Managers in Construction Companies processing 5\u201315 invoices/month, missed vendor invoice submission deadlines cause late payments. We provide timely alerts instead of manual tracking via spreadsheets.",
+    "current_alternative": "Manual tracking of invoice deadlines via spreadsheets.",
+    "must_have_features": [
+      "Deadline alert notifications",
+      "Simple dashboard for tracking invoices",
+      "Manual entry for invoice details"
+    ]
+  },
+  "one_liner": "For Accounting Managers in Construction Companies processing 5\u201315 invoices/month, missed vendor invoice submission deadlines cause late payments. We provide timely alerts instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-17",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

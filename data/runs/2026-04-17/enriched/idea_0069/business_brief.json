@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, high-risk suppliers cause financial instability. We provide vendor risk monitoring instead of manual supplier evaluation processes.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "High-risk suppliers can lead to financial instability and compliance issues.",
+  "features": [
+    "Supplier risk scoring",
+    "Compliance alerts",
+    "Financial stability reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "High-risk suppliers can lead to financial instability and compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, high-risk suppliers cause financial instability. We provide vendor risk monitoring instead of manual supplier evaluation processes.",
+    "current_alternative": "Manual supplier evaluation processes",
+    "must_have_features": [
+      "Supplier risk scoring",
+      "Compliance alerts",
+      "Financial stability reports"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, high-risk suppliers cause financial instability. We provide vendor risk monitoring instead of manual supplier evaluation processes.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-17",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

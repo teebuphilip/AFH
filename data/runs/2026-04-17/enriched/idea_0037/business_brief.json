@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet managers in logistics companies processing 10-20 invoices/month tool",
+  "description": "For fleet managers in logistics companies processing 10-20 invoices/month, inaccurate invoicing causes cash flow gaps. We automate reconciliation instead of manual reconciliation of delivery logs and invoices.",
+  "target_audience": "fleet managers in logistics companies processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate invoicing due to mismatched delivery logs",
+  "features": [
+    "manual entry of delivery logs",
+    "manual entry of invoices",
+    "report generation for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet managers in logistics companies processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate invoicing due to mismatched delivery logs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet managers in logistics companies processing 10-20 invoices/month, inaccurate invoicing causes cash flow gaps. We automate reconciliation instead of manual reconciliation of delivery logs and invoices.",
+    "current_alternative": "manual reconciliation of delivery logs and invoices",
+    "must_have_features": [
+      "manual entry of delivery logs",
+      "manual entry of invoices",
+      "report generation for discrepancies"
+    ]
+  },
+  "one_liner": "For fleet managers in logistics companies processing 10-20 invoices/month, inaccurate invoicing causes cash flow gaps. We automate reconciliation instead of manual reconciliation of delivery logs and invoices.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

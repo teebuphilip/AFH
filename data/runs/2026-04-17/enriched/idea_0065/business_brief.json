@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 service requests/month tool",
+  "description": "For property managers processing 5\u201315 service requests/month, inefficient scheduling causes delayed maintenance. We provide a facilities maintenance scheduler instead of manual tracking via spreadsheets or emails.",
+  "target_audience": "property managers handling 5\u201315 service requests/month",
+  "problem_solved": "Inefficient scheduling of maintenance requests leads to delayed service.",
+  "features": [
+    "log service requests manually",
+    "dispatch technicians manually",
+    "generate monthly utilization reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 service requests/month",
+    "primary_problem": "Inefficient scheduling of maintenance requests leads to delayed service.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 service requests/month, inefficient scheduling causes delayed maintenance. We provide a facilities maintenance scheduler instead of manual tracking via spreadsheets or emails.",
+    "current_alternative": "manual tracking via spreadsheets or emails",
+    "must_have_features": [
+      "log service requests manually",
+      "dispatch technicians manually",
+      "generate monthly utilization reports"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 service requests/month, inefficient scheduling causes delayed maintenance. We provide a facilities maintenance scheduler instead of manual tracking via spreadsheets or emails.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-17",
+    "overlay_score": 80,
+    "arr_score": 80
+  }
+}

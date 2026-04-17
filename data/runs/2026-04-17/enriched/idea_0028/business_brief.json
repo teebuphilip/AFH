@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-15 sites/month tool",
+  "description": "For construction contractors managing 5-15 sites/month, inefficient log consolidation causes compliance risks. We automate the consolidation of safety logs instead of manual log consolidation and reporting.",
+  "target_audience": "construction contractors managing 5-15 sites/month",
+  "problem_solved": "Inefficient consolidation of safety logs leading to compliance risks.",
+  "features": [
+    "manual entry of safety logs",
+    "daily summary generation",
+    "email notifications for compliance updates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-15 sites/month",
+    "primary_problem": "Inefficient consolidation of safety logs leading to compliance risks.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5-15 sites/month, inefficient log consolidation causes compliance risks. We automate the consolidation of safety logs instead of manual log consolidation and reporting.",
+    "current_alternative": "manual log consolidation and reporting",
+    "must_have_features": [
+      "manual entry of safety logs",
+      "daily summary generation",
+      "email notifications for compliance updates"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-15 sites/month, inefficient log consolidation causes compliance risks. We automate the consolidation of safety logs instead of manual log consolidation and reporting.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, inaccurate cash flow forecasts cause late payments. We generate weekly cash flow forecasts from bank transactions instead of manual cash flow tracking spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "lack of accurate cash flow forecasting",
+  "features": [
+    "weekly cash flow report generation",
+    "bank transaction categorization",
+    "manual input option for adjustments"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "lack of accurate cash flow forecasting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, inaccurate cash flow forecasts cause late payments. We generate weekly cash flow forecasts from bank transactions instead of manual cash flow tracking spreadsheets.",
+    "current_alternative": "manual cash flow tracking spreadsheets",
+    "must_have_features": [
+      "weekly cash flow report generation",
+      "bank transaction categorization",
+      "manual input option for adjustments"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, inaccurate cash flow forecasts cause late payments. We generate weekly cash flow forecasts from bank transactions instead of manual cash flow tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-17",
+    "overlay_score": 65,
+    "arr_score": 67
+  }
+}

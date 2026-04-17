@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors managing 5-15 sites/month",
+  "offer": "For construction contractors managing 5-15 sites/month, inefficient log consolidation causes compliance risks. We automate the consolidation of safety logs instead of manual log consolidation and reporting.",
+  "problem": "Inefficient consolidation of safety logs leading to compliance risks.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to construction contractors with demo video",
+    "Community forums where contractors share tools"
+  ],
+  "try_it": "Let users try manual entry of safety logs and summaries",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
+  ]
+}

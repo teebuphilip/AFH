@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Shopify store owners processing 10\u201350 orders/week",
+  "offer": "For Shopify store owners processing 10\u201350 orders/week, manual data extraction causes delayed insights. We automate weekly sales pipeline data extracts instead of manual data extraction and analysis using spreadsheets.",
+  "problem": "Inability to quickly access and analyze sales pipeline data for decision-making.",
+  "channels_free": [
+    "Post in Reddit communities for Shopify store owners",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to Shopify store owners with demo video",
+    "Community forums where Shopify owners share tools"
+  ],
+  "try_it": "Let users try user-friendly dashboard for data visualization",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

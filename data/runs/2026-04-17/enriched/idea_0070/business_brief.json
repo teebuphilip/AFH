@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR administrators in small accounting firms processing 5\u201315 payroll reports/month tool",
+  "description": "For HR administrators in small accounting firms processing 5\u201315 payroll reports/month, inaccurate time tracking causes payroll errors. We automate time tracking instead of manual time tracking and payroll calculation.",
+  "target_audience": "HR administrators in small accounting firms processing 5\u201315 payroll reports/month",
+  "problem_solved": "Inaccurate time tracking leads to payroll errors.",
+  "features": [
+    "manual time entry",
+    "overtime calculation",
+    "payroll report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR administrators in small accounting firms processing 5\u201315 payroll reports/month",
+    "primary_problem": "Inaccurate time tracking leads to payroll errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR administrators in small accounting firms processing 5\u201315 payroll reports/month, inaccurate time tracking causes payroll errors. We automate time tracking instead of manual time tracking and payroll calculation.",
+    "current_alternative": "manual time tracking and payroll calculation",
+    "must_have_features": [
+      "manual time entry",
+      "overtime calculation",
+      "payroll report generation"
+    ]
+  },
+  "one_liner": "For HR administrators in small accounting firms processing 5\u201315 payroll reports/month, inaccurate time tracking causes payroll errors. We automate time tracking instead of manual time tracking and payroll calculation.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

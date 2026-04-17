@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "field service managers in the construction industry managing equipment units inconsistent tool",
+    "field service managers in the construction industry managing equipment units inconsistent automation",
+    "field service managers in the construction industry managing 5 15 equipment units inconsistent tool",
+    "field service managers in the construction industry managing 5 15 equipment units inconsistent automation",
+    "field service managers in the construction industry managing 5 15 equipment units inconsistent workflow"
+  ],
+  "secondary_keywords": [
+    "field service managers in the construction industry managing 5 15 equipment units inconsistent tool software",
+    "field service managers in the construction industry managing 5 15 equipment units inconsistent tool platform",
+    "field service managers in the construction industry managing 5 15 equipment units inconsistent tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For field service managers in the construction industry processing 5\u201315 equipment units, inconsistent tracking causes unexpected maintenance costs. We generate automated weekly reports instead of manual tracking through spreadsheets.",
+    "Inconsistent tracking of equipment usage leads to unexpected maintenance costs.",
+    "field service managers in the construction industry managing 5\u201315 equipment units"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Field Service Managers In The Construction Industry Managing 5 15 Equipment Units Inconsistent Tool Software",
+      "target_keyword": "field service managers in the construction industry managing 5 15 equipment units inconsistent tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Field Service Managers In The Construction Industry Managing 5 15 Equipment Units Inconsistent Tool Platform",
+      "target_keyword": "field service managers in the construction industry managing 5 15 equipment units inconsistent tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Field Service Managers In The Construction Industry Managing 5 15 Equipment Units Inconsistent Tool Solution",
+      "target_keyword": "field service managers in the construction industry managing 5 15 equipment units inconsistent tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Field Service Managers In The Construction Industry Managing 5 15 Equipment Units Inconsistent Tool",
+      "target_keyword": "field service managers in the construction industry managing 5 15 equipment units inconsistent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Field Service Managers In The Construction Industry Managing 5 15 Equipment Units Inconsistent Automation",
+      "target_keyword": "field service managers in the construction industry managing 5 15 equipment units inconsistent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Field Service Managers In The Construction Industry Managing 5 15 Equipment Units Inconsistent Workflow",
+      "target_keyword": "field service managers in the construction industry managing 5 15 equipment units inconsistent workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "field service managers in the construction industry managing equipment units inconsistent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "field service managers in the construction industry managing equipment units inconsistent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "field service managers in the construction industry managing equipment units inconsistent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "field service managers in the construction industry managing equipment units inconsistent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "field service managers in the construction industry managing equipment units inconsistent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | field service managers in the construction industry managing equipment units tool",
+      "field service managers in the construction industry managing equipment units tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "field service managers in the construction industry managing equipment units tool helps with inconsistent tracking of equipment usage leads to unexpected maintenance costs."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

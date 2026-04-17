@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing specialists in clinics processing 20-50 invoices/week tool",
+  "description": "For medical billing specialists in clinics processing 20-50 invoices/week, frequent billing errors cause cash flow gaps. We generate automated weekly audit reports instead of manual auditing processes.",
+  "target_audience": "medical billing specialists in clinics processing 20-50 invoices/week",
+  "problem_solved": "Frequent billing errors and compliance issues due to manual audits.",
+  "features": [
+    "user-friendly dashboard",
+    "exportable report formats",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing specialists in clinics processing 20-50 invoices/week",
+    "primary_problem": "Frequent billing errors and compliance issues due to manual audits.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing specialists in clinics processing 20-50 invoices/week, frequent billing errors cause cash flow gaps. We generate automated weekly audit reports instead of manual auditing processes.",
+    "current_alternative": "manual auditing processes",
+    "must_have_features": [
+      "user-friendly dashboard",
+      "exportable report formats",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical billing specialists in clinics processing 20-50 invoices/week, frequent billing errors cause cash flow gaps. We generate automated weekly audit reports instead of manual auditing processes.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-17",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

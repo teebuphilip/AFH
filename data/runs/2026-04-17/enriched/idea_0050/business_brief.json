@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "paralegals in small law firms processing 5\u201315 client intake forms/month tool",
+  "description": "For paralegals in small law firms processing 5\u201315 client intake forms/month, inefficient summarization causes delays in case preparation. We automate the formatting of case management summaries instead of manual summarization of client intake forms.",
+  "target_audience": "paralegals in small law firms processing 5\u201315 client intake forms/month",
+  "problem_solved": "Inefficient summarization of client intake forms",
+  "features": [
+    "manual input for client intake forms",
+    "template-based summary generation",
+    "export to common document formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "paralegals in small law firms processing 5\u201315 client intake forms/month",
+    "primary_problem": "Inefficient summarization of client intake forms",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For paralegals in small law firms processing 5\u201315 client intake forms/month, inefficient summarization causes delays in case preparation. We automate the formatting of case management summaries instead of manual summarization of client intake forms.",
+    "current_alternative": "manual summarization of client intake forms",
+    "must_have_features": [
+      "manual input for client intake forms",
+      "template-based summary generation",
+      "export to common document formats"
+    ]
+  },
+  "one_liner": "For paralegals in small law firms processing 5\u201315 client intake forms/month, inefficient summarization causes delays in case preparation. We automate the formatting of case management summaries instead of manual summarization of client intake forms.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201310 projects/month tool",
+  "description": "For construction contractors managing 5\u201310 projects/month, missed permit renewals cause project delays. We send timely renewal alerts instead of manual tracking through spreadsheets.",
+  "target_audience": "construction contractors managing 5\u201310 projects/month",
+  "problem_solved": "Tracking construction permit expirations",
+  "features": [
+    "permit expiration tracking",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201310 projects/month",
+    "primary_problem": "Tracking construction permit expirations",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201310 projects/month, missed permit renewals cause project delays. We send timely renewal alerts instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "permit expiration tracking",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201310 projects/month, missed permit renewals cause project delays. We send timely renewal alerts instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10-20 client tax filings/month tool",
+  "description": "For accounting firms processing 10-20 client tax filings/month, missed deadlines cause penalties. We streamline compliance workflows instead of manual tracking using spreadsheets.",
+  "target_audience": "accounting firms managing 10-20 client tax filings/month",
+  "problem_solved": "Difficulty in tracking and managing multiple compliance deadlines for client tax filings.",
+  "features": [
+    "task reminders for compliance deadlines",
+    "checklist for required documents",
+    "status tracking for each client's filing"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10-20 client tax filings/month",
+    "primary_problem": "Difficulty in tracking and managing multiple compliance deadlines for client tax filings.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10-20 client tax filings/month, missed deadlines cause penalties. We streamline compliance workflows instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking using spreadsheets",
+    "must_have_features": [
+      "task reminders for compliance deadlines",
+      "checklist for required documents",
+      "status tracking for each client's filing"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10-20 client tax filings/month, missed deadlines cause penalties. We streamline compliance workflows instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-17",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

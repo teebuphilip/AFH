@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For amazon sellers processing 10\u201320 invoices/month, manual report generation causes late audits and potential penalties. We automate compliance-ready report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in generating compliance-ready audit reports from raw procurement data.",
+  "features": [
+    "Template-based report generation",
+    "Data validation checks",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in generating compliance-ready audit reports from raw procurement data.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For amazon sellers processing 10\u201320 invoices/month, manual report generation causes late audits and potential penalties. We automate compliance-ready report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "Manual report generation using spreadsheets",
+    "must_have_features": [
+      "Template-based report generation",
+      "Data validation checks",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For amazon sellers processing 10\u201320 invoices/month, manual report generation causes late audits and potential penalties. We automate compliance-ready report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-17",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

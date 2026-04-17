@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations in small to medium-sized marketing agencies processing 5\u201315 new hires/month tool",
+  "description": "For HR operations in small to medium-sized marketing agencies processing 5\u201315 new hires/month, delayed completion of onboarding paperwork causes productivity loss. We automate reminders instead of manual tracking via email.",
+  "target_audience": "HR operations in small to medium-sized marketing agencies processing 5\u201315 new hires/month",
+  "problem_solved": "Delayed completion of onboarding paperwork",
+  "features": [
+    "Dashboard for tracking onboarding status",
+    "Manual entry option for HR to update paperwork status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations in small to medium-sized marketing agencies processing 5\u201315 new hires/month",
+    "primary_problem": "Delayed completion of onboarding paperwork",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations in small to medium-sized marketing agencies processing 5\u201315 new hires/month, delayed completion of onboarding paperwork causes productivity loss. We automate reminders instead of manual tracking via email.",
+    "current_alternative": "Manual tracking of paperwork status and reminders via email",
+    "must_have_features": [
+      "Dashboard for tracking onboarding status",
+      "Manual entry option for HR to update paperwork status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations in small to medium-sized marketing agencies processing 5\u201315 new hires/month, delayed completion of onboarding paperwork causes productivity loss. We automate reminders instead of manual tracking via email.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

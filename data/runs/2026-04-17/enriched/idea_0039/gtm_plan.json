@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "fleet supervisors managing 10-50 vehicles",
+  "offer": "For fleet supervisors managing 10-50 vehicles, manual scheduling causes missed maintenance deadlines. We automate scheduling and notifications instead of manual scheduling and notifications.",
+  "problem": "timely vehicle maintenance scheduling",
+  "channels_free": [
+    "Post in Reddit communities for fleet supervisors",
+    "Indie Hackers discussions on scheduling issues",
+    "DM outreach to fleet supervisors with demo video",
+    "Community forums for fleet management tools"
+  ],
+  "try_it": "Let users try simple scheduling interface and notifications for 1-3 vehicles",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing vehicle data",
+    "One-click export of maintenance reports",
+    "Reduce steps in user onboarding"
+  ]
+}

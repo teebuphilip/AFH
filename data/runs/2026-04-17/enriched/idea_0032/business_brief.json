@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "paralegals in small law firms processing 5\u201315 case filings/month tool",
+  "description": "For paralegals in small law firms processing 5\u201315 case filings/month, overdue filings cause client dissatisfaction. We automate tracking and flagging instead of manual tracking using spreadsheets.",
+  "target_audience": "paralegals in small law firms processing 5\u201315 case filings/month",
+  "problem_solved": "Overdue legal case filings leading to potential penalties and client dissatisfaction.",
+  "features": [
+    "case filing status tracking",
+    "user-friendly dashboard for case management",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "paralegals in small law firms processing 5\u201315 case filings/month",
+    "primary_problem": "Overdue legal case filings leading to potential penalties and client dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For paralegals in small law firms processing 5\u201315 case filings/month, overdue filings cause client dissatisfaction. We automate tracking and flagging instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking of deadlines using spreadsheets or calendars.",
+    "must_have_features": [
+      "case filing status tracking",
+      "user-friendly dashboard for case management",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For paralegals in small law firms processing 5\u201315 case filings/month, overdue filings cause client dissatisfaction. We automate tracking and flagging instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-17",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

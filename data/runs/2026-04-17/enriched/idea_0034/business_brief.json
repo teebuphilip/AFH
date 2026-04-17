@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "dispatch coordinators for construction contractors processing 10\u201320 timesheets/week tool",
+  "description": "For dispatch coordinators for construction contractors processing 10\u201320 timesheets/week, inefficient timesheet compilation causes payroll delays. We automate timesheet summaries instead of manual timesheet entry and compilation.",
+  "target_audience": "dispatch coordinators for construction contractors processing 10\u201320 timesheets/week",
+  "problem_solved": "Inefficient timesheet compilation leading to payroll delays.",
+  "features": [
+    "manual entry of timesheets",
+    "summary generation for payroll",
+    "export to common payroll formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "dispatch coordinators for construction contractors processing 10\u201320 timesheets/week",
+    "primary_problem": "Inefficient timesheet compilation leading to payroll delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For dispatch coordinators for construction contractors processing 10\u201320 timesheets/week, inefficient timesheet compilation causes payroll delays. We automate timesheet summaries instead of manual timesheet entry and compilation.",
+    "current_alternative": "manual timesheet entry and compilation",
+    "must_have_features": [
+      "manual entry of timesheets",
+      "summary generation for payroll",
+      "export to common payroll formats"
+    ]
+  },
+  "one_liner": "For dispatch coordinators for construction contractors processing 10\u201320 timesheets/week, inefficient timesheet compilation causes payroll delays. We automate timesheet summaries instead of manual timesheet entry and compilation.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-17",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

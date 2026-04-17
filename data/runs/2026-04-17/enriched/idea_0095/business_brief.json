@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant CFOs managing 10-20 suppliers tool",
+  "description": "For restaurant CFOs managing 10-20 suppliers, inaccurate demand forecasting causes excess inventory and waste. We provide inventory optimization software instead of manual inventory tracking and supplier negotiations.",
+  "target_audience": "restaurant CFOs managing 10-20 suppliers",
+  "problem_solved": "Inaccurate demand forecasting leading to excess inventory and waste.",
+  "features": [
+    "demand forecasting tools",
+    "supplier relationship management",
+    "cost analysis reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant CFOs managing 10-20 suppliers",
+    "primary_problem": "Inaccurate demand forecasting leading to excess inventory and waste.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant CFOs managing 10-20 suppliers, inaccurate demand forecasting causes excess inventory and waste. We provide inventory optimization software instead of manual inventory tracking and supplier negotiations.",
+    "current_alternative": "manual inventory tracking and supplier negotiations",
+    "must_have_features": [
+      "demand forecasting tools",
+      "supplier relationship management",
+      "cost analysis reports"
+    ]
+  },
+  "one_liner": "For restaurant CFOs managing 10-20 suppliers, inaccurate demand forecasting causes excess inventory and waste. We provide inventory optimization software instead of manual inventory tracking and supplier negotiations.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-17",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}
