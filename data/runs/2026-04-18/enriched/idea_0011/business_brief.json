@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 clients per quarter tool",
+  "description": "For accounting firms processing 5\u201315 clients per quarter, manual report compilation causes compliance issues. We automate report generation instead of manual report compilation using spreadsheets.",
+  "target_audience": "accounting firms processing 5\u201315 clients per quarter",
+  "problem_solved": "Timely generation of tax withholding reports",
+  "features": [
+    "quarterly report generation",
+    "data formatting options",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 clients per quarter",
+    "primary_problem": "Timely generation of tax withholding reports",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 clients per quarter, manual report compilation causes compliance issues. We automate report generation instead of manual report compilation using spreadsheets.",
+    "current_alternative": "manual report compilation using spreadsheets",
+    "must_have_features": [
+      "quarterly report generation",
+      "data formatting options",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 clients per quarter, manual report compilation causes compliance issues. We automate report generation instead of manual report compilation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-18",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr administrators in medical clinics discrepancies tool",
+    "hr administrators in medical clinics discrepancies automation",
+    "billing workflow",
+    "claims tracking",
+    "hr administrators in medical clinics processing 10 20 claims month discrepancies tool",
+    "hr administrators in medical clinics processing 10 20 claims month discrepancies automation",
+    "hr administrators in medical clinics processing 10 20 claims month discrepancies workflow"
+  ],
+  "secondary_keywords": [
+    "billing workflow software",
+    "billing workflow platform",
+    "billing workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to billing workflow",
+    "best billing workflow tool",
+    "billing workflow vs spreadsheets",
+    "billing workflow checklist",
+    "billing workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR administrators in medical clinics processing 10\u201320 claims/month, discrepancies cause delayed reimbursements. We automate tracking and reconciliation instead of manual tracking and reconciliation of claims.",
+    "Discrepancies in healthcare claims processing",
+    "HR administrators in medical clinics processing 10\u201320 claims/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Billing Workflow",
+      "target_keyword": "how to billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Billing Workflow Tool",
+      "target_keyword": "best billing workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Vs Spreadsheets",
+      "target_keyword": "billing workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Checklist",
+      "target_keyword": "billing workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Pricing",
+      "target_keyword": "billing workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Software",
+      "target_keyword": "billing workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Platform",
+      "target_keyword": "billing workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Solution",
+      "target_keyword": "billing workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow",
+      "target_keyword": "billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Claims Tracking",
+      "target_keyword": "claims tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Administrators In Medical Clinics Processing 10 20 Claims Month Discrepancies Tool",
+      "target_keyword": "hr administrators in medical clinics processing 10 20 claims month discrepancies tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Administrators In Medical Clinics Processing 10 20 Claims Month Discrepancies Automation",
+      "target_keyword": "hr administrators in medical clinics processing 10 20 claims month discrepancies automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr administrators in medical clinics discrepancies tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr administrators in medical clinics discrepancies tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr administrators in medical clinics discrepancies tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr administrators in medical clinics discrepancies tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr administrators in medical clinics discrepancies tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr administrators in medical clinics tool",
+      "hr administrators in medical clinics tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr administrators in medical clinics tool helps with discrepancies in healthcare claims processing."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

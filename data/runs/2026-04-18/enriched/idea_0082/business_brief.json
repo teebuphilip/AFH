@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "bookkeepers managing 5\u201315 clients using QuickBooks tool",
+  "description": "For bookkeepers managing 5\u201315 clients using QuickBooks, inconsistent transaction records cause cash flow gaps. We provide an automated reconciliation service instead of manual reconciliation processes.",
+  "target_audience": "bookkeepers managing 5\u201315 clients using QuickBooks",
+  "problem_solved": "Difficulty in reconciling transactions across multiple platforms",
+  "features": [
+    "manual transaction matching",
+    "transaction history tracking",
+    "customizable reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "bookkeepers managing 5\u201315 clients using QuickBooks",
+    "primary_problem": "Difficulty in reconciling transactions across multiple platforms",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For bookkeepers managing 5\u201315 clients using QuickBooks, inconsistent transaction records cause cash flow gaps. We provide an automated reconciliation service instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual transaction matching",
+      "transaction history tracking",
+      "customizable reporting"
+    ]
+  },
+  "one_liner": "For bookkeepers managing 5\u201315 clients using QuickBooks, inconsistent transaction records cause cash flow gaps. We provide an automated reconciliation service instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-18",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

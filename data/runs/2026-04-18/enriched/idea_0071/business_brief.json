@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201315 vehicles tool",
+  "description": "For logistics carriers processing 5\u201315 vehicles, inefficient fleet maintenance scheduling causes increased downtime. We automate tracking and optimizing maintenance schedules instead of manual tracking and scheduling.",
+  "target_audience": "logistics carriers managing 5\u201315 vehicles",
+  "problem_solved": "inefficient fleet maintenance scheduling leading to increased downtime",
+  "features": [
+    "manual entry for maintenance logs",
+    "basic inventory tracking for parts",
+    "fuel consumption logging"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201315 vehicles",
+    "primary_problem": "inefficient fleet maintenance scheduling leading to increased downtime",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 5\u201315 vehicles, inefficient fleet maintenance scheduling causes increased downtime. We automate tracking and optimizing maintenance schedules instead of manual tracking and scheduling.",
+    "current_alternative": "manual tracking and scheduling",
+    "must_have_features": [
+      "manual entry for maintenance logs",
+      "basic inventory tracking for parts",
+      "fuel consumption logging"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 5\u201315 vehicles, inefficient fleet maintenance scheduling causes increased downtime. We automate tracking and optimizing maintenance schedules instead of manual tracking and scheduling.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-18",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

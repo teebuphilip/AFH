@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 credit card transactions/day tool",
+  "description": "For accounting firms processing 10\u201320 credit card transactions/day, manual reconciliation causes significant time loss and potential errors. We automate the extraction and reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 credit card transactions/day",
+  "problem_solved": "Daily reconciliation of credit card transactions is time-consuming and error-prone.",
+  "features": [
+    "Daily transaction extraction",
+    "User-friendly dashboard for transaction overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 credit card transactions/day",
+    "primary_problem": "Daily reconciliation of credit card transactions is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 credit card transactions/day, manual reconciliation causes significant time loss and potential errors. We automate the extraction and reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "Daily transaction extraction",
+      "User-friendly dashboard for transaction overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 credit card transactions/day, manual reconciliation causes significant time loss and potential errors. We automate the extraction and reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0017",
+    "run_date": "2026-04-18",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

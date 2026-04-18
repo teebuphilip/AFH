@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient timesheet data entry causes delayed payments. We automate data extraction and summarization instead of manual timesheet entry and calculation in QuickBooks.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Delayed payments due to inefficient timesheet data processing.",
+  "features": [
+    "manual data entry option",
+    "summary report generation",
+    "basic timesheet data extraction"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Delayed payments due to inefficient timesheet data processing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient timesheet data entry causes delayed payments. We automate data extraction and summarization instead of manual timesheet entry and calculation in QuickBooks.",
+    "current_alternative": "manual timesheet entry and calculation in QuickBooks",
+    "must_have_features": [
+      "manual data entry option",
+      "summary report generation",
+      "basic timesheet data extraction"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient timesheet data entry causes delayed payments. We automate data extraction and summarization instead of manual timesheet entry and calculation in QuickBooks.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

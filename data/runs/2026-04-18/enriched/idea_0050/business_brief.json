@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant stock managers processing 10\u201320 invoices/month tool",
+  "description": "For restaurant stock managers processing 10\u201320 invoices/month, inaccurate inventory tracking causes spoilage and financial loss. We generate automated monthly reports instead of manual tracking spreadsheets.",
+  "target_audience": "restaurant stock managers processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate inventory tracking leads to spoilage and financial loss.",
+  "features": [
+    "Monthly inventory usage report generation",
+    "Spoilage tracking alerts",
+    "User-friendly dashboard for stock overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant stock managers processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate inventory tracking leads to spoilage and financial loss.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant stock managers processing 10\u201320 invoices/month, inaccurate inventory tracking causes spoilage and financial loss. We generate automated monthly reports instead of manual tracking spreadsheets.",
+    "current_alternative": "manual tracking spreadsheets",
+    "must_have_features": [
+      "Monthly inventory usage report generation",
+      "Spoilage tracking alerts",
+      "User-friendly dashboard for stock overview"
+    ]
+  },
+  "one_liner": "For restaurant stock managers processing 10\u201320 invoices/month, inaccurate inventory tracking causes spoilage and financial loss. We generate automated monthly reports instead of manual tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-18",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 properties/month tool",
+  "description": "For property managers processing 5\u201315 properties/month, inefficient manual inspections cause delayed reporting. We provide automated inspection and reporting instead of manual inspection and reporting methods.",
+  "target_audience": "property managers processing 5\u201315 properties/month",
+  "problem_solved": "Inefficient manual inspection processes lead to delayed reporting.",
+  "features": [
+    "simple inspection checklist",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 properties/month",
+    "primary_problem": "Inefficient manual inspection processes lead to delayed reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 properties/month, inefficient manual inspections cause delayed reporting. We provide automated inspection and reporting instead of manual inspection and reporting methods.",
+    "current_alternative": "manual inspection and reporting methods",
+    "must_have_features": [
+      "simple inspection checklist",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 properties/month, inefficient manual inspections cause delayed reporting. We provide automated inspection and reporting instead of manual inspection and reporting methods.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-18",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

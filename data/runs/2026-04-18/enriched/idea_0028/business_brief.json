@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations managers in logistics companies managing 5-15 vehicles tool",
+  "description": "For fleet operations managers in logistics companies processing 5-15 vehicles, inefficient scheduling causes vehicle downtime. We provide a scheduling system instead of manual tracking using spreadsheets.",
+  "target_audience": "fleet operations managers in logistics companies managing 5-15 vehicles",
+  "problem_solved": "inefficient scheduling of preventive maintenance tasks leading to vehicle downtime",
+  "features": [
+    "task scheduling interface",
+    "maintenance tracking dashboard",
+    "reminder notifications for upcoming tasks"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations managers in logistics companies managing 5-15 vehicles",
+    "primary_problem": "inefficient scheduling of preventive maintenance tasks leading to vehicle downtime",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operations managers in logistics companies processing 5-15 vehicles, inefficient scheduling causes vehicle downtime. We provide a scheduling system instead of manual tracking using spreadsheets.",
+    "current_alternative": "manual tracking and scheduling using spreadsheets",
+    "must_have_features": [
+      "task scheduling interface",
+      "maintenance tracking dashboard",
+      "reminder notifications for upcoming tasks"
+    ]
+  },
+  "one_liner": "For fleet operations managers in logistics companies processing 5-15 vehicles, inefficient scheduling causes vehicle downtime. We provide a scheduling system instead of manual tracking using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-18",
+    "overlay_score": 69,
+    "arr_score": 68
+  }
+}

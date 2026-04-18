@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR teams in accounting firms processing 10\u201320 expense submissions/week tool",
+  "description": "For HR teams in accounting firms processing 10\u201320 invoices/week, non-compliance causes financial discrepancies. We audit expense submissions instead of manual review of expense submissions.",
+  "target_audience": "HR teams in accounting firms processing 10\u201320 expense submissions/week",
+  "problem_solved": "Ensuring compliance with expense submission policies",
+  "features": [
+    "manual expense submission review",
+    "weekly compliance alerts",
+    "policy compliance checklist"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR teams in accounting firms processing 10\u201320 expense submissions/week",
+    "primary_problem": "Ensuring compliance with expense submission policies",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR teams in accounting firms processing 10\u201320 invoices/week, non-compliance causes financial discrepancies. We audit expense submissions instead of manual review of expense submissions.",
+    "current_alternative": "manual review of expense submissions",
+    "must_have_features": [
+      "manual expense submission review",
+      "weekly compliance alerts",
+      "policy compliance checklist"
+    ]
+  },
+  "one_liner": "For HR teams in accounting firms processing 10\u201320 invoices/week, non-compliance causes financial discrepancies. We audit expense submissions instead of manual review of expense submissions.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-18",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

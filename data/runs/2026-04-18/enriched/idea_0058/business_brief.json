@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR administrators in small to medium-sized marketing agencies processing 5\u201315 payroll adjustments/month tool",
+  "description": "For HR administrators in small to medium-sized marketing agencies processing 5\u201315 payroll adjustments/month, manual tracking causes payroll errors. We automate time off requests and payroll adjustments instead of manual tracking and adjustments via spreadsheets.",
+  "target_audience": "HR administrators in small to medium-sized marketing agencies processing 5\u201315 payroll adjustments/month",
+  "problem_solved": "Managing employee time off requests and payroll adjustments manually is time-consuming and error-prone.",
+  "features": [
+    "Time off request submission form",
+    "Notification system for HR and payroll administrators",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR administrators in small to medium-sized marketing agencies processing 5\u201315 payroll adjustments/month",
+    "primary_problem": "Managing employee time off requests and payroll adjustments manually is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR administrators in small to medium-sized marketing agencies processing 5\u201315 payroll adjustments/month, manual tracking causes payroll errors. We automate time off requests and payroll adjustments instead of manual tracking and adjustments via spreadsheets.",
+    "current_alternative": "manual tracking and adjustments via spreadsheets",
+    "must_have_features": [
+      "Time off request submission form",
+      "Notification system for HR and payroll administrators",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR administrators in small to medium-sized marketing agencies processing 5\u201315 payroll adjustments/month, manual tracking causes payroll errors. We automate time off requests and payroll adjustments instead of manual tracking and adjustments via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-18",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freight brokers processing 10\u201320 invoices/month tool",
+  "description": "For freight brokers processing 10\u201320 invoices/month, inefficient carrier performance tracking causes missed discounts. We provide analytics instead of manual tracking and spreadsheets.",
+  "target_audience": "freight brokers processing 10\u201320 invoices/month",
+  "problem_solved": "inefficient carrier performance tracking",
+  "features": [
+    "carrier performance dashboard",
+    "cost savings opportunity alerts",
+    "manual data entry support"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freight brokers processing 10\u201320 invoices/month",
+    "primary_problem": "inefficient carrier performance tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freight brokers processing 10\u201320 invoices/month, inefficient carrier performance tracking causes missed discounts. We provide analytics instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "carrier performance dashboard",
+      "cost savings opportunity alerts",
+      "manual data entry support"
+    ]
+  },
+  "one_liner": "For freight brokers processing 10\u201320 invoices/month, inefficient carrier performance tracking causes missed discounts. We provide analytics instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-18",
+    "overlay_score": 63,
+    "arr_score": 62
+  }
+}

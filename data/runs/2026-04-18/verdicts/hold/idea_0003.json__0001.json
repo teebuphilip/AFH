@@ -1,0 +1,18 @@
+{
+  "idea_text": "Automation that generates monthly expense reimbursement reports for HR payroll teams.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 86,
+  "arr_score": 88.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-18T10:04:57.880593",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-18T10:04:57.926379",
+  "hold_reason": "arr_70_89"
+}

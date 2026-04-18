@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "clinic billing specialists processing 10\u201320 claims/month tool",
+  "description": "For clinic billing specialists processing 10\u201320 claims/month, frequent claim denials cause cash flow gaps. We automate the resubmission process instead of manual tracking and resubmission of claims.",
+  "target_audience": "clinic billing specialists processing 10\u201320 claims/month",
+  "problem_solved": "Frequent claim denials and resubmissions lead to delayed payments.",
+  "features": [
+    "claim tracking dashboard",
+    "manual entry option for claims",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "clinic billing specialists processing 10\u201320 claims/month",
+    "primary_problem": "Frequent claim denials and resubmissions lead to delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For clinic billing specialists processing 10\u201320 claims/month, frequent claim denials cause cash flow gaps. We automate the resubmission process instead of manual tracking and resubmission of claims.",
+    "current_alternative": "manual tracking and resubmission of claims",
+    "must_have_features": [
+      "claim tracking dashboard",
+      "manual entry option for claims",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For clinic billing specialists processing 10\u201320 claims/month, frequent claim denials cause cash flow gaps. We automate the resubmission process instead of manual tracking and resubmission of claims.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

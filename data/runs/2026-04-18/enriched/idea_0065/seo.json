@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "amazon sellers inefficient tool",
+    "amazon sellers inefficient automation",
+    "support ticket tracking",
+    "support workflow",
+    "amazon sellers processing 10 20 invoices month inefficient tool",
+    "amazon sellers processing 10 20 invoices month inefficient automation",
+    "amazon sellers processing 10 20 invoices month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "support ticket tracking software",
+    "support ticket tracking platform",
+    "support ticket tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to support ticket tracking",
+    "best support ticket tracking tool",
+    "support ticket tracking vs spreadsheets",
+    "support ticket tracking checklist",
+    "support ticket tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Amazon sellers processing 10\u201320 invoices/month, inefficient vendor contract management causes missed discounts. We monitor and optimize vendor contracts instead of manual tracking.",
+    "Inefficient vendor contract management leading to missed discounts and unfavorable terms.",
+    "Amazon sellers processing 10\u201320 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Support Ticket Tracking",
+      "target_keyword": "how to support ticket tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Support Ticket Tracking Tool",
+      "target_keyword": "best support ticket tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Support Ticket Tracking Vs Spreadsheets",
+      "target_keyword": "support ticket tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Support Ticket Tracking Checklist",
+      "target_keyword": "support ticket tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Pricing",
+      "target_keyword": "support ticket tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Software",
+      "target_keyword": "support ticket tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Platform",
+      "target_keyword": "support ticket tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Solution",
+      "target_keyword": "support ticket tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking",
+      "target_keyword": "support ticket tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Workflow",
+      "target_keyword": "support workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Inefficient Tool",
+      "target_keyword": "amazon sellers processing 10 20 invoices month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Amazon Sellers Processing 10 20 Invoices Month Inefficient Automation",
+      "target_keyword": "amazon sellers processing 10 20 invoices month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "amazon sellers inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "amazon sellers inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "amazon sellers inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "amazon sellers inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "amazon sellers inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | amazon sellers tool",
+      "amazon sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "amazon sellers tool helps with inefficient vendor contract management leading to missed discounts and unfavorable terms."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

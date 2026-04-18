@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, poor expense tracking causes cash flow gaps. We provide automated expense monitoring instead of manual tracking through spreadsheets.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Etsy sellers struggle with tracking and categorizing their business expenses.",
+  "features": [
+    "Expense categorization",
+    "User-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Etsy sellers struggle with tracking and categorizing their business expenses.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, poor expense tracking causes cash flow gaps. We provide automated expense monitoring instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "Expense categorization",
+      "User-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, poor expense tracking causes cash flow gaps. We provide automated expense monitoring instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For accounting firms processing 5\u201315 payrolls/month, manual payroll data handling causes compliance delays. We automate tax compliance reporting instead of manual data entry and filing.",
+  "target_audience": "accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "manual payroll data handling leads to compliance delays",
+  "features": [
+    "tax compliance report generation",
+    "automatic filing reminders",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "manual payroll data handling leads to compliance delays",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payrolls/month, manual payroll data handling causes compliance delays. We automate tax compliance reporting instead of manual data entry and filing.",
+    "current_alternative": "manual data entry and filing",
+    "must_have_features": [
+      "tax compliance report generation",
+      "automatic filing reminders",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payrolls/month, manual payroll data handling causes compliance delays. We automate tax compliance reporting instead of manual data entry and filing.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

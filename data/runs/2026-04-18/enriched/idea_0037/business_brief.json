@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "service coordinators in home services processing 10\u201320 invoices/month tool",
+  "description": "For service coordinators in home services processing 10\u201320 invoices/month, manual invoicing causes cash flow gaps. We automate the conversion of job completion forms into invoices instead of manual entry of job completion forms into invoicing software.",
+  "target_audience": "service coordinators in home services processing 10\u201320 invoices/month",
+  "problem_solved": "manual invoicing leads to delays and errors",
+  "features": [
+    "invoice generation preview",
+    "manual entry option for adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "service coordinators in home services processing 10\u201320 invoices/month",
+    "primary_problem": "manual invoicing leads to delays and errors",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For service coordinators in home services processing 10\u201320 invoices/month, manual invoicing causes cash flow gaps. We automate the conversion of job completion forms into invoices instead of manual entry of job completion forms into invoicing software.",
+    "current_alternative": "manual entry of job completion forms into invoicing software",
+    "must_have_features": [
+      "invoice generation preview",
+      "manual entry option for adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For service coordinators in home services processing 10\u201320 invoices/month, manual invoicing causes cash flow gaps. We automate the conversion of job completion forms into invoices instead of manual entry of job completion forms into invoicing software.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

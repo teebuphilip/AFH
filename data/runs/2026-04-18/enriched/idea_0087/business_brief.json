@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "in-house legal teams at law firms processing 5\u201315 regulatory filings/month tool",
+  "description": "For in-house legal teams at law firms processing 5\u201315 regulatory filings/month, manual data collection causes late submissions. We automate compliance reporting instead of manual data collection and formatting.",
+  "target_audience": "in-house legal teams at law firms processing 5\u201315 regulatory filings/month",
+  "problem_solved": "Difficulty in collecting and formatting data for timely regulatory filings.",
+  "features": [
+    "data collection templates",
+    "regulatory deadline reminders",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "in-house legal teams at law firms processing 5\u201315 regulatory filings/month",
+    "primary_problem": "Difficulty in collecting and formatting data for timely regulatory filings.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For in-house legal teams at law firms processing 5\u201315 regulatory filings/month, manual data collection causes late submissions. We automate compliance reporting instead of manual data collection and formatting.",
+    "current_alternative": "manual data collection and formatting",
+    "must_have_features": [
+      "data collection templates",
+      "regulatory deadline reminders",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For in-house legal teams at law firms processing 5\u201315 regulatory filings/month, manual data collection causes late submissions. We automate compliance reporting instead of manual data collection and formatting.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

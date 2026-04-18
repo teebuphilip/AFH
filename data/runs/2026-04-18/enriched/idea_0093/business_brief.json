@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "solo attorneys processing 5\u201315 invoices/month tool",
+  "description": "For solo attorneys processing 5\u201315 invoices/month, inefficient billing causes cash flow gaps. We automate billing and time tracking instead of manual billing and time tracking methods.",
+  "target_audience": "solo attorneys processing 5\u201315 invoices/month",
+  "problem_solved": "inefficient billing and time tracking",
+  "features": [
+    "time tracking timer",
+    "client communication templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "solo attorneys processing 5\u201315 invoices/month",
+    "primary_problem": "inefficient billing and time tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For solo attorneys processing 5\u201315 invoices/month, inefficient billing causes cash flow gaps. We automate billing and time tracking instead of manual billing and time tracking methods.",
+    "current_alternative": "manual billing and time tracking methods",
+    "must_have_features": [
+      "time tracking timer",
+      "client communication templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For solo attorneys processing 5\u201315 invoices/month, inefficient billing causes cash flow gaps. We automate billing and time tracking instead of manual billing and time tracking methods.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

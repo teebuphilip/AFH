@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics carriers managing vehicles inefficient tool",
+    "logistics carriers managing vehicles inefficient automation",
+    "inventory tracking",
+    "inventory workflow",
+    "logistics carriers managing 5 15 vehicles inefficient tool",
+    "logistics carriers managing 5 15 vehicles inefficient automation",
+    "logistics carriers managing 5 15 vehicles inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "inventory tracking software",
+    "inventory tracking platform",
+    "inventory tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to inventory tracking",
+    "best inventory tracking tool",
+    "inventory tracking vs spreadsheets",
+    "inventory tracking checklist",
+    "inventory tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics carriers processing 5\u201315 vehicles, inefficient fleet maintenance scheduling causes increased downtime. We automate tracking and optimizing maintenance schedules instead of manual tracking and scheduling.",
+    "inefficient fleet maintenance scheduling leading to increased downtime",
+    "logistics carriers managing 5\u201315 vehicles"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Inventory Tracking",
+      "target_keyword": "how to inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Inventory Tracking Tool",
+      "target_keyword": "best inventory tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Vs Spreadsheets",
+      "target_keyword": "inventory tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Checklist",
+      "target_keyword": "inventory tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Pricing",
+      "target_keyword": "inventory tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Software",
+      "target_keyword": "inventory tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Platform",
+      "target_keyword": "inventory tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Solution",
+      "target_keyword": "inventory tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking",
+      "target_keyword": "inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Workflow",
+      "target_keyword": "inventory workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Carriers Managing 5 15 Vehicles Inefficient Tool",
+      "target_keyword": "logistics carriers managing 5 15 vehicles inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Managing 5 15 Vehicles Inefficient Automation",
+      "target_keyword": "logistics carriers managing 5 15 vehicles inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics carriers managing vehicles inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics carriers managing vehicles inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics carriers managing vehicles inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics carriers managing vehicles inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics carriers managing vehicles inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics carriers managing vehicles tool",
+      "logistics carriers managing vehicles tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics carriers managing vehicles tool helps with inefficient fleet maintenance scheduling leading to increased downtime."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

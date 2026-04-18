@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 invoices/month",
+  "offer": "For Etsy sellers processing 5\u201315 invoices/month, missed renewal dates cause service interruptions. We provide timely alerts instead of manual tracking of subscription payments.",
+  "problem": "Etsy sellers miss renewal dates for essential tools, leading to service interruptions.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM 20-50 Etsy sellers with a demo video",
+    "Participate in community forums for Etsy sellers"
+  ],
+  "try_it": "Let users try Monthly renewal alerts and Dashboard for tracking subscriptions on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of reports",
+    "Streamline onboarding steps"
+  ]
+}

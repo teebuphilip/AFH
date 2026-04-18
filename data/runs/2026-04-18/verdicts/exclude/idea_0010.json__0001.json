@@ -1,0 +1,17 @@
+{
+  "idea_text": "Service that reconciles inventory shipments with purchase records and emails weekly variance reports to logistics teams.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 69.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-18T10:04:57.881291",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-18T10:04:57.926119"
+}

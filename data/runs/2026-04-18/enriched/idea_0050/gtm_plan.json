@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant stock managers processing 10\u201320 invoices/month",
+  "offer": "For restaurant stock managers processing 10\u201320 invoices/month, inaccurate inventory tracking causes spoilage and financial loss. We generate monthly reports instead of manual tracking spreadsheets.",
+  "problem": "Inaccurate inventory tracking leads to spoilage and financial loss.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant stock managers",
+    "Indie Hackers posts on inventory tracking solutions",
+    "DM outreach to restaurant stock managers with demo video",
+    "Community forums for restaurant stock management discussions"
+  ],
+  "try_it": "Let users try Monthly inventory report generation and Spoilage alerts",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of the manual workflow",
+    "Collect interviews from target users for feedback",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for quick access",
+    "Default reminder schedules for alerts",
+    "CSV import feature for existing inventory data",
+    "One-click export for simple reports",
+    "Simplify onboarding steps for new users"
+  ]
+}

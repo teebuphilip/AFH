@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics coordinators managing shipments week inefficient tool",
+    "logistics coordinators managing shipments week inefficient automation",
+    "logistics workflow",
+    "shipment tracking",
+    "logistics coordinators managing 10 20 shipments week inefficient tool",
+    "logistics coordinators managing 10 20 shipments week inefficient automation",
+    "logistics coordinators managing 10 20 shipments week inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "logistics workflow software",
+    "logistics workflow platform",
+    "logistics workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to logistics workflow",
+    "best logistics workflow tool",
+    "logistics workflow vs spreadsheets",
+    "logistics workflow checklist",
+    "logistics workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics coordinators processing 10\u201320 shipments/week, inefficient carrier assignments cause increased shipping costs. We recommend carrier assignments based on data analysis instead of manual carrier selection based on past experiences.",
+    "Inefficient carrier assignments leading to increased shipping costs and delayed deliveries.",
+    "logistics coordinators managing 10\u201320 shipments/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Logistics Workflow",
+      "target_keyword": "how to logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Logistics Workflow Tool",
+      "target_keyword": "best logistics workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Vs Spreadsheets",
+      "target_keyword": "logistics workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Checklist",
+      "target_keyword": "logistics workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Pricing",
+      "target_keyword": "logistics workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Software",
+      "target_keyword": "logistics workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Platform",
+      "target_keyword": "logistics workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Solution",
+      "target_keyword": "logistics workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow",
+      "target_keyword": "logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Shipment Tracking",
+      "target_keyword": "shipment tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Coordinators Managing 10 20 Shipments Week Inefficient Tool",
+      "target_keyword": "logistics coordinators managing 10 20 shipments week inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Coordinators Managing 10 20 Shipments Week Inefficient Automation",
+      "target_keyword": "logistics coordinators managing 10 20 shipments week inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics coordinators managing shipments week inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics coordinators managing shipments week inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics coordinators managing shipments week inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics coordinators managing shipments week inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics coordinators managing shipments week inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics coordinators managing shipments week tool",
+      "logistics coordinators managing shipments week tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics coordinators managing shipments week tool helps with inefficient carrier assignments leading to increased shipping costs and delayed deliveries."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

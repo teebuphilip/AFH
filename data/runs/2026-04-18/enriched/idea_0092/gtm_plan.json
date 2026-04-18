@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "small business owners using Gusto for HR management",
+  "offer": "For small business owners processing 5\u201315 employee contracts/month, inefficient manual preparation causes compliance risks. We automate document creation instead of manual document preparation.",
+  "problem": "Inefficient manual preparation of HR documents",
+  "channels_free": [
+    "Post in Reddit communities for small business owners",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to small business owners with demo video",
+    "Community forums for sharing HR management tools"
+  ],
+  "try_it": "Let users try template-based document generation before finalization",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video of manual-first workflow",
+    "Collect interviews from target users",
+    "Offer early-access onboarding for first users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing employee data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

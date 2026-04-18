@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firms manual tool",
+    "accounting firms manual automation",
+    "accounting firms processing 10 20 clients month manual tool",
+    "accounting firms processing 10 20 clients month manual automation",
+    "accounting firms processing 10 20 clients month manual workflow"
+  ],
+  "secondary_keywords": [
+    "accounting firms processing 10 20 clients month manual tool software",
+    "accounting firms processing 10 20 clients month manual tool platform",
+    "accounting firms processing 10 20 clients month manual tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firms processing 10\u201320 clients/month, manual document generation causes delays in compliance reporting. We automate compliance document generation instead of manual document creation using spreadsheets and word processors.",
+    "Manual generation of compliance documents is time-consuming and error-prone.",
+    "accounting firms processing 10\u201320 clients/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accounting Firms Processing 10 20 Clients Month Manual Tool Software",
+      "target_keyword": "accounting firms processing 10 20 clients month manual tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 20 Clients Month Manual Tool Platform",
+      "target_keyword": "accounting firms processing 10 20 clients month manual tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 20 Clients Month Manual Tool Solution",
+      "target_keyword": "accounting firms processing 10 20 clients month manual tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 20 Clients Month Manual Tool",
+      "target_keyword": "accounting firms processing 10 20 clients month manual tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 20 Clients Month Manual Automation",
+      "target_keyword": "accounting firms processing 10 20 clients month manual automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 10 20 Clients Month Manual Workflow",
+      "target_keyword": "accounting firms processing 10 20 clients month manual workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firms manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firms manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firms manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firms manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firms manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firms tool",
+      "accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firms tool helps with manual generation of compliance documents is time-consuming and error-prone."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

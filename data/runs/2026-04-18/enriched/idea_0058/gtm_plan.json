@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR administrators in small to medium-sized marketing agencies processing 5\u201315 payroll adjustments/month",
+  "offer": "For HR administrators in small to medium-sized marketing agencies processing 5\u201315 payroll adjustments/month, manual tracking causes payroll errors. We streamline time off requests and payroll adjustments instead of manual tracking via spreadsheets.",
+  "problem": "Managing employee time off requests and payroll adjustments manually is time-consuming and error-prone.",
+  "channels_free": [
+    "Post in Reddit communities for HR administrators seeking solutions",
+    "Share insights on Indie Hackers about similar workflows",
+    "DM outreach to HR administrators with a demo video",
+    "Engage in community forums where HR administrators discuss tools"
+  ],
+  "try_it": "Let users try the time off request submission form on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video showcasing the manual-first workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for quick access",
+    "Set default reminder schedules for requests",
+    "Allow CSV import for existing employee data",
+    "Enable one-click export of simple reports",
+    "Reduce steps required in onboarding process"
+  ]
+}

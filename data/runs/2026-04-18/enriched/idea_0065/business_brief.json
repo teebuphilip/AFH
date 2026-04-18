@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, inefficient vendor contract management causes missed discounts. We monitor and optimize vendor contracts instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient vendor contract management leading to missed discounts and unfavorable terms.",
+  "features": [
+    "Contract monitoring alerts",
+    "Vendor performance analytics",
+    "Negotiation support templates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient vendor contract management leading to missed discounts and unfavorable terms.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, inefficient vendor contract management causes missed discounts. We monitor and optimize vendor contracts instead of manual tracking.",
+    "current_alternative": "Manual tracking of vendor contracts and terms negotiation.",
+    "must_have_features": [
+      "Contract monitoring alerts",
+      "Vendor performance analytics",
+      "Negotiation support templates"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, inefficient vendor contract management causes missed discounts. We monitor and optimize vendor contracts instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-18",
+    "overlay_score": 63,
+    "arr_score": 62
+  }
+}

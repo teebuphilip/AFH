@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, inconsistent vendor performance causes late orders. We provide automated vendor performance monitoring instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Inconsistent vendor performance leading to late orders and missed discounts.",
+  "features": [
+    "Vendor performance dashboard",
+    "Supplier diversity reporting",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Inconsistent vendor performance leading to late orders and missed discounts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, inconsistent vendor performance causes late orders. We provide automated vendor performance monitoring instead of manual tracking.",
+    "current_alternative": "Manual tracking of vendor performance and ad-hoc reporting.",
+    "must_have_features": [
+      "Vendor performance dashboard",
+      "Supplier diversity reporting",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, inconsistent vendor performance causes late orders. We provide automated vendor performance monitoring instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

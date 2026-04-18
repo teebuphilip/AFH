@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant general managers processing 5\u201315 shift schedules/day tool",
+  "description": "For restaurant general managers processing 5\u201315 shift schedules/day, inaccurate labor cost reporting causes overspending. We provide automated labor cost reports instead of manual calculations and spreadsheets.",
+  "target_audience": "restaurant general managers processing 5\u201315 shift schedules/day",
+  "problem_solved": "Inaccurate labor cost reporting leads to overspending.",
+  "features": [
+    "manual entry of shift schedules",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant general managers processing 5\u201315 shift schedules/day",
+    "primary_problem": "Inaccurate labor cost reporting leads to overspending.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant general managers processing 5\u201315 shift schedules/day, inaccurate labor cost reporting causes overspending. We provide automated labor cost reports instead of manual calculations and spreadsheets.",
+    "current_alternative": "manual calculations and spreadsheets",
+    "must_have_features": [
+      "manual entry of shift schedules",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For restaurant general managers processing 5\u201315 shift schedules/day, inaccurate labor cost reporting causes overspending. We provide automated labor cost reports instead of manual calculations and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

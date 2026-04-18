@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 5\u201315 orders/month",
+  "offer": "For Etsy sellers processing 5\u201315 orders/month, inaccurate inventory levels cause stockouts and lost sales. We provide an inventory forecasting algorithm instead of manual tracking of inventory levels.",
+  "problem": "Inaccurate inventory levels leading to stockouts or overstocking.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Indie Hackers discussions about inventory management",
+    "DM outreach to Etsy sellers with demo video",
+    "Community forums for Etsy sellers sharing tools"
+  ],
+  "try_it": "Let users try sales data analysis on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing inventory data",
+    "One-click export of simple reports",
+    "Streamline onboarding process"
+  ]
+}

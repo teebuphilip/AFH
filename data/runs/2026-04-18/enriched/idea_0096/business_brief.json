@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 bids/month tool",
+  "description": "For construction contractors processing 5\u201315 bids/month, inconsistent bid responses cause lost contracts. We generate standardized estimates and RFP responses instead of manual bid preparation using spreadsheets and templates.",
+  "target_audience": "construction contractors processing 5\u201315 bids/month",
+  "problem_solved": "Inconsistent bid responses lead to lost contracts and wasted time.",
+  "features": [
+    "template library for estimates",
+    "collaboration tools for team input",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 bids/month",
+    "primary_problem": "Inconsistent bid responses lead to lost contracts and wasted time.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 bids/month, inconsistent bid responses cause lost contracts. We generate standardized estimates and RFP responses instead of manual bid preparation using spreadsheets and templates.",
+    "current_alternative": "manual bid preparation using spreadsheets and templates",
+    "must_have_features": [
+      "template library for estimates",
+      "collaboration tools for team input",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 bids/month, inconsistent bid responses cause lost contracts. We generate standardized estimates and RFP responses instead of manual bid preparation using spreadsheets and templates.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-18",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

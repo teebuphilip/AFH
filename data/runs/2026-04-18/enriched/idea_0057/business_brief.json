@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "amazon sellers processing 10\u201320 shipments/month tool",
+  "description": "For amazon sellers processing 10\u201320 shipments/month, high shipping costs cause cash flow gaps. We automate shipping data aggregation and cost calculation instead of manual tracking and reporting of shipping data.",
+  "target_audience": "amazon sellers processing 10\u201320 shipments/month",
+  "problem_solved": "High shipping costs and lack of detailed logistics reporting.",
+  "features": [
+    "shipping cost calculator",
+    "data aggregation dashboard",
+    "report generation tool"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "amazon sellers processing 10\u201320 shipments/month",
+    "primary_problem": "High shipping costs and lack of detailed logistics reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For amazon sellers processing 10\u201320 shipments/month, high shipping costs cause cash flow gaps. We automate shipping data aggregation and cost calculation instead of manual tracking and reporting of shipping data.",
+    "current_alternative": "manual tracking and reporting of shipping data",
+    "must_have_features": [
+      "shipping cost calculator",
+      "data aggregation dashboard",
+      "report generation tool"
+    ]
+  },
+  "one_liner": "For amazon sellers processing 10\u201320 shipments/month, high shipping costs cause cash flow gaps. We automate shipping data aggregation and cost calculation instead of manual tracking and reporting of shipping data.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-18",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

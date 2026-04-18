@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual generation of financial statements causes late client reports. We automate the generation and distribution of reports instead of manual spreadsheet preparation and email distribution.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Manual generation of financial statements is time-consuming and prone to errors.",
+  "features": [
+    "template-based report generation",
+    "email distribution list management",
+    "KPI dashboard creation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Manual generation of financial statements is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual generation of financial statements causes late client reports. We automate the generation and distribution of reports instead of manual spreadsheet preparation and email distribution.",
+    "current_alternative": "manual spreadsheet preparation and email distribution",
+    "must_have_features": [
+      "template-based report generation",
+      "email distribution list management",
+      "KPI dashboard creation"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual generation of financial statements causes late client reports. We automate the generation and distribution of reports instead of manual spreadsheet preparation and email distribution.",
+  "source": {
+    "idea_id": "idea_0062",
+    "run_date": "2026-04-18",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

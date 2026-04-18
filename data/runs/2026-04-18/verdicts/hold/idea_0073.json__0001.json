@@ -1,0 +1,15 @@
+{
+  "idea_text": "A service that monitors and optimizes vendor performance, provides supplier diversity reporting, and alerts the procurement team when corrective actions are needed.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-18T10:04:57.887190",
+  "verdict_source": "overlay_score"
+}

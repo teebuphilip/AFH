@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accountants at small firms processing 5\u201315 tax documents/month tool",
+  "description": "For accountants at small firms processing 5\u201315 tax documents/month, inefficient tracking causes missed deadlines. We provide automated issue flagging instead of manual tracking and spreadsheets.",
+  "target_audience": "accountants at small firms processing 5\u201315 tax documents/month",
+  "problem_solved": "Inability to efficiently track tax documentation and identify issues in a timely manner.",
+  "features": [
+    "manual entry of tax documents",
+    "issue flagging system",
+    "report generation for tax documentation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accountants at small firms processing 5\u201315 tax documents/month",
+    "primary_problem": "Inability to efficiently track tax documentation and identify issues in a timely manner.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accountants at small firms processing 5\u201315 tax documents/month, inefficient tracking causes missed deadlines. We provide automated issue flagging instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "manual entry of tax documents",
+      "issue flagging system",
+      "report generation for tax documentation"
+    ]
+  },
+  "one_liner": "For accountants at small firms processing 5\u201315 tax documents/month, inefficient tracking causes missed deadlines. We provide automated issue flagging instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-18",
+    "overlay_score": 62,
+    "arr_score": 63
+  }
+}

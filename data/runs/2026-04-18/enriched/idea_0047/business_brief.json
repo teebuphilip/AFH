@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 eviction notices/month tool",
+  "description": "For property managers processing 5\u201315 eviction notices/month, inefficient preparation causes legal delays. We automate the summary process instead of manual preparation using spreadsheets.",
+  "target_audience": "property managers processing 5\u201315 eviction notices/month",
+  "problem_solved": "Inefficient preparation of eviction notices and rent arrears summaries.",
+  "features": [
+    "template-based eviction notice generation",
+    "monthly rent arrears summary report",
+    "manual entry for tenant details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 eviction notices/month",
+    "primary_problem": "Inefficient preparation of eviction notices and rent arrears summaries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 eviction notices/month, inefficient preparation causes legal delays. We automate the summary process instead of manual preparation using spreadsheets.",
+    "current_alternative": "manual preparation of eviction notices using spreadsheets",
+    "must_have_features": [
+      "template-based eviction notice generation",
+      "monthly rent arrears summary report",
+      "manual entry for tenant details"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 eviction notices/month, inefficient preparation causes legal delays. We automate the summary process instead of manual preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-18",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

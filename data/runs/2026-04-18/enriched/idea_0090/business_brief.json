@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical office administrators in small clinics processing 5\u201315 patient intakes/month tool",
+  "description": "For medical office administrators in small clinics processing 5\u201315 patient intakes/month, inefficient manual processing causes delays in patient care. We automate onboarding instead of manual data entry into electronic health records.",
+  "target_audience": "medical office administrators in small clinics processing 5\u201315 patient intakes/month",
+  "problem_solved": "Inefficient manual processing of patient intake forms.",
+  "features": [
+    "data validation checks",
+    "user-friendly interface for manual adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical office administrators in small clinics processing 5\u201315 patient intakes/month",
+    "primary_problem": "Inefficient manual processing of patient intake forms.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical office administrators in small clinics processing 5\u201315 patient intakes/month, inefficient manual processing causes delays in patient care. We automate onboarding instead of manual data entry into electronic health records.",
+    "current_alternative": "manual data entry into electronic health records",
+    "must_have_features": [
+      "data validation checks",
+      "user-friendly interface for manual adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical office administrators in small clinics processing 5\u201315 patient intakes/month, inefficient manual processing causes delays in patient care. We automate onboarding instead of manual data entry into electronic health records.",
+  "source": {
+    "idea_id": "idea_0090",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

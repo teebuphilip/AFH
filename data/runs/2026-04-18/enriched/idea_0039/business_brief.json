@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics operations directors managing fleets of 10-50 vehicles tool",
+  "description": "For logistics operations directors managing fleets of 10-50 vehicles, inefficient fuel consumption tracking causes unexpected costs. We monitor fuel consumption and flag anomalies instead of manual tracking through spreadsheets.",
+  "target_audience": "logistics operations directors managing fleets of 10-50 vehicles",
+  "problem_solved": "inefficient fuel consumption tracking leading to unexpected costs",
+  "features": [
+    "real-time fuel consumption monitoring",
+    "anomaly detection alerts",
+    "simple dashboard for tracking trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics operations directors managing fleets of 10-50 vehicles",
+    "primary_problem": "inefficient fuel consumption tracking leading to unexpected costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics operations directors managing fleets of 10-50 vehicles, inefficient fuel consumption tracking causes unexpected costs. We monitor fuel consumption and flag anomalies instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking of fuel usage through spreadsheets",
+    "must_have_features": [
+      "real-time fuel consumption monitoring",
+      "anomaly detection alerts",
+      "simple dashboard for tracking trends"
+    ]
+  },
+  "one_liner": "For logistics operations directors managing fleets of 10-50 vehicles, inefficient fuel consumption tracking causes unexpected costs. We monitor fuel consumption and flag anomalies instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0039",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

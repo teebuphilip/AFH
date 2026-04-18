@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized accounting firms managing 5-15 employees tool",
+  "description": "For HR managers in small to medium-sized accounting firms processing 5-15 employees, manual tracking causes missed training deadlines. We automate tracking instead of manual tracking through spreadsheets.",
+  "target_audience": "HR managers in small to medium-sized accounting firms managing 5-15 employees",
+  "problem_solved": "Tracking employee training and certification deadlines",
+  "features": [
+    "Training requirement tracking",
+    "Certification status monitoring",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized accounting firms managing 5-15 employees",
+    "primary_problem": "Tracking employee training and certification deadlines",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized accounting firms processing 5-15 employees, manual tracking causes missed training deadlines. We automate tracking instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "Training requirement tracking",
+      "Certification status monitoring",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized accounting firms processing 5-15 employees, manual tracking causes missed training deadlines. We automate tracking instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

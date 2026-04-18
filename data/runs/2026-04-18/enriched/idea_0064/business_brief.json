@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, inconsistent invoicing causes cash flow gaps. We automate invoice generation instead of manual invoicing through spreadsheets.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Inconsistent invoicing leads to cash flow gaps.",
+  "features": [
+    "customizable invoice templates",
+    "simple reporting for outstanding invoices",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Inconsistent invoicing leads to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, inconsistent invoicing causes cash flow gaps. We automate invoice generation instead of manual invoicing through spreadsheets.",
+    "current_alternative": "manual invoicing through spreadsheets",
+    "must_have_features": [
+      "customizable invoice templates",
+      "simple reporting for outstanding invoices",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, inconsistent invoicing causes cash flow gaps. We automate invoice generation instead of manual invoicing through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

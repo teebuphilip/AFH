@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201315 routes/day tool",
+  "description": "For logistics carriers processing 5\u201315 routes/day, inefficient route planning causes increased fuel costs. We optimize fleet utilization instead of manual route planning and optimization tools.",
+  "target_audience": "logistics carriers managing 5\u201315 routes/day",
+  "problem_solved": "inefficient route planning leading to increased fuel costs",
+  "features": [
+    "real-time fleet monitoring",
+    "route optimization suggestions",
+    "utilization reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201315 routes/day",
+    "primary_problem": "inefficient route planning leading to increased fuel costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 5\u201315 routes/day, inefficient route planning causes increased fuel costs. We optimize fleet utilization instead of manual route planning and optimization tools.",
+    "current_alternative": "manual route planning and optimization tools",
+    "must_have_features": [
+      "real-time fleet monitoring",
+      "route optimization suggestions",
+      "utilization reporting"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 5\u201315 routes/day, inefficient route planning causes increased fuel costs. We optimize fleet utilization instead of manual route planning and optimization tools.",
+  "source": {
+    "idea_id": "idea_0079",
+    "run_date": "2026-04-18",
+    "overlay_score": 70,
+    "arr_score": 69
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility bills/month tool",
+  "description": "For property managers processing 5\u201315 utility bills/month, inaccurate billing causes late fees and service interruptions. We monitor utility bill payments and flag anomalies instead of manual tracking of utility bills.",
+  "target_audience": "property managers processing 5\u201315 utility bills/month",
+  "problem_solved": "Inaccurate utility bill payments leading to late fees and service interruptions.",
+  "features": [
+    "monthly anomaly reporting",
+    "manual entry for utility bills",
+    "alert system for flagged anomalies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility bills/month",
+    "primary_problem": "Inaccurate utility bill payments leading to late fees and service interruptions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 utility bills/month, inaccurate billing causes late fees and service interruptions. We monitor utility bill payments and flag anomalies instead of manual tracking of utility bills.",
+    "current_alternative": "manual tracking of utility bills",
+    "must_have_features": [
+      "monthly anomaly reporting",
+      "manual entry for utility bills",
+      "alert system for flagged anomalies"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 utility bills/month, inaccurate billing causes late fees and service interruptions. We monitor utility bill payments and flag anomalies instead of manual tracking of utility bills.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-18",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

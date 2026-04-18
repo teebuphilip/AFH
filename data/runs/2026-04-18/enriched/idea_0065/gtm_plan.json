@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201320 invoices/month",
+  "offer": "For Amazon sellers processing 10\u201320 invoices/month, inefficient vendor contract management causes missed discounts. We monitor and optimize vendor contracts instead of manual tracking.",
+  "problem": "Inefficient vendor contract management leading to missed discounts and unfavorable terms.",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Engage on Indie Hackers about vendor management",
+    "DM outreach to Amazon sellers with demo video",
+    "Share insights in Amazon seller forums and groups"
+  ],
+  "try_it": "Let users try contract monitoring alerts on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the solution",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing vendor data",
+    "Enable one-click export of reports",
+    "Streamline onboarding process steps"
+  ]
+}

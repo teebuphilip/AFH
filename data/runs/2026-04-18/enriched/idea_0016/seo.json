@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics managers at e-commerce companies inconsistent tool",
+    "logistics managers at e-commerce companies inconsistent automation",
+    "logistics workflow",
+    "shipment tracking",
+    "logistics managers at e-commerce companies processing 50 100 shipments week inconsistent tool",
+    "logistics managers at e-commerce companies processing 50 100 shipments week inconsistent automation",
+    "logistics managers at e-commerce companies processing 50 100 shipments week inconsistent workflow"
+  ],
+  "secondary_keywords": [
+    "logistics workflow software",
+    "logistics workflow platform",
+    "logistics workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to logistics workflow",
+    "best logistics workflow tool",
+    "logistics workflow vs spreadsheets",
+    "logistics workflow checklist",
+    "logistics workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics managers at e-commerce companies processing 50\u2013100 shipments/week, inconsistent shipping performance causes delayed deliveries. We provide automated performance monitoring instead of manual tracking through spreadsheets.",
+    "Inconsistent shipping performance leading to delayed deliveries.",
+    "logistics managers at e-commerce companies processing 50\u2013100 shipments/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Logistics Workflow",
+      "target_keyword": "how to logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Logistics Workflow Tool",
+      "target_keyword": "best logistics workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Vs Spreadsheets",
+      "target_keyword": "logistics workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Logistics Workflow Checklist",
+      "target_keyword": "logistics workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Pricing",
+      "target_keyword": "logistics workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Software",
+      "target_keyword": "logistics workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Platform",
+      "target_keyword": "logistics workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow Solution",
+      "target_keyword": "logistics workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Workflow",
+      "target_keyword": "logistics workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Shipment Tracking",
+      "target_keyword": "shipment tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Managers At E-Commerce Companies Processing 50 100 Shipments Week Inconsistent Tool",
+      "target_keyword": "logistics managers at e-commerce companies processing 50 100 shipments week inconsistent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Managers At E-Commerce Companies Processing 50 100 Shipments Week Inconsistent Automation",
+      "target_keyword": "logistics managers at e-commerce companies processing 50 100 shipments week inconsistent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics managers at e-commerce companies inconsistent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics managers at e-commerce companies inconsistent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics managers at e-commerce companies inconsistent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics managers at e-commerce companies inconsistent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics managers at e-commerce companies inconsistent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics managers at e-commerce companies tool",
+      "logistics managers at e-commerce companies tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics managers at e-commerce companies tool helps with inconsistent shipping performance leading to delayed deliveries."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

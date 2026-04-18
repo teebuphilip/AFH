@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "construction foremen managing projects week inability tool",
+    "construction foremen managing projects week inability automation",
+    "construction foremen managing 5 10 projects week inability tool",
+    "construction foremen managing 5 10 projects week inability automation",
+    "construction foremen managing 5 10 projects week inability workflow"
+  ],
+  "secondary_keywords": [
+    "construction foremen managing 5 10 projects week inability tool software",
+    "construction foremen managing 5 10 projects week inability tool platform",
+    "construction foremen managing 5 10 projects week inability tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For construction foremen processing 5\u201310 projects/week, inefficient tracking causes delays in project timelines. We provide automated weekly progress and materials usage reports instead of manual reporting and spreadsheets.",
+    "Inability to track materials usage and project progress in real-time.",
+    "construction foremen managing 5\u201310 projects/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Construction Foremen Managing 5 10 Projects Week Inability Tool Software",
+      "target_keyword": "construction foremen managing 5 10 projects week inability tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Foremen Managing 5 10 Projects Week Inability Tool Platform",
+      "target_keyword": "construction foremen managing 5 10 projects week inability tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Foremen Managing 5 10 Projects Week Inability Tool Solution",
+      "target_keyword": "construction foremen managing 5 10 projects week inability tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Foremen Managing 5 10 Projects Week Inability Tool",
+      "target_keyword": "construction foremen managing 5 10 projects week inability tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Foremen Managing 5 10 Projects Week Inability Automation",
+      "target_keyword": "construction foremen managing 5 10 projects week inability automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Foremen Managing 5 10 Projects Week Inability Workflow",
+      "target_keyword": "construction foremen managing 5 10 projects week inability workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "construction foremen managing projects week inability tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "construction foremen managing projects week inability tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "construction foremen managing projects week inability tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "construction foremen managing projects week inability tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "construction foremen managing projects week inability tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | construction foremen managing projects week tool",
+      "construction foremen managing projects week tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "construction foremen managing projects week tool helps with inability to track materials usage and project progress in real-time."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

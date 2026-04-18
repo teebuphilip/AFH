@@ -1,0 +1,15 @@
+{
+  "idea_text": "Freight brokerage analytics that monitors carrier performance and identifies cost savings opportunities for logistics brokers.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 50,
+    "competition_inverse": 55
+  },
+  "overlay_score": 63,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-18T10:04:57.888746",
+  "verdict_source": "overlay_score"
+}

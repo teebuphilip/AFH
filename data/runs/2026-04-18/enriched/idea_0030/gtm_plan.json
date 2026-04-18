@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant accountants processing 20-50 receipts/month",
+  "offer": "For restaurant accountants processing 20-50 invoices/month, time-consuming tax preparation causes late submissions. We convert daily sales receipts into tax submission formats instead of manual entry into tax software.",
+  "problem": "Time-consuming tax preparation from daily sales receipts.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant accountants",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to restaurant accountants with demo video",
+    "Community forums for sharing accounting tools"
+  ],
+  "try_it": "Let users try basic receipt categorization and export on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

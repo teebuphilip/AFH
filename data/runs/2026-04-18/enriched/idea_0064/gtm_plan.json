@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "freelancers processing 5\u201315 invoices/month",
+  "offer": "For freelancers processing 5\u201315 invoices/month, inconsistent invoicing causes cash flow gaps. We streamline invoice generation instead of manual invoicing through spreadsheets.",
+  "problem": "Inconsistent invoicing leads to cash flow gaps.",
+  "channels_free": [
+    "Post in Reddit communities for freelancers seeking invoicing help",
+    "Indie Hackers discussions on invoicing workflows",
+    "DM outreach to 20-50 freelancers with demo video",
+    "Community forums where freelancers share invoicing tools"
+  ],
+  "try_it": "Let users try customizable invoice templates and reporting for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual invoicing process",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing invoices",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 vacation rentals tool",
+  "description": "For property managers handling 5\u201315 vacation rentals, inefficient booking and guest communication causes late responses and missed bookings. We streamline these processes instead of manual tracking and communication via email and spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 vacation rentals",
+  "problem_solved": "Inefficient booking and guest communication processes",
+  "features": [
+    "cleaning schedule management",
+    "guest communication templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 vacation rentals",
+    "primary_problem": "Inefficient booking and guest communication processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 vacation rentals, inefficient booking and guest communication causes late responses and missed bookings. We streamline these processes instead of manual tracking and communication via email and spreadsheets.",
+    "current_alternative": "manual tracking and communication via email and spreadsheets",
+    "must_have_features": [
+      "cleaning schedule management",
+      "guest communication templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 vacation rentals, inefficient booking and guest communication causes late responses and missed bookings. We streamline these processes instead of manual tracking and communication via email and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-18",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

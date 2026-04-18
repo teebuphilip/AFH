@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Operations Manager for Shopify Plus stores processing 10\u201320 commission reports/month tool",
+  "description": "For Sales Operations Managers processing 10\u201320 commission reports/month, manual data entry causes delayed payouts. We automate commission data consolidation instead of manual spreadsheets and email communication.",
+  "target_audience": "Sales Operations Manager for Shopify Plus stores processing 10\u201320 commission reports/month",
+  "problem_solved": "Inefficient and error-prone commission data consolidation and reporting.",
+  "features": [
+    "Data cleaning and consolidation tool",
+    "Monthly payout report generation",
+    "User-friendly dashboard for tracking commissions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Operations Manager for Shopify Plus stores processing 10\u201320 commission reports/month",
+    "primary_problem": "Inefficient and error-prone commission data consolidation and reporting.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Managers processing 10\u201320 commission reports/month, manual data entry causes delayed payouts. We automate commission data consolidation instead of manual spreadsheets and email communication.",
+    "current_alternative": "Manual spreadsheets and email communication for commission tracking.",
+    "must_have_features": [
+      "Data cleaning and consolidation tool",
+      "Monthly payout report generation",
+      "User-friendly dashboard for tracking commissions"
+    ]
+  },
+  "one_liner": "For Sales Operations Managers processing 10\u201320 commission reports/month, manual data entry causes delayed payouts. We automate commission data consolidation instead of manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-18",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

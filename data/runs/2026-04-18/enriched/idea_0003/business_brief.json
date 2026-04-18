@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR payroll teams in accounting firms processing 5\u201315 expense reports/month tool",
+  "description": "For HR payroll teams in accounting firms processing 5\u201315 expense reports/month, manual report generation causes delays in reimbursements. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "HR payroll teams in accounting firms processing 5\u201315 expense reports/month",
+  "problem_solved": "Manual generation of expense reimbursement reports leads to delays.",
+  "features": [
+    "User-friendly report generation interface",
+    "Customizable expense categories",
+    "Export options for different formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR payroll teams in accounting firms processing 5\u201315 expense reports/month",
+    "primary_problem": "Manual generation of expense reimbursement reports leads to delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR payroll teams in accounting firms processing 5\u201315 expense reports/month, manual report generation causes delays in reimbursements. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "Manual report generation using spreadsheets",
+    "must_have_features": [
+      "User-friendly report generation interface",
+      "Customizable expense categories",
+      "Export options for different formats"
+    ]
+  },
+  "one_liner": "For HR payroll teams in accounting firms processing 5\u201315 expense reports/month, manual report generation causes delays in reimbursements. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-18",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

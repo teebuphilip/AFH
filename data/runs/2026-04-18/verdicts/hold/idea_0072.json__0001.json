@@ -1,0 +1,15 @@
+{
+  "idea_text": "A system that converts employee data into customized reports, analytics, and dashboards for the human resources department.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 50,
+    "competition_inverse": 55
+  },
+  "overlay_score": 63,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-18T10:04:57.887110",
+  "verdict_source": "overlay_score"
+}

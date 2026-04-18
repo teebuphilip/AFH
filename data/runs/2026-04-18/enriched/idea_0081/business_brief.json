@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm paralegals processing 5\u201315 contracts/month tool",
+  "description": "For law firm paralegals processing 5\u201315 contracts/month, inefficient management of contract signatures causes delays in contract finalization. We digitize and schedule signatures instead of manual tracking and scheduling of signatures via email.",
+  "target_audience": "law firm paralegals processing 5\u201315 contracts/month",
+  "problem_solved": "Inefficient management of contract signatures leads to delays.",
+  "features": [
+    "digital signature capture",
+    "contract status tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm paralegals processing 5\u201315 contracts/month",
+    "primary_problem": "Inefficient management of contract signatures leads to delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firm paralegals processing 5\u201315 contracts/month, inefficient management of contract signatures causes delays in contract finalization. We digitize and schedule signatures instead of manual tracking and scheduling of signatures via email.",
+    "current_alternative": "manual tracking and scheduling of signatures via email",
+    "must_have_features": [
+      "digital signature capture",
+      "contract status tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firm paralegals processing 5\u201315 contracts/month, inefficient management of contract signatures causes delays in contract finalization. We digitize and schedule signatures instead of manual tracking and scheduling of signatures via email.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

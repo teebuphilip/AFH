@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201350 clients tool",
+  "description": "For accounting firms managing 10\u201350 clients, daily discrepancies cause late financial reporting. We automate bank statement matching instead of manual reconciliation processes.",
+  "target_audience": "accounting firms managing 10\u201350 clients",
+  "problem_solved": "discrepancies between bank statements and internal records",
+  "features": [
+    "daily discrepancy alerts",
+    "manual transaction matching",
+    "user-friendly dashboard for tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201350 clients",
+    "primary_problem": "discrepancies between bank statements and internal records",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201350 clients, daily discrepancies cause late financial reporting. We automate bank statement matching instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "daily discrepancy alerts",
+      "manual transaction matching",
+      "user-friendly dashboard for tracking"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201350 clients, daily discrepancies cause late financial reporting. We automate bank statement matching instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-18",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

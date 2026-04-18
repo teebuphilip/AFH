@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "clinic managers in medical clinics processing 20\u201350 invoices/month tool",
+  "description": "For clinic managers in medical clinics processing 20\u201350 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual tracking and reconciliation processes.",
+  "target_audience": "clinic managers in medical clinics processing 20\u201350 invoices/month",
+  "problem_solved": "manual reconciliation of patient co-pay collections with billing records",
+  "features": [
+    "manual entry of patient co-pay data",
+    "report generation for reconciliation",
+    "notification system for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "clinic managers in medical clinics processing 20\u201350 invoices/month",
+    "primary_problem": "manual reconciliation of patient co-pay collections with billing records",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For clinic managers in medical clinics processing 20\u201350 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual tracking and reconciliation processes.",
+    "current_alternative": "manual tracking and reconciliation processes",
+    "must_have_features": [
+      "manual entry of patient co-pay data",
+      "report generation for reconciliation",
+      "notification system for discrepancies"
+    ]
+  },
+  "one_liner": "For clinic managers in medical clinics processing 20\u201350 invoices/month, manual reconciliation causes cash flow gaps. We automate reconciliation instead of manual tracking and reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

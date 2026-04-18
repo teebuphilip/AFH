@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hotel event managers processing 5\u201315 events/month tool",
+  "description": "For hotel event managers processing 5\u201315 events/month, inefficient manual processes cause late orders and scheduling conflicts. We automate event planning instead of manual spreadsheets and email communication.",
+  "target_audience": "hotel event managers processing 5\u201315 events/month",
+  "problem_solved": "Inefficient manual processes for catering orders and staff scheduling",
+  "features": [
+    "staff scheduling tool",
+    "event timeline management",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hotel event managers processing 5\u201315 events/month",
+    "primary_problem": "Inefficient manual processes for catering orders and staff scheduling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hotel event managers processing 5\u201315 events/month, inefficient manual processes cause late orders and scheduling conflicts. We automate event planning instead of manual spreadsheets and email communication.",
+    "current_alternative": "manual spreadsheets and email communication",
+    "must_have_features": [
+      "staff scheduling tool",
+      "event timeline management",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For hotel event managers processing 5\u201315 events/month, inefficient manual processes cause late orders and scheduling conflicts. We automate event planning instead of manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-18",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

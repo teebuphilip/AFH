@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics fleet managers processing 5\u201315 vehicles/month tool",
+  "description": "For logistics fleet managers processing 5\u201315 vehicles/month, overdue inspections cause compliance issues and potential fines. We monitor inspection logs and flag overdue checks instead of manual tracking of inspection logs.",
+  "target_audience": "logistics fleet managers processing 5\u201315 vehicles/month",
+  "problem_solved": "Overdue vehicle inspections leading to compliance issues and potential fines.",
+  "features": [
+    "manual log entry for inspections",
+    "dashboard for inspection status overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics fleet managers processing 5\u201315 vehicles/month",
+    "primary_problem": "Overdue vehicle inspections leading to compliance issues and potential fines.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For logistics fleet managers processing 5\u201315 vehicles/month, overdue inspections cause compliance issues and potential fines. We monitor inspection logs and flag overdue checks instead of manual tracking of inspection logs.",
+    "current_alternative": "manual tracking of inspection logs",
+    "must_have_features": [
+      "manual log entry for inspections",
+      "dashboard for inspection status overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics fleet managers processing 5\u201315 vehicles/month, overdue inspections cause compliance issues and potential fines. We monitor inspection logs and flag overdue checks instead of manual tracking of inspection logs.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

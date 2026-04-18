@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 50\u2013100 orders/month tool",
+  "description": "For Amazon sellers processing 50\u2013100 orders/month, stockouts cause lost sales. We provide automated inventory alerts instead of manual inventory tracking and alerts via email.",
+  "target_audience": "Amazon sellers processing 50\u2013100 orders/month",
+  "problem_solved": "Stockouts leading to lost sales",
+  "features": [
+    "Real-time inventory level monitoring",
+    "Threshold alert notifications",
+    "Sales data tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 50\u2013100 orders/month",
+    "primary_problem": "Stockouts leading to lost sales",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 50\u2013100 orders/month, stockouts cause lost sales. We provide automated inventory alerts instead of manual inventory tracking and alerts via email.",
+    "current_alternative": "Manual inventory tracking and alerts via email",
+    "must_have_features": [
+      "Real-time inventory level monitoring",
+      "Threshold alert notifications",
+      "Sales data tracking"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 50\u2013100 orders/month, stockouts cause lost sales. We provide automated inventory alerts instead of manual inventory tracking and alerts via email.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

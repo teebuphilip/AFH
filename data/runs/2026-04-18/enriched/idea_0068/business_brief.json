@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "project managers in marketing agencies processing 5\u201315 projects/month tool",
+  "description": "For project managers in marketing agencies processing 5\u201315 projects/month, inefficient report generation causes missed deadlines. We provide customized reports and dashboards instead of manual report creation using spreadsheets.",
+  "target_audience": "project managers in marketing agencies processing 5\u201315 projects/month",
+  "problem_solved": "inefficient report generation and forecasting",
+  "features": [
+    "customizable report templates",
+    "data visualization tools",
+    "forecasting capabilities"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "project managers in marketing agencies processing 5\u201315 projects/month",
+    "primary_problem": "inefficient report generation and forecasting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For project managers in marketing agencies processing 5\u201315 projects/month, inefficient report generation causes missed deadlines. We provide customized reports and dashboards instead of manual report creation using spreadsheets.",
+    "current_alternative": "manual report creation using spreadsheets",
+    "must_have_features": [
+      "customizable report templates",
+      "data visualization tools",
+      "forecasting capabilities"
+    ]
+  },
+  "one_liner": "For project managers in marketing agencies processing 5\u201315 projects/month, inefficient report generation causes missed deadlines. We provide customized reports and dashboards instead of manual report creation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-18",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

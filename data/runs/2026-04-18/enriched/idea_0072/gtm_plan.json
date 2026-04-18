@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small to medium-sized businesses using BambooHR with 50-200 employees",
+  "offer": "For HR managers in small to medium-sized businesses using BambooHR processing 50-200 employee records, inefficient reporting causes delayed decision-making. We provide customized reports and dashboards instead of manual spreadsheets and basic reporting tools.",
+  "problem": "Inefficient reporting and analytics on employee data",
+  "channels_free": [
+    "Post in Reddit communities for HR managers seeking solutions",
+    "Engage in Indie Hackers discussions on similar reporting issues",
+    "DM outreach to HR managers with demo video links",
+    "Participate in forums where HR managers share tools"
+  ],
+  "try_it": "Let users try Custom report generation and Dashboard creation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with clear CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV imports for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

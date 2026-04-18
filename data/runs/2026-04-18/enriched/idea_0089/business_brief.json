@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers overseeing 5\u201315 rental units tool",
+  "description": "For property managers overseeing 5\u201315 rental units, inconsistent equipment maintenance causes tenant dissatisfaction. We provide a preventative maintenance tracker instead of manual tracking of maintenance schedules and work orders.",
+  "target_audience": "property managers overseeing 5\u201315 rental units",
+  "problem_solved": "Inconsistent equipment maintenance leading to tenant dissatisfaction",
+  "features": [
+    "manual scheduling of inspections",
+    "work order generation",
+    "reminder notifications for upcoming inspections"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers overseeing 5\u201315 rental units",
+    "primary_problem": "Inconsistent equipment maintenance leading to tenant dissatisfaction",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers overseeing 5\u201315 rental units, inconsistent equipment maintenance causes tenant dissatisfaction. We provide a preventative maintenance tracker instead of manual tracking of maintenance schedules and work orders.",
+    "current_alternative": "manual tracking of maintenance schedules and work orders",
+    "must_have_features": [
+      "manual scheduling of inspections",
+      "work order generation",
+      "reminder notifications for upcoming inspections"
+    ]
+  },
+  "one_liner": "For property managers overseeing 5\u201315 rental units, inconsistent equipment maintenance causes tenant dissatisfaction. We provide a preventative maintenance tracker instead of manual tracking of maintenance schedules and work orders.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-18",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

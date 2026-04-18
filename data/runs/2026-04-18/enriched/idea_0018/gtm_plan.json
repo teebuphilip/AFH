@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "procurement managers in mid-sized e-commerce companies using Shopify, processing 10\u201320 invoices/month",
+  "offer": "For procurement managers in mid-sized e-commerce companies using Shopify processing 10\u201320 invoices/month, inconsistent vendor performance tracking causes missed discounts and late orders. We compile vendor performance scorecards and email monthly summaries instead of manual tracking through spreadsheets.",
+  "problem": "Inconsistent vendor performance tracking leads to missed discounts and late orders.",
+  "channels_free": [
+    "Post in Reddit communities for procurement managers",
+    "Share insights on Indie Hackers about vendor tracking",
+    "DM outreach to procurement managers with demo video",
+    "Engage in community forums for procurement tools"
+  ],
+  "try_it": "Let users try monthly performance scorecard generation and manual input option for vendor data on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

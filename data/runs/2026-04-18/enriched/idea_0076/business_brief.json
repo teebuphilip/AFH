@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance brokers processing 10\u201320 claims/month tool",
+  "description": "For insurance brokers processing 10\u201320 claims/month, disorganized document management causes delayed claims processing. We automate document tracking and filing instead of manual filing and tracking of documents.",
+  "target_audience": "insurance brokers processing 10\u201320 claims/month",
+  "problem_solved": "Delayed claims processing due to disorganized document management.",
+  "features": [
+    "scheduled document reminders",
+    "status tracking for claims",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance brokers processing 10\u201320 claims/month",
+    "primary_problem": "Delayed claims processing due to disorganized document management.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance brokers processing 10\u201320 claims/month, disorganized document management causes delayed claims processing. We automate document tracking and filing instead of manual filing and tracking of documents.",
+    "current_alternative": "manual filing and tracking of documents",
+    "must_have_features": [
+      "scheduled document reminders",
+      "status tracking for claims",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance brokers processing 10\u201320 claims/month, disorganized document management causes delayed claims processing. We automate document tracking and filing instead of manual filing and tracking of documents.",
+  "source": {
+    "idea_id": "idea_0076",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

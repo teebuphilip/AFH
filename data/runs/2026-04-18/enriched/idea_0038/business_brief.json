@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "legal firm payroll managers processing 5\u201315 employees/month tool",
+  "description": "For legal firm payroll managers processing 5\u201315 employees/month, manual preparation of tax reports causes late submissions and potential penalties. We automate report preparation instead of manual preparation using spreadsheets.",
+  "target_audience": "legal firm payroll managers processing 5\u201315 employees/month",
+  "problem_solved": "Inaccurate tax withholding reports leading to potential penalties.",
+  "features": [
+    "user-friendly interface",
+    "monthly reminder notifications",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "legal firm payroll managers processing 5\u201315 employees/month",
+    "primary_problem": "Inaccurate tax withholding reports leading to potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For legal firm payroll managers processing 5\u201315 employees/month, manual preparation of tax reports causes late submissions and potential penalties. We automate report preparation instead of manual preparation using spreadsheets.",
+    "current_alternative": "manual preparation of tax reports using spreadsheets",
+    "must_have_features": [
+      "user-friendly interface",
+      "monthly reminder notifications",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For legal firm payroll managers processing 5\u201315 employees/month, manual preparation of tax reports causes late submissions and potential penalties. We automate report preparation instead of manual preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-18",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

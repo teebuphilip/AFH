@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "bookkeepers managing clients using quickbooks difficulty tool",
+    "bookkeepers managing clients using quickbooks difficulty automation",
+    "bookkeepers managing 5 15 clients using quickbooks difficulty tool",
+    "bookkeepers managing 5 15 clients using quickbooks difficulty automation",
+    "bookkeepers managing 5 15 clients using quickbooks difficulty workflow"
+  ],
+  "secondary_keywords": [
+    "bookkeepers managing 5 15 clients using quickbooks difficulty tool software",
+    "bookkeepers managing 5 15 clients using quickbooks difficulty tool platform",
+    "bookkeepers managing 5 15 clients using quickbooks difficulty tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For bookkeepers managing 5\u201315 clients using QuickBooks, inconsistent transaction records cause cash flow gaps. We provide an automated reconciliation service instead of manual reconciliation processes.",
+    "Difficulty in reconciling transactions across multiple platforms",
+    "bookkeepers managing 5\u201315 clients using QuickBooks"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Bookkeepers Managing 5 15 Clients Using Quickbooks Difficulty Tool Software",
+      "target_keyword": "bookkeepers managing 5 15 clients using quickbooks difficulty tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Bookkeepers Managing 5 15 Clients Using Quickbooks Difficulty Tool Platform",
+      "target_keyword": "bookkeepers managing 5 15 clients using quickbooks difficulty tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Bookkeepers Managing 5 15 Clients Using Quickbooks Difficulty Tool Solution",
+      "target_keyword": "bookkeepers managing 5 15 clients using quickbooks difficulty tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Bookkeepers Managing 5 15 Clients Using Quickbooks Difficulty Tool",
+      "target_keyword": "bookkeepers managing 5 15 clients using quickbooks difficulty tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Bookkeepers Managing 5 15 Clients Using Quickbooks Difficulty Automation",
+      "target_keyword": "bookkeepers managing 5 15 clients using quickbooks difficulty automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Bookkeepers Managing 5 15 Clients Using Quickbooks Difficulty Workflow",
+      "target_keyword": "bookkeepers managing 5 15 clients using quickbooks difficulty workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "bookkeepers managing clients using quickbooks difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "bookkeepers managing clients using quickbooks difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "bookkeepers managing clients using quickbooks difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "bookkeepers managing clients using quickbooks difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "bookkeepers managing clients using quickbooks difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | bookkeepers managing clients using quickbooks tool",
+      "bookkeepers managing clients using quickbooks tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "bookkeepers managing clients using quickbooks tool helps with difficulty in reconciling transactions across multiple platforms."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

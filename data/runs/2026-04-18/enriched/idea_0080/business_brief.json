@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant back-office teams processing 10-20 payrolls/month tool",
+  "description": "For restaurant back-office teams processing 10-20 payrolls/month, manual reconciliation causes payroll inaccuracies. We automate payroll reconciliation instead of manual reconciliation using spreadsheets.",
+  "target_audience": "restaurant back-office teams processing 10-20 payrolls/month",
+  "problem_solved": "Inaccurate payroll due to manual reconciliation of timesheets and sales data.",
+  "features": [
+    "manual entry of timesheets",
+    "payroll report generation",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant back-office teams processing 10-20 payrolls/month",
+    "primary_problem": "Inaccurate payroll due to manual reconciliation of timesheets and sales data.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back-office teams processing 10-20 payrolls/month, manual reconciliation causes payroll inaccuracies. We automate payroll reconciliation instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "manual entry of timesheets",
+      "payroll report generation",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant back-office teams processing 10-20 payrolls/month, manual reconciliation causes payroll inaccuracies. We automate payroll reconciliation instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-18",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

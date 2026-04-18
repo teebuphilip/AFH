@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small business owners using Gusto for HR management tool",
+  "description": "For small business owners processing 5\u201315 employee contracts/month, inefficient manual preparation causes compliance risks. We automate document creation instead of manual document preparation.",
+  "target_audience": "small business owners using Gusto for HR management",
+  "problem_solved": "Inefficient manual preparation of HR documents",
+  "features": [
+    "template-based document generation",
+    "manual review option before finalization",
+    "user-friendly interface for document customization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small business owners using Gusto for HR management",
+    "primary_problem": "Inefficient manual preparation of HR documents",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small business owners processing 5\u201315 employee contracts/month, inefficient manual preparation causes compliance risks. We automate document creation instead of manual document preparation.",
+    "current_alternative": "manual document preparation",
+    "must_have_features": [
+      "template-based document generation",
+      "manual review option before finalization",
+      "user-friendly interface for document customization"
+    ]
+  },
+  "one_liner": "For small business owners processing 5\u201315 employee contracts/month, inefficient manual preparation causes compliance risks. We automate document creation instead of manual document preparation.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-18",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

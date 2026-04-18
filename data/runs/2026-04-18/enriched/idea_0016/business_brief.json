@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers at e-commerce companies processing 50\u2013100 shipments/week tool",
+  "description": "For logistics managers at e-commerce companies processing 50\u2013100 shipments/week, inconsistent shipping performance causes delayed deliveries. We provide automated performance monitoring instead of manual tracking through spreadsheets.",
+  "target_audience": "logistics managers at e-commerce companies processing 50\u2013100 shipments/week",
+  "problem_solved": "Inconsistent shipping performance leading to delayed deliveries.",
+  "features": [
+    "Weekly performance reports",
+    "Exception alerts",
+    "User-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers at e-commerce companies processing 50\u2013100 shipments/week",
+    "primary_problem": "Inconsistent shipping performance leading to delayed deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers at e-commerce companies processing 50\u2013100 shipments/week, inconsistent shipping performance causes delayed deliveries. We provide automated performance monitoring instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking of shipping metrics through spreadsheets",
+    "must_have_features": [
+      "Weekly performance reports",
+      "Exception alerts",
+      "User-friendly dashboard"
+    ]
+  },
+  "one_liner": "For logistics managers at e-commerce companies processing 50\u2013100 shipments/week, inconsistent shipping performance causes delayed deliveries. We provide automated performance monitoring instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

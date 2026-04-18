@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 lease statements/month tool",
+  "description": "For property managers processing 5\u201315 lease statements/month, inaccurate statements cause cash flow gaps. We automatically generate statements instead of manual statement generation.",
+  "target_audience": "property managers processing 5\u201315 lease statements/month",
+  "problem_solved": "Inaccurate or delayed lease payment statements",
+  "features": [
+    "template-based statement generation",
+    "manual entry for lease details",
+    "monthly reminder notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 lease statements/month",
+    "primary_problem": "Inaccurate or delayed lease payment statements",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 lease statements/month, inaccurate statements cause cash flow gaps. We automatically generate statements instead of manual statement generation.",
+    "current_alternative": "manual statement generation",
+    "must_have_features": [
+      "template-based statement generation",
+      "manual entry for lease details",
+      "monthly reminder notifications"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 lease statements/month, inaccurate statements cause cash flow gaps. We automatically generate statements instead of manual statement generation.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-18",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For accounting firms processing 5\u201315 payrolls/month, inaccurate benefit deductions cause compliance issues. We provide automated audits and reports instead of manual reconciliation and reporting processes.",
+  "target_audience": "accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Ensuring accurate employee benefit deductions and compliance reporting.",
+  "features": [
+    "manual audit checklist",
+    "monthly compliance report template",
+    "deduction reconciliation log"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Ensuring accurate employee benefit deductions and compliance reporting.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 5\u201315 payrolls/month, inaccurate benefit deductions cause compliance issues. We provide automated audits and reports instead of manual reconciliation and reporting processes.",
+    "current_alternative": "manual reconciliation and reporting processes",
+    "must_have_features": [
+      "manual audit checklist",
+      "monthly compliance report template",
+      "deduction reconciliation log"
+    ]
+  },
+  "one_liner": "For accounting firms processing 5\u201315 payrolls/month, inaccurate benefit deductions cause compliance issues. We provide automated audits and reports instead of manual reconciliation and reporting processes.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-18",
+    "overlay_score": 78,
+    "arr_score": 81
+  }
+}

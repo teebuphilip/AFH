@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, compliance reporting delays cause regulatory penalties. We automate report preparation instead of manual report preparation using spreadsheets.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Difficulty in preparing timely workers' compensation compliance reports.",
+  "features": [
+    "template-based report generation",
+    "manual data entry support",
+    "status tracking for compliance submissions"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Difficulty in preparing timely workers' compensation compliance reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, compliance reporting delays cause regulatory penalties. We automate report preparation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "manual data entry support",
+      "status tracking for compliance submissions"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, compliance reporting delays cause regulatory penalties. We automate report preparation instead of manual report preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

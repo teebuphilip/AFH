@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics coordinators managing 10\u201320 shipments/week tool",
+  "description": "For logistics coordinators processing 10\u201320 shipments/week, inefficient carrier assignments cause increased shipping costs. We recommend carrier assignments based on data analysis instead of manual carrier selection based on past experiences.",
+  "target_audience": "logistics coordinators managing 10\u201320 shipments/week",
+  "problem_solved": "Inefficient carrier assignments leading to increased shipping costs and delayed deliveries.",
+  "features": [
+    "data input for shipment details",
+    "carrier performance tracking",
+    "cost estimation for different carriers"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics coordinators managing 10\u201320 shipments/week",
+    "primary_problem": "Inefficient carrier assignments leading to increased shipping costs and delayed deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics coordinators processing 10\u201320 shipments/week, inefficient carrier assignments cause increased shipping costs. We recommend carrier assignments based on data analysis instead of manual carrier selection based on past experiences.",
+    "current_alternative": "manual carrier selection based on past experiences",
+    "must_have_features": [
+      "data input for shipment details",
+      "carrier performance tracking",
+      "cost estimation for different carriers"
+    ]
+  },
+  "one_liner": "For logistics coordinators processing 10\u201320 shipments/week, inefficient carrier assignments cause increased shipping costs. We recommend carrier assignments based on data analysis instead of manual carrier selection based on past experiences.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-18",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

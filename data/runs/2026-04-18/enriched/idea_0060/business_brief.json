@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 clients/month tool",
+  "description": "For accounting firms processing 10\u201320 clients/month, manual document generation causes delays in compliance reporting. We automate compliance document generation instead of manual document creation using spreadsheets and word processors.",
+  "target_audience": "accounting firms processing 10\u201320 clients/month",
+  "problem_solved": "Manual generation of compliance documents is time-consuming and error-prone.",
+  "features": [
+    "template-based document generation",
+    "audit trail logging",
+    "user-friendly interface for document review"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 clients/month",
+    "primary_problem": "Manual generation of compliance documents is time-consuming and error-prone.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 clients/month, manual document generation causes delays in compliance reporting. We automate compliance document generation instead of manual document creation using spreadsheets and word processors.",
+    "current_alternative": "manual document creation using spreadsheets and word processors",
+    "must_have_features": [
+      "template-based document generation",
+      "audit trail logging",
+      "user-friendly interface for document review"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 clients/month, manual document generation causes delays in compliance reporting. We automate compliance document generation instead of manual document creation using spreadsheets and word processors.",
+  "source": {
+    "idea_id": "idea_0060",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

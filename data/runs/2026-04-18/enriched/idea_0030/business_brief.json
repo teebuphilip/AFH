@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant accountants processing 20-50 receipts/month tool",
+  "description": "For restaurant accountants processing 20-50 invoices/month, time-consuming tax preparation causes late submissions. We convert daily sales receipts into tax submission formats instead of manual entry into tax software.",
+  "target_audience": "restaurant accountants processing 20-50 receipts/month",
+  "problem_solved": "Time-consuming tax preparation from daily sales receipts.",
+  "features": [
+    "basic receipt categorization",
+    "export to common tax formats",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant accountants processing 20-50 receipts/month",
+    "primary_problem": "Time-consuming tax preparation from daily sales receipts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant accountants processing 20-50 invoices/month, time-consuming tax preparation causes late submissions. We convert daily sales receipts into tax submission formats instead of manual entry into tax software.",
+    "current_alternative": "manual entry into tax software",
+    "must_have_features": [
+      "basic receipt categorization",
+      "export to common tax formats",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant accountants processing 20-50 invoices/month, time-consuming tax preparation causes late submissions. We convert daily sales receipts into tax submission formats instead of manual entry into tax software.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-18",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

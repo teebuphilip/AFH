@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "billing coordinators in medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For billing coordinators in medical clinics processing 10\u201320 invoices/month, frequent billing denials cause cash flow gaps. We trigger follow-up alerts instead of manual tracking of billing denials and follow-ups.",
+  "target_audience": "billing coordinators in medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "Frequent billing denials leading to delayed payments.",
+  "features": [
+    "alert system for billing denials",
+    "manual entry for invoice tracking",
+    "report generation for denial trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "billing coordinators in medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "Frequent billing denials leading to delayed payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For billing coordinators in medical clinics processing 10\u201320 invoices/month, frequent billing denials cause cash flow gaps. We trigger follow-up alerts instead of manual tracking of billing denials and follow-ups.",
+    "current_alternative": "manual tracking of billing denials and follow-ups",
+    "must_have_features": [
+      "alert system for billing denials",
+      "manual entry for invoice tracking",
+      "report generation for denial trends"
+    ]
+  },
+  "one_liner": "For billing coordinators in medical clinics processing 10\u201320 invoices/month, frequent billing denials cause cash flow gaps. We trigger follow-up alerts instead of manual tracking of billing denials and follow-ups.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-18",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

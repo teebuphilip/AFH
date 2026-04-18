@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "offer": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inefficient timesheet data entry causes delayed payments. We automate data extraction and summarization instead of manual timesheet entry and calculation in QuickBooks.",
+  "problem": "Delayed payments due to inefficient timesheet data processing.",
+  "channels_free": [
+    "Post in Reddit communities for QuickBooks freelancers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to freelancers with demo videos",
+    "Community forums for QuickBooks tool discussions"
+  ],
+  "try_it": "Let users try manual data entry for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of manual workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for data",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

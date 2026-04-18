@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause late fees. We send automated reminders instead of manual tracking in spreadsheets.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Etsy sellers frequently miss payment deadlines, resulting in late fees and lost discounts.",
+  "features": [
+    "manual entry of vendor payment terms",
+    "dashboard for tracking upcoming payment deadlines",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Etsy sellers frequently miss payment deadlines, resulting in late fees and lost discounts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause late fees. We send automated reminders instead of manual tracking in spreadsheets.",
+    "current_alternative": "manual tracking of payment terms in spreadsheets",
+    "must_have_features": [
+      "manual entry of vendor payment terms",
+      "dashboard for tracking upcoming payment deadlines",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, missed payment deadlines cause late fees. We send automated reminders instead of manual tracking in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-18",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

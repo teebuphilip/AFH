@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 50\u2013100 invoices/month tool",
+  "description": "For Amazon sellers processing 50\u2013100 invoices/month, discrepancies cause late orders and supplier penalties. We automate reconciliation instead of manual reconciliation.",
+  "target_audience": "Amazon sellers processing 50\u2013100 invoices/month",
+  "problem_solved": "Discrepancies between inventory shipments and purchase records lead to late orders and supplier penalties.",
+  "features": [
+    "Weekly variance report generation",
+    "Email notifications to logistics teams",
+    "Manual entry for shipment and purchase records"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 50\u2013100 invoices/month",
+    "primary_problem": "Discrepancies between inventory shipments and purchase records lead to late orders and supplier penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 50\u2013100 invoices/month, discrepancies cause late orders and supplier penalties. We automate reconciliation instead of manual reconciliation.",
+    "current_alternative": "Manual reconciliation of inventory and purchase records.",
+    "must_have_features": [
+      "Weekly variance report generation",
+      "Email notifications to logistics teams",
+      "Manual entry for shipment and purchase records"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 50\u2013100 invoices/month, discrepancies cause late orders and supplier penalties. We automate reconciliation instead of manual reconciliation.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

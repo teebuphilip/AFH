@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "home services companies processing 10\u201320 service requests/week tool",
+  "description": "For home services companies processing 10\u201320 service requests/week, inefficient scheduling causes missed appointments. We automate technician scheduling and customer communication instead of manual scheduling and phone calls.",
+  "target_audience": "home services companies processing 10\u201320 service requests/week",
+  "problem_solved": "inefficient technician scheduling and customer communication",
+  "features": [
+    "manual scheduling interface",
+    "customer notification system",
+    "reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "home services companies processing 10\u201320 service requests/week",
+    "primary_problem": "inefficient technician scheduling and customer communication",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For home services companies processing 10\u201320 service requests/week, inefficient scheduling causes missed appointments. We automate technician scheduling and customer communication instead of manual scheduling and phone calls.",
+    "current_alternative": "manual scheduling and phone calls",
+    "must_have_features": [
+      "manual scheduling interface",
+      "customer notification system",
+      "reporting dashboard"
+    ]
+  },
+  "one_liner": "For home services companies processing 10\u201320 service requests/week, inefficient scheduling causes missed appointments. We automate technician scheduling and customer communication instead of manual scheduling and phone calls.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-18",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

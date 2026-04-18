@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical clinics processing 10\u201320 invoices/month",
+  "offer": "For medical clinics processing 10\u201320 invoices/month, inefficient record handling causes cash flow gaps. We automate form conversion instead of manual data entry into insurance forms.",
+  "problem": "Timely conversion of patient records into insurance submission forms.",
+  "channels_free": [
+    "Post in Reddit communities for medical clinics",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to clinics with demo video",
+    "Community forums for sharing tools and resources"
+  ],
+  "try_it": "Let users try manual data entry support for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early access onboarding for first users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Default reminder schedule options",
+    "CSV import for existing patient records",
+    "One-click export for simple reports",
+    "Streamline steps in user onboarding"
+  ]
+}

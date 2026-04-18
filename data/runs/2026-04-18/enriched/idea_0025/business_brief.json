@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201350 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201350 invoices/month, manual tracking causes late commission reports. We automate sales data consolidation instead of manual tracking with spreadsheets.",
+  "target_audience": "Etsy sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Difficulty in consolidating sales data and calculating commissions accurately.",
+  "features": [
+    "Weekly commission report generation",
+    "Multi-channel sales data consolidation",
+    "User-friendly dashboard for sales tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Difficulty in consolidating sales data and calculating commissions accurately.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201350 invoices/month, manual tracking causes late commission reports. We automate sales data consolidation instead of manual tracking with spreadsheets.",
+    "current_alternative": "Manual tracking of sales data and commission calculations using spreadsheets.",
+    "must_have_features": [
+      "Weekly commission report generation",
+      "Multi-channel sales data consolidation",
+      "User-friendly dashboard for sales tracking"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201350 invoices/month, manual tracking causes late commission reports. We automate sales data consolidation instead of manual tracking with spreadsheets.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-18",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

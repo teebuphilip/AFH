@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 10\u201320 clients/month",
+  "offer": "For accounting firms processing 10\u201320 clients/month, manual document generation causes delays in compliance reporting. We simplify compliance document generation instead of manual document creation using spreadsheets and word processors.",
+  "problem": "Manual generation of compliance documents is time-consuming and error-prone.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms seeking solutions",
+    "Engage in Indie Hackers discussions about similar workflows",
+    "DM outreach to accounting firms with demo video",
+    "Participate in community forums for accounting tools"
+  ],
+  "try_it": "Let users try document generation and audit trail logging on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with one-liner and CTA",
+    "Produce a demo video showing the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of reports",
+    "Reduce steps in the onboarding process"
+  ]
+}

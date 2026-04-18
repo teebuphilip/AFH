@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized businesses using BambooHR with 50-200 employees tool",
+  "description": "For HR managers in small to medium-sized businesses using BambooHR processing 50-200 employee records, inefficient reporting causes delayed decision-making. We provide customized reports and dashboards instead of manual spreadsheets and basic reporting tools.",
+  "target_audience": "HR managers in small to medium-sized businesses using BambooHR with 50-200 employees",
+  "problem_solved": "Inefficient reporting and analytics on employee data",
+  "features": [
+    "Custom report generation",
+    "Dashboard creation",
+    "Data visualization tools"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized businesses using BambooHR with 50-200 employees",
+    "primary_problem": "Inefficient reporting and analytics on employee data",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized businesses using BambooHR processing 50-200 employee records, inefficient reporting causes delayed decision-making. We provide customized reports and dashboards instead of manual spreadsheets and basic reporting tools.",
+    "current_alternative": "manual spreadsheets and basic reporting tools",
+    "must_have_features": [
+      "Custom report generation",
+      "Dashboard creation",
+      "Data visualization tools"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized businesses using BambooHR processing 50-200 employee records, inefficient reporting causes delayed decision-making. We provide customized reports and dashboards instead of manual spreadsheets and basic reporting tools.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-18",
+    "overlay_score": 63,
+    "arr_score": 62
+  }
+}

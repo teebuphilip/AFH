@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics fleet managers processing 5\u201315 vehicles/month",
+  "offer": "For logistics fleet managers processing 5\u201315 vehicles/month, overdue inspections cause compliance issues and potential fines. We monitor inspection logs and flag overdue checks instead of manual tracking of inspection logs.",
+  "problem": "Overdue vehicle inspections leading to compliance issues and potential fines.",
+  "channels_free": [
+    "Post in Reddit communities for logistics fleet managers",
+    "Engage on Indie Hackers about similar workflows",
+    "DM outreach to logistics fleet managers with demo video",
+    "Share insights in community forums for logistics managers"
+  ],
+  "try_it": "Let users try manual log entry for inspections and dashboard for inspection status overview on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality shift managers processing 5\u201315 compliance reports/month tool",
+  "description": "For hospitality shift managers processing 5\u201315 compliance reports/month, manual tracking causes late submissions. We automate compliance report filing instead of manual tracking and filing of compliance reports.",
+  "target_audience": "hospitality shift managers processing 5\u201315 compliance reports/month",
+  "problem_solved": "Difficulty in compiling and filing compliance reports accurately and on time.",
+  "features": [
+    "manual report entry",
+    "basic compliance report templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality shift managers processing 5\u201315 compliance reports/month",
+    "primary_problem": "Difficulty in compiling and filing compliance reports accurately and on time.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality shift managers processing 5\u201315 compliance reports/month, manual tracking causes late submissions. We automate compliance report filing instead of manual tracking and filing of compliance reports.",
+    "current_alternative": "manual tracking and filing of compliance reports",
+    "must_have_features": [
+      "manual report entry",
+      "basic compliance report templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For hospitality shift managers processing 5\u201315 compliance reports/month, manual tracking causes late submissions. We automate compliance report filing instead of manual tracking and filing of compliance reports.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-18",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "legal firm payroll managers processing 5\u201315 employees/month",
+  "offer": "For legal firm payroll managers processing 5\u201315 employees/month, manual preparation of tax reports causes late submissions and potential penalties. We simplify report preparation instead of manual preparation using spreadsheets.",
+  "problem": "Inaccurate tax withholding reports leading to potential penalties.",
+  "channels_free": [
+    "Post in Reddit communities for payroll managers",
+    "Engage in Indie Hackers discussions on workflows",
+    "DM outreach to payroll managers with demo video",
+    "Participate in community forums for payroll tools"
+  ],
+  "try_it": "Let users explore user-friendly interface and reminder features",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Offer preset reminder schedules",
+    "Enable CSV import for existing data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

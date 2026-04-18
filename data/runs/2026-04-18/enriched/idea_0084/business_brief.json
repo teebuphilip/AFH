@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billers processing 20\u201350 invoices/month tool",
+  "description": "For medical billers processing 20\u201350 invoices/month, inaccurate coding causes revenue loss. We provide a coding assistant instead of manual coding processes.",
+  "target_audience": "medical billers processing 20\u201350 invoices/month",
+  "problem_solved": "Inaccurate coding from doctor's notes leads to billing errors.",
+  "features": [
+    "manual entry for doctor's notes",
+    "suggested codes based on notes",
+    "error-checking for common coding mistakes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billers processing 20\u201350 invoices/month",
+    "primary_problem": "Inaccurate coding from doctor's notes leads to billing errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billers processing 20\u201350 invoices/month, inaccurate coding causes revenue loss. We provide a coding assistant instead of manual coding processes.",
+    "current_alternative": "manual coding processes",
+    "must_have_features": [
+      "manual entry for doctor's notes",
+      "suggested codes based on notes",
+      "error-checking for common coding mistakes"
+    ]
+  },
+  "one_liner": "For medical billers processing 20\u201350 invoices/month, inaccurate coding causes revenue loss. We provide a coding assistant instead of manual coding processes.",
+  "source": {
+    "idea_id": "idea_0084",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

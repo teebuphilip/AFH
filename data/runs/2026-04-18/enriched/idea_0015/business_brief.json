@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "finance managers in accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For finance managers in accounting firms processing 10\u201320 invoices/month, manual tracking causes cash flow gaps. We automate procurement spend data aggregation instead of manual tracking and reporting using spreadsheets.",
+  "target_audience": "finance managers in accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inability to efficiently track budget variances leads to cash flow gaps.",
+  "features": [
+    "monthly budget variance report generation",
+    "data aggregation from multiple sources",
+    "user-friendly dashboard for insights"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "finance managers in accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inability to efficiently track budget variances leads to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For finance managers in accounting firms processing 10\u201320 invoices/month, manual tracking causes cash flow gaps. We automate procurement spend data aggregation instead of manual tracking and reporting using spreadsheets.",
+    "current_alternative": "manual tracking and reporting using spreadsheets",
+    "must_have_features": [
+      "monthly budget variance report generation",
+      "data aggregation from multiple sources",
+      "user-friendly dashboard for insights"
+    ]
+  },
+  "one_liner": "For finance managers in accounting firms processing 10\u201320 invoices/month, manual tracking causes cash flow gaps. We automate procurement spend data aggregation instead of manual tracking and reporting using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-18",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

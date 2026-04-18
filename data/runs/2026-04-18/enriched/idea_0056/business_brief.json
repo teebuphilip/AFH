@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties tool",
+  "description": "For property managers handling 10-20 properties, inefficient tracking of maintenance schedules causes late work orders. We automate work order triggers instead of manual tracking via spreadsheets or emails.",
+  "target_audience": "property managers handling 10-20 properties",
+  "problem_solved": "Inefficient tracking of maintenance schedules and work orders.",
+  "features": [
+    "manual entry of maintenance schedules",
+    "trigger work orders based on schedule",
+    "generate consolidated reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties",
+    "primary_problem": "Inefficient tracking of maintenance schedules and work orders.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 properties, inefficient tracking of maintenance schedules causes late work orders. We automate work order triggers instead of manual tracking via spreadsheets or emails.",
+    "current_alternative": "manual tracking via spreadsheets or emails",
+    "must_have_features": [
+      "manual entry of maintenance schedules",
+      "trigger work orders based on schedule",
+      "generate consolidated reports"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties, inefficient tracking of maintenance schedules causes late work orders. We automate work order triggers instead of manual tracking via spreadsheets or emails.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-18",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

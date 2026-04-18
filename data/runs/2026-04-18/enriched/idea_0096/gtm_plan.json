@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors processing 5\u201315 bids/month",
+  "offer": "For construction contractors processing 5\u201315 bids/month, inconsistent bid responses cause lost contracts. We generate standardized estimates and RFP responses instead of manual bid preparation using spreadsheets and templates.",
+  "problem": "Inconsistent bid responses lead to lost contracts and wasted time.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Engage in Indie Hackers discussions on similar issues",
+    "DM outreach to construction contractors with demo video",
+    "Participate in forums for construction tools and resources"
+  ],
+  "try_it": "Let users try template library for estimates and collaboration tools",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminders for tasks",
+    "Allow CSV import for existing project data",
+    "Enable one-click report exports",
+    "Streamline the onboarding process"
+  ]
+}

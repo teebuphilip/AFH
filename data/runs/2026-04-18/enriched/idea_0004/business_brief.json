@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics operations managers processing 10\u201350 delivery logs/month tool",
+  "description": "For logistics operations managers processing 10\u201350 delivery logs/month, inefficient report generation causes compliance penalties. We automate report formatting instead of manual report generation using spreadsheets.",
+  "target_audience": "logistics operations managers processing 10\u201350 delivery logs/month",
+  "problem_solved": "Inability to quickly generate compliance reports from raw delivery logs.",
+  "features": [
+    "manual data input option",
+    "template selection for reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics operations managers processing 10\u201350 delivery logs/month",
+    "primary_problem": "Inability to quickly generate compliance reports from raw delivery logs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics operations managers processing 10\u201350 delivery logs/month, inefficient report generation causes compliance penalties. We automate report formatting instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "manual data input option",
+      "template selection for reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics operations managers processing 10\u201350 delivery logs/month, inefficient report generation causes compliance penalties. We automate report formatting instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-18",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

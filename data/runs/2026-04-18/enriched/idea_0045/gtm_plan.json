@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "fleet safety officers managing 10-20 vehicles",
+  "offer": "For fleet safety officers managing 10-20 vehicles, inefficient scheduling of driver log audits causes compliance delays. We automate scheduling and reporting instead of manual scheduling and reporting processes.",
+  "problem": "inefficient scheduling of driver log audits",
+  "channels_free": [
+    "Post in Reddit communities for fleet safety officers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to fleet safety officers with demo video",
+    "Community forums for fleet safety officers sharing tools"
+  ],
+  "try_it": "Let users try manual log entry and report generation",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

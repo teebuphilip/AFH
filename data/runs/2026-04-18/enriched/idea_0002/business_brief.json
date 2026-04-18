@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We monitor accounts payable aging reports instead of manual tracking of payment deadlines.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Late payments causing cash flow gaps",
+  "features": [
+    "Simple dashboard for aging report overview",
+    "Manual entry option for invoices",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Late payments causing cash flow gaps",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We monitor accounts payable aging reports instead of manual tracking of payment deadlines.",
+    "current_alternative": "Manual tracking of payment deadlines",
+    "must_have_features": [
+      "Simple dashboard for aging report overview",
+      "Manual entry option for invoices",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We monitor accounts payable aging reports instead of manual tracking of payment deadlines.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-18",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

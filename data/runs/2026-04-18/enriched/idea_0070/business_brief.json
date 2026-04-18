@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "compliance officers in accounting firms processing 5\u201315 compliance documents/month tool",
+  "description": "For compliance officers in accounting firms processing 5\u201315 compliance documents/month, manual generation causes delays in compliance reporting. We automate document generation instead of manual document creation and email distribution.",
+  "target_audience": "compliance officers in accounting firms processing 5\u201315 compliance documents/month",
+  "problem_solved": "Manual generation and distribution of compliance documents is time-consuming and error-prone.",
+  "features": [
+    "template-based document generation",
+    "audit trail logging",
+    "email distribution functionality"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "compliance officers in accounting firms processing 5\u201315 compliance documents/month",
+    "primary_problem": "Manual generation and distribution of compliance documents is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For compliance officers in accounting firms processing 5\u201315 compliance documents/month, manual generation causes delays in compliance reporting. We automate document generation instead of manual document creation and email distribution.",
+    "current_alternative": "manual document creation and email distribution",
+    "must_have_features": [
+      "template-based document generation",
+      "audit trail logging",
+      "email distribution functionality"
+    ]
+  },
+  "one_liner": "For compliance officers in accounting firms processing 5\u201315 compliance documents/month, manual generation causes delays in compliance reporting. We automate document generation instead of manual document creation and email distribution.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "idea_text": "A service that monitors and reconciles insurance claims, and provides detailed reporting for the risk management team.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 66,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-18T10:04:57.886863",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

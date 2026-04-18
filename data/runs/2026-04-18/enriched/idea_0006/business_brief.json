@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement teams in mid-sized marketing agencies processing 5\u201315 vendor contracts/month tool",
+  "description": "For procurement teams in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewal deadlines cause supplier penalties. We provide timely notifications instead of manual tracking via spreadsheets.",
+  "target_audience": "procurement teams in mid-sized marketing agencies processing 5\u201315 vendor contracts/month",
+  "problem_solved": "missed contract renewal deadlines",
+  "features": [
+    "monthly renewal reminders",
+    "contract status tracking",
+    "report generation for renewals"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement teams in mid-sized marketing agencies processing 5\u201315 vendor contracts/month",
+    "primary_problem": "missed contract renewal deadlines",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement teams in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewal deadlines cause supplier penalties. We provide timely notifications instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "monthly renewal reminders",
+      "contract status tracking",
+      "report generation for renewals"
+    ]
+  },
+  "one_liner": "For procurement teams in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewal deadlines cause supplier penalties. We provide timely notifications instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-18",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

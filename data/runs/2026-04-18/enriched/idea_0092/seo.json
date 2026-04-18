@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "small business owners using gusto for hr management inefficient tool",
+    "small business owners using gusto for hr management inefficient automation",
+    "small business owners using gusto for hr management inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "small business owners using gusto for hr management inefficient tool software",
+    "small business owners using gusto for hr management inefficient tool platform",
+    "small business owners using gusto for hr management inefficient tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For small business owners processing 5\u201315 employee contracts/month, inefficient manual preparation causes compliance risks. We automate document creation instead of manual document preparation.",
+    "Inefficient manual preparation of HR documents",
+    "small business owners using Gusto for HR management"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Hr Management Inefficient Tool Software",
+      "target_keyword": "small business owners using gusto for hr management inefficient tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Hr Management Inefficient Tool Platform",
+      "target_keyword": "small business owners using gusto for hr management inefficient tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Hr Management Inefficient Tool Solution",
+      "target_keyword": "small business owners using gusto for hr management inefficient tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Hr Management Inefficient Tool",
+      "target_keyword": "small business owners using gusto for hr management inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Hr Management Inefficient Automation",
+      "target_keyword": "small business owners using gusto for hr management inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Small Business Owners Using Gusto For Hr Management Inefficient Workflow",
+      "target_keyword": "small business owners using gusto for hr management inefficient workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "small business owners using gusto for hr management inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "small business owners using gusto for hr management inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "small business owners using gusto for hr management inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "small business owners using gusto for hr management inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "small business owners using gusto for hr management inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | small business owners using gusto for hr management tool",
+      "small business owners using gusto for hr management tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "small business owners using gusto for hr management tool helps with inefficient manual preparation of hr documents."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

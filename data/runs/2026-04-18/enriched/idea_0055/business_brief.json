@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized marketing agencies processing 10-20 vendor invoices/month tool",
+  "description": "For procurement managers in mid-sized marketing agencies processing 10-20 vendor invoices/month, delays in onboarding causes late payments to vendors. We streamline the vendor onboarding process instead of manual vendor onboarding processes.",
+  "target_audience": "procurement managers in mid-sized marketing agencies processing 10-20 vendor invoices/month",
+  "problem_solved": "Delays in vendor onboarding due to manual verification processes.",
+  "features": [
+    "W-9 form verification",
+    "centralized vendor database",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized marketing agencies processing 10-20 vendor invoices/month",
+    "primary_problem": "Delays in vendor onboarding due to manual verification processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized marketing agencies processing 10-20 vendor invoices/month, delays in onboarding causes late payments to vendors. We streamline the vendor onboarding process instead of manual vendor onboarding processes.",
+    "current_alternative": "manual vendor onboarding processes",
+    "must_have_features": [
+      "W-9 form verification",
+      "centralized vendor database",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized marketing agencies processing 10-20 vendor invoices/month, delays in onboarding causes late payments to vendors. We streamline the vendor onboarding process instead of manual vendor onboarding processes.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

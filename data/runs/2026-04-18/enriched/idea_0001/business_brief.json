@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small to medium-sized e-commerce businesses processing 10\u201350 invoices/month tool",
+  "description": "For procurement managers in small to medium-sized e-commerce businesses processing 10\u201350 invoices/month, manual reconciliation causes payment delays. We automate the reconciliation process instead of using spreadsheets.",
+  "target_audience": "procurement managers in small to medium-sized e-commerce businesses processing 10\u201350 invoices/month",
+  "problem_solved": "Difficulty in reconciling vendor invoices with purchase orders leads to discrepancies and potential payment delays.",
+  "features": [
+    "Email notifications for discrepancies",
+    "Weekly summary reports",
+    "User-friendly dashboard for tracking invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small to medium-sized e-commerce businesses processing 10\u201350 invoices/month",
+    "primary_problem": "Difficulty in reconciling vendor invoices with purchase orders leads to discrepancies and potential payment delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small to medium-sized e-commerce businesses processing 10\u201350 invoices/month, manual reconciliation causes payment delays. We automate the reconciliation process instead of using spreadsheets.",
+    "current_alternative": "Manual reconciliation processes using spreadsheets",
+    "must_have_features": [
+      "Email notifications for discrepancies",
+      "Weekly summary reports",
+      "User-friendly dashboard for tracking invoices"
+    ]
+  },
+  "one_liner": "For procurement managers in small to medium-sized e-commerce businesses processing 10\u201350 invoices/month, manual reconciliation causes payment delays. We automate the reconciliation process instead of using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0001",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

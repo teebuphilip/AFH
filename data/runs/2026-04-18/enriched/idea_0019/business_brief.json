@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations for small businesses using Gusto, processing 5\u201315 payrolls/month tool",
+  "description": "For HR operations for small businesses using Gusto, processing 5\u201315 payrolls/month, frequent payroll errors cause employee dissatisfaction. We automate weekly payroll error reports instead of manual payroll error tracking and correction.",
+  "target_audience": "HR operations for small businesses using Gusto, processing 5\u201315 payrolls/month",
+  "problem_solved": "Frequent payroll errors leading to employee dissatisfaction and compliance issues.",
+  "features": [
+    "Notification system for HR ops",
+    "User-friendly dashboard for error tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations for small businesses using Gusto, processing 5\u201315 payrolls/month",
+    "primary_problem": "Frequent payroll errors leading to employee dissatisfaction and compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations for small businesses using Gusto, processing 5\u201315 payrolls/month, frequent payroll errors cause employee dissatisfaction. We automate weekly payroll error reports instead of manual payroll error tracking and correction.",
+    "current_alternative": "Manual payroll error tracking and correction",
+    "must_have_features": [
+      "Notification system for HR ops",
+      "User-friendly dashboard for error tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations for small businesses using Gusto, processing 5\u201315 payrolls/month, frequent payroll errors cause employee dissatisfaction. We automate weekly payroll error reports instead of manual payroll error tracking and correction.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-18",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

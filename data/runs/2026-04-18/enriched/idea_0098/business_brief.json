@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "paralegals at boutique law firms processing 5\u201315 cases/month tool",
+  "description": "For paralegals at boutique law firms processing 5\u201315 cases/month, inefficient legal research causes delayed case preparations. We provide summarized case law and regulatory changes instead of manual case law research and regulatory updates.",
+  "target_audience": "paralegals at boutique law firms processing 5\u201315 cases/month",
+  "problem_solved": "Inefficient legal research processes lead to delayed case preparations.",
+  "features": [
+    "case law summarization",
+    "regulatory change alerts",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "paralegals at boutique law firms processing 5\u201315 cases/month",
+    "primary_problem": "Inefficient legal research processes lead to delayed case preparations.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For paralegals at boutique law firms processing 5\u201315 cases/month, inefficient legal research causes delayed case preparations. We provide summarized case law and regulatory changes instead of manual case law research and regulatory updates.",
+    "current_alternative": "manual case law research and regulatory updates",
+    "must_have_features": [
+      "case law summarization",
+      "regulatory change alerts",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For paralegals at boutique law firms processing 5\u201315 cases/month, inefficient legal research causes delayed case preparations. We provide summarized case law and regulatory changes instead of manual case law research and regulatory updates.",
+  "source": {
+    "idea_id": "idea_0098",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

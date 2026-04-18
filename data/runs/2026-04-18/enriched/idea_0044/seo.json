@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "law firm accountants inaccurate tool",
+    "law firm accountants inaccurate automation",
+    "support ticket tracking",
+    "support workflow",
+    "law firm accountants processing 5 15 trust account transactions month inaccurate tool",
+    "law firm accountants processing 5 15 trust account transactions month inaccurate automation",
+    "law firm accountants processing 5 15 trust account transactions month inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "support ticket tracking software",
+    "support ticket tracking platform",
+    "support ticket tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to support ticket tracking",
+    "best support ticket tracking tool",
+    "support ticket tracking vs spreadsheets",
+    "support ticket tracking checklist",
+    "support ticket tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For law firm accountants processing 5\u201315 trust account transactions/month, manual reconciliation causes compliance risks. We automate reconciliation instead of manual reconciliation processes.",
+    "Inaccurate reconciliation of trust account transactions leading to compliance risks.",
+    "law firm accountants processing 5\u201315 trust account transactions/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Support Ticket Tracking",
+      "target_keyword": "how to support ticket tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Support Ticket Tracking Tool",
+      "target_keyword": "best support ticket tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Support Ticket Tracking Vs Spreadsheets",
+      "target_keyword": "support ticket tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Support Ticket Tracking Checklist",
+      "target_keyword": "support ticket tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Pricing",
+      "target_keyword": "support ticket tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Software",
+      "target_keyword": "support ticket tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Platform",
+      "target_keyword": "support ticket tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking Solution",
+      "target_keyword": "support ticket tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Ticket Tracking",
+      "target_keyword": "support ticket tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Support Workflow",
+      "target_keyword": "support workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Law Firm Accountants Processing 5 15 Trust Account Transactions Month Inaccurate Tool",
+      "target_keyword": "law firm accountants processing 5 15 trust account transactions month inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Law Firm Accountants Processing 5 15 Trust Account Transactions Month Inaccurate Automation",
+      "target_keyword": "law firm accountants processing 5 15 trust account transactions month inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "law firm accountants inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "law firm accountants inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "law firm accountants inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "law firm accountants inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "law firm accountants inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | law firm accountants tool",
+      "law firm accountants tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "law firm accountants tool helps with inaccurate reconciliation of trust account transactions leading to compliance risks."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

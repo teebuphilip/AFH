@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations team in a marketing agency processing 10-20 sales forecasts/month tool",
+  "description": "For sales operations teams in marketing agencies processing 10-20 sales forecasts/month, inaccurate data causes misallocation of resources. We provide customized sales forecasts and performance dashboards instead of manual spreadsheet tracking.",
+  "target_audience": "sales operations team in a marketing agency processing 10-20 sales forecasts/month",
+  "problem_solved": "Inaccurate sales forecasts lead to misallocation of resources.",
+  "features": [
+    "customizable dashboard views",
+    "performance tracking metrics",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations team in a marketing agency processing 10-20 sales forecasts/month",
+    "primary_problem": "Inaccurate sales forecasts lead to misallocation of resources.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations teams in marketing agencies processing 10-20 sales forecasts/month, inaccurate data causes misallocation of resources. We provide customized sales forecasts and performance dashboards instead of manual spreadsheet tracking.",
+    "current_alternative": "manual spreadsheet tracking",
+    "must_have_features": [
+      "customizable dashboard views",
+      "performance tracking metrics",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For sales operations teams in marketing agencies processing 10-20 sales forecasts/month, inaccurate data causes misallocation of resources. We provide customized sales forecasts and performance dashboards instead of manual spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0059",
+    "run_date": "2026-04-18",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

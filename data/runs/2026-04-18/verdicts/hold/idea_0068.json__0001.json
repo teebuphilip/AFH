@@ -1,0 +1,16 @@
+{
+  "idea_text": "A system that converts project data into customized reports, forecasts, and dashboards for the project management office.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 65,
+  "arr_score": 64,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-18T10:04:57.886784",
+  "verdict_source": "overlay_score",
+  "hold_reason": "keep_cap"
+}

@@ -1,0 +1,18 @@
+{
+  "idea_text": "Service that tracks and reports on vendor contract renewals, notifying procurement teams monthly.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 90,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 83,
+  "arr_score": 85.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-18T10:04:57.880963",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "HOLD",
+  "arr_scored_at": "2026-04-18T10:04:57.924673",
+  "hold_reason": "arr_70_89"
+}

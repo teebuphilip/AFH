@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 10\u201320 invoices/month tool",
+  "description": "For medical clinics processing 10\u201320 invoices/month, inefficient record handling causes cash flow gaps. We automate form conversion instead of manual data entry into insurance forms.",
+  "target_audience": "medical clinics processing 10\u201320 invoices/month",
+  "problem_solved": "Timely conversion of patient records into insurance submission forms.",
+  "features": [
+    "manual data entry support",
+    "template management for insurance forms",
+    "patient record organization"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 10\u201320 invoices/month",
+    "primary_problem": "Timely conversion of patient records into insurance submission forms.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 10\u201320 invoices/month, inefficient record handling causes cash flow gaps. We automate form conversion instead of manual data entry into insurance forms.",
+    "current_alternative": "manual data entry into insurance forms",
+    "must_have_features": [
+      "manual data entry support",
+      "template management for insurance forms",
+      "patient record organization"
+    ]
+  },
+  "one_liner": "For medical clinics processing 10\u201320 invoices/month, inefficient record handling causes cash flow gaps. We automate form conversion instead of manual data entry into insurance forms.",
+  "source": {
+    "idea_id": "idea_0078",
+    "run_date": "2026-04-18",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

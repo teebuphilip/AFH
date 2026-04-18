@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firm accountants processing 5\u201315 trust account transactions/month tool",
+  "description": "For law firm accountants processing 5\u201315 trust account transactions/month, manual reconciliation causes compliance risks. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "law firm accountants processing 5\u201315 trust account transactions/month",
+  "problem_solved": "Inaccurate reconciliation of trust account transactions leading to compliance risks.",
+  "features": [
+    "transaction logging",
+    "error reporting",
+    "manual reconciliation support"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firm accountants processing 5\u201315 trust account transactions/month",
+    "primary_problem": "Inaccurate reconciliation of trust account transactions leading to compliance risks.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firm accountants processing 5\u201315 trust account transactions/month, manual reconciliation causes compliance risks. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "transaction logging",
+      "error reporting",
+      "manual reconciliation support"
+    ]
+  },
+  "one_liner": "For law firm accountants processing 5\u201315 trust account transactions/month, manual reconciliation causes compliance risks. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-18",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction foremen managing 5\u201310 projects/week tool",
+  "description": "For construction foremen processing 5\u201310 projects/week, inefficient tracking causes delays in project timelines. We provide automated weekly progress and materials usage reports instead of manual reporting and spreadsheets.",
+  "target_audience": "construction foremen managing 5\u201310 projects/week",
+  "problem_solved": "Inability to track materials usage and project progress in real-time.",
+  "features": [
+    "manual entry for materials usage",
+    "weekly progress report generation",
+    "simple dashboard for project overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction foremen managing 5\u201310 projects/week",
+    "primary_problem": "Inability to track materials usage and project progress in real-time.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction foremen processing 5\u201310 projects/week, inefficient tracking causes delays in project timelines. We provide automated weekly progress and materials usage reports instead of manual reporting and spreadsheets.",
+    "current_alternative": "manual reporting and spreadsheets",
+    "must_have_features": [
+      "manual entry for materials usage",
+      "weekly progress report generation",
+      "simple dashboard for project overview"
+    ]
+  },
+  "one_liner": "For construction foremen processing 5\u201310 projects/week, inefficient tracking causes delays in project timelines. We provide automated weekly progress and materials usage reports instead of manual reporting and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-18",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}
