@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing coordinators in small clinics processing 5\u201315 invoices/month tool",
+  "description": "For medical billing coordinators in small clinics processing 5\u201315 invoices/month, frequent billing errors cause cash flow gaps. We generate daily patient billing error reports instead of manual tracking of billing errors.",
+  "target_audience": "medical billing coordinators in small clinics processing 5\u201315 invoices/month",
+  "problem_solved": "Frequent billing errors lead to delayed payments and cash flow issues.",
+  "features": [
+    "daily error report generation",
+    "manual error entry tracking",
+    "error categorization for easy review"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing coordinators in small clinics processing 5\u201315 invoices/month",
+    "primary_problem": "Frequent billing errors lead to delayed payments and cash flow issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing coordinators in small clinics processing 5\u201315 invoices/month, frequent billing errors cause cash flow gaps. We generate daily patient billing error reports instead of manual tracking of billing errors.",
+    "current_alternative": "manual tracking of billing errors",
+    "must_have_features": [
+      "daily error report generation",
+      "manual error entry tracking",
+      "error categorization for easy review"
+    ]
+  },
+  "one_liner": "For medical billing coordinators in small clinics processing 5\u201315 invoices/month, frequent billing errors cause cash flow gaps. We generate daily patient billing error reports instead of manual tracking of billing errors.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-19",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firm partners managing 10-20 clients",
+  "offer": "For accounting firm partners processing 10-20 clients, inefficient audit trails cause compliance delays. We automate compliance reporting instead of manual tracking and reporting processes.",
+  "problem": "Difficulty in maintaining accurate audit trails and generating timely compliance reports.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firm partners",
+    "Indie Hackers posts on compliance reporting workflows",
+    "DM outreach to accounting firm partners with demo video",
+    "Community forums where accounting partners share tools"
+  ],
+  "try_it": "Let users try manual entry and report generation for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual-first workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequent inputs as templates",
+    "Default reminders for key tasks",
+    "CSV import for existing client data",
+    "One-click report export feature",
+    "Streamline onboarding process steps"
+  ]
+}

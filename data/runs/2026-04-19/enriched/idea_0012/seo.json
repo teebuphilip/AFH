@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "shopify store owners managing tool",
+    "shopify store owners managing automation",
+    "shopify store owners processing 5 15 invoices month managing tool",
+    "shopify store owners processing 5 15 invoices month managing automation",
+    "shopify store owners processing 5 15 invoices month managing workflow"
+  ],
+  "secondary_keywords": [
+    "shopify store owners processing 5 15 invoices month managing tool software",
+    "shopify store owners processing 5 15 invoices month managing tool platform",
+    "shopify store owners processing 5 15 invoices month managing tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For Shopify store owners processing 5\u201315 invoices/month, missed renewals cause cash flow gaps. We notify finance ops of upcoming renewals instead of manual tracking of subscriptions in spreadsheets.",
+    "Managing recurring subscription expenses and renewals",
+    "Shopify store owners processing 5\u201315 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Shopify Store Owners Processing 5 15 Invoices Month Managing Tool Software",
+      "target_keyword": "shopify store owners processing 5 15 invoices month managing tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Store Owners Processing 5 15 Invoices Month Managing Tool Platform",
+      "target_keyword": "shopify store owners processing 5 15 invoices month managing tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Store Owners Processing 5 15 Invoices Month Managing Tool Solution",
+      "target_keyword": "shopify store owners processing 5 15 invoices month managing tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Store Owners Processing 5 15 Invoices Month Managing Tool",
+      "target_keyword": "shopify store owners processing 5 15 invoices month managing tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Store Owners Processing 5 15 Invoices Month Managing Automation",
+      "target_keyword": "shopify store owners processing 5 15 invoices month managing automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Shopify Store Owners Processing 5 15 Invoices Month Managing Workflow",
+      "target_keyword": "shopify store owners processing 5 15 invoices month managing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "shopify store owners managing tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "shopify store owners managing tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "shopify store owners managing tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "shopify store owners managing tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "shopify store owners managing tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | shopify store owners tool",
+      "shopify store owners tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "shopify store owners tool helps with managing recurring subscription expenses and renewals."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

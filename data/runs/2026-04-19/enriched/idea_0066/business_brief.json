@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/week tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/week, inefficient inventory tracking causes stockouts and delayed shipments. We automate weekly inventory reports instead of manual inventory tracking spreadsheets.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/week",
+  "problem_solved": "Inefficient inventory tracking leading to stockouts and delayed shipments.",
+  "features": [
+    "Weekly report generation",
+    "Inventory status alerts",
+    "User-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/week",
+    "primary_problem": "Inefficient inventory tracking leading to stockouts and delayed shipments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/week, inefficient inventory tracking causes stockouts and delayed shipments. We automate weekly inventory reports instead of manual inventory tracking spreadsheets.",
+    "current_alternative": "manual inventory tracking spreadsheets",
+    "must_have_features": [
+      "Weekly report generation",
+      "Inventory status alerts",
+      "User-friendly dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/week, inefficient inventory tracking causes stockouts and delayed shipments. We automate weekly inventory reports instead of manual inventory tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-19",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

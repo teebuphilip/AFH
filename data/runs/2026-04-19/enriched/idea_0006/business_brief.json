@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sales Operations Manager for Shopify Plus stores processing 10-20 sales commissions/month tool",
+  "description": "For Sales Operations Managers for Shopify Plus stores processing 10-20 sales commissions/month, inaccurate calculations cause delayed payouts. We automate reconciliation instead of manual reconciliation.",
+  "target_audience": "Sales Operations Manager for Shopify Plus stores processing 10-20 sales commissions/month",
+  "problem_solved": "Inaccurate sales commission calculations leading to discrepancies in payouts.",
+  "features": [
+    "Monthly summary reports of sales commissions",
+    "Manual entry option for commission adjustments",
+    "Basic dashboard for tracking commission discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Sales Operations Manager for Shopify Plus stores processing 10-20 sales commissions/month",
+    "primary_problem": "Inaccurate sales commission calculations leading to discrepancies in payouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Sales Operations Managers for Shopify Plus stores processing 10-20 sales commissions/month, inaccurate calculations cause delayed payouts. We automate reconciliation instead of manual reconciliation.",
+    "current_alternative": "Manual reconciliation of sales commissions with CRM data.",
+    "must_have_features": [
+      "Monthly summary reports of sales commissions",
+      "Manual entry option for commission adjustments",
+      "Basic dashboard for tracking commission discrepancies"
+    ]
+  },
+  "one_liner": "For Sales Operations Managers for Shopify Plus stores processing 10-20 sales commissions/month, inaccurate calculations cause delayed payouts. We automate reconciliation instead of manual reconciliation.",
+  "source": {
+    "idea_id": "idea_0006",
+    "run_date": "2026-04-19",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

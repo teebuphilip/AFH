@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 properties tool",
+  "description": "For property managers handling 10-20 properties, urgent maintenance requests cause delayed responses. We provide real-time alerts instead of manual tracking via email or spreadsheets.",
+  "target_audience": "property managers handling 10-20 properties",
+  "problem_solved": "urgent maintenance requests are often overlooked or delayed",
+  "features": [
+    "real-time alert notifications",
+    "simple dashboard for tracking requests",
+    "manual entry for maintenance issues"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 properties",
+    "primary_problem": "urgent maintenance requests are often overlooked or delayed",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 properties, urgent maintenance requests cause delayed responses. We provide real-time alerts instead of manual tracking via email or spreadsheets.",
+    "current_alternative": "manual tracking of maintenance requests via email or spreadsheets",
+    "must_have_features": [
+      "real-time alert notifications",
+      "simple dashboard for tracking requests",
+      "manual entry for maintenance issues"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 properties, urgent maintenance requests cause delayed responses. We provide real-time alerts instead of manual tracking via email or spreadsheets.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-19",
+    "overlay_score": 69,
+    "arr_score": 68
+  }
+}

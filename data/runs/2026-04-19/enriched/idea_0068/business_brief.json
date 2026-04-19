@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized medical clinics with 5-15 employees tool",
+  "description": "For HR managers in small to medium-sized medical clinics processing 5-15 employees, manual tracking of certification expiration causes compliance risks. We provide automated alerts instead of manual tracking of certification expiration dates.",
+  "target_audience": "HR managers in small to medium-sized medical clinics with 5-15 employees",
+  "problem_solved": "Monitoring expiring certifications for compliance",
+  "features": [
+    "Dashboard for tracking employee training records",
+    "Manual entry option for certifications",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized medical clinics with 5-15 employees",
+    "primary_problem": "Monitoring expiring certifications for compliance",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR managers in small to medium-sized medical clinics processing 5-15 employees, manual tracking of certification expiration causes compliance risks. We provide automated alerts instead of manual tracking of certification expiration dates.",
+    "current_alternative": "manual tracking of certification expiration dates",
+    "must_have_features": [
+      "Dashboard for tracking employee training records",
+      "Manual entry option for certifications",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized medical clinics processing 5-15 employees, manual tracking of certification expiration causes compliance risks. We provide automated alerts instead of manual tracking of certification expiration dates.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

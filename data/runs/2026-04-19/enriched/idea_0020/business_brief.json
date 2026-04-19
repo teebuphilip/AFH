@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 pay slips/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 pay slips/month, manual formatting causes payment delays. We automate pay slip generation instead of manual formatting in spreadsheets.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 pay slips/month",
+  "problem_solved": "Converting raw payroll hours into formatted pay slips efficiently.",
+  "features": [
+    "manual entry of raw hours",
+    "template selection for pay slips",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 pay slips/month",
+    "primary_problem": "Converting raw payroll hours into formatted pay slips efficiently.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 pay slips/month, manual formatting causes payment delays. We automate pay slip generation instead of manual formatting in spreadsheets.",
+    "current_alternative": "manual formatting of pay slips in spreadsheets",
+    "must_have_features": [
+      "manual entry of raw hours",
+      "template selection for pay slips",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 pay slips/month, manual formatting causes payment delays. We automate pay slip generation instead of manual formatting in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

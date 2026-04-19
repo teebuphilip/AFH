@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers managing 10\u201350 orders/month tool",
+  "description": "For Etsy sellers processing 10\u201350 orders/month, stock shortages cause missed sales opportunities. We provide automated inventory alerts instead of manual inventory tracking via spreadsheets.",
+  "target_audience": "Etsy sellers managing 10\u201350 orders/month",
+  "problem_solved": "Stock shortages leading to missed sales opportunities.",
+  "features": [
+    "Threshold setting for low stock alerts",
+    "Real-time inventory level monitoring",
+    "Email notifications for stock alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers managing 10\u201350 orders/month",
+    "primary_problem": "Stock shortages leading to missed sales opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201350 orders/month, stock shortages cause missed sales opportunities. We provide automated inventory alerts instead of manual inventory tracking via spreadsheets.",
+    "current_alternative": "Manual inventory tracking via spreadsheets",
+    "must_have_features": [
+      "Threshold setting for low stock alerts",
+      "Real-time inventory level monitoring",
+      "Email notifications for stock alerts"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201350 orders/month, stock shortages cause missed sales opportunities. We provide automated inventory alerts instead of manual inventory tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0052",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

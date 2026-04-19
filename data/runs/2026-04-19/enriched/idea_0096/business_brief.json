@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firm partners managing 10-20 clients tool",
+  "description": "For accounting firm partners processing 10-20 clients, inefficient audit trails cause compliance delays. We automate compliance reporting instead of manual tracking and reporting processes.",
+  "target_audience": "accounting firm partners managing 10-20 clients",
+  "problem_solved": "Difficulty in maintaining accurate audit trails and generating timely compliance reports.",
+  "features": [
+    "manual entry of audit trail data",
+    "template generation for compliance reports",
+    "export functionality for reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firm partners managing 10-20 clients",
+    "primary_problem": "Difficulty in maintaining accurate audit trails and generating timely compliance reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firm partners processing 10-20 clients, inefficient audit trails cause compliance delays. We automate compliance reporting instead of manual tracking and reporting processes.",
+    "current_alternative": "manual tracking and reporting processes",
+    "must_have_features": [
+      "manual entry of audit trail data",
+      "template generation for compliance reports",
+      "export functionality for reports"
+    ]
+  },
+  "one_liner": "For accounting firm partners processing 10-20 clients, inefficient audit trails cause compliance delays. We automate compliance reporting instead of manual tracking and reporting processes.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-19",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

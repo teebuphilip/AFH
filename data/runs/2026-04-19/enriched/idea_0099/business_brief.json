@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201310 projects/month tool",
+  "description": "For construction contractors processing 5\u201310 projects/month, delayed reporting causes cash flow gaps. We automate progress reporting instead of manual reporting and spreadsheets.",
+  "target_audience": "construction contractors managing 5\u201310 projects/month",
+  "problem_solved": "Inability to generate timely and accurate progress reports",
+  "features": [
+    "template-based report generation",
+    "progress tracking dashboard",
+    "email notifications for report completion"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201310 projects/month",
+    "primary_problem": "Inability to generate timely and accurate progress reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201310 projects/month, delayed reporting causes cash flow gaps. We automate progress reporting instead of manual reporting and spreadsheets.",
+    "current_alternative": "manual reporting and spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "progress tracking dashboard",
+      "email notifications for report completion"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201310 projects/month, delayed reporting causes cash flow gaps. We automate progress reporting instead of manual reporting and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-19",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

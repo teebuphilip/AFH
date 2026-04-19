@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firm partners manual tool",
+    "accounting firm partners manual automation",
+    "billing workflow",
+    "claims tracking",
+    "invoice payments",
+    "invoice tracking",
+    "vendor invoices"
+  ],
+  "secondary_keywords": [
+    "billing workflow software",
+    "billing workflow platform",
+    "billing workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to billing workflow",
+    "best billing workflow tool",
+    "billing workflow vs spreadsheets",
+    "billing workflow checklist",
+    "billing workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firm partners processing 10\u201320 invoices/month, manual billing processes cause time inefficiencies. We generate automated client billing summaries instead of manual billing summary creation.",
+    "Manual billing processes lead to time inefficiencies.",
+    "accounting firm partners processing 10\u201320 invoices/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Billing Workflow",
+      "target_keyword": "how to billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Billing Workflow Tool",
+      "target_keyword": "best billing workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Vs Spreadsheets",
+      "target_keyword": "billing workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Billing Workflow Checklist",
+      "target_keyword": "billing workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Pricing",
+      "target_keyword": "billing workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Software",
+      "target_keyword": "billing workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Platform",
+      "target_keyword": "billing workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow Solution",
+      "target_keyword": "billing workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Billing Workflow",
+      "target_keyword": "billing workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Claims Tracking",
+      "target_keyword": "claims tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Payments",
+      "target_keyword": "invoice payments",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking",
+      "target_keyword": "invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firm partners manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firm partners manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firm partners manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firm partners manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firm partners manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firm partners tool",
+      "accounting firm partners tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firm partners tool helps with manual billing processes lead to time inefficiencies."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors processing 5\u201315 bids/month",
+  "offer": "For construction contractors processing 5\u201315 bids/month, inconsistent proposal formats cause delays in project approvals. We convert bids into standardized proposals instead of manual proposal creation using word processors.",
+  "problem": "Inconsistent proposal formats lead to confusion and delays in project approvals.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on proposal workflows",
+    "DM outreach to construction contractors with demo video",
+    "Community forums sharing tools for contractors"
+  ],
+  "try_it": "Let users try template selection for proposals and editable sections",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

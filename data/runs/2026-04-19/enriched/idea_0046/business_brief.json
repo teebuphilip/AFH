@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet accounting teams processing 10\u201320 delivery receipts/month tool",
+  "description": "For fleet accounting teams processing 10\u201320 delivery receipts/month, manual entry causes inaccuracies in expense reports. We automate the conversion of delivery receipts instead of manual data entry into spreadsheets.",
+  "target_audience": "fleet accounting teams processing 10\u201320 delivery receipts/month",
+  "problem_solved": "manual entry of delivery receipts leads to inaccuracies in expense reports",
+  "features": [
+    "expense report generation",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet accounting teams processing 10\u201320 delivery receipts/month",
+    "primary_problem": "manual entry of delivery receipts leads to inaccuracies in expense reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet accounting teams processing 10\u201320 delivery receipts/month, manual entry causes inaccuracies in expense reports. We automate the conversion of delivery receipts instead of manual data entry into spreadsheets.",
+    "current_alternative": "manual data entry into spreadsheets",
+    "must_have_features": [
+      "expense report generation",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For fleet accounting teams processing 10\u201320 delivery receipts/month, manual entry causes inaccuracies in expense reports. We automate the conversion of delivery receipts instead of manual data entry into spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-19",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

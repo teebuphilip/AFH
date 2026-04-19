@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "legal billing specialists processing 5\u201315 invoices/month tool",
+  "description": "For legal billing specialists processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We provide a streamlined invoicing system instead of manual invoicing and tracking.",
+  "target_audience": "legal billing specialists processing 5\u201315 invoices/month",
+  "problem_solved": "Inefficient invoicing process for client retainers",
+  "features": [
+    "manual invoice creation",
+    "client retainer management",
+    "basic reporting on invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "legal billing specialists processing 5\u201315 invoices/month",
+    "primary_problem": "Inefficient invoicing process for client retainers",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For legal billing specialists processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We provide a streamlined invoicing system instead of manual invoicing and tracking.",
+    "current_alternative": "manual invoicing and tracking",
+    "must_have_features": [
+      "manual invoice creation",
+      "client retainer management",
+      "basic reporting on invoices"
+    ]
+  },
+  "one_liner": "For legal billing specialists processing 5\u201315 invoices/month, inefficient invoicing causes cash flow gaps. We provide a streamlined invoicing system instead of manual invoicing and tracking.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-19",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

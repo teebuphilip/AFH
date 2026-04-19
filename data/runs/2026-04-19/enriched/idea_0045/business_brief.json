@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers managing 5\u201315 employees tool",
+  "description": "For property managers managing 5\u201315 employees, manual tracking of certification renewals causes missed deadlines. We automate tracking and reporting instead of manual tracking through spreadsheets.",
+  "target_audience": "property managers managing 5\u201315 employees",
+  "problem_solved": "Difficulty in tracking and reporting employee certification renewals.",
+  "features": [
+    "manual entry for certification details",
+    "simple reporting dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers managing 5\u201315 employees",
+    "primary_problem": "Difficulty in tracking and reporting employee certification renewals.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers managing 5\u201315 employees, manual tracking of certification renewals causes missed deadlines. We automate tracking and reporting instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "manual entry for certification details",
+      "simple reporting dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers managing 5\u201315 employees, manual tracking of certification renewals causes missed deadlines. We automate tracking and reporting instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

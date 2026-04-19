@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "construction contractors manual tool",
+    "construction contractors manual automation",
+    "construction contractors processing 5 15 job site logs month manual tool",
+    "construction contractors processing 5 15 job site logs month manual automation",
+    "construction contractors processing 5 15 job site logs month manual workflow"
+  ],
+  "secondary_keywords": [
+    "construction contractors processing 5 15 job site logs month manual tool software",
+    "construction contractors processing 5 15 job site logs month manual tool platform",
+    "construction contractors processing 5 15 job site logs month manual tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For construction contractors processing 5\u201315 job site logs/month, manual entry causes compliance issues that can lead to fines. We convert handwritten logs into digital compliance reports instead of manual transcription of logs into spreadsheets.",
+    "Manual entry of handwritten logs leads to compliance issues and potential fines.",
+    "construction contractors processing 5\u201315 job site logs/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Construction Contractors Processing 5 15 Job Site Logs Month Manual Tool Software",
+      "target_keyword": "construction contractors processing 5 15 job site logs month manual tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Processing 5 15 Job Site Logs Month Manual Tool Platform",
+      "target_keyword": "construction contractors processing 5 15 job site logs month manual tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Processing 5 15 Job Site Logs Month Manual Tool Solution",
+      "target_keyword": "construction contractors processing 5 15 job site logs month manual tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Processing 5 15 Job Site Logs Month Manual Tool",
+      "target_keyword": "construction contractors processing 5 15 job site logs month manual tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Processing 5 15 Job Site Logs Month Manual Automation",
+      "target_keyword": "construction contractors processing 5 15 job site logs month manual automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Construction Contractors Processing 5 15 Job Site Logs Month Manual Workflow",
+      "target_keyword": "construction contractors processing 5 15 job site logs month manual workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "construction contractors manual tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "construction contractors manual tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "construction contractors manual tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "construction contractors manual tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "construction contractors manual tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | construction contractors tool",
+      "construction contractors tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "construction contractors tool helps with manual entry of handwritten logs leads to compliance issues and potential fines."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

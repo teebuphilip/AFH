@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "offer": "For freelancers using QuickBooks processing 5\u201315 invoices/month, billing discrepancies cause cash flow gaps. We reconcile billing data with project timesheets and email discrepancies to finance ops instead of manual reconciliation of billing and timesheet data.",
+  "problem": "Discrepancies between billing data and project timesheets",
+  "channels_free": [
+    "Post in Reddit communities for freelancers seeking solutions",
+    "Engage in Indie Hackers discussions about invoicing issues",
+    "Direct message 20-50 freelancers with a demo video",
+    "Share insights in community forums for freelancers"
+  ],
+  "try_it": "Let users manually enter data for a few invoices",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a call to action",
+    "Produce a short demo video of the manual workflow",
+    "Conduct 10 brief interviews with potential users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminders for billing tasks",
+    "Enable CSV import for existing client data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding with fewer steps"
+  ]
+}

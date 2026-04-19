@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic accountants processing 5\u201315 tax deduction summaries/quarter tool",
+  "description": "For medical clinic accountants processing 5\u201315 tax deduction summaries/quarter, manual preparation causes late submissions. We automate the summary preparation instead of manual spreadsheets.",
+  "target_audience": "medical clinic accountants processing 5\u201315 tax deduction summaries/quarter",
+  "problem_solved": "Time-consuming manual preparation of tax deduction summaries.",
+  "features": [
+    "Template-based summary generation",
+    "User-friendly interface for data entry",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic accountants processing 5\u201315 tax deduction summaries/quarter",
+    "primary_problem": "Time-consuming manual preparation of tax deduction summaries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic accountants processing 5\u201315 tax deduction summaries/quarter, manual preparation causes late submissions. We automate the summary preparation instead of manual spreadsheets.",
+    "current_alternative": "Manual preparation of tax deduction summaries using spreadsheets.",
+    "must_have_features": [
+      "Template-based summary generation",
+      "User-friendly interface for data entry",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinic accountants processing 5\u201315 tax deduction summaries/quarter, manual preparation causes late submissions. We automate the summary preparation instead of manual spreadsheets.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-19",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

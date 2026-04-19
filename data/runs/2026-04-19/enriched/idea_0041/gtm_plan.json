@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics fleet supervisors managing 10-20 vehicles",
+  "offer": "For logistics fleet supervisors managing 10-20 vehicles, missed inspections cause compliance penalties. We automate scheduling and tracking instead of manual tracking through spreadsheets and calendars.",
+  "problem": "Difficulty in tracking and scheduling timely vehicle safety inspections.",
+  "channels_free": [
+    "Post in Reddit communities for logistics fleet supervisors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to logistics fleet supervisors with demo video",
+    "Community forums for sharing tools among supervisors"
+  ],
+  "try_it": "Let users try manual entry for inspection dates and reminders",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the manual workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for quick access",
+    "Set default reminder schedules for inspections",
+    "Enable CSV import for existing inspection data",
+    "Allow one-click export of simple inspection reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual scheduling causes late fees. We automate payment schedules instead of manual scheduling and tracking.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "timely vendor payments",
+  "features": [
+    "simple invoice entry",
+    "monthly schedule generation",
+    "email reminders for payment dates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "timely vendor payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual scheduling causes late fees. We automate payment schedules instead of manual scheduling and tracking.",
+    "current_alternative": "manual scheduling and tracking",
+    "must_have_features": [
+      "simple invoice entry",
+      "monthly schedule generation",
+      "email reminders for payment dates"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual scheduling causes late fees. We automate payment schedules instead of manual scheduling and tracking.",
+  "source": {
+    "idea_id": "idea_0009",
+    "run_date": "2026-04-19",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

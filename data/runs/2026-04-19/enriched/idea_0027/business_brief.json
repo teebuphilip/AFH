@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 10\u201320 claims/week tool",
+  "description": "For insurance adjusters processing 10\u201320 claims/week, lack of timely updates causes delayed resolutions. We generate weekly claims status summaries instead of manual tracking through spreadsheets and emails.",
+  "target_audience": "insurance adjusters processing 10\u201320 claims/week",
+  "problem_solved": "Lack of timely updates on claims status leads to delayed resolutions.",
+  "features": [
+    "weekly summary generation",
+    "manual input for claims updates",
+    "email notifications for status changes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 10\u201320 claims/week",
+    "primary_problem": "Lack of timely updates on claims status leads to delayed resolutions.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 10\u201320 claims/week, lack of timely updates causes delayed resolutions. We generate weekly claims status summaries instead of manual tracking through spreadsheets and emails.",
+    "current_alternative": "manual tracking through spreadsheets and emails",
+    "must_have_features": [
+      "weekly summary generation",
+      "manual input for claims updates",
+      "email notifications for status changes"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 10\u201320 claims/week, lack of timely updates causes delayed resolutions. We generate weekly claims status summaries instead of manual tracking through spreadsheets and emails.",
+  "source": {
+    "idea_id": "idea_0027",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

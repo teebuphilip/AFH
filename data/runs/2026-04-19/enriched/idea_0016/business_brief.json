@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 shipments/month tool",
+  "description": "For logistics carriers processing 50\u2013100 shipments/month, delays in shipment tracking cause operational inefficiencies. We reconcile shipment tracking data with purchase orders instead of manual tracking and reconciliation processes.",
+  "target_audience": "logistics carriers processing 50\u2013100 shipments/month",
+  "problem_solved": "delays in shipment tracking lead to operational inefficiencies",
+  "features": [
+    "manual entry of shipment and order data",
+    "simple dashboard for tracking status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 shipments/month",
+    "primary_problem": "delays in shipment tracking lead to operational inefficiencies",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 shipments/month, delays in shipment tracking cause operational inefficiencies. We reconcile shipment tracking data with purchase orders instead of manual tracking and reconciliation processes.",
+    "current_alternative": "manual tracking and reconciliation processes",
+    "must_have_features": [
+      "manual entry of shipment and order data",
+      "simple dashboard for tracking status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 shipments/month, delays in shipment tracking cause operational inefficiencies. We reconcile shipment tracking data with purchase orders instead of manual tracking and reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-19",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

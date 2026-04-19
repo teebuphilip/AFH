@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Fleet compliance officers managing 10-50 vehicles tool",
+  "description": "For fleet compliance officers processing 10-50 vehicles, missed registration renewals cause compliance penalties. We automate reminders instead of manual tracking using spreadsheets or calendars.",
+  "target_audience": "Fleet compliance officers managing 10-50 vehicles",
+  "problem_solved": "Difficulty in tracking and scheduling vehicle registration renewals",
+  "features": [
+    "Simple dashboard to view registration status",
+    "Ability to log and track renewal history",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Fleet compliance officers managing 10-50 vehicles",
+    "primary_problem": "Difficulty in tracking and scheduling vehicle registration renewals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet compliance officers processing 10-50 vehicles, missed registration renewals cause compliance penalties. We automate reminders instead of manual tracking using spreadsheets or calendars.",
+    "current_alternative": "Manual tracking using spreadsheets or calendars",
+    "must_have_features": [
+      "Simple dashboard to view registration status",
+      "Ability to log and track renewal history",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For fleet compliance officers processing 10-50 vehicles, missed registration renewals cause compliance penalties. We automate reminders instead of manual tracking using spreadsheets or calendars.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

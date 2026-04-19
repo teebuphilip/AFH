@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201320 invoices/month tool",
+  "description": "For Shopify store owners processing 10\u201320 invoices/month, manual data entry causes late orders. We automate data formatting instead of manual data entry into CRM systems.",
+  "target_audience": "Shopify store owners processing 10\u201320 invoices/month",
+  "problem_solved": "Inability to efficiently format customer data for CRM systems",
+  "features": [
+    "Data formatting templates",
+    "Export options for CRM systems",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201320 invoices/month",
+    "primary_problem": "Inability to efficiently format customer data for CRM systems",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201320 invoices/month, manual data entry causes late orders. We automate data formatting instead of manual data entry into CRM systems.",
+    "current_alternative": "Manual data entry into CRM systems",
+    "must_have_features": [
+      "Data formatting templates",
+      "Export options for CRM systems",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201320 invoices/month, manual data entry causes late orders. We automate data formatting instead of manual data entry into CRM systems.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-19",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

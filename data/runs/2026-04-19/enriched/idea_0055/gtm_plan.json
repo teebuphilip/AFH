@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "sales operations team at a marketing agency",
+  "offer": "For sales operations teams at marketing agencies processing 5\u201315 travel bookings/month, inefficient travel booking causes missed client meetings. We automate scheduling and booking instead of manual scheduling and booking through various platforms.",
+  "problem": "Inefficient travel booking processes lead to wasted time and missed opportunities.",
+  "channels_free": [
+    "Post in Reddit communities for sales operations help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to sales operations teams with demo video",
+    "Community forums for sharing tools and solutions"
+  ],
+  "try_it": "Let users try simple interface for inputting travel preferences",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

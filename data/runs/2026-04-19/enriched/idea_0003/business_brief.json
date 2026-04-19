@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 credit card statements/month tool",
+  "description": "For accounting firms processing 10\u201320 credit card statements/month, manual report generation causes delays in client billing. We automate expense report generation instead of manual compilation of expense reports from credit card statements.",
+  "target_audience": "accounting firms processing 10\u201320 credit card statements/month",
+  "problem_solved": "Manual expense report generation is time-consuming and prone to errors.",
+  "features": [
+    "manual entry of credit card transactions",
+    "monthly report generation",
+    "export to CSV format"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 credit card statements/month",
+    "primary_problem": "Manual expense report generation is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 credit card statements/month, manual report generation causes delays in client billing. We automate expense report generation instead of manual compilation of expense reports from credit card statements.",
+    "current_alternative": "manual compilation of expense reports from credit card statements",
+    "must_have_features": [
+      "manual entry of credit card transactions",
+      "monthly report generation",
+      "export to CSV format"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 credit card statements/month, manual report generation causes delays in client billing. We automate expense report generation instead of manual compilation of expense reports from credit card statements.",
+  "source": {
+    "idea_id": "idea_0003",
+    "run_date": "2026-04-19",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

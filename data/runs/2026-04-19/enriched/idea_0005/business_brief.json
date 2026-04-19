@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 leases/month tool",
+  "description": "For property managers processing 5\u201315 leases/month, missed lease expiry notifications cause late renewals. We automate tracking and notifications instead of manual tracking via spreadsheets or calendars.",
+  "target_audience": "property managers handling 5\u201315 leases/month",
+  "problem_solved": "missed lease expiry notifications",
+  "features": [
+    "email notifications for upcoming expirations",
+    "dashboard for lease management",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 leases/month",
+    "primary_problem": "missed lease expiry notifications",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 leases/month, missed lease expiry notifications cause late renewals. We automate tracking and notifications instead of manual tracking via spreadsheets or calendars.",
+    "current_alternative": "manual tracking via spreadsheets or calendars",
+    "must_have_features": [
+      "email notifications for upcoming expirations",
+      "dashboard for lease management",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 leases/month, missed lease expiry notifications cause late renewals. We automate tracking and notifications instead of manual tracking via spreadsheets or calendars.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-19",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

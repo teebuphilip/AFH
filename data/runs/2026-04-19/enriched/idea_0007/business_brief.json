@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, mismatched supplier payment details cause late payments. We automate the extraction and validation of payment details instead of manual verification of payment details.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Mismatched supplier payment details leading to late payments.",
+  "features": [
+    "manual entry for supplier payment details",
+    "alert system for mismatches",
+    "report generation for payment discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Mismatched supplier payment details leading to late payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, mismatched supplier payment details cause late payments. We automate the extraction and validation of payment details instead of manual verification of payment details.",
+    "current_alternative": "manual verification of payment details",
+    "must_have_features": [
+      "manual entry for supplier payment details",
+      "alert system for mismatches",
+      "report generation for payment discrepancies"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, mismatched supplier payment details cause late payments. We automate the extraction and validation of payment details instead of manual verification of payment details.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-19",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized accounting firms processing 5\u201315 payroll reports/month tool",
+  "description": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payroll reports/month, inefficient payroll report generation causes delays in employee payments. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "HR managers in small to medium-sized accounting firms processing 5\u201315 payroll reports/month",
+  "problem_solved": "Inefficient payroll report generation leading to delays in processing.",
+  "features": [
+    "Template-based report generation",
+    "Email report delivery",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized accounting firms processing 5\u201315 payroll reports/month",
+    "primary_problem": "Inefficient payroll report generation leading to delays in processing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payroll reports/month, inefficient payroll report generation causes delays in employee payments. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "Manual report generation using spreadsheets",
+    "must_have_features": [
+      "Template-based report generation",
+      "Email report delivery",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payroll reports/month, inefficient payroll report generation causes delays in employee payments. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-19",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

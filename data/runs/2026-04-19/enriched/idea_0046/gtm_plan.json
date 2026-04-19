@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "fleet accounting teams processing 10\u201320 delivery receipts/month",
+  "offer": "For fleet accounting teams processing 10\u201320 delivery receipts/month, manual entry causes inaccuracies in expense reports. We automate the conversion of delivery receipts instead of manual data entry into spreadsheets.",
+  "problem": "manual entry of delivery receipts leads to inaccuracies in expense reports",
+  "channels_free": [
+    "Post in Reddit communities for fleet accounting help",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to 20-50 fleet accounting teams with demo video",
+    "Community forums where fleet accounting teams share tools"
+  ],
+  "try_it": "Let users try expense report generation and invoice entry form",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

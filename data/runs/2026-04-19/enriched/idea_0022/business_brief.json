@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, billing discrepancies cause cash flow gaps. We reconcile billing data with project timesheets and email discrepancies to finance ops instead of manual reconciliation of billing and timesheet data.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Discrepancies between billing data and project timesheets",
+  "features": [
+    "manual data entry for billing and timesheets",
+    "email notifications for discrepancies",
+    "simple dashboard for tracking reconciliations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Discrepancies between billing data and project timesheets",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, billing discrepancies cause cash flow gaps. We reconcile billing data with project timesheets and email discrepancies to finance ops instead of manual reconciliation of billing and timesheet data.",
+    "current_alternative": "manual reconciliation of billing and timesheet data",
+    "must_have_features": [
+      "manual data entry for billing and timesheets",
+      "email notifications for discrepancies",
+      "simple dashboard for tracking reconciliations"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, billing discrepancies cause cash flow gaps. We reconcile billing data with project timesheets and email discrepancies to finance ops instead of manual reconciliation of billing and timesheet data.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-19",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

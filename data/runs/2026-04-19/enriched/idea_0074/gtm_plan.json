@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small to medium-sized companies using BambooHR, monitoring 50-100 employees",
+  "offer": "For HR managers in small to medium-sized companies using BambooHR, processing 50-100 employees, inaccurate attendance data causes payroll errors. We provide attendance monitoring instead of manual tracking and spreadsheets.",
+  "problem": "Inaccurate attendance data leading to payroll errors",
+  "channels_free": [
+    "Post in Reddit communities for HR managers seeking solutions",
+    "Indie Hackers discussions on similar attendance issues",
+    "DM outreach to HR managers with a demo video",
+    "Community forums where HR managers share tools"
+  ],
+  "try_it": "Let users try real-time attendance monitoring on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showcasing manual attendance tracking",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for initial users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing employee data",
+    "One-click export of simple attendance reports",
+    "Fewer steps in user onboarding"
+  ]
+}

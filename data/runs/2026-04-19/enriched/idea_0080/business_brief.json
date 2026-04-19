@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet operations managers in logistics carriers managing 5-15 vehicles tool",
+  "description": "For fleet operations managers in logistics carriers managing 5-15 vehicles, inconsistent vehicle maintenance causes unexpected breakdowns. We provide a dedicated tracking tool instead of manual logs and spreadsheets.",
+  "target_audience": "fleet operations managers in logistics carriers managing 5-15 vehicles",
+  "problem_solved": "inconsistent vehicle maintenance leading to unexpected breakdowns",
+  "features": [
+    "manual entry for maintenance logs",
+    "reminder notifications for upcoming maintenance",
+    "report generation for maintenance history"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet operations managers in logistics carriers managing 5-15 vehicles",
+    "primary_problem": "inconsistent vehicle maintenance leading to unexpected breakdowns",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet operations managers in logistics carriers managing 5-15 vehicles, inconsistent vehicle maintenance causes unexpected breakdowns. We provide a dedicated tracking tool instead of manual logs and spreadsheets.",
+    "current_alternative": "manual logs and spreadsheets",
+    "must_have_features": [
+      "manual entry for maintenance logs",
+      "reminder notifications for upcoming maintenance",
+      "report generation for maintenance history"
+    ]
+  },
+  "one_liner": "For fleet operations managers in logistics carriers managing 5-15 vehicles, inconsistent vehicle maintenance causes unexpected breakdowns. We provide a dedicated tracking tool instead of manual logs and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-19",
+    "overlay_score": 60,
+    "arr_score": 61
+  }
+}

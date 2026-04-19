@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers processing 5\u201315 shifts/week tool",
+  "description": "For restaurant managers processing 5\u201315 shifts/week, inefficient scheduling causes staff dissatisfaction and increased labor costs. We automate shift scheduling instead of manual scheduling and tracking.",
+  "target_audience": "restaurant managers processing 5\u201315 shifts/week",
+  "problem_solved": "Inefficient shift scheduling and overtime tracking",
+  "features": [
+    "manual shift entry",
+    "overtime tracking",
+    "weekly schedule overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers processing 5\u201315 shifts/week",
+    "primary_problem": "Inefficient shift scheduling and overtime tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers processing 5\u201315 shifts/week, inefficient scheduling causes staff dissatisfaction and increased labor costs. We automate shift scheduling instead of manual scheduling and tracking.",
+    "current_alternative": "manual scheduling and tracking",
+    "must_have_features": [
+      "manual shift entry",
+      "overtime tracking",
+      "weekly schedule overview"
+    ]
+  },
+  "one_liner": "For restaurant managers processing 5\u201315 shifts/week, inefficient scheduling causes staff dissatisfaction and increased labor costs. We automate shift scheduling instead of manual scheduling and tracking.",
+  "source": {
+    "idea_id": "idea_0032",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

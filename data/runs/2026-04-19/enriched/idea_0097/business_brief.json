@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 properties tool",
+  "description": "For property managers handling 5\u201315 properties, inaccurate pricing causes lost rental income. We provide real-time vacancy monitoring and pricing recommendations instead of manual market research and guesswork.",
+  "target_audience": "property managers handling 5\u201315 properties",
+  "problem_solved": "Inability to adjust pricing based on real-time vacancy data.",
+  "features": [
+    "real-time vacancy rate tracking",
+    "user-friendly dashboard for property performance",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 properties",
+    "primary_problem": "Inability to adjust pricing based on real-time vacancy data.",
+    "primary_gap_type": "pricing gap",
+    "mvp_wedge": "For property managers handling 5\u201315 properties, inaccurate pricing causes lost rental income. We provide real-time vacancy monitoring and pricing recommendations instead of manual market research and guesswork.",
+    "current_alternative": "manual market research and guesswork",
+    "must_have_features": [
+      "real-time vacancy rate tracking",
+      "user-friendly dashboard for property performance",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 properties, inaccurate pricing causes lost rental income. We provide real-time vacancy monitoring and pricing recommendations instead of manual market research and guesswork.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

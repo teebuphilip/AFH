@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations for small marketing agencies processing 5\u201315 timesheets/month tool",
+  "description": "For HR operations for small marketing agencies processing 5\u201315 timesheets/month, inconsistent submissions cause payroll delays. We alert HR ops instead of manual tracking and reminders via email.",
+  "target_audience": "HR operations for small marketing agencies processing 5\u201315 timesheets/month",
+  "problem_solved": "Inconsistent timesheet submissions lead to payroll delays.",
+  "features": [
+    "dashboard for tracking submissions",
+    "manual entry option for corrections",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations for small marketing agencies processing 5\u201315 timesheets/month",
+    "primary_problem": "Inconsistent timesheet submissions lead to payroll delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations for small marketing agencies processing 5\u201315 timesheets/month, inconsistent submissions cause payroll delays. We alert HR ops instead of manual tracking and reminders via email.",
+    "current_alternative": "manual tracking and reminders via email",
+    "must_have_features": [
+      "dashboard for tracking submissions",
+      "manual entry option for corrections",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR operations for small marketing agencies processing 5\u201315 timesheets/month, inconsistent submissions cause payroll delays. We alert HR ops instead of manual tracking and reminders via email.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

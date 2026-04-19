@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms processing 5\u201315 payroll filings/month",
+  "offer": "For accounting firms processing 5\u201315 payroll filings/month, manual data entry causes late filings. We convert raw payroll data into formatted tax compliance filings instead of manual data entry and spreadsheet management.",
+  "problem": "Timely and accurate tax compliance filings",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Engage on Indie Hackers about payroll solutions",
+    "DM outreach to 20-50 accounting firms with demos",
+    "Participate in community forums for accounting tools"
+  ],
+  "try_it": "Let users try error-checking for payroll data and manual invoice entry",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "Allow one-click export of simple reports",
+    "Streamline onboarding steps"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in small marketing agencies processing 10-20 invoices/month tool",
+  "description": "For procurement managers in small marketing agencies processing 10-20 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+  "target_audience": "procurement managers in small marketing agencies processing 10-20 invoices/month",
+  "problem_solved": "Reconciling vendor invoices with purchase orders efficiently.",
+  "features": [
+    "manual invoice entry",
+    "purchase order matching",
+    "weekly email reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in small marketing agencies processing 10-20 invoices/month",
+    "primary_problem": "Reconciling vendor invoices with purchase orders efficiently.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in small marketing agencies processing 10-20 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual invoice entry",
+      "purchase order matching",
+      "weekly email reporting"
+    ]
+  },
+  "one_liner": "For procurement managers in small marketing agencies processing 10-20 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0001",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

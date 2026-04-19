@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers handling 5\u201315 projects/month tool",
+  "description": "For construction project managers processing 5\u201315 projects/month, compliance reporting delays cause project penalties. We automate report preparation instead of manual report generation using spreadsheets.",
+  "target_audience": "construction project managers handling 5\u201315 projects/month",
+  "problem_solved": "Difficulty in generating timely health and safety compliance reports.",
+  "features": [
+    "template-based report generation",
+    "user-friendly dashboard for tracking compliance status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers handling 5\u201315 projects/month",
+    "primary_problem": "Difficulty in generating timely health and safety compliance reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction project managers processing 5\u201315 projects/month, compliance reporting delays cause project penalties. We automate report preparation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly dashboard for tracking compliance status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction project managers processing 5\u201315 projects/month, compliance reporting delays cause project penalties. We automate report preparation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-19",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

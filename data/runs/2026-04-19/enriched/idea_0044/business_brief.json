@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project accountants processing 5\u201315 invoices/month tool",
+  "description": "For construction project accountants processing 5\u201315 invoices/month, inconsistent payment status reporting causes cash flow gaps. We automate report generation instead of manual tracking and reporting.",
+  "target_audience": "construction project accountants processing 5\u201315 invoices/month",
+  "problem_solved": "Inconsistent payment status reporting leads to cash flow gaps.",
+  "features": [
+    "manual entry of subcontractor payment data",
+    "customizable report templates",
+    "email notifications for report availability"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project accountants processing 5\u201315 invoices/month",
+    "primary_problem": "Inconsistent payment status reporting leads to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project accountants processing 5\u201315 invoices/month, inconsistent payment status reporting causes cash flow gaps. We automate report generation instead of manual tracking and reporting.",
+    "current_alternative": "manual tracking and reporting of subcontractor payments",
+    "must_have_features": [
+      "manual entry of subcontractor payment data",
+      "customizable report templates",
+      "email notifications for report availability"
+    ]
+  },
+  "one_liner": "For construction project accountants processing 5\u201315 invoices/month, inconsistent payment status reporting causes cash flow gaps. We automate report generation instead of manual tracking and reporting.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-19",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

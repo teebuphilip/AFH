@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "contract managers in accounting firms processing 5\u201315 contracts/month",
+  "offer": "For contract managers in accounting firms processing 5\u201315 contracts/month, missed compliance milestones cause supplier penalties. We provide compliance alerts instead of manual tracking through spreadsheets.",
+  "problem": "Difficulty in tracking contract compliance milestones leading to potential penalties.",
+  "channels_free": [
+    "Post in Reddit communities focused on contract management",
+    "Indie Hackers discussions about compliance tools",
+    "DM outreach to contract managers with demo video",
+    "Participate in forums for contract management solutions"
+  ],
+  "try_it": "Let users try monthly compliance milestone alerts on 1-3 contracts",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding to first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy access",
+    "Pre-set reminder schedules for compliance checks",
+    "Allow CSV import for existing contract data",
+    "Enable one-click export of compliance reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

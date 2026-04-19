@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201350 invoices/month tool",
+  "description": "For logistics carriers processing 10\u201350 invoices/month, data conversion issues cause regulatory penalties. We automate compliance formatting instead of manual data entry and formatting.",
+  "target_audience": "logistics carriers processing 10\u201350 invoices/month",
+  "problem_solved": "Difficulty in converting logistics data for regulatory compliance filings",
+  "features": [
+    "basic data validation",
+    "export to compliance formats",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201350 invoices/month",
+    "primary_problem": "Difficulty in converting logistics data for regulatory compliance filings",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201350 invoices/month, data conversion issues cause regulatory penalties. We automate compliance formatting instead of manual data entry and formatting.",
+    "current_alternative": "manual data entry and formatting",
+    "must_have_features": [
+      "basic data validation",
+      "export to compliance formats",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201350 invoices/month, data conversion issues cause regulatory penalties. We automate compliance formatting instead of manual data entry and formatting.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

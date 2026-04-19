@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR finance teams using QuickBooks processing 5\u201315 travel expense reports/month tool",
+  "description": "For HR finance teams using QuickBooks processing 5\u201315 travel expense reports/month, manual processing causes delays in approvals. We automate the extraction and summarization of travel expenses instead of manual entry and spreadsheet tracking.",
+  "target_audience": "HR finance teams using QuickBooks processing 5\u201315 travel expense reports/month",
+  "problem_solved": "Manual processing of travel expenses leads to delays in approvals and potential errors.",
+  "features": [
+    "Manual data entry interface",
+    "Expense report summary generation",
+    "Email notifications for approvals"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR finance teams using QuickBooks processing 5\u201315 travel expense reports/month",
+    "primary_problem": "Manual processing of travel expenses leads to delays in approvals and potential errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR finance teams using QuickBooks processing 5\u201315 travel expense reports/month, manual processing causes delays in approvals. We automate the extraction and summarization of travel expenses instead of manual entry and spreadsheet tracking.",
+    "current_alternative": "Manual entry and spreadsheet tracking of travel expenses",
+    "must_have_features": [
+      "Manual data entry interface",
+      "Expense report summary generation",
+      "Email notifications for approvals"
+    ]
+  },
+  "one_liner": "For HR finance teams using QuickBooks processing 5\u201315 travel expense reports/month, manual processing causes delays in approvals. We automate the extraction and summarization of travel expenses instead of manual entry and spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-19",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

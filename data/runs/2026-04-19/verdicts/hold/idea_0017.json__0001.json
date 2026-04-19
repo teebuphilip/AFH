@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that extracts employee reimbursement claims from emails and compiles reports for finance approval.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-19T10:04:10.825759",
+  "verdict_source": "overlay_score"
+}

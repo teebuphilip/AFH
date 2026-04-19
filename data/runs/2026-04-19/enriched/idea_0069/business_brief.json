@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inconsistent financial reporting causes cash flow gaps. We automate monthly financial statements instead of manual spreadsheet tracking.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Inconsistent financial reporting",
+  "features": [
+    "template-based financial statement generation",
+    "manual entry for additional transactions",
+    "monthly reminder notifications"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Inconsistent financial reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inconsistent financial reporting causes cash flow gaps. We automate monthly financial statements instead of manual spreadsheet tracking.",
+    "current_alternative": "manual spreadsheet tracking",
+    "must_have_features": [
+      "template-based financial statement generation",
+      "manual entry for additional transactions",
+      "monthly reminder notifications"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, inconsistent financial reporting causes cash flow gaps. We automate monthly financial statements instead of manual spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-19",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

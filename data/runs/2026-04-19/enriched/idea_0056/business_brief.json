@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small marketing agencies using BambooHR, processing 5\u201315 employee time entries/week tool",
+  "description": "For HR managers in small marketing agencies using BambooHR, processing 5\u201315 employee time entries/week, inaccurate time tracking causes payroll errors. We provide automated alerts instead of manual time tracking reviews and audits.",
+  "target_audience": "HR managers in small marketing agencies using BambooHR, processing 5\u201315 employee time entries/week",
+  "problem_solved": "Inaccurate employee time tracking leading to payroll errors.",
+  "features": [
+    "Real-time discrepancy alerts",
+    "Manual entry review interface",
+    "Monthly summary reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small marketing agencies using BambooHR, processing 5\u201315 employee time entries/week",
+    "primary_problem": "Inaccurate employee time tracking leading to payroll errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small marketing agencies using BambooHR, processing 5\u201315 employee time entries/week, inaccurate time tracking causes payroll errors. We provide automated alerts instead of manual time tracking reviews and audits.",
+    "current_alternative": "manual time tracking reviews and audits",
+    "must_have_features": [
+      "Real-time discrepancy alerts",
+      "Manual entry review interface",
+      "Monthly summary reports"
+    ]
+  },
+  "one_liner": "For HR managers in small marketing agencies using BambooHR, processing 5\u201315 employee time entries/week, inaccurate time tracking causes payroll errors. We provide automated alerts instead of manual time tracking reviews and audits.",
+  "source": {
+    "idea_id": "idea_0056",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

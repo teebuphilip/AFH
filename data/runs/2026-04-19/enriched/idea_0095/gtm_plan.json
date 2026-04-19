@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant purchasing managers processing 10\u201320 orders/week",
+  "offer": "For restaurant purchasing managers processing 10\u201320 orders/week, inefficient inventory management causes excess waste. We automate inventory tracking and order generation instead of manual inventory tracking and order generation.",
+  "problem": "Inefficient inventory management leading to waste and over-ordering.",
+  "channels_free": [
+    "Post in Reddit communities for restaurant purchasing managers",
+    "Indie Hackers posts on inventory management workflows",
+    "DM outreach to restaurant purchasing managers with demo video",
+    "Community forums for restaurant purchasing managers sharing tools"
+  ],
+  "try_it": "Let users try Inventory tracking on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in user onboarding"
+  ]
+}

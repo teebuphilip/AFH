@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 50\u2013100 orders/week tool",
+  "description": "For Amazon sellers processing 50\u2013100 orders/week, poor inventory monitoring causes stockouts. We provide automated alerts instead of manual tracking.",
+  "target_audience": "Amazon sellers processing 50\u2013100 orders/week",
+  "problem_solved": "Inability to effectively monitor inventory levels leads to stockouts.",
+  "features": [
+    "Weekly inventory level monitoring",
+    "User-friendly dashboard for inventory overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 50\u2013100 orders/week",
+    "primary_problem": "Inability to effectively monitor inventory levels leads to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 50\u2013100 orders/week, poor inventory monitoring causes stockouts. We provide automated alerts instead of manual tracking.",
+    "current_alternative": "Manual tracking of inventory levels using spreadsheets.",
+    "must_have_features": [
+      "Weekly inventory level monitoring",
+      "User-friendly dashboard for inventory overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 50\u2013100 orders/week, poor inventory monitoring causes stockouts. We provide automated alerts instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-19",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

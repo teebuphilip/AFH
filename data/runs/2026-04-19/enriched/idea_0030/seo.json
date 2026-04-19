@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics carriers managing vehicles fuel tool",
+    "logistics carriers managing vehicles fuel automation",
+    "we provide real",
+    "logistics carriers managing 5 15 vehicles fuel tool",
+    "logistics carriers managing 5 15 vehicles fuel automation",
+    "logistics carriers managing 5 15 vehicles fuel workflow"
+  ],
+  "secondary_keywords": [
+    "we provide real software",
+    "we provide real platform",
+    "we provide real solution"
+  ],
+  "long_tail_keywords": [
+    "how to we provide real",
+    "best we provide real tool",
+    "we provide real vs spreadsheets",
+    "we provide real checklist",
+    "we provide real pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics carriers managing 5\u201315 vehicles, fuel usage anomalies cause unexpected costs. We provide real-time tracking instead of manual tracking and reporting of fuel usage.",
+    "Fuel usage anomalies leading to unexpected costs",
+    "logistics carriers managing 5\u201315 vehicles"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Provide Real",
+      "target_keyword": "how to we provide real",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Provide Real Tool",
+      "target_keyword": "best we provide real tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Real Vs Spreadsheets",
+      "target_keyword": "we provide real vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Real Checklist",
+      "target_keyword": "we provide real checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Pricing",
+      "target_keyword": "we provide real pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Software",
+      "target_keyword": "we provide real software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Platform",
+      "target_keyword": "we provide real platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Solution",
+      "target_keyword": "we provide real solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real",
+      "target_keyword": "we provide real",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Carriers Managing 5 15 Vehicles Fuel Tool",
+      "target_keyword": "logistics carriers managing 5 15 vehicles fuel tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Managing 5 15 Vehicles Fuel Automation",
+      "target_keyword": "logistics carriers managing 5 15 vehicles fuel automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Managing 5 15 Vehicles Fuel Workflow",
+      "target_keyword": "logistics carriers managing 5 15 vehicles fuel workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics carriers managing vehicles fuel tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics carriers managing vehicles fuel tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics carriers managing vehicles fuel tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics carriers managing vehicles fuel tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics carriers managing vehicles fuel tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics carriers managing vehicles tool",
+      "logistics carriers managing vehicles tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics carriers managing vehicles tool helps with fuel usage anomalies leading to unexpected costs."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

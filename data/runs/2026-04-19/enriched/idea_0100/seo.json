@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "nurse practitioners in medical clinics difficulty tool",
+    "nurse practitioners in medical clinics difficulty automation",
+    "medical records workflow",
+    "patient records",
+    "nurse practitioners in medical clinics processing 10-20 patient records per day difficulty tool",
+    "nurse practitioners in medical clinics processing 10-20 patient records per day difficulty automation",
+    "nurse practitioners in medical clinics processing 10-20 patient records per day difficulty workflow"
+  ],
+  "secondary_keywords": [
+    "medical records workflow software",
+    "medical records workflow platform",
+    "medical records workflow solution"
+  ],
+  "long_tail_keywords": [
+    "how to medical records workflow",
+    "best medical records workflow tool",
+    "medical records workflow vs spreadsheets",
+    "medical records workflow checklist",
+    "medical records workflow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For nurse practitioners in medical clinics processing 10-20 patient records per day, inefficient tracking of patient histories causes delayed care and mismanagement. We provide a tool that tracks patient medical history and generates personalized care plans instead of manual record-keeping and generic care plan templates.",
+    "Difficulty in tracking comprehensive patient medical histories and generating personalized care plans.",
+    "nurse practitioners in medical clinics processing 10-20 patient records per day"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Medical Records Workflow",
+      "target_keyword": "how to medical records workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Medical Records Workflow Tool",
+      "target_keyword": "best medical records workflow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Medical Records Workflow Vs Spreadsheets",
+      "target_keyword": "medical records workflow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Medical Records Workflow Checklist",
+      "target_keyword": "medical records workflow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Pricing",
+      "target_keyword": "medical records workflow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Software",
+      "target_keyword": "medical records workflow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Platform",
+      "target_keyword": "medical records workflow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow Solution",
+      "target_keyword": "medical records workflow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Medical Records Workflow",
+      "target_keyword": "medical records workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Patient Records",
+      "target_keyword": "patient records",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Nurse Practitioners In Medical Clinics Processing 10-20 Patient Records Per Day Difficulty Tool",
+      "target_keyword": "nurse practitioners in medical clinics processing 10-20 patient records per day difficulty tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Nurse Practitioners In Medical Clinics Processing 10-20 Patient Records Per Day Difficulty Automation",
+      "target_keyword": "nurse practitioners in medical clinics processing 10-20 patient records per day difficulty automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "nurse practitioners in medical clinics difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "nurse practitioners in medical clinics difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "nurse practitioners in medical clinics difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "nurse practitioners in medical clinics difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "nurse practitioners in medical clinics difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | nurse practitioners in medical clinics tool",
+      "nurse practitioners in medical clinics tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "nurse practitioners in medical clinics tool helps with difficulty in tracking comprehensive patient medical histories and generating personalized care plans."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

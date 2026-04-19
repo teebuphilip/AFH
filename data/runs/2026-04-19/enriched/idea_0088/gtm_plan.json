@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "restaurant general managers managing 5-15 staff members",
+  "offer": "For restaurant general managers managing 5-15 staff members, inefficient labor scheduling causes overstaffing or understaffing. We automate labor forecasting and scheduling instead of manual scheduling and labor forecasting.",
+  "problem": "inefficient labor scheduling leading to overstaffing or understaffing",
+  "channels_free": [
+    "Post in Reddit communities for restaurant managers",
+    "Indie Hackers discussions on scheduling solutions",
+    "DM outreach to restaurant managers with demo video",
+    "Engage in community forums for restaurant management"
+  ],
+  "try_it": "Let users try simple labor forecasting tool for free",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the tool",
+    "Gather 10 short interviews from target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy reuse",
+    "Default settings for reminders and notifications",
+    "Allow CSV import for existing staff data",
+    "One-click export for essential reports",
+    "Streamline onboarding process for new users"
+  ]
+}

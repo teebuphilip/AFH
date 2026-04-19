@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 job site logs/month tool",
+  "description": "For construction contractors processing 5\u201315 job site logs/month, manual entry causes compliance issues that can lead to fines. We convert handwritten logs into digital compliance reports instead of manual transcription of logs into spreadsheets.",
+  "target_audience": "construction contractors processing 5\u201315 job site logs/month",
+  "problem_solved": "Manual entry of handwritten logs leads to compliance issues and potential fines.",
+  "features": [
+    "manual log entry",
+    "digital report generation",
+    "user-friendly interface"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 job site logs/month",
+    "primary_problem": "Manual entry of handwritten logs leads to compliance issues and potential fines.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 job site logs/month, manual entry causes compliance issues that can lead to fines. We convert handwritten logs into digital compliance reports instead of manual transcription of logs into spreadsheets.",
+    "current_alternative": "manual transcription of logs into spreadsheets",
+    "must_have_features": [
+      "manual log entry",
+      "digital report generation",
+      "user-friendly interface"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 job site logs/month, manual entry causes compliance issues that can lead to fines. We convert handwritten logs into digital compliance reports instead of manual transcription of logs into spreadsheets.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

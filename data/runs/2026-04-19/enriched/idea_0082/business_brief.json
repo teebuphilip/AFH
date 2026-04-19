@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 client documents/month tool",
+  "description": "For accounting firms processing 10\u201320 client documents/month, inefficient document organization causes late tax filings. We automate document organization and tax filing instead of manual document management and filing systems.",
+  "target_audience": "accounting firms processing 10\u201320 client documents/month",
+  "problem_solved": "Inefficient document organization and tax filing processes.",
+  "features": [
+    "client notification system",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 client documents/month",
+    "primary_problem": "Inefficient document organization and tax filing processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 client documents/month, inefficient document organization causes late tax filings. We automate document organization and tax filing instead of manual document management and filing systems.",
+    "current_alternative": "manual document management and filing systems",
+    "must_have_features": [
+      "client notification system",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 client documents/month, inefficient document organization causes late tax filings. We automate document organization and tax filing instead of manual document management and filing systems.",
+  "source": {
+    "idea_id": "idea_0082",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

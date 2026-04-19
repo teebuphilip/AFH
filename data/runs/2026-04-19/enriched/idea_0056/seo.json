@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr managers in small marketing agencies using bamboohr inaccurate tool",
+    "hr managers in small marketing agencies using bamboohr inaccurate automation",
+    "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate tool",
+    "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate automation",
+    "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate tool software",
+    "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate tool platform",
+    "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR managers in small marketing agencies using BambooHR, processing 5\u201315 employee time entries/week, inaccurate time tracking causes payroll errors. We provide automated alerts instead of manual time tracking reviews and audits.",
+    "Inaccurate employee time tracking leading to payroll errors.",
+    "HR managers in small marketing agencies using BambooHR, processing 5\u201315 employee time entries/week"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Managers In Small Marketing Agencies Using Bamboohr Processing 5 15 Employee Time Entries Week Inaccurate Tool Software",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Small Marketing Agencies Using Bamboohr Processing 5 15 Employee Time Entries Week Inaccurate Tool Platform",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Small Marketing Agencies Using Bamboohr Processing 5 15 Employee Time Entries Week Inaccurate Tool Solution",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Small Marketing Agencies Using Bamboohr Processing 5 15 Employee Time Entries Week Inaccurate Tool",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Small Marketing Agencies Using Bamboohr Processing 5 15 Employee Time Entries Week Inaccurate Automation",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Small Marketing Agencies Using Bamboohr Processing 5 15 Employee Time Entries Week Inaccurate Workflow",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr processing 5 15 employee time entries week inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr managers in small marketing agencies using bamboohr inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr managers in small marketing agencies using bamboohr tool",
+      "hr managers in small marketing agencies using bamboohr tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr managers in small marketing agencies using bamboohr tool helps with inaccurate employee time tracking leading to payroll errors."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

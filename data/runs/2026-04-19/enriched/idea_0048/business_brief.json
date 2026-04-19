@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law office administrators processing 5\u201315 invoices/month tool",
+  "description": "For law office administrators processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+  "target_audience": "law office administrators processing 5\u201315 invoices/month",
+  "problem_solved": "Manual reconciliation of client retainer fees is time-consuming and error-prone.",
+  "features": [
+    "user-friendly dashboard for invoice tracking",
+    "manual entry option for adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law office administrators processing 5\u201315 invoices/month",
+    "primary_problem": "Manual reconciliation of client retainer fees is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law office administrators processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "user-friendly dashboard for invoice tracking",
+      "manual entry option for adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law office administrators processing 5\u201315 invoices/month, manual reconciliation causes cash flow gaps. We automate the reconciliation process instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-19",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

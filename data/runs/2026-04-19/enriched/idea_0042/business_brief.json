@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "finance officers at law firms processing 5\u201315 trust account reconciliations/month tool",
+  "description": "For finance officers at law firms processing 5\u201315 trust account reconciliations/month, manual tracking causes delays in compliance reporting. We automate reconciliation reporting instead of manual spreadsheets and outdated accounting software.",
+  "target_audience": "finance officers at law firms processing 5\u201315 trust account reconciliations/month",
+  "problem_solved": "Inaccurate or delayed trust account reconciliation reports",
+  "features": [
+    "manual entry for initial data input",
+    "monthly report generation",
+    "user-friendly dashboard for tracking reconciliations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "finance officers at law firms processing 5\u201315 trust account reconciliations/month",
+    "primary_problem": "Inaccurate or delayed trust account reconciliation reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For finance officers at law firms processing 5\u201315 trust account reconciliations/month, manual tracking causes delays in compliance reporting. We automate reconciliation reporting instead of manual spreadsheets and outdated accounting software.",
+    "current_alternative": "manual spreadsheets and outdated accounting software",
+    "must_have_features": [
+      "manual entry for initial data input",
+      "monthly report generation",
+      "user-friendly dashboard for tracking reconciliations"
+    ]
+  },
+  "one_liner": "For finance officers at law firms processing 5\u201315 trust account reconciliations/month, manual tracking causes delays in compliance reporting. We automate reconciliation reporting instead of manual spreadsheets and outdated accounting software.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-19",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

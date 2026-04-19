@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small accounting teams processing 5\u201315 invoices/month tool",
+  "description": "For small accounting teams processing 5\u201315 invoices/month, manual data entry causes cash flow gaps. We automatically convert raw bank transaction data into formatted bookkeeping entries instead of manual bookkeeping processes.",
+  "target_audience": "small accounting teams processing 5\u201315 invoices/month",
+  "problem_solved": "manual data entry and formatting of bank transactions",
+  "features": [
+    "user-friendly interface for manual adjustments",
+    "export functionality for reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small accounting teams processing 5\u201315 invoices/month",
+    "primary_problem": "manual data entry and formatting of bank transactions",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small accounting teams processing 5\u201315 invoices/month, manual data entry causes cash flow gaps. We automatically convert raw bank transaction data into formatted bookkeeping entries instead of manual bookkeeping processes.",
+    "current_alternative": "manual bookkeeping processes",
+    "must_have_features": [
+      "user-friendly interface for manual adjustments",
+      "export functionality for reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small accounting teams processing 5\u201315 invoices/month, manual data entry causes cash flow gaps. We automatically convert raw bank transaction data into formatted bookkeeping entries instead of manual bookkeeping processes.",
+  "source": {
+    "idea_id": "idea_0013",
+    "run_date": "2026-04-19",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

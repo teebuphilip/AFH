@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual reconciliation causes errors and inefficiencies. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "manual reconciliation of credit card transactions and expenses",
+  "features": [
+    "transaction categorization",
+    "error flagging",
+    "export to CSV"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "manual reconciliation of credit card transactions and expenses",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual reconciliation causes errors and inefficiencies. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "transaction categorization",
+      "error flagging",
+      "export to CSV"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual reconciliation causes errors and inefficiencies. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

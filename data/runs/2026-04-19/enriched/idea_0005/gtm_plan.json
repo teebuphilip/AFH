@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 leases/month",
+  "offer": "For property managers processing 5\u201315 leases/month, missed lease expiry notifications cause late renewals. We track and notify instead of manual tracking via spreadsheets or calendars.",
+  "problem": "missed lease expiry notifications",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to property managers with demo video",
+    "Community forums for property management tools"
+  ],
+  "try_it": "Let users try email notifications for expirations and lease management dashboard",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing lease data",
+    "One-click export of simple reports",
+    "Fewer onboarding steps for new users"
+  ]
+}

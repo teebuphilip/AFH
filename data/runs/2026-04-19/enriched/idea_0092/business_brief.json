@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction project managers handling 5\u201315 projects/month tool",
+  "description": "For construction project managers processing 5\u201315 projects/month, inaccurate cost estimates cause budget overruns. We automate cost estimation instead of manual calculations and spreadsheets.",
+  "target_audience": "construction project managers handling 5\u201315 projects/month",
+  "problem_solved": "Inaccurate cost estimates leading to budget overruns",
+  "features": [
+    "input project plans in various formats",
+    "generate cost estimates based on input data",
+    "provide a summary report of estimates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction project managers handling 5\u201315 projects/month",
+    "primary_problem": "Inaccurate cost estimates leading to budget overruns",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction project managers processing 5\u201315 projects/month, inaccurate cost estimates cause budget overruns. We automate cost estimation instead of manual calculations and spreadsheets.",
+    "current_alternative": "manual calculations and spreadsheets",
+    "must_have_features": [
+      "input project plans in various formats",
+      "generate cost estimates based on input data",
+      "provide a summary report of estimates"
+    ]
+  },
+  "one_liner": "For construction project managers processing 5\u201315 projects/month, inaccurate cost estimates cause budget overruns. We automate cost estimation instead of manual calculations and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-19",
+    "overlay_score": 68,
+    "arr_score": 67
+  }
+}

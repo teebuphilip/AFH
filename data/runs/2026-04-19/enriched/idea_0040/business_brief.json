@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant supply managers processing 10-20 invoices/month tool",
+  "description": "For restaurant supply managers processing 10-20 invoices/month, inaccurate inventory reports cause late orders and supplier penalties. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "restaurant supply managers processing 10-20 invoices/month",
+  "problem_solved": "Inaccurate inventory reports lead to late orders and supplier penalties.",
+  "features": [
+    "manual entry for initial setup",
+    "basic reporting dashboard",
+    "email notifications for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant supply managers processing 10-20 invoices/month",
+    "primary_problem": "Inaccurate inventory reports lead to late orders and supplier penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant supply managers processing 10-20 invoices/month, inaccurate inventory reports cause late orders and supplier penalties. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry for initial setup",
+      "basic reporting dashboard",
+      "email notifications for discrepancies"
+    ]
+  },
+  "one_liner": "For restaurant supply managers processing 10-20 invoices/month, inaccurate inventory reports cause late orders and supplier penalties. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

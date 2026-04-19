@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales operations team at a marketing agency tool",
+  "description": "For sales operations teams at marketing agencies processing 5\u201315 travel bookings/month, inefficient travel booking causes missed client meetings. We automate scheduling and booking instead of manual scheduling and booking through various platforms.",
+  "target_audience": "sales operations team at a marketing agency",
+  "problem_solved": "Inefficient travel booking processes lead to wasted time and missed opportunities.",
+  "features": [
+    "simple user interface for inputting travel preferences",
+    "basic reporting on travel expenses",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales operations team at a marketing agency",
+    "primary_problem": "Inefficient travel booking processes lead to wasted time and missed opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales operations teams at marketing agencies processing 5\u201315 travel bookings/month, inefficient travel booking causes missed client meetings. We automate scheduling and booking instead of manual scheduling and booking through various platforms.",
+    "current_alternative": "manual scheduling and booking through various platforms",
+    "must_have_features": [
+      "simple user interface for inputting travel preferences",
+      "basic reporting on travel expenses",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For sales operations teams at marketing agencies processing 5\u201315 travel bookings/month, inefficient travel booking causes missed client meetings. We automate scheduling and booking instead of manual scheduling and booking through various platforms.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-19",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

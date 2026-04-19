@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201320 invoices/month tool",
+  "description": "For Shopify sellers processing 10\u201320 invoices/month, manual reporting causes cash flow gaps. We automate weekly sales pipeline reports instead of manual spreadsheet tracking.",
+  "target_audience": "Shopify sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Manual reporting leads to cash flow gaps.",
+  "features": [
+    "Customizable report templates",
+    "Data visualization options",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Manual reporting leads to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201320 invoices/month, manual reporting causes cash flow gaps. We automate weekly sales pipeline reports instead of manual spreadsheet tracking.",
+    "current_alternative": "Manual spreadsheet tracking",
+    "must_have_features": [
+      "Customizable report templates",
+      "Data visualization options",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201320 invoices/month, manual reporting causes cash flow gaps. We automate weekly sales pipeline reports instead of manual spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-19",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

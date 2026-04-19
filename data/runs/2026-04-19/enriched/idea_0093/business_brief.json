@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical office coordinators in dental offices processing 10\u201320 appointments/week tool",
+  "description": "For medical office coordinators in dental offices processing 10\u201320 appointments/week, inconsistent patient follow-up causes missed appointments. We automate recall notifications instead of manual tracking via spreadsheets or paper logs.",
+  "target_audience": "medical office coordinators in dental offices processing 10\u201320 appointments/week",
+  "problem_solved": "Inconsistent patient follow-up leading to missed appointments.",
+  "features": [
+    "appointment history tracking",
+    "recall notification generation",
+    "manual entry for patient details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical office coordinators in dental offices processing 10\u201320 appointments/week",
+    "primary_problem": "Inconsistent patient follow-up leading to missed appointments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical office coordinators in dental offices processing 10\u201320 appointments/week, inconsistent patient follow-up causes missed appointments. We automate recall notifications instead of manual tracking via spreadsheets or paper logs.",
+    "current_alternative": "manual tracking via spreadsheets or paper logs",
+    "must_have_features": [
+      "appointment history tracking",
+      "recall notification generation",
+      "manual entry for patient details"
+    ]
+  },
+  "one_liner": "For medical office coordinators in dental offices processing 10\u201320 appointments/week, inconsistent patient follow-up causes missed appointments. We automate recall notifications instead of manual tracking via spreadsheets or paper logs.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-19",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

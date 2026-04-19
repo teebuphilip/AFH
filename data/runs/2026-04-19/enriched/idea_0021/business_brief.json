@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 utility bills/month tool",
+  "description": "For property managers processing 5\u201315 utility bills/month, unusual utility usage causes unexpected costs. We automatically monitor utility bills instead of manual monitoring of utility bills.",
+  "target_audience": "property managers processing 5\u201315 utility bills/month",
+  "problem_solved": "unusual utility usage leading to unexpected costs",
+  "features": [
+    "monthly usage summary reports",
+    "manual override for flagged bills",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 utility bills/month",
+    "primary_problem": "unusual utility usage leading to unexpected costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 utility bills/month, unusual utility usage causes unexpected costs. We automatically monitor utility bills instead of manual monitoring of utility bills.",
+    "current_alternative": "manual monitoring of utility bills",
+    "must_have_features": [
+      "monthly usage summary reports",
+      "manual override for flagged bills",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 utility bills/month, unusual utility usage causes unexpected costs. We automatically monitor utility bills instead of manual monitoring of utility bills.",
+  "source": {
+    "idea_id": "idea_0021",
+    "run_date": "2026-04-19",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

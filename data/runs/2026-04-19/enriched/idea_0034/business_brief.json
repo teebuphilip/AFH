@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firm partners processing 10\u201320 invoices/month tool",
+  "description": "For accounting firm partners processing 10\u201320 invoices/month, manual billing processes cause time inefficiencies. We generate automated client billing summaries instead of manual billing summary creation.",
+  "target_audience": "accounting firm partners processing 10\u201320 invoices/month",
+  "problem_solved": "Manual billing processes lead to time inefficiencies.",
+  "features": [
+    "template-based summary generation",
+    "customizable client information fields",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firm partners processing 10\u201320 invoices/month",
+    "primary_problem": "Manual billing processes lead to time inefficiencies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firm partners processing 10\u201320 invoices/month, manual billing processes cause time inefficiencies. We generate automated client billing summaries instead of manual billing summary creation.",
+    "current_alternative": "manual billing summary creation",
+    "must_have_features": [
+      "template-based summary generation",
+      "customizable client information fields",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firm partners processing 10\u201320 invoices/month, manual billing processes cause time inefficiencies. We generate automated client billing summaries instead of manual billing summary creation.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

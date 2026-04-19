@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant back office teams processing 10\u201320 invoices/month tool",
+  "description": "For restaurant back office teams processing 10\u201320 invoices/month, manual processing causes late payments and supplier penalties. We automate invoice submissions instead of manual data entry and spreadsheet tracking.",
+  "target_audience": "restaurant back office teams processing 10\u201320 invoices/month",
+  "problem_solved": "Manual processing of supplier invoices leads to errors and delays.",
+  "features": [
+    "invoice scanning for data extraction",
+    "manual review interface for discrepancies",
+    "export functionality to accounting software"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant back office teams processing 10\u201320 invoices/month",
+    "primary_problem": "Manual processing of supplier invoices leads to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant back office teams processing 10\u201320 invoices/month, manual processing causes late payments and supplier penalties. We automate invoice submissions instead of manual data entry and spreadsheet tracking.",
+    "current_alternative": "manual data entry and spreadsheet tracking",
+    "must_have_features": [
+      "invoice scanning for data extraction",
+      "manual review interface for discrepancies",
+      "export functionality to accounting software"
+    ]
+  },
+  "one_liner": "For restaurant back office teams processing 10\u201320 invoices/month, manual processing causes late payments and supplier penalties. We automate invoice submissions instead of manual data entry and spreadsheet tracking.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-19",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

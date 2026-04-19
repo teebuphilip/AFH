@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small to medium-sized accounting firms processing 5\u201315 payroll reports/month",
+  "offer": "For HR managers in small to medium-sized accounting firms processing 5\u201315 payroll reports/month, inefficient payroll report generation causes delays in employee payments. We streamline report generation instead of manual report generation using spreadsheets.",
+  "problem": "Inefficient payroll report generation leading to delays in processing.",
+  "channels_free": [
+    "Post in Reddit communities for HR managers seeking solutions",
+    "Indie Hackers discussions on payroll workflows",
+    "DM outreach to HR managers with demo video",
+    "Community forums where HR managers share tools"
+  ],
+  "try_it": "Let users try template-based report generation and email delivery",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

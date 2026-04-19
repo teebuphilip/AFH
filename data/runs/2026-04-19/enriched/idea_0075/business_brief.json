@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 compliance reports/month tool",
+  "description": "For law firms processing 5\u201315 compliance reports/month, delays in report generation cause potential penalties. We automate report generation instead of manual report generation.",
+  "target_audience": "law firms processing 5\u201315 compliance reports/month",
+  "problem_solved": "Timely generation of compliance reports",
+  "features": [
+    "template-based report generation",
+    "user-friendly interface for report customization",
+    "email notifications for report readiness"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 compliance reports/month",
+    "primary_problem": "Timely generation of compliance reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 compliance reports/month, delays in report generation cause potential penalties. We automate report generation instead of manual report generation.",
+    "current_alternative": "manual report generation",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly interface for report customization",
+      "email notifications for report readiness"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 compliance reports/month, delays in report generation cause potential penalties. We automate report generation instead of manual report generation.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-19",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

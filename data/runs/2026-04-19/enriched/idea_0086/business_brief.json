@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "clinic administrators in medical clinics processing 5\u201315 orders/month tool",
+  "description": "For clinic administrators in medical clinics processing 5\u201315 orders/month, inefficient tracking causes stockouts. We automate replenishment orders instead of manual inventory tracking and ordering.",
+  "target_audience": "clinic administrators in medical clinics processing 5\u201315 orders/month",
+  "problem_solved": "Inefficient tracking of medical supply inventory leading to stockouts.",
+  "features": [
+    "manual entry of inventory levels",
+    "simple order generation for replenishment",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "clinic administrators in medical clinics processing 5\u201315 orders/month",
+    "primary_problem": "Inefficient tracking of medical supply inventory leading to stockouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For clinic administrators in medical clinics processing 5\u201315 orders/month, inefficient tracking causes stockouts. We automate replenishment orders instead of manual inventory tracking and ordering.",
+    "current_alternative": "manual inventory tracking and ordering",
+    "must_have_features": [
+      "manual entry of inventory levels",
+      "simple order generation for replenishment",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For clinic administrators in medical clinics processing 5\u201315 orders/month, inefficient tracking causes stockouts. We automate replenishment orders instead of manual inventory tracking and ordering.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-19",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

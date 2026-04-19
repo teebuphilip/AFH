@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers managing 10\u201350 orders/month",
+  "offer": "For Etsy sellers processing 10\u201350 orders/month, stock shortages cause missed sales opportunities. We provide inventory alerts instead of manual tracking via spreadsheets.",
+  "problem": "Stock shortages leading to missed sales opportunities.",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to Etsy sellers with demo video",
+    "Community forums for Etsy seller tools"
+  ],
+  "try_it": "Let users try low stock alerts on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual workflow",
+    "Collect 10 interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing inventory data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding process"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics operations managers processing 10\u201350 shipments/week tool",
+  "description": "For logistics operations managers processing 10\u201350 shipments/week, inefficient routing causes delayed deliveries. We optimize fleet routing instead of manual scheduling and routing.",
+  "target_audience": "logistics operations managers processing 10\u201350 shipments/week",
+  "problem_solved": "Inefficient routing leads to delayed deliveries.",
+  "features": [
+    "manual route input",
+    "basic scheduling interface",
+    "delivery time estimation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics operations managers processing 10\u201350 shipments/week",
+    "primary_problem": "Inefficient routing leads to delayed deliveries.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics operations managers processing 10\u201350 shipments/week, inefficient routing causes delayed deliveries. We optimize fleet routing instead of manual scheduling and routing.",
+    "current_alternative": "manual scheduling and routing",
+    "must_have_features": [
+      "manual route input",
+      "basic scheduling interface",
+      "delivery time estimation"
+    ]
+  },
+  "one_liner": "For logistics operations managers processing 10\u201350 shipments/week, inefficient routing causes delayed deliveries. We optimize fleet routing instead of manual scheduling and routing.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-19",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant general managers managing 5-15 staff members tool",
+  "description": "For restaurant general managers managing 5-15 staff members, inefficient labor scheduling causes overstaffing or understaffing. We automate labor forecasting and scheduling instead of manual scheduling and labor forecasting.",
+  "target_audience": "restaurant general managers managing 5-15 staff members",
+  "problem_solved": "inefficient labor scheduling leading to overstaffing or understaffing",
+  "features": [
+    "simple labor forecasting tool",
+    "manual schedule adjustment capability",
+    "user-friendly interface for quick access"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant general managers managing 5-15 staff members",
+    "primary_problem": "inefficient labor scheduling leading to overstaffing or understaffing",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant general managers managing 5-15 staff members, inefficient labor scheduling causes overstaffing or understaffing. We automate labor forecasting and scheduling instead of manual scheduling and labor forecasting.",
+    "current_alternative": "manual scheduling and labor forecasting",
+    "must_have_features": [
+      "simple labor forecasting tool",
+      "manual schedule adjustment capability",
+      "user-friendly interface for quick access"
+    ]
+  },
+  "one_liner": "For restaurant general managers managing 5-15 staff members, inefficient labor scheduling causes overstaffing or understaffing. We automate labor forecasting and scheduling instead of manual scheduling and labor forecasting.",
+  "source": {
+    "idea_id": "idea_0088",
+    "run_date": "2026-04-19",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 residential units/month tool",
+  "description": "For property managers processing 5\u201315 residential units/month, time-consuming manual report generation causes delays in client communication. We automate report generation instead of manual report creation using spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 residential units/month",
+  "problem_solved": "Time-consuming manual report generation",
+  "features": [
+    "template-based report generation",
+    "monthly summary of key metrics",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 residential units/month",
+    "primary_problem": "Time-consuming manual report generation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 residential units/month, time-consuming manual report generation causes delays in client communication. We automate report generation instead of manual report creation using spreadsheets.",
+    "current_alternative": "manual report creation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "monthly summary of key metrics",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 residential units/month, time-consuming manual report generation causes delays in client communication. We automate report generation instead of manual report creation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-19",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

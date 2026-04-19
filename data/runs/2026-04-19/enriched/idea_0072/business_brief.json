@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 10\u201350 sales/week tool",
+  "description": "For Shopify store owners processing 10\u201350 sales/week, delayed sales reporting causes missed inventory optimization opportunities. We automate report generation instead of manual report generation using spreadsheets.",
+  "target_audience": "Shopify store owners processing 10\u201350 sales/week",
+  "problem_solved": "Inability to generate timely sales reports",
+  "features": [
+    "Weekly sales report generation",
+    "Customizable report templates",
+    "Email notifications for report availability"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 10\u201350 sales/week",
+    "primary_problem": "Inability to generate timely sales reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 10\u201350 sales/week, delayed sales reporting causes missed inventory optimization opportunities. We automate report generation instead of manual report generation using spreadsheets.",
+    "current_alternative": "Manual report generation using spreadsheets",
+    "must_have_features": [
+      "Weekly sales report generation",
+      "Customizable report templates",
+      "Email notifications for report availability"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 10\u201350 sales/week, delayed sales reporting causes missed inventory optimization opportunities. We automate report generation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0072",
+    "run_date": "2026-04-19",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

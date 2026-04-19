@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers managing 5\u201315 employees",
+  "offer": "For property managers managing 5\u201315 employees, manual tracking of certification renewals causes missed deadlines. We automate tracking and reporting instead of manual tracking through spreadsheets.",
+  "problem": "Difficulty in tracking and reporting employee certification renewals.",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to property managers with demo video",
+    "Community forums for property management tools"
+  ],
+  "try_it": "Let users try manual entry for certification details",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "One-click export of simple reports",
+    "Streamline onboarding process"
+  ]
+}

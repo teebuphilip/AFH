@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-20 inspections/month tool",
+  "description": "For property managers handling 10-20 inspections/month, inefficient scheduling causes missed inspections and delayed reports. We automate scheduling and monitoring instead of manual scheduling via spreadsheets and phone calls.",
+  "target_audience": "property managers handling 10-20 inspections/month",
+  "problem_solved": "inefficient scheduling and monitoring of property inspections",
+  "features": [
+    "manual inspection scheduling",
+    "inspection status tracking",
+    "reminder notifications for upcoming inspections"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-20 inspections/month",
+    "primary_problem": "inefficient scheduling and monitoring of property inspections",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-20 inspections/month, inefficient scheduling causes missed inspections and delayed reports. We automate scheduling and monitoring instead of manual scheduling via spreadsheets and phone calls.",
+    "current_alternative": "manual scheduling via spreadsheets and phone calls",
+    "must_have_features": [
+      "manual inspection scheduling",
+      "inspection status tracking",
+      "reminder notifications for upcoming inspections"
+    ]
+  },
+  "one_liner": "For property managers handling 10-20 inspections/month, inefficient scheduling causes missed inspections and delayed reports. We automate scheduling and monitoring instead of manual scheduling via spreadsheets and phone calls.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-19",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

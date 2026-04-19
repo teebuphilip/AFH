@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "nurse practitioners in medical clinics processing 10-20 patient records per day tool",
+  "description": "For nurse practitioners in medical clinics processing 10-20 patient records per day, inefficient tracking of patient histories causes delayed care and mismanagement. We provide a tool that tracks patient medical history and generates personalized care plans instead of manual record-keeping and generic care plan templates.",
+  "target_audience": "nurse practitioners in medical clinics processing 10-20 patient records per day",
+  "problem_solved": "Difficulty in tracking comprehensive patient medical histories and generating personalized care plans.",
+  "features": [
+    "manual entry of patient medical history",
+    "template-based care plan generation",
+    "patient progress tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "nurse practitioners in medical clinics processing 10-20 patient records per day",
+    "primary_problem": "Difficulty in tracking comprehensive patient medical histories and generating personalized care plans.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For nurse practitioners in medical clinics processing 10-20 patient records per day, inefficient tracking of patient histories causes delayed care and mismanagement. We provide a tool that tracks patient medical history and generates personalized care plans instead of manual record-keeping and generic care plan templates.",
+    "current_alternative": "manual record-keeping and generic care plan templates",
+    "must_have_features": [
+      "manual entry of patient medical history",
+      "template-based care plan generation",
+      "patient progress tracking"
+    ]
+  },
+  "one_liner": "For nurse practitioners in medical clinics processing 10-20 patient records per day, inefficient tracking of patient histories causes delayed care and mismanagement. We provide a tool that tracks patient medical history and generates personalized care plans instead of manual record-keeping and generic care plan templates.",
+  "source": {
+    "idea_id": "idea_0100",
+    "run_date": "2026-04-19",
+    "overlay_score": 60,
+    "arr_score": 60
+  }
+}

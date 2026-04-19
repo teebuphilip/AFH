@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5-10 projects simultaneously tool",
+  "description": "For construction contractors managing 5-10 projects simultaneously, missed equipment maintenance causes project delays. We provide daily reminders instead of manual tracking of maintenance schedules.",
+  "target_audience": "construction contractors managing 5-10 projects simultaneously",
+  "problem_solved": "missed equipment maintenance leads to project delays and increased costs",
+  "features": [
+    "daily reminder notifications",
+    "simple scheduling interface",
+    "manual entry for equipment details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5-10 projects simultaneously",
+    "primary_problem": "missed equipment maintenance leads to project delays and increased costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5-10 projects simultaneously, missed equipment maintenance causes project delays. We provide daily reminders instead of manual tracking of maintenance schedules.",
+    "current_alternative": "manual tracking of maintenance schedules",
+    "must_have_features": [
+      "daily reminder notifications",
+      "simple scheduling interface",
+      "manual entry for equipment details"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5-10 projects simultaneously, missed equipment maintenance causes project delays. We provide daily reminders instead of manual tracking of maintenance schedules.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-19",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

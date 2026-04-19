@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance brokers processing 20\u201350 claims/month",
+  "offer": "For insurance brokers processing 20\u201350 claims/month, delays in claim processing cause late settlements. We automate categorization instead of manual categorization of claims.",
+  "problem": "delays in claim processing",
+  "channels_free": [
+    "Post in Reddit communities for insurance brokers",
+    "Engage in Indie Hackers discussions on claims",
+    "DM outreach to brokers with demo video",
+    "Share insights in relevant community forums"
+  ],
+  "try_it": "Let users try simple claim categorization interface and manual override option for adjusters on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

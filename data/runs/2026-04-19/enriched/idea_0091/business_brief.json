@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 10\u201320 claims/month tool",
+  "description": "For insurance adjusters processing 10\u201320 claims/month, missed subrogation opportunities cause cash flow gaps. We monitor claims to identify subrogation opportunities instead of manual tracking of claims.",
+  "target_audience": "insurance adjusters processing 10\u201320 claims/month",
+  "problem_solved": "missed subrogation opportunities",
+  "features": [
+    "claim monitoring dashboard",
+    "subrogation opportunity alerts",
+    "manual claim entry"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 10\u201320 claims/month",
+    "primary_problem": "missed subrogation opportunities",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 10\u201320 claims/month, missed subrogation opportunities cause cash flow gaps. We monitor claims to identify subrogation opportunities instead of manual tracking of claims.",
+    "current_alternative": "manual tracking of claims",
+    "must_have_features": [
+      "claim monitoring dashboard",
+      "subrogation opportunity alerts",
+      "manual claim entry"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 10\u201320 claims/month, missed subrogation opportunities cause cash flow gaps. We monitor claims to identify subrogation opportunities instead of manual tracking of claims.",
+  "source": {
+    "idea_id": "idea_0091",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

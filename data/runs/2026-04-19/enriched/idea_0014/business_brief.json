@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "contract managers in accounting firms processing 5\u201315 contracts/month tool",
+  "description": "For contract managers in accounting firms processing 5\u201315 contracts/month, missed compliance milestones cause supplier penalties. We provide automated compliance alerts instead of manual tracking through spreadsheets.",
+  "target_audience": "contract managers in accounting firms processing 5\u201315 contracts/month",
+  "problem_solved": "Difficulty in tracking contract compliance milestones leading to potential penalties.",
+  "features": [
+    "monthly compliance milestone alerts",
+    "dashboard for contract status overview",
+    "manual entry for contract details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "contract managers in accounting firms processing 5\u201315 contracts/month",
+    "primary_problem": "Difficulty in tracking contract compliance milestones leading to potential penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For contract managers in accounting firms processing 5\u201315 contracts/month, missed compliance milestones cause supplier penalties. We provide automated compliance alerts instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "monthly compliance milestone alerts",
+      "dashboard for contract status overview",
+      "manual entry for contract details"
+    ]
+  },
+  "one_liner": "For contract managers in accounting firms processing 5\u201315 contracts/month, missed compliance milestones cause supplier penalties. We provide automated compliance alerts instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-19",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

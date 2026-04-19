@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 deliveries/day tool",
+  "description": "For logistics carriers processing 50\u2013100 deliveries/day, manual reporting causes delays in performance tracking. We automate daily delivery route completion reports instead of manual reporting through spreadsheets.",
+  "target_audience": "logistics carriers processing 50\u2013100 deliveries/day",
+  "problem_solved": "Manual completion report generation is time-consuming and prone to errors.",
+  "features": [
+    "simple report generation interface",
+    "daily summary notifications",
+    "export to CSV functionality"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 deliveries/day",
+    "primary_problem": "Manual completion report generation is time-consuming and prone to errors.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 deliveries/day, manual reporting causes delays in performance tracking. We automate daily delivery route completion reports instead of manual reporting through spreadsheets.",
+    "current_alternative": "manual reporting through spreadsheets",
+    "must_have_features": [
+      "simple report generation interface",
+      "daily summary notifications",
+      "export to CSV functionality"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 deliveries/day, manual reporting causes delays in performance tracking. We automate daily delivery route completion reports instead of manual reporting through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

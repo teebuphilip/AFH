@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancer using Upwork processing 5\u201315 projects/month tool",
+  "description": "For freelancer using Upwork processing 5\u201315 projects/month, inconsistent project data formatting causes late reporting. We automate data conversion instead of manual data entry into reporting systems.",
+  "target_audience": "freelancer using Upwork processing 5\u201315 projects/month",
+  "problem_solved": "Inconsistent project data formatting for reporting",
+  "features": [
+    "manual data input option",
+    "template selection for reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancer using Upwork processing 5\u201315 projects/month",
+    "primary_problem": "Inconsistent project data formatting for reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancer using Upwork processing 5\u201315 projects/month, inconsistent project data formatting causes late reporting. We automate data conversion instead of manual data entry into reporting systems.",
+    "current_alternative": "manual data entry into reporting systems",
+    "must_have_features": [
+      "manual data input option",
+      "template selection for reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For freelancer using Upwork processing 5\u201315 projects/month, inconsistent project data formatting causes late reporting. We automate data conversion instead of manual data entry into reporting systems.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

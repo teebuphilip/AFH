@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify store owners processing 5\u201315 invoices/month tool",
+  "description": "For Shopify store owners processing 5\u201315 invoices/month, missed renewals cause cash flow gaps. We notify finance ops of upcoming renewals instead of manual tracking of subscriptions in spreadsheets.",
+  "target_audience": "Shopify store owners processing 5\u201315 invoices/month",
+  "problem_solved": "Managing recurring subscription expenses and renewals",
+  "features": [
+    "Subscription expense tracking",
+    "Renewal notifications",
+    "Manual entry for subscription details"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify store owners processing 5\u201315 invoices/month",
+    "primary_problem": "Managing recurring subscription expenses and renewals",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify store owners processing 5\u201315 invoices/month, missed renewals cause cash flow gaps. We notify finance ops of upcoming renewals instead of manual tracking of subscriptions in spreadsheets.",
+    "current_alternative": "manual tracking of subscriptions in spreadsheets",
+    "must_have_features": [
+      "Subscription expense tracking",
+      "Renewal notifications",
+      "Manual entry for subscription details"
+    ]
+  },
+  "one_liner": "For Shopify store owners processing 5\u201315 invoices/month, missed renewals cause cash flow gaps. We notify finance ops of upcoming renewals instead of manual tracking of subscriptions in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-19",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

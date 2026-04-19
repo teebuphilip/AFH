@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized manufacturing companies processing 10\u201320 vendor visits/month tool",
+  "description": "For procurement managers in mid-sized manufacturing companies processing 10\u201320 vendor visits/month, inefficient scheduling causes missed opportunities. We automate scheduling instead of manual scheduling via email and phone calls.",
+  "target_audience": "procurement managers in mid-sized manufacturing companies processing 10\u201320 vendor visits/month",
+  "problem_solved": "Inefficient scheduling of vendor visits leading to missed opportunities.",
+  "features": [
+    "vendor contact management",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized manufacturing companies processing 10\u201320 vendor visits/month",
+    "primary_problem": "Inefficient scheduling of vendor visits leading to missed opportunities.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized manufacturing companies processing 10\u201320 vendor visits/month, inefficient scheduling causes missed opportunities. We automate scheduling instead of manual scheduling via email and phone calls.",
+    "current_alternative": "manual scheduling via email and phone calls",
+    "must_have_features": [
+      "vendor contact management",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized manufacturing companies processing 10\u201320 vendor visits/month, inefficient scheduling causes missed opportunities. We automate scheduling instead of manual scheduling via email and phone calls.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

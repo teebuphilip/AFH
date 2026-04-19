@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing managers at small clinics processing 5\u201315 claims/month tool",
+  "description": "For medical billing managers at small clinics processing 5\u201315 claims/month, manual submission errors cause delayed reimbursements. We automate the conversion of medical billing codes into insurance claim submissions instead of manual claim submission processes.",
+  "target_audience": "medical billing managers at small clinics processing 5\u201315 claims/month",
+  "problem_solved": "Manual submission of insurance claims leads to errors and delays.",
+  "features": [
+    "user-friendly interface for code entry",
+    "error-checking for common billing mistakes",
+    "export functionality for claim tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing managers at small clinics processing 5\u201315 claims/month",
+    "primary_problem": "Manual submission of insurance claims leads to errors and delays.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing managers at small clinics processing 5\u201315 claims/month, manual submission errors cause delayed reimbursements. We automate the conversion of medical billing codes into insurance claim submissions instead of manual claim submission processes.",
+    "current_alternative": "manual claim submission processes",
+    "must_have_features": [
+      "user-friendly interface for code entry",
+      "error-checking for common billing mistakes",
+      "export functionality for claim tracking"
+    ]
+  },
+  "one_liner": "For medical billing managers at small clinics processing 5\u201315 claims/month, manual submission errors cause delayed reimbursements. We automate the conversion of medical billing codes into insurance claim submissions instead of manual claim submission processes.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

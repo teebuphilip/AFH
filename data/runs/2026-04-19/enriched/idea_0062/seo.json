@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "etsy sellers inconsistent tool",
+    "etsy sellers inconsistent automation",
+    "we provide real",
+    "manufacturing operations manager in a small-scale etsy seller production facility processing 5 15 products day inconsistent tool",
+    "manufacturing operations manager in a small-scale etsy seller production facility processing 5 15 products day inconsistent automation",
+    "manufacturing operations manager in a small-scale etsy seller production facility processing 5 15 products day inconsistent workflow"
+  ],
+  "secondary_keywords": [
+    "we provide real software",
+    "we provide real platform",
+    "we provide real solution"
+  ],
+  "long_tail_keywords": [
+    "how to we provide real",
+    "best we provide real tool",
+    "we provide real vs spreadsheets",
+    "we provide real checklist",
+    "we provide real pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For manufacturing operations managers in a small-scale Etsy seller production facility processing 5\u201315 products/day, inconsistent product quality causes customer complaints and returns. We provide real-time quality monitoring instead of manual quality checks and sporadic inspections.",
+    "Inconsistent product quality leading to customer complaints and returns.",
+    "manufacturing operations manager in a small-scale Etsy seller production facility processing 5\u201315 products/day"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Provide Real",
+      "target_keyword": "how to we provide real",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Provide Real Tool",
+      "target_keyword": "best we provide real tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Real Vs Spreadsheets",
+      "target_keyword": "we provide real vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Real Checklist",
+      "target_keyword": "we provide real checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Pricing",
+      "target_keyword": "we provide real pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Software",
+      "target_keyword": "we provide real software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Platform",
+      "target_keyword": "we provide real platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real Solution",
+      "target_keyword": "we provide real solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Real",
+      "target_keyword": "we provide real",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Manufacturing Operations Manager In A Small-Scale Etsy Seller Production Facility Processing 5 15 Products Day Inconsistent Tool",
+      "target_keyword": "manufacturing operations manager in a small-scale etsy seller production facility processing 5 15 products day inconsistent tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Manufacturing Operations Manager In A Small-Scale Etsy Seller Production Facility Processing 5 15 Products Day Inconsistent Automation",
+      "target_keyword": "manufacturing operations manager in a small-scale etsy seller production facility processing 5 15 products day inconsistent automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Manufacturing Operations Manager In A Small-Scale Etsy Seller Production Facility Processing 5 15 Products Day Inconsistent Workflow",
+      "target_keyword": "manufacturing operations manager in a small-scale etsy seller production facility processing 5 15 products day inconsistent workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "etsy sellers inconsistent tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "etsy sellers inconsistent tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "etsy sellers inconsistent tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "etsy sellers inconsistent tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "etsy sellers inconsistent tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | etsy sellers tool",
+      "etsy sellers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "etsy sellers tool helps with inconsistent product quality leading to customer complaints and returns."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

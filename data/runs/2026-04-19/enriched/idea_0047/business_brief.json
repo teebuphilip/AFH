@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant managers in mid-sized restaurants (50-100 seats) tool",
+  "description": "For restaurant managers in mid-sized restaurants (50-100 seats) processing 20-50 maintenance tasks/month, inconsistent maintenance schedules cause equipment failures. We provide timely alerts instead of manual tracking of maintenance schedules.",
+  "target_audience": "restaurant managers in mid-sized restaurants (50-100 seats)",
+  "problem_solved": "Inconsistent maintenance schedules for kitchen equipment.",
+  "features": [
+    "manual entry of maintenance schedules",
+    "alert notifications for upcoming maintenance",
+    "dashboard for tracking maintenance history"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant managers in mid-sized restaurants (50-100 seats)",
+    "primary_problem": "Inconsistent maintenance schedules for kitchen equipment.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant managers in mid-sized restaurants (50-100 seats) processing 20-50 maintenance tasks/month, inconsistent maintenance schedules cause equipment failures. We provide timely alerts instead of manual tracking of maintenance schedules.",
+    "current_alternative": "manual tracking of maintenance schedules",
+    "must_have_features": [
+      "manual entry of maintenance schedules",
+      "alert notifications for upcoming maintenance",
+      "dashboard for tracking maintenance history"
+    ]
+  },
+  "one_liner": "For restaurant managers in mid-sized restaurants (50-100 seats) processing 20-50 maintenance tasks/month, inconsistent maintenance schedules cause equipment failures. We provide timely alerts instead of manual tracking of maintenance schedules.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-19",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

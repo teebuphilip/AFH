@@ -1,0 +1,12 @@
+{
+  "idea_text": "Service that reconciles sales commission calculations with CRM data and sends monthly summaries to sales ops.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 78,
+  "arr_score": 78
+}

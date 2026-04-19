@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized companies using BambooHR, monitoring 50-100 employees tool",
+  "description": "For HR managers in small to medium-sized companies using BambooHR, processing 50-100 employees, inaccurate attendance data causes payroll errors. We provide automated attendance monitoring instead of manual attendance tracking and spreadsheets.",
+  "target_audience": "HR managers in small to medium-sized companies using BambooHR, monitoring 50-100 employees",
+  "problem_solved": "Inaccurate attendance data leading to payroll errors",
+  "features": [
+    "Real-time attendance data monitoring",
+    "User-friendly dashboard for HR managers",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized companies using BambooHR, monitoring 50-100 employees",
+    "primary_problem": "Inaccurate attendance data leading to payroll errors",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized companies using BambooHR, processing 50-100 employees, inaccurate attendance data causes payroll errors. We provide automated attendance monitoring instead of manual attendance tracking and spreadsheets.",
+    "current_alternative": "manual attendance tracking and spreadsheets",
+    "must_have_features": [
+      "Real-time attendance data monitoring",
+      "User-friendly dashboard for HR managers",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized companies using BambooHR, processing 50-100 employees, inaccurate attendance data causes payroll errors. We provide automated attendance monitoring instead of manual attendance tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0074",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

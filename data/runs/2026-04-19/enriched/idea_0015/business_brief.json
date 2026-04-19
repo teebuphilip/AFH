@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms processing 10\u201320 invoices/month tool",
+  "description": "For accounting firms processing 10\u201320 invoices/month, manual data entry causes cash flow gaps. We automate cash flow forecasting instead of manual cash flow forecasting using spreadsheets.",
+  "target_audience": "accounting firms processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate cash flow forecasts due to manual data entry.",
+  "features": [
+    "manual data entry for initial setup",
+    "weekly cash flow report generation",
+    "user-friendly dashboard for cash flow overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate cash flow forecasts due to manual data entry.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms processing 10\u201320 invoices/month, manual data entry causes cash flow gaps. We automate cash flow forecasting instead of manual cash flow forecasting using spreadsheets.",
+    "current_alternative": "manual cash flow forecasting using spreadsheets",
+    "must_have_features": [
+      "manual data entry for initial setup",
+      "weekly cash flow report generation",
+      "user-friendly dashboard for cash flow overview"
+    ]
+  },
+  "one_liner": "For accounting firms processing 10\u201320 invoices/month, manual data entry causes cash flow gaps. We automate cash flow forecasting instead of manual cash flow forecasting using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-19",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

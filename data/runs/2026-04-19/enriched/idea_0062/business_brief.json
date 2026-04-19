@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "manufacturing operations manager in a small-scale Etsy seller production facility processing 5\u201315 products/day tool",
+  "description": "For manufacturing operations managers in a small-scale Etsy seller production facility processing 5\u201315 products/day, inconsistent product quality causes customer complaints and returns. We provide real-time quality monitoring instead of manual quality checks and sporadic inspections.",
+  "target_audience": "manufacturing operations manager in a small-scale Etsy seller production facility processing 5\u201315 products/day",
+  "problem_solved": "Inconsistent product quality leading to customer complaints and returns.",
+  "features": [
+    "real-time quality alerts",
+    "manual quality data entry",
+    "basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "manufacturing operations manager in a small-scale Etsy seller production facility processing 5\u201315 products/day",
+    "primary_problem": "Inconsistent product quality leading to customer complaints and returns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For manufacturing operations managers in a small-scale Etsy seller production facility processing 5\u201315 products/day, inconsistent product quality causes customer complaints and returns. We provide real-time quality monitoring instead of manual quality checks and sporadic inspections.",
+    "current_alternative": "manual quality checks and sporadic inspections",
+    "must_have_features": [
+      "real-time quality alerts",
+      "manual quality data entry",
+      "basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For manufacturing operations managers in a small-scale Etsy seller production facility processing 5\u201315 products/day, inconsistent product quality causes customer complaints and returns. We provide real-time quality monitoring instead of manual quality checks and sporadic inspections.",
+  "source": {
+    "idea_id": "idea_0062",
+    "run_date": "2026-04-19",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR managers in small to medium-sized medical clinics with 5-15 employees",
+  "offer": "For HR managers in small to medium-sized medical clinics processing 5-15 employees, manual tracking of certification expiration causes compliance risks. We provide alerts instead of manual tracking of certification expiration dates.",
+  "problem": "Monitoring expiring certifications for compliance",
+  "channels_free": [
+    "Post in Reddit communities for HR managers",
+    "Indie Hackers posts about similar workflows",
+    "DM outreach to HR managers with demo video",
+    "Community forums for HR managers sharing tools"
+  ],
+  "try_it": "Let users try Dashboard for tracking employee training records",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with one-liner and CTA",
+    "Short demo video showing manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Fewer steps in onboarding"
+  ]
+}

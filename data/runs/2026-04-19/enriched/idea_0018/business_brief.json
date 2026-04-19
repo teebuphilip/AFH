@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized retail companies using Shopify, processing 10-20 vendor invoices/month tool",
+  "description": "For procurement managers in mid-sized retail companies using Shopify, processing 10-20 invoices/month, inconsistent vendor performance causes late orders and supplier penalties. We provide automated scorecards instead of manual tracking through spreadsheets.",
+  "target_audience": "procurement managers in mid-sized retail companies using Shopify, processing 10-20 vendor invoices/month",
+  "problem_solved": "Inconsistent vendor performance leading to late orders and supplier penalties.",
+  "features": [
+    "monthly performance scorecard generation",
+    "vendor performance KPI tracking",
+    "email notifications for scorecard delivery"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized retail companies using Shopify, processing 10-20 vendor invoices/month",
+    "primary_problem": "Inconsistent vendor performance leading to late orders and supplier penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized retail companies using Shopify, processing 10-20 invoices/month, inconsistent vendor performance causes late orders and supplier penalties. We provide automated scorecards instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking of vendor performance metrics through spreadsheets",
+    "must_have_features": [
+      "monthly performance scorecard generation",
+      "vendor performance KPI tracking",
+      "email notifications for scorecard delivery"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized retail companies using Shopify, processing 10-20 invoices/month, inconsistent vendor performance causes late orders and supplier penalties. We provide automated scorecards instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-19",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

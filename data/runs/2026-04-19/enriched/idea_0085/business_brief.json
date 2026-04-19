@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 bids/month tool",
+  "description": "For construction contractors processing 5\u201315 bids/month, inconsistent proposal formats cause delays in project approvals. We automate the conversion of bids into standardized proposals instead of manual proposal creation using word processors.",
+  "target_audience": "construction contractors processing 5\u201315 bids/month",
+  "problem_solved": "Inconsistent proposal formats lead to confusion and delays in project approvals.",
+  "features": [
+    "template selection for proposals",
+    "editable proposal sections",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 bids/month",
+    "primary_problem": "Inconsistent proposal formats lead to confusion and delays in project approvals.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 bids/month, inconsistent proposal formats cause delays in project approvals. We automate the conversion of bids into standardized proposals instead of manual proposal creation using word processors.",
+    "current_alternative": "manual proposal creation using word processors",
+    "must_have_features": [
+      "template selection for proposals",
+      "editable proposal sections",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 bids/month, inconsistent proposal formats cause delays in project approvals. We automate the conversion of bids into standardized proposals instead of manual proposal creation using word processors.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

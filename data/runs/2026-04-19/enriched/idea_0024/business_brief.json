@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement staff in small marketing agencies processing 5\u201315 invoices/month tool",
+  "description": "For procurement staff in small marketing agencies processing 5\u201315 invoices/month, delayed invoice approvals cause late payments. We send weekly reminders instead of manual tracking of invoice approvals via email.",
+  "target_audience": "procurement staff in small marketing agencies processing 5\u201315 invoices/month",
+  "problem_solved": "Delayed invoice approvals leading to late payments.",
+  "features": [
+    "manual entry of invoice approval status",
+    "weekly reminder notifications",
+    "status tracking dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement staff in small marketing agencies processing 5\u201315 invoices/month",
+    "primary_problem": "Delayed invoice approvals leading to late payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement staff in small marketing agencies processing 5\u201315 invoices/month, delayed invoice approvals cause late payments. We send weekly reminders instead of manual tracking of invoice approvals via email.",
+    "current_alternative": "manual tracking of invoice approvals via email",
+    "must_have_features": [
+      "manual entry of invoice approval status",
+      "weekly reminder notifications",
+      "status tracking dashboard"
+    ]
+  },
+  "one_liner": "For procurement staff in small marketing agencies processing 5\u201315 invoices/month, delayed invoice approvals cause late payments. We send weekly reminders instead of manual tracking of invoice approvals via email.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-19",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

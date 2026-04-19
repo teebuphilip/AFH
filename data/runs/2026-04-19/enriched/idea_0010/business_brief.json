@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201320 invoices/month tool",
+  "description": "For logistics carriers processing 10\u201320 invoices/month, discrepancies cause cash flow gaps. We reconcile delivery logs with invoicing data instead of manual reconciliation of logs and invoices.",
+  "target_audience": "logistics carriers processing 10\u201320 invoices/month",
+  "problem_solved": "discrepancies between delivery logs and invoicing data",
+  "features": [
+    "manual entry of delivery logs",
+    "manual entry of invoicing data",
+    "email notifications for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201320 invoices/month",
+    "primary_problem": "discrepancies between delivery logs and invoicing data",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201320 invoices/month, discrepancies cause cash flow gaps. We reconcile delivery logs with invoicing data instead of manual reconciliation of logs and invoices.",
+    "current_alternative": "manual reconciliation of logs and invoices",
+    "must_have_features": [
+      "manual entry of delivery logs",
+      "manual entry of invoicing data",
+      "email notifications for discrepancies"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201320 invoices/month, discrepancies cause cash flow gaps. We reconcile delivery logs with invoicing data instead of manual reconciliation of logs and invoices.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-19",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

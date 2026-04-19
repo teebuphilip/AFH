@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant purchasing managers processing 10\u201320 orders/week tool",
+  "description": "For restaurant purchasing managers processing 10\u201320 orders/week, inefficient inventory management causes excess waste. We automate inventory tracking and order generation instead of manual inventory tracking and order generation.",
+  "target_audience": "restaurant purchasing managers processing 10\u201320 orders/week",
+  "problem_solved": "Inefficient inventory management leading to waste and over-ordering.",
+  "features": [
+    "Inventory tracking system",
+    "Order list generation",
+    "Waste calculation tool"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant purchasing managers processing 10\u201320 orders/week",
+    "primary_problem": "Inefficient inventory management leading to waste and over-ordering.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant purchasing managers processing 10\u201320 orders/week, inefficient inventory management causes excess waste. We automate inventory tracking and order generation instead of manual inventory tracking and order generation.",
+    "current_alternative": "manual inventory tracking and order generation",
+    "must_have_features": [
+      "Inventory tracking system",
+      "Order list generation",
+      "Waste calculation tool"
+    ]
+  },
+  "one_liner": "For restaurant purchasing managers processing 10\u201320 orders/week, inefficient inventory management causes excess waste. We automate inventory tracking and order generation instead of manual inventory tracking and order generation.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

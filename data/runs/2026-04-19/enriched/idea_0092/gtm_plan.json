@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction project managers handling 5\u201315 projects/month",
+  "offer": "For construction project managers processing 5\u201315 projects/month, inaccurate cost estimates cause budget overruns. We automate cost estimation instead of manual calculations and spreadsheets.",
+  "problem": "Inaccurate cost estimates leading to budget overruns",
+  "channels_free": [
+    "Post in Reddit communities for construction project managers",
+    "Engage in Indie Hackers discussions on project management",
+    "DM outreach to construction project managers with demo video",
+    "Share insights in community forums for construction managers"
+  ],
+  "try_it": "Let users input project plans and generate cost estimates",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video of the manual-first workflow",
+    "Conduct 10 user interviews for feedback",
+    "Offer early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for users",
+    "Enable CSV import for existing project data",
+    "Provide one-click export for simple reports",
+    "Streamline onboarding process for new users"
+  ]
+}

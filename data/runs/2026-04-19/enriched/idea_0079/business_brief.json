@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "clinical practice managers processing 10\u201320 patient records/month tool",
+  "description": "For clinical practice managers processing 10\u201320 invoices/month, inaccurate billing causes cash flow gaps. We automate reconciliation instead of manual reconciliation of records and billing.",
+  "target_audience": "clinical practice managers processing 10\u201320 patient records/month",
+  "problem_solved": "Inaccurate billing due to mismatched patient records.",
+  "features": [
+    "manual entry of patient records",
+    "manual entry of billing information",
+    "report generation for discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "clinical practice managers processing 10\u201320 patient records/month",
+    "primary_problem": "Inaccurate billing due to mismatched patient records.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For clinical practice managers processing 10\u201320 invoices/month, inaccurate billing causes cash flow gaps. We automate reconciliation instead of manual reconciliation of records and billing.",
+    "current_alternative": "manual reconciliation of records and billing",
+    "must_have_features": [
+      "manual entry of patient records",
+      "manual entry of billing information",
+      "report generation for discrepancies"
+    ]
+  },
+  "one_liner": "For clinical practice managers processing 10\u201320 invoices/month, inaccurate billing causes cash flow gaps. We automate reconciliation instead of manual reconciliation of records and billing.",
+  "source": {
+    "idea_id": "idea_0079",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

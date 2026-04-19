@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month tool",
+  "description": "For HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month, manual data entry causes late payroll submissions. We automate data compilation instead of manual data entry and formatting in spreadsheets.",
+  "target_audience": "HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month",
+  "problem_solved": "Compiling and formatting employee benefits enrollment data for payroll submission",
+  "features": [
+    "Data import from spreadsheets",
+    "User-friendly interface for manual adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month",
+    "primary_problem": "Compiling and formatting employee benefits enrollment data for payroll submission",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month, manual data entry causes late payroll submissions. We automate data compilation instead of manual data entry and formatting in spreadsheets.",
+    "current_alternative": "Manual data entry and formatting in spreadsheets",
+    "must_have_features": [
+      "Data import from spreadsheets",
+      "User-friendly interface for manual adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized accounting firms processing 5\u201315 employee benefits enrollments/month, manual data entry causes late payroll submissions. We automate data compilation instead of manual data entry and formatting in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0011",
+    "run_date": "2026-04-19",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance claims analysts processing 10-20 claims/week tool",
+  "description": "For insurance claims analysts processing 10-20 claims/week, inefficient tracking causes delays in identifying trends. We automate weekly denial reason summaries instead of manual tracking and reporting of claim denials.",
+  "target_audience": "insurance claims analysts processing 10-20 claims/week",
+  "problem_solved": "Inefficient tracking and reporting of claim denial reasons",
+  "features": [
+    "Weekly summary generation",
+    "Customizable report formats",
+    "User-friendly dashboard for insights"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance claims analysts processing 10-20 claims/week",
+    "primary_problem": "Inefficient tracking and reporting of claim denial reasons",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance claims analysts processing 10-20 claims/week, inefficient tracking causes delays in identifying trends. We automate weekly denial reason summaries instead of manual tracking and reporting of claim denials.",
+    "current_alternative": "manual tracking and reporting of claim denials",
+    "must_have_features": [
+      "Weekly summary generation",
+      "Customizable report formats",
+      "User-friendly dashboard for insights"
+    ]
+  },
+  "one_liner": "For insurance claims analysts processing 10-20 claims/week, inefficient tracking causes delays in identifying trends. We automate weekly denial reason summaries instead of manual tracking and reporting of claim denials.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-19",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

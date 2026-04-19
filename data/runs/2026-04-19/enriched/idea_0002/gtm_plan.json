@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR operations for small marketing agencies processing 5\u201315 timesheets/month",
+  "offer": "For HR operations for small marketing agencies processing 5\u201315 timesheets/month, inconsistent submissions cause payroll delays. We alert HR ops instead of manual tracking and reminders via email.",
+  "problem": "Inconsistent timesheet submissions lead to payroll delays.",
+  "channels_free": [
+    "Post in Reddit communities for HR operations",
+    "Engage on Indie Hackers about similar workflows",
+    "DM outreach to HR operations with demo video",
+    "Share in community forums for HR tools"
+  ],
+  "try_it": "Let users try dashboard for tracking submissions and corrections",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 user interviews for feedback",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

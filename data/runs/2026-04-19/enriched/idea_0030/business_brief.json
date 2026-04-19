@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201315 vehicles tool",
+  "description": "For logistics carriers managing 5\u201315 vehicles, fuel usage anomalies cause unexpected costs. We provide real-time tracking instead of manual tracking and reporting of fuel usage.",
+  "target_audience": "logistics carriers managing 5\u201315 vehicles",
+  "problem_solved": "Fuel usage anomalies leading to unexpected costs",
+  "features": [
+    "manual entry of fuel usage data",
+    "anomaly reporting dashboard",
+    "exportable fuel usage reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201315 vehicles",
+    "primary_problem": "Fuel usage anomalies leading to unexpected costs",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5\u201315 vehicles, fuel usage anomalies cause unexpected costs. We provide real-time tracking instead of manual tracking and reporting of fuel usage.",
+    "current_alternative": "manual tracking and reporting of fuel usage",
+    "must_have_features": [
+      "manual entry of fuel usage data",
+      "anomaly reporting dashboard",
+      "exportable fuel usage reports"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5\u201315 vehicles, fuel usage anomalies cause unexpected costs. We provide real-time tracking instead of manual tracking and reporting of fuel usage.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-19",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}
