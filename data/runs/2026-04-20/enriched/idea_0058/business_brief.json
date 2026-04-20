@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, inefficient equipment maintenance tracking causes unexpected downtime. We provide an automated scheduling system instead of manual tracking via spreadsheets.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Inefficient tracking of equipment maintenance leads to unexpected downtime.",
+  "features": [
+    "manual entry for service schedules",
+    "part ordering reminders",
+    "downtime reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Inefficient tracking of equipment maintenance leads to unexpected downtime.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, inefficient equipment maintenance tracking causes unexpected downtime. We provide an automated scheduling system instead of manual tracking via spreadsheets.",
+    "current_alternative": "manual tracking via spreadsheets",
+    "must_have_features": [
+      "manual entry for service schedules",
+      "part ordering reminders",
+      "downtime reporting dashboard"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, inefficient equipment maintenance tracking causes unexpected downtime. We provide an automated scheduling system instead of manual tracking via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0058",
+    "run_date": "2026-04-20",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

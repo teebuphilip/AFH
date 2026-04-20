@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small to medium-sized marketing agencies using BambooHR tool",
+  "description": "For HR managers in small to medium-sized marketing agencies using BambooHR processing 10\u201320 time-off requests/week, inefficient approval workflows cause delays in employee scheduling. We automate the summarization and emailing of requests instead of manual tracking and email communication for approvals.",
+  "target_audience": "HR managers in small to medium-sized marketing agencies using BambooHR",
+  "problem_solved": "Inefficient approval workflows for employee time-off requests",
+  "features": [
+    "Summarize time-off requests",
+    "Email notifications for HR ops",
+    "User-friendly dashboard for tracking requests"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small to medium-sized marketing agencies using BambooHR",
+    "primary_problem": "Inefficient approval workflows for employee time-off requests",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small to medium-sized marketing agencies using BambooHR processing 10\u201320 time-off requests/week, inefficient approval workflows cause delays in employee scheduling. We automate the summarization and emailing of requests instead of manual tracking and email communication for approvals.",
+    "current_alternative": "Manual tracking and email communication for approvals",
+    "must_have_features": [
+      "Summarize time-off requests",
+      "Email notifications for HR ops",
+      "User-friendly dashboard for tracking requests"
+    ]
+  },
+  "one_liner": "For HR managers in small to medium-sized marketing agencies using BambooHR processing 10\u201320 time-off requests/week, inefficient approval workflows cause delays in employee scheduling. We automate the summarization and emailing of requests instead of manual tracking and email communication for approvals.",
+  "source": {
+    "idea_id": "idea_0015",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

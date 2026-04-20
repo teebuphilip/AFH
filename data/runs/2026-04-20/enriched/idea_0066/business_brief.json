@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201350 invoices/month, poor supplier performance causes missed discounts. We provide a procurement analytics dashboard instead of manual tracking through spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Inability to effectively measure supplier performance and contract compliance",
+  "features": [
+    "Supplier performance metrics",
+    "Contract compliance tracking",
+    "Cost savings analysis"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Inability to effectively measure supplier performance and contract compliance",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201350 invoices/month, poor supplier performance causes missed discounts. We provide a procurement analytics dashboard instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "Supplier performance metrics",
+      "Contract compliance tracking",
+      "Cost savings analysis"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201350 invoices/month, poor supplier performance causes missed discounts. We provide a procurement analytics dashboard instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0066",
+    "run_date": "2026-04-20",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

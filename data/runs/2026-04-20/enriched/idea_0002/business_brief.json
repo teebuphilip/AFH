@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR operations for small businesses using Gusto processing 5\u201315 payroll runs/month tool",
+  "description": "For HR operations for small businesses using Gusto processing 5\u201315 payroll runs/month, payroll errors cause employee dissatisfaction. We monitor payroll runs and alert HR ops instead of manual payroll checks and error reporting.",
+  "target_audience": "HR operations for small businesses using Gusto processing 5\u201315 payroll runs/month",
+  "problem_solved": "Payroll errors leading to employee dissatisfaction and compliance issues.",
+  "features": [
+    "Daily payroll monitoring",
+    "Error alert notifications",
+    "User-friendly dashboard for payroll insights"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR operations for small businesses using Gusto processing 5\u201315 payroll runs/month",
+    "primary_problem": "Payroll errors leading to employee dissatisfaction and compliance issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR operations for small businesses using Gusto processing 5\u201315 payroll runs/month, payroll errors cause employee dissatisfaction. We monitor payroll runs and alert HR ops instead of manual payroll checks and error reporting.",
+    "current_alternative": "Manual payroll checks and error reporting",
+    "must_have_features": [
+      "Daily payroll monitoring",
+      "Error alert notifications",
+      "User-friendly dashboard for payroll insights"
+    ]
+  },
+  "one_liner": "For HR operations for small businesses using Gusto processing 5\u201315 payroll runs/month, payroll errors cause employee dissatisfaction. We monitor payroll runs and alert HR ops instead of manual payroll checks and error reporting.",
+  "source": {
+    "idea_id": "idea_0002",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

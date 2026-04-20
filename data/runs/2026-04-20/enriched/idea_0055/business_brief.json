@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "amazon sellers processing 10\u201350 invoices/month tool",
+  "description": "For amazon sellers processing 10\u201350 invoices/month, missed compliance deadlines cause penalties and lost sales. We automate renewals instead of manual tracking of contracts and renewals using spreadsheets.",
+  "target_audience": "amazon sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Difficulty in managing contract renewals and compliance with Amazon policies.",
+  "features": [
+    "Centralized contract repository",
+    "Policy compliance checklist",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "amazon sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Difficulty in managing contract renewals and compliance with Amazon policies.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For amazon sellers processing 10\u201350 invoices/month, missed compliance deadlines cause penalties and lost sales. We automate renewals instead of manual tracking of contracts and renewals using spreadsheets.",
+    "current_alternative": "manual tracking of contracts and renewals using spreadsheets",
+    "must_have_features": [
+      "Centralized contract repository",
+      "Policy compliance checklist",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For amazon sellers processing 10\u201350 invoices/month, missed compliance deadlines cause penalties and lost sales. We automate renewals instead of manual tracking of contracts and renewals using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0055",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

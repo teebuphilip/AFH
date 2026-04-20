@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accountants in law firms processing 5\u201315 quarterly tax filings",
+  "offer": "For accountants in law firms processing 5\u201315 quarterly tax filings, inaccurate tax summaries cause compliance issues. We provide tax summary preparation instead of manual preparation using spreadsheets.",
+  "problem": "Inaccurate tax summaries leading to compliance issues.",
+  "channels_free": [
+    "Post in Reddit communities for accountants seeking solutions",
+    "Engage in Indie Hackers discussions on tax workflows",
+    "DM outreach to accountants with demo video",
+    "Share insights in community forums for accountants"
+  ],
+  "try_it": "Let users manually enter tax data for a few items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a short demo video of the manual workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as reusable templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline the onboarding process"
+  ]
+}

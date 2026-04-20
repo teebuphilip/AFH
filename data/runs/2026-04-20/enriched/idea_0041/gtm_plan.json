@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "law firms processing 5\u201315 invoices/month",
+  "offer": "For law firms processing 5\u201315 invoices/month, delayed billing causes cash flow gaps. We automate billing statements and reminders instead of manual billing processes and reminders.",
+  "problem": "timely billing and payment reminders",
+  "channels_free": [
+    "Post in Reddit communities for law firms",
+    "Indie Hackers discussions on billing solutions",
+    "DM outreach to law firms with demo video",
+    "Engage in community forums for law firms"
+  ],
+  "try_it": "Let users try manual invoice generation and reminders on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first users",
+    "Share weekly progress updates in relevant forums"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing client data",
+    "One-click export of invoice reports",
+    "Streamline onboarding steps for new users"
+  ]
+}

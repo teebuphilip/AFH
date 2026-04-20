@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 10\u201320 invoices/month tool",
+  "description": "For construction contractors processing 10\u201320 invoices/month, manual processing causes late orders. We convert paper work orders into digital invoices instead of manual data entry into accounting software.",
+  "target_audience": "construction contractors processing 10\u201320 invoices/month",
+  "problem_solved": "Manual processing of paper work orders leads to delays in invoicing.",
+  "features": [
+    "manual data entry for initial setup",
+    "template for invoice generation",
+    "export functionality to common formats"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 10\u201320 invoices/month",
+    "primary_problem": "Manual processing of paper work orders leads to delays in invoicing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 10\u201320 invoices/month, manual processing causes late orders. We convert paper work orders into digital invoices instead of manual data entry into accounting software.",
+    "current_alternative": "manual data entry into accounting software",
+    "must_have_features": [
+      "manual data entry for initial setup",
+      "template for invoice generation",
+      "export functionality to common formats"
+    ]
+  },
+  "one_liner": "For construction contractors processing 10\u201320 invoices/month, manual processing causes late orders. We convert paper work orders into digital invoices instead of manual data entry into accounting software.",
+  "source": {
+    "idea_id": "idea_0029",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

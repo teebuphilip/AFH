@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers using QuickBooks processing 5\u201315 invoices/month tool",
+  "description": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual reconciliation causes financial discrepancies. We automate bank reconciliation instead of manual reconciliation processes.",
+  "target_audience": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+  "problem_solved": "Difficulty in reconciling bank transactions leading to financial discrepancies.",
+  "features": [
+    "Transaction matching",
+    "Discrepancy identification",
+    "Report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers using QuickBooks processing 5\u201315 invoices/month",
+    "primary_problem": "Difficulty in reconciling bank transactions leading to financial discrepancies.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual reconciliation causes financial discrepancies. We automate bank reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "Transaction matching",
+      "Discrepancy identification",
+      "Report generation"
+    ]
+  },
+  "one_liner": "For freelancers using QuickBooks processing 5\u201315 invoices/month, manual reconciliation causes financial discrepancies. We automate bank reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0065",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

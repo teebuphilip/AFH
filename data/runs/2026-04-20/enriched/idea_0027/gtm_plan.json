@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Fleet Managers in Logistics Companies managing 50-100 vehicles",
+  "offer": "For Fleet Managers in Logistics Companies managing 50-100 vehicles, manual tracking of maintenance schedules causes compliance penalties. We generate daily vehicle maintenance compliance reports instead of manual tracking.",
+  "problem": "Ensuring vehicle maintenance compliance to avoid penalties.",
+  "channels_free": [
+    "Post in Reddit communities where Fleet Managers seek advice",
+    "Indie Hackers posts discussing similar challenges",
+    "DM outreach to 20-50 Fleet Managers with demo video",
+    "Community forums where Fleet Managers share tools"
+  ],
+  "try_it": "Let users try daily report generation on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Collect 10 short interviews from potential users",
+    "Offer early-access onboarding for first 10 users",
+    "Post weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for reuse",
+    "Default reminder schedule options for users",
+    "CSV import feature for existing maintenance data",
+    "One-click export for simple compliance reports",
+    "Streamline onboarding process with fewer steps"
+  ]
+}

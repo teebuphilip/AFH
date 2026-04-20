@@ -1,0 +1,12 @@
+{
+  "idea_text": "Service that aggregates and reconciles utility bills for property managers and sends monthly variance reports.",
+  "scores": {
+    "pricing_power": 90,
+    "user_count": 70,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 73,
+  "arr_score": 75
+}

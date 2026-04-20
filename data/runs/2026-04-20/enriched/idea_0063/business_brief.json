@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 10-50 units tool",
+  "description": "For property managers handling 10-50 units, inconsistent tracking of work orders causes missed compliance inspections. We provide a streamlined platform instead of manual spreadsheets and email communication.",
+  "target_audience": "property managers handling 10-50 units",
+  "problem_solved": "Inconsistent tracking of work orders and compliance inspections",
+  "features": [
+    "work order tracking",
+    "preventative maintenance scheduling",
+    "compliance inspection reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 10-50 units",
+    "primary_problem": "Inconsistent tracking of work orders and compliance inspections",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 10-50 units, inconsistent tracking of work orders causes missed compliance inspections. We provide a streamlined platform instead of manual spreadsheets and email communication.",
+    "current_alternative": "manual spreadsheets and email communication",
+    "must_have_features": [
+      "work order tracking",
+      "preventative maintenance scheduling",
+      "compliance inspection reminders"
+    ]
+  },
+  "one_liner": "For property managers handling 10-50 units, inconsistent tracking of work orders causes missed compliance inspections. We provide a streamlined platform instead of manual spreadsheets and email communication.",
+  "source": {
+    "idea_id": "idea_0063",
+    "run_date": "2026-04-20",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters in mid-sized insurance firms processing 10\u201320 claims/month tool",
+  "description": "For insurance adjusters in mid-sized insurance firms processing 10\u201320 claims/month, inefficient follow-up processes cause delayed claim resolutions. We automate scheduling and tracking instead of manual tracking and scheduling via spreadsheets.",
+  "target_audience": "insurance adjusters in mid-sized insurance firms processing 10\u201320 claims/month",
+  "problem_solved": "inefficient follow-up processes for insurance claims",
+  "features": [
+    "simple dashboard for tracking claims status",
+    "manual entry option for claims details",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters in mid-sized insurance firms processing 10\u201320 claims/month",
+    "primary_problem": "inefficient follow-up processes for insurance claims",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters in mid-sized insurance firms processing 10\u201320 claims/month, inefficient follow-up processes cause delayed claim resolutions. We automate scheduling and tracking instead of manual tracking and scheduling via spreadsheets.",
+    "current_alternative": "manual tracking and scheduling via spreadsheets",
+    "must_have_features": [
+      "simple dashboard for tracking claims status",
+      "manual entry option for claims details",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance adjusters in mid-sized insurance firms processing 10\u201320 claims/month, inefficient follow-up processes cause delayed claim resolutions. We automate scheduling and tracking instead of manual tracking and scheduling via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0028",
+    "run_date": "2026-04-20",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinic billing supervisors processing 10\u201320 invoices/month tool",
+  "description": "For medical clinic billing supervisors processing 10\u201320 invoices/month, frequent billing denials cause cash flow gaps. We monitor denials and flag issues instead of manual tracking of billing denials.",
+  "target_audience": "medical clinic billing supervisors processing 10\u201320 invoices/month",
+  "problem_solved": "Frequent billing denials leading to cash flow gaps.",
+  "features": [
+    "manual tracking of billing denials",
+    "issue flagging system",
+    "monthly reporting of denial trends"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinic billing supervisors processing 10\u201320 invoices/month",
+    "primary_problem": "Frequent billing denials leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinic billing supervisors processing 10\u201320 invoices/month, frequent billing denials cause cash flow gaps. We monitor denials and flag issues instead of manual tracking of billing denials.",
+    "current_alternative": "manual tracking of billing denials",
+    "must_have_features": [
+      "manual tracking of billing denials",
+      "issue flagging system",
+      "monthly reporting of denial trends"
+    ]
+  },
+  "one_liner": "For medical clinic billing supervisors processing 10\u201320 invoices/month, frequent billing denials cause cash flow gaps. We monitor denials and flag issues instead of manual tracking of billing denials.",
+  "source": {
+    "idea_id": "idea_0047",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "idea_text": "System that converts field service reports into insurance claim documents for adjusters.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-20T10:54:23.790201",
+  "verdict_source": "overlay_score"
+}

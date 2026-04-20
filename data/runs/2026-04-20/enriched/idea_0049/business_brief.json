@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "legal intake specialists in law firms processing 5\u201315 client follow-ups/month tool",
+  "description": "For legal intake specialists in law firms processing 5\u201315 client follow-ups/month, missed follow-ups cause client dissatisfaction. We provide automated reminders instead of manual tracking through spreadsheets or calendars.",
+  "target_audience": "legal intake specialists in law firms processing 5\u201315 client follow-ups/month",
+  "problem_solved": "Missed client follow-ups leading to lost cases and client dissatisfaction.",
+  "features": [
+    "manual reminder setup",
+    "client follow-up logging",
+    "notification alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "legal intake specialists in law firms processing 5\u201315 client follow-ups/month",
+    "primary_problem": "Missed client follow-ups leading to lost cases and client dissatisfaction.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For legal intake specialists in law firms processing 5\u201315 client follow-ups/month, missed follow-ups cause client dissatisfaction. We provide automated reminders instead of manual tracking through spreadsheets or calendars.",
+    "current_alternative": "manual tracking through spreadsheets or calendars",
+    "must_have_features": [
+      "manual reminder setup",
+      "client follow-up logging",
+      "notification alerts"
+    ]
+  },
+  "one_liner": "For legal intake specialists in law firms processing 5\u201315 client follow-ups/month, missed follow-ups cause client dissatisfaction. We provide automated reminders instead of manual tracking through spreadsheets or calendars.",
+  "source": {
+    "idea_id": "idea_0049",
+    "run_date": "2026-04-20",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

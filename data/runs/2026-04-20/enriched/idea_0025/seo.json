@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "logistics carriers difficulty tool",
+    "logistics carriers difficulty automation",
+    "logistics carriers processing 50 100 deliveries month difficulty tool",
+    "logistics carriers processing 50 100 deliveries month difficulty automation",
+    "logistics carriers processing 50 100 deliveries month difficulty workflow"
+  ],
+  "secondary_keywords": [
+    "logistics carriers processing 50 100 deliveries month difficulty tool software",
+    "logistics carriers processing 50 100 deliveries month difficulty tool platform",
+    "logistics carriers processing 50 100 deliveries month difficulty tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For logistics carriers processing 50\u2013100 deliveries/month, manual report generation causes late compliance submissions. We automate compliance reporting instead of manual report generation using spreadsheets.",
+    "Difficulty in generating timely compliance reports from raw data.",
+    "logistics carriers processing 50\u2013100 deliveries/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Deliveries Month Difficulty Tool Software",
+      "target_keyword": "logistics carriers processing 50 100 deliveries month difficulty tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Deliveries Month Difficulty Tool Platform",
+      "target_keyword": "logistics carriers processing 50 100 deliveries month difficulty tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Deliveries Month Difficulty Tool Solution",
+      "target_keyword": "logistics carriers processing 50 100 deliveries month difficulty tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Deliveries Month Difficulty Tool",
+      "target_keyword": "logistics carriers processing 50 100 deliveries month difficulty tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Deliveries Month Difficulty Automation",
+      "target_keyword": "logistics carriers processing 50 100 deliveries month difficulty automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Logistics Carriers Processing 50 100 Deliveries Month Difficulty Workflow",
+      "target_keyword": "logistics carriers processing 50 100 deliveries month difficulty workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "logistics carriers difficulty tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "logistics carriers difficulty tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "logistics carriers difficulty tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "logistics carriers difficulty tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "logistics carriers difficulty tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | logistics carriers tool",
+      "logistics carriers tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "logistics carriers tool helps with difficulty in generating timely compliance reports from raw data."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

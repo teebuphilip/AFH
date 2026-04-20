@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors managing 5\u201315 projects/month, inaccurate progress reporting causes cash flow gaps. We provide automated progress reports instead of manual spreadsheets and outdated reporting tools.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Inaccurate progress reporting and estimates lead to cash flow gaps.",
+  "features": [
+    "manual data entry for job site updates",
+    "template-based progress report generation",
+    "basic estimate calculation tools"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Inaccurate progress reporting and estimates lead to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors managing 5\u201315 projects/month, inaccurate progress reporting causes cash flow gaps. We provide automated progress reports instead of manual spreadsheets and outdated reporting tools.",
+    "current_alternative": "manual spreadsheets and outdated reporting tools",
+    "must_have_features": [
+      "manual data entry for job site updates",
+      "template-based progress report generation",
+      "basic estimate calculation tools"
+    ]
+  },
+  "one_liner": "For construction contractors managing 5\u201315 projects/month, inaccurate progress reporting causes cash flow gaps. We provide automated progress reports instead of manual spreadsheets and outdated reporting tools.",
+  "source": {
+    "idea_id": "idea_0092",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

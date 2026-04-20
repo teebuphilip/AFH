@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "medical office administrators processing 10\u201320 invoices/month",
+  "offer": "For medical office administrators processing 10\u201320 invoices/month, inaccurate matching causes cash flow gaps. We provide automated reconciliation instead of manual reconciliation processes.",
+  "problem": "Inaccurate matching of patient records with insurance payments",
+  "channels_free": [
+    "Post in Reddit communities for medical office administrators",
+    "Engage in Indie Hackers discussions on similar workflows",
+    "DM outreach to medical office administrators with demo video",
+    "Join community forums for sharing tools and tips"
+  ],
+  "try_it": "Let users manually enter records and generate reports for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a 1-page landing page with CTA",
+    "Produce a short demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule options",
+    "CSV import for existing patient data",
+    "One-click export of simple reports",
+    "Streamline onboarding steps for users"
+  ]
+}

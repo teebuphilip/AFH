@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 invoices/month tool",
+  "description": "For construction contractors processing 5\u201315 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate the reconciliation instead of manual reconciliation of invoices and timelines.",
+  "target_audience": "construction contractors processing 5\u201315 invoices/month",
+  "problem_solved": "Inaccurate reconciliation of rental invoices with project timelines leads to cash flow gaps.",
+  "features": [
+    "manual invoice entry",
+    "timeline tracking",
+    "basic reporting on discrepancies"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 invoices/month",
+    "primary_problem": "Inaccurate reconciliation of rental invoices with project timelines leads to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate the reconciliation instead of manual reconciliation of invoices and timelines.",
+    "current_alternative": "manual reconciliation of invoices and timelines",
+    "must_have_features": [
+      "manual invoice entry",
+      "timeline tracking",
+      "basic reporting on discrepancies"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 invoices/month, inaccurate reconciliation causes cash flow gaps. We automate the reconciliation instead of manual reconciliation of invoices and timelines.",
+  "source": {
+    "idea_id": "idea_0048",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

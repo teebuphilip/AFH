@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 50\u2013100 deliveries/month tool",
+  "description": "For logistics carriers processing 50\u2013100 deliveries/month, manual report generation causes late compliance submissions. We automate compliance reporting instead of manual report generation using spreadsheets.",
+  "target_audience": "logistics carriers processing 50\u2013100 deliveries/month",
+  "problem_solved": "Difficulty in generating timely compliance reports from raw data.",
+  "features": [
+    "data import from CSV files",
+    "template-based report generation",
+    "user-friendly dashboard for report access"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 50\u2013100 deliveries/month",
+    "primary_problem": "Difficulty in generating timely compliance reports from raw data.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 deliveries/month, manual report generation causes late compliance submissions. We automate compliance reporting instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "data import from CSV files",
+      "template-based report generation",
+      "user-friendly dashboard for report access"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 deliveries/month, manual report generation causes late compliance submissions. We automate compliance reporting instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0025",
+    "run_date": "2026-04-20",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

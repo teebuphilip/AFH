@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 50\u2013100 deliveries/week tool",
+  "description": "For logistics carriers processing 50\u2013100 deliveries/week, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "target_audience": "logistics carriers managing 50\u2013100 deliveries/week",
+  "problem_solved": "Inaccurate reconciliation of delivery logs with driver timesheets",
+  "features": [
+    "manual entry of delivery logs",
+    "manual entry of driver timesheets",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 50\u2013100 deliveries/week",
+    "primary_problem": "Inaccurate reconciliation of delivery logs with driver timesheets",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 50\u2013100 deliveries/week, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry of delivery logs",
+      "manual entry of driver timesheets",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 50\u2013100 deliveries/week, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0034",
+    "run_date": "2026-04-20",
+    "overlay_score": 68,
+    "arr_score": 66
+  }
+}

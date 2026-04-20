@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors managing 5\u201315 projects/month",
+  "offer": "For construction contractors managing 5\u201315 projects/month, inefficient equipment maintenance tracking causes unexpected downtime. We provide an automated scheduling system instead of manual tracking via spreadsheets.",
+  "problem": "Inefficient tracking of equipment maintenance leads to unexpected downtime.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to construction contractors with demo video",
+    "Community forums for sharing construction tools"
+  ],
+  "try_it": "Let users try manual entry for service schedules",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Offer early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Streamline onboarding process"
+  ]
+}

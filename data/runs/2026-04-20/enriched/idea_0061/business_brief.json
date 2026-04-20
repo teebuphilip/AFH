@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accountants managing 5\u201315 clients using QuickBooks tool",
+  "description": "For accountants managing 5\u201315 clients using QuickBooks, inefficient consolidation causes late financial reporting. We provide a data aggregation tool instead of manual data entry and reconciliation.",
+  "target_audience": "accountants managing 5\u201315 clients using QuickBooks",
+  "problem_solved": "Inefficient consolidation of financial statements from multiple clients",
+  "features": [
+    "manual data import",
+    "basic data visualization",
+    "client-specific report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accountants managing 5\u201315 clients using QuickBooks",
+    "primary_problem": "Inefficient consolidation of financial statements from multiple clients",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accountants managing 5\u201315 clients using QuickBooks, inefficient consolidation causes late financial reporting. We provide a data aggregation tool instead of manual data entry and reconciliation.",
+    "current_alternative": "manual data entry and reconciliation",
+    "must_have_features": [
+      "manual data import",
+      "basic data visualization",
+      "client-specific report generation"
+    ]
+  },
+  "one_liner": "For accountants managing 5\u201315 clients using QuickBooks, inefficient consolidation causes late financial reporting. We provide a data aggregation tool instead of manual data entry and reconciliation.",
+  "source": {
+    "idea_id": "idea_0061",
+    "run_date": "2026-04-20",
+    "overlay_score": 59,
+    "arr_score": 60
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 filings/month tool",
+  "description": "For law firms processing 5\u201315 filings/month, compliance errors cause legal penalties. We automate documentation instead of manual documentation processes.",
+  "target_audience": "law firms processing 5\u201315 filings/month",
+  "problem_solved": "Inaccurate or late compliance documentation can lead to legal penalties.",
+  "features": [
+    "template generation for common filings",
+    "user-friendly interface for document review",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 filings/month",
+    "primary_problem": "Inaccurate or late compliance documentation can lead to legal penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms processing 5\u201315 filings/month, compliance errors cause legal penalties. We automate documentation instead of manual documentation processes.",
+    "current_alternative": "manual documentation processes",
+    "must_have_features": [
+      "template generation for common filings",
+      "user-friendly interface for document review",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 filings/month, compliance errors cause legal penalties. We automate documentation instead of manual documentation processes.",
+  "source": {
+    "idea_id": "idea_0096",
+    "run_date": "2026-04-20",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

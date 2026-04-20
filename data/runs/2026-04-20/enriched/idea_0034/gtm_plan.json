@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "logistics carriers managing 50\u2013100 deliveries/week",
+  "offer": "For logistics carriers processing 50\u2013100 deliveries/week, inaccurate reconciliation causes cash flow gaps. We automate reconciliation instead of manual reconciliation processes.",
+  "problem": "Inaccurate reconciliation of delivery logs with driver timesheets",
+  "channels_free": [
+    "Post in Reddit communities for logistics carriers",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to logistics carriers with demo video",
+    "Community forums for logistics carriers sharing tools"
+  ],
+  "try_it": "Let users manually enter delivery logs and driver timesheets for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a short demo video of manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of simple reports",
+    "Streamline onboarding process"
+  ]
+}

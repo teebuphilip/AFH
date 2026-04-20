@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 orders/week tool",
+  "description": "For Etsy sellers processing 5\u201315 orders/week, inconsistent inventory levels cause stockouts. We automate weekly inventory usage data alerts instead of manual tracking.",
+  "target_audience": "Etsy sellers processing 5\u201315 orders/week",
+  "problem_solved": "Inconsistent inventory levels leading to stockouts",
+  "features": [
+    "Weekly inventory usage data report",
+    "Email alert system for restock thresholds",
+    "User-friendly dashboard for inventory overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 orders/week",
+    "primary_problem": "Inconsistent inventory levels leading to stockouts",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 orders/week, inconsistent inventory levels cause stockouts. We automate weekly inventory usage data alerts instead of manual tracking.",
+    "current_alternative": "Manual tracking of inventory levels",
+    "must_have_features": [
+      "Weekly inventory usage data report",
+      "Email alert system for restock thresholds",
+      "User-friendly dashboard for inventory overview"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 orders/week, inconsistent inventory levels cause stockouts. We automate weekly inventory usage data alerts instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0007",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

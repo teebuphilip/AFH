@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant owners processing 10\u201320 invoices/month tool",
+  "description": "For restaurant owners processing 10\u201320 invoices/month, inefficient month-end accounting causes cash flow gaps. We automate the process instead of manual accounting methods or spreadsheets.",
+  "target_audience": "restaurant owners processing 10\u201320 invoices/month",
+  "problem_solved": "Inefficient month-end accounting processes leading to cash flow gaps.",
+  "features": [
+    "monthly financial summary generation",
+    "user-friendly dashboard for expense management",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant owners processing 10\u201320 invoices/month",
+    "primary_problem": "Inefficient month-end accounting processes leading to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant owners processing 10\u201320 invoices/month, inefficient month-end accounting causes cash flow gaps. We automate the process instead of manual accounting methods or spreadsheets.",
+    "current_alternative": "manual accounting methods or spreadsheets",
+    "must_have_features": [
+      "monthly financial summary generation",
+      "user-friendly dashboard for expense management",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For restaurant owners processing 10\u201320 invoices/month, inefficient month-end accounting causes cash flow gaps. We automate the process instead of manual accounting methods or spreadsheets.",
+  "source": {
+    "idea_id": "idea_0081",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

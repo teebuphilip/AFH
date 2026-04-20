@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "small property managers processing 5\u201315 invoices/month tool",
+  "description": "For small property managers processing 5\u201315 invoices/month, manual report preparation causes late financial insights. We automate report generation instead of manual report preparation using spreadsheets.",
+  "target_audience": "small property managers processing 5\u201315 invoices/month",
+  "problem_solved": "Time-consuming preparation of quarterly financial reports",
+  "features": [
+    "template-based report generation",
+    "user-friendly dashboard for report access",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "small property managers processing 5\u201315 invoices/month",
+    "primary_problem": "Time-consuming preparation of quarterly financial reports",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For small property managers processing 5\u201315 invoices/month, manual report preparation causes late financial insights. We automate report generation instead of manual report preparation using spreadsheets.",
+    "current_alternative": "manual report preparation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly dashboard for report access",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For small property managers processing 5\u201315 invoices/month, manual report preparation causes late financial insights. We automate report generation instead of manual report preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0083",
+    "run_date": "2026-04-20",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

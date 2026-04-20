@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "field service supervisors in construction managing 5\u201315 projects/month tool",
+  "description": "For field service supervisors in construction managing 5\u201315 projects/month, inconsistent compliance tracking causes regulatory penalties. We provide automated compliance checklists and reminders instead of manual checklist creation and reminders via email.",
+  "target_audience": "field service supervisors in construction managing 5\u201315 projects/month",
+  "problem_solved": "Ensuring compliance with safety regulations and standards.",
+  "features": [
+    "reminder notifications",
+    "manual entry for project-specific compliance items",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "field service supervisors in construction managing 5\u201315 projects/month",
+    "primary_problem": "Ensuring compliance with safety regulations and standards.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For field service supervisors in construction managing 5\u201315 projects/month, inconsistent compliance tracking causes regulatory penalties. We provide automated compliance checklists and reminders instead of manual checklist creation and reminders via email.",
+    "current_alternative": "manual checklist creation and reminders via email",
+    "must_have_features": [
+      "reminder notifications",
+      "manual entry for project-specific compliance items",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For field service supervisors in construction managing 5\u201315 projects/month, inconsistent compliance tracking causes regulatory penalties. We provide automated compliance checklists and reminders instead of manual checklist creation and reminders via email.",
+  "source": {
+    "idea_id": "idea_0033",
+    "run_date": "2026-04-20",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

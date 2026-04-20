@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors managing 5\u201315 projects/month tool",
+  "description": "For construction contractors processing 5\u201315 projects/month, inefficient reporting causes delays in project updates. We automate progress report generation instead of manual reporting processes.",
+  "target_audience": "construction contractors managing 5\u201315 projects/month",
+  "problem_solved": "Inefficient reporting from job site data",
+  "features": [
+    "manual data entry interface",
+    "template-based report generation",
+    "basic data visualization tools"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors managing 5\u201315 projects/month",
+    "primary_problem": "Inefficient reporting from job site data",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 projects/month, inefficient reporting causes delays in project updates. We automate progress report generation instead of manual reporting processes.",
+    "current_alternative": "manual reporting processes",
+    "must_have_features": [
+      "manual data entry interface",
+      "template-based report generation",
+      "basic data visualization tools"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 projects/month, inefficient reporting causes delays in project updates. We automate progress report generation instead of manual reporting processes.",
+  "source": {
+    "idea_id": "idea_0085",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

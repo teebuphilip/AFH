@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant kitchen managers processing 5\u201315 labor cost summaries/week tool",
+  "description": "For restaurant kitchen managers processing 5\u201315 labor cost summaries/week, inaccurate tracking causes budget overruns. We provide automated summaries instead of manual spreadsheets and calculations.",
+  "target_audience": "restaurant kitchen managers processing 5\u201315 labor cost summaries/week",
+  "problem_solved": "Inaccurate labor cost tracking leading to budget overruns.",
+  "features": [
+    "manual entry of labor hours",
+    "weekly summary generation",
+    "cost comparison against budget"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant kitchen managers processing 5\u201315 labor cost summaries/week",
+    "primary_problem": "Inaccurate labor cost tracking leading to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant kitchen managers processing 5\u201315 labor cost summaries/week, inaccurate tracking causes budget overruns. We provide automated summaries instead of manual spreadsheets and calculations.",
+    "current_alternative": "manual spreadsheets and calculations",
+    "must_have_features": [
+      "manual entry of labor hours",
+      "weekly summary generation",
+      "cost comparison against budget"
+    ]
+  },
+  "one_liner": "For restaurant kitchen managers processing 5\u201315 labor cost summaries/week, inaccurate tracking causes budget overruns. We provide automated summaries instead of manual spreadsheets and calculations.",
+  "source": {
+    "idea_id": "idea_0038",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

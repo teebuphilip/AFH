@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers overseeing 5\u201315 rental units tool",
+  "description": "For property managers overseeing 5\u201315 rental units, unexpected utility costs cause budget overruns. We provide automated monitoring instead of manual tracking of utility bills.",
+  "target_audience": "property managers overseeing 5\u201315 rental units",
+  "problem_solved": "Unexpected utility costs due to anomalies in usage.",
+  "features": [
+    "Monthly utility usage reports",
+    "Anomaly detection alerts",
+    "Historical usage comparison"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers overseeing 5\u201315 rental units",
+    "primary_problem": "Unexpected utility costs due to anomalies in usage.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers overseeing 5\u201315 rental units, unexpected utility costs cause budget overruns. We provide automated monitoring instead of manual tracking of utility bills.",
+    "current_alternative": "manual tracking of utility bills",
+    "must_have_features": [
+      "Monthly utility usage reports",
+      "Anomaly detection alerts",
+      "Historical usage comparison"
+    ]
+  },
+  "one_liner": "For property managers overseeing 5\u201315 rental units, unexpected utility costs cause budget overruns. We provide automated monitoring instead of manual tracking of utility bills.",
+  "source": {
+    "idea_id": "idea_0024",
+    "run_date": "2026-04-20",
+    "overlay_score": 78,
+    "arr_score": 79
+  }
+}

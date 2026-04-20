@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 5\u201315 lease payments/month tool",
+  "description": "For property managers processing 5\u201315 lease payments/month, inconsistent tracking causes cash flow gaps. We provide automated formatting instead of manual spreadsheets and email reminders.",
+  "target_audience": "property managers processing 5\u201315 lease payments/month",
+  "problem_solved": "Inconsistent tracking of lease payment statuses",
+  "features": [
+    "manual entry for lease payment statuses",
+    "monthly summary reports",
+    "email notifications for payment due dates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 5\u201315 lease payments/month",
+    "primary_problem": "Inconsistent tracking of lease payment statuses",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 5\u201315 lease payments/month, inconsistent tracking causes cash flow gaps. We provide automated formatting instead of manual spreadsheets and email reminders.",
+    "current_alternative": "manual spreadsheets and email reminders",
+    "must_have_features": [
+      "manual entry for lease payment statuses",
+      "monthly summary reports",
+      "email notifications for payment due dates"
+    ]
+  },
+  "one_liner": "For property managers processing 5\u201315 lease payments/month, inconsistent tracking causes cash flow gaps. We provide automated formatting instead of manual spreadsheets and email reminders.",
+  "source": {
+    "idea_id": "idea_0016",
+    "run_date": "2026-04-20",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

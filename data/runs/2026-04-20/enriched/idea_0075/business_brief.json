@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "risk managers in accounting firms processing 5\u201315 clients/month tool",
+  "description": "For risk managers in accounting firms processing 5\u201315 clients/month, inadequate threat cataloging causes increased risk exposure. We provide a centralized platform instead of manual spreadsheets and disparate tools.",
+  "target_audience": "risk managers in accounting firms processing 5\u201315 clients/month",
+  "problem_solved": "Inadequate threat cataloging and control management leads to increased risk exposure.",
+  "features": [
+    "threat cataloging",
+    "control management",
+    "mitigation plan tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "risk managers in accounting firms processing 5\u201315 clients/month",
+    "primary_problem": "Inadequate threat cataloging and control management leads to increased risk exposure.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For risk managers in accounting firms processing 5\u201315 clients/month, inadequate threat cataloging causes increased risk exposure. We provide a centralized platform instead of manual spreadsheets and disparate tools.",
+    "current_alternative": "manual spreadsheets and disparate tools",
+    "must_have_features": [
+      "threat cataloging",
+      "control management",
+      "mitigation plan tracking"
+    ]
+  },
+  "one_liner": "For risk managers in accounting firms processing 5\u201315 clients/month, inadequate threat cataloging causes increased risk exposure. We provide a centralized platform instead of manual spreadsheets and disparate tools.",
+  "source": {
+    "idea_id": "idea_0075",
+    "run_date": "2026-04-20",
+    "overlay_score": 66,
+    "arr_score": 67
+  }
+}

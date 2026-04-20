@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "field service supervisors in construction managing 5\u201315 projects/month",
+  "offer": "For field service supervisors in construction managing 5\u201315 projects/month, inconsistent compliance tracking causes regulatory penalties. We provide compliance checklists and reminders instead of manual checklist creation and reminders via email.",
+  "problem": "Ensuring compliance with safety regulations and standards.",
+  "channels_free": [
+    "Post in Reddit communities for field service supervisors",
+    "Indie Hackers posts discussing compliance tracking solutions",
+    "DM outreach to field service supervisors with demo video",
+    "Community forums for sharing construction tools and resources"
+  ],
+  "try_it": "Let users try reminder notifications and manual entry for compliance items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with one-liner and CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant online communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for easy reuse",
+    "Pre-set reminder schedules for common tasks",
+    "Allow CSV import for existing compliance data",
+    "Enable one-click export of compliance reports",
+    "Streamline onboarding process for new users"
+  ]
+}

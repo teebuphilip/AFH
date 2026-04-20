@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms managing 10\u201320 contracts/month tool",
+  "description": "For law firms processing 10\u201320 contracts/month, manual tracking causes missed compliance deadlines. We provide automated compliance monitoring instead of manual tracking of contract compliance metrics.",
+  "target_audience": "law firms managing 10\u201320 contracts/month",
+  "problem_solved": "Ensuring compliance with contract terms to avoid penalties.",
+  "features": [
+    "monthly exception report generation",
+    "contract compliance metric tracking",
+    "user-friendly dashboard for compliance overview"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms managing 10\u201320 contracts/month",
+    "primary_problem": "Ensuring compliance with contract terms to avoid penalties.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms processing 10\u201320 contracts/month, manual tracking causes missed compliance deadlines. We provide automated compliance monitoring instead of manual tracking of contract compliance metrics.",
+    "current_alternative": "manual tracking of contract compliance metrics",
+    "must_have_features": [
+      "monthly exception report generation",
+      "contract compliance metric tracking",
+      "user-friendly dashboard for compliance overview"
+    ]
+  },
+  "one_liner": "For law firms processing 10\u201320 contracts/month, manual tracking causes missed compliance deadlines. We provide automated compliance monitoring instead of manual tracking of contract compliance metrics.",
+  "source": {
+    "idea_id": "idea_0014",
+    "run_date": "2026-04-20",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

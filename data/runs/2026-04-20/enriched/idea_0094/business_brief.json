@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in freight brokerage firms managing 5-15 vehicles tool",
+  "description": "For logistics managers in freight brokerage firms managing 5-15 vehicles, inefficient vehicle usage causes increased maintenance costs. We provide a fleet management dashboard instead of manual tracking through spreadsheets.",
+  "target_audience": "logistics managers in freight brokerage firms managing 5-15 vehicles",
+  "problem_solved": "inefficient vehicle usage and maintenance tracking",
+  "features": [
+    "vehicle usage monitoring",
+    "maintenance scheduling alerts",
+    "fuel efficiency tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in freight brokerage firms managing 5-15 vehicles",
+    "primary_problem": "inefficient vehicle usage and maintenance tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in freight brokerage firms managing 5-15 vehicles, inefficient vehicle usage causes increased maintenance costs. We provide a fleet management dashboard instead of manual tracking through spreadsheets.",
+    "current_alternative": "manual tracking through spreadsheets",
+    "must_have_features": [
+      "vehicle usage monitoring",
+      "maintenance scheduling alerts",
+      "fuel efficiency tracking"
+    ]
+  },
+  "one_liner": "For logistics managers in freight brokerage firms managing 5-15 vehicles, inefficient vehicle usage causes increased maintenance costs. We provide a fleet management dashboard instead of manual tracking through spreadsheets.",
+  "source": {
+    "idea_id": "idea_0094",
+    "run_date": "2026-04-20",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

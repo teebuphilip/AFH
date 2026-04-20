@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Shopify sellers processing 10\u201350 invoices/month",
+  "offer": "For Shopify sellers processing 10\u201350 invoices/month, inaccurate commission calculations cause payment delays. We automate commission calculations instead of manual calculations using spreadsheets.",
+  "problem": "Inaccurate commission calculations lead to payment delays and disputes.",
+  "channels_free": [
+    "Post in Reddit communities for Shopify sellers",
+    "Indie Hackers posts on commission calculation issues",
+    "DM outreach to Shopify sellers with demo video",
+    "Community forums where sellers share tools"
+  ],
+  "try_it": "Let users try manual entry for 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with a clear CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of reports",
+    "Streamline the onboarding process"
+  ]
+}

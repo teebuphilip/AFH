@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 invoices/month tool",
+  "description": "For law firms processing 5\u201315 invoices/month, delayed billing causes cash flow gaps. We automate billing statements and reminders instead of manual billing processes and reminders.",
+  "target_audience": "law firms processing 5\u201315 invoices/month",
+  "problem_solved": "timely billing and payment reminders",
+  "features": [
+    "manual invoice generation",
+    "customizable payment reminder templates",
+    "basic reporting on outstanding invoices"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 invoices/month",
+    "primary_problem": "timely billing and payment reminders",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For law firms processing 5\u201315 invoices/month, delayed billing causes cash flow gaps. We automate billing statements and reminders instead of manual billing processes and reminders.",
+    "current_alternative": "manual billing processes and reminders",
+    "must_have_features": [
+      "manual invoice generation",
+      "customizable payment reminder templates",
+      "basic reporting on outstanding invoices"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 invoices/month, delayed billing causes cash flow gaps. We automate billing statements and reminders instead of manual billing processes and reminders.",
+  "source": {
+    "idea_id": "idea_0041",
+    "run_date": "2026-04-20",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

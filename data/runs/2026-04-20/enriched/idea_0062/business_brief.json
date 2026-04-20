@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in retail companies using Shopify for workforce management tool",
+  "description": "For HR managers in retail companies using Shopify processing 10-20 shifts/week, inaccurate labor forecasting causes understaffing, leading to poor customer service. We provide automated shift scheduling instead of manual scheduling and Excel spreadsheets.",
+  "target_audience": "HR managers in retail companies using Shopify for workforce management",
+  "problem_solved": "Inaccurate labor forecasting leading to understaffing or overstaffing.",
+  "features": [
+    "shift scheduling interface",
+    "overtime reporting dashboard",
+    "labor forecasting tool"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in retail companies using Shopify for workforce management",
+    "primary_problem": "Inaccurate labor forecasting leading to understaffing or overstaffing.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in retail companies using Shopify processing 10-20 shifts/week, inaccurate labor forecasting causes understaffing, leading to poor customer service. We provide automated shift scheduling instead of manual scheduling and Excel spreadsheets.",
+    "current_alternative": "manual scheduling and Excel spreadsheets",
+    "must_have_features": [
+      "shift scheduling interface",
+      "overtime reporting dashboard",
+      "labor forecasting tool"
+    ]
+  },
+  "one_liner": "For HR managers in retail companies using Shopify processing 10-20 shifts/week, inaccurate labor forecasting causes understaffing, leading to poor customer service. We provide automated shift scheduling instead of manual scheduling and Excel spreadsheets.",
+  "source": {
+    "idea_id": "idea_0062",
+    "run_date": "2026-04-20",
+    "overlay_score": 70,
+    "arr_score": 69
+  }
+}

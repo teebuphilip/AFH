@@ -1,0 +1,15 @@
+{
+  "idea_text": "Tool that tracks recurring vendor contract renewals and sends alerts to procurement managers ahead of expiry.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 90,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 64,
+  "arr_score": 62,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-20T10:54:23.785020",
+  "verdict_source": "overlay_score"
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr managers in mid-sized companies using workday managing - employees inability tool",
+    "hr managers in mid-sized companies using workday managing - employees inability automation",
+    "hr managers in mid-sized companies using workday managing 100-500 employees inability tool",
+    "hr managers in mid-sized companies using workday managing 100-500 employees inability automation",
+    "hr managers in mid-sized companies using workday managing 100-500 employees inability workflow"
+  ],
+  "secondary_keywords": [
+    "hr managers in mid-sized companies using workday managing 100-500 employees inability tool software",
+    "hr managers in mid-sized companies using workday managing 100-500 employees inability tool platform",
+    "hr managers in mid-sized companies using workday managing 100-500 employees inability tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR managers in mid-sized companies using Workday, processing 100-500 employees, inaccurate forecasting causes retention issues. We provide a workforce analytics dashboard instead of manual spreadsheets and outdated HRIS reports.",
+    "Inability to accurately forecast headcount and manage compensation budgets, leading to retention issues.",
+    "HR managers in mid-sized companies using Workday, managing 100-500 employees"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Managers In Mid-Sized Companies Using Workday Managing 100-500 Employees Inability Tool Software",
+      "target_keyword": "hr managers in mid-sized companies using workday managing 100-500 employees inability tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Sized Companies Using Workday Managing 100-500 Employees Inability Tool Platform",
+      "target_keyword": "hr managers in mid-sized companies using workday managing 100-500 employees inability tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Sized Companies Using Workday Managing 100-500 Employees Inability Tool Solution",
+      "target_keyword": "hr managers in mid-sized companies using workday managing 100-500 employees inability tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Sized Companies Using Workday Managing 100-500 Employees Inability Tool",
+      "target_keyword": "hr managers in mid-sized companies using workday managing 100-500 employees inability tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Sized Companies Using Workday Managing 100-500 Employees Inability Automation",
+      "target_keyword": "hr managers in mid-sized companies using workday managing 100-500 employees inability automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Mid-Sized Companies Using Workday Managing 100-500 Employees Inability Workflow",
+      "target_keyword": "hr managers in mid-sized companies using workday managing 100-500 employees inability workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr managers in mid-sized companies using workday managing - employees inability tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr managers in mid-sized companies using workday managing - employees inability tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr managers in mid-sized companies using workday managing - employees inability tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr managers in mid-sized companies using workday managing - employees inability tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr managers in mid-sized companies using workday managing - employees inability tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr managers in mid-sized companies using workday managing - employees tool",
+      "hr managers in mid-sized companies using workday managing - employees tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr managers in mid-sized companies using workday managing - employees tool helps with inability to accurately forecast headcount and manage compensation budgets leading to retention issues."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

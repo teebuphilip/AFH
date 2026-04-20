@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "insurance underwriters inaccurate tool",
+    "insurance underwriters inaccurate automation",
+    "we provide ai",
+    "insurance underwriters processing 10 20 claims month inaccurate tool",
+    "insurance underwriters processing 10 20 claims month inaccurate automation",
+    "insurance underwriters processing 10 20 claims month inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "we provide ai software",
+    "we provide ai platform",
+    "we provide ai solution"
+  ],
+  "long_tail_keywords": [
+    "how to we provide ai",
+    "best we provide ai tool",
+    "we provide ai vs spreadsheets",
+    "we provide ai checklist",
+    "we provide ai pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For insurance underwriters processing 10\u201320 claims/month, inaccurate coverage adjustments cause potential financial losses. We provide AI-driven recommendations instead of manual claim analysis and coverage adjustment processes.",
+    "Inaccurate coverage adjustments leading to potential financial losses.",
+    "insurance underwriters processing 10\u201320 claims/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Provide Ai",
+      "target_keyword": "how to we provide ai",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Provide Ai Tool",
+      "target_keyword": "best we provide ai tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Ai Vs Spreadsheets",
+      "target_keyword": "we provide ai vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Provide Ai Checklist",
+      "target_keyword": "we provide ai checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Ai Pricing",
+      "target_keyword": "we provide ai pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Ai Software",
+      "target_keyword": "we provide ai software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Ai Platform",
+      "target_keyword": "we provide ai platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Ai Solution",
+      "target_keyword": "we provide ai solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Provide Ai",
+      "target_keyword": "we provide ai",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Insurance Underwriters Processing 10 20 Claims Month Inaccurate Tool",
+      "target_keyword": "insurance underwriters processing 10 20 claims month inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Underwriters Processing 10 20 Claims Month Inaccurate Automation",
+      "target_keyword": "insurance underwriters processing 10 20 claims month inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Insurance Underwriters Processing 10 20 Claims Month Inaccurate Workflow",
+      "target_keyword": "insurance underwriters processing 10 20 claims month inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "insurance underwriters inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "insurance underwriters inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "insurance underwriters inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "insurance underwriters inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "insurance underwriters inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | insurance underwriters tool",
+      "insurance underwriters tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "insurance underwriters tool helps with inaccurate coverage adjustments leading to potential financial losses."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

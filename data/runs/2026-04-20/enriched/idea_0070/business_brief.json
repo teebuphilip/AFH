@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201350 clients tool",
+  "description": "For accounting firms managing 10\u201350 clients, regulatory changes cause compliance risks. We provide real-time alerts instead of manual tracking.",
+  "target_audience": "accounting firms managing 10\u201350 clients",
+  "problem_solved": "Difficulty in keeping up with regulatory changes for multiple clients.",
+  "features": [
+    "real-time alerts for regulatory changes",
+    "customizable compliance checklists",
+    "monthly compliance summary reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201350 clients",
+    "primary_problem": "Difficulty in keeping up with regulatory changes for multiple clients.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms managing 10\u201350 clients, regulatory changes cause compliance risks. We provide real-time alerts instead of manual tracking.",
+    "current_alternative": "manual tracking of regulatory changes through newsletters and websites",
+    "must_have_features": [
+      "real-time alerts for regulatory changes",
+      "customizable compliance checklists",
+      "monthly compliance summary reports"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201350 clients, regulatory changes cause compliance risks. We provide real-time alerts instead of manual tracking.",
+  "source": {
+    "idea_id": "idea_0070",
+    "run_date": "2026-04-20",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

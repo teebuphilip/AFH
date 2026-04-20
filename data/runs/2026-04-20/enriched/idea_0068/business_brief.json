@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "marketing agencies managing 5\u201315 clients/month tool",
+  "description": "For marketing agencies managing 5\u201315 clients/month, inaccurate budget forecasting causes overspending. We provide automated budget forecasting instead of manual spreadsheets and ad-hoc calculations.",
+  "target_audience": "marketing agencies managing 5\u201315 clients/month",
+  "problem_solved": "Inaccurate budget forecasting leads to overspending and missed opportunities for cost savings.",
+  "features": [
+    "manual input for budget data",
+    "variance analysis reports",
+    "basic forecasting templates"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "marketing agencies managing 5\u201315 clients/month",
+    "primary_problem": "Inaccurate budget forecasting leads to overspending and missed opportunities for cost savings.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For marketing agencies managing 5\u201315 clients/month, inaccurate budget forecasting causes overspending. We provide automated budget forecasting instead of manual spreadsheets and ad-hoc calculations.",
+    "current_alternative": "manual spreadsheets and ad-hoc calculations",
+    "must_have_features": [
+      "manual input for budget data",
+      "variance analysis reports",
+      "basic forecasting templates"
+    ]
+  },
+  "one_liner": "For marketing agencies managing 5\u201315 clients/month, inaccurate budget forecasting causes overspending. We provide automated budget forecasting instead of manual spreadsheets and ad-hoc calculations.",
+  "source": {
+    "idea_id": "idea_0068",
+    "run_date": "2026-04-20",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

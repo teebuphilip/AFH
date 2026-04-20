@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality HR coordinators managing 5-15 employees tool",
+  "description": "For hospitality HR coordinators managing 5-15 employees, inefficient manual scheduling causes scheduling conflicts. We automate daily shift scheduling instead of manual scheduling and attendance tracking.",
+  "target_audience": "hospitality HR coordinators managing 5-15 employees",
+  "problem_solved": "Inefficient manual scheduling and attendance tracking",
+  "features": [
+    "simple shift scheduling interface",
+    "attendance summary generation",
+    "notification system for shift changes"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality HR coordinators managing 5-15 employees",
+    "primary_problem": "Inefficient manual scheduling and attendance tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality HR coordinators managing 5-15 employees, inefficient manual scheduling causes scheduling conflicts. We automate daily shift scheduling instead of manual scheduling and attendance tracking.",
+    "current_alternative": "manual scheduling and attendance tracking",
+    "must_have_features": [
+      "simple shift scheduling interface",
+      "attendance summary generation",
+      "notification system for shift changes"
+    ]
+  },
+  "one_liner": "For hospitality HR coordinators managing 5-15 employees, inefficient manual scheduling causes scheduling conflicts. We automate daily shift scheduling instead of manual scheduling and attendance tracking.",
+  "source": {
+    "idea_id": "idea_0042",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

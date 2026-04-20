@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Shopify sellers processing 10\u201350 invoices/month tool",
+  "description": "For Shopify sellers processing 10\u201350 invoices/month, inaccurate commission calculations cause payment delays. We automate commission calculations instead of manual calculations using spreadsheets.",
+  "target_audience": "Shopify sellers processing 10\u201350 invoices/month",
+  "problem_solved": "Inaccurate commission calculations lead to payment delays and disputes.",
+  "features": [
+    "Manual entry for sales data",
+    "Commission rate configuration",
+    "Exportable payout reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Shopify sellers processing 10\u201350 invoices/month",
+    "primary_problem": "Inaccurate commission calculations lead to payment delays and disputes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Shopify sellers processing 10\u201350 invoices/month, inaccurate commission calculations cause payment delays. We automate commission calculations instead of manual calculations using spreadsheets.",
+    "current_alternative": "Manual calculations using spreadsheets",
+    "must_have_features": [
+      "Manual entry for sales data",
+      "Commission rate configuration",
+      "Exportable payout reports"
+    ]
+  },
+  "one_liner": "For Shopify sellers processing 10\u201350 invoices/month, inaccurate commission calculations cause payment delays. We automate commission calculations instead of manual calculations using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0057",
+    "run_date": "2026-04-20",
+    "overlay_score": 62,
+    "arr_score": 60
+  }
+}

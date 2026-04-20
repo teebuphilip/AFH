@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 50\u2013100 invoices/month tool",
+  "description": "For medical clinics processing 50\u2013100 invoices/month, inefficient matching causes cash flow gaps. We automate billing instead of manual billing processes.",
+  "target_audience": "medical clinics processing 50\u2013100 invoices/month",
+  "problem_solved": "Inefficient matching of patient records with insurance payments",
+  "features": [
+    "insurance payment tracking",
+    "user-friendly dashboard for billing overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 50\u2013100 invoices/month",
+    "primary_problem": "Inefficient matching of patient records with insurance payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 50\u2013100 invoices/month, inefficient matching causes cash flow gaps. We automate billing instead of manual billing processes.",
+    "current_alternative": "manual billing processes",
+    "must_have_features": [
+      "insurance payment tracking",
+      "user-friendly dashboard for billing overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical clinics processing 50\u2013100 invoices/month, inefficient matching causes cash flow gaps. We automate billing instead of manual billing processes.",
+  "source": {
+    "idea_id": "idea_0100",
+    "run_date": "2026-04-20",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

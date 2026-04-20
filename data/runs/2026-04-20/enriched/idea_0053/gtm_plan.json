@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+  "offer": "For HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month, inaccurate payroll data causes compliance issues. We provide a payroll data reconciliation tool instead of manual reconciliation using spreadsheets.",
+  "problem": "Inaccurate payroll data reconciliation leading to compliance issues.",
+  "channels_free": [
+    "Post in Reddit communities for HR teams seeking solutions",
+    "Engage on Indie Hackers about payroll data challenges",
+    "DM 20-50 HR teams with demo video links",
+    "Share insights in community forums for HR tools"
+  ],
+  "try_it": "Let users try manual data entry for timesheets and comparison of benefits and tax withholdings on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the tool",
+    "Conduct 10 user interviews for feedback",
+    "Offer onboarding for first 10 users",
+    "Update community weekly on progress"
+  ],
+  "automation_simplification_ideas": [
+    "Allow saving common inputs as templates",
+    "Set default reminder schedules for users",
+    "Enable CSV import for existing payroll data",
+    "Facilitate one-click report exports",
+    "Streamline onboarding process for new users"
+  ]
+}

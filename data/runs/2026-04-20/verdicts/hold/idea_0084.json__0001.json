@@ -1,0 +1,15 @@
+{
+  "idea_text": "An AI-powered tool that analyzes insurance claims and recommends appropriate coverage adjustments for underwriters.",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 55,
+    "competition_inverse": 55
+  },
+  "overlay_score": 55,
+  "arr_score": 55,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-20T10:54:23.795895",
+  "verdict_source": "overlay_score"
+}

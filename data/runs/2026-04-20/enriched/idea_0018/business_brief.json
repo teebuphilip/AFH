@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers processing 10\u201350 shipments/month tool",
+  "description": "For logistics carriers processing 10\u201350 shipments/month, shipment delays cause operational inefficiencies. We automate alerts instead of manual tracking and alerts.",
+  "target_audience": "logistics carriers processing 10\u201350 shipments/month",
+  "problem_solved": "delays and mismatches in shipment tracking",
+  "features": [
+    "shipment status monitoring",
+    "user-friendly dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers processing 10\u201350 shipments/month",
+    "primary_problem": "delays and mismatches in shipment tracking",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers processing 10\u201350 shipments/month, shipment delays cause operational inefficiencies. We automate alerts instead of manual tracking and alerts.",
+    "current_alternative": "manual tracking and alerts",
+    "must_have_features": [
+      "shipment status monitoring",
+      "user-friendly dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics carriers processing 10\u201350 shipments/month, shipment delays cause operational inefficiencies. We automate alerts instead of manual tracking and alerts.",
+  "source": {
+    "idea_id": "idea_0018",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

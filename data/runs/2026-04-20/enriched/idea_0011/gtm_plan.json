@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "payroll managers in accounting firms processing 5\u201315 payrolls/week",
+  "offer": "For payroll managers in accounting firms processing 5\u201315 payrolls/week, inconsistent payroll tax filings cause compliance issues. We automate weekly payroll tax filing summaries instead of manual tracking and filing.",
+  "problem": "Inconsistent and delayed payroll tax filings can lead to compliance issues.",
+  "channels_free": [
+    "Post in Reddit communities for payroll managers",
+    "Indie Hackers posts on payroll workflows",
+    "DM outreach to payroll managers with demo video",
+    "Community forums for payroll managers sharing tools"
+  ],
+  "try_it": "Let users try email notifications for review and manual override for adjustments on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "1-page landing page with the one-liner and CTA",
+    "Short demo video showing the manual-first workflow",
+    "Collect 10 short interviews from target users",
+    "Offer early-access onboarding for first 10 users",
+    "Post a weekly progress update in a relevant community"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Fewer steps in onboarding"
+  ]
+}

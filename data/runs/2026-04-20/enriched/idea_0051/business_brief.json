@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 5\u201315 invoices/month tool",
+  "description": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate dunning emails instead of manual tracking of payments and sending reminders.",
+  "target_audience": "Etsy sellers processing 5\u201315 invoices/month",
+  "problem_solved": "Late payments from customers",
+  "features": [
+    "Track late payments",
+    "Send customized dunning emails",
+    "Generate payment reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 5\u201315 invoices/month",
+    "primary_problem": "Late payments from customers",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate dunning emails instead of manual tracking of payments and sending reminders.",
+    "current_alternative": "Manual tracking of payments and sending reminders",
+    "must_have_features": [
+      "Track late payments",
+      "Send customized dunning emails",
+      "Generate payment reminders"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate dunning emails instead of manual tracking of payments and sending reminders.",
+  "source": {
+    "idea_id": "idea_0051",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

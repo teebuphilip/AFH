@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms using QuickBooks processing 10-20 invoices/month tool",
+  "description": "For accounting firms using QuickBooks processing 10-20 invoices/month, manual extraction of tax data causes delays in compliance reporting. We automate data extraction instead of manual data entry from QuickBooks to tax filing software.",
+  "target_audience": "accounting firms using QuickBooks processing 10-20 invoices/month",
+  "problem_solved": "manual extraction of tax data leads to delays in compliance reporting",
+  "features": [
+    "manual data extraction tool",
+    "data formatting templates",
+    "monthly reporting checklist"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms using QuickBooks processing 10-20 invoices/month",
+    "primary_problem": "manual extraction of tax data leads to delays in compliance reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms using QuickBooks processing 10-20 invoices/month, manual extraction of tax data causes delays in compliance reporting. We automate data extraction instead of manual data entry from QuickBooks to tax filing software.",
+    "current_alternative": "manual data entry from QuickBooks to tax filing software",
+    "must_have_features": [
+      "manual data extraction tool",
+      "data formatting templates",
+      "monthly reporting checklist"
+    ]
+  },
+  "one_liner": "For accounting firms using QuickBooks processing 10-20 invoices/month, manual extraction of tax data causes delays in compliance reporting. We automate data extraction instead of manual data entry from QuickBooks to tax filing software.",
+  "source": {
+    "idea_id": "idea_0008",
+    "run_date": "2026-04-20",
+    "overlay_score": 86,
+    "arr_score": 88
+  }
+}

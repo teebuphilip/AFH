@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 properties/month tool",
+  "description": "For property managers handling 5\u201315 properties/month, the complexity of compliance requirements causes missed deadlines. We automate compliance audit report preparation instead of manual report generation using spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 properties/month",
+  "problem_solved": "Difficulty in generating timely compliance audit reports.",
+  "features": [
+    "template-based report generation",
+    "user-friendly dashboard for tracking compliance status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 properties/month",
+    "primary_problem": "Difficulty in generating timely compliance audit reports.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For property managers handling 5\u201315 properties/month, the complexity of compliance requirements causes missed deadlines. We automate compliance audit report preparation instead of manual report generation using spreadsheets.",
+    "current_alternative": "manual report generation using spreadsheets",
+    "must_have_features": [
+      "template-based report generation",
+      "user-friendly dashboard for tracking compliance status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 properties/month, the complexity of compliance requirements causes missed deadlines. We automate compliance audit report preparation instead of manual report generation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0043",
+    "run_date": "2026-04-20",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

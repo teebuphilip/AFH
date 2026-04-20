@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, inconsistent expense reporting causes reimbursement delays. We automate expense auditing instead of manual tracking and spreadsheet management.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Inconsistent expense reporting and reimbursement delays",
+  "features": [
+    "receipt verification",
+    "policy enforcement",
+    "report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Inconsistent expense reporting and reimbursement delays",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, inconsistent expense reporting causes reimbursement delays. We automate expense auditing instead of manual tracking and spreadsheet management.",
+    "current_alternative": "manual tracking and spreadsheet management",
+    "must_have_features": [
+      "receipt verification",
+      "policy enforcement",
+      "report generation"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, inconsistent expense reporting causes reimbursement delays. We automate expense auditing instead of manual tracking and spreadsheet management.",
+  "source": {
+    "idea_id": "idea_0071",
+    "run_date": "2026-04-20",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

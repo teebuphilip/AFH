@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical billing clerks in small medical clinics processing 5\u201315 patient intake forms/month tool",
+  "description": "For medical billing clerks in small medical clinics processing 5\u201315 patient intake forms/month, inefficient manual data entry causes billing delays. We automate the conversion of paper forms into compliant submissions instead of manual data entry and paper filing.",
+  "target_audience": "medical billing clerks in small medical clinics processing 5\u201315 patient intake forms/month",
+  "problem_solved": "Converting paper patient intake forms into compliant billing submissions is time-consuming and error-prone.",
+  "features": [
+    "manual data entry interface",
+    "form scanning capability",
+    "compliance checklists"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical billing clerks in small medical clinics processing 5\u201315 patient intake forms/month",
+    "primary_problem": "Converting paper patient intake forms into compliant billing submissions is time-consuming and error-prone.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical billing clerks in small medical clinics processing 5\u201315 patient intake forms/month, inefficient manual data entry causes billing delays. We automate the conversion of paper forms into compliant submissions instead of manual data entry and paper filing.",
+    "current_alternative": "manual data entry and paper filing",
+    "must_have_features": [
+      "manual data entry interface",
+      "form scanning capability",
+      "compliance checklists"
+    ]
+  },
+  "one_liner": "For medical billing clerks in small medical clinics processing 5\u201315 patient intake forms/month, inefficient manual data entry causes billing delays. We automate the conversion of paper forms into compliant submissions instead of manual data entry and paper filing.",
+  "source": {
+    "idea_id": "idea_0037",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

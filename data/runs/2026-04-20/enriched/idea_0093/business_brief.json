@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical clinics processing 50\u2013100 invoices/month tool",
+  "description": "For medical clinics processing 50\u2013100 invoices/month, inefficient matching causes cash flow gaps. We automate the reconciliation instead of manual reconciliation of patient records and insurance payments.",
+  "target_audience": "medical clinics processing 50\u2013100 invoices/month",
+  "problem_solved": "Inefficient matching of patient records with insurance payments",
+  "features": [
+    "manual entry of patient records",
+    "basic reporting of payment statuses",
+    "notification system for unmatched records"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical clinics processing 50\u2013100 invoices/month",
+    "primary_problem": "Inefficient matching of patient records with insurance payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical clinics processing 50\u2013100 invoices/month, inefficient matching causes cash flow gaps. We automate the reconciliation instead of manual reconciliation of patient records and insurance payments.",
+    "current_alternative": "manual reconciliation of patient records and insurance payments",
+    "must_have_features": [
+      "manual entry of patient records",
+      "basic reporting of payment statuses",
+      "notification system for unmatched records"
+    ]
+  },
+  "one_liner": "For medical clinics processing 50\u2013100 invoices/month, inefficient matching causes cash flow gaps. We automate the reconciliation instead of manual reconciliation of patient records and insurance payments.",
+  "source": {
+    "idea_id": "idea_0093",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

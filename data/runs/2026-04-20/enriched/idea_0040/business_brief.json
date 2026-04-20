@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 10\u201320 invoices/month tool",
+  "description": "For construction contractors processing 10\u201320 invoices/month, frequent discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation of invoices and budgets.",
+  "target_audience": "construction contractors processing 10\u201320 invoices/month",
+  "problem_solved": "Frequent discrepancies between subcontractor invoices and project budgets.",
+  "features": [
+    "manual invoice entry",
+    "budget tracking",
+    "discrepancy reporting"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 10\u201320 invoices/month",
+    "primary_problem": "Frequent discrepancies between subcontractor invoices and project budgets.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 10\u201320 invoices/month, frequent discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation of invoices and budgets.",
+    "current_alternative": "manual reconciliation of invoices and budgets",
+    "must_have_features": [
+      "manual invoice entry",
+      "budget tracking",
+      "discrepancy reporting"
+    ]
+  },
+  "one_liner": "For construction contractors processing 10\u201320 invoices/month, frequent discrepancies cause cash flow gaps. We automate reconciliation instead of manual reconciliation of invoices and budgets.",
+  "source": {
+    "idea_id": "idea_0040",
+    "run_date": "2026-04-20",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

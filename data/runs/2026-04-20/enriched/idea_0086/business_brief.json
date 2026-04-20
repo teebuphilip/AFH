@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "medical office administrators processing 10\u201320 invoices/month tool",
+  "description": "For medical office administrators processing 10\u201320 invoices/month, inaccurate matching causes cash flow gaps. We provide automated reconciliation instead of manual reconciliation processes.",
+  "target_audience": "medical office administrators processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate matching of patient records with insurance payments",
+  "features": [
+    "manual entry of patient records",
+    "generate reconciliation reports",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "medical office administrators processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate matching of patient records with insurance payments",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For medical office administrators processing 10\u201320 invoices/month, inaccurate matching causes cash flow gaps. We provide automated reconciliation instead of manual reconciliation processes.",
+    "current_alternative": "manual reconciliation processes",
+    "must_have_features": [
+      "manual entry of patient records",
+      "generate reconciliation reports",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For medical office administrators processing 10\u201320 invoices/month, inaccurate matching causes cash flow gaps. We provide automated reconciliation instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0086",
+    "run_date": "2026-04-20",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

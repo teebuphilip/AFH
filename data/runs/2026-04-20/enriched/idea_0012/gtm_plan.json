@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Amazon sellers processing 10\u201320 invoices/month",
+  "offer": "For Amazon sellers processing 10\u201320 invoices/month, manual tracking causes missed discounts and supplier penalties. We automate compliance reporting instead of manual tracking and reporting using spreadsheets.",
+  "problem": "Difficulty in generating accurate monthly spend compliance reports from raw procurement data.",
+  "channels_free": [
+    "Post in Reddit communities for Amazon sellers",
+    "Engage in Indie Hackers discussions about workflows",
+    "DM 20-50 Amazon sellers with a demo video",
+    "Join community forums for Amazon seller tools"
+  ],
+  "try_it": "Let users try Data import from CSV files and report generation",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with the one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Enable CSV import for existing data",
+    "One-click export for simple reports",
+    "Streamline onboarding process"
+  ]
+}

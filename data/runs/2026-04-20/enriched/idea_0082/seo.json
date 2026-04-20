@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accounting firms need tool",
+    "accounting firms need automation",
+    "we generate audit",
+    "accounting firms processing 5 15 clients month need tool",
+    "accounting firms processing 5 15 clients month need automation",
+    "accounting firms processing 5 15 clients month need workflow"
+  ],
+  "secondary_keywords": [
+    "we generate audit software",
+    "we generate audit platform",
+    "we generate audit solution"
+  ],
+  "long_tail_keywords": [
+    "how to we generate audit",
+    "best we generate audit tool",
+    "we generate audit vs spreadsheets",
+    "we generate audit checklist",
+    "we generate audit pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accounting firms processing 5\u201315 clients/month, compliance documentation delays cause missed deadlines. We generate audit-ready documentation instead of manual documentation processes.",
+    "Need for timely and accurate audit-ready documentation.",
+    "accounting firms processing 5\u201315 clients/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To We Generate Audit",
+      "target_keyword": "how to we generate audit",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best We Generate Audit Tool",
+      "target_keyword": "best we generate audit tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Generate Audit Vs Spreadsheets",
+      "target_keyword": "we generate audit vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "We Generate Audit Checklist",
+      "target_keyword": "we generate audit checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Generate Audit Pricing",
+      "target_keyword": "we generate audit pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Generate Audit Software",
+      "target_keyword": "we generate audit software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Generate Audit Platform",
+      "target_keyword": "we generate audit platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Generate Audit Solution",
+      "target_keyword": "we generate audit solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "We Generate Audit",
+      "target_keyword": "we generate audit",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accounting Firms Processing 5 15 Clients Month Need Tool",
+      "target_keyword": "accounting firms processing 5 15 clients month need tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 5 15 Clients Month Need Automation",
+      "target_keyword": "accounting firms processing 5 15 clients month need automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accounting Firms Processing 5 15 Clients Month Need Workflow",
+      "target_keyword": "accounting firms processing 5 15 clients month need workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accounting firms need tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accounting firms need tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accounting firms need tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accounting firms need tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accounting firms need tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accounting firms tool",
+      "accounting firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accounting firms tool helps with need for timely and accurate audit-ready documentation."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

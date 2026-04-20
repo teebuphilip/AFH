@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "hospitality purchasing managers in restaurants processing 10-20 orders/week tool",
+  "description": "For hospitality purchasing managers in restaurants processing 10-20 orders/week, inconsistent inventory levels cause stockouts and overstock situations. We provide reorder alerts instead of manual tracking of inventory levels and reorder points.",
+  "target_audience": "hospitality purchasing managers in restaurants processing 10-20 orders/week",
+  "problem_solved": "Inconsistent inventory levels leading to stockouts and overstock situations.",
+  "features": [
+    "manual entry of inventory usage",
+    "simple dashboard for inventory overview",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "hospitality purchasing managers in restaurants processing 10-20 orders/week",
+    "primary_problem": "Inconsistent inventory levels leading to stockouts and overstock situations.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For hospitality purchasing managers in restaurants processing 10-20 orders/week, inconsistent inventory levels cause stockouts and overstock situations. We provide reorder alerts instead of manual tracking of inventory levels and reorder points.",
+    "current_alternative": "manual tracking of inventory levels and reorder points",
+    "must_have_features": [
+      "manual entry of inventory usage",
+      "simple dashboard for inventory overview",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For hospitality purchasing managers in restaurants processing 10-20 orders/week, inconsistent inventory levels cause stockouts and overstock situations. We provide reorder alerts instead of manual tracking of inventory levels and reorder points.",
+  "source": {
+    "idea_id": "idea_0031",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

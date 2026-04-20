@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "marketing agencies managing 5\u201315 clients/month",
+  "offer": "For marketing agencies managing 5\u201315 clients/month, inaccurate budget forecasting causes overspending. We provide budget forecasting instead of manual spreadsheets and ad-hoc calculations.",
+  "problem": "Inaccurate budget forecasting leads to overspending and missed opportunities for cost savings.",
+  "channels_free": [
+    "Post in Reddit communities for marketing agencies seeking solutions",
+    "Indie Hackers discussions on budget management tools",
+    "DM outreach to marketing agencies with demo video",
+    "Engage in community forums for marketing agency tools"
+  ],
+  "try_it": "Let users try manual input for budget data and reports",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set up default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click export of reports",
+    "Streamline onboarding steps"
+  ]
+}

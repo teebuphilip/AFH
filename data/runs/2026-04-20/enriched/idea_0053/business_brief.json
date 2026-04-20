@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month, inaccurate payroll data causes compliance issues. We provide a payroll data reconciliation tool instead of manual reconciliation using spreadsheets.",
+  "target_audience": "HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Inaccurate payroll data reconciliation leading to compliance issues.",
+  "features": [
+    "manual data entry for timesheets",
+    "comparison of benefits and tax withholdings",
+    "exportable reports for compliance checks"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Inaccurate payroll data reconciliation leading to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month, inaccurate payroll data causes compliance issues. We provide a payroll data reconciliation tool instead of manual reconciliation using spreadsheets.",
+    "current_alternative": "manual reconciliation using spreadsheets",
+    "must_have_features": [
+      "manual data entry for timesheets",
+      "comparison of benefits and tax withholdings",
+      "exportable reports for compliance checks"
+    ]
+  },
+  "one_liner": "For HR teams in small to medium-sized accounting firms processing 5\u201315 payrolls/month, inaccurate payroll data causes compliance issues. We provide a payroll data reconciliation tool instead of manual reconciliation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0053",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

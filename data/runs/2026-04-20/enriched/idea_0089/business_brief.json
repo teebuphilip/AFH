@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "law firms processing 5\u201315 cases/month tool",
+  "description": "For law firms processing 5\u201315 cases/month, inefficient documentation generation causes compliance risks. We automate compliance documentation instead of manual documentation processes.",
+  "target_audience": "law firms processing 5\u201315 cases/month",
+  "problem_solved": "Inefficient generation of compliance documentation",
+  "features": [
+    "template library for compliance documents",
+    "user-friendly document editor",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "law firms processing 5\u201315 cases/month",
+    "primary_problem": "Inefficient generation of compliance documentation",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For law firms processing 5\u201315 cases/month, inefficient documentation generation causes compliance risks. We automate compliance documentation instead of manual documentation processes.",
+    "current_alternative": "manual documentation processes",
+    "must_have_features": [
+      "template library for compliance documents",
+      "user-friendly document editor",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For law firms processing 5\u201315 cases/month, inefficient documentation generation causes compliance risks. We automate compliance documentation instead of manual documentation processes.",
+  "source": {
+    "idea_id": "idea_0089",
+    "run_date": "2026-04-20",
+    "overlay_score": 58,
+    "arr_score": 58
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "sales ops managers at Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For sales ops managers at Amazon sellers processing 10\u201320 invoices/month, inaccurate commission reporting causes delayed payouts. We provide formatted monthly payout reports instead of manual spreadsheet calculations.",
+  "target_audience": "sales ops managers at Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate commission reporting leads to delayed payouts.",
+  "features": [
+    "manual data entry for commission data",
+    "template for monthly payout reports",
+    "export functionality to CSV"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "sales ops managers at Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate commission reporting leads to delayed payouts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For sales ops managers at Amazon sellers processing 10\u201320 invoices/month, inaccurate commission reporting causes delayed payouts. We provide formatted monthly payout reports instead of manual spreadsheet calculations.",
+    "current_alternative": "manual spreadsheet calculations",
+    "must_have_features": [
+      "manual data entry for commission data",
+      "template for monthly payout reports",
+      "export functionality to CSV"
+    ]
+  },
+  "one_liner": "For sales ops managers at Amazon sellers processing 10\u201320 invoices/month, inaccurate commission reporting causes delayed payouts. We provide formatted monthly payout reports instead of manual spreadsheet calculations.",
+  "source": {
+    "idea_id": "idea_0004",
+    "run_date": "2026-04-20",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

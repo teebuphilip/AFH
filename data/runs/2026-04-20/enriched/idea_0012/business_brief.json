@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 10\u201320 invoices/month tool",
+  "description": "For Amazon sellers processing 10\u201320 invoices/month, manual tracking causes missed discounts and supplier penalties. We automate compliance reporting instead of manual tracking and reporting using spreadsheets.",
+  "target_audience": "Amazon sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Difficulty in generating accurate monthly spend compliance reports from raw procurement data.",
+  "features": [
+    "Data import from CSV files",
+    "Monthly report generation",
+    "User-friendly dashboard for compliance tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Difficulty in generating accurate monthly spend compliance reports from raw procurement data.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 10\u201320 invoices/month, manual tracking causes missed discounts and supplier penalties. We automate compliance reporting instead of manual tracking and reporting using spreadsheets.",
+    "current_alternative": "Manual tracking and reporting using spreadsheets.",
+    "must_have_features": [
+      "Data import from CSV files",
+      "Monthly report generation",
+      "User-friendly dashboard for compliance tracking"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 10\u201320 invoices/month, manual tracking causes missed discounts and supplier penalties. We automate compliance reporting instead of manual tracking and reporting using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0012",
+    "run_date": "2026-04-20",
+    "overlay_score": 78,
+    "arr_score": 78
+  }
+}

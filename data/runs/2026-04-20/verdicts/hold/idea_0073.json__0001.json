@@ -1,0 +1,15 @@
+{
+  "idea_text": "Workforce analytics dashboard that forecasts headcount, models compensation budgets, and tracks retention for HRIS",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 70,
+    "competition_inverse": 55
+  },
+  "overlay_score": 56,
+  "arr_score": 56,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-20T10:54:23.794420",
+  "verdict_source": "overlay_score"
+}

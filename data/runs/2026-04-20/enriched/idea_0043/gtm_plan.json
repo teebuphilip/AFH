@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "property managers handling 5\u201315 properties/month",
+  "offer": "For property managers handling 5\u201315 properties/month, the complexity of compliance requirements causes missed deadlines. We automate compliance audit report preparation instead of manual report generation using spreadsheets.",
+  "problem": "Difficulty in generating timely compliance audit reports.",
+  "channels_free": [
+    "Post in Reddit communities for property managers",
+    "Indie Hackers discussions on compliance tools",
+    "DM outreach to property managers with demo video",
+    "Engage in community forums for property management"
+  ],
+  "try_it": "Let users try template-based report generation and dashboard for compliance tracking",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Provide early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save frequently used inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Simplify onboarding steps"
+  ]
+}

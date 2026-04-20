@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Amazon sellers processing 50\u2013100 orders/month tool",
+  "description": "For Amazon sellers processing 50\u2013100 orders/month, stock shortages cause missed sales opportunities. We provide an inventory forecasting dashboard instead of manual inventory tracking and alerts.",
+  "target_audience": "Amazon sellers processing 50\u2013100 orders/month",
+  "problem_solved": "Stock shortages leading to missed sales opportunities",
+  "features": [
+    "Sales trend analysis",
+    "Stock shortage alerts",
+    "User-friendly dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Amazon sellers processing 50\u2013100 orders/month",
+    "primary_problem": "Stock shortages leading to missed sales opportunities",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Amazon sellers processing 50\u2013100 orders/month, stock shortages cause missed sales opportunities. We provide an inventory forecasting dashboard instead of manual inventory tracking and alerts.",
+    "current_alternative": "Manual inventory tracking and alerts",
+    "must_have_features": [
+      "Sales trend analysis",
+      "Stock shortage alerts",
+      "User-friendly dashboard"
+    ]
+  },
+  "one_liner": "For Amazon sellers processing 50\u2013100 orders/month, stock shortages cause missed sales opportunities. We provide an inventory forecasting dashboard instead of manual inventory tracking and alerts.",
+  "source": {
+    "idea_id": "idea_0054",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

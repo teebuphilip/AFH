@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics fleet coordinators managing 5\u201315 vehicles tool",
+  "description": "For logistics fleet coordinators managing 5\u201315 vehicles, inconsistent maintenance scheduling causes vehicle breakdowns. We automate preventive maintenance notifications instead of manual tracking of maintenance schedules via spreadsheets.",
+  "target_audience": "logistics fleet coordinators managing 5\u201315 vehicles",
+  "problem_solved": "Inconsistent maintenance scheduling leading to vehicle breakdowns.",
+  "features": [
+    "logging of maintenance activities",
+    "simple dashboard for tracking vehicle status",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics fleet coordinators managing 5\u201315 vehicles",
+    "primary_problem": "Inconsistent maintenance scheduling leading to vehicle breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics fleet coordinators managing 5\u201315 vehicles, inconsistent maintenance scheduling causes vehicle breakdowns. We automate preventive maintenance notifications instead of manual tracking of maintenance schedules via spreadsheets.",
+    "current_alternative": "manual tracking of maintenance schedules via spreadsheets",
+    "must_have_features": [
+      "logging of maintenance activities",
+      "simple dashboard for tracking vehicle status",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For logistics fleet coordinators managing 5\u201315 vehicles, inconsistent maintenance scheduling causes vehicle breakdowns. We automate preventive maintenance notifications instead of manual tracking of maintenance schedules via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0036",
+    "run_date": "2026-04-20",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "fleet accountants managing 5\u201315 vehicles tool",
+  "description": "For fleet accountants managing 5\u201315 vehicles, inaccurate fuel usage reporting causes financial discrepancies. We automate fuel tracking and reconciliation instead of manual tracking and reconciliation processes.",
+  "target_audience": "fleet accountants managing 5\u201315 vehicles",
+  "problem_solved": "inaccurate fuel usage reporting",
+  "features": [
+    "manual entry for trip logs",
+    "fuel usage summary reports",
+    "basic reconciliation alerts"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "fleet accountants managing 5\u201315 vehicles",
+    "primary_problem": "inaccurate fuel usage reporting",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For fleet accountants managing 5\u201315 vehicles, inaccurate fuel usage reporting causes financial discrepancies. We automate fuel tracking and reconciliation instead of manual tracking and reconciliation processes.",
+    "current_alternative": "manual tracking and reconciliation processes",
+    "must_have_features": [
+      "manual entry for trip logs",
+      "fuel usage summary reports",
+      "basic reconciliation alerts"
+    ]
+  },
+  "one_liner": "For fleet accountants managing 5\u201315 vehicles, inaccurate fuel usage reporting causes financial discrepancies. We automate fuel tracking and reconciliation instead of manual tracking and reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0044",
+    "run_date": "2026-04-20",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property management CFOs processing 5\u201315 expense reports/month tool",
+  "description": "For property management CFOs processing 5\u201315 expense reports/month, inaccurate expense reporting causes cash flow gaps. We automate expense report compilation instead of manual compilation of expense reports from credit card statements.",
+  "target_audience": "property management CFOs processing 5\u201315 expense reports/month",
+  "problem_solved": "Inaccurate expense reporting leads to cash flow gaps.",
+  "features": [
+    "manual entry of credit card transactions",
+    "monthly summary generation",
+    "export to CSV for easy sharing"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property management CFOs processing 5\u201315 expense reports/month",
+    "primary_problem": "Inaccurate expense reporting leads to cash flow gaps.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property management CFOs processing 5\u201315 expense reports/month, inaccurate expense reporting causes cash flow gaps. We automate expense report compilation instead of manual compilation of expense reports from credit card statements.",
+    "current_alternative": "manual compilation of expense reports from credit card statements",
+    "must_have_features": [
+      "manual entry of credit card transactions",
+      "monthly summary generation",
+      "export to CSV for easy sharing"
+    ]
+  },
+  "one_liner": "For property management CFOs processing 5\u201315 expense reports/month, inaccurate expense reporting causes cash flow gaps. We automate expense report compilation instead of manual compilation of expense reports from credit card statements.",
+  "source": {
+    "idea_id": "idea_0035",
+    "run_date": "2026-04-20",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

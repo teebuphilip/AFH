@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "construction contractors processing 5\u201315 projects/month tool",
+  "description": "For construction contractors processing 5\u201315 projects/month, inaccurate progress reporting causes budget overruns. We provide automated progress reports and cost estimates instead of manual tracking and spreadsheets.",
+  "target_audience": "construction contractors processing 5\u201315 projects/month",
+  "problem_solved": "Inaccurate progress reports and cost estimates lead to budget overruns.",
+  "features": [
+    "manual data entry for job site updates",
+    "basic progress report generation",
+    "cost estimation calculator"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "construction contractors processing 5\u201315 projects/month",
+    "primary_problem": "Inaccurate progress reports and cost estimates lead to budget overruns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For construction contractors processing 5\u201315 projects/month, inaccurate progress reporting causes budget overruns. We provide automated progress reports and cost estimates instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "manual data entry for job site updates",
+      "basic progress report generation",
+      "cost estimation calculator"
+    ]
+  },
+  "one_liner": "For construction contractors processing 5\u201315 projects/month, inaccurate progress reporting causes budget overruns. We provide automated progress reports and cost estimates instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0099",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

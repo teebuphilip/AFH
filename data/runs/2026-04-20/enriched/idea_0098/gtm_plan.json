@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "insurance brokers processing 10\u201320 claims/month",
+  "offer": "For insurance brokers processing 10\u201320 claims/month, potential fraud causes delayed payouts. We flag potential fraud instead of manual review of claims.",
+  "problem": "Identifying potential fraud in claims",
+  "channels_free": [
+    "Post in Reddit communities for insurance brokers",
+    "Share insights on Indie Hackers forums",
+    "DM 20-50 brokers with a demo video",
+    "Engage in community groups for insurance tools"
+  ],
+  "try_it": "Let users try fraud detection alerts on a few claims",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a short demo video of the tool",
+    "Conduct 10 interviews with target brokers",
+    "Offer early access for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing claims",
+    "Enable one-click report exports",
+    "Streamline onboarding process"
+  ]
+}

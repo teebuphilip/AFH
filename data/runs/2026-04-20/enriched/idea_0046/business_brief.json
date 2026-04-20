@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "restaurant accounting managers processing 10\u201320 invoices/month tool",
+  "description": "For restaurant accounting managers processing 10\u201320 invoices/month, inaccurate sales tax filings cause potential penalties. We generate accurate monthly sales tax filing reports instead of manual calculations and spreadsheets.",
+  "target_audience": "restaurant accounting managers processing 10\u201320 invoices/month",
+  "problem_solved": "Inaccurate sales tax filings leading to potential penalties.",
+  "features": [
+    "manual entry for invoice details",
+    "monthly report generation",
+    "error-checking for tax calculations"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "restaurant accounting managers processing 10\u201320 invoices/month",
+    "primary_problem": "Inaccurate sales tax filings leading to potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For restaurant accounting managers processing 10\u201320 invoices/month, inaccurate sales tax filings cause potential penalties. We generate accurate monthly sales tax filing reports instead of manual calculations and spreadsheets.",
+    "current_alternative": "manual calculations and spreadsheets",
+    "must_have_features": [
+      "manual entry for invoice details",
+      "monthly report generation",
+      "error-checking for tax calculations"
+    ]
+  },
+  "one_liner": "For restaurant accounting managers processing 10\u201320 invoices/month, inaccurate sales tax filings cause potential penalties. We generate accurate monthly sales tax filing reports instead of manual calculations and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0046",
+    "run_date": "2026-04-20",
+    "overlay_score": 69,
+    "arr_score": 71
+  }
+}

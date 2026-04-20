@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month tool",
+  "description": "For procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewals cause service disruptions. We provide timely alerts instead of manual tracking via spreadsheets or calendar reminders.",
+  "target_audience": "procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month",
+  "problem_solved": "Missed contract renewals leading to service disruptions and potential penalties.",
+  "features": [
+    "manual entry of vendor contract details",
+    "alert notifications for upcoming renewals",
+    "dashboard for tracking contract statuses"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month",
+    "primary_problem": "Missed contract renewals leading to service disruptions and potential penalties.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewals cause service disruptions. We provide timely alerts instead of manual tracking via spreadsheets or calendar reminders.",
+    "current_alternative": "manual tracking via spreadsheets or calendar reminders",
+    "must_have_features": [
+      "manual entry of vendor contract details",
+      "alert notifications for upcoming renewals",
+      "dashboard for tracking contract statuses"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized marketing agencies processing 5\u201315 vendor contracts/month, missed contract renewals cause service disruptions. We provide timely alerts instead of manual tracking via spreadsheets or calendar reminders.",
+  "source": {
+    "idea_id": "idea_0005",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

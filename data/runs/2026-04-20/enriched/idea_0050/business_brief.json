@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers processing 10\u201320 invoices/month tool",
+  "description": "For property managers processing 10\u201320 invoices/month, delays in validating vendor invoices cause late payments. We automate vendor invoice validation and payment scheduling instead of manual invoice validation and payment scheduling.",
+  "target_audience": "property managers processing 10\u201320 invoices/month",
+  "problem_solved": "Delays in vendor invoice validation and payment scheduling",
+  "features": [
+    "manual invoice entry",
+    "invoice status tracking",
+    "payment scheduling reminders"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers processing 10\u201320 invoices/month",
+    "primary_problem": "Delays in vendor invoice validation and payment scheduling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers processing 10\u201320 invoices/month, delays in validating vendor invoices cause late payments. We automate vendor invoice validation and payment scheduling instead of manual invoice validation and payment scheduling.",
+    "current_alternative": "manual invoice validation and payment scheduling",
+    "must_have_features": [
+      "manual invoice entry",
+      "invoice status tracking",
+      "payment scheduling reminders"
+    ]
+  },
+  "one_liner": "For property managers processing 10\u201320 invoices/month, delays in validating vendor invoices cause late payments. We automate vendor invoice validation and payment scheduling instead of manual invoice validation and payment scheduling.",
+  "source": {
+    "idea_id": "idea_0050",
+    "run_date": "2026-04-20",
+    "overlay_score": 76,
+    "arr_score": 76
+  }
+}

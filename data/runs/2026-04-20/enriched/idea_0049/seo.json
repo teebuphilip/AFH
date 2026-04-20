@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "legal intake specialists in law firms missed tool",
+    "legal intake specialists in law firms missed automation",
+    "missed follow",
+    "ups month",
+    "legal intake specialists in law firms processing 5 15 client follow-ups month missed tool",
+    "legal intake specialists in law firms processing 5 15 client follow-ups month missed automation",
+    "legal intake specialists in law firms processing 5 15 client follow-ups month missed workflow"
+  ],
+  "secondary_keywords": [
+    "missed follow software",
+    "missed follow platform",
+    "missed follow solution"
+  ],
+  "long_tail_keywords": [
+    "how to missed follow",
+    "best missed follow tool",
+    "missed follow vs spreadsheets",
+    "missed follow checklist",
+    "missed follow pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For legal intake specialists in law firms processing 5\u201315 client follow-ups/month, missed follow-ups cause client dissatisfaction. We provide automated reminders instead of manual tracking through spreadsheets or calendars.",
+    "Missed client follow-ups leading to lost cases and client dissatisfaction.",
+    "legal intake specialists in law firms processing 5\u201315 client follow-ups/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Missed Follow",
+      "target_keyword": "how to missed follow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Missed Follow Tool",
+      "target_keyword": "best missed follow tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Missed Follow Vs Spreadsheets",
+      "target_keyword": "missed follow vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Missed Follow Checklist",
+      "target_keyword": "missed follow checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Missed Follow Pricing",
+      "target_keyword": "missed follow pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Missed Follow Software",
+      "target_keyword": "missed follow software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Missed Follow Platform",
+      "target_keyword": "missed follow platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Missed Follow Solution",
+      "target_keyword": "missed follow solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Missed Follow",
+      "target_keyword": "missed follow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Ups Month",
+      "target_keyword": "ups month",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Legal Intake Specialists In Law Firms Processing 5 15 Client Follow-Ups Month Missed Tool",
+      "target_keyword": "legal intake specialists in law firms processing 5 15 client follow-ups month missed tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Legal Intake Specialists In Law Firms Processing 5 15 Client Follow-Ups Month Missed Automation",
+      "target_keyword": "legal intake specialists in law firms processing 5 15 client follow-ups month missed automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "legal intake specialists in law firms missed tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "legal intake specialists in law firms missed tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "legal intake specialists in law firms missed tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "legal intake specialists in law firms missed tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "legal intake specialists in law firms missed tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | legal intake specialists in law firms tool",
+      "legal intake specialists in law firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "legal intake specialists in law firms tool helps with missed client follow-ups leading to lost cases and client dissatisfaction."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

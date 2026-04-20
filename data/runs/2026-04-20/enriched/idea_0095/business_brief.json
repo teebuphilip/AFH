@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "multi-location restaurant chains processing 50\u2013100 invoices/month tool",
+  "description": "For multi-location restaurant chains processing 50\u2013100 invoices/month, inefficient manual accounting causes cash flow gaps. We automate accounting and scheduling instead of manual bookkeeping and scheduling tools.",
+  "target_audience": "multi-location restaurant chains processing 50\u2013100 invoices/month",
+  "problem_solved": "Inefficient manual accounting and scheduling processes.",
+  "features": [
+    "inventory tracking dashboard",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "multi-location restaurant chains processing 50\u2013100 invoices/month",
+    "primary_problem": "Inefficient manual accounting and scheduling processes.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For multi-location restaurant chains processing 50\u2013100 invoices/month, inefficient manual accounting causes cash flow gaps. We automate accounting and scheduling instead of manual bookkeeping and scheduling tools.",
+    "current_alternative": "manual bookkeeping and scheduling tools",
+    "must_have_features": [
+      "inventory tracking dashboard",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For multi-location restaurant chains processing 50\u2013100 invoices/month, inefficient manual accounting causes cash flow gaps. We automate accounting and scheduling instead of manual bookkeeping and scheduling tools.",
+  "source": {
+    "idea_id": "idea_0095",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in small accounting firms processing 5\u201315 payrolls/month tool",
+  "description": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, inefficient reporting causes delays in benefits enrollment. We automate report generation instead of manual data entry and formatting in spreadsheets.",
+  "target_audience": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+  "problem_solved": "Inefficient generation of benefits enrollment reports from raw payroll data.",
+  "features": [
+    "Template selection for report formatting",
+    "Manual invoice entry form",
+    "Vendor list management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in small accounting firms processing 5\u201315 payrolls/month",
+    "primary_problem": "Inefficient generation of benefits enrollment reports from raw payroll data.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, inefficient reporting causes delays in benefits enrollment. We automate report generation instead of manual data entry and formatting in spreadsheets.",
+    "current_alternative": "Manual data entry and formatting in spreadsheets.",
+    "must_have_features": [
+      "Template selection for report formatting",
+      "Manual invoice entry form",
+      "Vendor list management"
+    ]
+  },
+  "one_liner": "For HR managers in small accounting firms processing 5\u201315 payrolls/month, inefficient reporting causes delays in benefits enrollment. We automate report generation instead of manual data entry and formatting in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0020",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 66
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "idea_text": "Grants management system that streamlines application, reporting, and compliance for nonprofit finance teams",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 90,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 67,
+  "arr_score": 69.0,
+  "verdict": "KEEP",
+  "verdict_timestamp": "2026-04-20T10:54:23.793630",
+  "verdict_source": "overlay_score",
+  "arr_verdict": "EXCLUDE",
+  "arr_scored_at": "2026-04-20T10:54:23.840853"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "HR managers in mid-sized companies using Workday, managing 100-500 employees tool",
+  "description": "For HR managers in mid-sized companies using Workday, processing 100-500 employees, inaccurate forecasting causes retention issues. We provide a workforce analytics dashboard instead of manual spreadsheets and outdated HRIS reports.",
+  "target_audience": "HR managers in mid-sized companies using Workday, managing 100-500 employees",
+  "problem_solved": "Inability to accurately forecast headcount and manage compensation budgets, leading to retention issues.",
+  "features": [
+    "headcount forecasting tool",
+    "compensation budget modeling",
+    "retention tracking dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "HR managers in mid-sized companies using Workday, managing 100-500 employees",
+    "primary_problem": "Inability to accurately forecast headcount and manage compensation budgets, leading to retention issues.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For HR managers in mid-sized companies using Workday, processing 100-500 employees, inaccurate forecasting causes retention issues. We provide a workforce analytics dashboard instead of manual spreadsheets and outdated HRIS reports.",
+    "current_alternative": "manual spreadsheets and outdated HRIS reports",
+    "must_have_features": [
+      "headcount forecasting tool",
+      "compensation budget modeling",
+      "retention tracking dashboard"
+    ]
+  },
+  "one_liner": "For HR managers in mid-sized companies using Workday, processing 100-500 employees, inaccurate forecasting causes retention issues. We provide a workforce analytics dashboard instead of manual spreadsheets and outdated HRIS reports.",
+  "source": {
+    "idea_id": "idea_0073",
+    "run_date": "2026-04-20",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

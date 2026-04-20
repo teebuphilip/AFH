@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 10\u201320 vendor payments/month tool",
+  "description": "For accounting firms managing 10\u201320 vendor payments/month, manual scheduling causes late payments. We automate payment schedules instead of manual tracking and scheduling in spreadsheets.",
+  "target_audience": "accounting firms managing 10\u201320 vendor payments/month",
+  "problem_solved": "manual scheduling of vendor payments leads to late payments.",
+  "features": [
+    "email notifications for upcoming payments",
+    "manual override for payment adjustments",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 10\u201320 vendor payments/month",
+    "primary_problem": "manual scheduling of vendor payments leads to late payments.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For accounting firms managing 10\u201320 vendor payments/month, manual scheduling causes late payments. We automate payment schedules instead of manual tracking and scheduling in spreadsheets.",
+    "current_alternative": "manual tracking and scheduling in spreadsheets",
+    "must_have_features": [
+      "email notifications for upcoming payments",
+      "manual override for payment adjustments",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For accounting firms managing 10\u201320 vendor payments/month, manual scheduling causes late payments. We automate payment schedules instead of manual tracking and scheduling in spreadsheets.",
+  "source": {
+    "idea_id": "idea_0010",
+    "run_date": "2026-04-20",
+    "overlay_score": 83,
+    "arr_score": 85
+  }
+}

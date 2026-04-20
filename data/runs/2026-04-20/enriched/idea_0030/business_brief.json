@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accountants in law firms processing 5\u201315 quarterly tax filings tool",
+  "description": "For accountants in law firms processing 5\u201315 quarterly tax filings, inaccurate tax summaries cause compliance issues. We provide automated tax summary preparation instead of manual preparation using spreadsheets.",
+  "target_audience": "accountants in law firms processing 5\u201315 quarterly tax filings",
+  "problem_solved": "Inaccurate tax summaries leading to compliance issues.",
+  "features": [
+    "manual entry for tax data",
+    "summary generation for quarterly filings",
+    "export options for reports"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accountants in law firms processing 5\u201315 quarterly tax filings",
+    "primary_problem": "Inaccurate tax summaries leading to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accountants in law firms processing 5\u201315 quarterly tax filings, inaccurate tax summaries cause compliance issues. We provide automated tax summary preparation instead of manual preparation using spreadsheets.",
+    "current_alternative": "manual preparation of tax summaries using spreadsheets",
+    "must_have_features": [
+      "manual entry for tax data",
+      "summary generation for quarterly filings",
+      "export options for reports"
+    ]
+  },
+  "one_liner": "For accountants in law firms processing 5\u201315 quarterly tax filings, inaccurate tax summaries cause compliance issues. We provide automated tax summary preparation instead of manual preparation using spreadsheets.",
+  "source": {
+    "idea_id": "idea_0030",
+    "run_date": "2026-04-20",
+    "overlay_score": 71,
+    "arr_score": 70
+  }
+}

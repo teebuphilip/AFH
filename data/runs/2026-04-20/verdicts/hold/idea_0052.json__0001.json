@@ -1,0 +1,15 @@
+{
+  "idea_text": "Employee expense report generator that integrates with accounting software and flags suspicious claims",
+  "scores": {
+    "pricing_power": 55,
+    "user_count": 55,
+    "automation": 55,
+    "market_clarity": 90,
+    "competition_inverse": 55
+  },
+  "overlay_score": 58,
+  "arr_score": 58,
+  "verdict": "HOLD",
+  "verdict_timestamp": "2026-04-20T10:54:23.791679",
+  "verdict_source": "overlay_score"
+}

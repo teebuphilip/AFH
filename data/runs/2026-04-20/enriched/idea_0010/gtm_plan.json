@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "accounting firms managing 10\u201320 vendor payments/month",
+  "offer": "For accounting firms managing 10\u201320 vendor payments/month, manual scheduling causes late payments. We automate payment schedules instead of manual tracking and scheduling in spreadsheets.",
+  "problem": "manual scheduling of vendor payments leads to late payments.",
+  "channels_free": [
+    "Post in Reddit communities for accounting firms",
+    "Indie Hackers discussions on payment workflows",
+    "DM outreach to accounting firms with demo video",
+    "Community forums for sharing accounting tools"
+  ],
+  "try_it": "Let users test email notifications and manual payment adjustments",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a landing page with one-liner and CTA",
+    "Produce a demo video of the manual workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Set default reminder schedules",
+    "Allow CSV import for existing data",
+    "Enable one-click report exports",
+    "Streamline onboarding steps"
+  ]
+}

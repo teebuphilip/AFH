@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5\u201310 vehicles tool",
+  "description": "For logistics carriers managing 5\u201310 vehicles, inefficient scheduling of maintenance causes increased downtime. We provide automated scheduling instead of manual tracking and scheduling.",
+  "target_audience": "logistics carriers managing 5\u201310 vehicles",
+  "problem_solved": "Inefficient scheduling of maintenance and fuel usage monitoring.",
+  "features": [
+    "manual maintenance scheduling",
+    "fuel usage tracking",
+    "basic reporting dashboard"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5\u201310 vehicles",
+    "primary_problem": "Inefficient scheduling of maintenance and fuel usage monitoring.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5\u201310 vehicles, inefficient scheduling of maintenance causes increased downtime. We provide automated scheduling instead of manual tracking and scheduling.",
+    "current_alternative": "manual tracking and scheduling",
+    "must_have_features": [
+      "manual maintenance scheduling",
+      "fuel usage tracking",
+      "basic reporting dashboard"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5\u201310 vehicles, inefficient scheduling of maintenance causes increased downtime. We provide automated scheduling instead of manual tracking and scheduling.",
+  "source": {
+    "idea_id": "idea_0087",
+    "run_date": "2026-04-20",
+    "overlay_score": 74,
+    "arr_score": 74
+  }
+}

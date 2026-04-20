@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "procurement managers in mid-sized retail companies processing 10-20 invoices/week tool",
+  "description": "For procurement managers in mid-sized retail companies processing 10-20 invoices/week, inconsistent supplier performance tracking causes late orders and missed discounts. We automate scorecard generation and email updates instead of manual scorecard creation and email updates.",
+  "target_audience": "procurement managers in mid-sized retail companies processing 10-20 invoices/week",
+  "problem_solved": "Inconsistent supplier performance tracking leads to late orders and missed discounts.",
+  "features": [
+    "email notifications for performance updates",
+    "customizable scorecard templates",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "procurement managers in mid-sized retail companies processing 10-20 invoices/week",
+    "primary_problem": "Inconsistent supplier performance tracking leads to late orders and missed discounts.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For procurement managers in mid-sized retail companies processing 10-20 invoices/week, inconsistent supplier performance tracking causes late orders and missed discounts. We automate scorecard generation and email updates instead of manual scorecard creation and email updates.",
+    "current_alternative": "manual scorecard creation and email updates",
+    "must_have_features": [
+      "email notifications for performance updates",
+      "customizable scorecard templates",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For procurement managers in mid-sized retail companies processing 10-20 invoices/week, inconsistent supplier performance tracking causes late orders and missed discounts. We automate scorecard generation and email updates instead of manual scorecard creation and email updates.",
+  "source": {
+    "idea_id": "idea_0019",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

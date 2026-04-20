@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "accountants in law firms inaccurate tool",
+    "accountants in law firms inaccurate automation",
+    "accountants in law firms processing 5 15 quarterly tax filings inaccurate tool",
+    "accountants in law firms processing 5 15 quarterly tax filings inaccurate automation",
+    "accountants in law firms processing 5 15 quarterly tax filings inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "accountants in law firms processing 5 15 quarterly tax filings inaccurate tool software",
+    "accountants in law firms processing 5 15 quarterly tax filings inaccurate tool platform",
+    "accountants in law firms processing 5 15 quarterly tax filings inaccurate tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For accountants in law firms processing 5\u201315 quarterly tax filings, inaccurate tax summaries cause compliance issues. We provide automated tax summary preparation instead of manual preparation using spreadsheets.",
+    "Inaccurate tax summaries leading to compliance issues.",
+    "accountants in law firms processing 5\u201315 quarterly tax filings"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Accountants In Law Firms Processing 5 15 Quarterly Tax Filings Inaccurate Tool Software",
+      "target_keyword": "accountants in law firms processing 5 15 quarterly tax filings inaccurate tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accountants In Law Firms Processing 5 15 Quarterly Tax Filings Inaccurate Tool Platform",
+      "target_keyword": "accountants in law firms processing 5 15 quarterly tax filings inaccurate tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accountants In Law Firms Processing 5 15 Quarterly Tax Filings Inaccurate Tool Solution",
+      "target_keyword": "accountants in law firms processing 5 15 quarterly tax filings inaccurate tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accountants In Law Firms Processing 5 15 Quarterly Tax Filings Inaccurate Tool",
+      "target_keyword": "accountants in law firms processing 5 15 quarterly tax filings inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accountants In Law Firms Processing 5 15 Quarterly Tax Filings Inaccurate Automation",
+      "target_keyword": "accountants in law firms processing 5 15 quarterly tax filings inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Accountants In Law Firms Processing 5 15 Quarterly Tax Filings Inaccurate Workflow",
+      "target_keyword": "accountants in law firms processing 5 15 quarterly tax filings inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "accountants in law firms inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "accountants in law firms inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "accountants in law firms inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "accountants in law firms inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "accountants in law firms inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | accountants in law firms tool",
+      "accountants in law firms tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "accountants in law firms tool helps with inaccurate tax summaries leading to compliance issues."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

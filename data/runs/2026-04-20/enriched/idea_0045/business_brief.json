@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "insurance adjusters processing 10\u201320 claims/month tool",
+  "description": "For insurance adjusters processing 10\u201320 claims/month, inefficient documentation causes delays in claim approvals. We automate the conversion of field service reports instead of manual documentation processes.",
+  "target_audience": "insurance adjusters processing 10\u201320 claims/month",
+  "problem_solved": "Inefficient conversion of field service reports into insurance claim documents.",
+  "features": [
+    "template-based document generation",
+    "status tracking for claims",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "insurance adjusters processing 10\u201320 claims/month",
+    "primary_problem": "Inefficient conversion of field service reports into insurance claim documents.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For insurance adjusters processing 10\u201320 claims/month, inefficient documentation causes delays in claim approvals. We automate the conversion of field service reports instead of manual documentation processes.",
+    "current_alternative": "manual documentation processes",
+    "must_have_features": [
+      "template-based document generation",
+      "status tracking for claims",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For insurance adjusters processing 10\u201320 claims/month, inefficient documentation causes delays in claim approvals. We automate the conversion of field service reports instead of manual documentation processes.",
+  "source": {
+    "idea_id": "idea_0045",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

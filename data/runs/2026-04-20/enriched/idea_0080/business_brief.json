@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics managers in freight brokerage firms processing 10-20 shipments/month tool",
+  "description": "For logistics managers in freight brokerage firms processing 10-20 shipments/month, inefficient tracking of vehicle maintenance causes unexpected breakdowns. We provide a fleet management system instead of manual tracking spreadsheets.",
+  "target_audience": "logistics managers in freight brokerage firms processing 10-20 shipments/month",
+  "problem_solved": "Inefficient tracking of vehicle maintenance leads to unexpected breakdowns.",
+  "features": [
+    "vehicle usage tracking",
+    "maintenance scheduling",
+    "custom report generation"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics managers in freight brokerage firms processing 10-20 shipments/month",
+    "primary_problem": "Inefficient tracking of vehicle maintenance leads to unexpected breakdowns.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics managers in freight brokerage firms processing 10-20 shipments/month, inefficient tracking of vehicle maintenance causes unexpected breakdowns. We provide a fleet management system instead of manual tracking spreadsheets.",
+    "current_alternative": "manual tracking spreadsheets",
+    "must_have_features": [
+      "vehicle usage tracking",
+      "maintenance scheduling",
+      "custom report generation"
+    ]
+  },
+  "one_liner": "For logistics managers in freight brokerage firms processing 10-20 shipments/month, inefficient tracking of vehicle maintenance causes unexpected breakdowns. We provide a fleet management system instead of manual tracking spreadsheets.",
+  "source": {
+    "idea_id": "idea_0080",
+    "run_date": "2026-04-20",
+    "overlay_score": 56,
+    "arr_score": 56
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "freelancers processing 5\u201315 invoices/month tool",
+  "description": "For freelancers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate daily accounts receivable aging reports and send alerts to collections teams instead of manual tracking of invoices and reminders.",
+  "target_audience": "freelancers processing 5\u201315 invoices/month",
+  "problem_solved": "Tracking overdue payments and managing cash flow effectively.",
+  "features": [
+    "Daily aging report generation",
+    "Email alerts for overdue invoices",
+    "Simple dashboard for invoice tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "freelancers processing 5\u201315 invoices/month",
+    "primary_problem": "Tracking overdue payments and managing cash flow effectively.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For freelancers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate daily accounts receivable aging reports and send alerts to collections teams instead of manual tracking of invoices and reminders.",
+    "current_alternative": "manual tracking of invoices and reminders",
+    "must_have_features": [
+      "Daily aging report generation",
+      "Email alerts for overdue invoices",
+      "Simple dashboard for invoice tracking"
+    ]
+  },
+  "one_liner": "For freelancers processing 5\u201315 invoices/month, late payments cause cash flow gaps. We automate daily accounts receivable aging reports and send alerts to collections teams instead of manual tracking of invoices and reminders.",
+  "source": {
+    "idea_id": "idea_0022",
+    "run_date": "2026-04-20",
+    "overlay_score": 72,
+    "arr_score": 72
+  }
+}

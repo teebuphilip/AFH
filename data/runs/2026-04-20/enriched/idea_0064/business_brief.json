@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "logistics carriers managing 5-15 vehicles tool",
+  "description": "For logistics carriers managing 5-15 vehicles, inefficient vehicle utilization causes high maintenance costs. We provide a vehicle fleet tracking system instead of manual tracking and spreadsheets.",
+  "target_audience": "logistics carriers managing 5-15 vehicles",
+  "problem_solved": "Inefficient vehicle utilization and high maintenance costs.",
+  "features": [
+    "real-time vehicle utilization monitoring",
+    "maintenance scheduling alerts",
+    "fuel consumption tracking"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "logistics carriers managing 5-15 vehicles",
+    "primary_problem": "Inefficient vehicle utilization and high maintenance costs.",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For logistics carriers managing 5-15 vehicles, inefficient vehicle utilization causes high maintenance costs. We provide a vehicle fleet tracking system instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "real-time vehicle utilization monitoring",
+      "maintenance scheduling alerts",
+      "fuel consumption tracking"
+    ]
+  },
+  "one_liner": "For logistics carriers managing 5-15 vehicles, inefficient vehicle utilization causes high maintenance costs. We provide a vehicle fleet tracking system instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0064",
+    "run_date": "2026-04-20",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

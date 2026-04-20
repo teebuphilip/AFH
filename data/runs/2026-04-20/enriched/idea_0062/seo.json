@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "hr managers in retail companies using shopify for workforce management inaccurate tool",
+    "hr managers in retail companies using shopify for workforce management inaccurate automation",
+    "hr managers in retail companies using shopify for workforce management inaccurate workflow"
+  ],
+  "secondary_keywords": [
+    "hr managers in retail companies using shopify for workforce management inaccurate tool software",
+    "hr managers in retail companies using shopify for workforce management inaccurate tool platform",
+    "hr managers in retail companies using shopify for workforce management inaccurate tool solution"
+  ],
+  "long_tail_keywords": [
+    "how to invoice tracking",
+    "best invoice tracking tool",
+    "invoice tracking vs spreadsheets",
+    "invoice tracking checklist",
+    "invoice tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For HR managers in retail companies using Shopify processing 10-20 shifts/week, inaccurate labor forecasting causes understaffing, leading to poor customer service. We provide automated shift scheduling instead of manual scheduling and Excel spreadsheets.",
+    "Inaccurate labor forecasting leading to understaffing or overstaffing.",
+    "HR managers in retail companies using Shopify for workforce management"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Invoice Tracking",
+      "target_keyword": "how to invoice tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Invoice Tracking Tool",
+      "target_keyword": "best invoice tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Vs Spreadsheets",
+      "target_keyword": "invoice tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Invoice Tracking Checklist",
+      "target_keyword": "invoice tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Invoice Tracking Pricing",
+      "target_keyword": "invoice tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Hr Managers In Retail Companies Using Shopify For Workforce Management Inaccurate Tool Software",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate tool software",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Retail Companies Using Shopify For Workforce Management Inaccurate Tool Platform",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate tool platform",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Retail Companies Using Shopify For Workforce Management Inaccurate Tool Solution",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate tool solution",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Retail Companies Using Shopify For Workforce Management Inaccurate Tool",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Retail Companies Using Shopify For Workforce Management Inaccurate Automation",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Hr Managers In Retail Companies Using Shopify For Workforce Management Inaccurate Workflow",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate workflow",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "hr managers in retail companies using shopify for workforce management inaccurate tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | hr managers in retail companies using shopify for workforce management tool",
+      "hr managers in retail companies using shopify for workforce management tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "hr managers in retail companies using shopify for workforce management tool helps with inaccurate labor forecasting leading to understaffing or overstaffing."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

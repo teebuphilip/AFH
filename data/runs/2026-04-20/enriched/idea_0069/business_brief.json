@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "accounting firms managing 5\u201315 clients tool",
+  "description": "For accounting firms managing 5\u201315 clients, inaccurate tracking of asset depreciation causes compliance issues. We provide a fixed asset management platform instead of manual spreadsheets and outdated accounting software.",
+  "target_audience": "accounting firms managing 5\u201315 clients",
+  "problem_solved": "Inaccurate tracking of asset depreciation and disposals leads to compliance issues.",
+  "features": [
+    "manual entry for asset details",
+    "depreciation tracking calculator",
+    "disposal record management"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "accounting firms managing 5\u201315 clients",
+    "primary_problem": "Inaccurate tracking of asset depreciation and disposals leads to compliance issues.",
+    "primary_gap_type": "compliance gap",
+    "mvp_wedge": "For accounting firms managing 5\u201315 clients, inaccurate tracking of asset depreciation causes compliance issues. We provide a fixed asset management platform instead of manual spreadsheets and outdated accounting software.",
+    "current_alternative": "manual spreadsheets and outdated accounting software",
+    "must_have_features": [
+      "manual entry for asset details",
+      "depreciation tracking calculator",
+      "disposal record management"
+    ]
+  },
+  "one_liner": "For accounting firms managing 5\u201315 clients, inaccurate tracking of asset depreciation causes compliance issues. We provide a fixed asset management platform instead of manual spreadsheets and outdated accounting software.",
+  "source": {
+    "idea_id": "idea_0069",
+    "run_date": "2026-04-20",
+    "overlay_score": 55,
+    "arr_score": 55
+  }
+}

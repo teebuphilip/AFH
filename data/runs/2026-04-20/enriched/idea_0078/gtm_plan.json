@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "construction contractors processing 5\u201315 permit applications/month",
+  "offer": "For construction contractors processing 5\u201315 permit applications/month, inefficient permit application submissions cause project delays. We convert project documents into standardized submissions instead of manual submission of permit applications.",
+  "problem": "Inefficient permit application submissions lead to project delays.",
+  "channels_free": [
+    "Post in Reddit communities for construction contractors",
+    "Indie Hackers discussions on similar workflows",
+    "DM outreach to construction contractors with demo video",
+    "Community forums for sharing tools and resources"
+  ],
+  "try_it": "Let users try document conversion and submission reminders on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with CTA",
+    "Produce a demo video of the workflow",
+    "Conduct 10 short interviews with target users",
+    "Provide early-access onboarding for first 10 users",
+    "Share weekly progress updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of a simple report",
+    "Streamline onboarding process"
+  ]
+}

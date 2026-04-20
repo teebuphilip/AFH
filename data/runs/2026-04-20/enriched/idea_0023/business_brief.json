@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Etsy sellers processing 10\u201320 invoices/month tool",
+  "description": "For Etsy sellers processing 10\u201320 invoices/month, manual reconciliation causes supplier penalties. We automate weekly vendor payment reconciliation reports instead of manual reconciliation processes.",
+  "target_audience": "Etsy sellers processing 10\u201320 invoices/month",
+  "problem_solved": "Timely vendor payment reconciliation",
+  "features": [
+    "Generate weekly reconciliation reports",
+    "Email reports to accounts payable departments",
+    "User-friendly report format"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "Etsy sellers processing 10\u201320 invoices/month",
+    "primary_problem": "Timely vendor payment reconciliation",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For Etsy sellers processing 10\u201320 invoices/month, manual reconciliation causes supplier penalties. We automate weekly vendor payment reconciliation reports instead of manual reconciliation processes.",
+    "current_alternative": "Manual reconciliation processes",
+    "must_have_features": [
+      "Generate weekly reconciliation reports",
+      "Email reports to accounts payable departments",
+      "User-friendly report format"
+    ]
+  },
+  "one_liner": "For Etsy sellers processing 10\u201320 invoices/month, manual reconciliation causes supplier penalties. We automate weekly vendor payment reconciliation reports instead of manual reconciliation processes.",
+  "source": {
+    "idea_id": "idea_0023",
+    "run_date": "2026-04-20",
+    "overlay_score": 64,
+    "arr_score": 62
+  }
+}

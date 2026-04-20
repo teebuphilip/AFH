@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "property managers handling 5\u201315 rental units/month tool",
+  "description": "For property managers handling 5\u201315 rental units/month, inefficient reporting causes cash flow gaps. We automate reporting and maintenance scheduling instead of manual tracking and spreadsheets.",
+  "target_audience": "property managers handling 5\u201315 rental units/month",
+  "problem_solved": "Inefficient reporting and maintenance scheduling",
+  "features": [
+    "simple reporting dashboard",
+    "maintenance request tracking",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "property managers handling 5\u201315 rental units/month",
+    "primary_problem": "Inefficient reporting and maintenance scheduling",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For property managers handling 5\u201315 rental units/month, inefficient reporting causes cash flow gaps. We automate reporting and maintenance scheduling instead of manual tracking and spreadsheets.",
+    "current_alternative": "manual tracking and spreadsheets",
+    "must_have_features": [
+      "simple reporting dashboard",
+      "maintenance request tracking",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For property managers handling 5\u201315 rental units/month, inefficient reporting causes cash flow gaps. We automate reporting and maintenance scheduling instead of manual tracking and spreadsheets.",
+  "source": {
+    "idea_id": "idea_0097",
+    "run_date": "2026-04-20",
+    "overlay_score": 65,
+    "arr_score": 64
+  }
+}

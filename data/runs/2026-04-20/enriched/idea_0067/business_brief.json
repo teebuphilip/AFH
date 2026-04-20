@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "name": "nonprofit finance teams managing 5\u201315 grants/month tool",
+  "description": "For nonprofit finance teams processing 5\u201315 grants/month, inefficient reporting causes compliance issues. We streamline application and reporting instead of manual tracking and reporting via spreadsheets.",
+  "target_audience": "nonprofit finance teams managing 5\u201315 grants/month",
+  "problem_solved": "Inefficient grant application and reporting processes",
+  "features": [
+    "user-friendly application form builder",
+    "compliance tracking dashboard",
+    "Manual invoice entry form"
+  ],
+  "pricing_model": "unknown",
+  "category": "saas",
+  "locked_fields": {
+    "primary_user": "nonprofit finance teams managing 5\u201315 grants/month",
+    "primary_problem": "Inefficient grant application and reporting processes",
+    "primary_gap_type": "workflow gap",
+    "mvp_wedge": "For nonprofit finance teams processing 5\u201315 grants/month, inefficient reporting causes compliance issues. We streamline application and reporting instead of manual tracking and reporting via spreadsheets.",
+    "current_alternative": "manual tracking and reporting via spreadsheets",
+    "must_have_features": [
+      "user-friendly application form builder",
+      "compliance tracking dashboard",
+      "Manual invoice entry form"
+    ]
+  },
+  "one_liner": "For nonprofit finance teams processing 5\u201315 grants/month, inefficient reporting causes compliance issues. We streamline application and reporting instead of manual tracking and reporting via spreadsheets.",
+  "source": {
+    "idea_id": "idea_0067",
+    "run_date": "2026-04-20",
+    "overlay_score": 67,
+    "arr_score": 69
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "Etsy sellers processing 10\u201320 invoices/month",
+  "offer": "For Etsy sellers processing 10\u201320 invoices/month, manual reconciliation causes supplier penalties. We automate weekly vendor payment reconciliation reports instead of manual reconciliation processes.",
+  "problem": "Timely vendor payment reconciliation",
+  "channels_free": [
+    "Post in Reddit communities for Etsy sellers",
+    "Indie Hackers discussions about similar workflows",
+    "DM outreach to Etsy sellers with demo video",
+    "Community forums for sharing tools among sellers"
+  ],
+  "try_it": "Let users generate weekly reconciliation reports for free",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a CTA",
+    "Produce a short demo video of the workflow",
+    "Conduct 10 interviews with target users",
+    "Offer early-access onboarding for initial users",
+    "Share weekly updates in relevant communities"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates",
+    "Default reminder schedule presets",
+    "CSV import for existing data",
+    "One-click export of simple reports",
+    "Streamline onboarding process"
+  ]
+}

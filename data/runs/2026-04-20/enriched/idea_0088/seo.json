@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "primary_keywords": [
+    "restaurant chains inefficient tool",
+    "restaurant chains inefficient automation",
+    "inventory tracking",
+    "inventory workflow",
+    "restaurant chains processing 50 100 payrolls month inefficient tool",
+    "restaurant chains processing 50 100 payrolls month inefficient automation",
+    "restaurant chains processing 50 100 payrolls month inefficient workflow"
+  ],
+  "secondary_keywords": [
+    "inventory tracking software",
+    "inventory tracking platform",
+    "inventory tracking solution"
+  ],
+  "long_tail_keywords": [
+    "how to inventory tracking",
+    "best inventory tracking tool",
+    "inventory tracking vs spreadsheets",
+    "inventory tracking checklist",
+    "inventory tracking pricing"
+  ],
+  "search_intent": {
+    "primary_intent": "commercial",
+    "secondary_intents": [
+      "informational",
+      "commercial"
+    ]
+  },
+  "competitor_keywords": [],
+  "marketing_seeds": [
+    "For restaurant chains processing 50\u2013100 payrolls/month, inefficient payroll processing causes cash flow gaps. We streamline payroll and scheduling instead of manual payroll and scheduling systems.",
+    "Inefficient payroll processing and scheduling",
+    "restaurant chains processing 50\u2013100 payrolls/month"
+  ],
+  "content_plan": [
+    {
+      "title": "How To Inventory Tracking",
+      "target_keyword": "how to inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Best Inventory Tracking Tool",
+      "target_keyword": "best inventory tracking tool",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Vs Spreadsheets",
+      "target_keyword": "inventory tracking vs spreadsheets",
+      "intent": "commercial",
+      "estimated_difficulty": "medium"
+    },
+    {
+      "title": "Inventory Tracking Checklist",
+      "target_keyword": "inventory tracking checklist",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Pricing",
+      "target_keyword": "inventory tracking pricing",
+      "intent": "commercial",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Software",
+      "target_keyword": "inventory tracking software",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Platform",
+      "target_keyword": "inventory tracking platform",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking Solution",
+      "target_keyword": "inventory tracking solution",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Tracking",
+      "target_keyword": "inventory tracking",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Inventory Workflow",
+      "target_keyword": "inventory workflow",
+      "intent": "informational",
+      "estimated_difficulty": "high"
+    },
+    {
+      "title": "Restaurant Chains Processing 50 100 Payrolls Month Inefficient Tool",
+      "target_keyword": "restaurant chains processing 50 100 payrolls month inefficient tool",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    },
+    {
+      "title": "Restaurant Chains Processing 50 100 Payrolls Month Inefficient Automation",
+      "target_keyword": "restaurant chains processing 50 100 payrolls month inefficient automation",
+      "intent": "informational",
+      "estimated_difficulty": "low"
+    }
+  ],
+  "site_structure": [
+    {
+      "page": "homepage",
+      "target_keyword": "restaurant chains inefficient tool",
+      "purpose": "Overview and value proposition"
+    },
+    {
+      "page": "features",
+      "target_keyword": "restaurant chains inefficient tool features",
+      "purpose": "Explain core capabilities"
+    },
+    {
+      "page": "pricing",
+      "target_keyword": "restaurant chains inefficient tool pricing",
+      "purpose": "Pricing and plans"
+    },
+    {
+      "page": "blog",
+      "target_keyword": "restaurant chains inefficient tool guides",
+      "purpose": "Educational content"
+    },
+    {
+      "page": "programmatic",
+      "target_keyword": "restaurant chains inefficient tool templates",
+      "purpose": "Scalable keyword coverage"
+    }
+  ],
+  "on_page_seo": {
+    "title_templates": [
+      "{primary_keyword} | restaurant chains tool",
+      "restaurant chains tool - {primary_keyword}"
+    ],
+    "meta_description_templates": [
+      "restaurant chains tool helps with inefficient payroll processing and scheduling."
+    ],
+    "header_patterns": [
+      "How to {primary_keyword}",
+      "Best {secondary_keyword} for {audience}"
+    ]
+  },
+  "programmatic_seo": {
+    "enabled": true,
+    "patterns": [
+      {
+        "type": "comparison",
+        "template": "{primary_keyword} vs {alt}"
+      },
+      {
+        "type": "use_case",
+        "template": "{primary_keyword} for {audience}"
+      }
+    ]
+  }
+}

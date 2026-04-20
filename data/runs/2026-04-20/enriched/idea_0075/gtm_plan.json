@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "who": "risk managers in accounting firms processing 5\u201315 clients/month",
+  "offer": "For risk managers in accounting firms processing 5\u201315 clients/month, inadequate threat cataloging causes increased risk exposure. We provide a centralized platform instead of manual spreadsheets and disparate tools.",
+  "problem": "Inadequate threat cataloging and control management leads to increased risk exposure.",
+  "channels_free": [
+    "Post in Reddit communities for risk management discussions",
+    "Engage in Indie Hackers conversations about similar tools",
+    "DM risk managers with a demo video of the platform",
+    "Share insights in community forums for risk managers"
+  ],
+  "try_it": "Let users try threat cataloging and control management on 1-3 items",
+  "pay": "unknown with a clear upgrade path",
+  "cheap_execution_checklist": [
+    "Create a simple landing page with a clear CTA",
+    "Produce a short demo video of the platform",
+    "Conduct 10 interviews with target users for feedback",
+    "Provide early-access onboarding for first 10 users",
+    "Update community weekly on progress and features"
+  ],
+  "automation_simplification_ideas": [
+    "Save common inputs as templates for quick access",
+    "Set default reminders for tracking tasks",
+    "Enable CSV import for existing threat data",
+    "One-click export for generating reports",
+    "Streamline onboarding with fewer steps"
+  ]
+}
