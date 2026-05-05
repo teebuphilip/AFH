@@ -1,0 +1,6 @@
+→ Running: claude_created_1.0_generate_ideas.py
+❌ claude_created_1.0_generate_ideas.py failed:
+❌ generate_ideas.py failed:
+Command failed: /bin/bash claude_created_1.2_generate_claude_afh.sh prompts/afh_ideas_ops.txt
+jq: error (at <stdin>:1): null (null) only strings can be parsed
+
